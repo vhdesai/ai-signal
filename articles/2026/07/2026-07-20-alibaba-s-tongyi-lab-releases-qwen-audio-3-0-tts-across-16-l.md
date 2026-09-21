@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
+- 2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio
+- 2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30
-- 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 embedding_id: 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 event_name: ''
 ---
@@ -41,5 +41,5 @@ MarkTechPost reports that Alibaba's Tongyi Lab released Qwen-Audio-3.0-TTS, a ho
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]]
+**Related:** [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency]] · [[2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio]] · [[2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30]]
 <!-- graph:end -->

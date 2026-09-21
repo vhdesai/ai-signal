@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights
 - 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-weights-promi
 - 2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1
+- 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
-- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 embedding_id: 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Z.ai released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 se
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-weights-promi]] · [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
+**Related:** [[2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-weights-promi]] · [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1]] · [[2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two]]
 <!-- graph:end -->

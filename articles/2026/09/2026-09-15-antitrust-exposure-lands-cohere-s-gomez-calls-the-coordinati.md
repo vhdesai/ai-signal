@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
+- 2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
-- 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 embedding_id: 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Legal observers warn that pacing coordination among competitors could be read as
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-09-11-senators-from-both-parties-question-openai-over-the-hugging]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
+**Related:** [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]]
 <!-- graph:end -->

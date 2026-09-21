@@ -1,14 +1,25 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 375
+member_count: 386
 ---
 
 # xAI
 
-> Auto-generated entity hub. 375 connected article(s).
+> Auto-generated entity hub. 386 connected article(s).
 
+- `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
+- `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]
+- `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]
+- `2026-09-19` [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal|Class Action Alleges Anthropic, OpenAI, Google and xAI Illegally Coordinated an AI Slowdown]]
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode|xAI ships three GrokBot enterprise products; adds voice mode]]
 - `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-xai-releases-grok-voice-transcribe-2-0-for-lower-cost-speech|xAI releases Grok Voice Transcribe 2.0 for lower-cost speech-to-text]]
+- `2026-09-18` [[2026-09-18-xai-releases-grok-voice-transcribe-2-0|xAI Releases Grok Voice Transcribe 2.0]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-15` [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t|Nadella internal memo: pace the frontier or lose "permission to operate"]]
 - `2026-09-15` [[2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode|Musk proposes AI labs peer-review each other's frontier models]]

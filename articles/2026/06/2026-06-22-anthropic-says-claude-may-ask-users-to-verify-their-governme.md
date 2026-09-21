@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-- 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
+- 2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and
 embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A revised privacy policy (effective July 8) states Anthropic may request governm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]]
+**Related:** [[2026-04-16-anthropic-has-begun-requiring-government-id-verification-via]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and]]
 <!-- graph:end -->

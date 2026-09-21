@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
+- 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 - 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
-- 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
-- 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
+- 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
 embedding_id: 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ California Governor Gavin Newsom ordered state officials Thursday to begin devel
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]]
+**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr]] · [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl]] · [[2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc]]
 <!-- graph:end -->

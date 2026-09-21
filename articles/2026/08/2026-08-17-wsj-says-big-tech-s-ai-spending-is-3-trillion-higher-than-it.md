@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-09-can-ai-answer-the-3-trillion-question
+- 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 embedding_id: 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reported that Big Tech's AI spending exposure is substan
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
+**Related:** [[2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

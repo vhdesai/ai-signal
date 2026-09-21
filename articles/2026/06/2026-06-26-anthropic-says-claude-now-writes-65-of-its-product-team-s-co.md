@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 - 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
 embedding_id: 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 event_name: ''
@@ -38,5 +39,5 @@ Anthropic reports that about 65% of its product team's code is now AI-generated 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]]
+**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]]
 <!-- graph:end -->

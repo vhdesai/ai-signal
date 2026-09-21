@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
+- 2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 - 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers unveiled MIGHTY, an open-source path-planning system that rapidl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot]] · [[2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]]
 <!-- graph:end -->

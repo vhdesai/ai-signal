@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
+- 2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode
 - 2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-- 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 embedding_id: 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI is adding enterprise-grade access, network, and audit controls to Grok Bot, 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]]
+**Related:** [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode]] · [[2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]]
 <!-- graph:end -->

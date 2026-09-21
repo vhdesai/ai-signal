@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
+- 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
+- 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
 - 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
-- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-08-14-anthropic-reveals-model-2-a-successor-to-claude-mythos-5-in
-- 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 embedding_id: 2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's new risk report rates the risk of fully-automated AI research as “
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-08-14-anthropic-reveals-model-2-a-successor-to-claude-mythos-5-in]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
+**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]]
 <!-- graph:end -->

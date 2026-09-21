@@ -22,10 +22,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
-- 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
-- 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
-- 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 embedding_id: 2026-09-17-anthropic-publishes-three-internal-safety-metrics-including
 event_name: ''
 ---
@@ -39,5 +37,5 @@ Anthropic published three metrics — AI-led R&D, oversight of AI agents, and in
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]]
+**Related:** [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
 <!-- graph:end -->

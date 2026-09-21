@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
+- 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
-- 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 embedding_id: 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 event_name: ''
 ---
@@ -41,5 +41,5 @@ At Nvidia’s annual stockholder meeting, Jensen Huang said national security ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of]]
+**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is
+- 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
-- 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 embedding_id: 2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Center for AI Safety and Scale AI published updated Remote Labor Index resul
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
+**Related:** [[2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is]] · [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]]
 <!-- graph:end -->

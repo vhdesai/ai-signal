@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 20
+member_count: 23
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 20 connected article(s).
+> Auto-generated entity hub. 23 connected article(s).
 
+- `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
 - `2026-09-15` [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati|Antitrust exposure lands: Cohere's Gomez calls the coordination push "a cartel by another name"]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]

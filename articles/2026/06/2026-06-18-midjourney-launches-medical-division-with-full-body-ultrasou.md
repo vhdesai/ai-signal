@@ -18,7 +18,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 embedding_id: 2026-06-18-midjourney-launches-medical-division-with-full-body-ultrasou
 event_name: ''
 ---
@@ -31,4 +32,5 @@ Goal: complete internal scan in ~60 seconds for a few dollars. Current prototype
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]]
 <!-- graph:end -->

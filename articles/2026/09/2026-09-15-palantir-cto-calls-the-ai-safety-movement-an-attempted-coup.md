@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai
+- 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 - 2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom
 - 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
-- 2026-09-14-monday-september-14-2026
-- 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 embedding_id: 2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In an essay for The Free Press, Palantir CTO Shyam Sankar argued that effective 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]] · [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]]
+**Related:** [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]] · [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl]]
 <!-- graph:end -->

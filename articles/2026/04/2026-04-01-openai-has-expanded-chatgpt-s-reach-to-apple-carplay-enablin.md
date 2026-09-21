@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo
+- 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
 embedding_id: 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI has expanded ChatGPT's reach to Apple CarPlay, enabling hands-free conver
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]]
+**Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

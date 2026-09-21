@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed
 - 2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv
 - 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
-- 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
+- 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
 embedding_id: 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Perplexity’s engineering team published an account of the serving infrastructu
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed]] · [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv]] · [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]]
+**Related:** [[2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed]] · [[2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv]] · [[2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed]] · [[2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse]]
 <!-- graph:end -->

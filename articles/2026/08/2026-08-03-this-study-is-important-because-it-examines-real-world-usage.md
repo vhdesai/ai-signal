@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
+- 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
-- 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 embedding_id: 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 event_name: ''
 ---
@@ -36,5 +36,5 @@ This study is important because it examines real-world usage behavior at scale r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]]
+**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]]
 <!-- graph:end -->

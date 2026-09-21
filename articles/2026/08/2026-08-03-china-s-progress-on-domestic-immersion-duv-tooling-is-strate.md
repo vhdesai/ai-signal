@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
+- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
 event_name: ''
 ---
@@ -37,5 +37,5 @@ China’s progress on domestic immersion DUV tooling is strategically significan
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]]
 <!-- graph:end -->

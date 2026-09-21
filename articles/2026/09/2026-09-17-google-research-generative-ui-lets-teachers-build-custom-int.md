@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
+- 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
 - 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
-- 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 embedding_id: 2026-09-17-google-research-generative-ui-lets-teachers-build-custom-int
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research published a research experiment that lets educators generate cus
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]]
+**Related:** [[2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t]] · [[2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai]]
 <!-- graph:end -->

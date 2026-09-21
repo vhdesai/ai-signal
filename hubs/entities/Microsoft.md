@@ -1,17 +1,30 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 875
+member_count: 888
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 875 connected article(s).
+> Auto-generated entity hub. 888 connected article(s).
 
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t|Microsoft's StudentSim: realistic simulated learners let AI tutors train faster and beat GPT-5.4]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode|xAI ships three GrokBot enterprise products; adds voice mode]]
 - `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and|Unsealed filings in the NYT case put internal Microsoft and OpenAI language on the record]]
+- `2026-09-18` [[2026-09-18-unsealed-filings-show-microsoft-and-openai-staff-privately-c|Unsealed Filings Show Microsoft and OpenAI Staff Privately Called AI Scraping “Theft”]]
+- `2026-09-18` [[2026-09-18-unsealed-filings-put-microsoft-and-openai-internal-warnings|Unsealed Filings Put Microsoft and OpenAI Internal Warnings on the Record]]
+- `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s|Researchers used Claude Opus 5 to breach OpenAI, exfiltrate source code, collect $6,500 bounty]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing|Nvidia-backed Nscale files for a New York listing, revealing $103B in contracts against $141M of first-half revenue]]
+- `2026-09-18` [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m|Nscale Files for NYSE Listing on $103B of Contracts and $141M of First-Half Revenue]]
+- `2026-09-18` [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m|Nscale Files for NYSE Listing on $103B of Contracts and $140M of Revenue]]
 - `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u|Microsoft patches CVSS 10.0 Azure AI Foundry flaw enabling unauthorized privilege escalation]]
-- `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
+- `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw|Microsoft patches CVSS 10.0 Azure AI Foundry flaw]]
+- `2026-09-18` [[2026-09-18-internal-microsoft-and-openai-emails-call-ai-training-astoni|Internal Microsoft and OpenAI emails call AI training "astonishing theft" — fair-use defense weakens]]
 - `2026-09-17` [[2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat|Unsealed filings show Microsoft and OpenAI executives privately called AI scraping "theft"]]
+- `2026-09-17` [[2026-09-17-unsealed-nyt-filings-show-microsoft-and-openai-executives-pr|Unsealed NYT Filings Show Microsoft and OpenAI Executives Privately Questioned AI Scraping]]
 - `2026-09-17` [[2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai|Researchers used Anthropic's Claude Opus 5 to breach OpenAI's internal environment, exfiltrate source code, and collect a $6,500 bounty]]
 - `2026-09-17` [[2026-09-17-microsoft-publishes-frontier-playbook-proprietary-process-da|Microsoft publishes Frontier Playbook: proprietary process data, not models, is the durable enterprise moat]]
 - `2026-09-17` [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for|Microsoft open-sources TauGrid, a Kubernetes-native stack for GPU AI workloads]]

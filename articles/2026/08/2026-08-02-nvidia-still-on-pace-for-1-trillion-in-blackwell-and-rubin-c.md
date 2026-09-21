@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 - 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 - 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
-- 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
 embedding_id: 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis of Jensen Huang's guidance suggests at least $1 trillion in cumulative 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr]] · [[2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch]]
+**Related:** [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]] · [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through]]
 <!-- graph:end -->

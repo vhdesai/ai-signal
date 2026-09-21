@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
+- 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
-- 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 embedding_id: 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI has acquired Weights.gg, a small startup (~6 people) known for enabling c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]]
+**Related:** [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]]
 <!-- graph:end -->

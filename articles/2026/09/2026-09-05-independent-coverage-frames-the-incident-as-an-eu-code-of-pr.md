@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a
+- 2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor
 - 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
-- 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 embedding_id: 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Follow-on reporting placed OpenAI's disclosure commitment against the EU's gener
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]]
+**Related:** [[2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework]] · [[2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a]] · [[2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
 <!-- graph:end -->

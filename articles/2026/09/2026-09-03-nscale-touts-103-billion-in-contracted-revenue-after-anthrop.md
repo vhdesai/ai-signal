@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
+- 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b
 embedding_id: 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
@@ -40,5 +41,5 @@ The Information reported that Nscale is telling prospective investors it has abo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b]]
+**Related:** [[2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d]] · [[2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b]]
 <!-- graph:end -->

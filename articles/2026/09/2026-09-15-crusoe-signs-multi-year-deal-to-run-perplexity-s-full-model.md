@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc
-- 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
+- 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
 embedding_id: 2026-09-15-crusoe-signs-multi-year-deal-to-run-perplexity-s-full-model
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Crusoe announced a multi-year partnership under which Perplexity will train fron
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]]
+**Related:** [[2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local]] · [[2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]] · [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall]]
 <!-- graph:end -->

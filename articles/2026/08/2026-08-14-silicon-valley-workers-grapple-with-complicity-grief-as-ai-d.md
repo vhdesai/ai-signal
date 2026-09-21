@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for
 embedding_id: 2026-08-14-silicon-valley-workers-grapple-with-complicity-grief-as-ai-d
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A combination of layoffs, AI advancement, and massive paydays has Silicon Valley
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for]]
+**Related:** [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

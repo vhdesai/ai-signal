@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
+- 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
+- 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
 - 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
-- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 embedding_id: 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published the first results of a prototype R&D Automation Index, repor
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]]
+**Related:** [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]] · [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 210
+member_count: 211
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 210 connected article(s).
+> Auto-generated entity hub. 211 connected article(s).
 
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-16` [[2026-09-16-mistral-becomes-the-default-ai-provider-for-firefox-s-smart|Mistral becomes the default AI provider for Firefox's Smart Window]]
 - `2026-09-13` [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom|What's Behind the AI Industry's Latest Warnings of Doom?]]
 - `2026-09-13` [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude|Anthropic Begins Enforcing an 18+ Age Requirement on Claude]]

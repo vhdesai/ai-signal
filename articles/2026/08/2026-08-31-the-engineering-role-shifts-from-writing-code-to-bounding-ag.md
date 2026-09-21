@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
+- 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 embedding_id: 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
 event_name: ''
 ---
@@ -36,5 +36,5 @@ As coding agents absorb implementation work, the differentiating engineering ski
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]]
 <!-- graph:end -->

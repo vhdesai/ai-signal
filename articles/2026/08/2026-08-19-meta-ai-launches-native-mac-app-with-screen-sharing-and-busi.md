@@ -24,8 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
+- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
+- 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
-- 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
+- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 embedding_id: 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 event_name: ''
 ---
@@ -39,5 +41,5 @@ Meta released a native macOS application for Meta AI, adding window and screen s
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
+**Related:** [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
 <!-- graph:end -->

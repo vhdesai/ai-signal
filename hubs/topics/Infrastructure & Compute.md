@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1913
+member_count: 1923
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1913 connected article(s).
+> Auto-generated topic hub. 1923 connected article(s).
 
+- `2026-09-20` [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal|Big Tech uses guarantees to keep $300B of AI exposure off balance sheets]]
+- `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
+- `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
+- `2026-09-19` [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib|TypeSafe AI’s Jev gains attention as a model for typed, calibrated decisions]]
+- `2026-09-19` [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp|Trump floats a federal AI czar and an “AI Force” modeled on Space Force]]
+- `2026-09-19` [[2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf|Clivet debuts magnetic-levitation cooling platform at AI Infra Summit as rack densities climb]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo|Nvidia-Backed Nscale Discloses 1,252% Revenue Surge in US IPO Filing]]
+- `2026-09-18` [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global|Nvidia Signals a ~$100B Gap Between AI Chip Demand and Global Production Capacity]]
+- `2026-09-18` [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year|Huang Expects Nvidia to Ship Twice as Many Chips Next Year]]
+- `2026-09-18` [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall|Crusoe Closes $3.9B Series F at $30.9B Valuation for Vertically Integrated AI Infrastructure]]
 - `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
 - `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
 - `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]

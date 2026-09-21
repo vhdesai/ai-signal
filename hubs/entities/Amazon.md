@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 578
+member_count: 584
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 578 connected article(s).
+> Auto-generated entity hub. 584 connected article(s).
 
+- `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-20` [[2026-09-20-aws-publishes-notiops-reference-architecture-for-read-only-a|AWS publishes NotiOps reference architecture for read-only agentic AWS operations]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-18` [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination|Google reframes CC as an AI agent for household coordination]]
 - `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
 - `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
 - `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]

@@ -1,15 +1,52 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1122
+member_count: 1159
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1122 connected article(s).
+> Auto-generated topic hub. 1159 connected article(s).
 
+- `2026-09-20` [[2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da|Oura targets $16B IPO valuation as investors bet on health-data platforms, not devices]]
+- `2026-09-20` [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t|Anthropic reportedly pushes IPO from October to November; $2T valuation and $100B raise on the table]]
+- `2026-09-20` [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str|Anthropic reportedly delays IPO to November to present a stronger Q3]]
+- `2026-09-20` [[2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem|Anthropic Reportedly Postpones Its IPO From October to November]]
+- `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-19` [[2026-09-19-vals-raises-40m-to-become-the-independent-standard-for-ai-be|Vals Raises $40M to Become the Independent Standard for AI Benchmarking]]
+- `2026-09-19` [[2026-09-19-pitchbook-ai-s-safety-slowdown-spooks-the-market-and-slows-i|PitchBook: AI's safety slowdown spooks the market and slows IPOs, but hands incumbents more room]]
+- `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and|Chinese State-TV-Affiliated Account Flags Anthropic Data and Privacy Risks]]
+- `2026-09-19` [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute|Anthropic considers releasing a new model ahead of IPO, Reuters reports]]
+- `2026-09-19` [[2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6|Anthropic Weighing a Pre-IPO Model Release to Counter GPT-6 Astra]]
+- `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
+- `2026-09-18` [[2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and|Unsealed filings in the NYT case put internal Microsoft and OpenAI language on the record]]
+- `2026-09-18` [[2026-09-18-rhodium-top-chinese-ai-models-generate-10-of-openai-anthropi|Rhodium: top Chinese AI models generate ~10% of OpenAI + Anthropic revenue despite comparable valuations]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur|Nvidia-backed Nscale files for U.S. IPO amid AI infrastructure buildout]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo|Nvidia-Backed Nscale Discloses 1,252% Revenue Surge in US IPO Filing]]
+- `2026-09-18` [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m|Nscale Files for NYSE Listing on $103B of Contracts and $141M of First-Half Revenue]]
+- `2026-09-18` [[2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep|Manus targets $500M raise at $4B valuation as it resumes independent ops after Meta merger fell through]]
+- `2026-09-18` [[2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent|Manus Seeks $500M at a $4B Valuation as It Resumes Independent Operations]]
+- `2026-09-18` [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027|Jensen Huang: Nvidia chip sales to double in 2027]]
+- `2026-09-18` [[2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203|FT: OpenAI forecasts ~$280B in cumulative cash burn through 2030]]
+- `2026-09-18` [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip|Exclusive: Anthropic Weighs a New Model Release Before the IPO]]
+- `2026-09-18` [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall|Crusoe Closes $3.9B Series F at $30.9B Valuation for Vertically Integrated AI Infrastructure]]
+- `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]
+- `2026-09-18` [[2026-09-18-anthropic-s-annualized-revenue-reportedly-passes-100b-ahead|Anthropic's Annualized Revenue Reportedly Passes $100B Ahead of November IPO]]
+- `2026-09-18` [[2026-09-18-anthropic-s-annualized-revenue-passes-100b-ahead-of-a-novemb|Anthropic's Annualized Revenue Passes $100B Ahead of a November IPO]]
+- `2026-09-18` [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it|Anthropic weighs an early frontier model release ahead of its IPO]]
+- `2026-09-18` [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt|Anthropic weighs a new frontier model before its IPO as GPT-6 Astra takes the enterprise lead]]
+- `2026-09-18` [[2026-09-18-anthropic-considers-a-pre-ipo-model-release-wall-street-on-e|Anthropic considers a pre-IPO model release; Wall Street on edge over waiting game]]
+- `2026-09-18` [[2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after|Anthropic Weighs a New Model to Blunt GPT-6 Astra — Days After Calling for a Slowdown]]
+- `2026-09-18` [[2026-09-18-anthropic-targets-a-november-ipo-as-revenue-surges|Anthropic Targets a November IPO as Revenue Surges]]
+- `2026-09-18` [[2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate|Anthropic Shifts Planned IPO to November as Revenue Run-Rate Heads Past $100B]]
+- `2026-09-18` [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste|"An Empirical Study of Harness Design for Coding Agents" Posted to arXiv]]
 - `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
+- `2026-09-17` [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi|EU KIDS Act Would Switch AI Companions Off by Default for Minors]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ|Crusoe Raises $3.9B at a $30.9B Valuation for Vertically Integrated AI Factories]]
 - `2026-09-17` [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in|Anthropic: Claude is taking an "extraordinarily active" role in building its own successor]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill|OpenAI in early talks for a new funding round at a ~$1.2 trillion valuation]]
 - `2026-09-16` [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat|OpenAI in early talks for a new funding round at $1.2T valuation]]

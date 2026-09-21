@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 61
+member_count: 62
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 61 connected article(s).
+> Auto-generated entity hub. 62 connected article(s).
 
+- `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]
 - `2026-09-10` [[2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n|TSMC August revenue up 53.3% to a record NT$514.8B; advanced nodes fully booked]]
 - `2026-08-24` [[2026-08-24-d-matrix-details-raptor-3d-dram-accelerator-at-hot-chips-202|d-Matrix Details Raptor 3D-DRAM Accelerator at Hot Chips 2026: 100 TB/s at a Fraction of HBM Energy]]
 - `2026-08-24` [[2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi|Xiaomi launches 3nm Xring O3 SoC and a 6nm NPU to run its MiMo LLM on-device]]

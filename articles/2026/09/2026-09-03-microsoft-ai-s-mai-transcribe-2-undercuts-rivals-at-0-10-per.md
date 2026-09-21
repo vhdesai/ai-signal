@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
-- 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
+- 2026-09-18-xai-releases-grok-voice-transcribe-2-0
 embedding_id: 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft AI launched MAI-Transcribe-2, a speech-recognition model priced at 10 
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-03-microsoft-prices-speech-to-text-at-0-10-per-hour-with-mai-tr]] · [[2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]]
+**Related:** [[2026-09-03-microsoft-prices-speech-to-text-at-0-10-per-hour-with-mai-tr]] · [[2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-09-18-xai-releases-grok-voice-transcribe-2-0]]
 <!-- graph:end -->

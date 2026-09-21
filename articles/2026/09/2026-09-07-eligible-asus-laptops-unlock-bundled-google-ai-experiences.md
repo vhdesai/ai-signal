@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
-- 2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap
 embedding_id: 2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences
 event_name: ''
 ---
@@ -37,5 +37,5 @@ BusinessMirror reported that ASUS Philippines and Google are bundling three mont
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap]]
+**Related:** [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]]
 <!-- graph:end -->

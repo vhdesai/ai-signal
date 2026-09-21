@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 - 2026-05-01-newxai-releases-grok-4-3
+- 2026-09-18-xai-releases-grok-voice-transcribe-2-0
 embedding_id: 2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning
 event_name: ''
 ---
@@ -35,5 +36,5 @@ xAI shipped Grok 4.3, headlined by voice cloning that completes in under two min
 ## Connections
 
 **Entities:** [[Mistral]] · [[xAI]]
-**Related:** [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-01-newxai-releases-grok-4-3]]
+**Related:** [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-09-18-xai-releases-grok-voice-transcribe-2-0]]
 <!-- graph:end -->

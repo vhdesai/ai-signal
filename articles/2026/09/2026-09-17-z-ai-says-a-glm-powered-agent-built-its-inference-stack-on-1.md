@@ -19,13 +19,9 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
-- 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
-- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
-- 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
+dedupe_status: duplicate
+canonical_article_id: 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
+related_article_ids: []
 embedding_id: 2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1
 event_name: ''
 ---
@@ -39,5 +35,5 @@ Z.ai published a technical account describing how an "Infra Agent" powered by GL
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]]
+**Canonical:** [[2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0]]
 <!-- graph:end -->

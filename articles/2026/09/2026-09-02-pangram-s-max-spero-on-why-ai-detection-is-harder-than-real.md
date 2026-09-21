@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
+- 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 - 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-08-01-ai-and-the-blurring-of-reality
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
 event_name: ''
 ---
@@ -35,5 +36,5 @@ TechCrunch covered Pangram’s view that AI-generated-content detection is more 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
+- 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
-- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 embedding_id: 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A technical breakdown of an open-source coding-agent course maps three distinct 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
+**Related:** [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag]]
 <!-- graph:end -->

@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 165
+member_count: 170
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 165 connected article(s).
+> Auto-generated entity hub. 170 connected article(s).
 
+- `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
+- `2026-09-20` [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f|Axios: Trump reportedly weighing an "AI Force" branch and new federal AI czar]]
+- `2026-09-20` [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi|Axios reports the Trump administration is considering standing up an "AI Force" modeled on Space Force, plus a new AI czar to coordinate frontier-AI policy across the federal government. The proposal joins Sen. Ossoff's federal-inspector proposal and the pending Senate bill giving Washington authority to block AI models. Together with today's Palantir/Iran-strike Gizmodo report and the pacing-collusion lawsuit, Sunday's cycle marks the day AI governance shifted decisively from lab-internal to formal federal-policy territory.]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027|Jensen Huang: Nvidia chip sales to double in 2027]]
 - `2026-09-15` [[2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup|Palantir CTO calls the AI safety movement "an attempted coup"]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-and-openai|NVIDIA, Palantir, and Booz Allen Restrict Anthropic and OpenAI Model Use Over Data Fears]]
 - `2026-09-14` [[2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use|NVIDIA, Palantir, and Booz Allen Restrict Anthropic Model Use Over Data Fears]]

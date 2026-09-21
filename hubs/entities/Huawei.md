@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 205
+member_count: 211
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 205 connected article(s).
+> Auto-generated entity hub. 211 connected article(s).
 
+- `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
+- `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n|Chinese researchers report progress on sub-3nm chips using non-EUV lithography]]
+- `2026-09-18` [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves|Huawei rotating chair: majority of Chinese AI training moves to Ascend SuperPod/SuperCluster in 2027]]
 - `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
 - `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
 - `2026-09-17` [[2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by|Huawei forecasts agents will drive over 90% of AI traffic by 2035]]

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
+- 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-- 2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending
 embedding_id: 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports on the internal dynamics behind Washington's shift back toward AI 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending]]
+**Related:** [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight]] · [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
 <!-- graph:end -->

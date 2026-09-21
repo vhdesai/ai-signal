@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
+- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 - 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
-- 2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de
 embedding_id: 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reported that China's Shanghai Yuliangsheng has begun mass produ
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]] · [[2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de]]
+**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]]
 <!-- graph:end -->

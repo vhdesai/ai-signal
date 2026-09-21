@@ -18,7 +18,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l
+canonical_article_id: 2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s
 related_article_ids: []
 embedding_id: 2026-09-17-openai-ships-astra-for-law-a-gpt-6-configuration-for-legal-w
 event_name: ''
@@ -33,5 +33,5 @@ Astra for Law is not a new model: OpenAI wrapped GPT-6 Astra in a legal search i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l]]
+**Canonical:** [[2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s]]
 <!-- graph:end -->

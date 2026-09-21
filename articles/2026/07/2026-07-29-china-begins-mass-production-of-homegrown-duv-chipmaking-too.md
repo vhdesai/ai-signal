@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 - 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
+- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 embedding_id: 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Shanghai-based state-backed company has begun manufacturing immersion deep ult
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
+**Related:** [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]] · [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]]
 <!-- graph:end -->

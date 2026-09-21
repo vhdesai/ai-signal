@@ -1,20 +1,48 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1456
+member_count: 1484
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1456 connected article(s).
+> Auto-generated entity hub. 1484 connected article(s).
 
+- `2026-09-20` [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g|Runway Details Real-Time, Steerable Video Generation on Its GWM-1 World Model]]
+- `2026-09-20` [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an|Jensen Huang puts the odds of AI catastrophe by 2030 at "0%" and rejects a slowdown]]
+- `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
+- `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
+- `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
+- `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]
+- `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]
+- `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
+- `2026-09-19` [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can|Nvidia's Jensen Huang Rejects the Slowdown: "As Fast As We Can," Puts 2030 Catastrophe Odds at 0%]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]
+- `2026-09-18` [[2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning|Salesforce and Nvidia Unveil Koa, a Domain-Specific Reasoning Model for Agentforce]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing|Nvidia-backed Nscale files for a New York listing, revealing $103B in contracts against $141M of first-half revenue]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur|Nvidia-backed Nscale files for U.S. IPO amid AI infrastructure buildout]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo|Nvidia-Backed Nscale Discloses 1,252% Revenue Surge in US IPO Filing]]
+- `2026-09-18` [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can|Nvidia's Jensen Huang Rejects the Slowdown: “As Fast As We Can”]]
+- `2026-09-18` [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global|Nvidia Signals a ~$100B Gap Between AI Chip Demand and Global Production Capacity]]
 - `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027|Jensen Huang: Nvidia chip sales to double in 2027]]
+- `2026-09-18` [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves|Huawei rotating chair: majority of Chinese AI training moves to Ascend SuperPod/SuperCluster in 2027]]
+- `2026-09-18` [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year|Huang Expects Nvidia to Ship Twice as Many Chips Next Year]]
+- `2026-09-18` [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall|Crusoe Closes $3.9B Series F at $30.9B Valuation for Vertically Integrated AI Infrastructure]]
+- `2026-09-18` [[2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar|AWS ships SageMaker HyperPod Inference Gateway with GPU-aware routing]]
 - `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
+- `2026-09-17` [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next|Jensen Huang Says Nvidia Will Sell Twice as Many Chips Next Year]]
 - `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]
 - `2026-09-17` [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1|Huawei details full Ascend roadmap; Ascend 960DT pulled to Q1 2027, Atlas 960 SuperPoD unveiled]]
 - `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al|Google, Nvidia, and Anthropic co-found AI Energy Management Alliance with utilities]]
 - `2026-09-17` [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la|Crux AI lines up ~$22B in TPU-collateralized bank financing — largest AI-silicon debt package yet]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ|Crusoe Raises $3.9B at a $30.9B Valuation for Vertically Integrated AI Factories]]
 - `2026-09-17` [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia|Apple explores return to server market with M8 Ultra + Nvidia NVLink Fusion, targeting 2029]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]

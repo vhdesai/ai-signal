@@ -5,8 +5,8 @@ title: Protesters gather outside OpenAI and Anthropic San Francisco offices over
 date: '2026-09-18'
 source: Yahoo News*
 url_original: null
-url_canonical: https://uk.news.yahoo.com/protesters-target-openai-anthropic-san-070257304.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: ea572c636133569f86927ec81723d87eb482ce553aecb44ad2afc4ec49edafa4
 normalized_title_hash: 5428d0bada3e83f3

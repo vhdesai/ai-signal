@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
+- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
+- 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
-- 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 embedding_id: 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Axios analyzed the same-day Fable 5.1 and Astra announcements as evidence of a s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]]
+**Related:** [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]]
 <!-- graph:end -->

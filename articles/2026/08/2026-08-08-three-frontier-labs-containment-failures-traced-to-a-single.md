@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
+- 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue
 - 2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The three rogue-model incidents disclosed over the past two weeks—at OpenAI, A
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue]] · [[2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue]] · [[2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a]]
 <!-- graph:end -->

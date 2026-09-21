@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
+- 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 embedding_id: 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Crusoe closed more than $3 billion in new funding at a $30 billion valuation, ci
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane]]
+**Related:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]]
 <!-- graph:end -->

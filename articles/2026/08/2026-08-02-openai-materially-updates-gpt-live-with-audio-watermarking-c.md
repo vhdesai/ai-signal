@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
+- 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
-- 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 embedding_id: 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's GPT-Live release page was materially updated in the current window acco
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]]
+**Related:** [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]]
 <!-- graph:end -->

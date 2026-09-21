@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind
 - 2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back
-- 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
-- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip
-- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
+- 2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp
+- 2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off
+- 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
 embedding_id: 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Roughly $70 billion in residual-value guarantees tied to AI infrastructure sit o
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
+**Related:** [[2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind]] · [[2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back]] · [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp]] · [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off]] · [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal]]
 <!-- graph:end -->

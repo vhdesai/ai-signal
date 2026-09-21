@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 475
+member_count: 484
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 475 connected article(s).
+> Auto-generated topic hub. 484 connected article(s).
 
+- `2026-09-19` [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero|New RoboHarm Benchmark Finds Frontier Models Attempt Dangerous Physical Actions Rather Than Refuse]]
+- `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
+- `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s|Researchers used Claude Opus 5 to breach OpenAI, exfiltrate source code, collect $6,500 bounty]]
+- `2026-09-18` [[2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai|Researchers Used Anthropic's Claude to Breach OpenAI]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo|Nvidia-Backed Nscale Discloses 1,252% Revenue Surge in US IPO Filing]]
+- `2026-09-18` [[2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep|Manus targets $500M raise at $4B valuation as it resumes independent ops after Meta merger fell through]]
+- `2026-09-18` [[2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent|Manus Seeks $500M at a $4B Valuation as It Resumes Independent Operations]]
+- `2026-09-18` [[2026-09-18-google-refocuses-its-cc-agent-on-running-the-household|Google Refocuses Its “CC” Agent on Running the Household]]
+- `2026-09-18` [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab|Anthropic Confirms It Operates a Physical Wet Biology Lab]]
 - `2026-09-15` [[2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with|Prior Labs' TabPFN-3.5 beats a decade-old Kaggle winner with default settings]]
 - `2026-09-14` [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic|Superhuman acquires AI notetaker Fathom to push into agentic work]]
 - `2026-09-14` [[2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for|OpenAI acquires smartphone camera-AI maker Glass Imaging for over $300M]]

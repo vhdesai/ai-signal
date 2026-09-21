@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
+- 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
 embedding_id: 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nvidia faces a strategic tension: it wants customers to buy newest-generation ch
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
+**Related:** [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]] · [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global]]
 <!-- graph:end -->

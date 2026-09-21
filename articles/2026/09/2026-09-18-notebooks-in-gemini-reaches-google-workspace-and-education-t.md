@@ -4,8 +4,8 @@ title: Notebooks in Gemini reaches Google Workspace and Education tenants
 date: '2026-09-18'
 source: Android Authority*
 url_original: null
-url_canonical: https://www.androidauthority.com/google-workspace-education-notebooks-in-gemini-3712441/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: 396b7f176853ab3fcbef707c5f20ec7e7020055568b30de48691cd6af7dcd817
 normalized_title_hash: 0d4915416163a6d1

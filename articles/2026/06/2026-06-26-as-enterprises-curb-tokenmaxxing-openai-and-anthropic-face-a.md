@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
+- 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
+- 2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 embedding_id: 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Enterprises are beginning to throttle once-unconstrained AI spend, with companie
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]]
+**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
 <!-- graph:end -->

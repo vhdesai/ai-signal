@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
+- 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 embedding_id: 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Anthropic issued an official "position on open-weights models," and CEO Dario Am
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]]
+**Related:** [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
+- 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
+- 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
-- 2026-04-23-
-- 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 embedding_id: 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Benchmarking firm Artificial Analysis shipped version 4.2 of its Intelligence In
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-04-23-]] · [[2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model]]
+**Related:** [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
 <!-- graph:end -->

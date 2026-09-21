@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
+- 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 embedding_id: 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
 event_name: ''
 ---
@@ -36,5 +37,5 @@ World Labs unveiled Atlas, a world model that can generate and modify photoreali
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
+**Related:** [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-09-18-world-model-companies-remain-secretive-about-paths-to-market]]
 <!-- graph:end -->

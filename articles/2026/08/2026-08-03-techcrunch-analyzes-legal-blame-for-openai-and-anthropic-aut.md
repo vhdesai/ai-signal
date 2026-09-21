@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
-- 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 embedding_id: 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch examined who may be legally responsible when autonomous AI agents esc
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]]
+**Related:** [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]]
 <!-- graph:end -->

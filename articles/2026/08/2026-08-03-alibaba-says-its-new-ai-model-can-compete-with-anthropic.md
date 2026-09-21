@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-alibaba-says-its-new-ai-model-ranks-just-behind-anthropic-s
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
+- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
-- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 embedding_id: 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Yahoo Finance reported that Alibaba said its new AI model can go toe-to-toe with
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-alibaba-says-its-new-ai-model-ranks-just-behind-anthropic-s]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]]
+**Related:** [[2026-07-20-alibaba-says-its-new-ai-model-ranks-just-behind-anthropic-s]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]]
 <!-- graph:end -->

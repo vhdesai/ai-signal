@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
+- 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
+- 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 embedding_id: 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ During his COMPUTEX keynote, Nvidia CEO Jensen Huang singled out Marvell Technol
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]]
 <!-- graph:end -->

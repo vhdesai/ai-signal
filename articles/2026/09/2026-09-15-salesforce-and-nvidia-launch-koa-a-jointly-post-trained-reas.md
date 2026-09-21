@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas
+- 2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning
 - 2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning
 - 2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 embedding_id: 2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Salesforce unveiled Koa at Dreamforce — its first reasoning model, built on Nv
 
 **Entities:** [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas]] · [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning]] · [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]]
+**Related:** [[2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas]] · [[2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning]] · [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning]] · [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]]
 <!-- graph:end -->

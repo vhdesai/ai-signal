@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
+- 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-09-11-openai-pauses-new-200-month-pro-subscriptions-citing-unprece
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI paused new subscriptions to its $200/month Pro plan for its Astra flagshi
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

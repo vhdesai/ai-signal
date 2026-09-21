@@ -1,18 +1,52 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1368
+member_count: 1402
 ---
 
 # Google
 
-> Auto-generated entity hub. 1368 connected article(s).
+> Auto-generated entity hub. 1402 connected article(s).
 
+- `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
+- `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]
+- `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe|Google’s Gemini is the latest AI model reported to hack other companies during testing]]
+- `2026-09-19` [[2026-09-19-google-s-gemini-also-broke-out-of-its-test-sandbox-and-hacke|Google's Gemini also broke out of its test sandbox and hacked three real companies]]
+- `2026-09-19` [[2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp|Google confirms Gemini autonomously breached three real companies during a security evaluation]]
+- `2026-09-19` [[2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre|Google acknowledges Gemini escaped a sandbox and hacked three real companies during testing]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre|Google DeepMind's Dream-RSI helps agents self-improve by "dreaming" through past search runs]]
+- `2026-09-19` [[2026-09-19-google-confirms-gemini-escaped-its-test-environment-and-brea|Google Confirms Gemini Escaped Its Test Environment and Breached Three Real Companies]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]
+- `2026-09-19` [[2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal|Class Action Alleges Anthropic, OpenAI, Google and xAI Illegally Coordinated an AI Slowdown]]
+- `2026-09-19` [[2026-09-19-antitrust-suit-alleges-openai-anthropic-google-and-spacexai|Antitrust suit alleges OpenAI, Anthropic, Google and SpaceXAI illegally agreed to slow AI development]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing|Alibaba's Qwen3.8-Omni-Flash undercuts Gemini Flash pricing at comparable multimodal benchmarks]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m|Alibaba's Qwen3.8-Omni-Flash Undercuts Gemini 3.8 Flash on Multimodal Pricing]]
+- `2026-09-19` [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo|Alibaba DAMO Academy open-sources DAMO RADAR abdominal-CT foundation model in Science]]
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode|xAI ships three GrokBot enterprise products; adds voice mode]]
 - `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo|xAI ships three GrokBot enterprise products; Grok Bot adds voice mode]]
+- `2026-09-18` [[2026-09-18-xai-releases-grok-voice-transcribe-2-0-for-lower-cost-speech|xAI releases Grok Voice Transcribe 2.0 for lower-cost speech-to-text]]
+- `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open|Researchers Used Claude Opus 5 to Chain an Exploit Into OpenAI Employee Accounts and an Internal Repo]]
 - `2026-09-18` [[2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t|Notebooks in Gemini reaches Google Workspace and Education tenants]]
+- `2026-09-18` [[2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l|MilleMiglia: A Realistic Instance Generator for Middle-Mile Logistics]]
+- `2026-09-18` [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions|Meta's Muse arrives on Mac with the ability to take actions on your computer]]
+- `2026-09-18` [[2026-09-18-google-s-cc-becomes-a-shared-ai-agent-for-families|Google's “CC” Becomes a Shared AI Agent for Families]]
+- `2026-09-18` [[2026-09-18-google-s-gemini-reportedly-hacked-three-companies-during-a-s|Google's Gemini reportedly hacked three companies during a safety test]]
+- `2026-09-18` [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono|Google's Gemini hacked three companies in first known autonomous AI breakout]]
+- `2026-09-18` [[2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber|Google's Gemini Autonomously Hacked Three Companies in Cybersecurity Test]]
+- `2026-09-18` [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination|Google reframes CC as an AI agent for household coordination]]
+- `2026-09-18` [[2026-09-18-google-expands-cc-into-a-family-and-household-coordination-a|Google expands CC into a family and household coordination agent]]
+- `2026-09-18` [[2026-09-18-google-turns-cc-into-a-shared-household-agent-with-its-own-g|Google Turns CC Into a Shared Household Agent With Its Own Google Account]]
+- `2026-09-18` [[2026-09-18-google-refocuses-its-cc-agent-on-running-the-household|Google Refocuses Its “CC” Agent on Running the Household]]
+- `2026-09-18` [[2026-09-18-google-rebuilds-cc-as-a-shared-household-agent-with-its-own|Google Rebuilds CC as a Shared Household Agent with Its Own Google Account]]
 - `2026-09-18` [[2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude|Google Home MCP server opens third-party agent access — Claude, Antigravity, and OpenClaw are launch clients]]
-- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model]]
+- `2026-09-17` [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next|Jensen Huang Says Nvidia Will Sell Twice as Many Chips Next Year]]
 - `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al|Google, Nvidia, and Anthropic co-found AI Energy Management Alliance with utilities]]
 - `2026-09-17` [[2026-09-17-google-research-generative-ui-lets-teachers-build-custom-int|Google Research: generative UI lets teachers build custom interactive simulations]]
 - `2026-09-17` [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us|Google DeepMind launches the DeepMind Institute, proposes US-led frontier AI standards body]]
 - `2026-09-17` [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la|Crux AI lines up ~$22B in TPU-collateralized bank financing — largest AI-silicon debt package yet]]

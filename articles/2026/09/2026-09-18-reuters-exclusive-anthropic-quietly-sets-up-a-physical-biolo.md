@@ -5,8 +5,8 @@ title: 'Reuters exclusive: Anthropic quietly sets up a physical biology lab as i
 date: '2026-09-18'
 source: Reuters (via CNBC)*
 url_original: null
-url_canonical: https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: 2b07ee4669375c81067b85f2949fddf500fee402ed7c639500ac02873a8959ee
 normalized_title_hash: 58b7aa6db37c04b1

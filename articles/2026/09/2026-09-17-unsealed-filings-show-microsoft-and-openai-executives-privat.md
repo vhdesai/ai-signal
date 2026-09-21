@@ -23,7 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
+- 2026-09-18-unsealed-filings-put-microsoft-and-openai-internal-warnings
+- 2026-09-17-unsealed-nyt-filings-show-microsoft-and-openai-executives-pr
+- 2026-09-18-unsealed-filings-show-microsoft-and-openai-staff-privately-c
+- 2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and
+- 2026-09-18-internal-microsoft-and-openai-emails-call-ai-training-astoni
 embedding_id: 2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat
 event_name: ''
 ---
@@ -37,5 +41,5 @@ A newly unsealed summary-judgment brief in the publishers' copyright suit quotes
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
+**Related:** [[2026-09-18-unsealed-filings-put-microsoft-and-openai-internal-warnings]] · [[2026-09-17-unsealed-nyt-filings-show-microsoft-and-openai-executives-pr]] · [[2026-09-18-unsealed-filings-show-microsoft-and-openai-staff-privately-c]] · [[2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and]] · [[2026-09-18-internal-microsoft-and-openai-emails-call-ai-training-astoni]]
 <!-- graph:end -->

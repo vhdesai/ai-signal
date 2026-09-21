@@ -24,7 +24,7 @@ canonical_article_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-b
 related_article_ids:
 - 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
 - 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
-- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business-platf
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple approved Poke as the first AI agent on its Messages for Business platform,
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]]
-**Related:** [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]]
 <!-- graph:end -->

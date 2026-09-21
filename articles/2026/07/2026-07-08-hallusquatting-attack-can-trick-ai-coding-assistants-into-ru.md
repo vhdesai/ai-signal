@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
+- 2026-09-18-ai-hallucination-nearly-triggers-u-s-military-operation-tech
+- 2026-09-18-ai-hallucination-nearly-triggered-a-us-military-operation
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
-- 2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch
 embedding_id: 2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Researchers detailed HalluSquatting: identifying the fake package or tool names 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]] · [[2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch]]
+**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-09-18-ai-hallucination-nearly-triggers-u-s-military-operation-tech]] · [[2026-09-18-ai-hallucination-nearly-triggered-a-us-military-operation]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]]
 <!-- graph:end -->

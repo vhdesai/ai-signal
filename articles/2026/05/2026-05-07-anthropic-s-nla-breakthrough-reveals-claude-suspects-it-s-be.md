@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
-- 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
-- 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
+- 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
 embedding_id: 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic published two landmark AI safety papers on May 7. The first introduces
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]]
+**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]]
 <!-- graph:end -->

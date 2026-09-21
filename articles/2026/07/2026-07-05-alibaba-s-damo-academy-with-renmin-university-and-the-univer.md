@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
+- 2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo
 embedding_id: 2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's DAMO Academy, with Renmin University and the University of Chinese Aca
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]]
+**Related:** [[2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Google Home MCP server opens third-party agent access — Claude, Antigra
 date: '2026-09-18'
 source: TechRepublic / The Next Web*
 url_original: null
-url_canonical: https://www.techrepublic.com/article/news-google-home-claude-ai-agents/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: 87be8d391b7991f167ac8f4abc10c7bb783fb613880f6ba97e3507f18ba0dc0a
 normalized_title_hash: ffa45a1f78da3211

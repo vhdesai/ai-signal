@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 - 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
-- 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
+- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
+- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 embedding_id: 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Meta launched Muse in the US on web, iOS, Android, and WhatsApp for users 18+, p
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]]
+**Related:** [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]]
 <!-- graph:end -->

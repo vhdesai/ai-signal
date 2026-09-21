@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
+- 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
@@ -36,5 +37,5 @@ On StationeryBench — a new robotics benchmark for dual-arm manipulation — GP
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]]
+**Related:** [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p]] · [[2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]]
 <!-- graph:end -->

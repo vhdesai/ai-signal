@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm
-- 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
+- 2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open
 embedding_id: 2026-07-11-compromised-jscrambler-npm-release-drops-a-rust-infostealer
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The official jscrambler npm package was compromised across several releases; a p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]]
+**Related:** [[2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm]] · [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open]]
 <!-- graph:end -->

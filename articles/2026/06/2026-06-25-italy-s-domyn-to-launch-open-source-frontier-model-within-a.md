@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
+- 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
-- 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
+- 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
 embedding_id: 2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Domyn (formerly iGenius) CEO Uljan Sharka said the company will release a fully 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
+**Related:** [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]]
 <!-- graph:end -->

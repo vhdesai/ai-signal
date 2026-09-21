@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
+- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 embedding_id: 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic warned that frontier AI models are approaching recursive self-improvem
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi]]
+**Related:** [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
+- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 - 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 embedding_id: 2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta launched a WhatsApp Business MCP server that lets AI coding agents — incl
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]]
+**Related:** [[2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]]
 <!-- graph:end -->

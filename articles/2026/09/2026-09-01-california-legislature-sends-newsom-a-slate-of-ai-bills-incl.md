@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
+- 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
-- 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 embedding_id: 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ On the final night of its 2026 session, the California Legislature passed a pack
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]]
+**Related:** [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]] · [[2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]]
 <!-- graph:end -->

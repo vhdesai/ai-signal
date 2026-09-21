@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 93
+member_count: 94
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 93 connected article(s).
+> Auto-generated entity hub. 94 connected article(s).
 
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre|Google DeepMind's Dream-RSI helps agents self-improve by "dreaming" through past search runs]]
 - `2026-09-16` [[2026-09-16-bytedance-s-hongguo-ai-enhanced-short-drama-app-now-bigger-t|ByteDance's Hongguo, AI-enhanced short-drama app, now bigger than China's top four streaming players combined]]
 - `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]
 - `2026-09-15` [[2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do|ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending]]

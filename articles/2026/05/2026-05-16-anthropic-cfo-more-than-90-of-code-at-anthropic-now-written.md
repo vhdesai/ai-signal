@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-- 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 embedding_id: 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic CFO Krishna Rao disclosed today that over 90% of the company's interna
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
+**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]]
 <!-- graph:end -->

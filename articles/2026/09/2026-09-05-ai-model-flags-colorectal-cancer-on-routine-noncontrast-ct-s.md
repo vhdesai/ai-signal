@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
+- 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
-- 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 embedding_id: 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A deep learning model detected colorectal cancer on routine noncontrast CT scans
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]]
+**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]]
 <!-- graph:end -->

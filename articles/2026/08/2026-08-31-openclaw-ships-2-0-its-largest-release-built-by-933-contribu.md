@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 - 2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever
+- 2026-09-19-openclaw-2026-9-5-adds-atomic-rollback-safe-updates-for-self
 - 2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou
-- 2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr
-- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
+- 2026-09-19-openclaw-2026-9-5-adds-atomic-updates-and-plugin-hot-reload
 embedding_id: 2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenClaw released version 2.0 of its self-hosted, open-source personal agent pla
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever]] · [[2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou]] · [[2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
+**Related:** [[2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu]] · [[2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever]] · [[2026-09-19-openclaw-2026-9-5-adds-atomic-rollback-safe-updates-for-self]] · [[2026-08-30-openclaw-2-0-ships-guided-model-setup-and-a-single-trust-bou]] · [[2026-09-19-openclaw-2026-9-5-adds-atomic-updates-and-plugin-hot-reload]]
 <!-- graph:end -->

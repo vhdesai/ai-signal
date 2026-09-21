@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: TechRepublic / The Decoder / SCMP**
 url_original: https://www.techrepublic.com/article/news-amodei-altman-musk-slow-frontier-ai/
 url_canonical: https://www.techrepublic.com/article/news-amodei-altman-musk-slow-frontier-ai/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 5c7d53553520ebb52e80b23cce791f7323bcb2c95839f5757a779d04404e7760
 normalized_title_hash: c2f6bb2ffae74f55

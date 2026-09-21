@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
+- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
-- 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
+- 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 embedding_id: 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Meta launched a Mac app for Meta AI featuring system-wide dictation (competing w
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti]]
+**Related:** [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]]
 <!-- graph:end -->

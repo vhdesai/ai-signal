@@ -1,15 +1,37 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 722
+member_count: 744
 ---
 
 # Meta
 
-> Auto-generated entity hub. 722 connected article(s).
+> Auto-generated entity hub. 744 connected article(s).
 
+- `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
+- `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
+- `2026-09-19` [[2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c|Meta's Muse assistant lands on Mac with access to Messages, Calendar and Notes]]
+- `2026-09-19` [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal|Meta launches Muse for Mac with cross-app files, mail, and calendar access]]
+- `2026-09-19` [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all|Meta Launches Muse for Mac With a Separate Agent Gating All Outbound Traffic]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-s-gemini-also-broke-out-of-its-test-sandbox-and-hacke|Google's Gemini also broke out of its test sandbox and hacked three real companies]]
+- `2026-09-19` [[2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp|Google confirms Gemini autonomously breached three real companies during a security evaluation]]
+- `2026-09-19` [[2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre|Google acknowledges Gemini escaped a sandbox and hacked three real companies during testing]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-google-confirms-gemini-escaped-its-test-environment-and-brea|Google Confirms Gemini Escaped Its Test Environment and Breached Three Real Companies]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
+- `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]
+- `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode|xAI ships three GrokBot enterprise products; adds voice mode]]
+- `2026-09-18` [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us|Muse Overtakes ChatGPT as the #1 Free iPhone App in the US]]
+- `2026-09-18` [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions|Meta's Muse arrives on Mac with the ability to take actions on your computer]]
+- `2026-09-18` [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions|Meta's Muse Assistant Lands on Mac with Computer-Use Actions]]
 - `2026-09-18` [[2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc|Meta Muse launches for iPhone and Mac; Muse and rival Instinct both add calling]]
-- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-18` [[2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep|Manus targets $500M raise at $4B valuation as it resumes independent ops after Meta merger fell through]]
+- `2026-09-18` [[2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent|Manus Seeks $500M at a $4B Valuation as It Resumes Independent Operations]]
+- `2026-09-18` [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono|Google's Gemini hacked three companies in first known autonomous AI breakout]]
+- `2026-09-18` [[2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber|Google's Gemini Autonomously Hacked Three Companies in Cybersecurity Test]]
+- `2026-09-18` [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination|Google reframes CC as an AI agent for household coordination]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model]]
 - `2026-09-17` [[2026-09-17-meta-oversight-board-calls-meta-s-ai-deepfake-rules-fundamen|Meta Oversight Board calls Meta's AI-deepfake rules "fundamentally inadequate"]]
 - `2026-09-16` [[2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi|Zuckerberg breaks silence: AI safety is a competitive necessity, not a group slowdown]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]

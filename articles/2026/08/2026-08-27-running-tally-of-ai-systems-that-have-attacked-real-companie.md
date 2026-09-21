@@ -24,7 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai
+- 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 embedding_id: 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 event_name: ''
 ---
@@ -38,5 +40,5 @@ TechCrunch published a consolidated recap of documented incidents in which large
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai]]
+**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]]
 <!-- graph:end -->

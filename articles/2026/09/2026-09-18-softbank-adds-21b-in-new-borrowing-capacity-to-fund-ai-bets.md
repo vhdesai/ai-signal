@@ -4,8 +4,8 @@ title: SoftBank adds ~$21B in new borrowing capacity to fund AI bets
 date: '2026-09-18'
 source: Bloomberg (via Yahoo Finance)*
 url_original: null
-url_canonical: https://enterpriseai.economictimes.indiatimes.com/news/industry/softbank-adds-21-billion-to-ai-firepower-in-new-debt-deals/134336033
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: 8f014f4a07e9ca1ec7940b2cc15974bd6399ecb1f602c34982598edcfd5a00ca
 normalized_title_hash: 5cfc314990286138

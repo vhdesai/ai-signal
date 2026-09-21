@@ -22,7 +22,8 @@ related_article_ids:
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
+- 2026-09-18-google-s-cc-becomes-a-shared-ai-agent-for-families
+- 2026-09-18-google-turns-cc-into-a-shared-household-agent-with-its-own-g
 embedding_id: 2026-09-03-ollie-bets-privacy-positioning-can-win-the-ai-assistant-race
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Ollie, a family-focused AI assistant, is seeking deep access to users' everyday 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
+**Related:** [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-18-google-s-cc-becomes-a-shared-ai-agent-for-families]] · [[2026-09-18-google-turns-cc-into-a-shared-household-agent-with-its-own-g]]
 <!-- graph:end -->

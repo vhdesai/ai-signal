@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
+- 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 embedding_id: 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The last 24 hours were defined less by new frontier models than by the business 
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]]
+**Related:** [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge]]
 <!-- graph:end -->

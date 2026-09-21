@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown
 - 2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop
-- 2026-08-06-jeff-dean-s-new-ai-for-science-startup-discovery-loop-surfac
+- 2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new
 embedding_id: 2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Legendary Google engineer Jeff Dean is raising a massive round for his new start
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown]] · [[2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop]] · [[2026-08-06-jeff-dean-s-new-ai-for-science-startup-discovery-loop-surfac]]
+**Related:** [[2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown]] · [[2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop]] · [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new]]
 <!-- graph:end -->

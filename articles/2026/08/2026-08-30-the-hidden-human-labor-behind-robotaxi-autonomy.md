@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
-- 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 embedding_id: 2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy
 event_name: ''
 ---
@@ -33,5 +33,5 @@ TechCrunch's mobility briefing examined OSHA filings showing Waymo and Zoox test
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]]
+**Related:** [[2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto]] · [[2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]]
 <!-- graph:end -->

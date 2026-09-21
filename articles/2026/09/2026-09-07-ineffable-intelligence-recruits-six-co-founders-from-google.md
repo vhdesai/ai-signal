@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
+- 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
-- 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
 embedding_id: 2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Stealth AI research startup Ineffable Intelligence added six co-founders in a co
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten]] · [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]]
+**Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge]] · [[2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten]]
 <!-- graph:end -->

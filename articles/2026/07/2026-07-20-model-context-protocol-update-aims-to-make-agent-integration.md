@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
-- 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
 embedding_id: 2026-07-20-model-context-protocol-update-aims-to-make-agent-integration
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that the Model Context Protocol is moving toward a looser, mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte]]
+**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]]
 <!-- graph:end -->

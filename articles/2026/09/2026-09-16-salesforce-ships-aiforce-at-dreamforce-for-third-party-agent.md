@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning
+- 2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning
 - 2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
-- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 embedding_id: 2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Dreamforce, Salesforce unveiled AIforce — a new layer that governs how thir
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning]] · [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
+**Related:** [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning]] · [[2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning]] · [[2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas]] · [[2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th]]
 <!-- graph:end -->

@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-18-anthropic-targets-a-november-ipo-as-revenue-surges
 - 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
+- 2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate
+- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re
 embedding_id: 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Anthropic is preparing an initial public offering for the September to early-Oct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-08-20-anthropic-expects-an-ipo-that-matches-or-exceeds-spacex-s-re]]
+**Related:** [[2026-09-18-anthropic-targets-a-november-ipo-as-revenue-surges]] · [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
 <!-- graph:end -->

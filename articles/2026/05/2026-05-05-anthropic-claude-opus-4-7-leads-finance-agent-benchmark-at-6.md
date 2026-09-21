@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
-- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Claude Opus 4.7 powers Anthropic's 10 new financial services AI agents, launched
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
+**Related:** [[2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
 <!-- graph:end -->

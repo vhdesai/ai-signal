@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
+- 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a
-- 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 embedding_id: 2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's Frontier Red Team reported that Claude 'Mythos Preview' improved the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]]
+**Related:** [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal]] · [[2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a]]
 <!-- graph:end -->

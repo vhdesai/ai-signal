@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
+- 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
-- 2026-08-06-openai-partners-with-the-american-psychological-association
-- 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
 embedding_id: 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a safety-focused post arguing that teens should have access to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]]
+**Related:** [[2026-09-18-openai-publishes-an-australian-youth-safety-blueprint]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]]
 <!-- graph:end -->

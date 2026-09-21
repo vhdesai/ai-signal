@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 - 2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use
 - 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
-- 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
+- 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
 embedding_id: 2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ An OpenAI developer, Thibault Sottiaux, said internally that GPT-6 Astra was the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne]]
+**Related:** [[2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]] · [[2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use]] · [[2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]]
 <!-- graph:end -->

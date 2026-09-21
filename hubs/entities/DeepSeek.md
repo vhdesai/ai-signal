@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 441
+member_count: 444
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 441 connected article(s).
+> Auto-generated entity hub. 444 connected article(s).
 
+- `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]
 - `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
 - `2026-09-15` [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de|Trump's AI team confirms weeks of OpenAI–Anthropic–Google DeepMind safety talks; White House dismisses the slowdown premise]]
 - `2026-09-15` [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu|Amodei's "Pace the Frontier" Draws Endorsements from Altman, Musk, Hassabis — and Pushback from Cohere, DeepSeek, Palihapitiya]]

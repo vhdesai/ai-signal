@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele
 - 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
 - 2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
+- 2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new
 embedding_id: 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google DeepMind says Google is committing $40 million in AI tokens and credits t
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
+**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin]] · [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new]]
 <!-- graph:end -->

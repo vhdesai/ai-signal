@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
-- 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
+- 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
 embedding_id: 2026-09-11-california-enacts-adam-s-law-the-first-comprehensive-chatbot
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Governor Gavin Newsom signed SB 1119 ("Adam's Law") along with AB 1709 and a bro
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]] · [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra]]
+**Related:** [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]] · [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]]
 <!-- graph:end -->

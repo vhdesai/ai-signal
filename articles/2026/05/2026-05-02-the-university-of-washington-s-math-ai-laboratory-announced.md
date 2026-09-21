@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - 2026-04-22-academic-research
 - 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
-- 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
+- 2026-09-19-iclr-2027-pulls-50-000-abstract-submissions-up-from-19-500-a
 embedding_id: 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The University of Washington's Math AI Laboratory announced five accepted papers
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-22-academic-research]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin]]
+**Related:** [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-22-academic-research]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-09-19-iclr-2027-pulls-50-000-abstract-submissions-up-from-19-500-a]]
 <!-- graph:end -->

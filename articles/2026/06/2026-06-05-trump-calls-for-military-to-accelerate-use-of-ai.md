@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
+- 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
 - 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 - 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
@@ -35,5 +36,5 @@ President Trump called for the military to accelerate its adoption of AI technol
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]]
+**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]]
 <!-- graph:end -->

@@ -24,10 +24,9 @@ themes:
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
+dedupe_status: duplicate
+canonical_article_id: 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
+related_article_ids: []
 embedding_id: 2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Crusoe closed an oversubscribed $3.9 billion Series F at a $30.9 billion post-mo
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
+**Canonical:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]]
 <!-- graph:end -->

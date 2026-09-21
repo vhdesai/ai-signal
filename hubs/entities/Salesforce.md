@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 82
+member_count: 83
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 82 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
+- `2026-09-18` [[2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning|Salesforce and Nvidia Unveil Koa, a Domain-Specific Reasoning Model for Agentforce]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent|Salesforce ships AIforce at Dreamforce for third-party agent governance]]

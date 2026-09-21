@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 408
+member_count: 413
 ---
 
 # Apple
 
-> Auto-generated entity hub. 408 connected article(s).
+> Auto-generated entity hub. 413 connected article(s).
 
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-18` [[2026-09-18-safari-27-ships-an-apple-built-mcp-server-handing-coding-age|Safari 27 Ships an Apple-Built MCP Server, Handing Coding Agents the Browser]]
+- `2026-09-18` [[2026-09-18-safari-27-ships-an-apple-built-mcp-server-that-lets-coding-a|Safari 27 Ships an Apple-Built MCP Server That Lets Coding Agents Drive the Browser]]
+- `2026-09-18` [[2026-09-18-safari-27-ships-a-built-in-mcp-server-handing-coding-agents|Safari 27 Ships a Built-In MCP Server, Handing Coding Agents the Browser]]
+- `2026-09-17` [[2026-09-17-safari-27-ships-a-native-mcp-server-letting-coding-agents-dr|Safari 27 Ships a Native MCP Server, Letting Coding Agents Drive the Browser]]
 - `2026-09-17` [[2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia|Apple explores return to server market with M8 Ultra + Nvidia NVLink Fusion, targeting 2029]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]

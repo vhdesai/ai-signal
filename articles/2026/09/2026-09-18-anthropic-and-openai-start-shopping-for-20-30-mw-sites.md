@@ -4,8 +4,8 @@ title: Anthropic and OpenAI start shopping for 20–30 MW sites
 date: '2026-09-18'
 source: CNBC*
 url_original: null
-url_canonical: https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-18_103647_Final-Daily-AI-News-Digest.md
 content_hash: 4f0437510daf275b33a2fec00600915424888f5f4dd0b40038cf031720f2b883
 normalized_title_hash: 7a608847381a93d0

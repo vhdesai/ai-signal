@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
+- 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
-- 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 embedding_id: 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A technical synthesis of shipped thresholds across LangChain Deep Agents, Claude
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-08-08-claude-code-adds-cross-session-messaging-between-agents]]
+**Related:** [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]]
 <!-- graph:end -->

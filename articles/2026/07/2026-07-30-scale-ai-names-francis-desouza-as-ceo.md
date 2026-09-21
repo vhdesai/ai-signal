@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de
 - 2026-04-27-
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
+- 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
 - 2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie
-- 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 embedding_id: 2026-07-30-scale-ai-names-francis-desouza-as-ceo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Scale AI appointed former Google Cloud COO and Illumina CEO Francis deSouza as c
 
 **Entities:** [[Google]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-27-]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie]] · [[2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela]]
+**Related:** [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-27-]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]] · [[2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie]]
 <!-- graph:end -->

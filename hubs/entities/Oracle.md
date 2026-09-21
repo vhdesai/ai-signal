@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 220
+member_count: 222
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 220 connected article(s).
+> Auto-generated entity hub. 222 connected article(s).
 
+- `2026-09-20` [[2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to|Business Insider: the timing of the AI slowdown call looks too convenient to ignore]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
 - `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]

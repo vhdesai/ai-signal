@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
-- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+- 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 embedding_id: 2026-09-07-mit-reports-a-breakthrough-in-flexible-wafer-scale-photonics
 event_name: ''
 ---
@@ -34,5 +34,5 @@ MIT researchers reported progress on flexible wafer-scale photonics, a foundatio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
+**Related:** [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]]
 <!-- graph:end -->

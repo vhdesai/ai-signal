@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
 - 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
-- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 embedding_id: 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A reproducible benchmark of classical and Bayesian sparse-regression methods qua
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]]
+**Related:** [[2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
+- 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
 embedding_id: 2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1
 event_name: ''
@@ -40,5 +41,5 @@ At Huawei Connect in Shanghai, rotating chairman David Wang moved the Ascend 960
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner]]
+**Related:** [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves]] · [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner]]
 <!-- graph:end -->

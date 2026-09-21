@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
+- 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 embedding_id: 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DuckDuckGo reported a roughly 30% surge in app installs over the past month as a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-duckduckgo-s-no-ai-search-engine-sees-traffic-boom]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]]
+**Related:** [[2026-06-01-duckduckgo-s-no-ai-search-engine-sees-traffic-boom]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]]
 <!-- graph:end -->

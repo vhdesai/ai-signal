@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
+- 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 embedding_id: 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Mashable reports that OpenAI wants California to strengthen its newly passed AI 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]]
+**Related:** [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr]]
 <!-- graph:end -->

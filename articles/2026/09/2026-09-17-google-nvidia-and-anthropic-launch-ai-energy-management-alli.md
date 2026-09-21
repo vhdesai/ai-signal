@@ -21,10 +21,9 @@ themes:
 - datacenter-infrastructure
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
+dedupe_status: duplicate
+canonical_article_id: 2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al
+related_article_ids: []
 embedding_id: 2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Nvidia, Google, and startup Emerald AI launched the AI Energy Management Allianc
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
+**Canonical:** [[2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al]]
 <!-- graph:end -->

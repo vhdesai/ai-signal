@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier
 - 2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
+- 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-- 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 embedding_id: 2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Filtered to items published between September 13, 2026 at 6:45 AM PDT and Septem
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier]] · [[2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount]] · [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]]
+**Related:** [[2026-09-14-senator-ossoff-calls-for-federal-inspectors-inside-frontier]] · [[2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount]] · [[2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill]] · [[2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
 <!-- graph:end -->

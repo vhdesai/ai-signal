@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-newxai-releases-grok-4-3
+- 2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
-- 2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo
 embedding_id: 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A placeholder app in the latest Grok iOS build confirms imminent CarPlay support
 ## Connections
 
 **Entities:** [[Apple]] · [[Perplexity]] · [[Tesla]] · [[xAI]]
-**Related:** [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo]]
+**Related:** [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]]
 <!-- graph:end -->

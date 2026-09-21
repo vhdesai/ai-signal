@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit
 - 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
+- 2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
-- 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit]] · [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]]
+**Related:** [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit]] · [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
 <!-- graph:end -->

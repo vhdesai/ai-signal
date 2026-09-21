@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
+- 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
-- 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 embedding_id: 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Seeking Alpha highlighted Marvell as a potentially important AI infrastructure s
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
+- 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 embedding_id: 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's GPT-Live release page was materially updated in the current window and 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]]
+**Related:** [[2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]]
 <!-- graph:end -->

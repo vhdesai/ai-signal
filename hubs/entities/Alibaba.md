@@ -1,14 +1,27 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 339
+member_count: 352
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 339 connected article(s).
+> Auto-generated entity hub. 352 connected article(s).
 
-- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-19` [[2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2|Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-by-5|Alibaba’s Qwen3.8-Omni-Flash Undercuts Gemini 3.8 Flash by ~5x on Input Pricing]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing|Alibaba's Qwen3.8-Omni-Flash undercuts Gemini Flash pricing at comparable multimodal benchmarks]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m|Alibaba's Qwen3.8-Omni-Flash Undercuts Gemini 3.8 Flash on Multimodal Pricing]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio|Alibaba's Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c|Alibaba's Qwen ships a real-time interpretation model that cuts average lag to 2.3 seconds across 60 languages]]
+- `2026-09-19` [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency|Alibaba Qwen releases Qwen3.8-LiveTranslate for low-latency interpretation]]
+- `2026-09-19` [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo|Alibaba DAMO Academy open-sources DAMO RADAR abdominal-CT foundation model in Science]]
+- `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]
+- `2026-09-18` [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de|Alibaba's Damo Academy open-sources Damo Radar — an AI that detects nearly 150 abdominal conditions from CT scans]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model]]
 - `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
 - `2026-09-16` [[2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat|China's *People's Daily* rejects US "industrial-scale distillation" charge, warns of countermeasures]]
 - `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]

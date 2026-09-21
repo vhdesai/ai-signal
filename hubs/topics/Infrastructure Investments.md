@@ -1,18 +1,42 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1583
+member_count: 1607
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1583 connected article(s).
+> Auto-generated topic hub. 1607 connected article(s).
 
+- `2026-09-20` [[2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea|Global Chip Market Projected to Exceed $1.6 Trillion This Year Despite AI Slowdown Talk]]
+- `2026-09-20` [[2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to|Business Insider: the timing of the AI slowdown call looks too convenient to ignore]]
+- `2026-09-20` [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal|Big Tech uses guarantees to keep $300B of AI exposure off balance sheets]]
+- `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
+- `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]
+- `2026-09-20` [[2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem|Anthropic Reportedly Postpones Its IPO From October to November]]
+- `2026-09-19` [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit|Marvell and GlobalFoundries Rise After Expanded SiGe Capacity Deal for AI Data Centers]]
+- `2026-09-19` [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi|IMF Tells EU Finance Ministers AI Adds ~1% Productivity but Widens Gaps and Strains Grids]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
+- `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]
+- `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open|Researchers Used Claude Opus 5 to Chain an Exploit Into OpenAI Employee Accounts and an Internal Repo]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur|Nvidia-backed Nscale files for U.S. IPO amid AI infrastructure buildout]]
+- `2026-09-18` [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo|Nvidia-Backed Nscale Discloses 1,252% Revenue Surge in US IPO Filing]]
+- `2026-09-18` [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global|Nvidia Signals a ~$100B Gap Between AI Chip Demand and Global Production Capacity]]
 - `2026-09-18` [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027|Nvidia CEO forecasts chip sales will double in 2027]]
+- `2026-09-18` [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m|Nscale Files for NYSE Listing on $103B of Contracts and $141M of First-Half Revenue]]
+- `2026-09-18` [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m|Nscale Files for NYSE Listing on $103B of Contracts and $140M of Revenue]]
+- `2026-09-18` [[2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw|Microsoft patches CVSS 10.0 Azure AI Foundry flaw]]
+- `2026-09-18` [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves|Huawei rotating chair: majority of Chinese AI training moves to Ascend SuperPod/SuperCluster in 2027]]
+- `2026-09-18` [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year|Huang Expects Nvidia to Ship Twice as Many Chips Next Year]]
+- `2026-09-18` [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall|Crusoe Closes $3.9B Series F at $30.9B Valuation for Vertically Integrated AI Infrastructure]]
+- `2026-09-18` [[2026-09-18-anthropic-considers-a-pre-ipo-model-release-wall-street-on-e|Anthropic considers a pre-IPO model release; Wall Street on edge over waiting game]]
 - `2026-09-18` [[2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites|Anthropic and OpenAI start shopping for 20–30 MW sites]]
 - `2026-09-17` [[2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of|Pew: AI job-loss expectations outweigh job creation in 34 of 37 countries]]
 - `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli|Google, Nvidia, and Anthropic launch AI Energy Management Alliance with Emerald AI]]
+- `2026-09-17` [[2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al|Google, Nvidia, and Anthropic co-found AI Energy Management Alliance with utilities]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
+- `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ|Crusoe Raises $3.9B at a $30.9B Valuation for Vertically Integrated AI Factories]]
 - `2026-09-17` [[2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i|Anthropic anchors A$32 billion Queensland campus built for inference only]]
 - `2026-09-17` [[2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data|Amazon commits up to $8B to Generac for behind-the-meter data-center power via equity warrant]]
 - `2026-09-16` [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety|WSJ: an AI slowdown "has to happen regardless of safety"]]

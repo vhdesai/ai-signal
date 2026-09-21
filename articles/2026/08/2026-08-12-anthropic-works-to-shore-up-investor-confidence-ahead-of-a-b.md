@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
+- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 embedding_id: 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
@@ -41,5 +42,5 @@ Anthropic is meeting prospective public-market investors as it races toward a li
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
+**Related:** [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]]
 <!-- graph:end -->

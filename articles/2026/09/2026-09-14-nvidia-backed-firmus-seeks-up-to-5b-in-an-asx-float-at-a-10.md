@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-- 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
+- 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
 embedding_id: 2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia- and Blackstone-backed AI data-centre developer Firmus Technologies is se
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne]]
+**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo]]
 <!-- graph:end -->

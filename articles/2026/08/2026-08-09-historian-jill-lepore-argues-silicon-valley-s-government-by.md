@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
+- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai
-- 2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just
 embedding_id: 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
 event_name: ''
 ---
@@ -35,5 +35,5 @@ In an interview on TechCrunch's Equity podcast, Harvard historian Jill Lepore ar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]] · [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just]]
+**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]]
 <!-- graph:end -->

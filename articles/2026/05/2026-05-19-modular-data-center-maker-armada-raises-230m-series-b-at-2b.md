@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
-- 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
+- 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 embedding_id: 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Armada, maker of modular and rapidly deployable edge data centers, raised a $230
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl]]
+**Related:** [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]]
 <!-- graph:end -->

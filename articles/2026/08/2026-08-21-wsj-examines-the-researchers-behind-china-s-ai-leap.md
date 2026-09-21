@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
+- 2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-- 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 embedding_id: 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Wall Street Journal reported on the technical talent and research base behin
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]]
+**Related:** [[2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t]] · [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
-- 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
+- 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
 embedding_id: 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Governor Newsom signed a package of 13 child-safety bills led by SB 1119 ("Adam'
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-11-california-enacts-adam-s-law-the-first-comprehensive-chatbot]] · [[2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot]] · [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl]]
+**Related:** [[2026-09-11-california-enacts-adam-s-law-the-first-comprehensive-chatbot]] · [[2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot]] · [[2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and]] · [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]]
 <!-- graph:end -->

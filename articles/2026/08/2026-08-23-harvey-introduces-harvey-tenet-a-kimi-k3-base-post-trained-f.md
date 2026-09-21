@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-harvey-introduces-tenet-a-post-trained-legal-agent-model
 - 2026-08-23-harvey-introduces-tenet-a-kimi-k3-base-post-trained-for-long
+- 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
-- 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
+- 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
 embedding_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI-backed legal-tech firm Harvey released Tenet as a research preview, its f
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-23-harvey-introduces-tenet-a-post-trained-legal-agent-model]] · [[2026-08-23-harvey-introduces-tenet-a-kimi-k3-base-post-trained-for-long]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
+**Related:** [[2026-08-23-harvey-introduces-tenet-a-post-trained-legal-agent-model]] · [[2026-08-23-harvey-introduces-tenet-a-kimi-k3-base-post-trained-for-long]] · [[2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai]]
 <!-- graph:end -->

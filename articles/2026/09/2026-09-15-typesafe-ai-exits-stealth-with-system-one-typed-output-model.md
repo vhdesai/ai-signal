@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat
-- 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
-- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
-- 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
+- 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
+- 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
+- 2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib
+- 2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed
+- 2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel
 embedding_id: 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, emerged from two
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat]] · [[2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe]]
+**Related:** [[2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft]] · [[2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat]] · [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib]] · [[2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed]] · [[2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel]]
 <!-- graph:end -->

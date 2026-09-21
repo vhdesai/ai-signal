@@ -1,15 +1,44 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1322
+member_count: 1351
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1322 connected article(s).
+> Auto-generated topic hub. 1351 connected article(s).
 
-- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model for agentic audio-video tool use]]
+- `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
+- `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
+- `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
+- `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
+- `2026-09-19` [[2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2|Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
+- `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]
+- `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
+- `2026-09-19` [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi|IMF Tells EU Finance Ministers AI Adds ~1% Productivity but Widens Gaps and Strains Grids]]
+- `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n|Chinese researchers report progress on sub-3nm chips using non-EUV lithography]]
+- `2026-09-19` [[2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and|Chinese State-TV-Affiliated Account Flags Anthropic Data and Privacy Risks]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-by-5|Alibaba’s Qwen3.8-Omni-Flash Undercuts Gemini 3.8 Flash by ~5x on Input Pricing]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing|Alibaba's Qwen3.8-Omni-Flash undercuts Gemini Flash pricing at comparable multimodal benchmarks]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m|Alibaba's Qwen3.8-Omni-Flash Undercuts Gemini 3.8 Flash on Multimodal Pricing]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio|Alibaba's Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
+- `2026-09-19` [[2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c|Alibaba's Qwen ships a real-time interpretation model that cuts average lag to 2.3 seconds across 60 languages]]
+- `2026-09-19` [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency|Alibaba Qwen releases Qwen3.8-LiveTranslate for low-latency interpretation]]
+- `2026-09-19` [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo|Alibaba DAMO Academy open-sources DAMO RADAR abdominal-CT foundation model in Science]]
+- `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]
+- `2026-09-18` [[2026-09-18-rhodium-top-chinese-ai-models-generate-10-of-openai-anthropi|Rhodium: top Chinese AI models generate ~10% of OpenAI + Anthropic revenue despite comparable valuations]]
+- `2026-09-18` [[2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent|Manus Seeks $500M at a $4B Valuation as It Resumes Independent Operations]]
+- `2026-09-18` [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves|Huawei rotating chair: majority of Chinese AI training moves to Ascend SuperPod/SuperCluster in 2027]]
+- `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]
+- `2026-09-18` [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de|Alibaba's Damo Academy open-sources Damo Radar — an AI that detects nearly 150 abdominal conditions from CT scans]]
+- `2026-09-18` [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m|Alibaba Qwen releases Qwen3.8-Omni-Flash, a 1M-context omni-modal model]]
+- `2026-09-18` [[2026-09-18-ai-hallucination-nearly-triggers-u-s-military-operation-tech|AI hallucination nearly triggers U.S. military operation, TechCrunch reports]]
+- `2026-09-18` [[2026-09-18-ai-hallucination-came-within-minutes-of-triggering-a-us-navy|AI hallucination came within minutes of triggering a US Navy boarding of a Chinese ship]]
 - `2026-09-17` [[2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1|Z.ai says a GLM-powered agent built its inference stack on 100,000+ Chinese chips]]
+- `2026-09-17` [[2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0|Z.ai Details Production Inference for GLM-5.3-Flash on 100,000+ Chinese Accelerators]]
 - `2026-09-17` [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language|PrismML raises $22.25M seed for a deliberately small language model]]
 - `2026-09-17` [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow|Huawei's Eric Xu tells Chinese labs to speed up, not slow down]]
 - `2026-09-17` [[2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027|Huawei pulls Ascend 960DT forward three quarters to Q1 2027]]

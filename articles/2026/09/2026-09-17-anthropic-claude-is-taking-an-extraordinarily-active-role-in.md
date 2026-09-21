@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
+- 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 embedding_id: 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
@@ -39,5 +40,5 @@ Anthropic disclosed that Claude is now contributing to development of its own su
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
+**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
 <!-- graph:end -->

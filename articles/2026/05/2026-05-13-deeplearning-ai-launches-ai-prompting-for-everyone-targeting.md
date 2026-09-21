@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: DeepLearning.AI / Blockchain.News
 url_original: https://blockchain.news/ainews/deeplearning-ai-launches-prompting-course-guide
 url_canonical: https://blockchain.news/ainews/deeplearning-ai-launches-prompting-course-guide
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: c04f99ab33a36b13fb871e8d930b7bf79d9f29e79970c3460a5bf9ce22439f93

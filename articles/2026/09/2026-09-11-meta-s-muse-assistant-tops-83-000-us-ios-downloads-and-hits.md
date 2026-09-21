@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
-- 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
+- 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 embedding_id: 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's consumer agent surpassed 83,000 US iOS downloads and reached No. 2 on the
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]]
+**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]]
 <!-- graph:end -->

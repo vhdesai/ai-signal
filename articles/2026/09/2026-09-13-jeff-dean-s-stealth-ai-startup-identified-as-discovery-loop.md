@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu
+- 2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new
 - 2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua
-- 2026-08-06-jeff-dean-s-new-ai-for-science-startup-discovery-loop-surfac
 embedding_id: 2026-09-13-jeff-dean-s-stealth-ai-startup-identified-as-discovery-loop
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Livemint reports the stealth AI startup being raised by former Google Chief Scie
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu]] · [[2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua]] · [[2026-08-06-jeff-dean-s-new-ai-for-science-startup-discovery-loop-surfac]]
+**Related:** [[2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu]] · [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new]] · [[2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua]]
 <!-- graph:end -->

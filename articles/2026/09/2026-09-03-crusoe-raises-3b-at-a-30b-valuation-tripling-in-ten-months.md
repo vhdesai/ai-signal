@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co
 related_article_ids:
+- 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 embedding_id: 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
 event_name: ''
@@ -39,5 +40,5 @@ Data center developer Crusoe raised more than $3 billion at a roughly $30 billio
 **Entities:** [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co]]
-**Related:** [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
+**Related:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
 <!-- graph:end -->

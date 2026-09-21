@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
 - 2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m
 - 2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-- 2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim
 embedding_id: 2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Xiaomi unveiled three TSMC-fabricated Xring chips: the 3nm Xring O3 flagship pho
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m]] · [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]] · [[2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim]]
+**Related:** [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m]] · [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
 <!-- graph:end -->

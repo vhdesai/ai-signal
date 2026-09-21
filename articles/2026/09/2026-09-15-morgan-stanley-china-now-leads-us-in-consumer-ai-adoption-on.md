@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
+- 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 embedding_id: 2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on
@@ -40,5 +41,5 @@ Morgan Stanley's new survey finds 80% of Chinese respondents used AI for persona
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]]
+**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]]
 <!-- graph:end -->

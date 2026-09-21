@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
-- 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
+- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 embedding_id: 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Perplexity opened its Personal Computer product — an OS-level AI assistant for
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer]]
+**Related:** [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]]
 <!-- graph:end -->

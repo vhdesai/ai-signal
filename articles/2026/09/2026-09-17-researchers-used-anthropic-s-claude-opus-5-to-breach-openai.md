@@ -24,8 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-24-daily-ai-news-digest-july-25-2026
-- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s
+- 2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open
+- 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
+- 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-employee-acc
+- 2026-09-18-researchers-used-claude-to-breach-openai-employee-accounts-a
 embedding_id: 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 event_name: ''
 ---
@@ -39,5 +42,5 @@ Hacktron AI chained a libheif image-decoder vulnerability in OpenAI's Discourse-
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-24-daily-ai-news-digest-july-25-2026]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s]] · [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open]] · [[2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai]] · [[2026-09-18-researchers-used-claude-opus-5-to-breach-openai-employee-acc]] · [[2026-09-18-researchers-used-claude-to-breach-openai-employee-accounts-a]]
 <!-- graph:end -->

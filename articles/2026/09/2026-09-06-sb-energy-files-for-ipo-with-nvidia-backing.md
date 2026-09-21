@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und
+- 2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 embedding_id: 2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing
 event_name: ''
@@ -36,5 +37,5 @@ SB Energy has filed for an initial public offering with Nvidia as a backer, part
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
+**Related:** [[2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und]] · [[2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur]] · [[2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai]]
 <!-- graph:end -->
