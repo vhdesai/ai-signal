@@ -1,14 +1,22 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 888
+member_count: 896
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 888 connected article(s).
+> Auto-generated entity hub. 896 connected article(s).
 
+- `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t|Microsoft's StudentSim: realistic simulated learners let AI tutors train faster and beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu|Microsoft AI chief says China is not a reason to avoid AI guardrails]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
 - `2026-09-18` [[2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode|xAI ships three GrokBot enterprise products; adds voice mode]]

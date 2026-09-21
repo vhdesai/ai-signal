@@ -5,8 +5,8 @@ title: '[NEW] AI Behind 25% of Recent Layoffs (Apr 2) A new industry analysis fi
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aibusinessreview.org/2026/07/27/ai-automation-tech-layoffs-2026-analysis/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 8dc86cfa85b1cc3c6c6f8fe0c8654f072f5126e58c6475f9568539ec1c59a98f

@@ -5,8 +5,8 @@ title: 'U.S.–China AI Diplomacy: Bessent Announces Forthcoming Bilateral AI Sa
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://www.aisignalwire.com/2026/07/us-and-china-set-september-ai-safety.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 917649f40d0c676e0e50a07a6c6c15fc1ffed1575f89bb3979c857b811ec717a
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
-- 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
-- 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
-- 2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess
-- 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
+- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
+- 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
+- 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
+- 2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah
 embedding_id: 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the Trump–Xi summit in Beijing, Treasury Secretary Scott Bessent announced 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess]] · [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks]]
+**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]]
 <!-- graph:end -->

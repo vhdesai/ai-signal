@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu
 - 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
 embedding_id: 2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reported that Germany's digital affairs ministry said stopping AI develo
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based]]
+**Related:** [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu]] · [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
 <!-- graph:end -->

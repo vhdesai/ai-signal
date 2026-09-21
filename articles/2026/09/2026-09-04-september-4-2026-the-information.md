@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
 related_article_ids:
-- 2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele
+- 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
 embedding_id: 2026-09-04-september-4-2026-the-information
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reporting citing Bloomberg says DeepSeek plans a large Huawei accelerator deploy
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-09-04-deepseek-plots-major-huawei-ai-chip-order]]
-**Related:** [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele]]
+**Related:** [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa]]
 <!-- graph:end -->

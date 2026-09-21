@@ -5,8 +5,8 @@ title: US federal agencies are quietly evaluating Anthropic's Claude Mythos mode
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.tekedia.com/white-house-and-federal-agencies-accessing-anthropics-mythos-model-despite-a-ban/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 6221f9614b1d74dd08348d3dfb2a329924dcdee790b46cb6042c454ebab027ef

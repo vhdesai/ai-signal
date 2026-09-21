@@ -4,8 +4,8 @@ title: DeepSeek Nears $45B Valuation — China's Big Fund, Tencent, Alibaba Circ
 date: '2026-05-10'
 source: Tech Funding News
 url_original: null
-url_canonical: https://techfundingnews.com/deepseek-nears-45b-valuation-from-chinas-big-fund-tencent-alibaba-report/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: bd32810159aa6efd4a311d2aec8adcead9b6a6cca27545dba764f680063a43ce

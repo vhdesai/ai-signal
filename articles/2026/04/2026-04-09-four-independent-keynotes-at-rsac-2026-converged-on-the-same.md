@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
+- 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 embedding_id: 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Google and Intel Expand Multiyear AI Chip Partnership Google and Intel announced
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]]
+**Related:** [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

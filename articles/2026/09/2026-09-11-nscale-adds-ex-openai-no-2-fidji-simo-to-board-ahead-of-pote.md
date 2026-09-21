@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+- 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 embedding_id: 2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nscale, the AI compute provider that recently struck a $45B deal with Anthropic 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Related:** [[2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]]
 <!-- graph:end -->

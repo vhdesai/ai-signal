@@ -4,8 +4,8 @@ title: ChatGPT Launches Personal Finance Dashboard via Plaid Integration for Pro
 date: '2026-05-15'
 source: The AI Track / TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 2d07047bb8689c51794f2fc666935d3a9caf03bf46207f9654c8e6ffdf2c2d55

@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
+- 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-09-17-anthropic-publishes-three-internal-safety-metrics-including
-- 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 embedding_id: 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic's Institute released three prototype measurements of internal AI devel
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]]
+**Related:** [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]] · [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including]]
 <!-- graph:end -->

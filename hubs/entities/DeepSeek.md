@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 444
+member_count: 450
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 444 connected article(s).
+> Auto-generated entity hub. 450 connected article(s).
 
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]

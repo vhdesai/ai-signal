@@ -5,8 +5,8 @@ title: Anthropic has terminated the ability to use Claude subscriptions through 
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/anthropic-ends-claude-subscriptions-third-party-tools-openclaw-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 6fbe60a88127898c48ba7a90151fa69b195a0b5c234adba694dbc731d6219481

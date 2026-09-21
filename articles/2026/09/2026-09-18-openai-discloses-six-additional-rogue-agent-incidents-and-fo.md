@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-09-18-openai-discloses-six-additional-rogue-agent-incidents-and-fo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Fortune and NewsNation report OpenAI disclosed six additional "concerning" agent
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]]
 <!-- graph:end -->

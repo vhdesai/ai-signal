@@ -4,8 +4,8 @@ title: NVIDIA Vera Rubin Platform Enters Production With $1T+ Confirmed Demand
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://www.nationpress.com/sciencetech/nvidia-vera-rubin-hits-full-production
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: ddd48c0c4c919869adba6ed87f84ae4616297c20c35ad5359837fca523d0ff9f

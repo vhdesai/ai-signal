@@ -41,6 +41,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
+- 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
@@ -57,5 +58,5 @@ Visiting scholar Sanghyun Jang, formerly of KERIS, is studying how Georgia Tech 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]]
+**Related:** [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]]
 <!-- graph:end -->

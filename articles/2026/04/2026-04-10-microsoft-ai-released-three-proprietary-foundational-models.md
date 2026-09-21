@@ -5,8 +5,8 @@ title: Microsoft AI released three proprietary foundational models under its MAI
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aihaven.com/news/microsoft-mai-three-foundational-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 7fa0c6d57e3305b787ae01d17fc01f09a537db89a3e75f0ca35235003301cafe

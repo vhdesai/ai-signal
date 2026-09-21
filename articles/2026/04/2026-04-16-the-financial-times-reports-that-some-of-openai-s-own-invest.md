@@ -5,8 +5,8 @@ title: The Financial Times reports that some of OpenAI's own investors are openl
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/companies/openais-852b-valuation-questioned-by-some-investors-amid-strategy-shift-report/ar-AA20QpRK
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 38f9f90ec8b58f462a6b56b04e1795f6b1a6a27a47ba4e48319f676bff6becc5

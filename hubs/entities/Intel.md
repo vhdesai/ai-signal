@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 110
+member_count: 111
 ---
 
 # Intel
 
-> Auto-generated entity hub. 110 connected article(s).
+> Auto-generated entity hub. 111 connected article(s).
 
+- `2026-09-21` [[2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking|Researcher documents a ChatGPT cross-site ad cookie linking browsing to accounts]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us|SK Hynix in talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-make-memory-chips-in-t|SK Hynix in early talks with Intel to make memory chips in the US for the first time]]
 - `2026-09-16` [[2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in|SK Hynix in early talks with Intel to build memory chips in the US]]

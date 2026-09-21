@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
-- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 embedding_id: 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amodei’s essay “We Must Pace the Frontier” proposes three steps to slow ca
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]]
+**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]]
 <!-- graph:end -->

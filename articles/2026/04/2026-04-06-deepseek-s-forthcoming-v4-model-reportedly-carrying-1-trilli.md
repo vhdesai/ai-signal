@@ -5,8 +5,8 @@ title: DeepSeek's forthcoming V4 model — reportedly carrying 1 trillion parame
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.albis.news/perspectives/deepseek-v4-trillion-parameters-huawei-chips-not-nvidia-open-source-ai-march-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: b3a51dfae6bba9f6d7f5caaf2854d932861afc3bff2fc618bcf67b05ee80ece0

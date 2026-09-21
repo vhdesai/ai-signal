@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-15-new-foundation-tackles-enterprise-token-cost-management
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 embedding_id: 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch warned the AI industry may be reaching a "Tokenpocalypse" — a tippi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-15-new-foundation-tackles-enterprise-token-cost-management]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]]
+**Related:** [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-15-new-foundation-tackles-enterprise-token-cost-management]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]]
 <!-- graph:end -->

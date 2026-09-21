@@ -5,8 +5,8 @@ title: Axios / WSJ • April 18–19, 2026 Reporting indicates an intensified Wh
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.jdsupra.com/legalnews/white-house-framework-calls-for-federal-5055151/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 13770af258c64bbd558056172e2bc239245a7feafe8698592e25fe0267f86351

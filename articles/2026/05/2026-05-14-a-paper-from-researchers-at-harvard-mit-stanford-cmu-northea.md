@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
+- 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
 embedding_id: 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A paper from researchers at Harvard, MIT, Stanford, CMU, Northeastern, and other
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]]
+**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]]
 <!-- graph:end -->

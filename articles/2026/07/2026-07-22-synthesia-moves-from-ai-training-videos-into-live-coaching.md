@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 - 2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
-- 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
+- 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
 embedding_id: 2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reports that Synthesia launched Roleplay Sessions, an enterprise trai
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]]
+**Related:** [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai]]
 <!-- graph:end -->

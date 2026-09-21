@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-- 2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls
 embedding_id: 2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Huawei rotating chairman Eric Xu told reporters at Connect in Shanghai that Chin
 
 **Entities:** [[Huawei]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls]]
+**Related:** [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-openai-s-light-balance-sheet-faces-scrutiny-ahead-of-ipo
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
+- 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 embedding_id: 2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i
@@ -41,5 +42,5 @@ The Information reviewed OpenAI's financial statements and found a company that 
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-22-openai-s-light-balance-sheet-faces-scrutiny-ahead-of-ipo]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
+**Related:** [[2026-06-22-openai-s-light-balance-sheet-faces-scrutiny-ahead-of-ipo]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
 <!-- graph:end -->

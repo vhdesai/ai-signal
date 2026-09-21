@@ -4,8 +4,8 @@ title: Anthropic in Advanced Talks to Acquire Stainless for $300M+
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: https://entrepreneurloop.com/anthropic-stainless-acquisition-300m-developer-tools-deal/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 2f27a646d042b942c2073ed52c0f745fbbb1fef529748279ed69189bdfc03815

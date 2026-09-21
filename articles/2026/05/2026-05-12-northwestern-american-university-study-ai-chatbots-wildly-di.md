@@ -5,8 +5,8 @@ title: 'Northwestern & American University Study: AI Chatbots Wildly Disagree on
 date: '2026-05-12'
 source: ToolsCompare.AI / TechCrunch
 url_original: null
-url_canonical: https://www.livemint.com/technology/tech-news/researchers-asked-chatgpt-gemini-and-claude-which-jobs-are-most-exposed-to-ai-the-chatbots-wildly-diagree-11778476586377.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: bfd4c53001e16b13b52c72cfafcbd689db8d6355818f1a11cf6df441578e06e1

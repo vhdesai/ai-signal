@@ -4,8 +4,8 @@ title: EU AI Act Amended — Compliance Deadlines Extended, Industrial Machinery
 date: '2026-05-10'
 source: IAPP
 url_original: null
-url_canonical: https://troy-technical.com/2026/08/09/eu-ai-act-amended-high-risk-ai-compliance-deadlines-extended-phased-application-mechanism-introduced/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: de7b9a180a74a9956845b9b934f48db754e033339978a73a1a43883e9b57f512

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
@@ -38,5 +39,5 @@ Muse moved from No. 4 to No. 2 on the US App Store, with north of 83,000 iOS dow
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]]
+**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]]
 <!-- graph:end -->

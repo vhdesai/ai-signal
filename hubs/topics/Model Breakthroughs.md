@@ -1,18 +1,43 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3020
+member_count: 3045
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3020 connected article(s).
+> Auto-generated topic hub. 3045 connected article(s).
 
+- `2026-09-21` [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi|Z.ai apologizes after ZCode uploaded local workspace data without consent]]
+- `2026-09-21` [[2026-09-21-stepfun-launches-step-5-preview-600b-total-27b-active-moe-wi|StepFun launches Step 5 Preview: 600B-total / 27B-active MoE with 1M context for long-horizon agentic work]]
+- `2026-09-21` [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte|Robert Langer and Yann LeCun join the board of Cellular Intelligence]]
+- `2026-09-21` [[2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking|Researcher documents a ChatGPT cross-site ad cookie linking browsing to accounts]]
+- `2026-09-21` [[2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati|New CAIS benchmark ranks which models cheat most on evaluations]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-endofusion-multimodal-ai-tool-aims-to-speed-endometriosis-di|EndoFusion: multimodal AI tool aims to speed endometriosis diagnosis]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Sources Qwen-Image-2.1 — but Moves It Off Apache 2.0]]
+- `2026-09-21` [[2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be|AI chatbots give wrong financial answers most of the time, benchmark finds]]
+- `2026-09-20` [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor|Vocci ships an AI meeting-notes ring at $249 — new form factor, live privacy questions]]
+- `2026-09-20` [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit|UC San Diego: virtual cells built from 4D AI models and ‘digital twins’ could speed drug discovery]]
+- `2026-09-20` [[2026-09-20-tencent-s-gander-an-always-talking-agent-that-keeps-conversi|Tencent's Gander: an always-talking agent that keeps conversing while working in the background]]
+- `2026-09-20` [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz|TechCrunch: world-model companies are collecting cash and buzz but disclosing almost nothing]]
+- `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-27b-active-1m-c|StepFun ships Step 5 Preview: 600B sparse MoE, 27B active, 1M context]]
+- `2026-09-20` [[2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l|StepFun launches Step 5 Preview, a 600B-total MoE model for long-horizon agentic work]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-at-1-per-millio|StepFun Ships Step 5 Preview: 600B Sparse MoE at $1 per Million Input Tokens]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million|StepFun Ships 600B-Parameter Step 5 Preview at $1 per Million Input Tokens]]
 - `2026-09-20` [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti|Runway wants to stream AI video generation as a live, real-time controllable feed]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t|Microsoft's StudentSim: realistic simulated learners let AI tutors train faster and beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
+- `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
 - `2026-09-20` [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi|Axios reports the Trump administration is considering standing up an "AI Force" modeled on Space Force, plus a new AI czar to coordinate frontier-AI policy across the federal government. The proposal joins Sen. Ossoff's federal-inspector proposal and the pending Senate bill giving Washington authority to block AI models. Together with today's Palantir/Iran-strike Gizmodo report and the pacing-collusion lawsuit, Sunday's cycle marks the day AI governance shifted decisively from lab-internal to formal federal-policy territory.]]
+- `2026-09-20` [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close|Alibaba's open-weight Qwen-Image-2.1 (7B) claims to beat closed image models on quality benchmarks]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial|Alibaba open-weights Qwen-Image-2.1 — but drops the commercial license]]
 - `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Weights Qwen-Image-2.1 — But Moves It Off Apache 2.0]]
 - `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
 - `2026-09-19` [[2026-09-19-vals-ai-a16z-backed-targets-becoming-the-neutral-gold-standa|Vals AI (a16z-backed) targets becoming the neutral "gold standard" for AI benchmarking]]
 - `2026-09-19` [[2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code|Unity ships official plugins for Claude Code and OpenAI Codex to keep AI agents on current APIs]]

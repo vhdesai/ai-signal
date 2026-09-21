@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 - 2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408
-- 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
+- 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 embedding_id: 2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters-reviewed internal posts show Meta staff testing Muse reported guardrail 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408]] · [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]]
+**Related:** [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]]
 <!-- graph:end -->

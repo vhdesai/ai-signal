@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 - 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
-- 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
+- 2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion
 embedding_id: 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI released a six-pillar policy roadmap for youth AI safety in Australia, co
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-07-16-openai-argues-teens-deserve-access-to-safe-ai]] · [[2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra]]
+**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-07-16-openai-argues-teens-deserve-access-to-safe-ai]] · [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion]]
 <!-- graph:end -->

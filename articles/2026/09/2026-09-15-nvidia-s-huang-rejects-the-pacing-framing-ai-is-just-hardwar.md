@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just
+- 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
-- 2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 embedding_id: 2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Jensen Huang published a follow-up rejecting Amodei's "alien mind" framing outri
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just]] · [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]]
+**Related:** [[2026-09-15-nvidia-s-jensen-huang-rejects-the-pacing-framing-ai-is-just]] · [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-more-than-100-researchers-including-hinton-demand-independen
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-ou
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
-- 2026-09-18-anthropic-names-accenture-its-first-embedded-evaluator-each
 embedding_id: 2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch questioned whether a large commercial consultancy is the right first 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-more-than-100-researchers-including-hinton-demand-independen]] · [[2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-ou]] · [[2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e]] · [[2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva]] · [[2026-09-18-anthropic-names-accenture-its-first-embedded-evaluator-each]]
+**Related:** [[2026-09-19-more-than-100-researchers-including-hinton-demand-independen]] · [[2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-ou]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e]] · [[2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva]]
 <!-- graph:end -->

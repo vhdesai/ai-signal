@@ -5,8 +5,8 @@ title: Microsoft released GigaTIME, an open-source cancer cell imaging model tra
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 6c137b700af82e1410c326665946988a4e5ce756217d52356da7be87fd9de199
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
+- 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
-- 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
 embedding_id: 2026-04-16-microsoft-released-gigatime-an-open-source-cancer-cell-imagi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft released GigaTIME, an open-source cancer cell imaging model trained on
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]] · [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]]
+**Related:** [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]]
 <!-- graph:end -->

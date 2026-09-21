@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t
 - 2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt
 - 2026-08-21-envharness-reshaping-static-environments-for-agent-learning
-- 2026-08-20-google-introduces-envharness-reshaping-static-training-world
+- 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
 embedding_id: 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Cloud AI Research, with collaborators at Washington University in St. Lou
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma]] · [[2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t]] · [[2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt]] · [[2026-08-21-envharness-reshaping-static-environments-for-agent-learning]] · [[2026-08-20-google-introduces-envharness-reshaping-static-training-world]]
+**Related:** [[2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma]] · [[2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t]] · [[2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt]] · [[2026-08-21-envharness-reshaping-static-environments-for-agent-learning]] · [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi]]
 <!-- graph:end -->

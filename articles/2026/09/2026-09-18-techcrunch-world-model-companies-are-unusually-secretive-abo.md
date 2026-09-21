@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
+- 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
 - 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 - 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
-- 2026-09-18-world-model-startups-stay-secretive-about-commercialization
 embedding_id: 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Russell Brandom's field survey concludes that world-model companies (Runway GWM-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-18-world-model-companies-remain-secretive-about-paths-to-market]] · [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-09-18-world-model-startups-stay-secretive-about-commercialization]]
+**Related:** [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets]] · [[2026-09-18-world-model-companies-remain-secretive-about-paths-to-market]] · [[2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]]
 <!-- graph:end -->

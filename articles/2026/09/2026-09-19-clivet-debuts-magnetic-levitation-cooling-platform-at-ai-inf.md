@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf
+- 2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data
 - 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
 - 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 - 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
-- 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
-- 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 embedding_id: 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Clivet used AI Infra Summit 2026 in Santa Clara to launch a dual-rotor variable-
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f]] · [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation]] · [[2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves]]
+**Related:** [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf]] · [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data]] · [[2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f]] · [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]]
 <!-- graph:end -->

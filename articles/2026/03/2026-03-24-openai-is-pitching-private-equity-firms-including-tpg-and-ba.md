@@ -5,8 +5,8 @@ title: OpenAI is pitching private equity firms including TPG and Bain Capital on
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://theoutpost.ai/news-story/open-ai-pursues-10-billion-joint-venture-with-tpg-and-bain-to-accelerate-enterprise-ai-adoption-24612/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 9c510d1fe0ad899536c579ead14ae66a8c0b0ae14f879ecc4ae6ea99fb2621c2

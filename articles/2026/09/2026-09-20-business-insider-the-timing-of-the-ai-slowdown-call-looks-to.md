@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-14-monday-september-14-2026
 - 2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices
-- 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
 embedding_id: 2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Business Insider's Dan DeFrancesco argues the coordinated Amodei/Altman/Musk slo
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices]] · [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]]
+**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices]]
 <!-- graph:end -->

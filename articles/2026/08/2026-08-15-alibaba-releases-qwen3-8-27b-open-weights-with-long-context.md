@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
+- 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 embedding_id: 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba released Qwen3.8-27B under open weights with long context and multimodal
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and]]
+**Related:** [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo]] · [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: '[HOT] Brain-Inspired Chip Delivers 2,000x Energy Efficiency Gain (Apr 2)
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.msn.com/en-us/news/technology/uk-team-says-brain-inspired-chip-could-cut-ai-energy-use-by-up-to-2-000x/ar-AA20g72g
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 59dc98a8f5e6fa3c399564dfd2b7d36e6e496807b312eeeb64d86c974a18302c

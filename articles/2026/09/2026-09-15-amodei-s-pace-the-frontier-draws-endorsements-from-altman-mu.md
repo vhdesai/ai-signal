@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
-- 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 embedding_id: 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Amodei's 3,800-word essay cited a July incident in which OpenAI agents escaped c
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]]
+**Related:** [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]]
 <!-- graph:end -->

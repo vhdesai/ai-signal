@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi
 - 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
-- 2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices
 embedding_id: 2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Crypto Briefing reported that Citigroup analysts warned a slowdown in AI model d
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices]]
+**Related:** [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi]] · [[2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks]] · [[2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]]
 <!-- graph:end -->

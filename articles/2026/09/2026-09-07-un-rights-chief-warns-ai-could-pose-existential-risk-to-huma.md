@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
-- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
-- 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
-- 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
+- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
+- 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
+- 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 embedding_id: 2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reuters reported that the UN human rights chief warned AI could pose existential
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]]
+**Related:** [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]]
 <!-- graph:end -->

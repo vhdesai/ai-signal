@@ -5,8 +5,8 @@ title: The Pentagon signed AI deployment agreements with eight vendors — AWS, 
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://winbuzzer.com/2026/05/03/pentagon-classified-ai-agreements-nvidia-microsoft-aws-google-openai-spacex-oracle-reflection-xcxwbn/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: b8dcc5c1360758b705dac5e70e329bc3cd2afa0cefb64f56ea29f43a988800c4
 normalized_title_hash: 007db882be2787fc

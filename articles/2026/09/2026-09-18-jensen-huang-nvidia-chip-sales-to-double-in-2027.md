@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 - 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
+- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year
 - 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
 embedding_id: 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
@@ -41,5 +42,5 @@ Nvidia CEO Jensen Huang told analysts the company expects chip sales to double n
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]] · [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year]] · [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c]]
+**Related:** [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]] · [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year]] · [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c]]
 <!-- graph:end -->

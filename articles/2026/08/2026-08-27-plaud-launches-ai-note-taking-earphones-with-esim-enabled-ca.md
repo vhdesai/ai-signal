@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
+- 2026-09-20-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking
 - 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
-- 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 embedding_id: 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Plaud, which reports over 2.5 million users of its hardware and software, introd
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]]
+**Related:** [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]] · [[2026-09-20-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking]] · [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]]
 <!-- graph:end -->

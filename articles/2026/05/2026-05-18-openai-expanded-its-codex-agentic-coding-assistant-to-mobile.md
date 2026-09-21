@@ -5,8 +5,8 @@ title: OpenAI expanded its Codex agentic coding assistant to mobile platforms (M
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://keepingupwith.ai/articles/openai-codex-goes-mobile-bringing-agentic-coding-workflows-to-ios-and-android/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 8137ee988d7d458b33042bbe1c6060a9d9ab589a839733fc441cd2fa465ac34d

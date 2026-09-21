@@ -5,8 +5,8 @@ title: Microsoft's Agent 365 — a platform for discovering, governing, and secu
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://adoption.microsoft.com/en-us/microsoft-agent-365/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 31daf1db45c177dbdf3eb5522514e633839a45a5a96b1e6c95ed47e89d15d011
 normalized_title_hash: 79d5c506a0ee79f3

@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 embedding_id: 2026-08-23-27b-open-model-reverse-engineered-a-licensed-app-in-30-minut
@@ -36,5 +37,5 @@ XDA ran Qwen 3.8 27B entirely offline on a Lenovo ThinkStation with 128GB unifie
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]]
+**Related:** [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]]
 <!-- graph:end -->

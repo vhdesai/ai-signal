@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 - 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
 embedding_id: 2026-07-09-jensen-huang-says-his-software-engineers-prefer-building-age
@@ -39,5 +40,5 @@ Nvidia CEO Jensen Huang said Nvidia software engineers increasingly prefer build
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]]
+**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]]
 <!-- graph:end -->

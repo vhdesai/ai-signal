@@ -5,8 +5,8 @@ title: Nvidia CEO Jensen Huang Rebukes Leaders Who Predict AI Will Eliminate Mos
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: ef2261cb5530f270ef38ef05d46e9d33c82c910798f9b9c36653a21ef535ab6b
 normalized_title_hash: 1dad4574159afa19

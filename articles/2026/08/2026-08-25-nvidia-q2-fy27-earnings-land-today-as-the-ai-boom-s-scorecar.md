@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 - 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-- 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
+- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 embedding_id: 2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Nvidia reports after the close on August 26, with investors focused on data-cent
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]]
+**Related:** [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]]
 <!-- graph:end -->

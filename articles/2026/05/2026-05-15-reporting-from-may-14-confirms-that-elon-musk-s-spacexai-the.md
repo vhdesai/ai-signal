@@ -5,8 +5,8 @@ title: Reporting from May 14 confirms that Elon Musk's SpaceXAI — the merged e
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techjournal.org/spacex-xai-merger
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ee45500cd33f7868124ff24f3fe3316d3c28615642b0551a9dde8892756674c2

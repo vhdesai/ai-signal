@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-13-sunday-september-13-2026
+- 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
-- 2026-09-12-saturday-september-12-2026
 embedding_id: 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Source window: September 12, 2026 06:20 PDT – September 13, 2026 06:20 PDT The
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-13-sunday-september-13-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-09-12-saturday-september-12-2026]]
+**Related:** [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-13-sunday-september-13-2026]] · [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]]
 <!-- graph:end -->

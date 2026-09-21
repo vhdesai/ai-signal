@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
+- 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 embedding_id: 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Raindrop has open-sourced "Workshop," a local-first debugging and evaluation fra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
+**Related:** [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]]
 <!-- graph:end -->

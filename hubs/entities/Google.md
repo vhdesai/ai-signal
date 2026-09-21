@@ -1,14 +1,28 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1402
+member_count: 1416
 ---
 
 # Google
 
-> Auto-generated entity hub. 1402 connected article(s).
+> Auto-generated entity hub. 1416 connected article(s).
 
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete|Google open-sources AX, an agentic orchestrator for Kubernetes]]
+- `2026-09-21` [[2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne|Google Publishes AX, an Open Agentic Orchestrator for Kubernetes]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu|Jensen Huang Rejects AI Extinction Warnings, Opposes New Regulation]]
+- `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
+- `2026-09-20` [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se|Google confirms Gemini breached three companies during AI security tests]]
+- `2026-09-20` [[2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne|Google Publishes AX, an Open Agentic Orchestrator for Kubernetes]]
+- `2026-09-20` [[2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k|Google Publishes AX, an Apache 2.0 Agentic Orchestrator for Kubernetes]]
+- `2026-09-20` [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t|Apple’s new CEO builds up to unveiling the ideal AI device — then says it is the iPhone]]
 - `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]
 - `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]

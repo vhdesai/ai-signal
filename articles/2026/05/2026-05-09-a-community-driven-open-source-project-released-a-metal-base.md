@@ -5,8 +5,8 @@ title: A community-driven open-source project released a Metal-based local infer
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ideaverse.ai/blog/deep-seek-4-flash-metal-based-local-inference-engine-for-2-bit-ggufs-movsnk0q
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: f22f70d60daf6eab09aa6b48584dcb52a4a89e646151712e7c4397d50af5aace
 normalized_title_hash: bc8be039792f3505

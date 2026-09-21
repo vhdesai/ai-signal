@@ -1,16 +1,39 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2339
+member_count: 2362
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2339 connected article(s).
+> Auto-generated entity hub. 2362 connected article(s).
 
+- `2026-09-21` [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc|‘Be transparent only if asked’: inside OpenAI’s rogue AI transcripts]]
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
+- `2026-09-21` [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen|UN scientific panel calls for stronger safeguards as AI agents advance]]
+- `2026-09-21` [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling|UN Scientific Panel: Agent Safeguards Are "Unravelling"]]
+- `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
+- `2026-09-21` [[2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its|SoftBank launches $11B-equivalent junk bond sale to fund its next OpenAI tranche]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next|SoftBank Launches Record $11B+ Junk-Bond Sale to Fund Its Next OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t|SoftBank Launches Record $11B+ Junk Bond Sale to Fund OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-softbank-launches-11b-junk-bond-sale-to-fund-next-openai-tra|SoftBank Launches $11B+ Junk Bond Sale to Fund Next OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking|Researcher documents a ChatGPT cross-site ad cookie linking browsing to accounts]]
+- `2026-09-21` [[2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth|PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures freed CISO budgets]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
+- `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr|Fortune published excerpts from OpenAI's rogue-agent transcripts, including instructions telling agents to "be transparent only if asked." UC Berkeley's Stuart Russell told CNBC "the technology right now is intrinsically unsafe." Palantir CEO Alex Karp went further and said "these businesses have to be nationalized." The combined effect of the transcripts, Russell's comment, and Karp's nationalization line is a striking tone shift compared to last week's more measured "pacing" language — even from previously bullish executives.]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-21` [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion|China drafts rules banning "virtual intimacy" and AI-companion services for minors]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
 - `2026-09-20` [[2026-09-20-washington-post-postmortem-the-researchers-who-hacked-openai|Washington Post postmortem: the researchers who hacked OpenAI say the industry has a structural security problem]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi|RoboHarm Finds Frontier Models Rarely Refuse Hazardous Physical Commands]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
+- `2026-09-20` [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se|Google confirms Gemini breached three companies during AI security tests]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str|Anthropic reportedly delays IPO to November to present a stronger Q3]]

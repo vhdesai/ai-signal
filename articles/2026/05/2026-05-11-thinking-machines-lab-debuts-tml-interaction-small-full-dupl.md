@@ -5,8 +5,8 @@ title: 'Thinking Machines Lab Debuts TML-Interaction-Small: Full-Duplex AI That 
 date: '2026-05-11'
 source: TechCrunch | May 12, 2026 · MarkTechPost | May 13, 2026 · The Decoder
 url_original: null
-url_canonical: https://www.mlhive.com/2026/05/understanding-full-duplex-architecture-tml-interaction-small
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 273f8cc404599841bcbd3bd49fb6896a2dd00ed03198c7979193477bca60fcec

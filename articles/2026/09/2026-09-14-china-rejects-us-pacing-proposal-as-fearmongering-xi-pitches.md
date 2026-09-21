@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-- 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
+- 2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th
 embedding_id: 2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beijing's Foreign Ministry publicly rejected Amodei's and Altman's calls for a c
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]]
+**Related:** [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]] · [[2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th]]
 <!-- graph:end -->

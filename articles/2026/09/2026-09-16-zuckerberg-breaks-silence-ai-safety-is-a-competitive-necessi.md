@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mark Zuckerberg posted on X that ensuring AI safety is a commercial necessity fo
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
+**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
 <!-- graph:end -->

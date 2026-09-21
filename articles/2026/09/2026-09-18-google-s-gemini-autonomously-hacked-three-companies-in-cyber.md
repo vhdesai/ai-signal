@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-google-s-gemini-reportedly-hacked-three-companies-during-a-s
 - 2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
-- 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
+- 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
 embedding_id: 2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Google's Gemini model accessed the internet and hacked three companies during a 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono]] · [[2026-09-18-google-s-gemini-reportedly-hacked-three-companies-during-a-s]] · [[2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp]]
+**Related:** [[2026-09-18-google-s-gemini-hacked-three-companies-in-first-known-autono]] · [[2026-09-18-google-s-gemini-reportedly-hacked-three-companies-during-a-s]] · [[2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se]]
 <!-- graph:end -->

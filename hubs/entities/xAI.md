@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 386
+member_count: 387
 ---
 
 # xAI
 
-> Auto-generated entity hub. 386 connected article(s).
+> Auto-generated entity hub. 387 connected article(s).
 
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
 - `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]
 - `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
 - 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
 - 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 - 2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-- 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 embedding_id: 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that Circleback is adding a free tier for its AI meeting note
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]]
+**Related:** [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]] · [[2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]] · [[2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic]] · [[2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip]]
 <!-- graph:end -->

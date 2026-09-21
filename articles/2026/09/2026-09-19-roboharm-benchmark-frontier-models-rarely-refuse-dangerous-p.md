@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi
 - 2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
 - 2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p
-- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 embedding_id: 2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers at Robocurve tested Claude Fable 5.1, GPT-6 Astra, and Ai2's MolmoAc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
+**Related:** [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi]] · [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p]]
 <!-- graph:end -->

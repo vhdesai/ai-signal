@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-- 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
 embedding_id: 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic CEO Dario Amodei published a detailed plan for slowing AI development:
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]]
+**Related:** [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]]
 <!-- graph:end -->

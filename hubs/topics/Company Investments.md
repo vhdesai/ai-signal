@@ -1,14 +1,21 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1159
+member_count: 1166
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1159 connected article(s).
+> Auto-generated topic hub. 1166 connected article(s).
 
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da|Oura targets $16B IPO valuation as investors bet on health-data platforms, not devices]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t|Anthropic reportedly pushes IPO from October to November; $2T valuation and $100B raise on the table]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str|Anthropic reportedly delays IPO to November to present a stronger Q3]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem|Anthropic Reportedly Postpones Its IPO From October to November]]

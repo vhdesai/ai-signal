@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
+- 2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion
 - 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
-- 2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement
 embedding_id: 2026-08-24-new-zealand-moves-to-ban-under-16s-from-social-media-with-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zealand’s coalition government introduced legislation requiring “high-risk�
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]] · [[2026-09-18-openai-publishes-an-australian-youth-safety-blueprint]] · [[2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement]]
+**Related:** [[2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]] · [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion]] · [[2026-09-18-openai-publishes-an-australian-youth-safety-blueprint]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Cornell and Purdue publish work on energy-efficient attention
 date: '2026-04-23'
 source: DigitalOcean blog / arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/1706.03762
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: ed22894bea42f97894d436f582f63671032013048101b77c8e39a023b0cff3e2

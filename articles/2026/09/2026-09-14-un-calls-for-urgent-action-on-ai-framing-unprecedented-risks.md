@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma
+- 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
+- 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
-- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
-- 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
-- 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
+- 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 embedding_id: 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The United Nations human rights chief called on countries and frontier AI compan
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]]
+**Related:** [[2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]]
 <!-- graph:end -->

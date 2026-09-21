@@ -5,8 +5,8 @@ title: Huawei is projecting roughly $12 billion in AI chip revenue in 2026 — a
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cxodigitalpulse.com/huawei-expects-ai-chip-revenue-to-hit-12-billion-in-2026-amid-surging-domestic-demand/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: a43ae87b8042f61fd94b5b6fce662ccd6f8860ecc263a6415b378a36643f789d

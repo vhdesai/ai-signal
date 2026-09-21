@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 75
+member_count: 77
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 75 connected article(s).
+> Auto-generated entity hub. 77 connected article(s).
 
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon blocks Meta's Muse AI agent from shopping the Amazon store]]
+- `2026-09-20` [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co|Amazon cuts off Meta’s Muse agent from shopping on Amazon.com]]
 - `2026-09-15` [[2026-09-15-crusoe-signs-multi-year-deal-to-run-perplexity-s-full-model|Crusoe signs multi-year deal to run Perplexity's full model lifecycle]]
 - `2026-09-15` [[2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d|AEO startup Profound hits unicorn status with $180M Series D — seven months after Series C]]
 - `2026-09-14` [[2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit|OpenAI publishes Perplexity case study — Astra now trusted with end-to-end production systems]]

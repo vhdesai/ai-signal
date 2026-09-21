@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate
 - 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
-- 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 embedding_id: 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI CEO Sam Altman has publicly suggested the AI industry should “pace the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa]]
+**Related:** [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]]
 <!-- graph:end -->

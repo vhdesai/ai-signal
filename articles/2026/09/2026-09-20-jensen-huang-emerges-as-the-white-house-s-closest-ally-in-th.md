@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
 - 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
-- 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 embedding_id: 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CNBC reports Huang now holds outsized influence with the administration, with Tr
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp]]
+**Related:** [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5 Instant Becomes Default with Deep Memory
 date: '2026-05-10'
 source: MSN / AIToolsRecap
 url_original: null
-url_canonical: https://www.msn.com/en-us/technology/artificial-intelligence/openai-says-gpt-5-5-instant-to-be-default-model-for-chatgpt-widens-memory-sources/ar-AA22rzvh
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 61c34300de1b0e00e44d01b60bd0e82d694e3594a2263c7b9bd04430a276f409

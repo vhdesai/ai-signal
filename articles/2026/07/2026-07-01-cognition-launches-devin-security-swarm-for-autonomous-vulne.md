@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
+- 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cognition, maker of the Devin coding agent, launched Devin Security Swarm, which
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
+**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

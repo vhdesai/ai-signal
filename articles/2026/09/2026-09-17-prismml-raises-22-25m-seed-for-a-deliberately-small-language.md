@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
-- 2026-05-11-
+- 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 embedding_id: 2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language
 event_name: ''
 ---
@@ -39,5 +39,5 @@ PrismML released Bonsai 2 27B, a compressed version of Alibaba's Qwen3.8 27B tha
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-05-11-]]
+**Related:** [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]] · [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]]
 <!-- graph:end -->

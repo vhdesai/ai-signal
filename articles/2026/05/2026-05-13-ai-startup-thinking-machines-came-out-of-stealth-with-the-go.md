@@ -5,8 +5,8 @@ title: AI startup Thinking Machines came out of stealth with the goal of buildin
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.skrew.ai/thinking-machines-full-duplex-voice-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 873ccff8df5dfcc1c231ad1687d1b1945a780ffce834724490465e8d59c36fba

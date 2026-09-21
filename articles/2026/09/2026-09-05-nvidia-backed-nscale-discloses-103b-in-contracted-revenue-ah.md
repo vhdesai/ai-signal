@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
-- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
-- 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
+- 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
+- 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 embedding_id: 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Compute provider Nscale disclosed $103 billion in contracted revenue — roughly
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo]]
+**Related:** [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]] · [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1]]
 <!-- graph:end -->

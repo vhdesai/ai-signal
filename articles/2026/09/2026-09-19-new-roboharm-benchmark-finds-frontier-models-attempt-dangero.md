@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p
+- 2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
-- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 embedding_id: 2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero
 event_name: ''
 ---
@@ -39,5 +39,5 @@ RoboHarm tests whether leading models refuse harmful instructions when they are 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]]
-**Related:** [[2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
+**Related:** [[2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p]] · [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]]
 <!-- graph:end -->

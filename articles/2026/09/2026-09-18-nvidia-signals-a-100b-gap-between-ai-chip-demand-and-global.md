@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
-- 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
 embedding_id: 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CRN’s analysis of Nvidia’s latest earnings commentary concludes that global 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]]
+**Related:** [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]]
 <!-- graph:end -->

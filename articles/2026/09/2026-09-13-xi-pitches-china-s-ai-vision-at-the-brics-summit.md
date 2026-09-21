@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
+- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches
-- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 embedding_id: 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Xi Jinping used the BRICS summit to position China as the convener of AI and tec
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
+**Related:** [[2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches]]
 <!-- graph:end -->

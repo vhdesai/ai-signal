@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
 - 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
-- 2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends
 embedding_id: 2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At the "Surprise and Shine" keynote — John Ternus's first as CEO — Apple int
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]] · [[2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends]]
+**Related:** [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]]
 <!-- graph:end -->

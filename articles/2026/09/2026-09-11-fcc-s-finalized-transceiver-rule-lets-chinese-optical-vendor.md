@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
+- 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
-- 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 embedding_id: 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The FCC finalized its updated equipment-authorization rules, tightening scrutiny
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]]
+**Related:** [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]]
 <!-- graph:end -->

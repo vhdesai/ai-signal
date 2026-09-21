@@ -1,14 +1,31 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2062
+member_count: 2079
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2062 connected article(s).
+> Auto-generated entity hub. 2079 connected article(s).
 
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
+- `2026-09-21` [[2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth|PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures freed CISO budgets]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
+- `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front|Anthropic Publishes Measurable Metrics for the Pace of Frontier AI Development]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi|RoboHarm Finds Frontier Models Rarely Refuse Hazardous Physical Commands]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
+- `2026-09-20` [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se|Google confirms Gemini breached three companies during AI security tests]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]

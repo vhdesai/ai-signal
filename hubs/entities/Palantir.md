@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 170
+member_count: 174
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 170 connected article(s).
+> Auto-generated entity hub. 174 connected article(s).
 
+- `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales unveils HexaForce as European-sovereign alternative to Palantir NATO battlefield stack]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr|Fortune published excerpts from OpenAI's rogue-agent transcripts, including instructions telling agents to "be transparent only if asked." UC Berkeley's Stuart Russell told CNBC "the technology right now is intrinsically unsafe." Palantir CEO Alex Karp went further and said "these businesses have to be nationalized." The combined effect of the transcripts, Russell's comment, and Karp's nationalization line is a striking tone shift compared to last week's more measured "pacing" language — even from previously bullish executives.]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f|Axios: Trump reportedly weighing an "AI Force" branch and new federal AI czar]]
 - `2026-09-20` [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi|Axios reports the Trump administration is considering standing up an "AI Force" modeled on Space Force, plus a new AI czar to coordinate frontier-AI policy across the federal government. The proposal joins Sen. Ossoff's federal-inspector proposal and the pending Senate bill giving Washington authority to block AI models. Together with today's Palantir/Iran-strike Gizmodo report and the pacing-collusion lawsuit, Sunday's cycle marks the day AI governance shifted decisively from lab-internal to formal federal-policy territory.]]

@@ -5,8 +5,8 @@ title: NVIDIA's AI Equity Commitments Top $40B — Investments in OpenAI, Anthro
 date: '2026-05-10'
 source: 📅 May 10, 2026
 url_original: null
-url_canonical: https://tech-insider.org/nvidia-openai-anthropic-investment-pullback-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 6f893a6eba0881ddf2644eeac790d478f34bc1728b09fac645ab1d046554b872

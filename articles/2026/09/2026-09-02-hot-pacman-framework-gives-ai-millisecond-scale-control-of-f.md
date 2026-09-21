@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
+- 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
 - 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
 embedding_id: 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
 event_name: ''
@@ -35,5 +36,5 @@ Princeton University and the DOE's Princeton Plasma Physics Laboratory unveiled 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf]]
+**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc]] · [[2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf]]
 <!-- graph:end -->

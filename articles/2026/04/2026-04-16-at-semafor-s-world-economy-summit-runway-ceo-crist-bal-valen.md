@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
+- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
-- 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 embedding_id: 2026-04-16-at-semafor-s-world-economy-summit-runway-ceo-crist-bal-valen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At Semafor's World Economy Summit, Runway CEO Cristóbal Valenzuela proposed tha
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
+**Related:** [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush]]
 <!-- graph:end -->

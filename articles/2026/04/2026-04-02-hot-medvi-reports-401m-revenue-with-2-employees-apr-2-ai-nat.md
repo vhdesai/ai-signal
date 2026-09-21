@@ -5,8 +5,8 @@ title: '[HOT] Medvi Reports $401M Revenue with 2 Employees (Apr 2) AI-native hea
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://tycoon.us/one-person-company/medvi
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 5510272efba948e0944ec7cb6907fab523b364dcb015b062c678b53c98b46351

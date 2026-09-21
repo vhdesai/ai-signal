@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 352
+member_count: 361
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 352 connected article(s).
+> Auto-generated entity hub. 361 connected article(s).
 
+- `2026-09-21` [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi|Z.ai apologizes after ZCode uploaded local workspace data without consent]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Sources Qwen-Image-2.1 — but Moves It Off Apache 2.0]]
+- `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close|Alibaba's open-weight Qwen-Image-2.1 (7B) claims to beat closed image models on quality benchmarks]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial|Alibaba open-weights Qwen-Image-2.1 — but drops the commercial license]]
 - `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Weights Qwen-Image-2.1 — But Moves It Off Apache 2.0]]
 - `2026-09-19` [[2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2|Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]

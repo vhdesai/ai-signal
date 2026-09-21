@@ -5,8 +5,8 @@ title: Amazon's Rufus AI shopping assistant has begun incorporating "sponsored p
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://captenamz.com/blog/amazon-rufus-sponsored-prompts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 9c8d25f9b716b79afe6e8b2cac8cd4b73f516faba49614a379980f0ddb9ef960

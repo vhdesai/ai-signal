@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin
 - 2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai
-- 2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre
+- 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
 embedding_id: 2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is moving the unit that vets Gemini for catastrophic risks — including 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre]]
+**Related:** [[2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se]]
 <!-- graph:end -->

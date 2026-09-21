@@ -5,8 +5,8 @@ title: Google released Gemma 4 in four sizes (E2B, E4B, 26B MoE, and 31B Dense) 
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://codersera.com/blog/gemma-4-complete-guide-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: cadca52a0cb5ec1bd4285d601aef26864586c3c842822e8b2fa0a73f3ae7698d

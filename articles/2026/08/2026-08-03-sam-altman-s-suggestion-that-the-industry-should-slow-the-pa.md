@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
-- 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
-- 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 embedding_id: 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Sam Altman’s suggestion that the industry should slow the pace of development 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]]
+**Related:** [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]]
 <!-- graph:end -->

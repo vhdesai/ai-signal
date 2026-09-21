@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
+- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 embedding_id: 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ During his COMPUTEX keynote, Nvidia CEO Jensen Huang singled out Marvell Technol
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]]
 <!-- graph:end -->

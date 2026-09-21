@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
-- 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
-- 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
 embedding_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia's CEO told CBS News there is a "0% chance" of an AI-driven apocalypse by 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
+**Related:** [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]] · [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s]]
 <!-- graph:end -->

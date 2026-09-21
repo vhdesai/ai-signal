@@ -4,8 +4,8 @@ title: Academia Scrambles to Prepare Future Accountants for AI
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://jbiznews.com/the-academic-scramble-to-prepare-future-accountants-for-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 580c13c0d47765979a050bb900eff61759133425d2fc6d3eef6b75d385a58fa2

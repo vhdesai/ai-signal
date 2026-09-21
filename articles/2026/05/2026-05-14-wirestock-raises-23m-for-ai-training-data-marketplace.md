@@ -4,8 +4,8 @@ title: Wirestock Raises $23M for AI Training Data Marketplace
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 35c43e11da5f4d6294397c61108d1ac2addbed6d2ea82e994b4b3b94691cfa2a

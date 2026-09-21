@@ -4,8 +4,8 @@ title: Meta Cuts 8,000 Jobs as AI CapEx Rises to $145 Billion
 date: '2026-05-19'
 source: TechRepublic
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/meta-cuts-8-000-jobs-181620319.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 61e42fe78ea9b8b761125811d616176431647e551f3170efab1d8af23fab0003

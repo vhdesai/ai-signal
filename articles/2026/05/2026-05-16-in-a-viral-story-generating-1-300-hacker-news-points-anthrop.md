@@ -5,8 +5,8 @@ title: In a viral story generating ~1,300 Hacker News points, Anthropic's Claude
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/cz7dl7w8y7po
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 0c4b02ceae023a72f2787cdca4e607b226b6d6555b4739ddfb1b213e012abb2e

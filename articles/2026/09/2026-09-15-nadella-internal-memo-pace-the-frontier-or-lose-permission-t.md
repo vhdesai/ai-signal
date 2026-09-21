@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-monday-september-14-2026
 - 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
+- 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard
 embedding_id: 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Satya Nadella sent an internal note urging AI firms to prioritize safety, embrac
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-monday-september-14-2026]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard]]
+**Related:** [[2026-09-14-monday-september-14-2026]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]]
 <!-- graph:end -->

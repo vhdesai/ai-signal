@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 199
+member_count: 201
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 199 connected article(s).
+> Auto-generated entity hub. 201 connected article(s).
 
+- `2026-09-20` [[2026-09-20-tencent-s-gander-an-always-talking-agent-that-keeps-conversi|Tencent's Gander: an always-talking agent that keeps conversing while working in the background]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-18` [[2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence|Chinese stealth AI lab Naive AI hits $1.4B valuation on Tencent-led rounds]]
 - `2026-09-15` [[2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on|Morgan Stanley: China Now Leads US in Consumer AI Adoption on Weekly-Usage Rates]]

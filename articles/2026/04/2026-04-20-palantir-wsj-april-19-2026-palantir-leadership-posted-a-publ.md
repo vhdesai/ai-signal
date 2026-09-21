@@ -5,8 +5,8 @@ title: Palantir / WSJ • April 19, 2026 Palantir leadership posted a public man
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aljazeera.com/news/2026/4/21/technofacism-why-palantirs-pro-west-manifesto-has-critics-alarmed
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 56644bb705106e7da0bd9413cc204ddcab266382ca62674ca97bf7c38f5d19d2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
-- 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
+- 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
 embedding_id: 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Palantir / WSJ • April 19, 2026 Palantir leadership posted a public manifesto 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]]
+**Related:** [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr]]
 <!-- graph:end -->

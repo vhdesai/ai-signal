@@ -27,10 +27,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
-- 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 embedding_id: 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Nvidia CEO Jensen Huang rejected AI extinction warnings as "doomsday narratives"
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]]
+**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
 <!-- graph:end -->

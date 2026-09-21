@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1607
+member_count: 1619
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1607 connected article(s).
+> Auto-generated topic hub. 1619 connected article(s).
 
+- `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-21` [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf|ABB Launches Infinitus, a Source-to-Rack Direct-Current Portfolio for 1 MW-per-Rack AI Data Centers]]
+- `2026-09-20` [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down|TechCrunch: is the AI industry really ready to slow down?]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as|Huang Says Nvidia Will Sell Twice as Many Chips Next Year as AI Enters “High Production Ramp”]]
+- `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
 - `2026-09-20` [[2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea|Global Chip Market Projected to Exceed $1.6 Trillion This Year Despite AI Slowdown Talk]]
 - `2026-09-20` [[2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to|Business Insider: the timing of the AI slowdown call looks too convenient to ignore]]
 - `2026-09-20` [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal|Big Tech uses guarantees to keep $300B of AI exposure off balance sheets]]
@@ -17,6 +28,7 @@ member_count: 1607
 - `2026-09-19` [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit|Marvell and GlobalFoundries Rise After Expanded SiGe Capacity Deal for AI Data Centers]]
 - `2026-09-19` [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi|IMF Tells EU Finance Ministers AI Adds ~1% Productivity but Widens Gaps and Strains Grids]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
+- `2026-09-19` [[2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875|CoreWeave prices $3.7B convertible bond; coupon jumps to 2.875% on AI-debt jitters]]
 - `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
 - `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]
 - `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open|Researchers Used Claude Opus 5 to Chain an Exploit Into OpenAI Employee Accounts and an Internal Repo]]

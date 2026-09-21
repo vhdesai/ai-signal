@@ -5,8 +5,8 @@ title: 🔥 HOT OpenAI Launches Daybreak — GPT-5.5-Powered Cybersecurity Platf
 date: '2026-05-11'
 source: The AI Track
 url_original: null
-url_canonical: https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 41a33f0f946c8080c629de3202e9eadc85ec5f06cb08e633e2d74a13119f74f9

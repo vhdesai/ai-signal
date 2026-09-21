@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1
+- 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 embedding_id: 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
@@ -40,5 +41,5 @@ At Huawei Connect 2026 in Shanghai, rotating chair Eric Xu Zhijun said "starting
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1]] · [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 embedding_id: 2026-09-19-techcrunch-this-week-s-ai-safety-conversation-has-become-imp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Julie Bort at TechCrunch writes that two viral AI-safety exchanges this week —
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]]
+**Related:** [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
 <!-- graph:end -->

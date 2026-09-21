@@ -4,8 +4,8 @@ title: GPT-5.5 Becomes ChatGPT Default; Frontier Intelligence Index Hits 60.24
 date: '2026-05-05'
 source: OpenAI Blog / WhatLLM.org
 url_original: null
-url_canonical: https://ai-blogs.org/news/2026-05-25-gpt-5-5-instant-chatgpt-default-may-5-pm.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4397d29dac942bfc4798ca1cf97ec4115bb6859a985b9cce60b9b93cc568b458

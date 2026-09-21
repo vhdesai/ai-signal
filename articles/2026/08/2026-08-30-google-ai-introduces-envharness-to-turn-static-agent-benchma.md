@@ -32,7 +32,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
-- 2026-08-20-google-introduces-envharness-reshaping-static-training-world
+- 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
 embedding_id: 2026-08-30-google-ai-introduces-envharness-to-turn-static-agent-benchma
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Researchers from Google Cloud AI Research, Washington University in St. Louis, a
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-30-envharness-turns-static-agent-training-environments-into-ada]] · [[2026-08-20-google-introduces-envharness-reshaping-static-training-world]]
+**Related:** [[2026-08-30-envharness-turns-static-agent-training-environments-into-ada]] · [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi]]
 <!-- graph:end -->

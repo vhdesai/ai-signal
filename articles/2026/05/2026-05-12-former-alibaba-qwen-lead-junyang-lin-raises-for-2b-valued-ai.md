@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+- 2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of
 - 2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
 embedding_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Junyang Lin, former lead researcher of Alibaba's Qwen models, is raising several
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
+**Related:** [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of]] · [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

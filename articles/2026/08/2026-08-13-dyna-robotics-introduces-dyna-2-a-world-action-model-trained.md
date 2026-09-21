@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
-- 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
+- 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
 embedding_id: 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Dyna Robotics introduced Dyna-2, a world-action model for robot manipulation pre
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l]]
 <!-- graph:end -->

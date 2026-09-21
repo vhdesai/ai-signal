@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
+- 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 embedding_id: 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
 event_name: ''
@@ -39,5 +40,5 @@ The Denver-based AI infrastructure company announced an initial close of an over
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
+**Related:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]] · [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]] · [[2026-09-06-crusoe-raises-3b-at-a-30b-valuation]]
 <!-- graph:end -->

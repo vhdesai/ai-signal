@@ -4,8 +4,8 @@ title: HOTZed 1.0 Released — AI-First Native Code Editor
 date: '2026-04-30'
 source: Hacker News
 url_original: null
-url_canonical: https://ideaverse.ai/blog/zed-1-0-an-ai-native-gpu-driven-editor-reshaping-coding-moklp6s1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: d35551cd593017af7c69ef7031eb6df33d6fbaeb2a73e712512920f4a45125b0
 normalized_title_hash: 71f517f2603cc535

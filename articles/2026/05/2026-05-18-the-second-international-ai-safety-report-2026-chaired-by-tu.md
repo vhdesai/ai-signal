@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
+- 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 embedding_id: 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The second International AI Safety Report 2026, chaired by Turing Award winner Y
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]]
+**Related:** [[2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
 <!-- graph:end -->

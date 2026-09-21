@@ -1,18 +1,54 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1351
+member_count: 1387
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1351 connected article(s).
+> Auto-generated topic hub. 1387 connected article(s).
 
+- `2026-09-21` [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi|Z.ai apologizes after ZCode uploaded local workspace data without consent]]
+- `2026-09-21` [[2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica|US and China agree to formal AI dialogue and threat-notification hotline ahead of Trump–Xi summit]]
+- `2026-09-21` [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei|UN publishes first thematic brief warning governments to rein in AI agents]]
+- `2026-09-21` [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo|SCMP: Chinese labs still access frontier compute via cross-border cloud proxies as US weighs closing the loophole]]
+- `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-21` [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion|China drafts rules banning "virtual intimacy" and AI-companion services for minors]]
+- `2026-09-21` [[2026-09-21-china-and-the-us-compete-for-ai-dominance-but-share-safety-c|China and the US compete for AI dominance but share safety concerns]]
+- `2026-09-21` [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo|China Drafts Rules Banning "Virtual Intimacy" AI Companions for Minors]]
+- `2026-09-21` [[2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th|BofA: neither the US nor China can win the AI race without the other]]
+- `2026-09-21` [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif|Bessent: US and China discussed setting up an "AI safety notification system" ahead of Trump-Xi summit]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Sources Qwen-Image-2.1 — but Moves It Off Apache 2.0]]
+- `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]
+- `2026-09-20` [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah|US proposes a US–China AI incident notification mechanism ahead of Trump–Xi summit]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not|U.S. and China Agree to a Formal AI Dialogue and Incident-Notification Channel Ahead of Trump–Xi Summit]]
+- `2026-09-20` [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a|U.S. Proposes AI Incident Notification Mechanism With China Ahead of Trump–Xi Summit]]
+- `2026-09-20` [[2026-09-20-the-us-wants-an-ai-era-red-phone-with-china|The US wants an AI-era ‘red phone’ with China]]
+- `2026-09-20` [[2026-09-20-tencent-s-gander-an-always-talking-agent-that-keeps-conversi|Tencent's Gander: an always-talking agent that keeps conversing while working in the background]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-at-1-per-millio|StepFun Ships Step 5 Preview: 600B Sparse MoE at $1 per Million Input Tokens]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million|StepFun Ships 600B-Parameter Step 5 Preview at $1 per Million Input Tokens]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
+- `2026-09-20` [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu|Microsoft AI chief says China is not a reason to avoid AI guardrails]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu|Jensen Huang Rejects AI Extinction Warnings, Opposes New Regulation]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s|Jensen Huang Rejects AI Extinction Warnings, Opposes New AI-Specific Regulation]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
+- `2026-09-20` [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close|Alibaba's open-weight Qwen-Image-2.1 (7B) claims to beat closed image models on quality benchmarks]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial|Alibaba open-weights Qwen-Image-2.1 — but drops the commercial license]]
 - `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Weights Qwen-Image-2.1 — But Moves It Off Apache 2.0]]
 - `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
 - `2026-09-19` [[2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2|Qwen3.8-LiveTranslate Cuts Real-Time Interpretation Lag to 2.3 Seconds Across 60 Languages]]
 - `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]

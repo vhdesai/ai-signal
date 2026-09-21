@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 - 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
-- 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
-- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
+- 2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning
 embedding_id: 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia CEO Jensen Huang publicly criticized industry leaders — singling out An
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]]
+**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning]]
 <!-- graph:end -->

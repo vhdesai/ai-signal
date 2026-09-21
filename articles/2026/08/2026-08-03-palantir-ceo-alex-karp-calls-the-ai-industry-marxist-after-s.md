@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
+- 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
 embedding_id: 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Palantir posted a strong Q2 and that CEO Alex Karp used 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
+**Related:** [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape]] · [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr]]
 <!-- graph:end -->

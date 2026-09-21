@@ -5,8 +5,8 @@ title: '[HOT] OpenAI’s Greg Brockman Hints at AGI “Spud” Model (Apr 1–2)
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.livemint.com/technology/tech-news/what-is-openai-s-spud-greg-brockman-teases-new-chatgpt-model-build-on-years-of-research-11775105908398.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: ca777699dc5c5f281f4b9a3274229fc9f65e6968bebb2317db9baa1a2a7ad8b4

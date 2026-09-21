@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 413
+member_count: 417
 ---
 
 # Apple
 
-> Auto-generated entity hub. 413 connected article(s).
+> Auto-generated entity hub. 417 connected article(s).
 
+- `2026-09-20` [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor|Vocci ships an AI meeting-notes ring at $249 — new form factor, live privacy questions]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]
+- `2026-09-20` [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t|Apple’s new CEO builds up to unveiling the ideal AI device — then says it is the iPhone]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-18` [[2026-09-18-safari-27-ships-an-apple-built-mcp-server-handing-coding-age|Safari 27 Ships an Apple-Built MCP Server, Handing Coding Agents the Browser]]
 - `2026-09-18` [[2026-09-18-safari-27-ships-an-apple-built-mcp-server-that-lets-coding-a|Safari 27 Ships an Apple-Built MCP Server That Lets Coding Agents Drive the Browser]]

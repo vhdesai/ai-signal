@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
+- 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 embedding_id: 2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode
 event_name: ''
@@ -40,5 +41,5 @@ At the All-In Summit, Elon Musk proposed that competing AI companies, including 
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]]
+**Related:** [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]]
 <!-- graph:end -->

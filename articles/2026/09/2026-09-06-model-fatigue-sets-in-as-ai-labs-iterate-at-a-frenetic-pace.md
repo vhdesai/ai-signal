@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 - 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
+- 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CNBC reports that "model fatigue" is affecting enterprise buyers as OpenAI, Anth
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
 <!-- graph:end -->

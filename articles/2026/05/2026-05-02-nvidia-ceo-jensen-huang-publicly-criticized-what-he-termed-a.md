@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 - 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
+- 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 embedding_id: 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia CEO Jensen Huang publicly criticized what he termed a "god complex" among
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]]
+**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen]] · [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
 <!-- graph:end -->

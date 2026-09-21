@@ -1,17 +1,33 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1484
+member_count: 1500
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1484 connected article(s).
+> Auto-generated entity hub. 1500 connected article(s).
 
+- `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
+- `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g|Runway Details Real-Time, Steerable Video Generation on Its GWM-1 World Model]]
+- `2026-09-20` [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati|Nvidia’s Huang Calls AI Extinction Warnings “Doomsday Narratives”]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning|Jensen Huang says AI CEOs have ‘ulterior reasons’ for warning about doomsday]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an|Jensen Huang puts the odds of AI catastrophe by 2030 at "0%" and rejects a slowdown]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu|Jensen Huang Rejects AI Extinction Warnings, Opposes New Regulation]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s|Jensen Huang Rejects AI Extinction Warnings, Opposes New AI-Specific Regulation]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
+- `2026-09-20` [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as|Huang Says Nvidia Will Sell Twice as Many Chips Next Year as AI Enters “High Production Ramp”]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]

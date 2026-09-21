@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m
+- 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 - 2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing
 - 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
-- 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 embedding_id: 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The London-based neocloud filed its Form S-1 to list on the NYSE under the ticke
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m]] · [[2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]]
+**Related:** [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-141m]] · [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1]] · [[2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]]
 <!-- graph:end -->

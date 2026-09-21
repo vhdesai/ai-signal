@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse
 - 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 - 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
-- 2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow
+- 2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu
 embedding_id: 2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls
 event_name: ''
 ---
@@ -37,5 +37,5 @@ China’s minister of state security published a weekend essay identifying six p
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w]] · [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de]] · [[2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow]]
+**Related:** [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]] · [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w]] · [[2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de]] · [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu]]
 <!-- graph:end -->

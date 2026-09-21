@@ -25,10 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi
+- 2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-08-26-mystery-ox-alpha-model-traced-to-chinese-lab-z-ai
-- 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 embedding_id: 2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Developers discovered that Z.ai's coding assistant ZCode was silently uploading 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-26-mystery-ox-alpha-model-traced-to-chinese-lab-z-ai]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]]
+**Related:** [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi]] · [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

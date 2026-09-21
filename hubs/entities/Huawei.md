@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 211
+member_count: 218
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 211 connected article(s).
+> Auto-generated entity hub. 218 connected article(s).
 
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
 - `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
 - `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]

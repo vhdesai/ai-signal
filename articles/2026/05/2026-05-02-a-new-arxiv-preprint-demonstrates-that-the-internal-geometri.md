@@ -5,8 +5,8 @@ title: A new arXiv preprint demonstrates that the internal geometric structure o
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2407.11421
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: f1d2a830b26cf90fca646bd1303f7849c40b53efbc1c82c48b7bd546926fb5d3
 normalized_title_hash: 9650e008de08e90a

@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
+- 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
+- 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 embedding_id: 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 event_name: ''
 ---
@@ -38,5 +39,5 @@ In an interview released ahead of its September 20 broadcast, Nvidia CEO Jensen 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]]
+**Related:** [[2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can]] · [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an]] · [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr]] · [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]]
 <!-- graph:end -->

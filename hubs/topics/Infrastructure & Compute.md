@@ -1,15 +1,27 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1923
+member_count: 1935
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1923 connected article(s).
+> Auto-generated topic hub. 1935 connected article(s).
 
+- `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
+- `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
+- `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
+- `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
+- `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
 - `2026-09-20` [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal|Big Tech uses guarantees to keep $300B of AI exposure off balance sheets]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
+- `2026-09-20` [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co|Amazon cuts off Meta’s Muse agent from shopping on Amazon.com]]
 - `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
 - `2026-09-19` [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib|TypeSafe AI’s Jev gains attention as a model for typed, calibrated decisions]]
 - `2026-09-19` [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp|Trump floats a federal AI czar and an “AI Force” modeled on Space Force]]

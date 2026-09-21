@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
 - 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
-- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
+- 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
 embedding_id: 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CNBC, citing Reuters reporting, said U.S. and Chinese officials are preparing a 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]] · [[2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
+**Related:** [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]] · [[2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]]
 <!-- graph:end -->

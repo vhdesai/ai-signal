@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
+- 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
-- 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
 embedding_id: 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amodei published a plan Saturday proposing that frontier labs give independent s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]]
+**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Microsoft's MAI Superintelligence team (led by CEO Mustafa Suleyman) rele
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.dearhueman.com/news/microsoft-suleyman-superintelligence-mai-models
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 3c49ed38cefd2e11443f4dd5e4d34f1e8b6d8d737bb3cb75faf874f4f345a7ac

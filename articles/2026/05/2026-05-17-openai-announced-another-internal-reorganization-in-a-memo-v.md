@@ -5,8 +5,8 @@ title: OpenAI announced another internal reorganization in a memo viewed by The 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://letsdatascience.com/news/openai-consolidates-product-leadership-to-unify-agents-b55ddb0d
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 68787f8cb46a0f0f1aa60d5ae14cbbeb4504f6ff003632a66a96f5d586738d41

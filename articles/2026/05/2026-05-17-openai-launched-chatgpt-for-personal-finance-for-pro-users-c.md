@@ -5,8 +5,8 @@ title: OpenAI launched ChatGPT for personal finance for Pro users, connecting to
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 03ec082f77f2dbc0883e0bf7f24040543d4d039abb0a9163700408ad46bcfe99

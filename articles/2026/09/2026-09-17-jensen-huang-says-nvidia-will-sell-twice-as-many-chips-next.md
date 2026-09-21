@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year
 - 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
-- 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 embedding_id: 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Speaking to reporters ahead of an AI summit convened by King Charles III in Scot
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]]
+**Related:** [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]] · [[2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year]] · [[2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027]] · [[2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027]] · [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global]]
 <!-- graph:end -->

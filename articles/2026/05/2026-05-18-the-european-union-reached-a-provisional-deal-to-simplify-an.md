@@ -5,8 +5,8 @@ title: The European Union reached a provisional deal to simplify and partially d
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.proskauer.com/pub/eu-ai-act-update-provisional-deal-would-delay-high-risk-ai-rules
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 092abbc23d8efce87fde4507b141931a894c167c504b1370133c5535b626cb9c

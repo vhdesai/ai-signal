@@ -5,8 +5,8 @@ title: OpenAI Launches "The Deployment Company" With $4B+ Investment and 19-Firm
 date: '2026-05-11'
 source: 🔗 OpenAI Blog  · 🏢 OpenAI
 url_original: null
-url_canonical: https://www.digitalapplied.com/blog/openai-deployment-company-4b-enterprise-push
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: b06ceb73157d6ff5ece2e1de02638a0b39a39d617cfd63f35b54493e98bfb3d8

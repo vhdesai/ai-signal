@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
 - 2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement
 - 2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement
-- 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
+- 2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo
 embedding_id: 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The European Commission adopted its proposed EU KIDS Act, covering social media,
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]] · [[2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement]] · [[2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement]] · [[2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un]]
+**Related:** [[2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]] · [[2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement]] · [[2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement]] · [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo]]
 <!-- graph:end -->

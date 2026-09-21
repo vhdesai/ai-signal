@@ -4,8 +4,8 @@ title: Replit's Masad Argues for Independence as Cursor/SpaceX/xAI Talks Continu
 date: '2026-05-01'
 source: TechCrunch StrictlyVC / aipedia.wiki
 url_original: null
-url_canonical: https://aipedia.wiki/news/2026-05-01-replit-cursor-deal-independence/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 61ae608c6a50fb0672289c4f49f8ef35adc856847f28ab6a798206636c949310

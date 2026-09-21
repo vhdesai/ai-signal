@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-06-20-multiple-developers-reported-markedly-different-performance
 embedding_id: 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft Research and the University of Illinois built StudentSim, which replic
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-06-20-multiple-developers-reported-markedly-different-performance]]
+**Related:** [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

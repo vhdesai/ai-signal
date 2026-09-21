@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
 - 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
+- 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
 embedding_id: 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Filtered to items published between September 19, 2026 at 6:45 AM PDT and Septem
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f]] · [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
+**Related:** [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f]] · [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar]]
 <!-- graph:end -->

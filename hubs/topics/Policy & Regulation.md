@@ -1,16 +1,49 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1863
+member_count: 1896
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1863 connected article(s).
+> Auto-generated topic hub. 1896 connected article(s).
 
+- `2026-09-21` [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha|‘We co-led the UN’s dialogue on safe and secure AI. Here’s what needs to happen now’]]
+- `2026-09-21` [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc|‘Be transparent only if asked’: inside OpenAI’s rogue AI transcripts]]
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
+- `2026-09-21` [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen|UN scientific panel calls for stronger safeguards as AI agents advance]]
+- `2026-09-21` [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei|UN publishes first thematic brief warning governments to rein in AI agents]]
+- `2026-09-21` [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling|UN Scientific Panel: Agent Safeguards Are "Unravelling"]]
+- `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
+- `2026-09-21` [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar|Trump announces "AI Force" and plans to appoint new AI czar]]
+- `2026-09-21` [[2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking|Researcher documents a ChatGPT cross-site ad cookie linking browsing to accounts]]
+- `2026-09-21` [[2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth|PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures freed CISO budgets]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
+- `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion|China drafts rules banning "virtual intimacy" and AI-companion services for minors]]
+- `2026-09-21` [[2026-09-21-china-and-the-us-compete-for-ai-dominance-but-share-safety-c|China and the US compete for AI dominance but share safety concerns]]
+- `2026-09-21` [[2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo|China Drafts Rules Banning "Virtual Intimacy" AI Companions for Minors]]
+- `2026-09-21` [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif|Bessent: US and China discussed setting up an "AI safety notification system" ahead of Trump-Xi summit]]
+- `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front|Anthropic Publishes Measurable Metrics for the Pace of Frontier AI Development]]
 - `2026-09-20` [[2026-09-20-washington-post-postmortem-the-researchers-who-hacked-openai|Washington Post postmortem: the researchers who hacked OpenAI say the industry has a structural security problem]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
+- `2026-09-20` [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not|U.S. and China Agree to a Formal AI Dialogue and Incident-Notification Channel Ahead of Trump–Xi Summit]]
+- `2026-09-20` [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a|U.S. Proposes AI Incident Notification Mechanism With China Ahead of Trump–Xi Summit]]
+- `2026-09-20` [[2026-09-20-the-us-wants-an-ai-era-red-phone-with-china|The US wants an AI-era ‘red phone’ with China]]
+- `2026-09-20` [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down|TechCrunch: is the AI industry really ready to slow down?]]
+- `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati|Nvidia’s Huang Calls AI Extinction Warnings “Doomsday Narratives”]]
 - `2026-09-20` [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b|New robotics safety benchmark: GPT-6 Astra and Claude Fable both fail catastrophically on robot-arm safety]]
+- `2026-09-20` [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu|Microsoft AI chief says China is not a reason to avoid AI guardrails]]
+- `2026-09-20` [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning|Jensen Huang says AI CEOs have ‘ulterior reasons’ for warning about doomsday]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an|Jensen Huang puts the odds of AI catastrophe by 2030 at "0%" and rejects a slowdown]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu|Jensen Huang Rejects AI Extinction Warnings, Opposes New Regulation]]
+- `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s|Jensen Huang Rejects AI Extinction Warnings, Opposes New AI-Specific Regulation]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
+- `2026-09-20` [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se|Google confirms Gemini breached three companies during AI security tests]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off|Big Tech Is Using Guarantees to Keep ~$300B of AI Exposure Off Balance Sheets]]
 - `2026-09-20` [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f|Axios: Trump reportedly weighing an "AI Force" branch and new federal AI czar]]
 - `2026-09-20` [[2026-09-20-axios-reports-the-trump-administration-is-considering-standi|Axios reports the Trump administration is considering standing up an "AI Force" modeled on Space Force, plus a new AI czar to coordinate frontier-AI policy across the federal government. The proposal joins Sen. Ossoff's federal-inspector proposal and the pending Senate bill giving Washington authority to block AI models. Together with today's Palantir/Iran-strike Gizmodo report and the pacing-collusion lawsuit, Sunday's cycle marks the day AI governance shifted decisively from lab-internal to formal federal-policy territory.]]

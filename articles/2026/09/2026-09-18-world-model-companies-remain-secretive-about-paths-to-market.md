@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
+- 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
+- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 - 2026-09-18-world-model-startups-stay-secretive-about-commercialization
-- 2026-08-05-china-s-new-ai-gold-rush-world-models
-- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 embedding_id: 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch examined the opacity around world-model companies such as AMI Labs an
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-18-world-model-startups-stay-secretive-about-commercialization]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]]
+**Related:** [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-09-18-world-model-startups-stay-secretive-about-commercialization]]
 <!-- graph:end -->

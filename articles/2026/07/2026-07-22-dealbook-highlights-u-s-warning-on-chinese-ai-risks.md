@@ -21,10 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
+- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
+- 2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah
+- 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
-- 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
-- 2026-05-13-bloomberg-why-the-u-s-must-engage-china-on-ai-safety-before
-- 2026-07-06-internal-us-treasury-draft-warns-the-ai-market-echoes-the-do
 embedding_id: 2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks
 event_name: ''
 ---
@@ -37,5 +38,5 @@ DealBook flagged Treasury Secretary Scott Bessent's warning on Chinese AI as par
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]] · [[2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi]] · [[2026-05-13-bloomberg-why-the-u-s-must-engage-china-on-ai-safety-before]] · [[2026-07-06-internal-us-treasury-draft-warns-the-ai-market-echoes-the-do]]
+**Related:** [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
 <!-- graph:end -->

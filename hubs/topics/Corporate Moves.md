@@ -1,22 +1,62 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4370
+member_count: 4411
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4370 connected article(s).
+> Auto-generated topic hub. 4411 connected article(s).
 
+- `2026-09-21` [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi|Z.ai apologizes after ZCode uploaded local workspace data without consent]]
+- `2026-09-21` [[2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica|US and China agree to formal AI dialogue and threat-notification hotline ahead of Trump–Xi summit]]
+- `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
+- `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales unveils HexaForce as European-sovereign alternative to Palantir NATO battlefield stack]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next|SoftBank Launches Record $11B+ Junk-Bond Sale to Fund Its Next OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t|SoftBank Launches Record $11B+ Junk Bond Sale to Fund OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo|SCMP: Chinese labs still access frontier compute via cross-border cloud proxies as US weighs closing the loophole]]
+- `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
+- `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete|Google open-sources AX, an agentic orchestrator for Kubernetes]]
+- `2026-09-21` [[2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne|Google Publishes AX, an Open Agentic Orchestrator for Kubernetes]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-21` [[2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th|BofA: neither the US nor China can win the AI race without the other]]
+- `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon blocks Meta's Muse AI agent from shopping the Amazon store]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf|ABB Launches Infinitus, a Source-to-Rack Direct-Current Portfolio for 1 MW-per-Rack AI Data Centers]]
+- `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]
+- `2026-09-20` [[2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets|World model companies are keeping a lot of secrets]]
+- `2026-09-20` [[2026-09-20-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking|Vocci’s ring adds a new form factor to meeting note-taking]]
+- `2026-09-20` [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah|US proposes a US–China AI incident notification mechanism ahead of Trump–Xi summit]]
 - `2026-09-20` [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of|US daily AI usage doubled in six months — Ipsos/Epoch: 8% → 19% of adults]]
+- `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l|StepFun launches Step 5 Preview, a 600B-total MoE model for long-horizon agentic work]]
+- `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-scrolled-wants-to-turn-textbooks-into-tiktok|ScrollEd wants to turn textbooks into TikTok]]
 - `2026-09-20` [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g|Runway Details Real-Time, Steerable Video Generation on Its GWM-1 World Model]]
+- `2026-09-20` [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi|RoboHarm Finds Frontier Models Rarely Refuse Hazardous Physical Commands]]
 - `2026-09-20` [[2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da|Oura targets $16B IPO valuation as investors bet on health-data platforms, not devices]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]
+- `2026-09-20` [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down|Is the AI industry really ready to slow down?]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
+- `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
+- `2026-09-20` [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as|Huang Says Nvidia Will Sell Twice as Many Chips Next Year as AI Enters “High Production Ramp”]]
+- `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
+- `2026-09-20` [[2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne|Google Publishes AX, an Open Agentic Orchestrator for Kubernetes]]
+- `2026-09-20` [[2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k|Google Publishes AX, an Apache 2.0 Agentic Orchestrator for Kubernetes]]
 - `2026-09-20` [[2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea|Global Chip Market Projected to Exceed $1.6 Trillion This Year Despite AI Slowdown Talk]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
 - `2026-09-20` [[2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to|Business Insider: the timing of the AI slowdown call looks too convenient to ignore]]
+- `2026-09-20` [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t|Apple’s new CEO builds up to unveiling the ideal AI device — then says it is the iPhone]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t|Anthropic reportedly pushes IPO from October to November; $2T valuation and $100B raise on the table]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str|Anthropic reportedly delays IPO to November to present a stronger Q3]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem|Anthropic Reportedly Postpones Its IPO From October to November]]
@@ -34,6 +74,7 @@ member_count: 4370
 - `2026-09-19` [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all|Meta Launches Muse for Mac With a Separate Agent Gating All Outbound Traffic]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-19` [[2026-09-19-imf-tells-eu-ministers-ai-could-lift-growth-while-increasing|IMF tells EU ministers AI could lift growth while increasing economic strains]]
+- `2026-09-19` [[2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875|CoreWeave prices $3.7B convertible bond; coupon jumps to 2.875% on AI-debt jitters]]
 - `2026-09-19` [[2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf|Clivet debuts magnetic-levitation cooling platform at AI Infra Summit as rack densities climb]]
 - `2026-09-19` [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n|Chinese researchers report progress on sub-3nm chips using non-EUV lithography]]
 - `2026-09-19` [[2026-09-19-antitrust-suit-alleges-openai-anthropic-google-and-spacexai|Antitrust suit alleges OpenAI, Anthropic, Google and SpaceXAI illegally agreed to slow AI development]]
