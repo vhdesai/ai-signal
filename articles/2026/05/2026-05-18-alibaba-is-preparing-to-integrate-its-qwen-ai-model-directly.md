@@ -5,8 +5,8 @@ title: Alibaba is preparing to integrate its Qwen AI model directly with Taobao 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/gemini/articles/alibaba-integrate-qwen-ai-taobao-014420350.html
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 74f88691b028e9bc20a8cd983257920eebf88232f91cb1e65915fd242c239110

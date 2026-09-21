@@ -5,8 +5,8 @@ title: VCs are flooding Anthropic with offers to invest at valuations as high as
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://quantumnews.in/article/investment/vcs-are-flooding-anthropic-offers-invest-800-billion
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 7b8f1a1aeef2a4db76ddcf3dca310d4755e03ea6410591476609846850cae80a

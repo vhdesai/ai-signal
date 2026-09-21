@@ -5,8 +5,8 @@ title: Daily AI News Digest — April 4, 2026 | Compiled from 30+ sources includ
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: e951cdb39426b154c8d5aac44b070be948af84706376ac52b7ca2583d67c6d5c

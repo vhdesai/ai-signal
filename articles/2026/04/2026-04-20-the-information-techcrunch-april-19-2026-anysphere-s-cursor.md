@@ -5,8 +5,8 @@ title: The Information / TechCrunch • April 19, 2026 Anysphere's Cursor is rep
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 8637550a91cd26ea771385ec95d5dcdd743e63ea5fdb17006cadde03dac0567e

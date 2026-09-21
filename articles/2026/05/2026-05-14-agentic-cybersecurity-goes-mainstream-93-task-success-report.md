@@ -4,8 +4,8 @@ title: 'Agentic Cybersecurity Goes Mainstream: 93% Task Success Reported'
 date: '2026-05-14'
 source: Stanford 2026 AI Index
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.kiteworks.com/cybersecurity-risk-management/stanford-ai-index-2026-agentic-ai-security-governance/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: d3c5ff3f78605246331b75176143a5e58b5143f6a22f61d01782660dfc2158ae

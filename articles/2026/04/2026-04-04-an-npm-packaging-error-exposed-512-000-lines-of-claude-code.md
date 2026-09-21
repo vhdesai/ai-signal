@@ -5,8 +5,8 @@ title: An npm packaging error exposed 512,000+ lines of Claude Code TypeScript s
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://byteiota.com/claude-code-leak-npm-packaging-error/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: eaf7b9fa0fd8091acaa5b5175583e62d91d05e741c007133774cc2801a367970

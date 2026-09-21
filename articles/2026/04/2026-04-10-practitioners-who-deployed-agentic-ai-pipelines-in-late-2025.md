@@ -5,8 +5,8 @@ title: Practitioners who deployed agentic AI pipelines in late 2025 and Q1 2026 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.growthhakka.co.uk/2026/07/27/agentic-ai-failure-patterns-killing-enterprise-projects/
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 4ba562acec9bd0e951f7e9b59e1d067ac93ac652425cf0b0accf56a52f42dc77

@@ -5,8 +5,8 @@ title: A bipartisan Senate coalition introduced legislation requiring mandatory 
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-lead-bipartisan-push-for-mandatory-energy-use-reporting-requirements-for-data-centers/
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 14fddd0c4d4aeef5b3752e1225079242784f8075b11691698e718eed9711d0de

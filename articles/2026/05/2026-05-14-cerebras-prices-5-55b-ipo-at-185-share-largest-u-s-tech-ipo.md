@@ -4,8 +4,8 @@ title: Cerebras Prices $5.55B IPO at $185/Share — Largest U.S. Tech IPO Since 
 date: '2026-05-14'
 source: The Information / Blockonomi
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/cerebras-ipo-5-55-billion-biggest-tech-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 4b68f789d8f179683ca34f867d1001ac3eef1f029158d89552e958f3d51a89ce

@@ -5,8 +5,8 @@ title: ARC-AGI-3 Analysis Reveals Three Systematic Reasoning Failures in Top AI 
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 64d083ef0ea8c5d682e856c8ac77a97740206829208fcdb5f8f6bb126ae05e4e
 normalized_title_hash: 0c972653809c4e27

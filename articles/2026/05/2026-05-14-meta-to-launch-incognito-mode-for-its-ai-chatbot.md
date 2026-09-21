@@ -4,8 +4,8 @@ title: Meta to Launch Incognito Mode for Its AI Chatbot
 date: '2026-05-14'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.progressiverobot.com/meta-launches-incognito-chat-with-meta-ai-for-private-conversations-on-whatsapp-and-meta-ai-app
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 0b965d7d79962ff587fe78b85a7d396998ed47d89b45cea0d16de762275025d5

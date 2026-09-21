@@ -4,8 +4,8 @@ title: Pentagon Signs 8 AI Vendors for Classified IL6/IL7 Networks — Anthropic
 date: '2026-05-10'
 source: The Neuron AI / Dev Weekly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.beri.net/article/pentagon-deploys-8-ai-vendors-classified-networks
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 7a384ded1181e42862edefb1f0b062cf554927d11b14420ed79c20c41accda98

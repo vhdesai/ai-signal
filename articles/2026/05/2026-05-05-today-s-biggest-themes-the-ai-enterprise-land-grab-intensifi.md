@@ -5,8 +5,8 @@ title: 'Today''s biggest themes: The AI enterprise land-grab intensified dramati
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.virgent.ai/case-studies/deployment-layer-land-grab-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: f6f8d0ad447f55da6863c8aa28f1a0507c70a530ffd9018f6b0a18b0fd693ac5
 normalized_title_hash: 9a1194f170116994

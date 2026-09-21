@@ -4,8 +4,8 @@ title: NEWGoogle Gemini API adds event-driven webhooks
 date: '2026-05-04'
 source: Google for Developers Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: a1318918f32317dba4aebfe40de14a75d687d66705478bd6a059f094ea18eab3
 normalized_title_hash: b301818070c9bff6

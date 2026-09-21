@@ -5,8 +5,8 @@ title: The Information / Axios • April 17–19, 2026 OpenAI confirmed the depa
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/openai-departures-kevin-weil-sora-peebles-enterprise-pivot
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 8bff056a50f19368b14506497336f1b03921e8b03f4b2286d99cea45e31c1dd6

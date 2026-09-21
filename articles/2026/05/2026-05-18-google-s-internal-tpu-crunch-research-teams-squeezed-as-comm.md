@@ -5,8 +5,8 @@ title: 'Google''s Internal TPU Crunch: Research Teams Squeezed as Commercial Pri
 date: '2026-05-18'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.biggo.com/news/GUVPQJ4BmHHDnbgytRrj
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 4b9e65d83abd2cd71d8c447aed870720f8ce3cd5e9054f8b4dfc4494459e2307

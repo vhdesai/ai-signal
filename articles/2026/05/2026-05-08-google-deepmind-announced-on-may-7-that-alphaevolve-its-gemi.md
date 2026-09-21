@@ -5,8 +5,8 @@ title: Google DeepMind announced on May 7 that AlphaEvolve — its Gemini-powere
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 56be781658cafd42a1f4e9f4ed5f551a5615dd23b29b4338b75274dde34c29e6
 normalized_title_hash: 83b9a1faae854284

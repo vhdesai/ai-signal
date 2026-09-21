@@ -5,8 +5,8 @@ title: Cisco Cuts ~4,000 Jobs While Posting Record Quarterly Revenue, Redirectin
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 215bb0f63c37ff80500f7acbda893427355292fd9abacfb3036abd9b2ffbfb69

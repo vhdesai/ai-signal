@@ -5,8 +5,8 @@ title: A new Stanford study published this week outlines specific dangers associ
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: df996bcc35cda5e3f7503cb15448430ea7f1bee70c4667cd6b1178e94e9e8665

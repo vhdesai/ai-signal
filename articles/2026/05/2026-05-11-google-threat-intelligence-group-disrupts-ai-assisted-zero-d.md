@@ -5,8 +5,8 @@ title: Google Threat Intelligence Group Disrupts AI-Assisted Zero-Day Exploit Be
 date: '2026-05-11'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/google-ai-assisted-zero-day-exploit/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 0473dc41a229797653cdafff827f78d25121e1c3a32787a2227d3f11a37794e9

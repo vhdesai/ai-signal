@@ -4,8 +4,8 @@ title: Colorado, Connecticut & California Advance Distinct AI Governance Framewo
 date: '2026-05-11'
 source: JD Supra / Kelley Drye & Warren
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.jdsupra.com/legalnews/ai-regulatory-roundup-recent-1608362/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: ec3d2556f02ada75e8482ca294d7aefb1795ad2e31c69175496a6b825886897b

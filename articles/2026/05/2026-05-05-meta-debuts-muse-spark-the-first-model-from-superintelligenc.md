@@ -4,8 +4,8 @@ title: Meta debuts Muse Spark, the first model from Superintelligence Labs
 date: '2026-05-05'
 source: Reuters / The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai.meta.com/blog/introducing-muse-spark-msl/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 4caa8002817a66de2d7a55ea4c415872c0f0e7fb34a301eb351d3b2b35768e4f

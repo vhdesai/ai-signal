@@ -4,8 +4,8 @@ title: Enzo Health raises $20M Series A for home-health and hospice AI
 date: '2026-05-04'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techbuzznews.com/enzo-health-raises-20m-series-a/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 853a5fe8d5ca83404d73f482a7fe537449d5b657630a34c726e225bfc5efad8b
 normalized_title_hash: e6bc1e6498b60e30

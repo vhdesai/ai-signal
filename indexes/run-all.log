@@ -1,0 +1,71 @@
+{
+  "command": "run-all",
+  "stages": {
+    "ingest": {
+      "digests_total": 1242,
+      "digests_changed": 0,
+      "changed": []
+    },
+    "split": {
+      "digests_parsed": 1244,
+      "articles_written": 12177,
+      "events_parsed": 94,
+      "event_articles_written": 78,
+      "skipped_publication_sources": 30,
+      "skipped_thin_articles": 4413
+    },
+    "index": {
+      "articles_indexed": 9021,
+      "embeddings": {
+        "enabled": true,
+        "added": 0,
+        "total": 9021,
+        "md_rewritten": 9021
+      }
+    },
+    "dedupe": {
+      "articles": 9021,
+      "exact_duplicates": 6,
+      "canonical": 6630,
+      "semantic_duplicates": 2385,
+      "related_links": 27464
+    },
+    "build-graph": {
+      "status": "ok",
+      "articles_linked": 9021,
+      "wikilinks_emitted": 61586,
+      "entity_hubs": 34,
+      "topic_hubs": 8,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    },
+    "validate-urls": {
+      "checked": 3967,
+      "ok": 2854,
+      "broken": 1113,
+      "missing": 5031,
+      "skipped": 23
+    },
+    "repair-urls": {
+      "attempted": 1481,
+      "repaired": 454,
+      "unresolved": 1027,
+      "skipped": 89,
+      "reverted": 0,
+      "deferred": 4574,
+      "terminated": "timeout",
+      "elapsed_s": 3632.9,
+      "max_workers": 10
+    },
+    "build-site": {
+      "pages": 274,
+      "articles": 9021,
+      "canonical": 6630,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+    },
+    "publish": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  },
+  "run_log": "indexes\\runs\\run-20260921T013314+0000-f23d64.json"
+}

@@ -5,8 +5,8 @@ title: 'TrendingDeepSeek V4: 1.6 Trillion Parameters, MIT License, Runs on Huawe
 date: '2026-05-01'
 source: Reuters / Manila Times / The Deep Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/deepseek-v4-huawei-ascend-1-6-trillion-parameter-moe-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 33d26ff61fd7879e8cb567db117b37e37adc9aaf179bede69afa9ecdc265770c
 normalized_title_hash: 85da0adc08d8c8fb

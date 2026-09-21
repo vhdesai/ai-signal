@@ -4,8 +4,8 @@ title: Hot Anthropic ARR Reportedly Hits $30B, Surpassing OpenAI
 date: '2026-04-21'
 source: AI Flash Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bitsminds.com/news/anthropic-30b-arr-surpasses-openai-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 5b0762290dfd7225dada4fba007ba6b5e3fd89eaedcf7dd07e378ba45b5efcd8

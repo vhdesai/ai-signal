@@ -5,8 +5,8 @@ title: Zhipu AI's GLM-5V-Turbo — A multimodal model converting design mockups 
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/zhipu-ais-glm-5v-turbo-turns-design-mockups-directly-into-executable-front-end-code/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 082646cabad95d2270c3e600d74c9365986d5f579424282559772fa222f4b3b4

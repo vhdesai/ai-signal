@@ -4,8 +4,8 @@ title: Anthropic Launches Claude Design for Visual Collaboration
 date: '2026-05-18'
 source: Anthropic Labs
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-design-anthropic-labs
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 26765a309202bd68c9b935fe9541b75646b0555c1b6bdb7201c84d8b22b74b27

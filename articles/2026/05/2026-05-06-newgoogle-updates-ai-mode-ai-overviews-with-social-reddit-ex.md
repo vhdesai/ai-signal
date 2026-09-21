@@ -4,8 +4,8 @@ title: NewGoogle Updates AI Mode & AI Overviews with Social & Reddit "Expert Adv
 date: '2026-05-06'
 source: The Verge / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: c9fde85f7efa95ca799389810d66022b99d771d7f6c18fa90bed2b67b8b99ec3
 normalized_title_hash: 2f6a5674c38839ec

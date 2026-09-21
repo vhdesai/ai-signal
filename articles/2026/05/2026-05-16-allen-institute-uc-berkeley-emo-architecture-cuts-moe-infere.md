@@ -5,8 +5,8 @@ title: 'Allen Institute + UC Berkeley: EMO Architecture Cuts MoE Inference Cost 
 date: '2026-05-16'
 source: Allen Institute for AI / UC Berkeley / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://allenai.org/blog/emo
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 5388a30f90db684c95298b9541c5d2022d9db0e660c8d5cf4281b331ee2b5b16

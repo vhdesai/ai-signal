@@ -4,8 +4,8 @@ title: Microsoft Names Former EY CEO to Board
 date: '2026-05-15'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://globalleaderstoday.online/microsoft-names-ex-ey-ceo-carmine-di-sibio-to-board-of-directors-2/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 774b4294d9c0e986fb55e2c2d990a6ca68479c860879d01a9fdf7e69291f3eb3

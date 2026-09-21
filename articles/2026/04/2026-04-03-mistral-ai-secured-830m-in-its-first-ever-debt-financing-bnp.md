@@ -5,8 +5,8 @@ title: Mistral AI secured $830M in its first-ever debt financing (BNP Paribas, H
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/mistral-ai-830m-debt-data-centre-paris
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 9ff151709d1f8f1cae63576fda659b1ef456bb1f4783f557c1149c6244e91033

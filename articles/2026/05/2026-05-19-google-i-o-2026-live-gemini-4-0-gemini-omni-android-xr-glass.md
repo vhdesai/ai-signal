@@ -5,8 +5,8 @@ title: 'Google I/O 2026 Live: Gemini 4.0, Gemini Omni, Android XR Glasses and Al
 date: '2026-05-19'
 source: The Indian Express / Times of India / AIxploria
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://indianexpress.com/article/technology/tech-news-technology/google-i-o-2026-gemini-biggest-annoucements-10698450/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: b8a8d3dfd0bc618f5161cb06c62394e5ce1bfecce2554f7d438f3a9701595031

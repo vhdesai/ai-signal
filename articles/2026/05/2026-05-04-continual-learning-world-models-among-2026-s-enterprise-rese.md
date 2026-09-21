@@ -4,8 +4,8 @@ title: Continual learning & world models among 2026's enterprise research themes
 date: '2026-05-04'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://innotechdesign.uk/four-ai-research-trends-2026-enterprise/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 9001a120a47b5efb9347deeb7770c7df15d85db4dd9abfe8fdbdd78a862f2119
 normalized_title_hash: d2ab5ab9c73404a8

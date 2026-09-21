@@ -4,8 +4,8 @@ title: Mira Murati's Thinking Machines Previews Real-Time AI Interaction Models
 date: '2026-05-12'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/interaction-models-thinking-machines-real-time-ai/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: f40a107ef695acd2a84f1ade3dc3673677438f0f436cde5dda9ee7447465132a

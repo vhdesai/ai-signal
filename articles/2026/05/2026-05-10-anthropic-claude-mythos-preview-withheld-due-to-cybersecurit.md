@@ -4,8 +4,8 @@ title: Anthropic Claude Mythos Preview — Withheld Due to Cybersecurity Risk
 date: '2026-05-10'
 source: CNBC / Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.infoq.com/news/2026/04/anthropic-claude-mythos/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 32f22c6bc2c1eaafdf1fc3b99924c63f0f4ff61f08e76f55e3ba6b4b39d3d55e

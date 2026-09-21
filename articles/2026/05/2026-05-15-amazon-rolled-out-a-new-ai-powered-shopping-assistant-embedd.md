@@ -5,8 +5,8 @@ title: Amazon rolled out a new AI-powered shopping assistant embedded directly i
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3e41fcf883f88719ffe782d6cdc850e05d718b8d2474ddd17e6fc207ab6cec77

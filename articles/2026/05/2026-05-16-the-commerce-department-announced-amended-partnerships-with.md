@@ -5,8 +5,8 @@ title: The Commerce Department announced amended partnerships with Google DeepMi
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nextgov.com/artificial-intelligence/2026/05/commerce-ai-center-will-evaluate-google-deepmind-microsoft-and-xai-models/413349/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f2c527af2b809afc1fd2cf94e6d5f6ee2a260bdabb9fc655711101c0994ee8ad

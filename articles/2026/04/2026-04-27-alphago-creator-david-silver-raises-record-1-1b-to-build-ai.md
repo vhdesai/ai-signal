@@ -5,8 +5,8 @@ title: AlphaGo Creator David Silver Raises Record $1.1B to Build AI That Learns 
 date: '2026-04-27'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 12e5eac607eda9c91f2ebb24005ae750464f2455a41253ee38a36b8d7b7ce3ad

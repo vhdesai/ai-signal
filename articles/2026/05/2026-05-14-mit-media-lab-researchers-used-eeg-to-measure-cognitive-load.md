@@ -5,8 +5,8 @@ title: 'MIT Media Lab researchers used EEG to measure cognitive load during essa
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 347d53c325a756933b8b05d6fa61952f7538d6f8b21ff139d88572680ee9f6f9

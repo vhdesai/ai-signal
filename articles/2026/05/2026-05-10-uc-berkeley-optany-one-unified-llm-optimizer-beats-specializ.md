@@ -5,8 +5,8 @@ title: UC Berkeley "optany" — One Unified LLM Optimizer Beats Specialized Syst
 date: '2026-05-10'
 source: ACM CAIS 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/papers/optany-unified-text-optimization-can-outperform-specialized-systems/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 56f4a641e6f2020e757a8889e6a608c13954d882b9baf047f3ff3068cbd0da61

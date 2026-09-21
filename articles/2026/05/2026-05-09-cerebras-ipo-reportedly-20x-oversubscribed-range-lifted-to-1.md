@@ -4,8 +4,8 @@ title: Cerebras IPO Reportedly 20x Oversubscribed; Range Lifted to $125–$135
 date: '2026-05-09'
 source: LinkedIn Pulse / Sentosa Exponential
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theplanettools.ai/blog/cerebras-ipo-pricing-above-range-4-8-billion-nasdaq-debut-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 4138e79a67cb6b52e6575869dab6468178d72f711981da883024e13ff21274f4

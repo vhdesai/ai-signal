@@ -5,8 +5,8 @@ title: 'Allen Institute + UC Berkeley''s EMO Model: Near-Full Performance Using 
 date: '2026-05-16'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: c0bf095cf902a24220b4de87ddba825a0a8538cc6c13e7b8ab614b8a146124c6

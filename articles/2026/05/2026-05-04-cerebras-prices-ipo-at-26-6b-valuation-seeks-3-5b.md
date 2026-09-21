@@ -4,8 +4,8 @@ title: Cerebras prices IPO at $26.6B valuation, seeks $3.5B
 date: '2026-05-04'
 source: SiliconANGLE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/cerebras-ipo-filing-510m-revenue-openai-deal-23b-valuation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 3e130b601fb04dad40fb3ce9b2af001e1a77e04272851c5043b69c0ff5d228e8
 normalized_title_hash: 791d3d400cf9666b

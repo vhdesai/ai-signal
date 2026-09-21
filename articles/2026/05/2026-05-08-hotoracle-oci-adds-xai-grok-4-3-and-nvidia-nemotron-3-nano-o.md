@@ -4,8 +4,8 @@ title: HotOracle OCI Adds xAI Grok 4.3 and Nvidia Nemotron 3 Nano Omni
 date: '2026-05-08'
 source: Enterprise AI Pivot / Oracle
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai2.work/blog/oracle-adds-grok-4-3-and-nemotron-nano-omni-to-oci-enterprise-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 373856ec0456de6e74687a1f967227e898fb4b31840a2fae1019acfc7bee7e71

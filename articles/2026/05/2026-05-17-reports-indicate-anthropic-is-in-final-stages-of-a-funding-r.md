@@ -5,8 +5,8 @@ title: Reports indicate Anthropic is in final stages of a funding round seeking 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/anthropic-hits-965-billion-valuation-104626610.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: ba19f3532748a9a6cc36fd6bf951b22fd87947886e577bacbcc18270ed6f4765

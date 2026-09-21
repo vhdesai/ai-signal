@@ -4,8 +4,8 @@ title: Microsoft GitHub's AI lead is eroding, per The Information
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ainewsleader.com/articles/73061/microsoft-executives-sound-the-alarm-over-githubs-eroding-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 4e51656b16fce155977d1538ef5c5071c9115c64ed51f8075f95a7a725be190c

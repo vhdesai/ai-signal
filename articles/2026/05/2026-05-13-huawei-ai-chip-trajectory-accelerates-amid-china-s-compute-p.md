@@ -4,8 +4,8 @@ title: Huawei AI Chip Trajectory Accelerates Amid China's Compute Push
 date: '2026-05-13'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blockonomi.com/huawei-accelerates-ai-chip-production-to-challenge-nvidias-market-position-in-china/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 9d33ffb2ea46e6fcc2ee914c5a3248787cb6fb37aa7b899ee9fda0c7d8f7ca96

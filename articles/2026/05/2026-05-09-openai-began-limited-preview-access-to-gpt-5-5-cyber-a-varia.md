@@ -5,8 +5,8 @@ title: OpenAI began limited preview access to GPT-5.5-Cyber, a variant of GPT-5.
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/openai-rolls-out-gpt-55-cyber-to-cybersecurity-teams-d0255670
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: a5fb17d86e45fb90908798b02efea5509dad41d5228b586a27215ccb2d2fc701
 normalized_title_hash: b14e2feb059abff4

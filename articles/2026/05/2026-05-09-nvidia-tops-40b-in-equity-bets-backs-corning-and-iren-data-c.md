@@ -4,8 +4,8 @@ title: Nvidia Tops $40B in Equity Bets, Backs Corning and IREN Data Centers
 date: '2026-05-09'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 642d4e6e027cef86a104e2af9917ef57185e0f4727829c566c27bab91465498e

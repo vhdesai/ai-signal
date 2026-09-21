@@ -5,8 +5,8 @@ title: A new macOS tool called AI Osaurus launched today, giving users a unified
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.neurokitai.com/en/products/osaurus
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 9139bd97481195a0ab5e23fa3b71442789f7d07d7318ae6ea7144f980c102d36

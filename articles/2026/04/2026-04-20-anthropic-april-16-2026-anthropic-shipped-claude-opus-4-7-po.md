@@ -5,8 +5,8 @@ title: Anthropic • April 16, 2026 Anthropic shipped Claude Opus 4.7, positione
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/claude/opus
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 143a93fd21de3f5bd6e121ea3f4aeb8986fd8e6224e93c10fbbbaf75078da4cd

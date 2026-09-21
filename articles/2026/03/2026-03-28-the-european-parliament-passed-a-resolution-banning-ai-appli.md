@@ -5,8 +5,8 @@ title: The European Parliament passed a resolution banning AI applications desig
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.euronews.com/my-europe/2026/05/19/not-without-my-consent-how-europe-plans-to-ban-non-consensual-nudifier-apps
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 3dd3afb2db116c0d4a50a9f6c9bc64d5330c5d07b963e3852bebd70809deb070

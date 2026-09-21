@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
-- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 embedding_id: 2026-09-18-faa-ai-rollout-draws-airline-concern-as-agencies-push-automa
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Business Insider reported on airline concern around the FAA's push for a new AI 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
+**Related:** [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]]
 <!-- graph:end -->

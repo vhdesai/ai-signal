@@ -5,8 +5,8 @@ title: Google DeepMind released Gemini Robotics ER 1.6 with upgraded spatial rea
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/gemini-robotics-er-1-6/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: feaa679456e5d57f2271b4fd55285f365864edb6222dba27ee4bb625165955ee

@@ -4,8 +4,8 @@ title: April 2026 is tracking as a landmark month for model releases
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://joulyan.com/en/blog/april-2026-ai-news-digest-the-biggest-model-releases-platfor
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 14842230332763add244c66c349ce7dcbc5ddb78ee948f134f7abf8fe1e66ebd

@@ -5,8 +5,8 @@ title: The Trump administration is reportedly considering an executive order tha
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gizmodo.com/trump-reportedly-considering-executive-order-aimed-at-vetting-new-ai-models-2000754493
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 083ad39e672553eb73fe59232d6662f291afa7ca698912bf994db0b3781d95b9
 normalized_title_hash: 8c9f4f59368c2b0b

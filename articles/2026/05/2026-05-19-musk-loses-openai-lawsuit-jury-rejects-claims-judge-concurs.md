@@ -4,8 +4,8 @@ title: Musk Loses OpenAI Lawsuit — Jury Rejects Claims, Judge Concurs
 date: '2026-05-19'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://interestingengineering.com/ai-robotics/jury-rejects-musk-openai-claims
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 20a20c3d55413a47b67184d19163cc4e46ad8c855883334accb48c24a9e99a54

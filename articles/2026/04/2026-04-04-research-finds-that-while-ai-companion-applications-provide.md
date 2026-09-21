@@ -5,8 +5,8 @@ title: research finds that while AI companion applications provide immediate com
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://instituteforsocialconnection.org/library/techxplore-ai-companions-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 586b6bb0500407821dfd59e68ac29d913e328945c4048d5a2a617c63e9baa691

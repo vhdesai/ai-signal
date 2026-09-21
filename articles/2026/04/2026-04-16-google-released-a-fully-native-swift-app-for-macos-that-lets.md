@@ -5,8 +5,8 @@ title: Google released a fully-native Swift app for macOS that lets users share 
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://anintent.com/blog/google-gemini-mac-app-native-swift-launch/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: a131f2560d23e31e474107936cf6804ac3dd5fa7462ae620cfc2ffdc3237a5a1
