@@ -1,22 +1,43 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1619
+member_count: 1640
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1619 connected article(s).
+> Auto-generated topic hub. 1640 connected article(s).
 
+- `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
+- `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
+- `2026-09-22` [[2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo|Helsinki's Verda Raises $189M, Becoming Europe's Newest AI Cloud Unicorn]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b|Microsoft and Anthropic Account for $87.7B of Nscale's $103B Backlog]]
+- `2026-09-21` [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm|Meta's Iris AI Chip Enters Mass Production at TSMC 3nm]]
+- `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]
+- `2026-09-21` [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for|Marvell rallies after unveiling 1.6T optical technology for AI networks]]
+- `2026-09-21` [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir|Kairos Power Secures up to $100M from Samsung C&T for Its First Reactor, with Google as Offtaker]]
+- `2026-09-21` [[2026-09-21-einride-partners-with-nvidia-to-scale-autonomous-freight-on|Einride Partners with Nvidia to Scale Autonomous Freight on DRIVE Hyperion]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
 - `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar|Crusoe Raises $3.9B Series F at $30.9B; AI Infrastructure Megarounds Continue]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf|ABB Launches Infinitus, a Source-to-Rack Direct-Current Portfolio for 1 MW-per-Rack AI Data Centers]]
 - `2026-09-20` [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down|TechCrunch: is the AI industry really ready to slow down?]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as|Huang Says Nvidia Will Sell Twice as Many Chips Next Year as AI Enters “High Production Ramp”]]
 - `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
 - `2026-09-20` [[2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea|Global Chip Market Projected to Exceed $1.6 Trillion This Year Despite AI Slowdown Talk]]
@@ -28,7 +49,7 @@ member_count: 1619
 - `2026-09-19` [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit|Marvell and GlobalFoundries Rise After Expanded SiGe Capacity Deal for AI Data Centers]]
 - `2026-09-19` [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi|IMF Tells EU Finance Ministers AI Adds ~1% Productivity but Widens Gaps and Strains Grids]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea|Google DeepMind's Dream-RSI lets agents self-improve by "dreaming" over past searches]]
-- `2026-09-19` [[2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875|CoreWeave prices $3.7B convertible bond; coupon jumps to 2.875% on AI-debt jitters]]
+- `2026-09-19` [[2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875|CoreWeave Prices $3.7B Convertible Bond; Coupon Jumps to 2.875% on AI-Debt Jitters]]
 - `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
 - `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]
 - `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open|Researchers Used Claude Opus 5 to Chain an Exploit Into OpenAI Employee Accounts and an Internal Repo]]

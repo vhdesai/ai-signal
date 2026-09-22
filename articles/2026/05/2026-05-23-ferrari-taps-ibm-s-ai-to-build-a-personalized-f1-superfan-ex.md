@@ -4,8 +4,8 @@ title: Ferrari Taps IBM's AI to Build a Personalized F1 "Superfan" Experience
 date: '2026-05-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 24f1c53dfe22646fc11ba2069a5134035c69b40d91bdf4d82c545b7bb25cda09

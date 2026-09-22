@@ -5,8 +5,8 @@ title: 'StepFun launches Step 5 Preview: 600B-total / 27B-active MoE with 1M con
 date: '2026-09-21'
 source: MarkTechPost (API launched Sept 20) — no direct link available
 url_original: null
-url_canonical: https://www.datastudios.org/post/stepfun-launches-step-5-preview-with-600b-parameters-1m-context-and-open-weights-coming-october-15
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6a5ce6af21421d430b5fe62229a1bea8c0737e9dcdf5a889fb5e386c9b10a4eb

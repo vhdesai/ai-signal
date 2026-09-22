@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
+- 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 embedding_id: 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tencent open-sourced Team Memory, an extension of its Agent Memory system that s
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
+**Related:** [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
 <!-- graph:end -->

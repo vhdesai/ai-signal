@@ -5,8 +5,8 @@ title: OpenAI established the OpenAI Deployment Company, a majority-controlled v
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techjournal.org/openai-launches-4-billion-deployment-company
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: c33a485b66458a857b9fd624783ec8efaf18d5d57fd834e6903cbabc67d6f49f

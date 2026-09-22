@@ -4,8 +4,8 @@ title: MIT Researchers Teach AI Models to Interpret Charts and Visualizations
 date: '2026-06-03'
 source: MIT News
 url_original: null
-url_canonical: https://www.csail.mit.edu/news/mit-researchers-teach-ai-models-interpret-charts
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: e23e530d71ae3154707414f0242d9d50897b6ce9fc2b11d1e80cecdedd463417

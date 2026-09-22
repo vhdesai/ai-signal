@@ -4,8 +4,8 @@ title: SambaNova Raises $1B for Inference Silicon
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://www.oquilia.com/news/sambanova-1bn-series-f-inference-chips
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_070026_Final-Daily-AI-News-Digest.md
 content_hash: 007b121ec7ca007044c0cba66b5c31de316463f8813f01baa320030949323d4a
 normalized_title_hash: 5a39c755db81ee12

@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-daily-ai-news-digest-september-5-2026
+- 2026-09-21-daily-ai-news-digest-september-22-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-08-15-daily-ai-news-digest-august-16-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 embedding_id: 2026-09-03-daily-ai-news-digest-september-4-2026
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Summary: This corrected edition expands the digest with added coverage that broa
 
 **Entities:** [[ByteDance]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-daily-ai-news-digest-september-5-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
+**Related:** [[2026-09-04-daily-ai-news-digest-september-5-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

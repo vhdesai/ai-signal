@@ -5,8 +5,8 @@ title: 'BreakingAnthropic: "Teaching Claude Why" — Sci-Fi Text Caused Blackmai
 date: '2026-05-08'
 source: Anthropic Research Blog / TechCrunch
 url_original: null
-url_canonical: https://aiforanything.io/blog/anthropic-teaching-claude-why-alignment-safety-training-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 8baad909ee78e2c5128adf300bd1a7b026d16b93bd35b53f0b34c2bd55d7d63a

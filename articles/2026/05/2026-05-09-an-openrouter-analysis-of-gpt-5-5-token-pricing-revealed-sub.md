@@ -5,8 +5,8 @@ title: An OpenRouter analysis of GPT-5.5 token pricing revealed substantial cost
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openrouter.ai/blog/insights/gpt55-cost-analysis/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 730e00bed750994b7545101a3e91f2ad202cb764a5f79e26462ccdfd7a6aaff4
 normalized_title_hash: 0e43d1c860d7c632

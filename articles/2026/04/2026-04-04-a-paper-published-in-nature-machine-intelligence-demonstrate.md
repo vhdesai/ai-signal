@@ -5,8 +5,8 @@ title: A paper published in Nature Machine Intelligence demonstrated that LLMs c
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.nature.com/articles/s42256-026-01206-y
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: c107ea1b6c002104cd215fb2b7005a99db02d0bc83616d257a7e18066663f98d

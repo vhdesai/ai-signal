@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to
 - 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
-- 2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una
 embedding_id: 2026-08-25-apple-surprise-launches-mac-mini-on-new-m6-chip-and-mac-stud
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple unexpectedly announced a Mac mini built on the all-new M6 chip starting at
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]]
+**Related:** [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to]] · [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund
+- 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t
-- 2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets
 embedding_id: 2026-08-24-softbank-plans-record-retail-bond-issuance-amid-ai-push
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Wall Street Journal reported that SoftBank plans a record retail bond issuan
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t]] · [[2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets]]
+**Related:** [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]] · [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered]] · [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t]]
 <!-- graph:end -->

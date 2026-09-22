@@ -4,8 +4,8 @@ title: U.S. Clears OpenAI's GPT-5.6 for Broad Public Rollout
 date: '2026-07-08'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/trump-administration-approves-rollout-openai-043100164.html
-url_canonical: https://thenextweb.com/news/openai-gpt-5-6-broad-rollout-us-approval
-url_status: repaired
+url_canonical: https://www.yahoo.com/news/politics/articles/trump-administration-approves-rollout-openai-043100164.html
+url_status: broken
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 99754d6bd4177e28ae3a349f81e88447887d21d020ae8ce45e40d0d831bca227

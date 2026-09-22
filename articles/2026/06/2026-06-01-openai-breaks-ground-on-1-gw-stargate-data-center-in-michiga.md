@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
+- 2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus
 - 2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an
 - 2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam
 - 2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o
-- 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
 embedding_id: 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced a 1-gigawatt data-center project in Michigan as part of Stargat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam]] · [[2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]]
+**Related:** [[2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030]] · [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus]] · [[2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an]] · [[2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam]] · [[2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o]]
 <!-- graph:end -->

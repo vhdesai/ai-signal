@@ -4,8 +4,8 @@ title: OpenAI "Spud" Flagship Model Imminent — Strong GPT-6 Signal
 date: '2026-05-03'
 source: Idlen
 url_original: null
-url_canonical: https://www.idlen.io/news/openai-sora-shutdown-spud-next-flagship-model-gpt6/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 1b0249e5a27b97f19f9951d7664550a39cd7bd1fe04ded0c48b47d56ab160553
 normalized_title_hash: 78da9d894b48c42f

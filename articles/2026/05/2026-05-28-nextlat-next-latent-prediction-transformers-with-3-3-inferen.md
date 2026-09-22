@@ -4,8 +4,8 @@ title: 'NextLat: Next-Latent Prediction Transformers with 3.3× Inference Speedu
 date: '2026-05-28'
 source: John Langford (Microsoft Research) at Cornell Tech Frontiers of AI Symposium
 url_original: null
-url_canonical: https://arxiv.org/abs/2511.05963
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 05e5ed8c37ea09f1eb93404cbd16918522a15066c412997c84dc76c6d724207a

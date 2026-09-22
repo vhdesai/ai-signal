@@ -4,8 +4,8 @@ title: Tencent open-sources TencentDB Agent Memory under MIT license
 date: '2026-05-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_canonical: https://news.hamidun.com/en/news/10021/tencent-released-a-local-memory-system-for-ai-agents-tencent
-url_status: repaired
+url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
+url_status: broken
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: e38e9bab247a0fa2f1ac0f47daa3d111a405faabd03fe466cf7b190502efbc6e

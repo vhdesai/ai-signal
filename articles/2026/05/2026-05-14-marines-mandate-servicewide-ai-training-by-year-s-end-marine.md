@@ -5,8 +5,8 @@ title: Marines mandate servicewide AI training by year's end — Marine Corps Ti
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.militarytimes.com/news/your-military/2026/05/13/marines-mandate-servicewide-ai-training-by-years-end/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: c3422375a7916772bef0ad98cd51cbfcefc4fb0ad77d5bd9e80e425d0ccf8069

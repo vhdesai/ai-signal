@@ -5,8 +5,8 @@ title: Netflix released VOID (Video Object Inpainting and Deletion), an open-sou
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://awesomeagents.ai/news/netflix-void-video-object-deletion-open-source/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 6ff99422674b8ef1e88e5e4477fb650461c7f06fad1549c67b43cc005c170ef4

@@ -4,8 +4,8 @@ title: FERC Moves to Fast-Track Data-Center Power Requests
 date: '2026-06-18'
 source: Bloomberg
 url_original: null
-url_canonical: https://news.bloomberglaw.com/tech-and-telecom-law/us-regulator-makes-interventionist-pivot-to-speed-data-centers
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: 2f5ede5c274a239cae791475177e08da500ca946c2aa2f2069e28d985f63705a
 normalized_title_hash: f40e52ac61ecfa58

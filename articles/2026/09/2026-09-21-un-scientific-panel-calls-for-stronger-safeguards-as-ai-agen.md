@@ -19,7 +19,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
+canonical_article_id: 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 related_article_ids: []
 embedding_id: 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 event_name: ''
@@ -34,5 +34,5 @@ The UN-backed Independent International Scientific Panel on AI, co-chaired by Yo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]]
+**Canonical:** [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]]
 <!-- graph:end -->

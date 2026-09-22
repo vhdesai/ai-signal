@@ -5,8 +5,8 @@ title: Google DeepMind's research division published a notable paper arguing tha
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://deepmind.google/research/publications/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: ff47a2f2b88a8664a3198e70dc28d6924e997fcdc76fd93c11a63dd36255a980

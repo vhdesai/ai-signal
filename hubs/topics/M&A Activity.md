@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 484
+member_count: 487
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 484 connected article(s).
+> Auto-generated topic hub. 487 connected article(s).
 
+- `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob|Anthropic Builds a Bay Area Wet Lab Where Claude Directs Robotic Experiments]]
 - `2026-09-19` [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero|New RoboHarm Benchmark Finds Frontier Models Attempt Dangerous Physical Actions Rather Than Refuse]]
 - `2026-09-18` [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed|Vantora (formerly UP.Labs) raises $100M to build startups embedded in industrial-corporate physical-AI programs]]
 - `2026-09-18` [[2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s|Researchers used Claude Opus 5 to breach OpenAI, exfiltrate source code, collect $6,500 bounty]]

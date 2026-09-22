@@ -25,6 +25,8 @@ related_article_ids:
 - 2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo
 - 2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab
 - 2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab
+- 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
+- 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
 embedding_id: 2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab
 event_name: ''
 ---
@@ -38,5 +40,5 @@ Reuters reports Anthropic has established a physical laboratory in the San Franc
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo]] · [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab]]
+**Related:** [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo]] · [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab]] · [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]]
 <!-- graph:end -->

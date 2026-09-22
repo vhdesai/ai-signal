@@ -5,8 +5,8 @@ title: Stanford's 9th annual AI Index — now being widely cited this week — r
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ef204d3579f12fbfc58c5f2b38b9cec40a916c39953b2b6ab93f0556b27db4e0

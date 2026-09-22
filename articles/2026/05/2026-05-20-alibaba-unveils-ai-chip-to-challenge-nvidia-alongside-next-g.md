@@ -4,8 +4,8 @@ title: Alibaba Unveils AI Chip to Challenge Nvidia Alongside Next-Gen Qwen
 date: '2026-05-20'
 source: Tech Xplore
 url_original: null
-url_canonical: https://theaicronicle.com/en/news/companies/alibaba-zhenwu-chip-nvidia-ai-push
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 34fd5f67651862b5fcc3b0096766d5143a993451c081fcffc6fd276a366b0212
@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 embedding_id: 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Alibaba used its Apsara event to unveil a next-generation Qwen model alongside c
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]]
 <!-- graph:end -->

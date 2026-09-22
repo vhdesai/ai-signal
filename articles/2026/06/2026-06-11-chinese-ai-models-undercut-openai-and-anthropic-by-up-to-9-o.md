@@ -4,8 +4,8 @@ title: Chinese AI Models Undercut OpenAI and Anthropic by Up to 9× on Price
 date: '2026-06-11'
 source: Crypto Briefing; Decrypt; Euronews
 url_original: null
-url_canonical: https://cryptobriefing.com/openai-anthropic-pricing-pressure-chinese-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: 6b7ed1f9b8db01b56b8b8f81af7ba651c55bc56ddf97b9a042c79addf930b7f7
 normalized_title_hash: 8ad1947fbe17e7ce

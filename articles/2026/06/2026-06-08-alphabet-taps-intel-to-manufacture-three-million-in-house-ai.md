@@ -4,8 +4,8 @@ title: Alphabet Taps Intel to Manufacture Three Million In-House AI Chips
 date: '2026-06-08'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/google-nvidia-consider-intel-backup-131234077.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: d61c7ebf99ab3787d65261074967969d282a34dca4f095abf75817aca0bf50da
 normalized_title_hash: e311e23d40353466

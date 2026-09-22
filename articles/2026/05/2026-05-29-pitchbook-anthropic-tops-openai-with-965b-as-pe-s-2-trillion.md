@@ -5,8 +5,8 @@ title: 'PitchBook: Anthropic tops OpenAI with $965B as PE''s $2 trillion overhan
 date: '2026-05-29'
 source: PitchBook News
 url_original: null
-url_canonical: https://theaicronicle.com/en/news/companies/anthropic-965-billion-valuation-eclipses-openai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 1fe63a693a74cfd7f57e8913e24cece9dad8c7db629ec4d46de57bb814199f26

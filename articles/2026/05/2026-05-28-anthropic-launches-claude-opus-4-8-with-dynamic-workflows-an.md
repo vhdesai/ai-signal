@@ -4,8 +4,8 @@ title: Anthropic Launches Claude Opus 4.8 With Dynamic Workflows and Flat Pricin
 date: '2026-05-28'
 source: 'Source: Unite.AI'
 url_original: null
-url_canonical: https://www.unite.ai/anthropic-unveils-claude-opus-4-8-as-the-ai-race-intensifies-against-openai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 197be9dd1414a77ab2c89b18180be23a3e6a66107c5d8703547f826244d9c08e

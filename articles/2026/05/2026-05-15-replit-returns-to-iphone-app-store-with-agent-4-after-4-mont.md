@@ -4,8 +4,8 @@ title: Replit Returns to iPhone App Store with Agent 4 After 4-Month Apple Dispu
 date: '2026-05-15'
 source: 📰 9to5Mac
 url_original: null
-url_canonical: https://9to5mac.com/2026/05/15/iphone-vibe-coding-app-ships-first-update-in-four-months-after-app-store-review-issue/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 2161845b9dfcaae9c4cefa538df6af187746171ef5f4c31d2a954da49846cfe9

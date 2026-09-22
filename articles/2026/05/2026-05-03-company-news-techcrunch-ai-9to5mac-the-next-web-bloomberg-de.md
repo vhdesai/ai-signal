@@ -5,8 +5,8 @@ title: 'Company / News: TechCrunch AI, 9to5Mac, The Next Web (Bloomberg), Decryp
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/topic/tech/?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-03_071037_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 5c45248e1debba03ad30187c301ed4eaa56b5d6ffe64454b9ec215279edb7de5
 normalized_title_hash: ac463d18919fe70b

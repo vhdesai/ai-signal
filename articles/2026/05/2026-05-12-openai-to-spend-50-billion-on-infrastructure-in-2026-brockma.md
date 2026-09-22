@@ -5,8 +5,8 @@ title: OpenAI to Spend $50 Billion on Infrastructure in 2026, Brockman Tells U.S
 date: '2026-05-12'
 source: U.S. Senate Testimony / FutureAGI
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/openai-spend-50-billion-computing-191336356.html?_guc_consent_skip=1789819152&fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: b9bae6cb36258e8fd1038037504ec563d8c2c51ba2a390563e697e87b87a38ed

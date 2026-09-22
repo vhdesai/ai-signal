@@ -4,8 +4,8 @@ title: Anthropic aligns with Vatican over White House as Pope stokes AI fears
 date: '2026-05-26'
 source: The Washington Post
 url_original: null
-url_canonical: https://history.washington.edu/news/2026/05/25/anthropic-aligns-vatican-over-white-house-pope-leo-stokes-ai-fears
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 23d5ae6b5cbd2c9307135e02299161a0b6f13634d3f4bb245a8a20a7ac78aac7

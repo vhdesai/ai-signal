@@ -4,8 +4,8 @@ title: HotNvidia Invests $500M in Corning to Expand US Fiber Optics for AI Infra
 date: '2026-05-06'
 source: Wall Street Journal / Techmeme
 url_original: null
-url_canonical: https://theoutpost.ai/news-story/nvidia-and-corning-forge-massive-fiber-optic-deal-to-power-next-generation-ai-infrastructure-26008/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: e7f7e13f9aadf36bda1020f1399ae58ba7773a80bb31c2f1fb0010585d719095
 normalized_title_hash: 6206cb7fb6c13313

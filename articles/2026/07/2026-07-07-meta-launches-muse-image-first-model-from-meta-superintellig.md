@@ -4,8 +4,8 @@ title: Meta Launches Muse Image, First Model from Meta Superintelligence Labs
 date: '2026-07-07'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 10cd30a8d15dd85a8572e983093d983b76e32a99560556f17f729ce57351932d

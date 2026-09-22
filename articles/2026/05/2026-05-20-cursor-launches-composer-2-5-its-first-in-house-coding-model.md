@@ -4,8 +4,8 @@ title: Cursor Launches Composer 2.5, Its First In-House Coding Model
 date: '2026-05-20'
 source: OfficeChai
 url_original: null
-url_canonical: https://cursor.com/blog/composer-2
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 764daa2dfcbb082760b6c60a8622aa1251055ac02341e7abb096971ad1d1569a

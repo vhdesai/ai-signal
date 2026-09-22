@@ -4,8 +4,8 @@ title: Nvidia Announces Additional $80B Stock Buyback After Record Q1 Earnings
 date: '2026-05-25'
 source: The Motley Fool / TechCrunch
 url_original: null
-url_canonical: https://www.fool.com/investing/2026/05/23/nvidias-board-just-authorized-an-additional-80-bil/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 010c44034e894c2e6dd26638bb002ff079080c8675f7b014713aa654b1ad05d9

@@ -4,8 +4,8 @@ title: SpaceX S-1 Reveals $45B Anthropic Compute Deal Through 2029
 date: '2026-05-26'
 source: SpaceX IPO disclosure / Ars Technica
 url_original: null
-url_canonical: https://perplexityaimagazine.com/ai-news/spacex-ipo-s1-anthropic-125-billion-month-compute-deal-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 107c75ec0642b1a12399ab3e74244c088b7c46cd8dcef14e5446257225d90c7d

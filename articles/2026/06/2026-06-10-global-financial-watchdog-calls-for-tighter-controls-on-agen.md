@@ -4,8 +4,8 @@ title: Global Financial Watchdog Calls for Tighter Controls on Agentic AI in Fin
 date: '2026-06-10'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/economy/policy/articles/global-watchdog-calls-tighter-controls-080710544.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 108eb07b4bee030109974e57df6b345abdbb3efabb1802e6e0aa28081496acd1
 normalized_title_hash: 83b58bbb2f08e771

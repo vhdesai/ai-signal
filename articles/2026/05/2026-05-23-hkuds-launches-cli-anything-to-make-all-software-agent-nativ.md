@@ -4,8 +4,8 @@ title: HKUDS launches CLI-Anything to make all software "agent-native"
 date: '2026-05-23'
 source: GitHub Trending
 url_original: null
-url_canonical: https://aitoolly.com/ai-news/article/2026-05-22-hkuds-launches-cli-anything-a-visionary-framework-to-make-all-software-agent-native-via-command-line
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 465f189fc399f8152520ea0dcde413938ac1ec7c40e6f7281bea7ef87e95a849

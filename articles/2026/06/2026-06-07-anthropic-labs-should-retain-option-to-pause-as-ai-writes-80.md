@@ -5,8 +5,8 @@ title: 'Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its O
 date: '2026-06-07'
 source: Forbes
 url_original: null
-url_canonical: https://www.techtimes.com/articles/322125/20260729/openai-anthropic-formally-back-plan-slow-ai-that-writes-its-own-code.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 28c13041c0d6fcdeb15aa60b3fe56cc176fd5a6bb027e9cd013f2a3334dfbb2f

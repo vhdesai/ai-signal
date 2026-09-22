@@ -4,8 +4,8 @@ title: 'From Model Scaling to System Scaling: scaling the agent "harness"'
 date: '2026-05-26'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.26112
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 90a91010ead60c5367d46a5ed9c7c049377649241ce63289243244fde8fc3bc7

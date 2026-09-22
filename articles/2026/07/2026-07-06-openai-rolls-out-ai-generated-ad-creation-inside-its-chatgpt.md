@@ -4,8 +4,8 @@ title: OpenAI rolls out AI-generated ad creation inside its ChatGPT Ads platform
 date: '2026-07-06'
 source: Search Engine Land
 url_original: null
-url_canonical: https://www.unite.ai/openai-tests-sponsored-agents-and-rolls-out-ai-tools-for-chatgpt-ads/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: f1dfee05e682ccc719d5f6f11c235f038e94f8bee19f00edfcb2a94df6330bca

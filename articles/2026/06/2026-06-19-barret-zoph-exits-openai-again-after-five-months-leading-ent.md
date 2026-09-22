@@ -4,8 +4,8 @@ title: Barret Zoph Exits OpenAI Again After Five Months Leading Enterprise Sales
 date: '2026-06-19'
 source: The Verge
 url_original: null
-url_canonical: https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: ba44374f4d0c311a7e100e0e587e7ca9ff6e2656f4b57443d914a79d5342f50a
 normalized_title_hash: 4fc2014a6722becb

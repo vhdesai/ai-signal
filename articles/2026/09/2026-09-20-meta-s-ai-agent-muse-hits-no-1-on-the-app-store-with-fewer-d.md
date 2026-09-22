@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 embedding_id: 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Muse reached No. 1 on Apple’s US App Store on Sept 18, ten days after launch, 
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
+**Related:** [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]]
 <!-- graph:end -->

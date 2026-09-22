@@ -5,8 +5,8 @@ title: StartupHub.ai's 2026 ranking of the top 20 coding agents confirms Cursor,
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.startuphub.ai/insights/ai-coding-agents-daily-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 9cccb8493e07e1525a201c6234cad7eda77269ef01584da2cea839cf4995a515

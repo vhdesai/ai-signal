@@ -5,8 +5,8 @@ title: Google Announces $25B AI Cloud Infrastructure Partnership with Blackstone
 date: '2026-05-19'
 source: Times of India
 url_original: null
-url_canonical: https://www.banklesstimes.com/articles/2026/05/19/google-blackstone-partner-on-ai-cloud-expansion-amid-surging-data-center-demand/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: cc6f5b045e919650b0d48c9dd18c7db1c954ea1dd76fc27559aeaeac11e669a2

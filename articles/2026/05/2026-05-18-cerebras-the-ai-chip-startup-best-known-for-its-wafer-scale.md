@@ -5,8 +5,8 @@ title: Cerebras, the AI chip startup best known for its wafer-scale processors, 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.eetimes.com/cerebras-ipo-revives-ai-chip-startup-fever/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 72866bdaffae63181e91133f5b428f909f9e934cb67015c7a792b5d8d39dff42

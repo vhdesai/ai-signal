@@ -5,8 +5,8 @@ date: '2026-05-27'
 source: Kilian Q. Weinberger (Cornell) — opening keynote at Cornell Tech Frontiers
   of AI Summit
 url_original: null
-url_canonical: https://talks.cam.ac.uk/talk/index/246421/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: a7c796bd5a37b87f8466e34234ec0572ec1553253d7043e0d0c30e60d1501c69

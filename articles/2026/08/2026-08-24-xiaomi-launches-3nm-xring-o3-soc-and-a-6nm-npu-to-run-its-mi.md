@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
+- 2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm
+- 2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production
+- 2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
-- 2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m
-- 2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i
-- 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 embedding_id: 2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Xiaomi unveiled three TSMC-fabricated Xring chips: the 3nm Xring O3 flagship pho
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]] · [[2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m]] · [[2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i]] · [[2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth]]
+**Related:** [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]] · [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm]] · [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production]] · [[2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim]] · [[2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim]]
 <!-- graph:end -->

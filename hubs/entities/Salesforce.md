@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 83
+member_count: 86
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 83 connected article(s).
+> Auto-generated entity hub. 86 connected article(s).
 
+- `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
+- `2026-09-21` [[2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep|OpenAI Expected to Introduce Managed Agents at DevDay on September 29]]
+- `2026-09-21` [[2026-09-21-accenture-up-6-on-anthropic-ai-safety-evaluation-partnership|Accenture Up 6% on Anthropic AI Safety Evaluation Partnership]]
 - `2026-09-18` [[2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning|Salesforce and Nvidia Unveil Koa, a Domain-Specific Reasoning Model for Agentforce]]
 - `2026-09-17` [[2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation|Crusoe raises $3.9B Series F at $30.9B valuation]]
 - `2026-09-16` [[2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning|Salesforce ships AIforce plus Nvidia-built "Koa" CRM reasoning model at Dreamforce]]

@@ -4,8 +4,8 @@ title: Google in Talks with Samsung to Manufacture Next-Gen AI Chip
 date: '2026-06-11'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/google-talks-samsung-next-generation-131006391.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: e9bf7d4ea1f1da7cb1989ad1efa782cc60dc6de9ebd1fc3b9606585e909de77b
 normalized_title_hash: ab0cb4e15375e7af

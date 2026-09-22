@@ -4,8 +4,8 @@ title: For the first time, Anthropic's Claude has surpassed OpenAI's ChatGPT in 
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/316692/20260515/claude-overtakes-chatgpt-us-business-ai-payments-first-time.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: eb7b143bb8dc871411d52f325165acb642d27f8e4ba53f75c1ba53b0e009a28e

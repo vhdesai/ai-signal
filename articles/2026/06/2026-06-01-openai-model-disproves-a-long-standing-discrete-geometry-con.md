@@ -4,8 +4,8 @@ title: OpenAI model disproves a long-standing discrete-geometry conjecture
 date: '2026-06-01'
 source: Gizmodo
 url_original: null
-url_canonical: https://www.systemreport.net/posts/2026-05-20-openai-model-topples-long-standing-discrete-geometry-conjecture-f745a3/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: f2facf08091d8072bda4f33c3b7a29030f0d5d242d572a41502fe913ad8645a2
 normalized_title_hash: 1b493ed0af44514f

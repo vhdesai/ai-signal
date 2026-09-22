@@ -5,8 +5,8 @@ title: Meta has hired the entire founding team of Dreamer — an agentic AI star
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://buttondown.com/verified/archive/metas-stealthy-acqui-hire-of-dreamer-why-the-tech/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 995e7dacccce5e85b4cdaf892f043b67e1ca24f9f07a08d1a739fddab8bee3b9

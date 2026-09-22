@@ -4,8 +4,8 @@ title: Amazon CEO Jassy / Anthropic Crackdown Fallout Continues
 date: '2026-06-13'
 source: The Information; WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/week-changed-ai-inside-trump-002228207.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: af8d65c1e586acc37b8e9e71a6d3e8b83c8ce9b66817013bac3fa26730d8e880
 normalized_title_hash: 14e2ee969f001bf7

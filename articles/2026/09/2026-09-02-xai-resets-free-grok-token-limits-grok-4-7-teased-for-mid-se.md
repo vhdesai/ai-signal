@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
+- 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 embedding_id: 2026-09-02-xai-resets-free-grok-token-limits-grok-4-7-teased-for-mid-se
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Elon Musk said xAI is granting all Grok-on-X users another free reset of token u
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]]
+**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]]
 <!-- graph:end -->

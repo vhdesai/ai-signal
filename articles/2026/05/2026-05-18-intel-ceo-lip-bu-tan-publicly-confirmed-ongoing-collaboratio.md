@@ -5,8 +5,8 @@ title: Intel CEO Lip-Bu Tan publicly confirmed ongoing collaboration with Nvidia
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.tweaktown.com/news/111546/intel-ceo-confirms-ongoing-collaboration-with-nvidia-on-new-products/index.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3e56bc516599108803412b3e0dc161698b72b5fcbe7239d6c82866aa33746b9b

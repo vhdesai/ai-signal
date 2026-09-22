@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
+- 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 embedding_id: 2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Elon Musk publicized a Grok bot commitment to reimburse users if the AI loses th
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]]
+**Related:** [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp]] · [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

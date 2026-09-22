@@ -4,8 +4,8 @@ title: 'NVIDIA Releases cuda-oxide: Rust-to-CUDA Compiler Backend for GPU Kernel
 date: '2026-05-09'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6cabbf71839e18b766185b45bff361d0132d8fee0712f881f8593251095eb95f

@@ -4,8 +4,8 @@ title: Cursor 3.0 Launches "Agents Window" for Parallel Agentic Code Execution T
 date: '2026-05-09'
 source: MSN
 url_original: null
-url_canonical: https://www.agentpatterns.ai/tools/cursor/agents-window/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 63b04cd5e5bb5419b096cb82c723d74fe9595b04af26b90baa81f1330324deaa

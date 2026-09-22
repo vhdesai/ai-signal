@@ -5,8 +5,8 @@ title: Google's Threat Intelligence Group disrupted a planned mass exploitation 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3ef68d1a6829646b5823817c0abb8eda7ea4e170c8b72012f054a0fac803e5c7

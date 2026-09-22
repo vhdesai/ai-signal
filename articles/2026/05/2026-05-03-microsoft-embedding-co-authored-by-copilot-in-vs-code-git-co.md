@@ -4,8 +4,8 @@ title: Microsoft Embedding "Co-Authored-by Copilot" in VS Code Git Commits
 date: '2026-05-03'
 source: The Decoder
 url_original: null
-url_canonical: https://www.thestackstories.com/blog/vs-code-copilot-auto-commits
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 065c193f20243f1b224339eda1bc06f20f4666d5474854383fcd45d2ed1eb193
 normalized_title_hash: bb8928d5f3a2fc03

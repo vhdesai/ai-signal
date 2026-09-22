@@ -4,8 +4,8 @@ title: 'World Action Models (WAMs): Survey of Embodied AI''s Next Frontier'
 date: '2026-05-12'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.12090
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 363b7300b4b7b0680de5797f4342e1ff004c8a5030df01c0e5b1a4a8f9e90dd5

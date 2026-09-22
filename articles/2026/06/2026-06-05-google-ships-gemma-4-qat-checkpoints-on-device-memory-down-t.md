@@ -4,8 +4,8 @@ title: Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB
 date: '2026-06-05'
 source: Android Authority
 url_original: null
-url_canonical: https://stackfutures.com/blog/gemma-4-qat-mobile-checkpoints/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: a1580756d7d54f9abc251e145330ee913d15477e7495254c72db36237eab2c10

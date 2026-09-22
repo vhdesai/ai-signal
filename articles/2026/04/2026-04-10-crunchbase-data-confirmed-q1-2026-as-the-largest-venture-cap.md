@@ -5,8 +5,8 @@ title: Crunchbase data confirmed Q1 2026 as the largest venture capital quarter 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://siliconcanals.com/t-in-the-first-quarter-of-2026-investors-poured-roughly-242-billion-into-ai-startups/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 73e344d2eefdc307ca722059dce687e5204bebc4af4f7a676a8bcf8722364175

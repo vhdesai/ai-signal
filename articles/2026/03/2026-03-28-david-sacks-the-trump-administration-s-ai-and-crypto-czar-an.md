@@ -5,8 +5,8 @@ title: David Sacks, the Trump administration's AI and Crypto Czar, announced his
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 0c26ac72734f2abdf48eabb388cb7d9a7f217a94227e977c6ebe9f117b333673
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-trump-announces-an-ai-force-signals-new-ai-czar-to-coordinat
 - 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
 - 2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai
 - 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
-- 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
 embedding_id: 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
 event_name: ''
 ---
@@ -37,5 +37,5 @@ David Sacks, the Trump administration's AI and Crypto Czar, announced his resign
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar]]
+**Related:** [[2026-09-22-trump-announces-an-ai-force-signals-new-ai-czar-to-coordinat]] · [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]]
 <!-- graph:end -->

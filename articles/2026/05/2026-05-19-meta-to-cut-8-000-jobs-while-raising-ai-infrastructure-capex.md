@@ -4,8 +4,8 @@ title: Meta to Cut 8,000 Jobs While Raising AI Infrastructure Capex to $145 Bill
 date: '2026-05-19'
 source: TechRepublic
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/meta-cuts-8-000-jobs-181620319.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: dbfa33d1fe0dbeb3c4c3defcf865345f69e233aca31cca42c27e25272a29a196

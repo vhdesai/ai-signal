@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 212
+member_count: 215
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 212 connected article(s).
+> Auto-generated entity hub. 215 connected article(s).
 
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro|Johns Hopkins: LLMs Return Weaker Writing for Woman-Coded Prompts]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-16` [[2026-09-16-mistral-becomes-the-default-ai-provider-for-firefox-s-smart|Mistral becomes the default AI provider for Firefox's Smart Window]]

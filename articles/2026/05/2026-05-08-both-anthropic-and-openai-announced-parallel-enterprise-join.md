@@ -5,8 +5,8 @@ title: Both Anthropic and OpenAI announced parallel enterprise joint ventures in
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 7b7b2bd3e3f90b874e9efe66f4f75acb77f20d47e81e5d7b3c42c4bc479a0028
 normalized_title_hash: 298bcbf97085697a

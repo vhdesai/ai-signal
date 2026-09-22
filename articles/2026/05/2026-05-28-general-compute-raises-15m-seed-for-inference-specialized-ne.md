@@ -4,8 +4,8 @@ title: General Compute raises $15M seed for inference-specialized neocloud
 date: '2026-05-28'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 57a6be26fc9da83e41c657323f4d83a6ffdfdc326b17d950a2aee8ce3a08ba82

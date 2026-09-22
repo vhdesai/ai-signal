@@ -5,8 +5,8 @@ title: Microsoft India's Largest Data Center on Track for Mid-2026 Launch Amid M
 date: '2026-05-19'
 source: Reuters / The Star
 url_original: null
-url_canonical: https://economictimes.indiatimes.com/tech/technology/microsofts-biggest-india-data-centre-on-track-to-go-live-in-mid-2026-executive-says/articleshow/131203807.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: e721ab31e3fadae0f02b4a15eebd7b4e55a00a28ed7394662ae2dfc0b8dcbd38

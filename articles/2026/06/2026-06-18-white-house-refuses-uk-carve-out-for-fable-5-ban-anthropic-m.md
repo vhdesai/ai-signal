@@ -5,8 +5,8 @@ title: White House Refuses UK Carve-Out for Fable 5 Ban; Anthropic Must Prove Gu
 date: '2026-06-18'
 source: Wired / Axios
 url_original: https://www.axios.com/2026/06/18/trump-shadow-ai-policy
-url_canonical: https://techjournal.org/us-ai-export-controls-anthropic-ban-2026
-url_status: repaired
+url_canonical: https://www.axios.com/2026/06/18/trump-shadow-ai-policy
+url_status: broken
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 2addc46b2393c855cb54cb3d7299443c4b095fefa9384437b0c5b5f9c2c28d55
 normalized_title_hash: f039201e867ad355

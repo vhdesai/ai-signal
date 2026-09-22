@@ -4,8 +4,8 @@ title: Google promotes Gemini 3.1 Flash Image and Gemini 3-Pro Image to GA
 date: '2026-05-28'
 source: Google AI for Developers
 url_original: null
-url_canonical: https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-image
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 67e0f2a983aaa933ddc72f7e35863c253b8d1b70c04f6fd2db5633738ecf7af9

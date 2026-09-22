@@ -4,8 +4,8 @@ title: Visa warns AI scam artists are fueling nearly $1B in fraud
 date: '2026-05-27'
 source: Hoodline
 url_original: null
-url_canonical: https://hoodline.com/2026/05/visa-sounds-alarm-as-ai-scam-artists-fuel-nearly-1-billion-in-scams/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 59f782e3e4e3a963f12994b83cdeb21d122e604994be8fce77a80554a2979f52
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes
+- 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 embedding_id: 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Visa warned that AI scam artists are helping fuel nearly $1 billion in scams. Th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
+**Related:** [[2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]]
 <!-- graph:end -->

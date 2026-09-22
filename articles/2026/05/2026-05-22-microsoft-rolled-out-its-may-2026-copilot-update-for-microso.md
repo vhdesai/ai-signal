@@ -5,8 +5,8 @@ title: Microsoft rolled out its May 2026 Copilot update for Microsoft 365, intro
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/copilot/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 411374eb65e647975b6fab8c46a3e7c3aeb589610e24d34b13de8bfa1f8d3fe0

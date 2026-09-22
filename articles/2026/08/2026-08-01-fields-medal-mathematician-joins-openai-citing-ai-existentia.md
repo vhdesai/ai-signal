@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
+- 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-- 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 embedding_id: 2026-08-01-fields-medal-mathematician-joins-openai-citing-ai-existentia
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Jacob Tsimerman, a Fields Medal-caliber mathematician widely regarded as one of 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals]]
+**Related:** [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]]
 <!-- graph:end -->

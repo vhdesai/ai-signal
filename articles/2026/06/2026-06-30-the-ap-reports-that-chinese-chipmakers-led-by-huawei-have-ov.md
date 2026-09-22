@@ -5,8 +5,8 @@ title: The AP reports that Chinese chipmakers led by Huawei have overtaken Nvidi
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techinasia.com/news/chinese-chipmakers-secure-local-market-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-30_062533_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 80b19231f367acc0257f3a98e1a4ede2e51c5c6f1dcbebcc04238cb79d5e0029

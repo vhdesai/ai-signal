@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-20-the-us-wants-an-ai-era-red-phone-with-china
-- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
+- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 embedding_id: 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 event_name: ''
 ---
@@ -37,5 +37,5 @@ US Treasury Secretary Scott Bessent said Sunday the US and China have discussed 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-the-us-wants-an-ai-era-red-phone-with-china]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
+**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-the-us-wants-an-ai-era-red-phone-with-china]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
 <!-- graph:end -->

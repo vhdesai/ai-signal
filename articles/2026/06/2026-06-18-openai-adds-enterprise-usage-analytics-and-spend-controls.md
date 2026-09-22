@@ -4,8 +4,8 @@ title: OpenAI adds enterprise usage analytics and spend controls
 date: '2026-06-18'
 source: OpenAI Blog
 url_original: https://openai.com/index/chatgpt-enterprise-spend-controls
-url_canonical: https://www.cio.com/article/4187252/openai-adds-spend-controls-and-usage-analytics-to-chatgpt-enterprise.html
-url_status: repaired
+url_canonical: https://openai.com/index/chatgpt-enterprise-spend-controls
+url_status: broken
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: a095984308c4b3fbb9b09284da05d9a825cdd95ee5de3a2801bc8617fc180986
 normalized_title_hash: 36edcc0016a6c5f6

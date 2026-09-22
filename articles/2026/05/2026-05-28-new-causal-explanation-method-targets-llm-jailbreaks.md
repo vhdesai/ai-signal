@@ -4,8 +4,8 @@ title: New Causal-Explanation Method Targets LLM Jailbreaks
 date: '2026-05-28'
 source: 'Source: arXiv'
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.00123
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 5205ff9eeb57615d3b00533fac7b1204174a6d98e1de05229140ceed59426cd7

@@ -5,8 +5,8 @@ title: 'Bloomberg: "Why the U.S. Must Engage China on AI Safety Before It''s ''G
 date: '2026-05-13'
 source: Bloomberg / Trumponomics Podcast
 url_original: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
-url_canonical: https://www.iheart.com/podcast/1308-trumponomics-30972791/episode/why-the-us-must-engage-china-333558822/
-url_status: repaired
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bfcecd01757b32371abf70472346f421f307a420d94bea7d38d90dd51731e879
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
-- 2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah
+- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 embedding_id: 2026-05-13-bloomberg-why-the-u-s-must-engage-china-on-ai-safety-before
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Council on Foreign Relations Senior Fellow Sebastian Mallaby warned on Bloomberg
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]]
+**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
 <!-- graph:end -->

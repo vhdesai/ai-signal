@@ -5,8 +5,8 @@ title: Google DeepMind Publishes "Gemini for Science" — Experiments and Tools 
 date: '2026-05-27'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: aa77086eb77947a9817875ae00a1dbbe90307f5730f8b0019fcac0a8a0bf560d

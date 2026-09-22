@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
+- 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
-- 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 embedding_id: 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple researchers published ParaRNN, work that argues parallelized recurrent arc
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]]
+**Related:** [[2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]]
 <!-- graph:end -->

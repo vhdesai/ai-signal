@@ -5,8 +5,8 @@ title: Stable Audio 3.0 continues to drive developer and rights-holder adoption 
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://byteiota.com/stable-audio-3-developer-guide/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e320039d2a1d27cabac4d9e3b2abec04d56524038a872f82c3e966bdb3a42e55

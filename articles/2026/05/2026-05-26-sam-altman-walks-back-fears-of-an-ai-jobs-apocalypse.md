@@ -4,8 +4,8 @@ title: Sam Altman walks back fears of an AI jobs apocalypse
 date: '2026-05-26'
 source: The News International
 url_original: null
-url_canonical: https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3920a7e1699d982819562e58bb1a745d863b9964b6cd8950412705f244fe915b

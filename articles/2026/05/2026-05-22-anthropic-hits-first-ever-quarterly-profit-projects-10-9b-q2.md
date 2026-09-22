@@ -4,8 +4,8 @@ title: Anthropic Hits First-Ever Quarterly Profit — Projects $10.9B Q2 Revenue
 date: '2026-05-22'
 source: BuildFastWithAI
 url_original: null
-url_canonical: https://perplexityaimagazine.com/ai-news/anthropic-first-quarterly-profit-109-billion-revenue-q2-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: a43e012b83729b40e76fcc16ac260bf361c528973db4663146b87a2d6ea29312

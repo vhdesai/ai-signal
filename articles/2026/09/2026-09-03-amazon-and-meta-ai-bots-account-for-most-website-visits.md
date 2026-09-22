@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
+- 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
-- 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 embedding_id: 2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Press Gazette reports that Amazon and Meta AI bots account for a large share of 
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]]
+**Related:** [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

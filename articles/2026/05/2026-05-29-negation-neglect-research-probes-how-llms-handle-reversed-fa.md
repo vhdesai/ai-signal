@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
+- 2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro
 - 2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n
-- 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
 embedding_id: 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ work on "negation neglect" examines whether large language models correctly inte
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n]] · [[2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p]]
+**Related:** [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro]] · [[2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n]]
 <!-- graph:end -->

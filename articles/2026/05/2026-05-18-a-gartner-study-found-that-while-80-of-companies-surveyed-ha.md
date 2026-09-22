@@ -5,8 +5,8 @@ title: A Gartner study found that while 80% of companies surveyed had conducted 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://fortune.com/2026/05/11/ai-automation-layoffs-gartner-study-roi/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 54fc013d7bea0e4b699ebe7e1ff5a36b931fb7a326f2dda67197d96c50d5d06d

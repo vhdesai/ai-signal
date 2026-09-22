@@ -5,8 +5,8 @@ title: DysLexLens is a low-resource LLM approach that converts online forum post
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aidailypost.com/news/dyslexlens-lowresource-llm-turns-forum-posts-into-traceable-kg
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: df2abda81d67ddc0f903904fad62740d8e22940eb532b8132fe6b5da114d288a

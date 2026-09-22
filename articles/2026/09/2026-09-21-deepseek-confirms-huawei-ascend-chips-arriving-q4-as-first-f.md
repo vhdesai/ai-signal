@@ -5,8 +5,8 @@ title: DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier custo
 date: '2026-09-21'
 source: The Information
 url_original: https://www.theinformation.com/articles/deepseek-bets-big-on-huawei-chips-to-bypass-us-export-controls
-url_canonical: https://startupfortune.com/deepseeks-huawei-optimized-model-signals-that-us-chip-controls-may-be-losing-their-bite/
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/deepseek-bets-big-on-huawei-chips-to-bypass-us-export-controls
+url_status: broken
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: f8f0bcb35dc29249935e12ff5ab9a2dbf8bcf69e3d07e66195c6348f5ce8a898
@@ -23,12 +23,9 @@ themes:
 - company-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
-- 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
-- 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
+dedupe_status: duplicate
+canonical_article_id: 2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi
+related_article_ids: []
 embedding_id: 2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f
 event_name: ''
 ---
@@ -42,5 +39,5 @@ DeepSeek CEO Liang Wenfeng told investors at a Sunday closed-door meeting that H
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe]] · [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa]] · [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner]]
+**Canonical:** [[2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi]]
 <!-- graph:end -->

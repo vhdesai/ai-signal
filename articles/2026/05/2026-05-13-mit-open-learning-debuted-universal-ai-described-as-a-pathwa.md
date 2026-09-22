@@ -5,8 +5,8 @@ title: MIT Open Learning debuted Universal AI, described as "a pathway to AI flu
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openlearning.mit.edu/news/universal-ai-pathway-ai-fluency-thats-accessible-and-approachable-anyone-anywhere
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 45107d234801c06a8d3bd9ee03105405e6680d45bcecb0f40292d1a370cab3f4
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
+- 2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 embedding_id: 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT Open Learning debuted Universal AI, described as "a pathway to AI fluency th
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]]
+**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
 <!-- graph:end -->

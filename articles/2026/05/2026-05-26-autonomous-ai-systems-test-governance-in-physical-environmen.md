@@ -4,8 +4,8 @@ title: Autonomous AI Systems Test Governance in Physical Environments
 date: '2026-05-26'
 source: AI News
 url_original: null
-url_canonical: https://www.ai.cc/news/ai-systems-test-governance-in-physical-spaces/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 21bf62e7e3854116d1b062d2ebf70f8c3de7c5cb4bdce531a668e1fd12b9b456

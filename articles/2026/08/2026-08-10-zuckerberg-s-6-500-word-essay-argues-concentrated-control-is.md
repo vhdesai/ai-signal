@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
+- 2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
-- 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 embedding_id: 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Published alongside the Muse releases, Zuckerberg's essay contends that prevaili
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]]
+**Related:** [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit]] · [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]]
 <!-- graph:end -->

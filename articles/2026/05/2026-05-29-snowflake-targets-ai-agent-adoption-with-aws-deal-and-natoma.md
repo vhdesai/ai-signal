@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
+- 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
-- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 embedding_id: 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Snowflake is pushing toward the “agentic enterprise” with expanded AWS commi
 
 **Entities:** [[Amazon]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Anthropic Brings Claude Cowork to Web and Mobile, Adds Microsoft 365 Writ
 date: '2026-07-07'
 source: Anthropic
 url_original: null
-url_canonical: https://the-agent-report.com/2026/07/claude-cowork-web-mobile-july-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: d133c6008ed86dc7016085182a7b617b9bddb05cbec2bafcc0f2cb42ae2f1386

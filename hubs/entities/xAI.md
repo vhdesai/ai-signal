@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 387
+member_count: 397
 ---
 
 # xAI
 
-> Auto-generated entity hub. 387 connected article(s).
+> Auto-generated entity hub. 397 connected article(s).
 
+- `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-cheap-but-benchmarks-show-a-wide-gap-to-c|xAI ships Grok 4.7 cheap — but benchmarks show a wide gap to Claude Fable 5.1 and GPT-6]]
+- `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing|xAI ships Grok 4.7 at unchanged $2/$6 pricing]]
+- `2026-09-21` [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6|xAI releases Grok 4.7 at the same $2/$6 price as Grok 4.6]]
+- `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-leading-on-engin|xAI Ships Grok 4.7 at Unchanged $2/$6 Pricing, Leading on Engineering and Legal Benchmarks]]
+- `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba|xAI Ships Grok 4.7 at Unchanged $2/$6 Pricing With a Larger Base Model]]
+- `2026-09-21` [[2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p|SpaceXAI Releases Grok 4.7 — Larger Base Model, Unchanged $2/$6 Pricing]]
+- `2026-09-21` [[2026-09-21-grok-4-7-ships-at-2-6-pricing-but-real-cost-per-task-runs-2|Grok 4.7 Ships at $2/$6 Pricing — But Real Cost-per-Task Runs ~2× Higher Than GPT-6 Astra]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
 - `2026-09-19` [[2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp|WSJ / CBS: Jensen Huang publicly splits from the slowdown camp, emerges as Trump's key AI-policy ally]]

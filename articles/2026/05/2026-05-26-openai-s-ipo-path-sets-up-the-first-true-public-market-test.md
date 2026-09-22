@@ -4,8 +4,8 @@ title: OpenAI’s IPO path sets up the first true public-market test for frontie
 date: '2026-05-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai-prepares-to-file-for-ipo
-url_canonical: https://aitoolsrecap.com/Blog/openai-ipo-2026-valuation-timeline-what-investors-need-to-know
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai-prepares-to-file-for-ipo
+url_status: broken
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 907b9c6e601d49a6adb4f24757b679fcb79856b07a8ab64d77b3570a8183945b

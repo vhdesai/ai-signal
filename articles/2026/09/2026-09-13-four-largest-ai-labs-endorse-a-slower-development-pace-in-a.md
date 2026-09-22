@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
+- 2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit
 - 2026-07-10-new-warning-in-race-to-superintelligence
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
-- 2026-07-11-new-warning-in-race-to-superintelligence
 embedding_id: 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In roughly nine hours on Saturday, the four biggest AI labs — long-time compet
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]] · [[2026-07-11-new-warning-in-race-to-superintelligence]]
+**Related:** [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-- 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
+- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 embedding_id: 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba released its newest image-generation model but departed from its open-we
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context]]
+**Related:** [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge]]
 <!-- graph:end -->

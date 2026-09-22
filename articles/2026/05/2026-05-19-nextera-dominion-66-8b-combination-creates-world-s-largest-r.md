@@ -5,8 +5,8 @@ title: NextEra–Dominion $66.8B Combination Creates World's Largest Regulated E
 date: '2026-05-19'
 source: PitchBook News
 url_original: null
-url_canonical: https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/05-18-2026-123054903
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 2dc1a13e0c80280be1b2b7b84e7ed81605009a1277f99fc95b1af724cea3e6c3

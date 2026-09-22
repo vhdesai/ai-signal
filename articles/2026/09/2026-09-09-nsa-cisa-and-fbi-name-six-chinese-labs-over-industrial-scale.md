@@ -26,8 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
 - 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
+- 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
+- 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
 embedding_id: 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
 event_name: ''
 ---
@@ -41,5 +42,5 @@ A joint cybersecurity advisory (AA26-251A, released September 8 and widely cover
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden]]
+**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a]] · [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh]] · [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]]
 <!-- graph:end -->

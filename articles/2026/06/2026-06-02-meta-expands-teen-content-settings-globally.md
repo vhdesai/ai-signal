@@ -4,8 +4,8 @@ title: Meta Expands Teen Content Settings Globally
 date: '2026-06-02'
 source: Meta Newsroom
 url_original: null
-url_canonical: https://www.almanacnews.com/technology/2026/06/04/meta-expands-13-content-settings-globally-for-teen-accounts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_060035_Daily-AI-News-Digest.md
 content_hash: f934cc2fa51ca33ee7fab6f3b8d13acc4dd5b85cb9cd302788ca9812e9f22991
 normalized_title_hash: 4bffd2239f33e5a8

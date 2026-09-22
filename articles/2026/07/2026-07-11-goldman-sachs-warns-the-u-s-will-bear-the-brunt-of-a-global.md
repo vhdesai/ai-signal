@@ -5,8 +5,8 @@ title: Goldman Sachs warns the U.S. will bear the brunt of a global AI-induced i
 date: '2026-07-11'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/us-inflation-outlook-economy-ai-memory-software-prices-goldman-sachs-2026-7
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: dd8812053c78c8bedf6dc244ce1541e6eb021409f268dfc2da92e5b686c7c955

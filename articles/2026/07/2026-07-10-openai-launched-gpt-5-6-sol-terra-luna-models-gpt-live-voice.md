@@ -5,8 +5,8 @@ title: 'OpenAI: Launched GPT‑5.6 (Sol, Terra, Luna models), GPT-Live voice-fir
 date: '2026-07-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techjournal.org/openai-gpt-5-6-sol-terra-luna
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md
 content_hash: 824f0a0d824a95e7e939eb7a68d9b8afbba2ad606c91000cb55dfd4c0ed52e7c
 normalized_title_hash: 1e52c825938dd8ac

@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
+- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 embedding_id: 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Wired reported that U.S. and Chinese officials have begun discussing a mechanism
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
+**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]]
 <!-- graph:end -->

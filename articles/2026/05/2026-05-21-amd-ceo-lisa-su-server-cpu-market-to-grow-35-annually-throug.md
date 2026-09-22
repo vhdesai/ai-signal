@@ -4,8 +4,8 @@ title: 'AMD CEO Lisa Su: Server CPU Market to Grow 35%+ Annually Through 2031'
 date: '2026-05-21'
 source: Nikkei Asia / Crypto Briefing
 url_original: null
-url_canonical: https://cryptobriefing.com/amd-lisa-su-cpu-market-35-percent-growth/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: fb43d41a7d67023263a293c0cd9161c089b6281aabd741041b6fc216a852cd09
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
-- 2026-08-15-super-micro-s-72b-revenue-forecast-raises-stakes-for-ai-infr
+- 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
 embedding_id: 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AMD CEO Lisa Su revised the company's server CPU market growth projection from 1
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-08-15-super-micro-s-72b-revenue-forecast-raises-stakes-for-ai-infr]]
+**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t]]
 <!-- graph:end -->

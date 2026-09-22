@@ -1,21 +1,40 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1416
+member_count: 1435
 ---
 
 # Google
 
-> Auto-generated entity hub. 1416 connected article(s).
+> Auto-generated entity hub. 1435 connected article(s).
 
-- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
-- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
+- `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
+- `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-21` [[2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim|Xiaomi Releases MiMo-V2.6 Pro and Flash as Open-Weight Omnimodal Models]]
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]
+- `2026-09-21` [[2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin|Ron Johnson: Silicon Valley Is Overestimating Agentic Shopping]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic Neared a Legally Binding Deal to Stress-Test Each Other's Models]]
+- `2026-09-21` [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c|NTNU Review of 173 Studies: Generative AI Cuts Both Ways on Critical Thinking]]
+- `2026-09-21` [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir|Kairos Power Secures up to $100M from Samsung C&T for Its First Reactor, with Google as Offtaker]]
+- `2026-09-21` [[2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou|Google unveils $899 "Googlebook" — an AI-native laptop built around Gemini]]
+- `2026-09-21` [[2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto|Google opens preorders for $899 Googlebook, an AI-native laptop built around Gemini]]
 - `2026-09-21` [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete|Google open-sources AX, an agentic orchestrator for Kubernetes]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google Research: Procedural Graphs Meaningfully Improve LLM Agent Performance]]
 - `2026-09-21` [[2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne|Google Publishes AX, an Open Agentic Orchestrator for Kubernetes]]
+- `2026-09-21` [[2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop|Google Opens $899 Googlebook Preorders — A Gemini-Native Laptop Aimed at the Chromebook Base]]
+- `2026-09-21` [[2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf|Cybernews: AWS AgentCore Leaves Credentials Vulnerable to Exfiltration by Default]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that|AWS Debuts Strands Harness — an Open-Source Agent Runtime That Runs on Any Cloud]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that|AWS Debuts Strands Harness — An Open-Source Agent Harness That Runs Anywhere]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
-- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]
 - `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu|Jensen Huang Rejects AI Extinction Warnings, Opposes New Regulation]]
 - `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]

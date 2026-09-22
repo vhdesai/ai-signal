@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 embedding_id: 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Amazon shares rose as AWS expanded the set of third-party models available to cu
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite
 date: '2026-07-05'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SK+Hynix+Nasdaq+listing
-url_canonical: https://www.ainvest.com/news/sk-hynix-29b-nasdaq-debut-listing-finally-break-korea-discount-2607/
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SK+Hynix+Nasdaq+listing
+url_status: broken
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 798473a8c177c673e1bcfe89ec8a00d58cfb24d8ca0712d08451b7a426e8012b
 normalized_title_hash: fd033b0aedaf4284

@@ -1,21 +1,38 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1166
+member_count: 1183
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1166 connected article(s).
+> Auto-generated topic hub. 1183 connected article(s).
 
+- `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
+- `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo|Helsinki's Verda Raises $189M, Becoming Europe's Newest AI Cloud Unicorn]]
+- `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
+- `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
+- `2026-09-21` [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta|SoftBank plans $11B+ in risky bonds to fund another OpenAI stake payment]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next|SoftBank Launches Record $11B+ Junk-Bond Sale to Fund Its Next OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai|OpenAI Forms a Mathematics Advisory Group as Its Models Claim 100+ Open Problems]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
 - `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi|DeepSeek Confirms Huawei Ascend Chip Deployment for Q4 as First Frontier Customer, Bypassing U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi|Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarounds continue]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar|Crusoe Raises $3.9B Series F at $30.9B; AI Infrastructure Megarounds Continue]]
+- `2026-09-21` [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr|Anthropic Weighs an Off-Cycle Model Release as OpenAI's Astra Gains Enterprise Share]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da|Oura targets $16B IPO valuation as investors bet on health-data platforms, not devices]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t|Anthropic reportedly pushes IPO from October to November; $2T valuation and $100B raise on the table]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str|Anthropic reportedly delays IPO to November to present a stronger Q3]]
 - `2026-09-20` [[2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem|Anthropic Reportedly Postpones Its IPO From October to November]]

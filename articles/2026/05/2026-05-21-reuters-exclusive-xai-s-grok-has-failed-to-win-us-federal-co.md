@@ -5,8 +5,8 @@ title: 'Reuters exclusive: xAI''s Grok has failed to win US federal contracts, u
 date: '2026-05-21'
 source: Reuters via U.S. News  · xAI / SpaceX
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/exclusive-grok-falls-flat-washington-100237131.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 402161f69302012940e47a551aa50c935d9347d1d1246567d520ca10985568fd

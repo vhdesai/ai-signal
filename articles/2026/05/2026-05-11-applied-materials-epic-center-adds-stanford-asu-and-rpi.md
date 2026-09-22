@@ -4,8 +4,8 @@ title: Applied Materials EPIC Center Adds Stanford, ASU, and RPI
 date: '2026-05-11'
 source: Markets Insider
 url_original: null
-url_canonical: https://www.marketscreener.com/news/applied-materials-announces-asu-rpi-and-stanford-to-join-epic-center-ce7f5bd9dd8af12d
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: a32a7bf94e259c28113c20bd3973c22713f147a34dcf157841cade198b56e445

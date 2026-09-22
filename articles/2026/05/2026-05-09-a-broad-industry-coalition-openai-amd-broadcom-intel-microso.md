@@ -5,8 +5,8 @@ title: A broad industry coalition — OpenAI, AMD, Broadcom, Intel, Microsoft, a
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://wccftech.com/openai-accelerates-large-scale-ai-training-amd-nvidia-intel-microsoft-broadcom-mrc/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: d15ffb844106e70faa152be7c997827bcc6384dce1f430758d238a74e1d3b83d
 normalized_title_hash: b3cb2aaeb596d43d

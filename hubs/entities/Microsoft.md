@@ -1,19 +1,30 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 896
+member_count: 907
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 896 connected article(s).
+> Auto-generated entity hub. 907 connected article(s).
 
+- `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b|Microsoft and Anthropic Account for $87.7B of Nscale's $103B Backlog]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t|Microsoft's StudentSim: realistic simulated learners let AI tutors train faster and beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu|Microsoft AI chief says China is not a reason to avoid AI guardrails]]

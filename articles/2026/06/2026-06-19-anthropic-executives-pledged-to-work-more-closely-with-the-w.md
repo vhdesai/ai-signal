@@ -5,8 +5,8 @@ title: Anthropic executives pledged to work more closely with the White House in
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/c9w2p7ykp8yo
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: e65f449ee3310c6342c12d6387d086d97ea1c7bfabba8ad86f19b254403e320a
 normalized_title_hash: 7bb3a49d62414cfb

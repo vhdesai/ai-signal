@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 48
+member_count: 49
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 48 connected article(s).
+> Auto-generated entity hub. 49 connected article(s).
 
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]
 - `2026-09-06` [[2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio|Tesla's Cybercab reaches public roads — and its first operational snag]]
 - `2026-09-06` [[2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr|Authors contest third-party claims on Anthropic's $1.5B copyright settlement]]

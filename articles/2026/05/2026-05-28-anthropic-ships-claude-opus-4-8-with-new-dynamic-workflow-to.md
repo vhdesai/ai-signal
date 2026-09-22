@@ -4,8 +4,8 @@ title: Anthropic ships Claude Opus 4.8 with new "dynamic workflow" tool
 date: '2026-05-28'
 source: TechCrunch / Anthropic Newsroom
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 966fb20a2ce28f25d97aa1599f586ba8018c2cb810b01db6269646ab0446236a

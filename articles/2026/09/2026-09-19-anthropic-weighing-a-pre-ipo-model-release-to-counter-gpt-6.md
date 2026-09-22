@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 embedding_id: 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 event_name: ''
@@ -38,5 +39,5 @@ Reuters reported that Anthropic is considering shipping a new model ahead of its
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]]
+**Related:** [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]]
 <!-- graph:end -->

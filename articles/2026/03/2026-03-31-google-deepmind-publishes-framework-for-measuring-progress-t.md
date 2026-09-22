@@ -4,8 +4,8 @@ title: Google DeepMind Publishes Framework for Measuring Progress Toward AGI
 date: '2026-03-31'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: a654b050bb98d44a6a2f2b7893cd92cbfd6563a50a1bdc5e2da7e5cd157c61bf

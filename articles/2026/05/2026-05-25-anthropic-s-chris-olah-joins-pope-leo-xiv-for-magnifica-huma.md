@@ -4,8 +4,8 @@ title: Anthropic's Chris Olah joins Pope Leo XIV for "Magnifica humanitas" launc
 date: '2026-05-25'
 source: Anthropic
 url_original: null
-url_canonical: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: ea5a40e53dc2b9f581bfeba8312cb37cd648398caa5dbef204d70f1ee084dea1

@@ -4,8 +4,8 @@ title: SoftBank Launches $11B+ Junk Bond Sale to Fund Next OpenAI Tranche
 date: '2026-09-21'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/softbank-launches-11-billion-junk-115346334.html
-url_status: repaired
+url_canonical: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
+url_status: broken
 digest_source: digests\raw\2026-09-21_062401_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 0fe2003eb9d9f9d9546fddce83a7daad7979a63de42e2a7949e054172f58854f
@@ -18,7 +18,7 @@ entities:
 themes: []
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
+canonical_article_id: 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 related_article_ids: []
 embedding_id: 2026-09-21-softbank-launches-11b-junk-bond-sale-to-fund-next-openai-tra
 event_name: ''
@@ -32,5 +32,5 @@ SoftBank Group launched $10 billion of dollar-denominated senior unsecured notes
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Canonical:** [[2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its]]
+**Canonical:** [[2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope]]
 <!-- graph:end -->

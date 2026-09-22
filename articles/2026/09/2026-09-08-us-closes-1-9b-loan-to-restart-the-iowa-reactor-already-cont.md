@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar
-- 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
+- 2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir
 embedding_id: 2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Department of Energy's Office of Energy Dominance Financing closed a loan of
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]]
+**Related:** [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar]] · [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Security researchers using AI tools found the third major Linux kernel vu
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.zdnet.com/article/third-major-linux-kernel-flaw-in-two-weeks-found-by-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: fbd48d5761557f15f2ec144e953bccc7cea23413fac2b7bf9db92dbb00ff88a7

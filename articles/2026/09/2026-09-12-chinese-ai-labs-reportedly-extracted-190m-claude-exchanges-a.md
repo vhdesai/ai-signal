@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
 - 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
+- 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
-- 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 embedding_id: 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tech Times reported that alleged Chinese distillation activity against Claude gr
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]]
+**Related:** [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale]] · [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]]
 <!-- graph:end -->

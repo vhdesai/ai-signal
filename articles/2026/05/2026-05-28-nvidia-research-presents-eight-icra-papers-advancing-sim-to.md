@@ -4,8 +4,8 @@ title: NVIDIA Research presents eight ICRA papers advancing sim-to-real robotics
 date: '2026-05-28'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f5987976e624b293648f8e561fb728d49825af53d4f65779ce6281214b6e876a

@@ -5,8 +5,8 @@ title: OpenAI's next flagship model, internally codenamed "Spud," completed pret
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.mindstudio.ai/blog/what-is-openai-spud-model-next-frontier
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 7044c567d8653035d138c48634342c42692e4c6cd657683c06a7932bddb8aee2

@@ -24,12 +24,9 @@ themes:
 - company-investments
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
-- 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
-- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+dedupe_status: duplicate
+canonical_article_id: 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
+related_article_ids: []
 embedding_id: 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 event_name: ''
 ---
@@ -43,5 +40,5 @@ Two-year-old UK-based AI cloud startup Nscale, an Australian crypto-miner spinou
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Canonical:** [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account]]
 <!-- graph:end -->

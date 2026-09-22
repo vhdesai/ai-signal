@@ -5,8 +5,8 @@ title: The UK's AI Security Institute tested frontier models across seven benchm
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: d415e6e933456cbfa24b705a51c7685d1ebb5b7cc4db32c2a57184759a5c12d1

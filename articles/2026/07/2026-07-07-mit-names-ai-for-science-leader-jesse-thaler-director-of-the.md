@@ -5,8 +5,8 @@ title: MIT Names AI-for-Science Leader Jesse Thaler Director of the Laboratory f
 date: '2026-07-07'
 source: MIT News
 url_original: null
-url_canonical: https://alumcommunity.mit.edu/news/11547514
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: cbf636441387051c673a981cef249840b4bc54531348c7b90593b8a5ec60c219

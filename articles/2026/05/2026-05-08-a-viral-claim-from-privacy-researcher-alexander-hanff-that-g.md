@@ -5,8 +5,8 @@ title: A viral claim from privacy researcher Alexander Hanff — that Google Chr
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.malwarebytes.com/blog/news/2026/05/google-chromes-silent-4gb-ai-download-problem
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 43def91847e0330e424ac6fed63207e5b036b13eec9ff9fd9ac172666e7ce35c
 normalized_title_hash: 2455414e26efbff4

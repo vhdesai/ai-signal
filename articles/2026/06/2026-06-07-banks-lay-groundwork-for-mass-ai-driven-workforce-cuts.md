@@ -4,8 +4,8 @@ title: Banks Lay Groundwork for Mass AI-Driven Workforce Cuts
 date: '2026-06-07'
 source: Bloomberg
 url_original: null
-url_canonical: https://news.bloomberglaw.com/banking-law/banks-lay-groundwork-for-mass-workforce-cuts-as-ai-takes-hold
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: c9b58fcf3dc43a9f506f87812d373832cf247e792dcffa109eaceb1c59510b4b
 normalized_title_hash: c9a4e87b6c5e182c

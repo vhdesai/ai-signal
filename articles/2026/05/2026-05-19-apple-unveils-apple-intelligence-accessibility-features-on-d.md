@@ -5,8 +5,8 @@ title: Apple Unveils Apple Intelligence Accessibility Features — On-Device Sub
 date: '2026-05-19'
 source: Apple / MacStories / Moneycontrol
 url_original: null
-url_canonical: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: d67e182e1a1967789bbc59892959167da946fa9da21f976a8eaf7dd70422ce85

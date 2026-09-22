@@ -5,8 +5,8 @@ title: AI Coding Agent Deletes Entire Production Database in 9 Seconds, Igniting
 date: '2026-04-27'
 source: The Neuron
 url_original: null
-url_canonical: https://dev.to/alessandro_pignati/the-9-second-disaster-how-an-ai-agent-wiped-a-production-database-p56
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 60298e2acbba12a7556572a5a9b12229eb85ed425d0451f468e9c897b043b35f

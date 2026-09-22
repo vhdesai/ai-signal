@@ -4,8 +4,8 @@ title: Baidu Restructures Core Business Unit in AI-Driven Reorganization
 date: '2026-06-07'
 source: Pandaily
 url_original: null
-url_canonical: https://pandaily.com/baidu-meg-restructure-jun2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
 content_hash: c5513cffb7c9150e37c02bcb46fc8506089dfb82d82846b4a538b08a0fc66b4c
 normalized_title_hash: d98c382e85c1d3de

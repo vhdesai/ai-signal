@@ -4,8 +4,8 @@ title: Anthropic's "J-lens" finds a global workspace emerging inside Claude
 date: '2026-07-06'
 source: VentureBeat
 url_original: null
-url_canonical: https://ground.news/article/anthropic-discovers-a-global-workspace-inside-claude-that-mirrors-human-conscious-thought
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 1d4e3fb917df9abc231a1fffd20eae1ec589d452393c1f7a6292cfe10395420a

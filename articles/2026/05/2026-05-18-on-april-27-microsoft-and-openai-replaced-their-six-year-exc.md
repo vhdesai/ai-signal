@@ -5,8 +5,8 @@ title: On April 27, Microsoft and OpenAI replaced their six-year exclusive cloud
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aitrove.ai/blog/microsoft-openai-partnership-ends-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: f44c32d040e48897b418733f158f279733529aedb3a132bee5be4fb5607ab804

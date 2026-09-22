@@ -4,8 +4,8 @@ title: Hot Autonomous AI systems begin to test governance in physical environmen
 date: '2026-05-27'
 source: AI News
 url_original: https://artificialintelligence-news.com/
-url_canonical: https://www.ai.cc/news/ai-systems-test-governance-in-physical-spaces/
-url_status: repaired
+url_canonical: https://artificialintelligence-news.com/
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4075ce793f9c25405a67479b0e1cb9cbfc16705f65055a19ac66b60f6a184919

@@ -4,8 +4,8 @@ title: Helsinki-based Verda raises €100M to build European AI cloud
 date: '2026-04-23'
 source: TechCrunch
 url_original: null
-url_canonical: https://theaiworld.org/news/verda-raises-100m-to-power-ai-cloud-growth
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 6e1c4dfd67ab6029c73496ca187da12acd97a752e076adda2b8ea6cabb851be8
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo
+- 2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-- 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
 embedding_id: 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Verda closed a €100M round to expand its Nordic GPU footprint, targeting enter
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s]]
+**Related:** [[2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo]] · [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]]
 <!-- graph:end -->

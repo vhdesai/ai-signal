@@ -4,8 +4,8 @@ title: UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search
 date: '2026-06-03'
 source: ABC News; VideoWeek; The Verge
 url_original: null
-url_canonical: https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 8100d1b30d0be56072fd51b84a0cf070c1f69a9ca7bb42db9a3180e1e35a8d1f

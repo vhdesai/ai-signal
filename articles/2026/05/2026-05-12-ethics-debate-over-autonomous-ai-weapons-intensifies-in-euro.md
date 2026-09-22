@@ -4,8 +4,8 @@ title: Ethics Debate Over Autonomous AI Weapons Intensifies in Europe
 date: '2026-05-12'
 source: LinkedIn AI Global News Briefing
 url_original: null
-url_canonical: https://legalnewsfeed.com/2026/08/26/global-call-for-binding-international-rules-on-autonomous-weapons-intensifies-as-un-and-icrc-highlight-urgent-ethical-concerns/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: eaa4aeb271a54b209de6afae19fe3b8ecd8be3761c91c4fbe9e6a24b7128ab83

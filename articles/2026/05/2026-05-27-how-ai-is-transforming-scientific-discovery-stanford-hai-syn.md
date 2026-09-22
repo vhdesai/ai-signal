@@ -4,8 +4,8 @@ title: How AI is Transforming Scientific Discovery — Stanford HAI Synthesis
 date: '2026-05-27'
 source: Shana Lynch, Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/news/how-ai-is-transforming-scientific-discovery-while-keeping-humans-at-the-center
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 41f685d4b48cb4843d26e3cdc2b6a299c3d29d756f2ed9b9adc4679e926949b7

@@ -4,8 +4,8 @@ title: Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business
 date: '2026-06-18'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9
-url_canonical: https://thenextweb.com/news/google-nvidia-playbook-tpu-circular-financing-anthropic
-url_status: repaired
+url_canonical: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9
+url_status: broken
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: aa1b761d80867b584909b82e6b98685257a0576ce9f0ee10c201d8775f124229
 normalized_title_hash: 10c9b611606a126d

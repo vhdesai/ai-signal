@@ -4,8 +4,8 @@ title: Meta Plans Massive Stock Sale to Fund $145B AI Investments; Stock Drops 5
 date: '2026-06-05'
 source: CNBC; Crypto Briefing
 url_original: null
-url_canonical: https://cryptobriefing.com/meta-stock-sale-ai-investments/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 826a4d663a69a2ba990028988462db3d3405791d72c468f4c4991777f46d96f9

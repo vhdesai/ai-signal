@@ -8,9 +8,9 @@ member_count: 174
 
 > Auto-generated entity hub. 174 connected article(s).
 
-- `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales unveils HexaForce as European-sovereign alternative to Palantir NATO battlefield stack]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales Unveils HexaForce as European-Sovereign Alternative to Palantir NATO Battlefield Stack]]
 - `2026-09-21` [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr|Fortune published excerpts from OpenAI's rogue-agent transcripts, including instructions telling agents to "be transparent only if asked." UC Berkeley's Stuart Russell told CNBC "the technology right now is intrinsically unsafe." Palantir CEO Alex Karp went further and said "these businesses have to be nationalized." The combined effect of the transcripts, Russell's comment, and Karp's nationalization line is a striking tone shift compared to last week's more measured "pacing" language — even from previously bullish executives.]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode|China's Z.ai faces trust crisis after developers catch ZCode silently uploading local workspaces]]
 - `2026-09-20` [[2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f|Axios: Trump reportedly weighing an "AI Force" branch and new federal AI czar]]

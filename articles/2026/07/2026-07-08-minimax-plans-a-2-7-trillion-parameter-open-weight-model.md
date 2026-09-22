@@ -4,8 +4,8 @@ title: MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model
 date: '2026-07-08'
 source: The Information
 url_original: null
-url_canonical: https://letsdatascience.com/news/minimax-plans-giant-27t-open-weight-model-bf566b50
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 6ae5d533fad7ff7703e3ed21fad7d7781b9776e665cdf3c850af289fb0beb185

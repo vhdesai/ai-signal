@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Infrastructure, silicon, and cloud operations'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://solv-systems.com/resources/microsoft-build-2026-recap
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 8300265e150d12bfba95f4b74fd045f53121097ddd51a5092205fab2e70d0523
 normalized_title_hash: db027e52e74dc435

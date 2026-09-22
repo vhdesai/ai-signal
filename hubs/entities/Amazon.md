@@ -1,17 +1,34 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 589
+member_count: 606
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 589 connected article(s).
+> Auto-generated entity hub. 606 connected article(s).
 
+- `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
+- `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
 - `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
-- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon blocks Meta's Muse AI agent from shopping the Amazon store]]
+- `2026-09-21` [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us|Meta's Muse outpaces ChatGPT's early mobile launch in the US and Canada]]
+- `2026-09-21` [[2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the|Meta hot-fixes a Muse zero-day that could hand attackers the agent's privileges]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
+- `2026-09-21` [[2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf|Cybernews: AWS AgentCore Leaves Credentials Vulnerable to Exfiltration by Default]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c|Amazon blocks Meta's Muse AI agent from shopping on Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp|Amazon Blocks Meta's Muse Agent from Amazon.com as Muse Outpaces ChatGPT's Early Mobile Curve]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com|Amazon Blocks Meta's Muse Agent from Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com|Amazon Blocks Meta's Muse Agent From Shopping on Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon Blocks Meta's Muse AI Agent from Shopping the Amazon Store]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that|AWS Debuts Strands Harness — an Open-Source Agent Runtime That Runs on Any Cloud]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that|AWS Debuts Strands Harness — An Open-Source Agent Harness That Runs Anywhere]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]
 - `2026-09-20` [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co|Amazon cuts off Meta’s Muse agent from shopping on Amazon.com]]
 - `2026-09-20` [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second|Alibaba Qwen releases Qwen3.8-LiveTranslate with 2.3-second real-time interpretation across 60+ languages]]

@@ -4,8 +4,8 @@ title: Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent
 date: '2026-06-02'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.alibabacloud.com/blog/qwen3-7-plus-multimodal-agent-intelligence_603206
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: fb889425b6465f280c5612b8077a9aae6a3eaed8f0ef224be06c90f18e74bfe5
 normalized_title_hash: 3bd66b78f2da8e97

@@ -11,8 +11,8 @@ title: Researchers from UC Berkeley's Center for AI Safety co-authored a widely-
 date: '2026-04-12'
 source: 🔥 TRENDING Georgia Tech
 url_original: null
-url_canonical: https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: cbd3e544804458e1ccd5c2594346a9c4c6e8214bb66e32e50fc355f285805759
@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
+- 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 embedding_id: 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Georgia Tech AI Tutor "TokenSmith" Outperforms Human TAs in Randomized Controlle
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
+**Related:** [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]] · [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]]
 <!-- graph:end -->

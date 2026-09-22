@@ -5,8 +5,8 @@ title: Meta's proprietary flagship model "Avocado" has slipped again — now tar
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.krasa.ai/news/meta-avocado-delay-llama-5-closed-source-pivot-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 6447ab8e6857b11a083810046aa3d4ffb60103f11a08a7dda79eea4ea6d616e0

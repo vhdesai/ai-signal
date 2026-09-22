@@ -5,8 +5,8 @@ title: 'Needle: open-source project distills Gemini tool calling into a 26M-para
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://cactuscompute.com/blog/needle
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bf34b1f4ba16652144de512fc304b1b470e36fc0f919f1b30405756e056bce9f

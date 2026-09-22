@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
-- 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
-- 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
+- 2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t
+- 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 embedding_id: 2026-09-20-the-us-wants-an-ai-era-red-phone-with-china
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Treasury Secretary Scott Bessent said the US has proposed a direct notification 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]]
+**Related:** [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]]
 <!-- graph:end -->

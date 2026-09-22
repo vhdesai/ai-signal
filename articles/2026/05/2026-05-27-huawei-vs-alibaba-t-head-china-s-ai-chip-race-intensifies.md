@@ -4,8 +4,8 @@ title: 'Huawei vs. Alibaba T-Head: China''s AI Chip Race Intensifies'
 date: '2026-05-27'
 source: Reuters
 url_original: https://www.reuters.com/technology/artificial-intelligence/huawei-looks-beyond-moores-law-2026-05-27/
-url_canonical: https://tech.yahoo.com/ai/articles/huawei-unveils-chip-technologies-chinese-081714638.html
-url_status: repaired
+url_canonical: https://www.reuters.com/technology/artificial-intelligence/huawei-looks-beyond-moores-law-2026-05-27/
+url_status: broken
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: b7c541b68a0465f3a5f58bf22998bb20d7259cbbacd24090b09314ed72ca9ccc
@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion
+- 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
-- 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
-- 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 embedding_id: 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reported Alibaba's T-Head chip unit unveiled the Zhenwu M890 and a multi
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on]] · [[2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt]]
+**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]]
 <!-- graph:end -->

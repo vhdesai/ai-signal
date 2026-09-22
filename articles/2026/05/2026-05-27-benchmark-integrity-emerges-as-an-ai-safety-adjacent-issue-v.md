@@ -5,8 +5,8 @@ title: Benchmark integrity emerges as an AI safety adjacent issue — VentureBea
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.theneuron.ai/explainer-articles/datacurves-deepswe-exposes-a-weird-new-problem-with-ai-coding-leaderboards/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3475ff261485e0c88370ea3b0b27f007495d3766f1f6cc408c242b0cee4651e9

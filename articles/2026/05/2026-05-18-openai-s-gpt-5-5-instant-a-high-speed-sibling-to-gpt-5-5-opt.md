@@ -5,8 +5,8 @@ title: OpenAI's GPT-5.5 Instant — a high-speed sibling to GPT-5.5 optimized fo
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.4sapi.com/blog/gpt-5-5-instant-openai-new-default-model-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: ea50e76fe37893bf714761a2e4fb52d0ce4541f49b314319cc72dceff3bdee9f

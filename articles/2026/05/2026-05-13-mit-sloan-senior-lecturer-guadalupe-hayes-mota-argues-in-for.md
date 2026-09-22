@@ -10,8 +10,8 @@ title: MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI 
 date: '2026-05-13'
 source: Sources Scanned
 url_original: null
-url_canonical: https://www.forbes.com/councils/forbesbusinesscouncil/2026/05/12/ai-and-drug-development-decisions-a-framework-for-accountability/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b47e98fc743824cff8db696b37dbcb543b4a6d1f87ba0c84597c83c7dc014ced

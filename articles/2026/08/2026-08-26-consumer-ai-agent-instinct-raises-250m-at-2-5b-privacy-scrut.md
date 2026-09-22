@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
 - 2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still
-- 2026-08-27-consumer-ai-assistant-instinct-raises-250m-series-b-at-2-5b
+- 2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout
 embedding_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Led by 23-year-old founder Noah Shinn. $250M Series B co-led by Index and Benchm
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
 **Canonical:** [[2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr]]
-**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still]] · [[2026-08-27-consumer-ai-assistant-instinct-raises-250m-series-b-at-2-5b]]
+**Related:** [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still]] · [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout]]
 <!-- graph:end -->

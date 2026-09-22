@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
+- 2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to
 - 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
 - 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
-- 2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma
 embedding_id: 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple's off-cycle Mac mini (M6/M5 Pro) and Mac Studio refresh was driven by ente
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]] · [[2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma]]
+**Related:** [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to]] · [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]] · [[2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Security researchers leveraging AI tools discovered the third significant
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 803e3f881b6b2388653c445f0c7b7bfe25b8a9b4461153a03b27360df7272440

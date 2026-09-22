@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
+- 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Deep-learning pioneer Yoshua Bengio published an essay arguing that AI dangerous
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
+**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]]
 <!-- graph:end -->

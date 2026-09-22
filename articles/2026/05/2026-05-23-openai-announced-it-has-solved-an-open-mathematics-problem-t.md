@@ -5,8 +5,8 @@ title: OpenAI announced it has solved an open mathematics problem that has stood
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/cy7zygy3rl2o
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: ec4c84d2f383bd0a611e7f4d325ffcc1970491aa30b1a7e41c8c452385befbb7

@@ -4,8 +4,8 @@ title: OpenAI Foundation Commits Initial $250M to AI Workforce Disruption Trendi
 date: '2026-05-27'
 source: Reuters via Yahoo Finance  / NPR
 url_original: null
-url_canonical: https://finance.yahoo.com/economy/policy/articles/openai-foundation-pledges-250-million-174314674.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: c49c5103edc483b5e5ec716ec047162396e2a078f8aece66bded158bf48c641d

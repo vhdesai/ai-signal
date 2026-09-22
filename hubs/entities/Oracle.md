@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 223
+member_count: 226
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 223 connected article(s).
+> Auto-generated entity hub. 226 connected article(s).
 
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b|Microsoft and Anthropic Account for $87.7B of Nscale's $103B Backlog]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to|Business Insider: the timing of the AI slowdown call looks too convenient to ignore]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]

@@ -1,17 +1,33 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 361
+member_count: 377
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 361 connected article(s).
+> Auto-generated entity hub. 377 connected article(s).
 
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
 - `2026-09-21` [[2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi|Z.ai apologizes after ZCode uploaded local workspace data without consent]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
-- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
+- `2026-09-21` [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge|Alibaba Qwen releases Qwen-Image-2.1, a 7B model for image generation and editing]]
+- `2026-09-21` [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a|Alibaba Qwen Releases Qwen-Image-2.1 — 7B Unified Generation and Editing, Non-Commercial License]]
 - `2026-09-21` [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Sources Qwen-Image-2.1 — but Moves It Off Apache 2.0]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba Appoints Dayiheng Liu Head of Qwen LLM Team Ahead of Apsara Conference]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close|Alibaba's open-weight Qwen-Image-2.1 (7B) claims to beat closed image models on quality benchmarks]]

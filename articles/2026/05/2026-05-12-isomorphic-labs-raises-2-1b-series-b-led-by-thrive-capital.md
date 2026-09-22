@@ -4,8 +4,8 @@ title: Isomorphic Labs raises $2.1B Series B led by Thrive Capital
 date: '2026-05-12'
 source: TMCnet / CNW
 url_original: null
-url_canonical: https://www.prnewswire.com/news-releases/isomorphic-labs-secures-2-1-billion-funding-to-scale-its-ai-drug-design-engine-302769674.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: d26abf5c8e5c64ca1a5079dfed87e38d74a600f68347c7eb17201b61a1c53090

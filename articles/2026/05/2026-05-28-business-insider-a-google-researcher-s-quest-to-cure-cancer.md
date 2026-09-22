@@ -4,8 +4,8 @@ title: 'Business Insider: A Google researcher''s quest to cure cancer with AI'
 date: '2026-05-28'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/google-ai-co-scientist-yossi-matias-scientific-discovery-cancer-2026-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 366579494bd07bf6d625da20ca25b396e82540f59f9586636a895963e7b5b8c3

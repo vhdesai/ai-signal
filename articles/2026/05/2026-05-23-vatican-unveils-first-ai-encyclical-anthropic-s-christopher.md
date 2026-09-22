@@ -5,8 +5,8 @@ title: Vatican unveils first AI encyclical; Anthropic's Christopher Olah invited
 date: '2026-05-23'
 source: Religion News Service via Techmeme
 url_original: null
-url_canonical: https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 89ae4855b8785e912a58d9d51a4efa799bfad3a80ae13af59ecb2fb9d89d87b3

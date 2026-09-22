@@ -5,8 +5,8 @@ title: Google Gemini AI Assistant Deployed in Millions of Vehicles NEW TechCrunc
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 97ba1d19965d145fb5c8219f28fec9533c5794c0cebf632e38f0f31007acaabe
 normalized_title_hash: ac8a197737ae7239

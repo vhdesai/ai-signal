@@ -4,8 +4,8 @@ title: AI-enabled cheating is forcing some schools to go analog
 date: '2026-07-11'
 source: Business Insider
 url_original: null
-url_canonical: https://article.wn.com/view/2026/07/11/AIenabled_cheating_is_forcing_some_schools_to_go_analog/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 963990280ac4ff8d1535a5e0d6ed60410135d28ac3e92b3dbdeab6447bbce2cf

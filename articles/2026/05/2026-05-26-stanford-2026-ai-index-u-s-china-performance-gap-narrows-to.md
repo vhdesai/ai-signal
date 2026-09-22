@@ -5,8 +5,8 @@ title: 'Stanford 2026 AI Index: U.S.–China Performance Gap Narrows to 2.7 Poin
 date: '2026-05-26'
 source: IEEE Spectrum, MIT Tech Review
 url_original: null
-url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 2f683f1bf4556e526a000235945e6c181401f8a80030a92e28b16918643359b1

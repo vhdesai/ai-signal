@@ -5,8 +5,8 @@ title: OpenAI quietly launched a beta ChatGPT add-in for PowerPoint over the wee
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.stackumbrella.com/technology/chatgpt-powerpoint-integration-launched-openai-brings-ai-slide-creation-directly-inside-microsoft-powerpoint-11863264
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: dc6676d20705cf349637cdcf8dbace8c28eaf5ef46a2db7d69f84af4b999426e

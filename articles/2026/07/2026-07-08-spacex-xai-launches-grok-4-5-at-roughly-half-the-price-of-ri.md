@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge
+- 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-- 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
-- 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
+- 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 embedding_id: 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Elon Musk's SpaceX released Grok 4.5, its first model trained specifically for c
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
-**Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
+**Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge]] · [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p]]
 <!-- graph:end -->

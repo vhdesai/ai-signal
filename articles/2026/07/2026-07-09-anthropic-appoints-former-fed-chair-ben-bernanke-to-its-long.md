@@ -4,8 +4,8 @@ title: Anthropic appoints former Fed Chair Ben Bernanke to its Long-Term Benefit
 date: '2026-07-09'
 source: 'Source: FinanceFeeds'
 url_original: null
-url_canonical: https://www.anthropic.com/news/ben-bernanke
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 8cee67b2245c14ecdc6c243c235bd0a95a980f1cc08804481af3827b5c7d647e

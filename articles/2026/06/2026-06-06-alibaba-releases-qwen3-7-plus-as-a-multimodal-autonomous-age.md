@@ -4,8 +4,8 @@ title: Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent
 date: '2026-06-06'
 source: the-decoder.com
 url_original: null
-url_canonical: https://www.alibabacloud.com/blog/qwen3-7-plus-multimodal-agent-intelligence_603206
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-06_060013_Daily-AI-News-Digest.md
 content_hash: 4ef33982589d280af7b15989eb271792c819e36c752ca6763c49ac8db2835a69
 normalized_title_hash: aae4124b0370ede0

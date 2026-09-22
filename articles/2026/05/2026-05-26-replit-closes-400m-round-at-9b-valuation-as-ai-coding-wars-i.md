@@ -4,8 +4,8 @@ title: Replit Closes $400M Round at $9B Valuation as AI Coding Wars Intensify
 date: '2026-05-26'
 source: Tech Funding News
 url_original: null
-url_canonical: https://techfundingnews.com/replit-grabs-400m-at-9b-valuation-in-the-ai-coding-race-with-openai-and-cursor/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 32270d0a49382ffb62583851e19d19c5a50f99928200e415c41cf4e80a33a9d8

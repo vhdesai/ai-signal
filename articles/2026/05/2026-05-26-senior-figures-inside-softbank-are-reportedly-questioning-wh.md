@@ -5,8 +5,8 @@ title: Senior figures inside SoftBank are reportedly questioning whether Son's $
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.newsbreak.com/winbuzzer-com-302470011/4670657433752-softbank-insiders-question-son-s-60b-openai-gamble
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3f37bf36b5dbda3ae709c2c1cefb982704528f0c69c373b0176c6c2a1334e8dc
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest
-- 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
+- 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
 embedding_id: 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Senior figures inside SoftBank are reportedly questioning whether Son's $60B Ope
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Company Investments]]
-**Related:** [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]]
+**Related:** [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest]] · [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta]]
 <!-- graph:end -->

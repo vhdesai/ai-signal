@@ -4,8 +4,8 @@ title: ServiceNow, Salesforce, HubSpot Shift to Outcome-Based AI Pricing
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: https://www.revenuebrew.com/stories/saas-companies-outcome-based-pricing
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 8958ec5f317f29218882e31706414e98bfae6ab03942396646a84859c771ffd1
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
 - 2026-08-31-openai-tests-outcome-based-pricing-with-major-customers
+- 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
-- 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 embedding_id: 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new survey of 230 enterprise software firms by former OpenView partner Kyle Po
 
 **Entities:** [[Adobe]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo]] · [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]]
+**Related:** [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo]] · [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]]
 <!-- graph:end -->

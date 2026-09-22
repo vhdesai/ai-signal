@@ -4,8 +4,8 @@ title: CMU and UT Austin Detail New Methods for Long-Context Retrieval
 date: '2026-05-26'
 source: 'Source: CMU SCS / UT Austin CS'
 url_original: null
-url_canonical: https://www.cs.cmu.edu/~csd-phd-blog/2026/core-attention-disaggregation/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: b289447e5acb048d8a9778fa3d563f253e3cc5c24d19d313e3b282bb16433cf9

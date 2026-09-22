@@ -4,8 +4,8 @@ title: Google Lays Off Cloud and Cybersecurity Staff While Doubling Down on AI
 date: '2026-06-04'
 source: Business Insider; PPC Land; The Indian Express
 url_original: null
-url_canonical: https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: a4ef1203c5e9924dabb8262f4c96d8d601d94d8c682e946ff997b07531dcb4ff

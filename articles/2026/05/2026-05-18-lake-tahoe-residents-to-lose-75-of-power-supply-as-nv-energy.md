@@ -5,8 +5,8 @@ title: Lake Tahoe residents to lose 75% of power supply as NV Energy redirects c
 date: '2026-05-18'
 source: Industry Reporting
 url_original: null
-url_canonical: https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: cff9ae298382b0f21c2fc26d2f222c89c357c02eacf08641444c9b2049e4efd7

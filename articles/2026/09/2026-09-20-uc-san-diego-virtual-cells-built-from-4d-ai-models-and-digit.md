@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
 - 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 - 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
-- 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
 embedding_id: 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Schöneberg lab published two companion papers in Cell describing “virtual
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]]
+**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]]
 <!-- graph:end -->

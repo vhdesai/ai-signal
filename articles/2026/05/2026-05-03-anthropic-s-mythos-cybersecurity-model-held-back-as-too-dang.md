@@ -4,8 +4,8 @@ title: Anthropic's "Mythos" Cybersecurity Model Held Back as Too Dangerous
 date: '2026-05-03'
 source: Fox News AI
 url_original: null
-url_canonical: https://www.foxnews.com/tech/ai-newsletter-anthropic-model-too-dangerous-go-public
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 3f5991eee338c2733a108bc5e002471189b2792dccf45eb2b1f70d7b26b2a625
 normalized_title_hash: 382375ec2e448f49

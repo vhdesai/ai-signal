@@ -5,8 +5,8 @@ title: China's "Big Fund" — its largest state-backed semiconductor investment 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://chinabizinsider.com/chinas-national-chip-fund-eyes-45-billion-deepseek-investment/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 8e6eaeddec5000cf411cf10b14e2f730767d246559bab5cec07705885353a189

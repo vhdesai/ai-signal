@@ -5,8 +5,8 @@ title: U.S. legal practitioners are now widely warning enterprise clients that c
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://startupfortune.com/us-lawyers-are-warning-clients-that-confiding-in-ai-chatbots-could-become-their-biggest-legal-liability/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 665eb7fe44d2ee50732d27d26f1963984b7f8874864dbc48e051b5105b8b4d6d

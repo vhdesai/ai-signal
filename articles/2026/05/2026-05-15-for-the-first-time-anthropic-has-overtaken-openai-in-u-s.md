@@ -4,8 +4,8 @@ title: For the first time, Anthropic has overtaken OpenAI in U.S
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://vucense.com/ai-intelligence/industry-business/anthropic-overtakes-openai-30-billion-arr-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: a17f9372d60e7afb7104e17765110b1c7215567b2f0b40626b6bdbafa9613cbc

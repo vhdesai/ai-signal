@@ -23,8 +23,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 related_article_ids:
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
+- 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 - 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
-- 2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont
 embedding_id: 2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nscale, founded in May 2024, has gone from about $100M in contracted revenue to 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1]]
-**Related:** [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]] · [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont]]
+**Related:** [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]] · [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres]] · [[2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop]]
 <!-- graph:end -->

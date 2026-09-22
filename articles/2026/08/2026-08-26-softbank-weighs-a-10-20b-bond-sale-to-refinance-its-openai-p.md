@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
+- 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 - 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t
+- 2026-09-21-softbank-launches-an-11b-bond-sale-to-fund-its-next-openai-t
 embedding_id: 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
 event_name: ''
 ---
@@ -36,5 +38,5 @@ SoftBank is discussing a $10–20B dollar and euro bond, possibly in September, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t]]
+**Related:** [[2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its]] · [[2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t]] · [[2026-09-21-softbank-launches-an-11b-bond-sale-to-fund-its-next-openai-t]]
 <!-- graph:end -->

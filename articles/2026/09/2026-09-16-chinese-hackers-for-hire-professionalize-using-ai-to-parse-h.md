@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
+- 2026-09-21-daily-ai-news-digest-september-22-2026
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
-- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Documents reviewed by *The Wall Street Journal* show Chinese cyber-mercenaries a
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
 <!-- graph:end -->

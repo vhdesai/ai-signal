@@ -5,8 +5,8 @@ title: 'OpenAI on May 7 released a new suite of real-time audio models for devel
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/openai-gpt-realtime-2-audio-models-ga-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 1bd571c7959d2c3760a1dfc8ad81780d4f60082beeb1dd396add46b0d0bde695
 normalized_title_hash: ee78c2a9fd758440

@@ -5,8 +5,8 @@ title: The second International AI Safety Report 2026, chaired by Turing Award w
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fa08b3207bfb1b576cae31e2eb15840538b20eb1577fd54accdc94a988077ad
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
+- 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
-- 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
-- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 embedding_id: 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The second International AI Safety Report 2026, chaired by Turing Award winner Y
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]]
 <!-- graph:end -->

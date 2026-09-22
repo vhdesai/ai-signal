@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
-- 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 embedding_id: 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic said it will use its new Claude Science "workbench" — which integrat
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]] · [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]]
+**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]]
 <!-- graph:end -->

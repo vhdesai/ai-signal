@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai
 - 2026-09-19-trump-announces-an-ai-force-plans-an-ai-czar-and-rejects-new
 - 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
-- 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
+- 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-a-new-ai-czar
 embedding_id: 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Posting on Truth Social Saturday, President Trump dismissed AI safety concerns a
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-trump-announces-an-ai-force-and-forthcoming-ai-czar-calls-sa]] · [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-plans-an-ai-czar-and-rejects-new]] · [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar]] · [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp]]
+**Related:** [[2026-09-19-trump-announces-an-ai-force-and-forthcoming-ai-czar-calls-sa]] · [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-plans-an-ai-czar-and-rejects-new]] · [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar]] · [[2026-09-21-trump-announces-ai-force-and-plans-to-appoint-a-new-ai-czar]]
 <!-- graph:end -->

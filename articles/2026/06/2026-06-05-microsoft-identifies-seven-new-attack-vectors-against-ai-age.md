@@ -4,8 +4,8 @@ title: Microsoft Identifies Seven New Attack Vectors Against AI Agents
 date: '2026-06-05'
 source: CSO Online
 url_original: null
-url_canonical: https://www.csoonline.com/article/4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked-2.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: d7824471a73ccf26f8a6f034835d10e9a170a08f15c727103935efef4a32bc59

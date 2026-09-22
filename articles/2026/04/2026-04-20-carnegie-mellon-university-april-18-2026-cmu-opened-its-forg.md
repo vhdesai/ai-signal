@@ -5,8 +5,8 @@ title: Carnegie Mellon University • April 18, 2026 CMU opened its Forge to Fie
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.thepittsburghwire.com/news/cmu-forge-to-field-ai-pitch-competition-nfl-draft-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 30512a2d4a64f14beb7a1b8b463de3db7ff9ec72f83eb7c0c6143b5c67ae103a

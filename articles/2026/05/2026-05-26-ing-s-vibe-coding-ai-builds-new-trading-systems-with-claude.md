@@ -4,8 +4,8 @@ title: ING's "vibe coding" AI builds new trading systems with Claude Code + Code
 date: '2026-05-26'
 source: Bloomberg
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/crypto/articles/ing-built-trading-system-hours-153057815.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: f5f44eaa4b877a3447342b720ab21d3f4676f4667facb5df5d8f1949686f8372

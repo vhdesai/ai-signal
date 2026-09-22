@@ -24,8 +24,9 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f
-related_article_ids: []
+canonical_article_id: 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
+related_article_ids:
+- 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
 embedding_id: 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 event_name: ''
 ---
@@ -39,5 +40,6 @@ Crypto Briefing reported that DeepSeek is preparing to use Huawei AI accelerator
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Canonical:** [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f]]
+**Canonical:** [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa]]
+**Related:** [[2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner]]
 <!-- graph:end -->

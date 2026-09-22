@@ -1,17 +1,34 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 450
+member_count: 467
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 450 connected article(s).
+> Auto-generated entity hub. 467 connected article(s).
 
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a|DeepSeek and Moonshot Join the Security Council Session as AI Safety Enters Trade Talks]]
+- `2026-09-22` [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh|China's Cyberspace Administration Probes DeepSeek and Moonshot Over Anthropic's Data-Routing Allegations]]
+- `2026-09-22` [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth|China's CAC opens probe into DeepSeek and Moonshot over Anthropic's data-routing allegations]]
+- `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti|Amodei and Altman to Brief the UN Security Council on Frontier AI]]
+- `2026-09-22` [[2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai|Altman and Amodei to brief the UN Security Council on AI]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
+- `2026-09-21` [[2026-09-21-xiaomi-s-mimo-v2-6-pro-takes-the-top-open-weight-slot-on-the|Xiaomi's MiMo-V2.6-Pro takes the top open-weight slot on the Intelligence Index]]
+- `2026-09-21` [[2026-09-21-xiaomi-s-mimo-v2-6-pro-becomes-the-top-scoring-open-weights|Xiaomi's MiMo-V2.6-Pro Becomes the Top-Scoring Open-Weights Model]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
 - `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi|DeepSeek Confirms Huawei Ascend Chip Deployment for Q4 as First Frontier Customer, Bypassing U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-19` [[2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc|Open-Weight Models Hit a Record 78.4% of Token Volume on Vercel's AI Gateway]]

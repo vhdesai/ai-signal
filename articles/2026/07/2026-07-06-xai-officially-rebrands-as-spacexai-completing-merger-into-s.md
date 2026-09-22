@@ -4,8 +4,8 @@ title: xAI Officially Rebrands as SpaceXAI, Completing Merger into SpaceX
 date: '2026-07-06'
 source: Gizmodo
 url_original: null
-url_canonical: https://www.ainspiro.com/en/news/xai-rebrands-spacexai-merger-complete-july-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 1a0944b73b6b41e9db548872d485791e3cbb47bcb48628ab74bfa93c965f25d2

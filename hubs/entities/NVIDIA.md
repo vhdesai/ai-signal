@@ -1,24 +1,39 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1500
+member_count: 1515
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1500 connected article(s).
+> Auto-generated entity hub. 1515 connected article(s).
 
+- `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
+- `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
+- `2026-09-21` [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti|OpenAI Publishes V7 Case Study on Giving AI Agents Institutional Memory]]
 - `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
+- `2026-09-21` [[2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi|NVIDIA's SoL-Pi: AI-Discovered Harness Optimizations Cut Coding-Agent Token Traffic Up to 49%]]
+- `2026-09-21` [[2026-09-21-nvidia-frames-ai-security-as-an-engineering-problem-across-t|NVIDIA frames AI security as an engineering problem across the full agent stack]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
+- `2026-09-21` [[2026-09-21-einride-partners-with-nvidia-to-scale-autonomous-freight-on|Einride Partners with Nvidia to Scale Autonomous Freight on DRIVE Hyperion]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar|Crusoe Raises $3.9B Series F at $30.9B; AI Infrastructure Megarounds Continue]]
 - `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
 - `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g|Runway Details Real-Time, Steerable Video Generation on Its GWM-1 World Model]]
 - `2026-09-20` [[2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati|Nvidia’s Huang Calls AI Extinction Warnings “Doomsday Narratives”]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
 - `2026-09-20` [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning|Jensen Huang says AI CEOs have ‘ulterior reasons’ for warning about doomsday]]
 - `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an|Jensen Huang puts the odds of AI catastrophe by 2030 at "0%" and rejects a slowdown]]

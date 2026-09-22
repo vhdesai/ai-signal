@@ -4,8 +4,8 @@ title: '"Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools'
 date: '2026-06-06'
 source: The Hacker News; Rescana
 url_original: null
-url_canonical: https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: cca119968f61e99e86c27ea735beda10e94214ad2e16d4263e2a141b4ca9f4f3

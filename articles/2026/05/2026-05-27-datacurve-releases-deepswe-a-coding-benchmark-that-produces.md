@@ -5,8 +5,8 @@ title: Datacurve releases DeepSWE, a coding benchmark that produces a much wider
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://news.creeta.com/en/deepswe-benchmark-datacurve-coding-agents-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 034d14d3c5446db4992a299980a11a5ab2c38fb32b3e3284aff83c908daf9cae

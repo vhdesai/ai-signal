@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
+- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
+- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a
 - 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
-- 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 embedding_id: 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Alibaba's Qwen team released Qwen-Image-2.1, a unified text-to-image generation 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]]
+**Related:** [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]]
 <!-- graph:end -->

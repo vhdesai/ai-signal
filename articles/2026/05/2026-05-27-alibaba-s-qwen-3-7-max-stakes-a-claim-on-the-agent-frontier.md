@@ -4,8 +4,8 @@ title: Alibaba's Qwen 3.7-Max stakes a claim on the agent frontier
 date: '2026-05-27'
 source: Hacker News / TLDL
 url_original: null
-url_canonical: https://www.techtimes.com/articles/327532/20260915/alibaba-releases-open-weights-ai-agent-claiming-frontier-co-work-scores-3b-active-parameters.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 1c6ce11709ce14e941c8f221500c82972997f702028edb389ada011ff142c684

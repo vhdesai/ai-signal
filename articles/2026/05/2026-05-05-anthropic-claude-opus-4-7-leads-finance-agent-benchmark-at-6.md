@@ -5,8 +5,8 @@ title: Anthropic Claude Opus 4.7 — Leads Finance Agent Benchmark at 64.37%, Be
 date: '2026-05-05'
 source: Anthropic / AI Tools Recap
 url_original: null
-url_canonical: https://www.aitrove.ai/blog/claude-finance-agents-wall-street-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: f064fb5645c22aba54693d25a160b12a624cb8d1874e0d13241a7ca70383330a
@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
 - 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
 - 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl
-- 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Claude Opus 4.7 powers Anthropic's 10 new financial services AI agents, launched
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]]
+**Related:** [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in]] · [[2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused]] · [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]]
 <!-- graph:end -->

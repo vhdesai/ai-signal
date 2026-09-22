@@ -4,8 +4,8 @@ title: EU AI Act enforcement window opens for GPAI on August 2
 date: '2026-05-23'
 source: 'Source: Beyond Tomorrow / GDPR Local'
 url_original: null
-url_canonical: https://theeuropeanpost.eu/research-analysis/gpai-enforcement-window-opens-as-august-2026-compliance-bites/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: eca4d06ec78e20485fe9afa27b573718fe4cc37ec8837ba0890825359dd3ce71

@@ -4,8 +4,8 @@ title: Microsoft and Mayo Clinic Partner to Build Healthcare-Focused Frontier AI
 date: '2026-06-02'
 source: CNN; Fierce Healthcare; Click2Houston
 url_original: null
-url_canonical: https://www.click2houston.com/news/local/2026/06/03/microsoft-mayo-clinic-announce-partnership-to-build-healthcare-focused-ai-model/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: bc1ae22f8148347165b914af2209d0145eabd7e0cdb3dd2b456ff789eb2f5dc6

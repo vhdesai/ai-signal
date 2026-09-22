@@ -5,8 +5,8 @@ title: Cisco beats on Q3, posts surging AI orders, plans 4,000 layoffs — Cisco
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.crn.com/news/networking/2026/cisco-to-cut-nearly-4-000-jobs-in-restructuring-push-around-ai-security
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: d8a50d7bd50c4d6f68f0c6b60b09b92f923f7ae9ce2704fc2b1b5873d3d089b2

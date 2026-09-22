@@ -4,8 +4,8 @@ title: CVPR 2026 Honors Year's Most Innovative Computer Vision and AI Research
 date: '2026-06-09'
 source: Newswise
 url_original: null
-url_canonical: https://www.newswise.com/articles/cvpr-2026-honors-the-year-s-most-innovative-computer-vision-and-ai-research
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 7c13ec00cf882ddcd8d9765f12fef92584af79fe912c8ef91fcb72cf89aca032
 normalized_title_hash: 12d90c1f78d7193a

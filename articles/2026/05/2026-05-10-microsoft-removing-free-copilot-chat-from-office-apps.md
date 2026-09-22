@@ -4,8 +4,8 @@ title: Microsoft Removing Free Copilot Chat from Office Apps
 date: '2026-05-10'
 source: Geeky Gadgets / MSN
 url_original: null
-url_canonical: https://www.computerworld.com/article/4150022/microsoft-backtracks-on-copilot-chat-access-in-m365-apps.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6d239ce6f1f1731c449d115e31f19ea18cd320b2d728c580692e1a4d62d98b92

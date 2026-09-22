@@ -4,8 +4,8 @@ title: Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlo
 date: '2026-09-21'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.kucoin.com/news/flash/nscale-s-103b-ipo-backlog-dominated-by-microsoft-and-anthropic
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: ab9d77c3db2d58c89cf83896f77f85c6b44d813aa7527e0fcfd4a7059cd867ed

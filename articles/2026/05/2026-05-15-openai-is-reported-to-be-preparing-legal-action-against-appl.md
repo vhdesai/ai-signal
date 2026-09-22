@@ -5,8 +5,8 @@ title: OpenAI is reported to be preparing legal action against Apple, adding to 
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f83a61b8288d3c9bb259410214520134b6bccb726d490ee810772659ace0edc0

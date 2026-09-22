@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
+- 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
-- 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
-- 2026-05-01-newxai-releases-grok-4-3
-- 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
+- 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
 embedding_id: 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI released Grok 4.3 on May 6, posting 53+ on the Artificial Analysis Intellige
 
 **Entities:** [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp]]
+**Related:** [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6]] · [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba]]
 <!-- graph:end -->

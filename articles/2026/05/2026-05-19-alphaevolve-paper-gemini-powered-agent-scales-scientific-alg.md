@@ -5,8 +5,8 @@ title: 'AlphaEvolve Paper: Gemini-Powered Agent Scales Scientific Algorithm Disc
 date: '2026-05-19'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://deepmind.google/blog/alphaevolve-impact/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 0182eb44daba7a0fa3aa9008c649cd0f142232c217fbdefc5724de6fc0d1d383

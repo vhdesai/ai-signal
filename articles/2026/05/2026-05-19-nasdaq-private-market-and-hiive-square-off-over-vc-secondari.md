@@ -4,8 +4,8 @@ title: Nasdaq Private Market and Hiive Square Off Over VC Secondaries Patent
 date: '2026-05-19'
 source: PitchBook News
 url_original: null
-url_canonical: https://betakit.com/nasdaq-spinoff-sues-hiive-for-patent-infringement/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 0157cfb1f320956cf95d9badcb785fbd399b06dae6a8b4ff2c424ae189b52fb0

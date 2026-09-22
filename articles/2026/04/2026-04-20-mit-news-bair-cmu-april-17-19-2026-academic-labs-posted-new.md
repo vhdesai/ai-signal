@@ -5,8 +5,8 @@ title: MIT News / BAIR / CMU • April 17–19, 2026 Academic labs posted new wo
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: f741a3a316123cbdbd679b218eedfe52cb09989174c3997737e0e12f0641c762

@@ -5,8 +5,8 @@ title: 'Bloomberg: China Restricts Overseas Travel for AI Researchers at Alibaba
 date: '2026-05-26'
 source: Bloomberg / AIToolsRecap
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/china-ai-travel-restrictions-deepseek-alibaba-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 92b8324a982836082dc7f13289b7b3b24d006ee6c34a924d70d78fa8eee63868

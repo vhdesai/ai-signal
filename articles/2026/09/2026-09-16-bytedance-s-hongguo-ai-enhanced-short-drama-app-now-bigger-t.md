@@ -23,10 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
-- 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
 embedding_id: 2026-09-16-bytedance-s-hongguo-ai-enhanced-short-drama-app-now-bigger-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ByteDance's Hongguo, launched in 2023 as a short-drama platform, has overtaken C
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]] · [[2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch]]
+**Related:** [[2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr]] · [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]]
 <!-- graph:end -->

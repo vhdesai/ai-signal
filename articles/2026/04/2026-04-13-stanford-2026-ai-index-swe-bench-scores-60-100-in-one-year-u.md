@@ -5,8 +5,8 @@ title: 'Stanford 2026 AI Index: SWE-Bench Scores 60→100% in One Year; US-China
 date: '2026-04-13'
 source: Stanford HAI / IEEE Spectrum
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 7e9a200e8f195c2bc25f9bc748355716a5dbe536d0165653b307c7908b608bed

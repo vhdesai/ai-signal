@@ -4,8 +4,8 @@ title: DeepSeek Said to Be Closing on $45–50B Funding Round
 date: '2026-05-26'
 source: 'Source: Reuters / WSJ aggregation'
 url_original: null
-url_canonical: https://chinabizinsider.com/deepseek-closes-7-4-billion-debut-funding-round-under-founder-control-structure/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 224ecef614df47fb74bd3ccb2518e3dfdc3fd1c49e43e4d478ebc29e771f8aba

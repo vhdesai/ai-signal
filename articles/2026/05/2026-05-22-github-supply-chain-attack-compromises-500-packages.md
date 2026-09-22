@@ -4,8 +4,8 @@ title: GitHub supply-chain attack compromises 500+ packages
 date: '2026-05-22'
 source: 'Source: AIToolsRecap / industry incident roundup'
 url_original: null
-url_canonical: https://ebuildersecurity.se/en/cyber-news/prt-scan-ai-github-actions-supply-chain-attack-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 94d3c1ac194344372d1285a83a15e9120b42388d2809a359a11f879681894209

@@ -4,8 +4,8 @@ title: OpenAI launches GPT-5.6 family — Sol, Terra, and Luna — to general av
 date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-6/
-url_canonical: https://techjournal.org/openai-gpt-5-6-sol-terra-luna
-url_status: repaired
+url_canonical: https://openai.com/index/gpt-5-6/
+url_status: broken
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 78c866b44a2828765ae9499459fdcfa6abc81c42df15efa6176ab8b0e2d1588d

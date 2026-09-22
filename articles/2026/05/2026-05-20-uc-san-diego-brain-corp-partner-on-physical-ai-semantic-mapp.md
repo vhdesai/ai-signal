@@ -5,8 +5,8 @@ title: UC San Diego & Brain Corp partner on Physical AI — semantic mapping for
 date: '2026-05-20'
 source: TMCnet / CNW Press Release  · UC San Diego
 url_original: null
-url_canonical: https://www.braincorp.com/resources/brain-corp-and-uc-san-diego-partner-to-advance-the-foundational-intelligence-layer-for-physical-ai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: ae96f7cf0d7eb2fb9c3f549e54cea497bda033d5d4745d77acf1bedb3a197bf8
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 embedding_id: 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UC San Diego's Jacobs School of Engineering and Brain Corp announced an expanded
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
 <!-- graph:end -->

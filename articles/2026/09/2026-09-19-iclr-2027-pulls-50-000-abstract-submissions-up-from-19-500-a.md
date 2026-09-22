@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-04-22-academic-research
+- 2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 embedding_id: 2026-09-19-iclr-2027-pulls-50-000-abstract-submissions-up-from-19-500-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ ICLR 2027 attracted roughly 50,000 abstract submissions before the deadline, up 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-04-22-academic-research]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
+**Related:** [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-04-22-academic-research]] · [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put]]
 <!-- graph:end -->

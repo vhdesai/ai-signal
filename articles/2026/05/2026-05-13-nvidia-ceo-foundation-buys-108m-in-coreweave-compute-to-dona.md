@@ -5,8 +5,8 @@ title: Nvidia CEO Foundation Buys $108M in CoreWeave Compute to Donate to Academ
 date: '2026-05-13'
 source: Reuters via U.S. News
 url_original: https://money.usnews.com/investing/news/articles/2026-05-13/nvidia-ceos-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers
-url_canonical: https://www.analyticsinsight.net/news/nvidia-ceo-jensen-huangs-foundation-donates-108m-in-coreweave-ai-compute
-url_status: repaired
+url_canonical: https://money.usnews.com/investing/news/articles/2026-05-13/nvidia-ceos-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 8adef83aa63882edfc7594eb7759b6e9bce685c75d3722b18f694dd4b2a6d23d

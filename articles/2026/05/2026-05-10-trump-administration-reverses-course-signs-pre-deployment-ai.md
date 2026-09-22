@@ -4,8 +4,8 @@ title: Trump Administration Reverses Course — Signs Pre-Deployment AI Evaluati
 date: '2026-05-10'
 source: Tech Xplore / Ars Technica / POLITICO
 url_original: null
-url_canonical: https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 31b2a538c97bb6980b248722f6e78bca1277396d5654a66eb5b572f90928a7e3

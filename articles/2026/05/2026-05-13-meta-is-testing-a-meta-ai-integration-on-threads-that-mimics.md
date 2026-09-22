@@ -5,8 +5,8 @@ title: Meta is testing a Meta AI integration on Threads that mimics the Grok-in-
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 8d37479ebe2c0375cdd43a8f2d8ce61d5d7e2d5134c70eedcb21e96606db0f57

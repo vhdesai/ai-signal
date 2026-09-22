@@ -5,8 +5,8 @@ title: Mustafa Suleiman, Microsoft's AI Chief, stated today that most profession
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://economictimes.indiatimes.com/news/new-updates/microsoft-ai-chief-says-human-office-jobs-could-soon-be-replaced-by-ai-in-18-months-are-you-at-risk/articleshow/131192482.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fa7d9c813b50bf892322ddd8c389367e1c71e5f983cebb3741339e1ebcb1116

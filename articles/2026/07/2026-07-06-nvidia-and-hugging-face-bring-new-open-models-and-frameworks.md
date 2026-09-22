@@ -4,8 +4,8 @@ title: NVIDIA and Hugging Face Bring New Open Models and Frameworks to LeRobot
 date: '2026-07-06'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 0ed1e8edf4e4ce19b548aacb16e8796ba7eb88a499cb1882e5b7f634675aec84

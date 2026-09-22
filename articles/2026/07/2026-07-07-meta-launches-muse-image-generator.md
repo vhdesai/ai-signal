@@ -4,8 +4,8 @@ title: Meta Launches Muse Image Generator
 date: '2026-07-07'
 source: Multiple sources
 url_original: null
-url_canonical: https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_070026_Final-Daily-AI-News-Digest.md
 content_hash: 4456d779952954085f9f3ebd8089e4b1450fba1183a10739d9f7b3700e67a58f
 normalized_title_hash: 504489d283f0e8c5

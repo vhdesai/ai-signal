@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Science and quantum'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://developer.microsoft.com/blog/build-recap/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 11b4b4ebed6c23b3e3dcee4a24158c8246777298a6650a06998df333ca28bdb9
 normalized_title_hash: cae77fd0dfa5e9aa

@@ -4,8 +4,8 @@ title: Meta Acquires Humanoid Robotics Startup Assured Robot Intelligence
 date: '2026-05-10'
 source: The Neuron AI
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 5105a79e124b2106181c8b0c580bc4514277ad878c364f8ea8673ff8222ad081

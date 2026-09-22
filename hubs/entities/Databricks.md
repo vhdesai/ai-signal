@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 141
+member_count: 143
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 141 connected article(s).
+> Auto-generated entity hub. 143 connected article(s).
 
+- `2026-09-21` [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti|OpenAI Publishes V7 Case Study on Giving AI Agents Institutional Memory]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-16` [[2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub|Databricks commits $350M+ to Singapore as its APAC AI hub]]

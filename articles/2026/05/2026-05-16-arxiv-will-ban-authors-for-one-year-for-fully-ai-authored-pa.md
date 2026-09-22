@@ -5,8 +5,8 @@ title: ArXiv Will Ban Authors for One Year for Fully AI-Authored Papers — New 
 date: '2026-05-16'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: f0c8492a1db2491e59143e2756a29e81ba13cd2956f718183f58ba852ced3896

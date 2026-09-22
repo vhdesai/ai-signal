@@ -5,8 +5,8 @@ title: State legislatures are moving aggressively in 2026, with Colorado, Connec
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.mondaq.com/unitedstates/advertising-marketing-branding/1784810/ai-regulatory-roundup-recent-developments-in-colorado-connecticut-and-california
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 54faf555c571b63e0f94a631773451bd0f1990c246237d6a5899674963b17819

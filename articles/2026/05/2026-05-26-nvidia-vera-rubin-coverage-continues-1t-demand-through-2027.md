@@ -5,8 +5,8 @@ title: 'Nvidia Vera Rubin Coverage Continues: $1T Demand Through 2027, Hyperscal
 date: '2026-05-26'
 source: StorageReview, NVIDIA Newsroom
 url_original: null
-url_canonical: https://www.aiexpert.news/en/ticker/nvidia-projects-1t-hyperscaler-capex-in-2027-vera-rubin-supply-constrained-throu
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 2525a2d795a52f607457325f8590b5270808bc98cba3a1f14193cc787799afb5

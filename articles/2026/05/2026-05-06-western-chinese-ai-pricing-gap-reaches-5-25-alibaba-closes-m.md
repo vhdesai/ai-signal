@@ -5,8 +5,8 @@ title: Western–Chinese AI Pricing Gap Reaches 5–25× — Alibaba Closes Mode
 date: '2026-05-06'
 source: FutureAGI
 url_original: null
-url_canonical: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 5f1f7994ba3d9add8ec0f57ebb50cabbc76bb8e7102a38c3683c4e93a1361a61

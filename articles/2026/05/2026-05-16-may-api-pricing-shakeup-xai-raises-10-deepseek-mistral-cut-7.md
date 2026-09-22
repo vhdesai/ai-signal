@@ -4,8 +4,8 @@ title: 'May API Pricing Shakeup: xAI Raises 10×, DeepSeek & Mistral Cut 75%'
 date: '2026-05-16'
 source: APIpulse
 url_original: null
-url_canonical: https://www.getapipulse.com/blog-may-2026-pricing-shakeup.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 7f7eab5e82bd32717f87e5229deef1ddaa00bc13facbe1abc2233536855a4de5
@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
+- 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-- 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
-- 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
+- 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
+- 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 embedding_id: 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 event_name: ''
 ---
@@ -43,5 +43,5 @@ May delivered the most dramatic AI API pricing changes in a single month. xAI ra
 
 **Entities:** [[DeepSeek]] · [[Mistral]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]]
+**Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6]] · [[2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i]] · [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba]] · [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding]]
 <!-- graph:end -->

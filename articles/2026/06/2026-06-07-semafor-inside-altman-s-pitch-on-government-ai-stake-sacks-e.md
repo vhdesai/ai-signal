@@ -4,8 +4,8 @@ title: 'Semafor: Inside Altman''s Pitch on Government AI Stake; Sacks Expresses 
 date: '2026-06-07'
 source: Semafor; Fortune; The New York Times; Axios
 url_original: null
-url_canonical: https://www.semafor.com/article/06/08/2026/inside-altmans-pitch-on-government-ai-stake
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-08_060034_Daily-AI-News-Digest.md
 content_hash: 9a20499fc7cf795be7ada39d3341cab7d7529459efd1d15dea233448e2ea00ca
 normalized_title_hash: 17bbe04c62ba6287

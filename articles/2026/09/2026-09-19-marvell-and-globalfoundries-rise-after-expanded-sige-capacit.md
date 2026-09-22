@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
 - 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
-- 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 embedding_id: 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Yahoo Finance analyzed Marvell and GlobalFoundries after Reuters reported an exp
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]]
+**Related:** [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]] · [[2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real]]
 <!-- graph:end -->

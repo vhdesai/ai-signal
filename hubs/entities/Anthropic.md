@@ -1,27 +1,60 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2079
+member_count: 2112
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2079 connected article(s).
+> Auto-generated entity hub. 2112 connected article(s).
 
-- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
-- `2026-09-21` [[2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth|PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures freed CISO budgets]]
-- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic neared a legally binding deal to stress-test each other's models]]
+- `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
+- `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
+- `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a|DeepSeek and Moonshot Join the Security Council Session as AI Safety Enters Trade Talks]]
+- `2026-09-22` [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh|China's Cyberspace Administration Probes DeepSeek and Moonshot Over Anthropic's Data-Routing Allegations]]
+- `2026-09-22` [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth|China's CAC opens probe into DeepSeek and Moonshot over Anthropic's data-routing allegations]]
+- `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
+- `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
+- `2026-09-22` [[2026-09-22-anthropic-s-claude-hit-by-widespread-outage|Anthropic's Claude Hit by Widespread Outage]]
+- `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will|Anthropic details plans for a biology lab where Claude will guide robots through drug experiments]]
+- `2026-09-22` [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob|Anthropic Builds a Bay Area Wet Lab Where Claude Directs Robotic Experiments]]
+- `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti|Amodei and Altman to Brief the UN Security Council on Frontier AI]]
+- `2026-09-22` [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed|Amodei and Altman to Brief the UN Security Council on AI Wednesday]]
+- `2026-09-22` [[2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai|Altman and Amodei to brief the UN Security Council on AI]]
+- `2026-09-21` [[2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim|Xiaomi Releases MiMo-V2.6 Pro and Flash as Open-Weight Omnimodal Models]]
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]
+- `2026-09-21` [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next|SoftBank Launches Record $11B+ Junk-Bond Sale to Fund Its Next OpenAI Tranche]]
+- `2026-09-21` [[2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth|PitchBook: "AI Has Security Chiefs Scared Stiff" — Anthropic & Mythos Disclosures Freed CISO Budgets]]
+- `2026-09-21` [[2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress|OpenAI and Anthropic Neared a Legally Binding Deal to Stress-Test Each Other's Models]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
 - `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b|Microsoft and Anthropic Account for $87.7B of Nscale's $103B Backlog]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr|Anthropic Weighs an Off-Cycle Model Release as OpenAI's Astra Gains Enterprise Share]]
 - `2026-09-21` [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front|Anthropic Publishes Measurable Metrics for the Pace of Frontier AI Development]]
-- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba Appoints Dayiheng Liu Head of Qwen LLM Team Ahead of Apsara Conference]]
+- `2026-09-21` [[2026-09-21-accenture-up-6-on-anthropic-ai-safety-evaluation-partnership|Accenture Up 6% on Anthropic AI Safety Evaluation Partnership]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that|AWS Debuts Strands Harness — an Open-Source Agent Runtime That Runs on Any Cloud]]
+- `2026-09-21` [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that|AWS Debuts Strands Harness — An Open-Source Agent Harness That Runs Anywhere]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi|RoboHarm Finds Frontier Models Rarely Refuse Hazardous Physical Commands]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th|Jensen Huang Emerges as the White House’s Closest Ally in the AI Safety Debate]]

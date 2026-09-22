@@ -5,8 +5,8 @@ title: DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Expor
 date: '2026-09-21'
 source: The Information / Crypto Briefing
 url_original: null
-url_canonical: https://tech-insider.org/huawei-ascend-960dt-deepseek-160k-chips-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_065544_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6d8ef937e330f966a3775aab5abc508ed2141b3ee244a6a5541d5d9f2840c642
@@ -21,11 +21,10 @@ themes:
 - infrastructure-investments
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi
 related_article_ids:
-- 2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f
-- 2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele
+- 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 embedding_id: 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
 event_name: ''
 ---
@@ -39,5 +38,6 @@ The Information reports that DeepSeek CEO Liang Wenfeng is preparing a large-sca
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f]] · [[2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele]]
+**Canonical:** [[2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi]]
+**Related:** [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe]]
 <!-- graph:end -->

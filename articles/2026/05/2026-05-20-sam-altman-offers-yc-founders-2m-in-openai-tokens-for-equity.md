@@ -4,8 +4,8 @@ title: Sam Altman offers YC founders $2M in OpenAI tokens for equity
 date: '2026-05-20'
 source: Economic Times · Read article
 url_original: null
-url_canonical: https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 14eaf5becae4738b3747a08c69b7a30fc3eb955dabff81a1e8070aab032a4360

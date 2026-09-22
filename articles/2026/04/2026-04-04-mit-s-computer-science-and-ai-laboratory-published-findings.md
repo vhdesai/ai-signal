@@ -5,8 +5,8 @@ title: MIT's Computer Science and AI Laboratory published findings characterizin
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://futuretech.mit.edu/news/zdnet-new-mit-jobs-report-why-ais-work-impact-will-roll-in-like-a-rising-tide-not-a-crashing-wave
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: d27b8f043ab3e6a721896c80e188ce17c15b234fbb7e2d0dbf50cc4f5c60ad35

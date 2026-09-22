@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-daily-ai-news-digest-september-22-2026
 - 2026-09-04-daily-ai-news-digest-september-5-2026
 - 2026-09-03-daily-ai-news-digest-september-4-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: 2026-09-06-daily-ai-news-digest-september-7-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A quiet weekend news cycle produced a small but unusually consequential set of i
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-04-daily-ai-news-digest-september-5-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

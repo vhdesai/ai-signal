@@ -5,8 +5,8 @@ title: Anthropic is expected to close its $30B funding round at a pre-money valu
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bitsminds.com/news/anthropic-30b-900b-valuation-leapfrogs-openai-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: fc1621daf9098037c649f9d010484def97fb1c8591240f2c7ecfe106748ed02a

@@ -5,8 +5,8 @@ title: Microsoft AI • April 18, 2026 Microsoft detailed additional MAI model v
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.solidaitech.com/2026/05/microsoft-ai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: a9363aa818cd5384e400e3752eff96592e5a255fa97e43ce422e839468b2ca46

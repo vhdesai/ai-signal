@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
+- 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
-- 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 embedding_id: 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Meta's Muse took the top spot on the free iPhone charts in the US App Store, dis
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]]
+**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]]
 <!-- graph:end -->

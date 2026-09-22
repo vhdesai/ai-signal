@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
-- 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
-- 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
+- 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
+- 2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m
 embedding_id: 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Twenty-five Fields Medalists — including Terence Tao, Peter Scholze, Maryna Vi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals]] · [[2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]]
+**Related:** [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals]] · [[2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob]] · [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m]]
 <!-- graph:end -->

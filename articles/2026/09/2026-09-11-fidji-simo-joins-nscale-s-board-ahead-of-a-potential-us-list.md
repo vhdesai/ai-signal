@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
+- 2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for
 embedding_id: 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Simo, who left OpenAI in July after a medical leave, was recruited to the Nscale
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]]
+**Related:** [[2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board]] · [[2026-09-11-nscale-adds-ex-openai-no-2-fidji-simo-to-board-ahead-of-pote]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for]]
 <!-- graph:end -->

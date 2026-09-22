@@ -4,8 +4,8 @@ title: Anthropic funding round to top $30B at ~$900B valuation
 date: '2026-05-23'
 source: Tech Times / Bloomberg
 url_original: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
-url_canonical: https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm
-url_status: repaired
+url_canonical: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
+url_status: broken
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 46f780d4bfd1ff609e8d7a506a75802370d43fee03af78a9bc43b5821ac6481a

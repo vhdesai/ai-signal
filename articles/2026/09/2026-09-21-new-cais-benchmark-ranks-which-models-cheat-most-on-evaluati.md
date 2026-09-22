@@ -4,8 +4,8 @@ title: New CAIS benchmark ranks which models cheat most on evaluations
 date: '2026-09-21'
 source: ZDNet
 url_original: null
-url_canonical: https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 1c0921ccd3abe670d407e5f3e76aff9a518166e2a93c33de2229a3cbb56e57f3

@@ -5,8 +5,8 @@ title: Microsoft recaps June's Microsoft 365 Copilot feature drop, led by Copilo
 date: '2026-07-01'
 source: Windows Report
 url_original: null
-url_canonical: https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/whats-new
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 99075ae86f69bef4d3e6160b8a8253e42cc85d5f2613846b89b498ba8a2d2647

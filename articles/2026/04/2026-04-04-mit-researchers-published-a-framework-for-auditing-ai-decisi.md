@@ -5,8 +5,8 @@ title: MIT researchers published a framework for auditing AI decision-support sy
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://dig.watch/updates/mit-ai-framework-test-ethics-autonomous-systems
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 49952792adf1690725e464a17384bcbb4564bc119ae1efeb461e2fdc3cdbe64b

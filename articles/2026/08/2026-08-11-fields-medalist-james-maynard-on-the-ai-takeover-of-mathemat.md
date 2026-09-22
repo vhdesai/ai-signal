@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
+- 2026-09-22-ai-assisted-team-closes-the-last-sporadic-case-of-the-invers
 - 2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics
-- 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 embedding_id: 2026-08-11-fields-medalist-james-maynard-on-the-ai-takeover-of-mathemat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Oxford's James Maynard describes a year of soul searching in the mathematics com
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics]] · [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]]
+**Related:** [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-09-22-ai-assisted-team-closes-the-last-sporadic-case-of-the-invers]] · [[2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics]]
 <!-- graph:end -->

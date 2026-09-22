@@ -4,8 +4,8 @@ title: Huawei Outlines Post-Moore "Tau Scaling Law" and 1.4nm-by-2031 Chip Roadm
 date: '2026-05-30'
 source: AI Magazine*
 url_original: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
-url_canonical: https://semiconreport.org/en/articles/huawei-tau-scaling-law-reshapes-semiconductor-supply-chains
-url_status: repaired
+url_canonical: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
+url_status: broken
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 5fca20f6c0d04ab1f4b8ed23a862cc8c85561d3631bc4b46d379843bc7360d18
 normalized_title_hash: fd49100368a86062
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
+- 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At ISCAS 2026 in Shanghai, Huawei researchers presented a "Tau Scaling Law" (als
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]]
+**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
 <!-- graph:end -->

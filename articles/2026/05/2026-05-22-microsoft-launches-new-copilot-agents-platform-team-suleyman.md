@@ -5,8 +5,8 @@ title: Microsoft Launches New Copilot, Agents & Platform Team — Suleyman Shift
 date: '2026-05-22'
 source: Business Insider / GeekWire
 url_original: null
-url_canonical: https://www.businessinsider.com/microsoft-combines-copilot-teams-and-mustafa-suleyman-superintelligence-memos-2026-3
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: e6f63a547b21f957c53f04367b4607ede3d242102580ba6712ee4983c8177978

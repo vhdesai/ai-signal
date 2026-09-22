@@ -5,8 +5,8 @@ title: OpenAI announced Codex is coming to mobile (May 14), extending its agenti
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://keepingupwith.ai/articles/openai-codex-goes-mobile-bringing-agentic-coding-workflows-to-ios-and-android/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: d2cbcf09e680417f0a6a079a9ab3c5bef26ca65a0d9b08a28fccaf62d799855b

@@ -4,8 +4,8 @@ title: Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI
 date: '2026-06-05'
 source: CNBC; Crypto Briefing; Tekedia
 url_original: null
-url_canonical: https://www.tekedia.com/chinas-tencent-poaches-former-openai-researcher-yao-shunyu-in-push-to-build-agi/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
 content_hash: 44cdade071a1a18d5accd26f292bdbc89759e3bb69c49e6df92bda449e739489
 normalized_title_hash: 74fb3024d9650800

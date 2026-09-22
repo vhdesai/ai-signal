@@ -4,8 +4,8 @@ title: 'Google AI Ultra vs. Gemini AI Ultra: a confusing rebrand draws backlash'
 date: '2026-05-26'
 source: Android Authority
 url_original: null
-url_canonical: https://www.androidauthority.com/how-google-should-fix-gemini-3710128/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 85f18ba4756f1c8468635aebbc3bc52b71298560b13f80c4e359c9e98543951e

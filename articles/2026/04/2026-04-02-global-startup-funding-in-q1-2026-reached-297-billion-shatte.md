@@ -5,8 +5,8 @@ title: Global startup funding in Q1 2026 reached $297 billion, shattering all pr
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://vfuturemedia.com/startups/global-startup-funding-q1-2026-record-297-billion/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 509b11c453153e9f06e8c0414a8faac509c23e85624fa6cf17dd2b7f5c4c15d2

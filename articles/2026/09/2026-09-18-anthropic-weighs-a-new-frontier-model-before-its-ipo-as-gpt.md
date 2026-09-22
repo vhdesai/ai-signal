@@ -25,9 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
+- 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
 - 2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip
-- 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 embedding_id: 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Reuters, citing three sources, reports Anthropic is deliberating a new model rel
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]] · [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]] · [[2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6]]
+**Related:** [[2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]] · [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in]] · [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]]
 <!-- graph:end -->

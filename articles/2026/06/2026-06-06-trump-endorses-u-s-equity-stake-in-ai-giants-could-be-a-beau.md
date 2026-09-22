@@ -4,8 +4,8 @@ title: 'Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thi
 date: '2026-06-06'
 source: Axios; Fortune; CNBC; TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 3f8f5575b88c708a5345d28e6eae0557c5b4d1d9c0581565ccecf0a1c44c79d8

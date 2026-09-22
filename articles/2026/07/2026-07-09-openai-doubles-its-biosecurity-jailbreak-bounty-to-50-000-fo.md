@@ -4,8 +4,8 @@ title: OpenAI doubles its biosecurity jailbreak bounty to $50,000 for GPT-5.6
 date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-5-bio-bug-bounty/
-url_canonical: https://theaifeed.com/en/ai-news/openai-bio-bounty-gpt-56-universal-jailbreaks-2026/
-url_status: repaired
+url_canonical: https://openai.com/index/gpt-5-5-bio-bug-bounty/
+url_status: broken
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: e577d47d988542b1947ae3ecd60eb58ee7655b076a881f143b65922e5fb13cbf

@@ -5,8 +5,8 @@ title: Political pressure is intensifying in Washington and Brussels for mandato
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aigovernance.com/news/white-house-finalizes-voluntary-frontier-ai-safety-testing-with-top-labs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 011da6318184c7534fdadb7804b8783a4d51f44919ba2863f89d1e72900c7f3e

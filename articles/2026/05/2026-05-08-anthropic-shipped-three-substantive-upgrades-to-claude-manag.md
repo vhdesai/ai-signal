@@ -5,8 +5,8 @@ title: Anthropic shipped three substantive upgrades to Claude Managed Agents on 
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.frontiernews.ai/news/article/claude-managed-agents-just-got-three-critical-upgr-e0f90efd
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 58772653f7edeeb6c6771cc86dffdd7dc313a791cd8a0797fd8a1e472a63aca5
 normalized_title_hash: 6c8d0f405bc97b42

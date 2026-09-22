@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 417
+member_count: 426
 ---
 
 # Apple
 
-> Auto-generated entity hub. 417 connected article(s).
+> Auto-generated entity hub. 426 connected article(s).
 
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout|Instinct at ~$10B: BI profiles the 23-year-old college dropout Noah Shinn]]
+- `2026-09-22` [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico|Bernstein: Huawei's Kirin 9050 Pro closes gap to Apple silicon to ~3 years and beats A17 Pro on Geekbench multi-core]]
+- `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
+- `2026-09-22` [[2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli|Ant Group consolidates Alipay into one business group, doubling down on "agentic commerce"]]
+- `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
+- `2026-09-21` [[2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin|Ron Johnson: Silicon Valley Is Overestimating Agentic Shopping]]
+- `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor|Vocci ships an AI meeting-notes ring at $249 — new form factor, live privacy questions]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]

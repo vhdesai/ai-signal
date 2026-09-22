@@ -4,8 +4,8 @@ title: 'Tilde Research introduces Aurora: leverage-aware optimizer fixing Muon n
 date: '2026-05-12'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/12/tilde-research-introduces-aurora-a-leverage-aware-optimizer-that-fixes-a-hidden-neuron-death-problem-in-muon/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: f5c9aec15b7d7218c8d6a8e5760f2a7763c737b5431ad0e85150fcbf030bfdf4

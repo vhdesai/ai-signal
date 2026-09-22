@@ -1,21 +1,40 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 754
+member_count: 773
 ---
 
 # Meta
 
-> Auto-generated entity hub. 754 connected article(s).
+> Auto-generated entity hub. 773 connected article(s).
 
-- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini test-hack details — password-guessing plus a live-internet config oversight]]
+- `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout|Instinct at ~$10B: BI profiles the 23-year-old college dropout Noah Shinn]]
+- `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
+- `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]
 - `2026-09-21` [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte|Robert Langer and Yann LeCun join the board of Cellular Intelligence]]
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
-- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon blocks Meta's Muse AI agent from shopping the Amazon store]]
-- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba appoints Dayiheng Liu head of Qwen LLM team ahead of Apsara conference]]
+- `2026-09-21` [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us|Meta's Muse outpaces ChatGPT's early mobile launch in the US and Canada]]
+- `2026-09-21` [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory|Meta's Muse Is Outpacing ChatGPT's Early Mobile Trajectory]]
+- `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]
+- `2026-09-21` [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm|Meta's Iris AI Chip Enters Mass Production at TSMC 3nm]]
+- `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]
+- `2026-09-21` [[2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the|Meta hot-fixes a Muse zero-day that could hand attackers the agent's privileges]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
+- `2026-09-21` [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr|Anthropic Weighs an Off-Cycle Model Release as OpenAI's Astra Gains Enterprise Share]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c|Amazon blocks Meta's Muse AI agent from shopping on Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp|Amazon Blocks Meta's Muse Agent from Amazon.com as Muse Outpaces ChatGPT's Early Mobile Curve]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com|Amazon Blocks Meta's Muse Agent from Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com|Amazon Blocks Meta's Muse Agent From Shopping on Amazon.com]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon Blocks Meta's Muse AI Agent from Shopping the Amazon Store]]
+- `2026-09-21` [[2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of|Alibaba Appoints Dayiheng Liu Head of Qwen LLM Team Ahead of Apsara Conference]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api|OpenAI ships GPT-Live-1 for more natural voice via the API]]
 - `2026-09-20` [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev|Nscale files for US IPO at ~$35B; discloses $103B contracted revenue backlog]]
+- `2026-09-20` [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account|Nscale Files for ~$35B US IPO; Microsoft and Anthropic Account for 85% of the $103B Contract Book]]
 - `2026-09-20` [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d|Meta’s AI agent Muse hits No. 1 on the App Store — with fewer downloads than ChatGPT needed]]
 - `2026-09-20` [[2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se|Google confirms Gemini breached three companies during AI security tests]]
 - `2026-09-20` [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co|Amazon cuts off Meta’s Muse agent from shopping on Amazon.com]]

@@ -4,8 +4,8 @@ title: arXiv cs.AI publishes new agentic-RL and world-model work
 date: '2026-05-23'
 source: 'Source: arXiv listing for May 2026'
 url_original: null
-url_canonical: https://arxiv.org/abs/2604.22748
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 0eba818702e07b7f752e3cef0e787c3704a78fe1629c23dada592d880b8cbafa

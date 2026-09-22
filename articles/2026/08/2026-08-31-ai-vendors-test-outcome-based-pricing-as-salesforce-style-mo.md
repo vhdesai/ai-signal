@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-31-openai-tests-outcome-based-pricing-with-major-customers
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
+- 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt
-- 2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro
 embedding_id: 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI has begun letting selected large customers pay only when its AI completes
 
 **Entities:** [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt]] · [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro]]
+**Related:** [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt]]
 <!-- graph:end -->

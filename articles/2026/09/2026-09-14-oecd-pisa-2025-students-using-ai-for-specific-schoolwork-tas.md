@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
+- 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PISA 2025, covering roughly 760,000 students across 91 countries and economies, 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
 <!-- graph:end -->

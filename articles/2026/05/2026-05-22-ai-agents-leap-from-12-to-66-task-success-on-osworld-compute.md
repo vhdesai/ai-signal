@@ -4,8 +4,8 @@ title: AI Agents Leap from 12% to 66% Task Success on OSWorld Computer Use Bench
 date: '2026-05-22'
 source: Stanford HAI 2026 AI Index
 url_original: null
-url_canonical: https://enterprisedna.co/resources/news/stanford-ai-index-2026-agents-enterprise-gap/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 03eeb278987bd3411d78466ff9c12dd81ad0a8839db2002ce9d808986d3a175e

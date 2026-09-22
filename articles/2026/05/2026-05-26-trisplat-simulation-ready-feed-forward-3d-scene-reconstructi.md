@@ -4,8 +4,8 @@ title: 'TriSplat: simulation-ready feed-forward 3D scene reconstruction'
 date: '2026-05-26'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.26115
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 102ea98764ecdbe84441ae59734b0852db5a117775b2e03eccb798aa19ec2d5f

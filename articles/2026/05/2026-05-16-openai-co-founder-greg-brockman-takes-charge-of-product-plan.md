@@ -5,8 +5,8 @@ title: OpenAI Co-Founder Greg Brockman Takes Charge of Product — Plans to Merg
 date: '2026-05-16'
 source: TechCrunch / Wired
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: df8786e75cb2f509c89c9eee5948d443b8c15024916d024246f1c3c1295a2663

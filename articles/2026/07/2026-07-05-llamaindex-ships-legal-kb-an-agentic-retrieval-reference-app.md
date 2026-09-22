@@ -4,8 +4,8 @@ title: LlamaIndex ships "legal-kb," an agentic retrieval reference app on Index 
 date: '2026-07-05'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_062258_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 9beaa5861d750c531682dd8232aeafe8c6bf0999c83978f2adabb754fd3df50e

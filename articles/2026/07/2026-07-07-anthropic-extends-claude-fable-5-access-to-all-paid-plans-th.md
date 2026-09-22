@@ -4,8 +4,8 @@ title: Anthropic Extends Claude Fable 5 Access to All Paid Plans Through July 12
 date: '2026-07-07'
 source: Anthropic
 url_original: null
-url_canonical: https://cybersecuritynews.com/anthropic-extends-claude-fable-5-access/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: c8e39cfb20b214442fd50ee666b95cfd4693364cd1f7d0b11459c0104ca39133

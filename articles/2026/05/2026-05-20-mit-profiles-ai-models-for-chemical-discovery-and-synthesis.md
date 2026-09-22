@@ -4,8 +4,8 @@ title: MIT profiles AI models for chemical discovery and synthesis planning
 date: '2026-05-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-url_canonical: https://www.labmanager.com/mit-researchers-launch-generative-ai-tool-to-support-materials-synthesis-planning-34918
-url_status: repaired
+url_canonical: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
+url_status: broken
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 3d80d2c2fe12e83da8d513b291a3945d62e655cc295dcb12a3e637c7f6a7e40f

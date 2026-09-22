@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
 url_canonical: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: dd69ec75dea5c3d864d7b98c3317433495e86e87bb9271ca1ec11714491e9a7f
@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
-- 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
+- 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 embedding_id: 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Twelve days after Muse launched, Amazon began serving users a popup reading “C
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]]
 <!-- graph:end -->

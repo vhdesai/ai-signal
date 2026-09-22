@@ -4,8 +4,8 @@ title: Alibaba unveils Zhenwu AI chip and Qwen 3.7-Max model
 date: '2026-05-19'
 source: CNBC · Read article
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 10dd5ba34853fcfa33be8812601fecd244c6918e46acddfbf8791ffda20e2249
@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
+- 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
-- 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion
 embedding_id: 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Alibaba revealed a more powerful Zhenwu AI chip alongside the Qwen 3.7-Max model
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
+**Related:** [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]]
 <!-- graph:end -->

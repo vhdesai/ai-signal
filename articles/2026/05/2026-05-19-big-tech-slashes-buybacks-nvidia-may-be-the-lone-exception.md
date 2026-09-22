@@ -4,8 +4,8 @@ title: Big Tech Slashes Buybacks; Nvidia May Be the Lone Exception
 date: '2026-05-19'
 source: WSJ Markets A.M.
 url_original: null
-url_canonical: https://jumpseataerospacenews.com/2026/05/big-tech-cuts-back-on-buybacks-nvidia-exception/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 0374f2c611c471048104f7c3e95531c8b358f58121083b2a1d2cbcf4cc0b6ebe

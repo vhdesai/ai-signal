@@ -4,8 +4,8 @@ title: California State University renews systemwide OpenAI contract
 date: '2026-05-26'
 source: SFGATE / EdSource
 url_original: null
-url_canonical: https://www.sfgate.com/news/bayarea/article/edsource-california-state-university-renews-22276261.php
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 661a74a1e663adb07f94f372015137c81562cc3f575fac243b1bdb93eb084ced

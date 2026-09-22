@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
+- 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
 embedding_id: 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Insilico Medicine announced a Cell publication introducing an openly released AI
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32]]
+**Related:** [[2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without]]
 <!-- graph:end -->

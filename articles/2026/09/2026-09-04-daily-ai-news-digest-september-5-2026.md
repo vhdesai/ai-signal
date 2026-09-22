@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-daily-ai-news-digest-september-7-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-- 2026-08-11-daily-ai-news-digest-august-11-2026
+- 2026-09-21-daily-ai-news-digest-september-22-2026
 embedding_id: 2026-09-04-daily-ai-news-digest-september-5-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The weekend inbox shifted from yesterday's model-launch cycle to the operating s
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-09-06-daily-ai-news-digest-september-7-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
+**Related:** [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-09-06-daily-ai-news-digest-september-7-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]]
 <!-- graph:end -->

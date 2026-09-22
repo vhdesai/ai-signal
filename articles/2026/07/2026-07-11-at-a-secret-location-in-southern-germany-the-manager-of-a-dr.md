@@ -5,8 +5,8 @@ title: At a secret location in southern Germany, the manager of a drone factory 
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.europesays.com/ukraine/15587/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 1e056ef694e1c31cd21098832fe7f6473a74adceb8b8a4392d04fd1f9b31304f
 normalized_title_hash: 9e444b87905c49d6

@@ -5,8 +5,8 @@ title: Microsoft Makes Copilot Optional in Windows 11 After Just 3.3% of Eligibl
 date: '2026-05-25'
 source: The Next Web
 url_original: null
-url_canonical: https://thenextweb.com/news/only-3-3-per-cent-of-users-pay-for-copilot-so-microsoft-is-finally-making-it-optional
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: e16ac0662bef2394782c466c29270e1a71afdd89e586fac72882d5e0c8c50bba

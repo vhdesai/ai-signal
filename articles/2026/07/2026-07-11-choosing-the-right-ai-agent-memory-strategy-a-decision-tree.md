@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
+- 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 embedding_id: 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 event_name: ''
 ---
@@ -36,5 +36,5 @@ This practitioner guide frames AI-agent memory design as a five-question decisio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
+**Related:** [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Apple to make on-device AI a centerpiece of WWDC, distill Gemini into loc
 date: '2026-05-28'
 source: The Information / MacRumors
 url_original: null
-url_canonical: https://www.macrumors.com/2026/03/25/apple-google-gemini-distill-models/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f2d215fcc95c6cf54ac789bc905e24257319894bef40deb7b1140234f52d85ce

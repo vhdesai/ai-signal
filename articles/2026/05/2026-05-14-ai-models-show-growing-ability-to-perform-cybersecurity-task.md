@@ -5,8 +5,8 @@ title: AI models show growing ability to perform cybersecurity tasks — Creati.
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.brigantia.com/resources/cybersecurity-roundup-may-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 26fd3992ff27f64b8c10a0cb701a194fe2d518b5a1dd339061a7929c4e3a92cd

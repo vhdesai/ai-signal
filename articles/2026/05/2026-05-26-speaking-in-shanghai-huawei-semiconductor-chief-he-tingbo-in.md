@@ -5,8 +5,8 @@ title: Speaking in Shanghai, Huawei semiconductor chief He Tingbo introduced "Lo
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://thetechmarketer.com/huawei-chip-breakthrough-2026-tau-scaling-law-logicfolding/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a9ec0881e09d1cf7b26e558207b1cb0291e7fc1bc2b8b08d9d83e3ef96d549cf
@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
+- 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
-- 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 embedding_id: 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Speaking in Shanghai, Huawei semiconductor chief He Tingbo introduced "LogicFold
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]] · [[2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n]]
+**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]] · [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]]
 <!-- graph:end -->

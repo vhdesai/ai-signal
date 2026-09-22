@@ -4,8 +4,8 @@ title: Meta to Cut ~8,000 Jobs as Capex Hits $145B AI Push
 date: '2026-05-19'
 source: TechRepublic
 url_original: null
-url_canonical: https://aisheetreport.com/articles/meta-capex-2026-guidance-layoffs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: fb01bc58d00f512527aceab6469ab8ed2b7ad6930f5c0242e71ac2e5b9a6830c

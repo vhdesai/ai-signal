@@ -27,7 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con
 - 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
-- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
+- 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
+- 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
 embedding_id: 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Anthropic's new threat-intelligence report documents eight months of Claude abus
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con]] · [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]]
+**Related:** [[2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con]] · [[2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden]] · [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth]] · [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh]]
 <!-- graph:end -->

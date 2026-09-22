@@ -4,8 +4,8 @@ title: Apple's iOS 27 Siri overhaul and AI features previewed
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: https://news.bloomberglaw.com/tech-and-telecom-law/apples-ios-27-siri-overhaul-and-ai-features-previewed-in-images
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: e3ece3037ee16983fae29c613556b3d911c946cd7a050955cee220bf77e10ebe

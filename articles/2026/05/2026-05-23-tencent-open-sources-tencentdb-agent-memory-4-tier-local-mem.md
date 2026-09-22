@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 - 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
+- 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
-- 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 embedding_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent open-sourced TencentDB Agent Memory, a 4-tier local memory pipeline for 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]]
+**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]]
 <!-- graph:end -->

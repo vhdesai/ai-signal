@@ -4,8 +4,8 @@ title: '"AI work slop" gets a Harvard label — and a Citadel-shaped real-world 
 date: '2026-05-16'
 source: OfficeChai
 url_original: null
-url_canonical: https://officechai.com/ai/ai-is-now-doing-the-work-a-phd-does-in-months-in-just-days-citadel-ceo-ken-griffin/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 47f86894bd3b535749559672261b2bce6cd75d8e3ddada11b31cc73f97fe7a88

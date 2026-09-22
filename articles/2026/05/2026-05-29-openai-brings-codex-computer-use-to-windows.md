@@ -4,8 +4,8 @@ title: OpenAI brings Codex "computer use" to Windows
 date: '2026-05-29'
 source: OpenAI*
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/openai-codex-windows-computer-use-mobile-remote-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 5dd5d4608fca29eab4c802c35793b8d41694ffa3bc0769a9af1d162d24a0a0a9
 normalized_title_hash: 8bcb8143e402e33a

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
 - 2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio
-- 2026-07-09-daily-ai-news-digest-july-10-2026
+- 2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm
 embedding_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
 event_name: ''
 ---
@@ -40,5 +40,5 @@ An internal memo reviewed by Reuters says Meta plans to begin manufacturing its 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio]] · [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: White House AI Adviser Sriram Krishnan Departs
 date: '2026-06-06'
 source: TechCrunch; Reuters; Washington Post
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 55b018738f4b2e44695ef2b4d8c6b435d039b521264c57024a456468279a0bd4

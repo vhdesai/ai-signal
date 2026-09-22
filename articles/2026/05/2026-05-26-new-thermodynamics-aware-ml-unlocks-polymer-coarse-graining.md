@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
+- 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
-- 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
 embedding_id: 2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The team built a neural-network architecture organized around the metriplectic b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]]
+**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul]]
 <!-- graph:end -->

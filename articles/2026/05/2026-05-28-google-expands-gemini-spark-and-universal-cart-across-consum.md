@@ -4,8 +4,8 @@ title: Google Expands Gemini Spark and Universal Cart Across Consumer Surfaces
 date: '2026-05-28'
 source: 'Source: Google Keyword Blog'
 url_original: null
-url_canonical: https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 68a6a64c25f7e16959e8e9929295c44db2c565f91e1d0e8fd16532641c8a2e1e

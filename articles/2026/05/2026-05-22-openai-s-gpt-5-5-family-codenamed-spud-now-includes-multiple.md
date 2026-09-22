@@ -5,8 +5,8 @@ title: 'OpenAI''s GPT-5.5 family (codenamed "Spud") now includes multiple specia
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aicortexo.com/blog/openai-gpt5-5-spud-release.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 4fd2f3d31e9c65b6423d451e249755aa3946ad6915ed632ea8a2bdf423d63bed

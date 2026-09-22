@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 94
+member_count: 96
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 94 connected article(s).
+> Auto-generated entity hub. 96 connected article(s).
 
+- `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-21` [[2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr|ByteDance launches Dramagic — a full-pipeline AI system for producing short dramas from script to screen]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre|Google DeepMind's Dream-RSI helps agents self-improve by "dreaming" through past search runs]]
 - `2026-09-16` [[2026-09-16-bytedance-s-hongguo-ai-enhanced-short-drama-app-now-bigger-t|ByteDance's Hongguo, AI-enhanced short-drama app, now bigger than China's top four streaming players combined]]
 - `2026-09-15` [[2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg|Chinese Tech Giants Are Now Rationing Employee AI Token Budgets After Promoting Heavy Use]]

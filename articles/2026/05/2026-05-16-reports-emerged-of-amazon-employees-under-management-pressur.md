@@ -5,8 +5,8 @@ title: Reports emerged of Amazon employees under management pressure to increase
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.retailgazette.co.uk/blog/2026/05/amazon-staff-reportedly-use-internal-ai-tool-to-inflate-usage-metrics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4021987252f3361d8b7a5ab1cd449bf8024a861c9340fec9b170f14eb5729b4b

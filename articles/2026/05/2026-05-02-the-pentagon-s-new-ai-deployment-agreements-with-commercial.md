@@ -5,8 +5,8 @@ title: The Pentagon's new AI deployment agreements with commercial vendors for c
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://indefencemag.com/pentagon-opens-classified-networks-to-ai-vendors/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4e3f6e57bc1afc5ca8790583cba4c63f0fb3ba2bcb2ea3fbe6e0c0b81f280baa
 normalized_title_hash: 5a5096ed8413c687

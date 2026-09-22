@@ -5,8 +5,8 @@ title: 'Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future
 date: '2026-06-08'
 source: AIBase
 url_original: null
-url_canonical: https://www.aibase.com/news/28747
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: ace6f7e13ebd9502508f9d7138032d7156b4f6573c05688960072d25bd092cf4
 normalized_title_hash: b545f3fe198ecdb6

@@ -5,8 +5,8 @@ title: Google Gemini "Spark" APK teardown reveals usage caps and autonomous-purc
 date: '2026-05-26'
 source: Forbes contributor
 url_original: null
-url_canonical: https://merge.news/post/0tLcUgK4Rxh0ku7D0voN
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: dc7698e1d7881e16b5b8ed01b05e34689bf92eab633fc48b3d394731baf5176a

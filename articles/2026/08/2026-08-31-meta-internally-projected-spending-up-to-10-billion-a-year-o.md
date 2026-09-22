@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-meta-internally-projected-spending-up-to-10b-a-year-on-anthr
 - 2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 embedding_id: 2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta reportedly modeled annual spend of up to $10 billion on Anthropic models ev
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-meta-internally-projected-spending-up-to-10b-a-year-on-anthr]] · [[2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]]
+**Related:** [[2026-08-31-meta-internally-projected-spending-up-to-10b-a-year-on-anthr]] · [[2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]]
 <!-- graph:end -->

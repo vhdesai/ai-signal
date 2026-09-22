@@ -5,8 +5,8 @@ title: A federal hearing is underway today before Judge Rita Lin in California w
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.pbs.org/newshour/politics/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 3b92409b525031009bdc7971b177171cb4185453989e1be67d696249ba8db830

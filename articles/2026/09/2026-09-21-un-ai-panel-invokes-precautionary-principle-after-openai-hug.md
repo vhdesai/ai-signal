@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 - 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-- 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
 embedding_id: 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Unite.AI reported that the Independent International Scientific Panel on AI publ
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]]
+**Related:** [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]]
 <!-- graph:end -->

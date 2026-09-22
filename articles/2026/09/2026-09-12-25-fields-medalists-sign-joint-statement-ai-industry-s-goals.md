@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
-- 2026-08-01-fields-medal-mathematician-joins-openai-citing-ai-existentia
+- 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
 embedding_id: 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Twenty-five Fields Medal winners signed a joint statement arguing that the AI in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-08-01-fields-medal-mathematician-joins-openai-citing-ai-existentia]]
+**Related:** [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob]]
 <!-- graph:end -->

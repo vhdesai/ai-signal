@@ -4,8 +4,8 @@ title: xAI Drops Grok 4.3 With Steep Price Cuts and Imagine Agent Mode Breaking
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: a653dd5f4bf46b37a26ae345d13c30fce5f2086a19194215ab472af97b297c9f
 normalized_title_hash: e048da7ffeaa2bf7
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
+- 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
-- 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
 embedding_id: 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI released Grok 4.3 today, featuring significant price reductions and a new "I
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]]
+**Related:** [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno]] · [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]]
 <!-- graph:end -->

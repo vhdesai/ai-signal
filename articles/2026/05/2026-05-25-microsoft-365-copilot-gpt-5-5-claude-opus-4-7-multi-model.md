@@ -4,8 +4,8 @@ title: 'Microsoft 365 Copilot: GPT-5.5 + Claude Opus 4.7 Multi-Model'
 date: '2026-05-25'
 source: Microsoft 365 Conference Recap
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/copilot/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: e4b0a18637b78f2687623f3f9b1c1f018b09546ae240bcb0bf8d4dca7f578c24

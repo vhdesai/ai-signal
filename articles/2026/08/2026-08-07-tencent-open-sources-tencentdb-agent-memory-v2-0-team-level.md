@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
+- 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
-- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 embedding_id: 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent Cloud released TencentDB Agent Memory v2.0 (MIT license), a self-hosted 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
+**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie
-- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
-- 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
+- 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
 embedding_id: 2026-06-17-g7-leaders-and-ai-lab-ceos-convene-historic-summit-on-govern
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI's Sam Altman, Anthropic's Dario Amodei, and Google DeepMind's Demis Hassa
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]]
+**Related:** [[2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie]] · [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed]]
 <!-- graph:end -->

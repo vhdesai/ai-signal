@@ -4,8 +4,8 @@ title: OpenAI's frontier system autonomously cracks an 80-year-old geometry prob
 date: '2026-05-21'
 source: AIToolsRecap recap
 url_original: null
-url_canonical: https://dev.to/alifar/openai-reports-internal-model-disproved-an-80-year-old-geometry-problem-2io5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 011a25ca5ff168694d4ac120605ce2cd617a0fcbbe3d1f1f6090feef83bcfa92

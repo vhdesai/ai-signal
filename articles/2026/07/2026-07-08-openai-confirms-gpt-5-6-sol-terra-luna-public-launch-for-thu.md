@@ -5,8 +5,8 @@ title: OpenAI Confirms GPT-5.6 (Sol, Terra, Luna) Public Launch for Thursday, Ju
 date: '2026-07-08'
 source: Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: f7500fa21d54ce6ed6cfa2f901110dc629ec4389be1e6ef9bb23bd0815905c04

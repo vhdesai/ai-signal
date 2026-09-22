@@ -1,18 +1,23 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 218
+member_count: 223
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 218 connected article(s).
+> Auto-generated entity hub. 223 connected article(s).
 
-- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google research: procedural graphs meaningfully improve LLM agent performance]]
+- `2026-09-22` [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico|Bernstein: Huawei's Kirin 9050 Pro closes gap to Apple silicon to ~3 years and beats A17 Pro on Geekbench multi-core]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
 - `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f|DeepSeek confirms Huawei Ascend chips arriving Q4 as first frontier customer, bypassing US export controls]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa|DeepSeek Plans 160,000-Chip Huawei Ascend Deployment to Bypass U.S. Export Controls]]
+- `2026-09-21` [[2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi|DeepSeek Confirms Huawei Ascend Chip Deployment for Q4 as First Frontier Customer, Bypassing U.S. Export Controls]]
 - `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co|Huawei opens 10,000-NPU access for AI developers at Cloud Connect 2026]]

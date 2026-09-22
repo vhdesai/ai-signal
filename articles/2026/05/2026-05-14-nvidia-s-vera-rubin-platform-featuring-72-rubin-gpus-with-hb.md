@@ -5,8 +5,8 @@ title: NVIDIA's Vera Rubin platform — featuring 72 Rubin GPUs with HBM4 at 22 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: f28db33e81d12890a2fdaebc3b01a31cc755debb3d8e09f598f8a495e00fb576

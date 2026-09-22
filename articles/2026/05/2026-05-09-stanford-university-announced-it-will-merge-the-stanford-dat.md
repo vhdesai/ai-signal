@@ -5,8 +5,8 @@ title: Stanford University announced it will merge the Stanford Data Science ini
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/news/stanford-merges-ai-and-data-science-efforts-under-single-institute
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 5dd375f3991892b1bbc496161961cae3e1b2b3c672497edd71aad91618ba5f9c
 normalized_title_hash: ecb535e9fa31d3f7

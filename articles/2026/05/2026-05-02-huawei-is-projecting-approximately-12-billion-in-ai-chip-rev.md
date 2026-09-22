@@ -5,8 +5,8 @@ title: Huawei is projecting approximately $12 billion in AI chip revenue for 202
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.ainchina.com/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: e4fc53a85ab0a1fb1e8224cc38069c897a1836f259d122ad389da8d6b3ef8abb
 normalized_title_hash: 878bc0a3a3fd8acc

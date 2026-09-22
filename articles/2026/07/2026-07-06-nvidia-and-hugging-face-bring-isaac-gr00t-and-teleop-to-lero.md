@@ -4,8 +4,8 @@ title: NVIDIA and Hugging Face bring Isaac GR00T and Teleop to LeRobot
 date: '2026-07-06'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 16806cab92b0a5d607b89b39d092138843e0536576199d15ef2e5ec21932203a

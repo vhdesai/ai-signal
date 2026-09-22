@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
 - 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
+- 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 embedding_id: 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Thibault Schrepel of Vrije Universiteit Amsterdam randomly assigned students in 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves]] · [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g]]
+**Related:** [[2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves]] · [[2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

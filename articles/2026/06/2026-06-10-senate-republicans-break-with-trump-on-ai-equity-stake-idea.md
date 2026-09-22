@@ -4,8 +4,8 @@ title: Senate Republicans Break with Trump on AI Equity-Stake Idea
 date: '2026-06-10'
 source: NOTUS
 url_original: null
-url_canonical: https://www.msn.com/en-us/news/politics/ai-companies-blindsided-by-trump-planning-for-government-to-acquire-equity-in-their-firms-report/ar-AA257OvT
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 0c75efeffdd24ca0368f11c7e42c468a7b923c79fad7984c09afeb247ad53de5
 normalized_title_hash: a0b736d6884acfda

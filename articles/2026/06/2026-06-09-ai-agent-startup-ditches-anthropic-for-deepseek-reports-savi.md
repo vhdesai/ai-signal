@@ -4,8 +4,8 @@ title: AI Agent Startup Ditches Anthropic for DeepSeek, Reports Saving Millions
 date: '2026-06-09'
 source: The New Stack
 url_original: null
-url_canonical: https://thenewstack.io/lindy-deepseek-anthropic-switch/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 44331b155b0003a1311d90cb295827235bf71f28628fcddb519500998b470a40
 normalized_title_hash: 4d8fa4b5cfcf0a81

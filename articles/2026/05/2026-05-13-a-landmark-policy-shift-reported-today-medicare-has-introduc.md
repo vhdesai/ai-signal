@@ -5,8 +5,8 @@ title: 'A landmark policy shift reported today: Medicare has introduced a new pa
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aichatdaily.com/ai-business/cms-access-medicare-ai-pair-team
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 2ad200e9d43003d4605896de3acf8a675519c7a991f1fba4155854c370139d81

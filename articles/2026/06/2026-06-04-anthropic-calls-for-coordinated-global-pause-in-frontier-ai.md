@@ -4,8 +4,8 @@ title: Anthropic Calls for Coordinated Global Pause in Frontier AI Development
 date: '2026-06-04'
 source: WSJ; BBC; Semafor; Tom's Hardware; ABC News
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/c14dpgm0rg4o
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 916529ba88a1a3abb947735a34f95ed008f30077c44b11a9c6272c4e9339f7d2

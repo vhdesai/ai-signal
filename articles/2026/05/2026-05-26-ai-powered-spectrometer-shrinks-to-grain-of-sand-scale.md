@@ -4,8 +4,8 @@ title: AI-powered spectrometer shrinks to grain-of-sand scale
 date: '2026-05-26'
 source: ScienceDaily
 url_original: null
-url_canonical: https://www.sciencedaily.com/releases/2026/05/260525000501.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 985079b5f42a2f53131ab794d4562ff9c57b3ab5317266bd24acaf550fdd2e4e

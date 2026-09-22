@@ -4,8 +4,8 @@ title: SoftBank launches $11B-equivalent junk bond sale to fund its next OpenAI 
 date: '2026-09-21'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/softbank-launches-11-billion-junk-115346334.html
-url_status: repaired
+url_canonical: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
+url_status: broken
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 1743f6f300c53c6dd6e467dc8500344f51d2e169524ffe108ceedb6a81d0ffed
@@ -16,14 +16,10 @@ entities:
 - OpenAI
 themes: []
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 related_article_ids:
-- 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t
 - 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next
-- 2026-09-21-softbank-launches-11b-junk-bond-sale-to-fund-next-openai-tra
-- 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-- 2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund
 embedding_id: 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
 event_name: ''
 ---
@@ -36,5 +32,6 @@ SoftBank Group moved forward with $10B of dollar-denominated and €1B of euro-d
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t]] · [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next]] · [[2026-09-21-softbank-launches-11b-junk-bond-sale-to-fund-next-openai-tra]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]] · [[2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund]]
+**Canonical:** [[2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope]]
+**Related:** [[2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next]]
 <!-- graph:end -->

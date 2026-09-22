@@ -4,8 +4,8 @@ title: Anthropic to broaden Claude Mythos cybersecurity model rollout
 date: '2026-05-28'
 source: The Hill / TechCrunch / Reuters
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 51e825c52ed0aa0b8a78b812689dbf22ab3cdc985a529aa781a6e2b5940a28a6

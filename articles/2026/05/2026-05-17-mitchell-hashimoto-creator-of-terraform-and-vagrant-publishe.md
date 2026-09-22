@@ -5,8 +5,8 @@ title: Mitchell Hashimoto (creator of Terraform and Vagrant) published widely-sh
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://gu-log.vercel.app/en/posts/en-clawd-picks-20260208-mitchellh-vouch-oss-trust
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: cb23abc5e5727b62053f4e4d80a8c946553a6d8c7f61858fa7fed01ea5d4019f
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
-- 2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in
 embedding_id: 2026-05-17-mitchell-hashimoto-creator-of-terraform-and-vagrant-publishe
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Mitchell Hashimoto (creator of Terraform and Vagrant) published widely-shared co
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-05-16-today-s-digest-spans-a-particularly-active-24-hour-window-in]]
+**Related:** [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]]
 <!-- graph:end -->

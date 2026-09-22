@@ -5,8 +5,8 @@ title: Microsoft launches "Frontier Company," a $2.5B forward-deployed AI engine
 date: '2026-07-02'
 source: The Official Microsoft Blog
 url_original: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
-url_canonical: https://www.microsoft.com/en-us/frontier-company
-url_status: repaired
+url_canonical: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+url_status: broken
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: d7e1e450d16e878c363f8e83ee05bf6d46fb1006cb169d25cf87c809d955eeab

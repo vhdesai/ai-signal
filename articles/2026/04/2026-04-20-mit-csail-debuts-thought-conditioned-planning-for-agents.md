@@ -4,8 +4,8 @@ title: MIT CSAIL Debuts "Thought-Conditioned" Planning for Agents
 date: '2026-04-20'
 source: MIT News
 url_original: null
-url_canonical: https://www.robotics247.com/article/mit_csail_develops_ai_help_household_robots_halve_planning_time
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: f8c1efe1a541fe5f735132c3bbe2154e9735feb235edc7838aef2f21505e6eb9

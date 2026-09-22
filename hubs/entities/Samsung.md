@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 93
+member_count: 94
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 93 connected article(s).
+> Auto-generated entity hub. 94 connected article(s).
 
+- `2026-09-21` [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir|Kairos Power Secures up to $100M from Samsung C&T for Its First Reactor, with Google as Offtaker]]
 - `2026-09-20` [[2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea|Global Chip Market Projected to Exceed $1.6 Trillion This Year Despite AI Slowdown Talk]]
 - `2026-09-20` [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea|China's CXMT unveils G5 memory platform, claiming "quantum leap" density gains]]
 - `2026-09-14` [[2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow|Global AI Stocks Sell Off After Lab CEOs Jointly Urge a Slowdown]]

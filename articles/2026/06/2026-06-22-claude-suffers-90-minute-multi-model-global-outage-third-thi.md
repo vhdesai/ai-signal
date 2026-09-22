@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Cyber Security News
 url_original: https://cybersecuritynews.com/anthropic-claude-ai-outage/
 url_canonical: https://cybersecuritynews.com/anthropic-claude-ai-outage/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: a28443993c594e8bcedd788f621f7821e1b64422579f146c49a531f1461de1d2
 normalized_title_hash: 9b9be105bb995ea5
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-anthropic-s-claude-hit-by-widespread-outage
 - 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
-- 2026-08-24-anthropic-s-claude-suffers-another-outagetrending
 embedding_id: 2026-06-22-claude-suffers-90-minute-multi-model-global-outage-third-thi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]] · [[2026-08-24-anthropic-s-claude-suffers-another-outagetrending]]
+**Related:** [[2026-09-22-anthropic-s-claude-hit-by-widespread-outage]] · [[2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages]] · [[2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages]]
 <!-- graph:end -->

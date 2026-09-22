@@ -4,8 +4,8 @@ title: U.S. clears Anthropic's Mythos 5 for ~100 trusted partners; Fable 5 stays
 date: '2026-06-26'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: b683eb1ba1ee4c81f6f36058218492560a86cc6ae631406d91a5bd7521c5ae83

@@ -5,8 +5,8 @@ title: MIT disclosed a 20% decline in incoming graduate students — a significa
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.collegehelpguide.com/blog/mit-research-grad-enrollment-decline-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 1f3d387eaa7e90d72f048d1514eacd21ddbc12c24d5587dca19055cb5699d4f3

@@ -4,8 +4,8 @@ title: UN Opens First Global Dialogue on AI Governance in Geneva
 date: '2026-07-06'
 source: United Nations
 url_original: https://www.un.org/en/delegate-delegate-gva-delegate-nyc/inaugural-global-dialogue-ai-governance-convenes-geneva
-url_canonical: https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july
-url_status: repaired
+url_canonical: https://www.un.org/en/delegate-delegate-gva-delegate-nyc/inaugural-global-dialogue-ai-governance-convenes-geneva
+url_status: broken
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: f7e7a2b5416e0498e9592513786738b78683873099c0d751a360a7685146d760
 normalized_title_hash: 80880140564a0dba
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
+- 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
-- 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
 embedding_id: 2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The UN's first Global Dialogue on AI Governance opened July 6–7 at Geneva's Pa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]] · [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks]]
+**Related:** [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha]]
 <!-- graph:end -->

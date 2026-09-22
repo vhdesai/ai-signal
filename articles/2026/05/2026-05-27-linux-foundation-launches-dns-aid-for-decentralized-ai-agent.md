@@ -4,8 +4,8 @@ title: Linux Foundation Launches DNS-AID for Decentralized AI Agent Discovery
 date: '2026-05-27'
 source: HPCwire
 url_original: https://www.hpcwire.com/aiwire/
-url_canonical: https://www.linuxfoundation.org/press/linux-foundation-announces-dns-aid-project-to-advance-decentralized-ai-agent-discovery
-url_status: repaired
+url_canonical: https://www.hpcwire.com/aiwire/
+url_status: broken
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 072f13fb5589c59683f5dbe83509aacc1c576e194f8d6801163cea34617c0de6

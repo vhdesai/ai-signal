@@ -4,8 +4,8 @@ title: Oracle has begun laying off an estimated 20,000–30,000 workers in the U
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techradar.com/pro/oracle-lays-off-undisclosed-number-of-employees-in-restructuring-but-hiring-continues-for-ai-and-data-center-roles
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: ae2071309c03c9323684adc66a6885eb7c61b2465f223e13623a003891dd47e9

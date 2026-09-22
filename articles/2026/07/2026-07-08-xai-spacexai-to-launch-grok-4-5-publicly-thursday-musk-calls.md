@@ -4,8 +4,8 @@ title: xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opu
 date: '2026-07-08'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/spacexai-launch-grok-4-5-095306943.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 8638e518c16163e3e16469297d7f5609d5911e2c646bc7d30cccb5e8231c430c

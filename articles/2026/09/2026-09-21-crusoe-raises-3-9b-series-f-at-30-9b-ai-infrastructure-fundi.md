@@ -5,8 +5,8 @@ title: Crusoe raises $3.9B Series F at $30.9B; AI infrastructure funding megarou
 date: '2026-09-21'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/ai-security-chiefs-scared-stiff-cybersecurity-budgets-2026
-url_canonical: https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
-url_status: repaired
+url_canonical: https://pitchbook.com/news/articles/ai-security-chiefs-scared-stiff-cybersecurity-budgets-2026
+url_status: broken
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6413a717b2e3ae8318f59d9799ff008039de46baaa4e53bf228436169a772c77
@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar
 - 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 - 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
 embedding_id: 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
@@ -39,5 +40,5 @@ Denver-based AI-infrastructure provider Crusoe raised a $3.9B Series F at a $30.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]] · [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall]]
+**Related:** [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar]] · [[2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ]] · [[2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall]]
 <!-- graph:end -->

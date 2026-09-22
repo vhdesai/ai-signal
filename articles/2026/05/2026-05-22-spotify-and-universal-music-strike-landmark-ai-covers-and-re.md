@@ -4,8 +4,8 @@ title: Spotify and Universal Music Strike Landmark AI Covers and Remixes Deal
 date: '2026-05-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 07a11a3cfd5efc6da52d1910b46da350f6f377dcfd7e08733be7bfbac0a23ef0

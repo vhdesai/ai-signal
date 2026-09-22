@@ -4,8 +4,8 @@ title: Google unveils Coral Board — a tiny on-device AI computer running Gemma
 date: '2026-05-28'
 source: The Decoder / Google Developers
 url_original: null
-url_canonical: https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f5082b701ae1eb933c1e0edbfc4a70785310bc7923cf01edacb07a70fea964d0

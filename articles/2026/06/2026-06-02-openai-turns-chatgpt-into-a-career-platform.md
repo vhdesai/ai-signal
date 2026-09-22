@@ -4,8 +4,8 @@ title: OpenAI turns ChatGPT into a career platform
 date: '2026-06-02'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: 4aa73cfa5d7000e0ba90182d09fd0cc5e8adca50e682fae87e61bef33bafdb67
 normalized_title_hash: 211a2c3c99d2de65

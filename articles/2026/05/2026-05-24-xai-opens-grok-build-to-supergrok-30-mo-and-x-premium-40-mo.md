@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
+- 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-- 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
 embedding_id: 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI today expanded Grok Build — its terminal coding agent positioned as the co
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
+**Related:** [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

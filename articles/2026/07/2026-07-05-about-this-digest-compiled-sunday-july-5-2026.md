@@ -4,8 +4,8 @@ title: About this digest. Compiled Sunday, July 5, 2026
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aidailypost.com/daily/2026-07-26-ai-daily-digest-sunday-july-26-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 312def39f3a0abec7176b04d670651fa6d69699e5f160c1a75988900b23c47df

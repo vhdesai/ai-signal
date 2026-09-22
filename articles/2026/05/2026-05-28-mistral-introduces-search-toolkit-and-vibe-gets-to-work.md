@@ -4,8 +4,8 @@ title: Mistral introduces Search Toolkit and "Vibe gets to work"
 date: '2026-05-28'
 source: Mistral AI
 url_original: null
-url_canonical: https://mistral.ai/news/search-toolkit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 780c60faca6fd0211ecb0399674a24f664efb43858f0823305c15a233b387320

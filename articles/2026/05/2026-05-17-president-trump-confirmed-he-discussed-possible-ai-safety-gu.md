@@ -5,8 +5,8 @@ title: President Trump confirmed he discussed possible AI safety guardrails with
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://thehill.com/homenews/administration/5880013-donald-trump-xi-jinping-china-summit-ai-guardrails/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 741e3ad654d40b9f44887b67010b334a48716b723e75c174b96b8ed3ffb4f0a3

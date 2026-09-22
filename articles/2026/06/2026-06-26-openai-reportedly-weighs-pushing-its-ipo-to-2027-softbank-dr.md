@@ -4,8 +4,8 @@ title: OpenAI reportedly weighs pushing its IPO to 2027; SoftBank drops ~12%
 date: '2026-06-26'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-openai-ipo-delay-111458225.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 021755e644cd1d76117f6537ab126cf0ff83a91e590ccbf84c406cda32e46fe6
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
+- 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 - 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-- 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
 embedding_id: 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
 event_name: ''
 ---
@@ -40,5 +40,5 @@ SoftBank Group fell more than 12% — its largest intraday drop in over three mo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]] · [[2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its]]
+**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]] · [[2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p]]
 <!-- graph:end -->

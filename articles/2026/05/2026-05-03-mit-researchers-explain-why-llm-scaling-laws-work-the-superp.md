@@ -5,8 +5,8 @@ title: MIT Researchers Explain Why LLM Scaling Laws Work — The Superposition M
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://stack-archive.com/blog/mit-llm-scaling-laws-superposition-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 29457bf51c2d2b80baba159262617a0667dda6fd3d36295a935abd2d95f87d3c
 normalized_title_hash: e06769c8afc97096

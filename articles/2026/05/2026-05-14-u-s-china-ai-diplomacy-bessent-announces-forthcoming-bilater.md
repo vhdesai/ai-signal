@@ -5,8 +5,8 @@ title: 'U.S.–China AI Diplomacy: Bessent Announces Forthcoming Bilateral AI Sa
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://www.usatoday.com/story/tech/2026/09/21/bessent-proposes-us-china-ai-safety-notifications-talks-chinese-vice-premier/91870614007/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 917649f40d0c676e0e50a07a6c6c15fc1ffed1575f89bb3979c857b811ec717a
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
-- 2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah
+- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 embedding_id: 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the Trump–Xi summit in Beijing, Treasury Secretary Scott Bessent announced 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-20-us-proposes-a-us-china-ai-incident-notification-mechanism-ah]]
+**Related:** [[2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
 <!-- graph:end -->

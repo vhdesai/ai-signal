@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 - 2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r
 - 2026-07-06-path-constrained-mixture-of-experts
+- 2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
-- 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 embedding_id: 2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research published results from a large-scale routing intervention study 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]] · [[2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]]
+**Related:** [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]] · [[2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]]
 <!-- graph:end -->

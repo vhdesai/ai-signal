@@ -4,8 +4,8 @@ title: Google folds Display Ads into AI-first Demand Gen campaigns
 date: '2026-05-27'
 source: AI News
 url_original: https://artificialintelligence-news.com/
-url_canonical: https://blog.google/products/ads-commerce/google-display-ads-demand-gen/
-url_status: repaired
+url_canonical: https://artificialintelligence-news.com/
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2062e696e120f9c8f62449c9503252650e5c49894491085408d14a851ad3c19d

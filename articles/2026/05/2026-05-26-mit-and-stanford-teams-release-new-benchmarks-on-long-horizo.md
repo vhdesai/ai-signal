@@ -4,8 +4,8 @@ title: MIT and Stanford Teams Release New Benchmarks on Long-Horizon Agent Reaso
 date: '2026-05-26'
 source: 'Source: MIT News / Stanford HAI'
 url_original: null
-url_canonical: https://arxiv.org/abs/2509.21766
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a47d56425a05134d1e964140a82520a1e5073828645abd56a7fe31ddb64b191d

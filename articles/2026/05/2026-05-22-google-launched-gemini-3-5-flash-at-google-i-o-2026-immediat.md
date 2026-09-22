@@ -5,8 +5,8 @@ title: Google launched Gemini 3.5 Flash at Google I/O 2026, immediately rolling 
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 334bfec7e49bb1389c43f8ebae02044601cb723b68b8373961707a8a3e784487

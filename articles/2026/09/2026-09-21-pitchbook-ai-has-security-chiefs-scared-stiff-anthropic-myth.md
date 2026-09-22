@@ -1,15 +1,15 @@
 ---
 article_id: 2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth
-title: 'PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures
-  freed CISO budgets'
+title: 'PitchBook: "AI Has Security Chiefs Scared Stiff" — Anthropic & Mythos Disclosures
+  Freed CISO Budgets'
 date: '2026-09-21'
-source: PitchBook
+source: PitchBook / The Information
 url_original: null
-url_canonical: https://cryptobriefing.com/security-chiefs-shift-budgets-ai-security/
-url_status: repaired
-digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
-content_hash: 77861d223dd7e381a443c5972c3aba0fae6ac6307a2231daa60e99377dc9942c
+content_hash: f6ce0bc7a775ae5af6d406296e54c6656f389e61f0eede9a0e312d8108cdc1dd
 normalized_title_hash: 6c7d17d3dc1cc0c3
 canonical_url_hash: ''
 tags:
@@ -31,9 +31,9 @@ embedding_id: 2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic
 event_name: ''
 ---
 
-# PitchBook: "AI has security chiefs scared stiff" — Anthropic & Mythos disclosures freed CISO budgets
+# PitchBook: "AI Has Security Chiefs Scared Stiff" — Anthropic & Mythos Disclosures Freed CISO Budgets
 
-PitchBook reports enterprise security budgets are opening up in response to autonomous hacking incidents and mass-extinction warnings. SYN Ventures' Jay Leek, former Blackstone CISO, told PitchBook: "Anthropic and Mythos did what a decade of CISO warnings couldn't — best security-awareness education for CEOs anywhere." The kicker: buyers are scared into spending but "paralyzed by the prospect of choosing the wrong solution in a sea of choice," and pricing is becoming a race to the bottom. Meanwhile The Information warns CrowdStrike and Okta trade at big premiums despite unproven AI-driven revenue growth — AI labs themselves (OpenAI, Anthropic) may end up as future cybersecurity competition. PitchBook Daily Pitch <https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpitchbook.com%2Fnews%2Farticles%2Fai-security-chiefs-scared-stiff-cybersecurity-budgets-2026&data=05%7C02%7Cvdesai%40microsoft.com%7Ccc27e464dd884377b18d08df17e8ca62%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639255960727157900%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Um2axNnBAvZUcPoZ1vYN4nHc94kpB8v3HQVgvMfw%2BqQ%3D&reserved=0> · The Information: CrowdStrike/Okta premiums <https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fcrowdstrike-and-okta-trade-at-big-premiums-despite-unproven-ai-payoff&data=05%7C02%7Cvdesai%40microsoft.com%7Ccc27e464dd884377b18d08df17e8ca62%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639255960727170103%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FRtOXR8oPg%2FaoVGinhlzoXTxifcbQMhXpwnAMpG1lJs%3D&reserved=0>
+PitchBook reports enterprise security budgets are opening up in response to autonomous hacking incidents and mass-extinction warnings. SYN Ventures' Jay Leek, former Blackstone CISO, told PitchBook: "Anthropic and Mythos did what a decade of CISO warnings couldn't — best security-awareness education for CEOs anywhere." The kicker: buyers are scared into spending but "paralyzed by the prospect of choosing the wrong solution in a sea of choice," and pricing is becoming a race to the bottom. Meanwhile The Information warns CrowdStrike and Okta trade at big premiums despite unproven AI-driven revenue growth — AI labs themselves (OpenAI, Anthropic) may end up as future cybersecurity competition. pitchbook.com — AI has security chiefs scared stiff <https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpitchbook.com%2Fnews%2Farticles%2Fai-security-chiefs-scared-stiff-cybersecurity-budgets-2026&data=05%7C02%7Cvdesai%40microsoft.com%7Cc14fb613b1ac463d126e08df1878657c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639256577572211429%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ezv5KETTvawvwDwQy6dt4Mf%2Bh%2BDWtkUN419hCqAppOc%3D&reserved=0> theinformation.com — CrowdStrike and Okta premiums vs unproven AI payoff <https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fcrowdstrike-and-okta-trade-at-big-premiums-despite-unproven-ai-payoff&data=05%7C02%7Cvdesai%40microsoft.com%7Cc14fb613b1ac463d126e08df1878657c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C639256577572221779%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=EX97Hqgzd8%2BdWChaSE2Ry3EHG%2BQfKAa%2BLqzEMXkhWgM%3D&reserved=0> HOT SECURITY
 
 <!-- graph:start -->
 ## Connections

@@ -4,8 +4,8 @@ title: AWS CEO Pushes Back on AI Job-Apocalypse Warnings
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://thenewyorkfinance.com/aws-ceo-pushes-back-on-ai-job-apocalypse-fears-saying-workers-must-adapt-pool/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: bf0d7aed31291ff3cd9aef18a10b7e50b9a7585aa54e0612d2bae38294a098ec

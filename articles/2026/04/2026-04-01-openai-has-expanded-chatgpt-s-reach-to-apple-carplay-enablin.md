@@ -5,8 +5,8 @@ title: OpenAI has expanded ChatGPT's reach to Apple CarPlay, enabling hands-free
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://applemagazine.com/chatgpt-carplay-0d56/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 77f98e00e9eadbfed8348ba278f09b8a5ce1af04a08b597ef3ce783f12cf274e

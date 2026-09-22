@@ -4,8 +4,8 @@ title: Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensi
 date: '2026-06-03'
 source: South China Morning Post; Nikkei Asia; Alibaba Cloud
 url_original: null
-url_canonical: https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-opens-qwen-to-external-apps-as-china-s-ai-agent-race-intensifies
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 1a485cec91e72790ec5cfe5080236ddb5c59690480a1c879fcbcef62edcdf4ef

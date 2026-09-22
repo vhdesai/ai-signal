@@ -5,8 +5,8 @@ title: Connecticut this week adopted both a Comprehensive AI Act and an AI Respo
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.hklaw.com/en/insights/publications/2026/06/connecticut-enacts-comprehensive-ai-legislation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 32d542de1c7221afd2dc26ec4d5746fded5e119ce96dc31e34bfcde91996916f

@@ -4,8 +4,8 @@ title: Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book
 date: '2026-09-21'
 source: Bloomberg / Investing.com
 url_original: null
-url_canonical: https://www.thecoinrepublic.com/2026/09/19/nvidia-backed-nscale-files-for-nyse-ipo-as-contracts-hit-103b/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_065544_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 9f10ecf79d6ce0fda86974a4655a4e60d2157b62ca53b9e15dc84bb23fb20a62
@@ -27,9 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
+- 2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b
+- 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
+- 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
-- 2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso
-- 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 embedding_id: 2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont
 event_name: ''
 ---
@@ -43,5 +44,5 @@ Nscale's IPO filing discloses that Microsoft and Anthropic together represent ab
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]] · [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]]
+**Related:** [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1]] · [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b]] · [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account]] · [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]]
 <!-- graph:end -->

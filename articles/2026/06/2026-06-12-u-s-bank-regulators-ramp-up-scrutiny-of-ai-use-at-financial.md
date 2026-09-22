@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 - 2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using
+- 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
-- 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 embedding_id: 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reuters reported exclusively that U.S. bank regulators are ramping up scrutiny o
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
+**Related:** [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]]
 <!-- graph:end -->

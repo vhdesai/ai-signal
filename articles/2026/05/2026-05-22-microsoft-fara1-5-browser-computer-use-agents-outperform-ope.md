@@ -5,8 +5,8 @@ title: 'Microsoft Fara1.5: Browser Computer-Use Agents Outperform OpenAI Operato
 date: '2026-05-22'
 source: 'Source: MarkTechPost'
 url_original: https://www.marktechpost.com/
-url_canonical: https://news.skrew.ai/microsoft-fara-1-5-browser-agents-outperform-openai-gemini/
-url_status: repaired
+url_canonical: https://www.marktechpost.com/
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: aa531330ae0022628a1f28d147474ac47a45ab625c82b8a9e1b8c683051f10ed

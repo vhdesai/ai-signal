@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus
 - 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites
@@ -37,5 +38,5 @@ Sources tell CNBC both labs are pursuing much smaller compute deployments alongs
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus]] · [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

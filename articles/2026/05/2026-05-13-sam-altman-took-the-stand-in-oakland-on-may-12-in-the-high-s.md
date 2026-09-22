@@ -4,8 +4,8 @@ title: Sam Altman took the stand in Oakland on May 12 in the high-stakes Musk v
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.newsbreak.com/nbc-palm-springs-298461496/4648961158216-sam-altman-takes-the-stand-in-oakland-defending-openai-mission-against-elon-musk-s-allegations
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 94000608a7bd9d7b6ea3e19ff1232ddaac31d949e1ef93962d2e2bcab094e66c

@@ -4,8 +4,8 @@ title: SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/softbank-secures-10-billion-loan-105715129.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: 0a9734b357b5335c41f0508de31988e758507aa2456e85c92aad03c6e9afebc6
 normalized_title_hash: 88d086a564b7ccad
@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
+- 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
 - 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
-- 2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders
 embedding_id: 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SoftBank is reportedly running into additional problems borrowing $6 billion sec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]] · [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]]
+**Related:** [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm
 embedding_id: 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is reportedly in talks with Samsung Foundry on a deal worth over 10 trillio
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[Samsung]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m]] · [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm]]
 <!-- graph:end -->

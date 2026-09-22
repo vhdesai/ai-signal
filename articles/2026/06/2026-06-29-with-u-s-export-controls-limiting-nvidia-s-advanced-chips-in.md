@@ -5,8 +5,8 @@ title: With U.S. export controls limiting Nvidia's advanced chips in China, dome
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://whatledto.com/events/nvidia-china-export-controls
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 0845e6e5ccbe9c7d438b4f28cf29dde239ca0688a481bf2a18c84c2e4aaec256

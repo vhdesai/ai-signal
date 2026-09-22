@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
+- 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
-- 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 embedding_id: 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The London-based neocloud posted revenue of $140.6M for the six months ended Jun
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]]
+**Related:** [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]]
 <!-- graph:end -->

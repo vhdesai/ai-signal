@@ -4,8 +4,8 @@ title: ByteDance Weighs Up to $70B in 2026 AI Capex, ~$100B Planned for 2027 Hot
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/bytedance-70-billion-ai-capex-doubao-qualcomm-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 1c42b42f5056fce831566875f5f8f2de3314ff811e3107d5992c1124dec7fca0

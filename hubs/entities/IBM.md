@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 167
+member_count: 168
 ---
 
 # IBM
 
-> Auto-generated entity hub. 167 connected article(s).
+> Auto-generated entity hub. 168 connected article(s).
 
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]
 - `2026-09-14` [[2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors|NVIDIA Expands CUDA-Q to Fault-Tolerant Quantum Processors]]

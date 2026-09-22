@@ -5,8 +5,8 @@ title: Bloomberg reported Monday that Google has sold so much TPU capacity to ex
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://thenextweb.com/news/google-tpu-compute-internal-researchers-anthropic
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 175638c54acaa86f63cecd3c79763bae854e259edb62f70a0e0f8d41b7c24aee

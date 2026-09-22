@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
-- 2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 embedding_id: 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon is evaluating cheaper alternatives — including OpenAI — after a reneg
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]]
 <!-- graph:end -->

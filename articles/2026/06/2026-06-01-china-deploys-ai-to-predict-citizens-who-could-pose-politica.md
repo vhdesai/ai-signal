@@ -4,8 +4,8 @@ title: China Deploys AI to Predict Citizens Who Could Pose Political Risk
 date: '2026-06-01'
 source: The New York Times
 url_original: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
-url_canonical: https://www.chinapulse.com/data-news/2026/06/01/china-aims-a-i-at-predicting-who-could-pose-a-political-risk/
-url_status: repaired
+url_canonical: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
+url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 510db3746c0fba9ce204a70af6d89921d42d38abc3092120dd412ef59b4a2fa2
 normalized_title_hash: f1e542183f54d592

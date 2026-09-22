@@ -4,8 +4,8 @@ title: xAI's Grok officially integrated into OpenClaw via OAuth
 date: '2026-05-25'
 source: Memeburn
 url_original: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
-url_canonical: https://docs.openclaw.ai/providers/xai
-url_status: repaired
+url_canonical: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
+url_status: broken
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 4f03b013413a256d0635c5aa38e854abccf09ffeee0585bbea6ef701e00cfd1b
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 - 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
+- 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+- 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
 embedding_id: 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI made Grok 4.3 the default model option inside the NVIDIA-backed OpenClaw age
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]]
+**Related:** [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work]] · [[2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba]]
 <!-- graph:end -->

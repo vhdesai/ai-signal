@@ -4,8 +4,8 @@ title: Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images
 date: '2026-06-07'
 source: The Independent
 url_original: null
-url_canonical: https://www.independent.co.uk/news/uk/politics/jess-asato-elon-musk-grok-deepfake-b2990594.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
 content_hash: a7893554474b0be01517c2ad73524af282a005b04c1106911a8a59a02c903078
 normalized_title_hash: e81f780cd339f4da

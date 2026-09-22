@@ -5,8 +5,8 @@ title: The Pentagon signed AI contracts with SpaceX, OpenAI, Google, Microsoft, 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.dqindia.com/news/pentagon-classified-ai-agreements-openai-google-nvidia-spacex-11788321
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fa817532888c02ae61c00d26ae62f15f5cf759e9eba5dbc6c27f9f6a9310e7e6

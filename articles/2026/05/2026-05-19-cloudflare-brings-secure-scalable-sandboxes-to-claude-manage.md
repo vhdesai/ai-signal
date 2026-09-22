@@ -4,8 +4,8 @@ title: Cloudflare Brings Secure, Scalable Sandboxes to Claude Managed Agents
 date: '2026-05-19'
 source: AiThority
 url_original: null
-url_canonical: https://www.cloudflare.com/press/press-releases/2026/cloudflare-brings-secure-scalable-sandboxes-to-claude-managed-agents/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 2dcd81a60b749e4c789539d48e59f493a0e345c310432dee610b7b1c0d934418

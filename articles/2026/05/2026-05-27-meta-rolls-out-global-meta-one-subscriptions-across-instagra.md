@@ -5,8 +5,8 @@ title: Meta Rolls Out Global "Meta One" Subscriptions Across Instagram, Facebook
 date: '2026-05-27'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: ff77b1643dd78ef7717d93300fe59212e7a32900b855ca52a72abc676a0ac7b3

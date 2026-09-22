@@ -32,8 +32,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
+- 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
 - 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 embedding_id: 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 event_name: ''
 ---
@@ -47,5 +47,5 @@ The Information reports that Meta has been dogfooding Hatch, an upcoming persona
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
+**Related:** [[2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4
+- 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
 - 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
@@ -38,5 +39,5 @@ SpaceXAI (formerly xAI) released Grok 4.6, tuned for long-running agents, coding
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
+**Related:** [[2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4]] · [[2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p]] · [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
 <!-- graph:end -->

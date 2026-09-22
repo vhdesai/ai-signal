@@ -5,8 +5,8 @@ title: OpenAI's $50B Infrastructure Commitment Triggers U.S. Senate Scrutiny on 
 date: '2026-05-12'
 source: U.S. Senate / FutureAGI
 url_original: null
-url_canonical: https://bullishdaily.com/news/openai-50b-compute-spend-ai-infrastructure-boom-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: b37ee34cf9dc6eda5ee64618f8d2bc042d74eba9bdcc59803222155f545c5570

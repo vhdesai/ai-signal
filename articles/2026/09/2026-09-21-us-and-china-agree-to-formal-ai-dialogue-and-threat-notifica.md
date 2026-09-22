@@ -5,8 +5,8 @@ title: US and China agree to formal AI dialogue and threat-notification hotline 
 date: '2026-09-21'
 source: South China Morning Post
 url_original: null
-url_canonical: https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 2504f3213e290caeb171fb295f00186b26de34353a6e97df1312b0258bee3f93
@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
+- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-- 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
-- 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
+- 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 embedding_id: 2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica
 event_name: ''
 ---
@@ -38,5 +38,5 @@ After Sunday's eight-hour bilateral at JPMorgan's New York headquarters, US Trea
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]]
+**Related:** [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]]
 <!-- graph:end -->

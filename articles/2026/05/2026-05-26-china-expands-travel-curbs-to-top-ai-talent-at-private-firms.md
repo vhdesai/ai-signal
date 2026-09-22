@@ -4,8 +4,8 @@ title: China expands travel curbs to top AI talent at private firms
 date: '2026-05-26'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.businesstimes.com.sg/international/china-expands-travel-curbs-top-ai-talent-private-firms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 18cc67a1a11a7767552e3f6ec6fd10b51682b62569ee360d524ab51d6ff4c187

@@ -31,6 +31,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
 - 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
 embedding_id: 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
@@ -46,5 +47,5 @@ Both Alibaba and Tencent used their latest earnings calls to signal materially h
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
+**Related:** [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
 <!-- graph:end -->

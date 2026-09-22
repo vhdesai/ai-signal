@@ -4,8 +4,8 @@ title: Meta layoffs & the MCI keystroke-logging disclosure draw scrutiny
 date: '2026-05-24'
 source: Industry weekly digest
 url_original: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
-url_canonical: https://trendytechtribe.com/ai/meta-recorded-8000-then-fired-them
-url_status: repaired
+url_canonical: https://bestpractice.ai/insights/ai-daily-brief/2026-05-24
+url_status: broken
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 885a29994994d8449fb8f57940e9da0e169ae9f4fda3cf5b2a4790aa19864259

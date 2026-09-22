@@ -4,8 +4,8 @@ title: Illinois Senate Advances "AI Safety Measures Act" (SB 315)
 date: '2026-05-26'
 source: 'Source: The Center Square via AOL'
 url_original: null
-url_canonical: https://www.recordinglaw.com/news/illinois-ai-safety-act-sb-315/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a857dc23421b2a61781d68390d3591a608602859071c038776b6d7ac93068447

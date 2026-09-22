@@ -4,8 +4,8 @@ title: Cyera Raises $600M, Becomes One of the Most Valuable AI-Era Cybersecurity
 date: '2026-06-10'
 source: The New York Times
 url_original: null
-url_canonical: https://www.cyera.com/press-releases/cyera-raises-600-million-at-12-billion-valuation-to-continue-building-the-trust-layer-for-the-ai-era
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_060030_Daily-AI-News-Digest.md
 content_hash: fb07e2cde358b8978caf9c0253a2527237c896e6fc77d345c564241c46fb006d
 normalized_title_hash: 0fbd3e1063442f9f
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup
 - 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
+- 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
 - 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
-- 2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises
 embedding_id: 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The NYT reported that Cyera raised $600 million, positioning it as one of the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]]
+**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye]] · [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]]
 <!-- graph:end -->

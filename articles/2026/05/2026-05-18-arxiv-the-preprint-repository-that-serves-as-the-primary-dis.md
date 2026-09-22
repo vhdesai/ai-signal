@@ -5,8 +5,8 @@ title: ArXiv, the preprint repository that serves as the primary dissemination c
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2505.03835
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: c9381891f57093e4c93f6c1f65769fbc0fcba40c7005e631d644f97d4bf7dfec

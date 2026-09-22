@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
-- 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
+- 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
 embedding_id: 2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google extended Notebooks in Gemini — the merged Gemini app and Gemini Noteboo
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]]
+**Related:** [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou]]
 <!-- graph:end -->

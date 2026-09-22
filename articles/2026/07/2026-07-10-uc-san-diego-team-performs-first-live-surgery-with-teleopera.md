@@ -4,8 +4,8 @@ title: UC San Diego team performs first live surgery with teleoperated humanoid 
 date: '2026-07-10'
 source: Forbes
 url_original: null
-url_canonical: https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: d1ba2241dd077ca99853adc059ac1f9db2b96d42e1ca6f8c0b47b43e64e5263b

@@ -4,8 +4,8 @@ title: Trump Calls for Military to Accelerate Use of AI
 date: '2026-06-05'
 source: AP News; The Washington Post
 url_original: null
-url_canonical: https://www.independent.co.uk/news/trump-washington-americans-pentagon-cabinet-b2990831.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-06_060013_Daily-AI-News-Digest.md
 content_hash: 3070e8753e07b85dff0de9acce35428278f96d0005f2876a5d8ea55f52ef4ea8
 normalized_title_hash: 994049fcc800037b

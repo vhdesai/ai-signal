@@ -5,8 +5,8 @@ title: On April 27, Microsoft and OpenAI dismantled their six-year exclusive clo
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aitrove.ai/blog/microsoft-openai-partnership-ends-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3ac03a3243479937deffd63f9ab13d816f16c7a4478253e6bb404c27300296cc

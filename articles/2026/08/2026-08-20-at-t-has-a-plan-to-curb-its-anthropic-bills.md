@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
+- 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 embedding_id: 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AT&T plans to keep employee spending on Anthropic and OpenAI models flat by rout
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]]
+**Related:** [[2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Anthropic held its "Code w/ Claude 2026" event, with technologist Simon W
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://simonwillison.net/2026/May/6/code-w-claude-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: b5e595836dd7eaf099579428016e54ab2d252b4a62858df3124f9544d42b0128
 normalized_title_hash: 716dd0f8fd0ddd24

@@ -4,8 +4,8 @@ title: MLCommons names 2026 Rising Stars cohort — 39 researchers from 26 insti
 date: '2026-05-19'
 source: MLCommons
 url_original: https://mlcommons.org/2026/05/2026-rising-stars/
-url_canonical: https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/phd-alums-mohapatra-and-cruz-selected-for-mlcommons-rising-stars.html
-url_status: repaired
+url_canonical: https://mlcommons.org/2026/05/2026-rising-stars/
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d4ce8e8604ecbe49415c8a7818bde0a008504415c630d961c4f6dec6872f7b41

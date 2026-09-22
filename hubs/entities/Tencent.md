@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 201
+member_count: 205
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 201 connected article(s).
+> Auto-generated entity hub. 205 connected article(s).
 
+- `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
+- `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-tencent-s-gander-an-always-talking-agent-that-keeps-conversi|Tencent's Gander: an always-talking agent that keeps conversing while working in the background]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]
 - `2026-09-19` [[2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new|Jeff Dean’s Discovery Loop Targets a ~$50B Valuation in a New Funding Round]]

@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-- 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 embedding_id: 2026-06-30-anthropic-ran-a-livestreamed-event-featuring-product-and-res
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic ran a livestreamed event featuring product and research demonstrations
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]]
+**Related:** [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]]
 <!-- graph:end -->

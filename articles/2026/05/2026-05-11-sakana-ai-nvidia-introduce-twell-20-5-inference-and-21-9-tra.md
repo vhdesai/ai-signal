@@ -5,8 +5,8 @@ title: 'Sakana AI & NVIDIA Introduce TwELL: 20.5% Inference and 21.9% Training S
 date: '2026-05-11'
 source: 🔗 MarkTechPost  · 🏢 Sakana AI / NVIDIA
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: e3293349de7ca8623b685c1b55a6e744e591b0baa888c26c86a4a72fc32b1695

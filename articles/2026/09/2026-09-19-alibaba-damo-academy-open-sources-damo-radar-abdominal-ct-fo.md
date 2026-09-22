@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer
+- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
-- 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 embedding_id: 2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Pandaily and NDTV Profit report Alibaba's DAMO Academy has open-sourced DAMO RAD
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]] · [[2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second]]
+**Related:** [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]]
 <!-- graph:end -->

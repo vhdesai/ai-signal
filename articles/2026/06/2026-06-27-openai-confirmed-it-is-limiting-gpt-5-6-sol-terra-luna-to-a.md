@@ -5,8 +5,8 @@ title: OpenAI confirmed it is limiting GPT‑5.6 (Sol, Terra, Luna) to a small g
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: d54a1d9cf3b35b37345fe233817c9878bbc3ff52330e72a23e9d36269abc3e15

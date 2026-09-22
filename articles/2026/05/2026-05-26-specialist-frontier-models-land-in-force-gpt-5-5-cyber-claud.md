@@ -5,8 +5,8 @@ title: 'Specialist Frontier Models Land in Force: GPT-5.5-Cyber, Claude Mythos P
 date: '2026-05-26'
 source: Kersai Research
 url_original: null
-url_canonical: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 28891eb5ed9f0ce23ebb027b6cacb168baba95cb2d3bcfd5035491cbdf71e4b0

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour
 - 2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
+- 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
-- 2026-09-19-vals-raises-40m-to-become-the-independent-standard-for-ai-be
 embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-09-19-vals-raises-40m-to-become-the-independent-standard-for-ai-be]]
+**Related:** [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour]] · [[2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]]
 <!-- graph:end -->

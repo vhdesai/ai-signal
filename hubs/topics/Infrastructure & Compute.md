@@ -1,27 +1,57 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1935
+member_count: 1965
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1935 connected article(s).
+> Auto-generated topic hub. 1965 connected article(s).
 
+- `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
+- `2026-09-22` [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m|OpenAI Claims Internal Model Solved 100+ Long-Standing Open Math Problems in One Month]]
+- `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
+- `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
+- `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
+- `2026-09-22` [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob|Anthropic Builds a Bay Area Wet Lab Where Claude Directs Robotic Experiments]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
+- `2026-09-22` [[2026-09-22-ai-assisted-team-closes-the-last-open-case-of-the-inverse-ga|AI-Assisted Team Closes the Last Open Case of the Inverse Galois Problem]]
+- `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
 - `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
+- `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales Unveils HexaForce as European-Sovereign Alternative to Palantir NATO Battlefield Stack]]
+- `2026-09-21` [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti|OpenAI Publishes V7 Case Study on Giving AI Agents Institutional Memory]]
 - `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi|NVIDIA's SoL-Pi: AI-Discovered Harness Optimizations Cut Coding-Agent Token Traffic Up to 49%]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
+- `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]
+- `2026-09-21` [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for|Marvell rallies after unveiling 1.6T optical technology for AI networks]]
+- `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
+- `2026-09-21` [[2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto|Google opens preorders for $899 Googlebook, an AI-native laptop built around Gemini]]
+- `2026-09-21` [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a|Google Research: Procedural Graphs Meaningfully Improve LLM Agent Performance]]
 - `2026-09-21` [[2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe|DeepSeek plans major Huawei Ascend deployment to reduce dependence on Nvidia]]
+- `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
+- `2026-09-21` [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge|Alibaba Qwen releases Qwen-Image-2.1, a 7B model for image generation and editing]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
+- `2026-09-21` [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf|ABB Launches Infinitus, a Source-to-Rack Direct-Current Portfolio for 1 MW-per-Rack AI Data Centers]]
+- `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]
 - `2026-09-20` [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a|U.S. and China discuss a mechanism to warn each other about AI national-security incidents]]
 - `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
+- `2026-09-20` [[2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-at-1-per-millio|StepFun Ships Step 5 Preview: 600B Sparse MoE at $1 per Million Input Tokens]]
+- `2026-09-20` [[2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai|Microsoft's StudentSim: Simulated Learners Let AI Tutors Train Faster and Beat GPT-5.4]]
 - `2026-09-20` [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr|Jensen Huang rejects AI extinction warnings as “doomsday narratives”]]
 - `2026-09-20` [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul|Huang: AI CEOs calling for regulation “must be doing it for ulterior reasons”]]
 - `2026-09-20` [[2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi|Google open-sources EnvHarness for training agents in evolving environments]]
+- `2026-09-20` [[2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k|Google Publishes AX, an Apache 2.0 Agentic Orchestrator for Kubernetes]]
 - `2026-09-20` [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal|Big Tech uses guarantees to keep $300B of AI exposure off balance sheets]]
 - `2026-09-20` [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp|Big Tech is using guarantees to keep roughly $300bn of AI exposure off its balance sheets]]
 - `2026-09-20` [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co|Amazon cuts off Meta’s Muse agent from shopping on Amazon.com]]
+- `2026-09-20` [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache|Alibaba Open-Weights Qwen-Image-2.1 — But Moves It Off Apache 2.0]]
 - `2026-09-19` [[2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai|Young workers in China turn burnout and unemployment into AI startup formation]]
 - `2026-09-19` [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib|TypeSafe AI’s Jev gains attention as a model for typed, calibrated decisions]]
 - `2026-09-19` [[2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp|Trump floats a federal AI czar and an “AI Force” modeled on Space Force]]

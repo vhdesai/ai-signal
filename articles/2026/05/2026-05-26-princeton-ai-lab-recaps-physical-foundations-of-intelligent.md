@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton's AI Lab posted a recap and full video from its faculty workshop on th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
+**Related:** [[2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie]] · [[2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi]] · [[2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware]]
 <!-- graph:end -->

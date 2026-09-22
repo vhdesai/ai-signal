@@ -5,8 +5,8 @@ title: 'Google I/O 2026 Keynote: Gemini 4.0 Preview, Gemini Omni, Android XR Gla
 date: '2026-05-19'
 source: The Indian Express
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 675272339ee2468f6ae6e1d7db0bc00e3cc12432249530547a0580e00cf07555

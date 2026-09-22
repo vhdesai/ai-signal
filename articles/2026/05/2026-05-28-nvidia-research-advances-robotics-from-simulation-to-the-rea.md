@@ -4,8 +4,8 @@ title: NVIDIA Research advances robotics from simulation to the real world at IC
 date: '2026-05-28'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: d47acf4925636f92ff0b94c5a156ee3c6b302dc99bd49b03d664faea0eb1410d

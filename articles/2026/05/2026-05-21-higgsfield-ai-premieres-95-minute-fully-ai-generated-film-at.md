@@ -4,8 +4,8 @@ title: Higgsfield AI Premieres 95-Minute Fully AI-Generated Film at Cannes Trend
 date: '2026-05-21'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://letsdatascience.com/news/higgsfield-debuts-ai-generated-film-at-cannes-fee1a121
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 5a606bae671bcb7bc5df17b244f61410770dfb26b7361212afd51a2499e5d844
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield
 - 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
+- 2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr
 embedding_id: 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Higgsfield AI premiered Hell Grind — a 95-minute feature film generated entire
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]]
+**Related:** [[2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation]] · [[2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield]] · [[2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]] · [[2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: A new educational repository, "ai-engineering-from-scratch," is climbing 
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://orangebot.ai/sources/github-trending
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 49852172dae39ac3e733ea17007fcdd10b74f6410dd0e1222010107589e279cc

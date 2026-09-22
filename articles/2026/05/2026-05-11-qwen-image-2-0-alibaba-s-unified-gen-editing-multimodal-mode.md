@@ -4,8 +4,8 @@ title: 'Qwen-Image-2.0: Alibaba''s Unified Gen + Editing Multimodal Model'
 date: '2026-05-11'
 source: arXiv / alphaXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.10730
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: e58ee6cd9543f76aaf12b2c1127c37d08a47b2dc86ad761cbba27118ba359f98
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
+- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
+- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
-- 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
-- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 embedding_id: 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's Qwen team released Qwen-Image-2.0, a unified foundation model for high
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
+**Related:** [[2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge]] · [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]]
 <!-- graph:end -->

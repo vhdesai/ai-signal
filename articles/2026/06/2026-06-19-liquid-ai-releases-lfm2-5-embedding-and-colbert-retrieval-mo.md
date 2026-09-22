@@ -4,8 +4,8 @@ title: Liquid AI releases LFM2.5 embedding and ColBERT retrieval models
 date: '2026-06-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/
-url_canonical: https://www.liquid.ai/blog/lfm2-colbert-350m-one-model-to-embed-them-all
-url_status: repaired
+url_canonical: https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 2124ca5c64c5f9fa7b820d0e87c8c17cec66c1aa730fad715e7aecff2634571b
 normalized_title_hash: 5a358f98cbf16feb

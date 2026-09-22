@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-13-aws-releases-pizza-bot-an-open-source-inbox-for-background-a
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
+- 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
-- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 embedding_id: 2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AWS released Pizza Bot, an open-source inbox primitive for background AI agents 
 
 **Entities:** [[Amazon]] · [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-13-aws-releases-pizza-bot-an-open-source-inbox-for-background-a]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]]
+**Related:** [[2026-09-13-aws-releases-pizza-bot-an-open-source-inbox-for-background-a]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
 <!-- graph:end -->

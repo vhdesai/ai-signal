@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+- 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 embedding_id: 2026-09-13-beijing-pushes-ai-assisted-eda-chip-design-as-pillar-of-semi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Empyrean Technology, China's leading domestic EDA vendor, is aggressively deploy
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
+**Related:** [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]]
 <!-- graph:end -->

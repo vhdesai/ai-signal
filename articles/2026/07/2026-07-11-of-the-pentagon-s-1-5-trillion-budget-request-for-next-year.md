@@ -5,8 +5,8 @@ title: Of the Pentagon's $1.5 trillion budget request for next year, about $55 b
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://legis1.com/news/pentagon-defense-budget-2027-1-seeks-145t
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: f08beda8c66012567bb88d54ee9a0991e6afe1797d82aaceffa729a7250778e0
 normalized_title_hash: e831da9592a1d3b7
