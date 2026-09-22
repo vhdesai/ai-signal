@@ -5,8 +5,8 @@ title: 'Anthropic''s biggest-ever week included six major announcements in five 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiweekly.co/issues/anthropic-just-had-ais-biggest-week-of-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 2b704638bc1c3216c5f803bf586a9f6068f1d6527798587a1f6b42ea27da66c2

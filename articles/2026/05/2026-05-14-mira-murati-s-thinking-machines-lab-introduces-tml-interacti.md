@@ -5,8 +5,8 @@ title: Mira Murati's Thinking Machines Lab introduces TML-Interaction-Small, a 2
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 001a4705270a68ff06652e612dd90222115912db55b2dc27525683515ef03e98

@@ -4,8 +4,8 @@ title: Microsoft Eliminates ~4,800 Roles as AI Reshapes How Work Gets Done
 date: '2026-07-06'
 source: TechCrunch · The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.foxbusiness.com/fox-news-tech/microsoft-ai-layoffs-workforce-restructuring
+url_status: repaired
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: db01ae7f6e44c559410f850f2a5c1ff3877febd0d46dbf295dd96e479424ca43

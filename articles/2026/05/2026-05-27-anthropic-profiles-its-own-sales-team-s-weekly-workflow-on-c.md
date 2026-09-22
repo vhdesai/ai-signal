@@ -5,8 +5,8 @@ title: Anthropic profiles its own sales team's weekly workflow on Cowork — Ant
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/webinars/how-anthropics-sales-leader-runs-his-week-with-claude
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: bf3a5918729cf809d970ac3966d7e883ba64494975506309bd15559f1614e2ee

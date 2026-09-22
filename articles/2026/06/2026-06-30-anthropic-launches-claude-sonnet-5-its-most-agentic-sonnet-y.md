@@ -4,8 +4,8 @@ title: Anthropic launches Claude Sonnet 5, its "most agentic Sonnet yet"
 date: '2026-06-30'
 source: TechRepublic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-sonnet-5
+url_status: repaired
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 615f165d8468653d0ffc246412aecda47c267f107916ee081e31047a6dacc32f

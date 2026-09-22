@@ -5,8 +5,8 @@ title: New ByteDance PersonaVLM Achieves 22.4% Performance Boost Through Multimo
 date: '2026-05-08'
 source: ToolsCompare.ai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2604.13074
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 92a58509f8ac139d9884e479be63aedfc4e9f30321549376d1fb6dcd981f9944

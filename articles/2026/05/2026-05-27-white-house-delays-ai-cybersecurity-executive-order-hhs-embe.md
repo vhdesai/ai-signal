@@ -4,8 +4,8 @@ title: White House delays AI cybersecurity executive order; HHS embeds AI in ove
 date: '2026-05-27'
 source: JD Supra / Mintz
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.jdsupra.com/legalnews/trump-white-house-issues-executive-4760173/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: f63ac19bf03af4eca69c40e52d3bfede74cf372598e3f04ed34a787315121e3a

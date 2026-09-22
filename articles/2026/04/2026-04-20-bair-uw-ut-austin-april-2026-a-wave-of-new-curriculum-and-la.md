@@ -5,8 +5,8 @@ title: BAIR / UW / UT Austin • April 2026 A wave of new curriculum and lab ann
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.opus.pro/blog/ai-agents-news-april-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 69d3bd3c6b53e43c5f7af3d3a64b4b48f1f7dab2531bf87aa03b1cbfa16c3afc

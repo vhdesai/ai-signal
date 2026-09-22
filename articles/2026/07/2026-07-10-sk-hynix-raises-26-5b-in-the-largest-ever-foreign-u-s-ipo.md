@@ -4,8 +4,8 @@ title: SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO
 date: '2026-07-10'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+url_status: repaired
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 422ad45637a90c4712415b52c895cba0ca2ec994bf68a5f1b62d496bf0b6b2da

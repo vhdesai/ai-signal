@@ -4,8 +4,8 @@ title: Cyera Raises $600M, Becomes One of the Most Valuable AI-Era Cybersecurity
 date: '2026-06-10'
 source: The New York Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cyera.com/press-releases/cyera-raises-600-million-at-12-billion-valuation-to-continue-building-the-trust-layer-for-the-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-06-10_060030_Daily-AI-News-Digest.md
 content_hash: fb07e2cde358b8978caf9c0253a2527237c896e6fc77d345c564241c46fb006d
 normalized_title_hash: 0fbd3e1063442f9f

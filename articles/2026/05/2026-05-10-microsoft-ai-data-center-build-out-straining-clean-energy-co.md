@@ -4,8 +4,8 @@ title: Microsoft AI Data Center Build-Out Straining Clean Energy Commitments
 date: '2026-05-10'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 7ff0b40f8cccb005a8e2a6dd2b16fb43ab5ea66ad693f85582973bd2b93fb5fd

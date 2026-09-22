@@ -4,8 +4,8 @@ title: Microsoft Copilot multi-model story and Agent 365 take shape post-confere
 date: '2026-05-25'
 source: Vlad Talks Tech / Microsoft 365 Conference 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/copilot/blog/2026/03/09/powering-frontier-transformation-with-copilot-and-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 36f4efdff5c37e3968d30f8611f038b1f935a82ed392a36c8195c57c48ee6be4

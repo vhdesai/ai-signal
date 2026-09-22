@@ -5,8 +5,8 @@ title: 'Stanford HAI 2026 AI Index: Capability Accelerating, Adoption at 88% of 
 date: '2026-05-21'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 200a5ef1ae63b6f5e8627da178cc3a4a7ac06d1b436e560b09f3d16e4b82fd30

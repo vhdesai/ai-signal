@@ -4,8 +4,8 @@ title: 'Qwen-Image-2.0: Alibaba''s Unified Gen + Editing Multimodal Model'
 date: '2026-05-11'
 source: arXiv / alphaXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.10730
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: e58ee6cd9543f76aaf12b2c1127c37d08a47b2dc86ad761cbba27118ba359f98

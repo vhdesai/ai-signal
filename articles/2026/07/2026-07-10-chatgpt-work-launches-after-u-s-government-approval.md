@@ -4,8 +4,8 @@ title: ChatGPT Work launches after U.S. government approval
 date: '2026-07-10'
 source: Yahoo Tech
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/chatgpt/article/openai-launches-both-gpt-56-and-chatgpt-work-after-approval-from-the-us-government-150044321.html
+url_status: repaired
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 72a99a02b6bc346c920faf0f1232c0ce48e85d6aae74c17884adc5f1181ec065

@@ -4,8 +4,8 @@ title: Meta acquires Assured Robot Intelligence to accelerate humanoid AI ambiti
 date: '2026-05-04'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 60a0ead503bd986a6ba4e6b297e5db089873576f13b1681a31ca7dfabf078457

@@ -4,8 +4,8 @@ title: Frontier AI Models Now Discover Security Vulnerabilities at Rapid Pace
 date: '2026-05-19'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/frontier-ai-rapid-discovery-security-vulnerabilities/820400/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: eeee52ca01c45a33df92a42596a0dcf9d0b6cd807f4e8b2fafd47da75ff0d191

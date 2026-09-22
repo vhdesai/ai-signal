@@ -5,8 +5,8 @@ title: Databricks made its ai_parse_document function generally available by def
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://docs.databricks.com/aws/en/sql/language-manual/functions/ai_parse_document
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 382484569140e2b2e77f653c92fe9dcf0fc370b704393d36b76a6d0c94bb600c

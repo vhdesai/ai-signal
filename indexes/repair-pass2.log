@@ -1,0 +1,15 @@
+{
+  "command": "repair-urls",
+  "result": {
+    "attempted": 3062,
+    "repaired": 1566,
+    "unresolved": 1496,
+    "skipped": 89,
+    "reverted": 4,
+    "deferred": 3118,
+    "terminated": "timeout",
+    "elapsed_s": 3617.8,
+    "max_workers": 10
+  },
+  "run_log": "indexes\\runs\\run-20260921T213928+0000-4c5924.json"
+}

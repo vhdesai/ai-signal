@@ -4,8 +4,8 @@ title: Alibaba to bar employees from Anthropic's Claude Code, citing security co
 date: '2026-07-03'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cryptobriefing.com/alibaba-bans-claude-code-security-risks/
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: d54227b7e3987daf18b395eeea5cef8c1f97e227c9a1bba6145818d68c36c4b5

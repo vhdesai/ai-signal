@@ -5,8 +5,8 @@ title: 'MIT / Acemoglu (QJE): Firms Systematically Use Automation to Suppress Wa
 date: '2026-05-11'
 source: 📅 May 11, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://shapingwork.mit.edu/news/mit-news-study-firms-often-use-automation-to-control-certain-workers-wages/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: f1a9a90fc65ee4311bc209198a33ebc51dfebcf4049fe386e10299fe975560d6

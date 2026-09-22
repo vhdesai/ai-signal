@@ -5,8 +5,8 @@ title: conference proceedings published through Springer today highlight Purdue 
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://link.springer.com/book/10.1007/978-981-95-7829-0
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: f718ee8e81525ce7bda4713b5264616a7651e68ccf1b25c17d59b1386aa8a10c

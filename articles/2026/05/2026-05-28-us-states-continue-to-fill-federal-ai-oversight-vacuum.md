@@ -4,8 +4,8 @@ title: US States Continue to Fill Federal AI-Oversight Vacuum
 date: '2026-05-28'
 source: 'Source: LegalClarity policy roundup'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/us-ai-policy-crisis-federal-state-patchwork-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 909072631cb9ba3e6b4f384e848aedac956a289d13ed5acc16538f31c0c3e8a2

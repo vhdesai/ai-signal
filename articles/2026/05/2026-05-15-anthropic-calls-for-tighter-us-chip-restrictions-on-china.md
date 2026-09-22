@@ -4,8 +4,8 @@ title: Anthropic Calls for Tighter US Chip Restrictions on China
 date: '2026-05-15'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: d1052e05a35eb451e162d023202962256e2c7bbecc1c12aaa9144e367819efd3

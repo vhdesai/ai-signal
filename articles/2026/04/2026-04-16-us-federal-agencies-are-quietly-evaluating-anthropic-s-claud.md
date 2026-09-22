@@ -5,8 +5,8 @@ title: US federal agencies are quietly evaluating Anthropic's Claude Mythos mode
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/us-agencies-test-anthropic-models-despite-pentagon-blacklist-6e2d81a8
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 6221f9614b1d74dd08348d3dfb2a329924dcdee790b46cb6042c454ebab027ef

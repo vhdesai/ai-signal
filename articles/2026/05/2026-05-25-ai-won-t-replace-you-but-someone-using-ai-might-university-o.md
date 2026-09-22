@@ -4,8 +4,8 @@ title: '"AI won''t replace you, but someone using AI might" – University of Va
 date: '2026-05-25'
 source: ScienceDaily
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.sciencedaily.com/releases/2026/05/260525000448.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 12b7aa06ac83a069d2e3856e0de9768cc3a004b737610bf5e5a0dbd7e29c3fd3

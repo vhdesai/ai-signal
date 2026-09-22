@@ -4,8 +4,8 @@ title: Nvidia H200 China Sales Approved — But No Chips Shipped as Standoff Con
 date: '2026-05-15'
 source: TechRepublic / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://toptechnews.net/articles/nvidia-h200-china-approval-restart-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: b6dc26d6631fc1d30e95b68e69cc60ae8e771e1e5df327476bb85cc3b01dd52f

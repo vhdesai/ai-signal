@@ -5,8 +5,8 @@ title: AI chip maker Cerebras Systems disclosed IPO terms seeking to raise up to
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/cerebras-ipo-filing-510m-revenue-openai-deal-23b-valuation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: d08206bc723ec065e28f3836af14fedad90d541156a667d8f99b3aa3edab9559
 normalized_title_hash: 83f4693537db150c

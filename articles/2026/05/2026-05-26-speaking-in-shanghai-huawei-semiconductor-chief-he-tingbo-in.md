@@ -5,8 +5,8 @@ title: Speaking in Shanghai, Huawei semiconductor chief He Tingbo introduced "Lo
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thetechmarketer.com/huawei-chip-breakthrough-2026-tau-scaling-law-logicfolding/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a9ec0881e09d1cf7b26e558207b1cb0291e7fc1bc2b8b08d9d83e3ef96d549cf

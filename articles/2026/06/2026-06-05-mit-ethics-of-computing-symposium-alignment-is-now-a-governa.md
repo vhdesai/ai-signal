@@ -4,8 +4,8 @@ title: 'MIT Ethics of Computing Symposium: Alignment Is Now a Governance Questio
 date: '2026-06-05'
 source: MIT News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-symposium-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 87538b4e0dfdb0ebc794c0b3cfdf86961dc908fcd5f534d84d49ee1321867510

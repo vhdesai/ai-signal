@@ -4,8 +4,8 @@ title: TetraMem and SK hynix Demonstrate a Memristor-Based In-Memory Computing S
 date: '2026-07-08'
 source: Business Wire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businesswirechina.com/en/news/63464.html
+url_status: repaired
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 826eb81007fe29eecd6cafcae4cc860d7d6e352a85e94c061e13599a258194d9

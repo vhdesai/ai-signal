@@ -5,8 +5,8 @@ title: Anthropic released research on Natural Language Autoencoders, a novel tec
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/natural-language-autoencoders
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 7a482fef236ec1076f139972784886077a3aeea9f1eeef983c0a09053330a79d
 normalized_title_hash: 6e1b5cc631e8b7b7

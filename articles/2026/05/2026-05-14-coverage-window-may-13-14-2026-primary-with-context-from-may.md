@@ -4,8 +4,8 @@ title: 'Coverage window: May 13–14, 2026 (primary) with context from May 1–1
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 2749168fcaea1fccbc1928b91ca23d99223248dd853a78b9280b6538692a275b

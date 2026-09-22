@@ -4,8 +4,8 @@ title: DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fun
 date: '2026-06-03'
 source: Bloomberg; Reuters; TechNode
 url_original: https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal
-url_canonical: https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal
-url_status: broken
+url_canonical: https://business20channel.tv/deepseek-2026-74b-first-round-at-59b-led-by-tencent-catl-04-06-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 8e3ffabc1e85962ac3128653b36da2b4dc4b40f0d2a5228667269a7f7f040a29

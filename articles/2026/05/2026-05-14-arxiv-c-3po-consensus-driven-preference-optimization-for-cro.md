@@ -5,8 +5,8 @@ title: '[arXiv] C-3PO: Consensus-Driven Preference Optimization for Cross-Lingua
 date: '2026-05-14'
 source: arXiv:2605.12515  · cs.CL
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.12515
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: dd62be1a29a5c8234afe889d8320ebf3d18921cf57fd4bdf1887ea99311a9352

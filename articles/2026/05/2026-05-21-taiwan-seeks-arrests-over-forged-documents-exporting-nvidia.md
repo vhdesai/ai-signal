@@ -5,8 +5,8 @@ title: Taiwan Seeks Arrests Over Forged Documents Exporting Nvidia Chips to Chin
 date: '2026-05-21'
 source: Bloomberg / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.straitstimes.com/asia/east-asia/taiwan-seeks-to-detain-three-in-nvidia-smuggling-crackdown
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: b6d6bc4ddb6865a1f04de346f404bf1049b869c67db80c6e86d7de4982fcb04c

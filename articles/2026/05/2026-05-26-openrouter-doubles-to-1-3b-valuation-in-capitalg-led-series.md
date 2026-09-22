@@ -6,8 +6,8 @@ source: OpenRouter raised a $113M Series B at a $1.3B valuation led by CapitalG 
   a doubling that underlines the explosion of agent-economy plumbing and model-routing
   as a discrete category. May 26, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openrouter.ai/blog/announcements/series-b/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_072958_Inbox_Daily AI News Digest –– May 27,
   2026 (Updated).md
 content_hash: 1715edf2c778ffe4ab7a25afd13423d7859b6503db7c43d4492fc62a16b23a36

@@ -5,8 +5,8 @@ title: Oracle Fusion Data Intelligence Deployed at Heathrow, MTN — Cloud Reven
 date: '2026-05-21'
 source: 'Source: Oracle Newsroom'
 url_original: https://www.oracle.com/news/
-url_canonical: https://www.oracle.com/news/
-url_status: broken
+url_canonical: https://www.prnewswire.com/news-releases/oracle-fusion-data-intelligence-helps-organizations-across-the-world-accelerate-ai-driven-decision-making-302778597.html
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 290b28f0d8cbf5a3fc8cc0dbea584aaa1fa145d5dbc5b0dc211fb55a38b9c867

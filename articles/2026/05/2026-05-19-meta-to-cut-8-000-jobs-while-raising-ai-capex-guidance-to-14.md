@@ -4,8 +4,8 @@ title: Meta to cut 8,000 jobs while raising AI capex guidance to $145B
 date: '2026-05-19'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
-url_canonical: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
-url_status: broken
+url_canonical: https://aisheetreport.com/articles/meta-capex-2026-guidance-layoffs/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 894a63381ffdcee1aead8aa9809246924c70030d3927f8a5159978f133d94a41

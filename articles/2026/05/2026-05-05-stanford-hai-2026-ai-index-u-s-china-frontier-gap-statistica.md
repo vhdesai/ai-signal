@@ -4,8 +4,8 @@ title: 'Stanford HAI 2026 AI Index: U.S.–China frontier gap statistically eras
 date: '2026-05-05'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 3c06cad0b544f68033e01ea5a99bac1ee685c0f6a6045d3fcac9cb628b079a5e

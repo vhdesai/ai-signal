@@ -5,8 +5,8 @@ title: Crypto exchange OKX launched "OKX AI," a developer marketplace where auto
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
+url_status: repaired
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 7e7aa66a5e04275823909855b65cda6d689162eb70d4cdf21799da60bdf84b40

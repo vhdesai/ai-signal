@@ -4,8 +4,8 @@ title: 'VeriTrace: evolving mental models for deep-research agents'
 date: '2026-05-26'
 source: arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.26081
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: dd8f6120cf0ebc5ad65cf034216b3bc9300de898c943e16bee904371aa9de542

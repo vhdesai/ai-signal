@@ -5,8 +5,8 @@ title: DeepSeek is closing in on a $4 billion funding round at a ~$45 billion va
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/318483/20260616/deepseek-closes-74-billion-round-state-fund-gets-votes-other-investors-get-none.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 1669bb84efd31bfd47e72d8de54ef234247c29506b0473333617f78017d5ef04

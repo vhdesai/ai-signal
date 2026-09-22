@@ -4,8 +4,8 @@ title: OpenAI Opens Singapore AI Lab as IMDA Refreshes National AI Framework  Ne
 date: '2026-05-22'
 source: 'Source: AI News'
 url_original: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
-url_canonical: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
-url_status: broken
+url_canonical: https://bytee.org/openai-singapore-ai-lab-imda-ai-framework-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 949939e1c545a9fa2b9b986b286694ef2c6237e1c2a687d84602bfd47b3bafe2

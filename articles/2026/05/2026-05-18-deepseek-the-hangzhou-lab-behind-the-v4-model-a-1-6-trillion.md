@@ -5,8 +5,8 @@ title: DeepSeek — the Hangzhou lab behind the V4 model (a 1.6-trillion-paramet
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.albis.news/perspectives/deepseek-v4-trillion-parameters-huawei-chips-not-nvidia-open-source-ai-march-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: d9bd87038a437a1264d28d3b94a6c630f690069005e06920c4e65105ec243083

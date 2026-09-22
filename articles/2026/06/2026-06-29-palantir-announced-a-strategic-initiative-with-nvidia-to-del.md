@@ -5,8 +5,8 @@ title: Palantir announced a strategic initiative with NVIDIA to deliver an "inte
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://investors.palantir.com/news-details/2026/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments/
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 9cdfd78293e6b9b64559a6c4302460f5c1cd347ae409c408f16abeb1396f9467

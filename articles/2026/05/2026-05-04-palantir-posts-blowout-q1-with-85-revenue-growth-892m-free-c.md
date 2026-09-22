@@ -4,8 +4,8 @@ title: Palantir posts blowout Q1 with 85% revenue growth, $892M free cash flow
 date: '2026-05-04'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.stocktitan.net/sec-filings/PLTR/8-k-palantir-technologies-inc-reports-material-event-fee6758d6a17.html
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: ab0cdbaaef5c1e4d0ad5873cf5fe0d513a38712794232b2f7bd399f41d7dad1e

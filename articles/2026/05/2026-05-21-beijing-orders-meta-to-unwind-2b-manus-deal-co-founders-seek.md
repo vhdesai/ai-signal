@@ -5,8 +5,8 @@ title: Beijing Orders Meta to Unwind $2B Manus Deal; Co-Founders Seek $1B+ Buyba
 date: '2026-05-21'
 source: Bloomberg / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/318377/20260615/beijing-forces-meta-unwind-its-2-billion-manus-deal-offshore-move-was-no-escape.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: b5f5a8861dd230fcef689f7884778618409d5af042f8c52467115b5b8f0dbbd2

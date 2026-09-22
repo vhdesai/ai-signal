@@ -4,8 +4,8 @@ title: OpenAI targets ~$60B IPO at $1T+ valuation, racing SpaceX
 date: '2026-05-26'
 source: The Corner
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/spacex-openai-anthropic-ipo-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: ea5ff3e7281a1445e2b4b8e63b93b0381b3806bde3acc48b3c87192efe049e6f

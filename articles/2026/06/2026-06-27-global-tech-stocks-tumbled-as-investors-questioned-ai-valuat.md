@@ -5,8 +5,8 @@ title: Global tech stocks tumbled as investors questioned AI valuations and data
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 1665aa2688c115c9d340c76e95333eb2fa71800c27f6840999cec1942760cc7a

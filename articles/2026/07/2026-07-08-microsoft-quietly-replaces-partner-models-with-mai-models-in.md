@@ -4,8 +4,8 @@ title: Microsoft quietly replaces partner models with MAI models in Excel and Ou
 date: '2026-07-08'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://office-watch.com/2026/microsoft-mai-models-excel-outlook/
+url_status: repaired
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 22f827be5d01d5f75e3ce188ce06b7f58023858ab6cfbbda3cdf6471b3fed7ab

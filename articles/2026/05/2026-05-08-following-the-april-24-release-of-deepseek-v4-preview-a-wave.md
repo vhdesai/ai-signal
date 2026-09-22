@@ -5,8 +5,8 @@ title: Following the April 24 release of DeepSeek V4 Preview, a wave of Chinese 
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techwireasia.com/2026/04/deepseek-v4-huawei-ai-chips/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 861c85805b4d02c001b7af741ea0103eb0fb96502013db0285c1c747a37f6239
 normalized_title_hash: 68ac4a71cb87df89

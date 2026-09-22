@@ -4,8 +4,8 @@ title: Utah enacted legislation making it the first U.S
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gtlaw.com/en/insights/2024/4/utah-enacts-first-ai-focused-consumer-protection-legislation-in-us
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 5238555ba366c12cfcec1bf26f7b70b84060fab69e5a2405c617ee9ac4d0bfdb

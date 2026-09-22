@@ -5,8 +5,8 @@ title: With Anthropic's most advanced models export‑restricted, Chinese cybers
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 47e24f834f5e5260061a48a715775d1dfdb651cb14a0cae4ab20c03834436564

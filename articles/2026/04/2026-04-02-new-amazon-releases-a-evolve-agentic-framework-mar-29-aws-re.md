@@ -5,8 +5,8 @@ title: '[NEW] Amazon Releases A-Evolve Agentic Framework (Mar 29) AWS released A
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ubos.tech/news/a‑evolve-open‑source-framework-automates-agentic-ai-state-mutation-and-self‑correction/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 0b724eebafc1b333f568b39a3f57e4744e4e884ac2b53a8438c08c4e67d3df94

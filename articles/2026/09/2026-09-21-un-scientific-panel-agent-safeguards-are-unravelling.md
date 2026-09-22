@@ -4,8 +4,8 @@ title: 'UN Scientific Panel: Agent Safeguards Are "Unravelling"'
 date: '2026-09-21'
 source: UN News / Unite.AI
 url_original: null
-url_canonical: https://news.un.org/en/story/2026/09/1168380
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-21_065544_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 373726e786d4291ab97962e27e13c627ff3ea097357e2973b9e52258a8616fe9

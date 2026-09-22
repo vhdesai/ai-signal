@@ -4,8 +4,8 @@ title: Anthropic in Talks to Use Microsoft's Maia AI Chips
 date: '2026-05-21'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: bfd64668978fbdbf922468fcd5230e7f34d7f8d64e55ba096885762c237fb4a6

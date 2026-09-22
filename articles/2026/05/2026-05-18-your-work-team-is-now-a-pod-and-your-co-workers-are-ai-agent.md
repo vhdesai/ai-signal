@@ -4,8 +4,8 @@ title: Your Work Team Is Now a “Pod” — and Your Co-Workers Are AI Agents
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://article.wn.com/view/2026/05/18/your_work_team_is_now_a_x2018pod_x2019_and_your_coworkers_ar/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: aa03dbcb46ddb91d709f4c50f40cb8219403a431350aa8e37c41175c5805391c

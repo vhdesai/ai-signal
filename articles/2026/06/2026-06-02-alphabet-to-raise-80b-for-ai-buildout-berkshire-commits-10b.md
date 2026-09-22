@@ -4,8 +4,8 @@ title: Alphabet to raise $80B for AI buildout; Berkshire commits $10B
 date: '2026-06-02'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/alphabet-launches-80-billion-capital-110238365.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: 354aa333c57949c1c19a9a8b7236bbe594653801b633f938a63969aac144b8a5
 normalized_title_hash: ff5384428fa06cfa

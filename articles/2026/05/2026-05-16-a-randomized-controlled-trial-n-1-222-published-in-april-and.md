@@ -5,8 +5,8 @@ title: A randomized controlled trial (N=1,222) published in April and still gene
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://scienceblog.com/t-a-randomized-trial-by-metr-found-that-experienced-developers-completed-real-coding-tasks-19-slower-when-allowed-to-use-ai-tools-yet-afterwards-they-estimated-on-average-that-ai-had-made-them-20-fast/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 489dd6b06c5aea6f96b80dcaf895c673806e13916dd343075076d38ae62c2b91

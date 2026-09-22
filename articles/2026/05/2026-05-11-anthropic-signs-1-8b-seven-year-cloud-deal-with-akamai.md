@@ -4,8 +4,8 @@ title: Anthropic Signs $1.8B Seven-Year Cloud Deal With Akamai
 date: '2026-05-11'
 source: 🔗 Bloomberg / Yahoo Finance  · 🏢 Anthropic / Akamai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-1-8-billion-100044638.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 1ab93c621b2d45e3c63f0e872d64c9b8316a5d5704dcbd61619d23f2e80e05be

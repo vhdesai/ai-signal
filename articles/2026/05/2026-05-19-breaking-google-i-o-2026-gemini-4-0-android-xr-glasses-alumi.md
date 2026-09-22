@@ -4,8 +4,8 @@ title: 'Breaking Google I/O 2026: Gemini 4.0, Android XR Glasses & Aluminium OS 
 date: '2026-05-19'
 source: Financial Express
 url_original: https://www.financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729/
-url_canonical: https://www.financialexpress.com/life/technology-google-io-2026-live-updates-gemini-ai-upgrade-android-17-features-xr-smart-glasses-latest-news-4244729/
-url_status: broken
+url_canonical: https://www.techtimes.com/articles/316904/20260520/samsung-google-reveal-gemini-smart-glasses-fall-2026-launch-ios-support-no-data-policy-disclosed.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a18927c8ce4506bcadc888cdf2da3458bfac655e9d36c5ee1a47b5ad20df560a

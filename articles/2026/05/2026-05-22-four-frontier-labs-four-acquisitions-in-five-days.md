@@ -4,8 +4,8 @@ title: Four Frontier Labs, Four Acquisitions in Five Days
 date: '2026-05-22'
 source: TechCrunch / The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://trends.thicket.sh/four-ai-labs-four-acquisitions-five-days-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 15c9d22bd23b557f06a6ee772a99119c24b323aefb35d09436ce1e508e1fc46a

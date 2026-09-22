@@ -4,8 +4,8 @@ title: U.S. nears voluntary framework with AI companies for releasing powerful m
 date: '2026-07-01'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-01/us-in-talks-with-ai-companies-for-voluntary-model-standards-ft-reports
-url_canonical: https://money.usnews.com/investing/news/articles/2026-07-01/us-in-talks-with-ai-companies-for-voluntary-model-standards-ft-reports
-url_status: broken
+url_canonical: https://www.timesofai.com/news/us-nears-voluntary-ai-model-standards-deal/
+url_status: repaired
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 0b700ee2dcb947a69f13ed8a3f58266d11d892f26a1c5c0656c22ccd3a24a495

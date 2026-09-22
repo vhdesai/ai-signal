@@ -4,8 +4,8 @@ title: Anthropic and OpenAI Publish Updated Frontier Safety Commitments
 date: '2026-05-26'
 source: 'Source: Anthropic / OpenAI policy posts'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/responsible-scaling-policy/roadmap
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 28b8d13e97a1232e19d3d2ccf18d0237129de64947e6740a93bd7624e436c422

@@ -4,8 +4,8 @@ title: China's state AI fund backs DeepSeek in up-to-$4B round at $50B valuation
 date: '2026-05-28'
 source: Tech Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f2c325cdf143b738c709f01e191bb14d4fb654fdddd531d2818fc9905f7c9edc

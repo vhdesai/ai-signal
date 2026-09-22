@@ -4,8 +4,8 @@ title: Palantir CEO pushes "SaaS is dead" supply-chain narrative
 date: '2026-05-26'
 source: TheStreet / Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/technologyinvesting/palantir-challenges-core-enterprise-software-rule-says-saas-is-dead/ar-AA2471s5
+url_status: repaired
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 679aff9f7f6bbdff1062f7d6844ab5ee03b4926db226a489985d309ae7793605

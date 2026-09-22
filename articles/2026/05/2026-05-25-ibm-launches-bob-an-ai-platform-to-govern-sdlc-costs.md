@@ -4,8 +4,8 @@ title: IBM Launches "Bob" — an AI Platform to Govern SDLC Costs
 date: '2026-05-25'
 source: AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.breakouttools.com/ai-robotics/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 54e437cfdcbc167b98a205458c2ec65fbd62bfc5f88d668611fb78c69b6f7a44

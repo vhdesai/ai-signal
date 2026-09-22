@@ -4,8 +4,8 @@ title: Mistral Ships Medium 3.5 and Codestral 25.08, Pushes "Vibe Coding" Agents
 date: '2026-05-27'
 source: 'Source: Mistral AI News'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenewstack.io/mistral-vibe-cloud-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 36b7d2846cd36284a8e543aba667fc3dfb7b7e898a763f7078b0c0c3de2c5994

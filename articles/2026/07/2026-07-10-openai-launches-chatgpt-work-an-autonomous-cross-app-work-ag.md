@@ -4,8 +4,8 @@ title: OpenAI launches ChatGPT Work, an autonomous cross-app work agent
 date: '2026-07-10'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
-url_canonical: https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars
-url_status: broken
+url_canonical: https://theagenticreview.com/articles/2026-07-11-openai-launches-chatgpt-work-turning-its-chatbot-into-a-full-autonomous-agent-pl/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 9f700c2ab979a492319c1d9cea7dbd01870ce45e61d06bdae92cd1e0ca4e8460

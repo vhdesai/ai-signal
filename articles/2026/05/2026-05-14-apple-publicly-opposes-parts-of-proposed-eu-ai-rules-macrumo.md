@@ -5,8 +5,8 @@ title: Apple publicly opposes parts of proposed EU AI rules — MacRumors, May 1
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.macrumors.com/2026/05/13/apple-defends-google-against-eu-proposal/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 459b579915c4106e6ef2772e84c97519a42bd33fe01128265b416dc5ed187f77

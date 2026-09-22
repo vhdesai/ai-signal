@@ -4,8 +4,8 @@ title: Orbital Industries raises $50M Series B for AI-discovered exotic material
 date: '2026-05-27'
 source: Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: eeb5c2910381c27b8380b3273db72cff0635a0ca0608ac97137ad576b839639d

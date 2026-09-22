@@ -4,8 +4,8 @@ title: '"Virgin Unicorns": 12 AI Labs Sit at ~$130B Valuation With Zero Revenue'
 date: '2026-05-24'
 source: GeekWire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.apievangelist.com/blogs/geekwire-2026-05-24-etzioni-on-ai-the-virgin-unicorns/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 2cb7942d1a760d869291815c7ab02a88fd30e80f1ef058884f6acd38dadf18f6

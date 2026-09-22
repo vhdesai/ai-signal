@@ -4,8 +4,8 @@ title: Andrej Karpathy leaves independent work to join Anthropic's pretraining t
 date: '2026-05-19'
 source: VentureBeat  / TechCrunch
 url_original: https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic
-url_canonical: https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic
-url_status: broken
+url_canonical: https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: fc5a0a7003c4dd2e5590a48837cf74bfb1dac5bc2e7cebe3eca476a9a486f592

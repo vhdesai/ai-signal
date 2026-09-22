@@ -5,8 +5,8 @@ title: Boston Dynamics' Spot can now read analog gauges, complete inspection rou
 date: '2026-05-05'
 source: Boston Dynamics
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bostondynamics.com/solutions/inspection/visual/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 68759cf5e55ffb93d780e2f17afb44d6f2b476b37c53e5decce5a0a443f11fd0

@@ -4,8 +4,8 @@ title: First Windows PCs Using Nvidia Chips as Main Processor Debut at Computex
 date: '2026-05-30'
 source: Axios
 url_original: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
-url_canonical: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
-url_status: broken
+url_canonical: https://tech.yahoo.com/computing/articles/first-windows-pc-powered-nvidia-125024556.html
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 2345bccc183825760174b61d07941e7367d28e62a981a252d1ffd54b24827f14
 normalized_title_hash: 4a3131c6e9c674f5

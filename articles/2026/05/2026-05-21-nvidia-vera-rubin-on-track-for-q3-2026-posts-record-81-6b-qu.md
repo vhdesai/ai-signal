@@ -4,8 +4,8 @@ title: 'Nvidia: Vera Rubin on Track for Q3 2026; Posts Record $81.6B Quarterly R
 date: '2026-05-21'
 source: 'Source: OnMSFT / AI News'
 url_original: https://onmsft.com/news/nvidias-vera-rubin-ai-platform-starts-shipping-in-q3-2026-jensen-huang-confirms/
-url_canonical: https://onmsft.com/news/nvidias-vera-rubin-ai-platform-starts-shipping-in-q3-2026-jensen-huang-confirms/
-url_status: broken
+url_canonical: https://marketspeaker.com/nvidia-q2-2026-earnings-vera-rubin/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 152c466b9e47576800f21271b3dc377c20534d36712578d6eb45c748c923a086

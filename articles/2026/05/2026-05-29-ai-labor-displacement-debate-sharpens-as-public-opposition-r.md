@@ -4,8 +4,8 @@ title: AI labor-displacement debate sharpens as public opposition rises
 date: '2026-05-29'
 source: Policy coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.data4thepeople.com/p/the-men-who-vanished
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 18524f351a02e5ffe9a57f98e9b438fe68f394117ca4362831ac09704ce71e97

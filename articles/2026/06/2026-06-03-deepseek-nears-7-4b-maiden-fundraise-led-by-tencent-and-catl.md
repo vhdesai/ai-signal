@@ -4,8 +4,8 @@ title: DeepSeek Nears ~$7.4B Maiden Fundraise Led by Tencent and CATL
 date: '2026-06-03'
 source: Bloomberg; Reuters; CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/06/03/deepseek-slated-to-draw-7-billion-in-maiden-fundraising-sources-say.html
+url_status: repaired
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 14d1cb8408b2c61fd44af0796d66643d951ecb5b1a808c4b24fab464ae85bee1
 normalized_title_hash: 29591f9e68d50ee9

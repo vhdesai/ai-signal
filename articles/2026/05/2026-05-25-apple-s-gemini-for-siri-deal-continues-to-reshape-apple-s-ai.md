@@ -4,8 +4,8 @@ title: Apple's Gemini-for-Siri Deal Continues to Reshape Apple's AI Stack
 date: '2026-05-25'
 source: Tech Insider / Bloomberg coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/apple-google-gemini-siri-deal-1-billion-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 4455af756b6d8a4a8a194cd1ad8f84468936fe7e146704a7d62d49530bbb1168

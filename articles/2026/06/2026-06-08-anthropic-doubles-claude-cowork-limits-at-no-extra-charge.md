@@ -4,8 +4,8 @@ title: Anthropic Doubles Claude Cowork Limits at No Extra Charge
 date: '2026-06-08'
 source: The New Stack
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenewstack.io/anthropic-claude-cowork-promotion/
+url_status: repaired
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: d73aa4783324adcb3aa75347717217f53bfd66832e5e1521860b08db9c304eab
 normalized_title_hash: 324ca3e80912ee11

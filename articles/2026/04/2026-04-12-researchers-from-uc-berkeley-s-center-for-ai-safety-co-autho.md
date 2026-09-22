@@ -11,8 +11,8 @@ title: Researchers from UC Berkeley's Center for AI Safety co-authored a widely-
 date: '2026-04-12'
 source: 🔥 TRENDING Georgia Tech
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: cbd3e544804458e1ccd5c2594346a9c4c6e8214bb66e32e50fc355f285805759

@@ -4,8 +4,8 @@ title: Microsoft Agent 365 Generally Available
 date: '2026-05-02'
 source: Microsoft / AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://learn.microsoft.com/en-us/microsoft-agent-365/overview
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: b79fc0c6ec52cfa2c0ebfdcbf1c8543871817f5e6795e4c04cd0c066d921149b

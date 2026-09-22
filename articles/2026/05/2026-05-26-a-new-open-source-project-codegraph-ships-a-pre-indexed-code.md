@@ -5,8 +5,8 @@ title: A new open-source project, CodeGraph, ships a pre-indexed code knowledge 
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thecrazyalpaca.com/blog/codegraph-pre-indexed-code-knowledge-graph-ai-coding-agents-guide
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 9a9ca31e2d6b417460aab265ca61daef8798c874de50af4418a4c1de41861c19

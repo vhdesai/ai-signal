@@ -5,8 +5,8 @@ title: 'Companies: Nvidia · Google/DeepMind · OpenAI · Anthropic · Mistral �
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.thecodew.com/2026/09/openai-anthropic-google-meta-unleash-new-ai-models-fall-rush.html
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: dff33d06ad072bbf464f6a7951816fc80efb9d67df5d86a51374d01782e7fa9a
 normalized_title_hash: afec6bf37b5178d7

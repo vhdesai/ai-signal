@@ -4,8 +4,8 @@ title: Altman Tries to Turn the Tables on Musk in Contentious Trial Testimony
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: ad0c8ba933afc888c59ed201310c03db5fad4ab64fe35a351db8c591c1800ded

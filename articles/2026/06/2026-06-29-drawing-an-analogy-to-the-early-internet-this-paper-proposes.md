@@ -5,8 +5,8 @@ title: Drawing an analogy to the early Internet, this paper proposes the concept
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.semanticscholar.org/paper/DRAWING-ANALOGIES-Supporting-Creative-Architectural-Yi-Luen-Gross/57fcdab96fa30870b4435ce8880d5a44a339bc8a
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 6a33025ed7b0717860b462b6d2259ddff92cd77c05047e6c8b7087cbd74f0cdf

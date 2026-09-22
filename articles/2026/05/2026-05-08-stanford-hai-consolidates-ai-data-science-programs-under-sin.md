@@ -4,8 +4,8 @@ title: Stanford HAI Consolidates AI & Data Science Programs Under Single Roof
 date: '2026-05-08'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/news/stanford-merges-ai-and-data-science-efforts-under-single-institute
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: ce192abf8db65a091164918beb0003e69888f9daedc2ef75cf3a8f902ef142b0

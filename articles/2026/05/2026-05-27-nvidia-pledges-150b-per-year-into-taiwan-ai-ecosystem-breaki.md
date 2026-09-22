@@ -4,8 +4,8 @@ title: Nvidia Pledges $150B per Year into Taiwan AI Ecosystem Breaking
 date: '2026-05-27'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 392c4dee1c46326e5ef4aa0661669962d48aa3e629f2a1507448f8b1dcf87bd7

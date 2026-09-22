@@ -4,8 +4,8 @@ title: OpenAI Ships GPT-Realtime-2.1 and GPT-Realtime-2.1-mini on the API
 date: '2026-07-06'
 source: OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developers.openai.com/api/docs/models/gpt-realtime-mini
+url_status: repaired
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: a56c953fe0c65fe570325fdd356b6e1f2912d262085a055b75f69145bc11e113

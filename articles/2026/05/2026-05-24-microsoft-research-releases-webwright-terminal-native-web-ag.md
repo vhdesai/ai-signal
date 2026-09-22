@@ -5,8 +5,8 @@ title: Microsoft Research releases Webwright — terminal-native web agent at 60
 date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
-url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_canonical: https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3fee9cde4fc2a0e7d9ca2b08b7d0bbfad1c470b6d57609a192dec076653f857a

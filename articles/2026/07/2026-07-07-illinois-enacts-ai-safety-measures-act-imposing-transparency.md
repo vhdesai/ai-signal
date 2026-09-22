@@ -5,8 +5,8 @@ title: Illinois enacts AI Safety Measures Act, imposing transparency duties on f
 date: '2026-07-07'
 source: JURIST
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gtlaw.com/en/insights/2026/7/illinois-enacts-artificial-intelligence-safety-measures-act
+url_status: repaired
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: ebf0180da6796f7bee6c83efbe02178fd17056acf2cc7fbca7ee0a82ce5f1c9e

@@ -6,8 +6,8 @@ date: '2026-05-27'
 source: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open
   Models'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://devblogs.microsoft.com/foundry/agent-service-build2026/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 Preview - Agents Copilot and Open
   Models.md
 content_hash: bcd3a2ab4e152768744d79a7bf78d161723f5e20db72edbfc841d43b87c1803e

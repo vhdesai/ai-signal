@@ -4,8 +4,8 @@ title: Bull and Foxconn Partner to Scale European AI Manufacturing
 date: '2026-06-01'
 source: HPCwire; Yahoo Finance; Focus Taiwan
 url_original: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
-url_canonical: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
-url_status: broken
+url_canonical: https://finance.yahoo.com/technology/ai/articles/bull-foxconn-advance-european-ai-040000673.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: b5052e9b72d3c1e37c30f243cbc192591d238ca4f6ba3a05a3755bb81013d6d1
 normalized_title_hash: d5378fb61249f0e9

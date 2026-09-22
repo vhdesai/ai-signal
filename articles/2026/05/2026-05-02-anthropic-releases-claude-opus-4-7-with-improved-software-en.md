@@ -4,8 +4,8 @@ title: Anthropic releases Claude Opus 4.7 with improved software engineering cap
 date: '2026-05-02'
 source: ToolsCompare / Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/claude/opus
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: f5d497e3198f52793630a9fc9baea9e5ab8408d93b5b3ce72f550e7f0f5188df

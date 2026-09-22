@@ -5,8 +5,8 @@ title: Replit CEO Amjad Masad disclosed at StrictlyVC that Replit is running at 
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thecompanywire.com/startups/replit-ceo-amjad-masad-to-outline-future-of-ai-driven-coding-at-disrupt-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 7fa0eff83ae58995d2affda3d62e42536bb270a15dc4a8f028a2008193889449
 normalized_title_hash: 37b84c3ed4740cb8

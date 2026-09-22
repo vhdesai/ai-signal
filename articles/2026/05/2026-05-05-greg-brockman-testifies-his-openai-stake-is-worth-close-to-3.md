@@ -4,8 +4,8 @@ title: Greg Brockman testifies his OpenAI stake is worth close to $30B
 date: '2026-05-05'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/greg-brockman-openai-president-elon-musk-trial-testimony-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: af21021f7d6641b29479a6a03c8dd25ade8d165e6841f9c5bd9b3579b9b73382

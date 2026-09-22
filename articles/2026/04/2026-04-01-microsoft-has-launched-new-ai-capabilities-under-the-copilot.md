@@ -5,8 +5,8 @@ title: Microsoft has launched new AI capabilities under the Copilot Cowork brand
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/whats-new
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 44e55efea403fce5e322f6b66a040ad853d6939f079756de1da10033a4519586

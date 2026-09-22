@@ -5,8 +5,8 @@ title: OpenAI confirmed its confidential S-1 filing with the SEC on Friday May 2
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.thenewtimes.tech/en-US/mercados/openai-ipo-confidencial-sec-goldman-morgan-stanley-maio-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3b1d81a4dab94ba6c2f686126d2524e1f75b7197fc4dc68312c4ad8127f9ecf2

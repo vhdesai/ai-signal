@@ -4,8 +4,8 @@ title: Trump Administration Split on Taking Equity Stakes in AI Giants
 date: '2026-06-18'
 source: DealBook (NYT) / Semafor
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: d8dd71b608cb8933f58ca64c11ef8522576093d1b9d85c526d5a7b3e20b187a6
 normalized_title_hash: ddd4e064b2915862

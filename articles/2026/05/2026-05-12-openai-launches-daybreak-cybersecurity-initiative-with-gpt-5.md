@@ -4,8 +4,8 @@ title: 'OpenAI Launches Daybreak: Cybersecurity Initiative with GPT-5.5-Cyber'
 date: '2026-05-12'
 source: The Hacker News | May 12, 2026 · MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 43c6e73733a137ef75c2287515eb60ba8d4b563f6ec55ebace230ed0adb3c38b

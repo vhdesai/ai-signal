@@ -4,8 +4,8 @@ title: 'Analysis: Musk & Zuckerberg Lobbied Trump to Kill the AI Executive Order
 date: '2026-05-22'
 source: 'Source: AI News'
 url_original: https://www.artificialintelligence-news.com/
-url_canonical: https://www.artificialintelligence-news.com/
-url_status: broken
+url_canonical: https://www.techtimes.com/articles/317626/20260602/trump-ai-executive-order-signed-musk-zuckerberg-lobbied-review-down-30-days.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: edf632597a8cd4b988d2611e3aa21a3f01e6f1929395c908aa6d1f991b77da99

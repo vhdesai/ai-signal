@@ -4,8 +4,8 @@ title: Weave launches AI receptionist on Google Gemini Enterprise Agent Platform
 date: '2026-05-28'
 source: Business Wire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.getweave.com/press-releases/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-with-google-clouds-gemini-enterprise-agent-platform-to-transform-healthcare-front-offices/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 34cc5570d80a8182400da650c43c56567a046a0f7b96f50d7fcec6d5983123f7

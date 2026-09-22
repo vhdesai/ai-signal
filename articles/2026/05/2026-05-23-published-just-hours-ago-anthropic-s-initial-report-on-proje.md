@@ -5,8 +5,8 @@ title: Published just hours ago, Anthropic's initial report on Project Glasswing
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/glasswing-initial-update
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 0226811fc197cd3b375a9ffd5b63f21f8a03b2e83eef64bb6080d65046ed5e74

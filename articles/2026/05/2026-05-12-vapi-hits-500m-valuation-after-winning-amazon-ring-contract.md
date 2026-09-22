@@ -4,8 +4,8 @@ title: Vapi hits $500M valuation after winning Amazon Ring contract over 40 riva
 date: '2026-05-12'
 source: TechCrunch Daily
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 3376d4f9195db88128d78d8a1ffe24f2fe4e474e2ad357c30d9e6d83004ed14b

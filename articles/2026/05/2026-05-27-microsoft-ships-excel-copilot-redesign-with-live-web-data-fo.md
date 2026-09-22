@@ -4,8 +4,8 @@ title: Microsoft ships Excel Copilot redesign with live web-data formulas
 date: '2026-05-27'
 source: Windows Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://excel.cloud.microsoft/create/en/copilot-in-excel/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 6f1d85cb74d3a261812be8367bcb0b407f5aa99444a8814d2cef866fd71aa28a

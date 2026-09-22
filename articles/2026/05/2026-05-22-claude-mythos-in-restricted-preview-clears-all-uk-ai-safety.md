@@ -5,8 +5,8 @@ title: Claude Mythos in Restricted Preview — Clears All UK AI Safety Institute
 date: '2026-05-22'
 source: AIToolsRecap / AIHub
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/new-claude-mythos-becomes-the-first-ai-model-to-clear-all-cyberattack-simulations-from-britains-ai-safety-agency/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 8ab8ebbc43e65f797b8856030bb8b24cfda59998bc164b43a90792def8b3b093

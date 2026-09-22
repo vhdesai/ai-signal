@@ -4,8 +4,8 @@ title: Tencent Shares Jump 10% on AI Agent Plans for WeChat
 date: '2026-06-02'
 source: South China Morning Post; Investing.com; Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.scmp.com/tech/big-tech/article/3355651/tencent-shares-jump-expectations-ai-agent-within-wechat-super-app
+url_status: repaired
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 828337a92f1baa7f0662429a130434b784a37b334d78f1dbd158d1dca0e2a529
 normalized_title_hash: 7b8349de1c174461

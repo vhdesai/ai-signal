@@ -5,8 +5,8 @@ title: Hark raised a $700M Series A for what it describes as a "universal" AI in
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 02047df9dba016acec5c955f034958cdc7bac861518a862f9f10b1ffd44388f3

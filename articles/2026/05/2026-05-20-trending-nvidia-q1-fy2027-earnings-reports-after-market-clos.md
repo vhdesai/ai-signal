@@ -4,8 +4,8 @@ title: Trending Nvidia Q1 FY2027 Earnings — Reports After Market Close Today
 date: '2026-05-20'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
-url_canonical: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
-url_status: broken
+url_canonical: https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 17d69e41cf8edd67b61c0f9cfecfda5154f75b6d30e6c08cac6d702ca05e2fad

@@ -4,8 +4,8 @@ title: Anthropic moves to close Chinese firms' backdoor access to Claude
 date: '2026-07-03'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-moves-close-loopholes-allow-040037869.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 8cf04f49f58663d826b00b864a71fb0aef9613f6157b4630d298e6d33f55f3ee

@@ -5,8 +5,8 @@ title: The inaugural ACM Conference on AI and Agentic Systems accepted 61 resear
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/papers/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b33051bd6340d8c6a6c9caebc11bebc7368c0f73b3eb3a1082c1c1d3a50c56a8

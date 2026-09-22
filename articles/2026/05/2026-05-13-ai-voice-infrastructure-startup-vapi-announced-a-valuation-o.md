@@ -5,8 +5,8 @@ title: AI voice infrastructure startup Vapi announced a valuation of $500 millio
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 092d24109e9f7407aa014224f9dcc016c49fa00ce9ce158d72d52a74bd5964eb

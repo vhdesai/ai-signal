@@ -4,8 +4,8 @@ title: Anthropic Overtakes OpenAI in U.S. Business AI Adoption
 date: '2026-05-13'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://vff.ai/article/2026/05/14/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-er
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 17f0cd8d1f4fdeb72176be8b24c0632e0dddfcbcdbb5e2ec147ebc75a4e3609a

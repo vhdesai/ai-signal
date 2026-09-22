@@ -4,8 +4,8 @@ title: DeepSeek Tops Ramp's Trending Vendors as U.S. Companies Chase Cheaper AI
 date: '2026-06-07'
 source: The Decoder; WinBuzzer
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/
+url_status: repaired
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 3c6debc3a968adf3ba44ffe3a32abdc671cfd5609a3049ea9c4a57e5c02c87ff
 normalized_title_hash: 367029b3a589c9a9

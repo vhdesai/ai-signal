@@ -4,8 +4,8 @@ title: SK Hynix rides AI-memory demand to a blockbuster U.S. listing
 date: '2026-07-10'
 source: 'Source: AP News'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/south-koreas-sk-hynix-launch-001753121.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: f48ba636ba20d94e0e02067d0d682665dfbe5fb7c660a5e4dfc6cd1538561e97

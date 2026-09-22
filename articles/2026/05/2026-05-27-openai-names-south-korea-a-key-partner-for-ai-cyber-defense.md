@@ -4,8 +4,8 @@ title: OpenAI names South Korea a key partner for AI cyber defense
 date: '2026-05-27'
 source: UPI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://bladeintel.com/featured/openai-names-south-korea-key-partner-for-ai-cyber-defense/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 569bceadfb804bb9162b85aa86d13430f402164064e590521f3ad80d3681822b

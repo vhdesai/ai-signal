@@ -4,8 +4,8 @@ title: 'RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk'
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.rsaconference.com/usa
-url_status: broken
+url_canonical: https://www.crn.com/rsa-2026
+url_status: repaired
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: ecbd9feeec4319138d5763377761950d7ec0d38901ff739e5bb7f9bf9b1c5df4
 normalized_title_hash: 29e8eb9ea54b6cd0

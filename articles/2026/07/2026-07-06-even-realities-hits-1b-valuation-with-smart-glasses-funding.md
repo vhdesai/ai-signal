@@ -5,8 +5,8 @@ title: Even Realities hits $1B valuation with smart-glasses funding led by Meitu
 date: '2026-07-06'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: 1fb7e6e3cbc1d7ae5d03655bc5806af33044de21898442f6c7979b6d5eabaa1e
 normalized_title_hash: a8f1dbd7af44fb23

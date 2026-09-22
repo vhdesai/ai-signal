@@ -5,8 +5,8 @@ title: Mistral launched its 128B flagship model on May 3, extending its open-wei
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-3-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 08a758c842710be9257ae5684639f98ba9bfc946a02c7145edd5e3d5bcc41720

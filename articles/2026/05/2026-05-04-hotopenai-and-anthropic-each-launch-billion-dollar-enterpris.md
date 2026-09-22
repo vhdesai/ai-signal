@@ -4,8 +4,8 @@ title: HotOpenAI and Anthropic Each Launch Billion-Dollar Enterprise AI Joint Ve
 date: '2026-05-04'
 source: TechCrunch / CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 02c24524fff59df70d079763b84e091e365d9a1b4207985757f6db8eb8d37ec2

@@ -5,8 +5,8 @@ title: Market analysts continue to assess SpaceX's $60 billion all-stock acquisi
 date: '2026-06-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/spacex-acquires-cursor-60-billion
+url_status: repaired
 digest_source: digests\raw\2026-06-19-daily-ai-news-digest.md
 content_hash: 78bd86e32dc14c986890a667888c91224e6b000d27179be43d78156ad3ee1e91
 normalized_title_hash: c044978f7113d9d5

@@ -5,8 +5,8 @@ title: OpenAI Blog • April 18, 2026 OpenAI introduced GPT-Rosalind, a speciali
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aionboarded.ai/news/gpt-rosalind-openai-life-sciences-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 851d049bea85e5c660069bce075e09030968a715bab4fc0ea4292415c6347654

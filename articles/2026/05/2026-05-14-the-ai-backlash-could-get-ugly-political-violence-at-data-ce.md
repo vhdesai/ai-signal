@@ -5,8 +5,8 @@ title: '"The AI Backlash Could Get Ugly" — political violence at data centers 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: fa364ca2f89d91254b7db6cd8897b25079f351e6235fcf2e09e66e5ef98c983f

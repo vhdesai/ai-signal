@@ -5,8 +5,8 @@ title: Anthropic Refuses China Access to Mythos; Pentagon Already Deploying It f
 date: '2026-05-11'
 source: The Neuron / Politico / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.defenseone.com/policy/2026/06/anthropic-suspends-export-control/414178/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 5df54a2f4ddbd6a3b47b5348d8979c70d5f95b70298488a75c549d9e6a923f0c

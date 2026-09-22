@@ -5,8 +5,8 @@ title: Amazon launches GenAI Creators' Fund and Project Nara for AI-made Prime V
 date: '2026-05-28'
 source: Amazon MGM Studios / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://press.amazonmgmstudios.com/us/en/press-release/prime-video-orders-three-new-animated-series-from-
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: ef55c77f9dd30b3af8bc6b8aa6cbf47d3afc4f5a83f45dc424a42e94f30f4b98

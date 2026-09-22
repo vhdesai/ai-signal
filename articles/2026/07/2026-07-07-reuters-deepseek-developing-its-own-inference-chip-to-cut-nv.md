@@ -5,8 +5,8 @@ title: 'Reuters: DeepSeek developing its own inference chip to cut Nvidia and Hu
 date: '2026-07-07'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-ish.com/2026/07/07/deepseek-own-ai-inference-chip-nvidia-huawei/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 58d3d128b70a0bcef264bd4f509eef7a2ce7ebfd99f5fe7db9d072a88544c51b

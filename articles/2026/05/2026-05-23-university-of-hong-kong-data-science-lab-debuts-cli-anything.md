@@ -4,8 +4,8 @@ title: University of Hong Kong Data Science Lab debuts CLI-Anything
 date: '2026-05-23'
 source: 'Source: AIToolly / GitHub Trending'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolly.com/ai-news/article/2026-05-21-cli-anything-hkuds-project-aims-to-provide-native-ai-agent-support-for-all-software
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: a43fafac83e26571f800859731eec965c10548c18c0610a6ced8dff91b367ccb

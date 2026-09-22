@@ -5,8 +5,8 @@ title: Anthropic's next-generation flagship, Claude Mythos, remains restricted t
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fc6ad150396e8238809ca499e315e0b14f6886e7ccdd815ef8adfda90957d692

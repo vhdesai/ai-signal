@@ -5,8 +5,8 @@ title: OpenAI released Codex version 0.133.0 today, enabling Goals by default (b
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theneuralfeed.com/article/openai-s-codex-receives-significant-updates-enhancing-developer-experience-with-/HXut2BFx
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b64126ece0a771c2a6bf38be49a5574b00f7dbcbaa14742d466dd3cda644b0bf

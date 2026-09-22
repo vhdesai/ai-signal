@@ -5,8 +5,8 @@ title: Researchers from UC Berkeley, MIT, and UT Austin published "optimize_anyt
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/papers/optany-unified-text-optimization-can-outperform-specialized-systems/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 79e30a0cdda727dab0da20c0158cf6a87e202cdc511eb462a6ae787a4faf8aa0

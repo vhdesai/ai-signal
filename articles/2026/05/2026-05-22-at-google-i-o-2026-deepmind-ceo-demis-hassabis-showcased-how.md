@@ -5,8 +5,8 @@ title: At Google I/O 2026, DeepMind CEO Demis Hassabis showcased how the company
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b661d282487288b49f2e2c71015ef9f18cc94065ac909e544b9fbb44f39f2950

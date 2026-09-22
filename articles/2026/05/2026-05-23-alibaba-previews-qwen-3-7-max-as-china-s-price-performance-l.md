@@ -4,8 +4,8 @@ title: Alibaba previews Qwen 3.7-Max as China's price-performance leader
 date: '2026-05-23'
 source: 'Source: Codersera AI Releases Roundup'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.zacks.com/stock/news/2966857/alibabas-qwen38-max-intensifies-ai-battle-with-us-rivals
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 867f8c7d00922a385826f388aa6dce15a1faca4bf507de0ba6308e8634727bda

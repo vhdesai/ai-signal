@@ -4,8 +4,8 @@ title: ByteDance offers core AI team special equity to fend off poaching
 date: '2026-05-26'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.usfinancetimes.com/bytedance-offers-special-stock-incentives-to-ai-team-to-combat-poaching.html
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: c06af5f3ecf224dd468b7519da73ee0ac728a7b1f5505218fb886d246a8a5ad6

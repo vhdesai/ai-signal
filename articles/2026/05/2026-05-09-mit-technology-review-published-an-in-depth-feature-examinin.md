@@ -5,8 +5,8 @@ title: MIT Technology Review published an in-depth feature examining the emergin
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://technewsoutlets.com/outlets/mit-technology-review/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: c3fe5fa17c7e57be1f25a66246be07ea1f2cb5bc1fed27e4850b1120a1eaa509
 normalized_title_hash: a3a513a9e10f35f5

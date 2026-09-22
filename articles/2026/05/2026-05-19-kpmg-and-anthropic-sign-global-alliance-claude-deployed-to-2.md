@@ -5,8 +5,8 @@ title: KPMG and Anthropic Sign Global Alliance — Claude Deployed to 276,000 Em
 date: '2026-05-19'
 source: Anthropic / KPMG / Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-and-anthropic-sign-global-alliance-and-launch-digital-gateway-powered-by-claude.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 898960834cb7b3895b2ce69726a810f7c7c1eaa5fc2b13e173794ffc76a25aab

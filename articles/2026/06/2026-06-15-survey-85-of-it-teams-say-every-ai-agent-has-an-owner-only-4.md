@@ -5,8 +5,8 @@ title: 'Survey: 85% of IT teams say every AI agent has an owner — only 42% can
 date: '2026-06-15'
 source: VentureBeat · Ivanti
 url_original: https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them
-url_canonical: https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them
-url_status: broken
+url_canonical: https://saassentinel.com/2026/06/16/it-teams-say-ai-agents-are-under-control-the-numbers-tell-a-different-story/
+url_status: repaired
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: e850c14c3b67d107c50483adf6a5fdbd8c146138d05acdc0e1c626fde09bf425
 normalized_title_hash: 93b0a699204388e1

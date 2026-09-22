@@ -5,8 +5,8 @@ title: PC motherboard sales are forecast to decline more than 25% year-over-year
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tbreak.com/pc-motherboard-sales-crash-ai-prices/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 2d1b922db8e91ba3fcdcb2e6a709f26fe88ba6c5b60a244c1c5134d0080e82e8
 normalized_title_hash: ae6117c7aff044e6

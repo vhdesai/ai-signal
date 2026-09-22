@@ -4,8 +4,8 @@ title: U.S. to Invest $2 Billion in IBM, Other Quantum Computing Firms
 date: '2026-05-21'
 source: U.S. News & World Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnn.com/2026/05/21/business/ibm-quantum-computing-firms-grants
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: cf08bc5868364925d73d90d30a3f68c3716cdbb8661306f448b823f876f7c164

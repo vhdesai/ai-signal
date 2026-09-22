@@ -5,8 +5,8 @@ title: Global venture funding reached $56 billion in April 2026 — the third-hi
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aistartupsnews.com/news/april-sees-56-billion-in-global-venture-funding-third-highest-this-year/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: ae9935ce9bc30a7067ba80b5f06de15ed7a5689b6e0f87a64a6bab86f72e759b
 normalized_title_hash: 64300076740e97a2

@@ -4,8 +4,8 @@ title: 'Axios: Congress Wants In on the Data Center Backlash'
 date: '2026-06-11'
 source: Axios
 url_original: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
-url_canonical: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
-url_status: broken
+url_canonical: https://www.benton.org/content/congress-wants-data-center-backlash-axios
+url_status: repaired
 digest_source: digests\raw\2026-06-11_060053_Daily-AI-News-Digest.md
 content_hash: 59ac18cfd86d3e62864a8bde6e20a980e969984662ff965f12a14755b8f451c3
 normalized_title_hash: 74c6fd8873e9b547

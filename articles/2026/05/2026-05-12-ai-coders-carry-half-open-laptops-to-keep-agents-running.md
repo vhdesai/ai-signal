@@ -4,8 +4,8 @@ title: AI Coders Carry Half-Open Laptops to Keep Agents Running
 date: '2026-05-12'
 source: Business Insider | May 13, 2026 · Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 776729110d42eae49c221e57308dd4bee15f59b6fed55ea3aecbc61c05a70fd3

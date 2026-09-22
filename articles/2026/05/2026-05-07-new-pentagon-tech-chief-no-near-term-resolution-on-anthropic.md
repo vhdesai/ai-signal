@@ -4,8 +4,8 @@ title: 'New Pentagon Tech Chief: No Near-Term Resolution on Anthropic Defense AI
 date: '2026-05-07'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/technology/cybersecurity/pentagon-cto-rules-out-resolution-with-anthropic-calls-mythos-a-broader-cyber-moment/ar-AA22DkGa
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 92fe50ea9b8d223a237b7d33cf7772035065cb2cfcf67fde02d3f66de3271b80

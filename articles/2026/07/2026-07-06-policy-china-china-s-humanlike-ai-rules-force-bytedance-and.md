@@ -5,8 +5,8 @@ title: Policy China China's "humanlike AI" rules force ByteDance and Alibaba to 
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: d3c29509f293f8b37de06067b88929eee16521c4c38e17b0d0875a3e01d7e9eb

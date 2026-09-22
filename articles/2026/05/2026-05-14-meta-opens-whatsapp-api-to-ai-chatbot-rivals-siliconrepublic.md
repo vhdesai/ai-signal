@@ -5,8 +5,8 @@ title: Meta opens WhatsApp API to AI chatbot rivals — SiliconRepublic, May 13,
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.siliconrepublic.com/business/meta-opens-whatsapp-to-rival-ai-chatbots-to-steer-clear-of-eu-ire
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 53f93b8e4ba893e630c4a74b60a2313af3a0dd237df7c974a3a2af51069597cf

@@ -5,8 +5,8 @@ title: 'News & research outlets: WSJ, MarkTechPost, TechCrunch AI, VentureBeat A
 date: '2026-07-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://technewsoutlets.com/best-ai-tech-news-outlets/
+url_status: repaired
 digest_source: digests\raw\2026-07-09_060642_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: d649f9a1f2ca7e85dbfbeeb5ecf59e8a58acc1ec174e5d2beb57f31938e45851

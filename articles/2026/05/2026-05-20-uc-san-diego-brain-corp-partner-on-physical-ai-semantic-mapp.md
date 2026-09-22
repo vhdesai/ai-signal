@@ -5,8 +5,8 @@ title: UC San Diego & Brain Corp partner on Physical AI — semantic mapping for
 date: '2026-05-20'
 source: TMCnet / CNW Press Release  · UC San Diego
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.braincorp.com/resources/brain-corp-and-uc-san-diego-partner-to-advance-the-foundational-intelligence-layer-for-physical-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: ae96f7cf0d7eb2fb9c3f549e54cea497bda033d5d4745d77acf1bedb3a197bf8

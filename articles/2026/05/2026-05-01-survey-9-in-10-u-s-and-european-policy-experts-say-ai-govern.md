@@ -5,8 +5,8 @@ title: 'Survey: 9-in-10 U.S. and European Policy Experts Say AI Governance Is Fa
 date: '2026-05-01'
 source: Povaddo / Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/economy/policy/articles/tipping-point-nine-ten-u-193400544.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 3076e054c85e9f9521fd434a93f1472fb787ecf1c72e40a3151731d56a5e43f1
 normalized_title_hash: 0c8e93547ef2a851

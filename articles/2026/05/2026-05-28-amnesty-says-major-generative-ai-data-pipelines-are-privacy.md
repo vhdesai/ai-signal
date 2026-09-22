@@ -4,8 +4,8 @@ title: Amnesty says major generative AI data pipelines are privacy-invasive by d
 date: '2026-05-28'
 source: Amnesty International
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.amnesty.org.au/enormous-data-pipelines-powering-major-generative-ai-systems-are-rooted-in-mass-invasions-of-privacy-by-design/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 507aede7373689f5a1d7daca6ec7fa9bf677681b91d4aa5f2c67d4b8c31cce91

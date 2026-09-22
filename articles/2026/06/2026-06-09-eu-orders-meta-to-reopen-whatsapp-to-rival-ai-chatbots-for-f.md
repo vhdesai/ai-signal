@@ -4,8 +4,8 @@ title: EU Orders Meta to Reopen WhatsApp to Rival AI Chatbots for Free
 date: '2026-06-09'
 source: Reuters; PPC Land
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-32a42eda
+url_status: repaired
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 877c69b3d1f71de7713e97c244f7f88c8c8542be1615cda797ae6fe45f25a47f
 normalized_title_hash: 4000f3acb6a5fb90

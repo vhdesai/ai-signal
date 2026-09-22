@@ -5,8 +5,8 @@ title: A new audit of 2.5 million biomedical papers led by Columbia University a
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 7601796e3622d7c5c4da522d3136fb14bb87e0f43b047b332111cbc4505a15b9

@@ -5,8 +5,8 @@ title: Helsing, like other far smaller defense start-ups, has already flipped th
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://decode39.com/16625/inside-helsings-push-to-reshape-europes-defense-industry/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 85654c02584277ecb43c02e683ae15d4fdad9bcc624dd4457d0261ac730ea7b3
 normalized_title_hash: 1bedc21b5c34d33f

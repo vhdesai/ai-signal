@@ -5,8 +5,8 @@ title: This philosophy-of-AI manuscript proposes a "radical" rethinking of how i
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.26523
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 2eb10ebbaa2bd1293da68ec6ae310f0cdfcf81cad76365778215c946f18b2f3b

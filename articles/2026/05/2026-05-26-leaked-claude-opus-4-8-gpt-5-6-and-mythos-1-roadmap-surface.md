@@ -4,8 +4,8 @@ title: 'Leaked: Claude Opus 4.8, GPT-5.6, and Mythos 1 roadmap surface in code'
 date: '2026-05-26'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/latest-claude-opus-leak/
-url_canonical: https://www.geeky-gadgets.com/latest-claude-opus-leak/
-url_status: broken
+url_canonical: https://wavespeed.ai/blog/posts/claude-mythos-opus-5-leak-what-we-know/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 61736264613d46bf10c24dda0411eae0029142d8877c61822eb3259b7479b2b5

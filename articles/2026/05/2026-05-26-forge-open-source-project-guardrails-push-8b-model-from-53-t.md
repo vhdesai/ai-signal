@@ -5,8 +5,8 @@ title: 'Forge Open-Source Project: Guardrails Push 8B Model From 53% to 99% on A
 date: '2026-05-26'
 source: Hacker News / TLDL roundup
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.skysynctech.ca/news/forge-guardrails-boost-small-model-agentic-accuracy
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4340018e47d1acc495d11d7252d9f3d307c7e83f015b1098cdc1a666cc84b43d

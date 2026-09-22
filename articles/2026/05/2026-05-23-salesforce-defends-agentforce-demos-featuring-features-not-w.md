@@ -4,8 +4,8 @@ title: Salesforce defends Agentforce demos featuring features not widely availab
 date: '2026-05-23'
 source: Bloomberg via Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-ceo-defends-ai-ads-as-standard-tech-marketing/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: b48f47b830c274cac8bd6554df4bd90f79f1e571cef9cd1de6565629fd1da986

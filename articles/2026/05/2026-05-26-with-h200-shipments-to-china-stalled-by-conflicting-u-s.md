@@ -4,8 +4,8 @@ title: With H200 shipments to China stalled by conflicting U.S
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gurufocus.com/news/8858508/nvidia-wins-china-h200-approval-but-shipments-stall
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3e020ca7d087b6e8c65751e763ed57aa168a65a82d79866fe12b57c7e4ce80f5

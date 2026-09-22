@@ -4,8 +4,8 @@ title: Open models now underpin the bulk of frontier AI research at ICML 2026
 date: '2026-07-06'
 source: NVIDIA Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/open-models-icml-2026/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 818c90b230d3a8b8e72a99b92b2ceba3ed18274bcdc05b5e20dc731244ca2a73

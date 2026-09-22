@@ -4,8 +4,8 @@ title: DeepSeek makes its 75% V4-Pro discount permanent
 date: '2026-05-23'
 source: Bloomberg
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_canonical: https://letsdatascience.com/news/deepseek-makes-75-discount-permanent-on-v4-pro-5e78d825
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 8494e35d0ef14f60208f4ec35b31d50b2d9f2d80e0f796008cf40dc3372099c0

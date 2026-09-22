@@ -5,8 +5,8 @@ title: The Republican-led House Oversight Committee launched an investigation in
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/news/sam-altman-faces-gop-firestorm-100108319.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: d395ea10852ed8f510854ec65033511355b0c6682b5a5c3aa2adecaa6014a499

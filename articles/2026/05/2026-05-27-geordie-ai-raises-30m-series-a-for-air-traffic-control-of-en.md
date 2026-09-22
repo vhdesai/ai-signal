@@ -5,8 +5,8 @@ title: Geordie AI raises $30M Series A for "air traffic control" of enterprise A
 date: '2026-05-27'
 source: Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 4a369236524d78283b1a4b486632cc51a728d8c369ef51cbbecd3d6b063c0e5d

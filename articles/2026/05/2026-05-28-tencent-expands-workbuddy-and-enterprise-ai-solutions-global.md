@@ -4,8 +4,8 @@ title: Tencent expands WorkBuddy and enterprise AI solutions globally
 date: '2026-05-28'
 source: Tencent / Pandaily
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://pandaily.com/tencent-workbuddy-enterprise-edition-jun2026
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 8daa25db9e22769352b58baf216f45dbb528b13f7e45be1414593289a7509b4c

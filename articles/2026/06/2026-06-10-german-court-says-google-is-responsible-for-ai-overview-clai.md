@@ -4,8 +4,8 @@ title: German Court Says Google Is Responsible for AI Overview Claims
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: dda5d4de0581d6eaa01e25a2f9f0e3d613d44d9ac262e9a96ccbd682986120f5
 normalized_title_hash: f22d6af1ef34d649

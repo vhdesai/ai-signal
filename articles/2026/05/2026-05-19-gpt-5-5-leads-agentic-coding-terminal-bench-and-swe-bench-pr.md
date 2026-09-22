@@ -5,8 +5,8 @@ title: GPT-5.5 Leads Agentic Coding; Terminal-Bench and SWE-Bench Pro Scores Set
 date: '2026-05-19'
 source: AI Tools Recap / OpenAI / Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://benchlm.ai/benchmarks/swe-bench-pro
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 629a81d175b5373981dfb5146cf1fbf12d2f3bc1fd99b534a3f0edd83ce8c5d5

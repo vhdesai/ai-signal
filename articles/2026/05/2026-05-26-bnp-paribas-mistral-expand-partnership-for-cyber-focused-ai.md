@@ -4,8 +4,8 @@ title: BNP Paribas, Mistral expand partnership for cyber-focused AI defense
 date: '2026-05-26'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.globalbankingandfinance.com/bnp-paribas-steps-up-mistral-partnership-bolster-rapid-ai/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 303dd877d4c832036991526bd38d7cf96418bbc844bede62ee79729358928ca2

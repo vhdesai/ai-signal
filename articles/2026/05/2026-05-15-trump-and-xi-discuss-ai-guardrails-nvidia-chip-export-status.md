@@ -4,8 +4,8 @@ title: Trump and Xi Discuss AI Guardrails; Nvidia Chip Export Status Remains Unc
 date: '2026-05-15'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/trump-xi-ai-guardrails-nvidia-h200-chips/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 998fc7eac3703eaa18bff5da7e86b14f423b3cc4f3bc5047349168620548e73e

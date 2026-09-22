@@ -5,8 +5,8 @@ title: MIT Open Learning debuted Universal AI, described as "a pathway to AI flu
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openlearning.mit.edu/news/universal-ai-pathway-ai-fluency-thats-accessible-and-approachable-anyone-anywhere
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 45107d234801c06a8d3bd9ee03105405e6680d45bcecb0f40292d1a370cab3f4

@@ -4,8 +4,8 @@ title: Musk warns of AI extinction risk in OpenAI courtroom battle
 date: '2026-05-26'
 source: MSN
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-in/news/other/musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle/gm-GM5B889293
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 85116e4bf0bf979e3f31e224da2dd76be12c34b8733ff8c3ad1c4cfd97766ed7

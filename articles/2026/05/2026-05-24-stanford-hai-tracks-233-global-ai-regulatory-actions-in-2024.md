@@ -4,8 +4,8 @@ title: Stanford HAI Tracks 233 Global AI Regulatory Actions in 2024 — A 56% Yo
 date: '2026-05-24'
 source: Stanford HAI / OECD AI Policy Observatory
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2024-ai-index-report/policy-and-governance
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: aa3e48bafcb90a2440747ae7dce39087e18c273d1ecd77b01577bd76ea4d07c6

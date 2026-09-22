@@ -4,8 +4,8 @@ title: Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI age
 date: '2026-05-29'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.salesforce.com/news/stories/aws-salesforce-enterprise-ai-expansion/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: ca2334da4b7f0e89818b674d3673b5434b149138c0d9c17fa8513e38a7e9990d

@@ -5,8 +5,8 @@ title: Scuderia Ferrari is using IBM's AI stack to generate hyper-personalized c
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibm.com/think/insights/ferrari
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 8ab4d76eec864ac8c7bc8fbcbdbcb628c54a1316d872fbff8d00df52b5b563d4

@@ -5,8 +5,8 @@ title: arXiv cs.AI sustains its May submission cadence as private-lab disclosure
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aperiodical.com/2026/06/aperiodical-news-roundup-april-may-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 5930278c7700e9522a1f84626d3bf087171b288934df7090f89babbd1b1da1d5

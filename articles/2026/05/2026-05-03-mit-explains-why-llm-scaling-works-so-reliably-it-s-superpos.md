@@ -4,8 +4,8 @@ title: MIT Explains Why LLM Scaling Works So Reliably — It's "Superposition"
 date: '2026-05-03'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/mit-study-explains-why-scaling-language-models-works-so-reliably/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 28ac4a9dde8fd5a55621b736c0326ccdd2652807cad84ca98fdedb64442882fd
 normalized_title_hash: 8fe0ad3d7eef6c44

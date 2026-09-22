@@ -5,8 +5,8 @@ title: NVIDIA Research via MarkTechPost • April 14, 2026 (coverage Apr 19) NVI
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/nvidia-ising-quantum-ai-model-35b-param-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 763f356ee7b8c22cc01ca2921f8cd75eaaf94a5c25ef72337dd52e254dfff244

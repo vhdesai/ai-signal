@@ -4,8 +4,8 @@ title: Cisco Shares Jump 18% as Cloud Providers Increase AI Product Orders
 date: '2026-05-14'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.kalkine.com/news/technology/cisco-csco-stock-soars-as-ai-hyperscaler-orders-jump-to-9-billion
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 87b52cbee06a963baa14b270f599de57e8c385da4e1d025f515779a0ebf1b04a

@@ -4,8 +4,8 @@ title: 7 Hidden Gemini Live AI Models Revealed Ahead of Google I/O
 date: '2026-05-11'
 source: 🔗 Forbes  · 🏢 Google
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/gemini/articles/7-hidden-gemini-live-ai-102408106.html
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: c27ded6e0ac9d76e05c1b60e02115e0c4d1c9eface7b7905ec05645b942861ca

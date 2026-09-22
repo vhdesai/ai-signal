@@ -5,8 +5,8 @@ title: OpenAI signed a strategic partnership with Wegovy maker Novo Nordisk cove
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aibizinsider.com/2026/04/19/novo-nordisk-openai-ai-drug-discovery-partnership/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 0f56e0d9d4900a0613051c0f3428969a66fbae12c7d80cc017d9c2b871c4d046

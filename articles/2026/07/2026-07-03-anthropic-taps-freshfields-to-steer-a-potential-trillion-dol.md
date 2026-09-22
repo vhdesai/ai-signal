@@ -5,8 +5,8 @@ title: Anthropic taps Freshfields to steer a potential trillion-dollar IPO as AI
 date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
-url_canonical: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
-url_status: broken
+url_canonical: https://www.siliconreport.com/anthropic-taps-freshfields-for-ipo-advisory-as-secondary-valuation-hits-1-2-trillion-9bb0b1ea
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 21f3a1e1566ba479f0d915b77894d80c4dd3982abb824fe52274f0414cacf696

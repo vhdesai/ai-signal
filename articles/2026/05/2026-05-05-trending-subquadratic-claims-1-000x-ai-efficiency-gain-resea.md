@@ -5,8 +5,8 @@ title: Trending Subquadratic Claims 1,000x AI Efficiency Gain — Researchers De
 date: '2026-05-05'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://vff.ai/article/2026/05/06/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-rese
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 364526ffab649f95b76c5b0dfaf9a9a3e1e52c5e656b34afa6fd53ac4154fdea

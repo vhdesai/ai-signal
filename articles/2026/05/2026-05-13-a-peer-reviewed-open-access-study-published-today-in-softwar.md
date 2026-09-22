@@ -5,8 +5,8 @@ title: A peer-reviewed open-access study published today in Software Quality Jou
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://link.springer.com/article/10.1007/s11219-026-09754-7
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 533e532e32ef19191a01b185a23723855c7e7b8228fd7e1ba57c24830c39e014

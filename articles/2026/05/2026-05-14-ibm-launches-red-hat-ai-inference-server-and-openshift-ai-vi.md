@@ -4,8 +4,8 @@ title: IBM Launches Red Hat AI Inference Server and OpenShift AI Virtualization
 date: '2026-05-14'
 source: Yahoo Finance / IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-05-12-ibm-announces-red-hat-ai-inference-and-red-hat-openShift-virtualization-service-on-ibm-cloud
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ba21ec8d8e50045ef00746f43c8c050100c824ece473ba067f928693ec669514

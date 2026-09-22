@@ -5,8 +5,8 @@ title: Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughou
 date: '2026-07-08'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 61bb3c2af039cb6af797d0c10b1aef23712ed390a41b2a85d1d56074b4456e1e

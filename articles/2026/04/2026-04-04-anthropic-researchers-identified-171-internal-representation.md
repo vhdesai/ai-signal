@@ -5,8 +5,8 @@ title: Anthropic researchers identified 171 internal representations inside Clau
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/emotion-concepts-function
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 60e33b8af4ec35c624ee2db75ba8fce02f9e92fa2a9b6338c9e8dbee74741695

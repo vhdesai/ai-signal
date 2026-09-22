@@ -5,8 +5,8 @@ title: Samsung guides to record Q2 operating profit on AI-memory demand — but 
 date: '2026-07-07'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/samsung-shares-fall-despite-record-122447516.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 913c87a63eaa233ec3a75e993496c3a9672d49546e837ad7a7b4e93e11590a7d

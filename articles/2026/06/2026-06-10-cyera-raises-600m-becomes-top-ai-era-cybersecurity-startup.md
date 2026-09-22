@@ -4,8 +4,8 @@ title: Cyera Raises $600M, Becomes Top AI-Era Cybersecurity Startup
 date: '2026-06-10'
 source: The New York Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.crn.com/news/security/2026/cyera-scores-600m-in-new-funding-boosts-valuation-to-12b
+url_status: repaired
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 892fad9aaf7f321e36aa642980834f2e68946db771bf2bc57cf1ef2690e878e6
 normalized_title_hash: aa3648e23483e05e

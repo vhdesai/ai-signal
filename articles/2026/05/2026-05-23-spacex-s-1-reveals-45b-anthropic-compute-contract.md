@@ -4,8 +4,8 @@ title: SpaceX S-1 reveals $45B Anthropic compute contract
 date: '2026-05-23'
 source: 'Source: SpaceX S-1 / AIToolsRecap coverage'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://perplexityaimagazine.com/ai-news/spacex-ipo-s1-anthropic-125-billion-month-compute-deal-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 1f784ab53586a07ff0c89d63fe1caa0c7aaa9a55e4bf518774a3305f3fa3ab67

@@ -4,8 +4,8 @@ title: SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/softbank-secures-10-billion-loan-105715129.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: 0a9734b357b5335c41f0508de31988e758507aa2456e85c92aad03c6e9afebc6
 normalized_title_hash: 88d086a564b7ccad

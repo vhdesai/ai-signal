@@ -4,8 +4,8 @@ title: US State AI Legislation Surpasses 1,561 Bills Across 45 States
 date: '2026-05-10'
 source: Software Improvement Group
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.softwareimprovementgroup.com/press-center/sig-news-state-of-software-2026-report/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 0d935c4c8e4060ac3af173538bb556da65f3fea5633e3e08b02072ab03831300

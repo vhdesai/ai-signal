@@ -5,8 +5,8 @@ title: HotMicrosoft Releases MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 via 
 date: '2026-05-10'
 source: MSN / Enterprise AI Pivot Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.braincuber.com/tutorial/microsoft-mai-models-azure-transcribe-voice-image-guide
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 7140965d0b5ee8f203dec8e068ff415e545207afb192566a5d9db9a20794f67c

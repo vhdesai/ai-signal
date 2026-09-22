@@ -5,8 +5,8 @@ title: OpenAI published research showing that one of its AI models autonomously 
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aichatdaily.com/ai-models/openai-reasoning-model-disproves-80-year-old-erd-s-geometry
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 35e73482a8f1766655d0fc9e086340329ab11cd85a2b8f3f550dec60a0bcfad2

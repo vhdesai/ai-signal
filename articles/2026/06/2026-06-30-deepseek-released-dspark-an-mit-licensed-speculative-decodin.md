@@ -5,8 +5,8 @@ title: DeepSeek released DSpark, an MIT-licensed speculative-decoding system tha
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/319236/20260628/deepseek-releases-dspark-speculative-decoding-makes-v4-85-percent-faster.htm
+url_status: repaired
 digest_source: digests\raw\2026-06-30_062533_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 51e6ea3e2c3e7956d76e4e9fbf3270f653d1d07e14033d012af5721123670d7f

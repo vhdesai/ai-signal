@@ -4,8 +4,8 @@ title: MICROSOFT CORP DEV · TECHNOLOGY ASSESSMENT
 date: '2026-05-16'
 source: Curated for Vik Desai, Dir Tech Assessment & Int
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://learn.microsoft.com/en-us/assessments/e50f7040-f235-4360-9d1d-cf753e12fed1/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 820a9f099aeb3859086d2718399c2a58564ae26cc9f6dedbb0c9751d8c6ade57

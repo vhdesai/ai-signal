@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Security, trust, governance, and responsible AI'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 4c20025225298bf307d66a80da011fd017e81976d19a6431076eca980af301aa
 normalized_title_hash: 62acf33287e3259c

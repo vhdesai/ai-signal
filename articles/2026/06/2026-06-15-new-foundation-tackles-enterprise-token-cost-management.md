@@ -4,8 +4,8 @@ title: New Foundation Tackles Enterprise Token Cost Management
 date: '2026-06-15'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/foundation-tackle-ai-token-cost-management/822839/
+url_status: repaired
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: ef296a3909625dea69e1966e1171cda44cca06588bc73f1e7b65c36e4bb7a148
 normalized_title_hash: 0515137c286d14df

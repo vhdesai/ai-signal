@@ -5,8 +5,8 @@ title: Cognition (Devin) raises $1B+ at $26B post-money — more than 2× valuat
 date: '2026-05-27'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: b74a5fac1129701713c1ffbcc08eb1527803b9ed7d358abee2282eb9e3d9ac9e

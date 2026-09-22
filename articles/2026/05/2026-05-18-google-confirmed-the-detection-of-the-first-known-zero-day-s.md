@@ -5,8 +5,8 @@ title: Google confirmed the detection of the first known zero-day software vulne
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 220cadcffbc725d0612a5f60b5690f5fea9f6a7100c457a4e26db40cad1a4e89

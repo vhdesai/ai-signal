@@ -4,8 +4,8 @@ title: Cerebras Positioned as Most-Watched AI Chip IPO of 2026
 date: '2026-05-28'
 source: 'Source: The Motley Fool'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fool.com/investing/2026/05/28/this-ai-ipo-could-be-the-most-exciting-chip-stock/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: ed339943a7ace1d9e3094d2160a931ea4194f86823f35cc1f482747285e3a6eb

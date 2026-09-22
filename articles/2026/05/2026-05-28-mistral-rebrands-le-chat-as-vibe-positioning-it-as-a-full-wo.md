@@ -4,8 +4,8 @@ title: Mistral rebrands Le Chat as "Vibe," positioning it as a full work agent
 date: '2026-05-28'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: c549d3bd2ae656d7774a5cd9e6cb03f1a37200512216ae04c695b37a1aaecde2

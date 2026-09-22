@@ -5,8 +5,8 @@ title: Google I/O 2026 — Opens Monday, May 19 at Shoreline Amphitheatre, Mount
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techbytes.app/posts/google-io-2026-announcement-mountain-view/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: c253ae516db9e3c0846cbc7c1108e85b9ddabf37ee73ee7e94e74e8d808c7b7c

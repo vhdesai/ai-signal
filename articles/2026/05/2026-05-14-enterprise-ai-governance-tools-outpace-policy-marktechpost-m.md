@@ -5,8 +5,8 @@ title: 'Enterprise AI governance: tools outpace policy — MarkTechPost, May 13,
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 793d9eace13c1cd80b41397772c61fe1eb225d93d0c9bab5380a7f0ac2db12aa

@@ -5,8 +5,8 @@ title: Taiwan Prosecutors Investigate Three Over Alleged Nvidia Chip Smuggling t
 date: '2026-05-21'
 source: SFGATE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/taiwan-detains-nvidia-employee-super-131610212.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: e6758733099c927f8bd4ba40ac9848fe1e9e3720b0dc79863565307ccdbe5f61

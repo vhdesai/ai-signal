@@ -5,8 +5,8 @@ title: 'OpenAI introduces Daybreak: cybersecurity initiative built on Codex Secu
 date: '2026-05-12'
 source: Forbes  · AI Daily Post
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: e63bc51461a617c90a4eb5c56536981adcfebd7541ec850bfb1d0784edd8ccd4

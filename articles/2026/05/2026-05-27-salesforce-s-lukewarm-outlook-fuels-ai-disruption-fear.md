@@ -4,8 +4,8 @@ title: Salesforce's lukewarm outlook fuels AI-disruption fear
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.europesays.com/news/33753/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071156_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 4ac238acfbd7a13d1c621fdcb6755c08b2d261e2fa249e6a388837f4c178865f

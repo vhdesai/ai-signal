@@ -5,8 +5,8 @@ title: NVIDIA released SANA-WM, a 2.6 billion parameter world model capable of g
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aimodeling.com/en/news/aa88f4b4-bb5c-4411-9ab3-18929dbd4444
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: bee51651545f0aa47eb721562712e0aa7be45fc30cdac5aaebc13b2025a8f2e5

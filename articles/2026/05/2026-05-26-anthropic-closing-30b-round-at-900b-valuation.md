@@ -4,8 +4,8 @@ title: Anthropic Closing $30B Round at $900B+ Valuation
 date: '2026-05-26'
 source: The Information / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aibusiness.vc/vc/anthropic-30b-raise-900b-valuation-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 808d11a10113a5e249b84c48586fb301d35dc29cebc72d57eb381c58014092d9

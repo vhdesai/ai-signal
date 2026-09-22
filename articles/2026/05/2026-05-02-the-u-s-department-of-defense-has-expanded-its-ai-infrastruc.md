@@ -5,8 +5,8 @@ title: The U.S. Department of Defense has expanded its AI infrastructure program
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://civl.com/news/story/defense-department-signs-classified-ai-deployment-agreements-with-seven-companie-9124c237
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 3989099a7fb0276aef60c58b2c9db891caaac73d1104de3d43b9dafc64483111
 normalized_title_hash: 7fb93511596e889f

@@ -5,8 +5,8 @@ title: Elon Musk's xAI is pursuing a three-way alliance with French AI lab Mistr
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 45aeaf6f48a6590b768a91889156b7938fcf78b768e22fa587e4222d321a1a21

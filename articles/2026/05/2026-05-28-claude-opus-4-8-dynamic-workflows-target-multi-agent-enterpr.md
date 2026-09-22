@@ -4,8 +4,8 @@ title: Claude Opus 4.8 Dynamic Workflows Target Multi-Agent Enterprise Tasks
 date: '2026-05-28'
 source: 'Source: Unite.AI'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.unite.ai/anthropic-unveils-claude-opus-4-8-as-the-ai-race-intensifies-against-openai/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: ececa039eb21ac27617481b54ea9f16c8d5f1af1265f919b635669fd044ed7f4

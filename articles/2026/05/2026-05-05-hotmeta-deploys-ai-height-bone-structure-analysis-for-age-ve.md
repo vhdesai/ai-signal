@@ -4,8 +4,8 @@ title: HOTMeta deploys AI height/bone-structure analysis for age verification
 date: '2026-05-05'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: fc324f70ebc9c9dd85e87f4451608d563692c442c17ba44d1ba9f5973d66fb6f
 normalized_title_hash: 3c6e5d2335ed329b

@@ -4,8 +4,8 @@ title: Meta Launches "Workforce Academy" to Train Data Center Construction Worke
 date: '2026-06-08'
 source: WSJ; Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.constructiondive.com/news/meta-workforce-academy-data-center-construction/822698/
+url_status: repaired
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: 71527ad1e383cb11f0980ed82a44566b2270250825d1c39956db32ad309fc029
 normalized_title_hash: 9dedcb14788bd605

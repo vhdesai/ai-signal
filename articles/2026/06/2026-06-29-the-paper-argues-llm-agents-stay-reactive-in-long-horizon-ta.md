@@ -5,8 +5,8 @@ title: The paper argues LLM agents stay "reactive" in long-horizon tasks because
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.01199
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 23dbea7d3a0732c5069b7804c3649c209f0c4bee4854f750e6edc05ae1f9501d

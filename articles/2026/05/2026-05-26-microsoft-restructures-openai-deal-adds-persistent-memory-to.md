@@ -4,8 +4,8 @@ title: Microsoft restructures OpenAI deal; adds persistent memory to Copilot
 date: '2026-05-26'
 source: TradingView
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/microsoft-openai-revenue-share-deal-restructure-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: eee9cf60453d6cbc29775e1633a246596f4ce1cc117b80ff6e95263cb73f57a3

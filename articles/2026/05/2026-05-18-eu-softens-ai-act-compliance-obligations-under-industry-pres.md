@@ -4,8 +4,8 @@ title: EU Softens AI Act Compliance Obligations Under Industry Pressure
 date: '2026-05-18'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hklaw.com/en/insights/publications/2026/04/us-companies-face-eu-ai-acts-possible-august-2026-compliance-deadline
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 29a55841f314c7032e200f77f950a17f7051781cd3653513fe5c958372a9103c

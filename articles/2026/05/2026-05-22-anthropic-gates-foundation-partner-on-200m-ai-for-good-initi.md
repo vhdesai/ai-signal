@@ -4,8 +4,8 @@ title: Anthropic & Gates Foundation Partner on $200M AI-for-Good Initiative
 date: '2026-05-22'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/gates-foundation-partnership
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 94e335e7f89763f364e60346627c1ab4021e0d6984741c2ae4db8c3a65bb06db

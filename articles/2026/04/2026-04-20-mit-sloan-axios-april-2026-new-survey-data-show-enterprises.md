@@ -5,8 +5,8 @@ title: MIT Sloan / Axios • April 2026 New survey data show enterprises acceler
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.einpresswire.com/article/933161689/sensedia-squadra-and-mit-sloan-study-shows-74-of-companies-face-unexpected-ai-costs-and-governance-hurdles
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 88fe7fd223d2fa406273df163ab833d984200cafe661e983207d7163d50672ac

@@ -4,8 +4,8 @@ title: 'Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access'
 date: '2026-06-09'
 source: Axios
 url_original: https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access
-url_canonical: https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access
-url_status: broken
+url_canonical: https://ai.layer3.press/articles/38492ef4-4c3c-449b-b031-dc4381a50537
+url_status: repaired
 digest_source: digests\raw\2026-06-10_060030_Daily-AI-News-Digest.md
 content_hash: a1e411936919bdf5e0124b1eca0996cbfe8a3dbf2ffc1c8b23a1e73f876a7125
 normalized_title_hash: 7b1687801ece7eca

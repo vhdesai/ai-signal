@@ -5,8 +5,8 @@ title: Mistral released Medium 3.5 (128B dense, 256K context window, 77.6% on SW
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nerdleveltech.com/mistral-medium-3-5-open-weight-128b-frontier-coder
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: de697f3f269826cfecada57ac748cc069c8d9f4b1a349d4e79e0dd159fd25454
 normalized_title_hash: b978be0985f884f4

@@ -4,8 +4,8 @@ title: xAI's Grok officially integrated into OpenClaw via OAuth
 date: '2026-05-25'
 source: Memeburn
 url_original: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
-url_canonical: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
-url_status: broken
+url_canonical: https://docs.openclaw.ai/providers/xai
+url_status: repaired
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 4f03b013413a256d0635c5aa38e854abccf09ffeee0585bbea6ef701e00cfd1b

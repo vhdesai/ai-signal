@@ -5,8 +5,8 @@ title: Senior figures inside SoftBank are reportedly questioning whether Son's $
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.newsbreak.com/winbuzzer-com-302470011/4670657433752-softbank-insiders-question-son-s-60b-openai-gamble
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3f37bf36b5dbda3ae709c2c1cefb982704528f0c69c373b0176c6c2a1334e8dc

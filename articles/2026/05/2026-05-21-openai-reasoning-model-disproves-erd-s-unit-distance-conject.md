@@ -4,8 +4,8 @@ title: OpenAI Reasoning Model Disproves Erdős Unit-Distance Conjecture
 date: '2026-05-21'
 source: OpenAI / Quanta
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2605.20695v1
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a2fb8b4ffbc85af6b496580beb700e99f36c6373e0dbeea85fa3738349d34550

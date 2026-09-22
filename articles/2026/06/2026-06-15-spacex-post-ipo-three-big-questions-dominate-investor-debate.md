@@ -4,8 +4,8 @@ title: 'SpaceX Post-IPO: Three Big Questions Dominate Investor Debate'
 date: '2026-06-15'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/spacex-ipo-what-it-means-for-market-can-it-last-2026-6
+url_status: repaired
 digest_source: digests\raw\2026-06-15_073619_Final-Daily-AI-News-Digest.md
 content_hash: e3413c839008ccba6189b0169ffe9a0cd78d16041494123de7f4e2036edd1a9d
 normalized_title_hash: c1d5cad815463da1

@@ -5,8 +5,8 @@ title: Anthropic published "Teaching Claude Why," a landmark safety paper reveal
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/teaching-claude-why
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 5bd6fbce1245289fc87e14d9762090562b2150bf3db0db323ff3baf7d99712e6
 normalized_title_hash: be35492e2efe9b22

@@ -5,8 +5,8 @@ title: Anthropic in talks to rent Microsoft AI-chip-powered servers — MSFT sha
 date: '2026-05-21'
 source: Reuters via U.S. News  (citing The Information) · Anthropic / Microsoft
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/market-chatter-anthropic-talks-rent-130745579.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 1cd6851d64f77ffcde8b500f159fb38154542ac39c55edaf9dd872d858520773

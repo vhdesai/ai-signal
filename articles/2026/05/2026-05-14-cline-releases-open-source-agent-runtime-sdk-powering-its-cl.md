@@ -4,8 +4,8 @@ title: Cline Releases Open-Source Agent Runtime SDK Powering Its CLI and Kanban 
 date: '2026-05-14'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: fcc4efc15fd3c496c418d0d41d257847c7a6e90cb9322a628044e5294d21c005

@@ -5,8 +5,8 @@ title: 'Goldman Sachs: Private Infrastructure and Real Estate Capital to Finance
 date: '2026-06-03'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/private-infra-real-estate-capital-084445184.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-03_060035_Daily-AI-News-Digest.md
 content_hash: 6cc550abbc822b973ba3800b81b6122ffa55a24ed5dc8c915177e43d6f6f2012
 normalized_title_hash: 3814d84828c0bf5b

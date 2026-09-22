@@ -5,8 +5,8 @@ title: 'AI-Attribution Layoffs: Cloudflare (1,100), xAI (500), PayPal (4,760) Am
 date: '2026-05-11'
 source: 🔗 Financial Express  · 🏢 Multiple companies
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://perplexityaimagazine.com/ai-news/ai-news-ai-layoffs-may-2026-cloudflare-paypal-coinbase/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 711be36b754f62d86b958d2805e50fcc0556588150f821d5b0a33edc228d77ce

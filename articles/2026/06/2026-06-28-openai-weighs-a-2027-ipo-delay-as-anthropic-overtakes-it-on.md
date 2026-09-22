@@ -4,8 +4,8 @@ title: OpenAI weighs a 2027 IPO delay as Anthropic overtakes it on valuation
 date: '2026-06-28'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-ipo-delay-2027-valuation-121349991.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: d0898dc388c642991364e0d01c937b374e02113b446dbf20d35030ba23d8d128

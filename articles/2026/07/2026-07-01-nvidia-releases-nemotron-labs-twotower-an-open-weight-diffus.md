@@ -4,8 +4,8 @@ title: NVIDIA releases Nemotron-Labs-TwoTower, an open-weight diffusion language
 date: '2026-07-01'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.remio.ai/post/nvidia-releases-nemotron-labs-twotower-open-weight-diffusion-language-model
+url_status: repaired
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 2bc952540b381e12e0829a42e1b0084f3b6f17137896eadedd5a6c873a026d1a

@@ -4,8 +4,8 @@ title: AI health chatbots answer everyday questions with ~76% accuracy in new st
 date: '2026-05-29'
 source: Research coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.news-medical.net/news/20260528/AI-chatbots-answer-health-questions-with-moderate-overall-accuracy.aspx
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 5e4d9b4bc0096d3efd2540a8e92352876874cab1d9d815d2f671bf9b876b362f

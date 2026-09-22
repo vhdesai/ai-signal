@@ -5,8 +5,8 @@ title: Nadella Warns Enterprises Against Ceding IP to "a Few Models That Eat Eve
 date: '2026-06-18'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-gb/technology/artificial-intelligence/satya-nadella-warns-against-ai-future-where-a-few-models-eat-everything-they-see/ar-AA25LTF5
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: ce455df44173342d5550aaeeb7890ebce3e9dee768bd40743be8efb3ac84cb0f
 normalized_title_hash: f23823e3b5718746

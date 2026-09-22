@@ -4,8 +4,8 @@ title: DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Re
 date: '2026-07-07'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-ish.com/2026/07/07/deepseek-own-ai-inference-chip-nvidia-huawei/
+url_status: repaired
 digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 8fdfa9a4a0c41870f9e824e6f5d667e34deec8295333478233905f7849a31e3c

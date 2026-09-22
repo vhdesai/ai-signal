@@ -5,8 +5,8 @@ title: Multiple companies are progressing beyond lab demonstrations into real fa
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 93305a2843fab63142c9dcc4e7d5b2594d5e34ec6d733a951f17581a87486b09

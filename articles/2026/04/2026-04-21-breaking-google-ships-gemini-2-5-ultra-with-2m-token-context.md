@@ -4,8 +4,8 @@ title: Breaking Google Ships Gemini 2.5 Ultra With 2M-Token Context
 date: '2026-04-21'
 source: Google DeepMind / LMSYS
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://codelucky.com/google-gemini-3-1-ultra-2m-token-context-multimodal/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 5308c3289fea9b3b92cf562db76f7361a8a867d93e6d12ba129b13436b1291e2

@@ -5,8 +5,8 @@ title: Reuters / The Information • April 18–19, 2026 DeepSeek is targeting a
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/deepseek-300-million-funding-10-billion-valuation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 5dfc4b2ec8edf77f6442a4ddbca97844bfa80d56a5c3d033c82aeab9dd414756

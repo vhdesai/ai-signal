@@ -5,8 +5,8 @@ title: OpenAI unveiled GPT-5.5-Cyber on May 7, a specialized model built to disc
 date: '2026-05-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cybersecuritynews.com/gpt-5-5-cyber/
+url_status: repaired
 digest_source: digests\raw\2026-05-08_072932_Inbox_Daily AI News Digest – May 8, 2026.md
 content_hash: 16e970a800fae0d60c2175a4961d5a86f44bb9e61dc35760d6762d4936b4bf22
 normalized_title_hash: 6901cd8230277b70

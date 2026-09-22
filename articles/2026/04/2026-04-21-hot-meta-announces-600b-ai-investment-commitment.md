@@ -4,8 +4,8 @@ title: Hot Meta Announces $600B AI Investment Commitment
 date: '2026-04-21'
 source: Fox Business / AI Flash Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/meta-600-billion-us-investment-ai-infrastructure-data-center-jobs-2025-11
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 632f7abaeee17acc62589d50769f8d13b71b38b973f030b558917755f31d8d56

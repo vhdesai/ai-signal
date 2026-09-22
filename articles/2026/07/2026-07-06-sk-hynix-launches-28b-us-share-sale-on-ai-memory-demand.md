@@ -4,8 +4,8 @@ title: SK Hynix Launches ~$28B US Share Sale on AI-Memory Demand
 date: '2026-07-06'
 source: Reuters**
 url_original: https://money.usnews.com/investing/news/articles/2026-07-06/sk-hynix-launches-28-billion-us-listing-draws-7-billion-in-investor-interest
-url_canonical: https://money.usnews.com/investing/news/articles/2026-07-06/sk-hynix-launches-28-billion-us-listing-draws-7-billion-in-investor-interest
-url_status: broken
+url_canonical: https://www.techtimes.com/articles/319824/20260707/sk-hynix-launches-record-28b-nasdaq-listing-hbm-shortage-locks-ai-memory-lead.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: e407402967dd1f8133cd1cf3411f5aeea9880831b92f79e8cf04a80ae3d67690
 normalized_title_hash: 8c37b0e72dac6f48

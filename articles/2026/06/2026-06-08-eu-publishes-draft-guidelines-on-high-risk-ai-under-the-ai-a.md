@@ -4,8 +4,8 @@ title: EU Publishes Draft Guidelines on High-Risk AI Under the AI Act
 date: '2026-06-08'
 source: Inside Privacy; Stibbe
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems
+url_status: repaired
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 12d6bf30b335cc0bf3f3dcc2a96464bd9659a9f6fa275971485dd6518b172a3a
 normalized_title_hash: 6c6d29ac73869efc

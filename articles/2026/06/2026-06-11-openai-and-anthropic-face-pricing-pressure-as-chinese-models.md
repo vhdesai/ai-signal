@@ -5,8 +5,8 @@ title: OpenAI and Anthropic Face Pricing Pressure as Chinese Models Undercut Cos
 date: '2026-06-11'
 source: Crypto Briefing; Decrypt; Euronews
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cryptobriefing.com/openai-anthropic-pricing-pressure-chinese-ai/
+url_status: repaired
 digest_source: digests\raw\2026-06-12_060112_Daily-AI-News-Digest.md
 content_hash: 11a1d8bc3c2fb38d4a9318548f875b236681c7042c5e765fdf4756c75f717ca0
 normalized_title_hash: 32506ddc53d46d37

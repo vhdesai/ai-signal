@@ -4,8 +4,8 @@ title: Alibaba unveils Zhenwu AI chip and Qwen 3.7-Max model
 date: '2026-05-19'
 source: CNBC · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 10dd5ba34853fcfa33be8812601fecd244c6918e46acddfbf8791ffda20e2249

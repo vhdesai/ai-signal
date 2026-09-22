@@ -4,8 +4,8 @@ title: Pentagon Signs AI Deals with Nvidia, Microsoft, AWS — Excluding Anthrop
 date: '2026-05-01'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 6004e1e423cfb45693479944cc9de0ca5fd1fe2d3f660a1916d243cc24d203a0

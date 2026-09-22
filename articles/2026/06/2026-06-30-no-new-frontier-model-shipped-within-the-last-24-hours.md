@@ -4,8 +4,8 @@ title: No new frontier model shipped within the last 24 hours
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.tunx.ai/ai-lab-model-releases-frontier-company-news-live-tracker-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: c2641774263fbe84cf9a6b761e2edb61e5c755f5949a358d1690d2dcb5f0892c

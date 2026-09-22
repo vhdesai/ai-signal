@@ -5,8 +5,8 @@ title: Nvidia released Nemotron 3 Super under an open-source license, expanding 
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: a1af214ea8f1ba354e492cdb85f12bdca5ea0a89813d69ec2aa489f48a65e0a1

@@ -5,8 +5,8 @@ title: Anthropic disclosed Q1 2026 revenue grew 80x year-over-year, pushing ARR 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-11-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 4b33b36a3707a210e3b1e10b545bed40dd7f0a7b2f0861496eca2a774e059192

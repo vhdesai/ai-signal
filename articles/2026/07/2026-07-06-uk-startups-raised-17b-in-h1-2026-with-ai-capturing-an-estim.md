@@ -5,8 +5,8 @@ title: UK startups raised ~$17B in H1 2026, with AI capturing an estimated 74% o
 date: '2026-07-06'
 source: Tech Funding News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techfundingnews.com/uk-startups-17b-h1-2026-ai-74-percent-vc/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_062502_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 91e8571a75ccdd7ce55c2f6944af1cce2f8542d1d2e2f9bf0436b79e144aa9e7

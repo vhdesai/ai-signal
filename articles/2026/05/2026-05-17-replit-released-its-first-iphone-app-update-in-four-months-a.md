@@ -5,8 +5,8 @@ title: Replit released its first iPhone app update in four months after CEO Amja
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theoutpost.ai/news-story/replit-ships-first-i-phone-app-update-in-four-months-after-resolving-apple-dispute-over-ai-coding-26347/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: e64ff7326dafa17039c47a18194fe3919d110f079e1d9f761ea343f691281b2f

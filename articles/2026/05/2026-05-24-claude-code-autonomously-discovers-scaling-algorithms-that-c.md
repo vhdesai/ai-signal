@@ -5,8 +5,8 @@ title: Claude Code autonomously discovers scaling algorithms that cut inference 
 date: '2026-05-24'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 63887e913a0936729e981a082b6ff95e448dc0f1692fddf987c75a00dcbc888a

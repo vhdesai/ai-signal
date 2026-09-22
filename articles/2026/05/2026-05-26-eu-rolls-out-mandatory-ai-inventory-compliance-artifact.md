@@ -4,8 +4,8 @@ title: EU Rolls Out Mandatory "AI Inventory" Compliance Artifact
 date: '2026-05-26'
 source: IAPP / European Commission
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://repello.ai/blog/eu-ai-act-compliance
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 678486e6888540b544e0544b1018a01198d3a9610ccdc3fa5586b0fbbf30d690

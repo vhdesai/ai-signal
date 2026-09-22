@@ -4,8 +4,8 @@ title: Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/sam-altman-says-openai-ipo-204844827.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: 33cae1a34b82163d9bbd9b317e158f145cd7de61e8f8412c279c01334cafc43c
 normalized_title_hash: 2c41f6a09c495605

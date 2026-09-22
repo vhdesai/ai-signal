@@ -4,8 +4,8 @@ title: Google Announces Android XR Audio-Powered Smart Glasses at I/O 2026
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 06023bbb5306bbcee1ba81ceb8a36f9f9aeb6b6f5b9b378b8a54f77a503ec624

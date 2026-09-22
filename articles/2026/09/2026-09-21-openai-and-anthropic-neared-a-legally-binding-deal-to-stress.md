@@ -5,8 +5,8 @@ title: OpenAI and Anthropic neared a legally binding deal to stress-test each ot
 date: '2026-09-21'
 source: The Information
 url_original: https://www.theinformation.com/articles/openai-anthropic-neared-deal-to-stress-test-each-others-ai
-url_canonical: https://www.techflowpost.com/en-US/newsletter/137173
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/openai-anthropic-neared-deal-to-stress-test-each-others-ai
+url_status: broken
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 66be6fe6705e3f67193cd8255a1cd77a50c8fb91b66fe291e27aaf64e14019fc

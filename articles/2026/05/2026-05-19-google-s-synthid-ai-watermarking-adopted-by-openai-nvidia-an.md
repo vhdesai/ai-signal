@@ -4,8 +4,8 @@ title: Google's SynthID AI Watermarking Adopted by OpenAI, Nvidia, and Major Par
 date: '2026-05-19'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b95ab3cdb19bedb64dfac3f6fba64c363e266e61b4a46d9505d7f7a1b48c809d

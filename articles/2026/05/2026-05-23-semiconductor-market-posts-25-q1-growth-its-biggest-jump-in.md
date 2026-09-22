@@ -5,8 +5,8 @@ title: Semiconductor market posts ~25% Q1 growth – its biggest jump in 40+ yea
 date: '2026-05-23'
 source: Chip Beat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.semiconductors.org/2026-state-of-the-industry-report-historic-growth-amid-intensifying-global-competition/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: fd44db64dc13571dc2fbd3c31b8ac7f8bfc801bafe627e4193ccbcd2a9447537

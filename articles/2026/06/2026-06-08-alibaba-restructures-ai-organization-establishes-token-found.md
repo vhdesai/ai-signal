@@ -5,8 +5,8 @@ title: 'Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit a
 date: '2026-06-08'
 source: AIBase
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nationpress.com/sciencetech/alibaba-creates-token-foundry-ai-unit
+url_status: repaired
 digest_source: digests\raw\2026-06-08_060034_Daily-AI-News-Digest.md
 content_hash: c563a564f254898cf8ec1716e1be07e5e9c944e18224016feba097bab051e197
 normalized_title_hash: f189f0be1812aaed

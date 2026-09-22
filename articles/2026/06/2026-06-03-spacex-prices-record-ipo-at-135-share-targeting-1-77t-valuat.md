@@ -5,8 +5,8 @@ title: SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with x
 date: '2026-06-03'
 source: The New York Times; TechRepublic; Anadolu Agency
 url_original: https://www.techrepublic.com/article/news-spacex-ipo-price-valuation/
-url_canonical: https://www.techrepublic.com/article/news-spacex-ipo-price-valuation/
-url_status: broken
+url_canonical: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
+url_status: repaired
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: d21e76d370742de54ec92b240d3e2a4807faa4311fd66afcac6b82292235a51b

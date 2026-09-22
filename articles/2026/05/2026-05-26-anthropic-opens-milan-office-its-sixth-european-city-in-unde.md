@@ -4,8 +4,8 @@ title: Anthropic opens Milan office — its sixth European city in under a year
 date: '2026-05-26'
 source: Tech Funding News
 url_original: https://techfundingnews.com/category/ai/
-url_canonical: https://techfundingnews.com/category/ai/
-url_status: broken
+url_canonical: https://www.anthropic.com/news/milan-office-opening
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 170d8e4b9a478cb1388db88c865de6d47c2aa2734d528e97156e9edf326ca256

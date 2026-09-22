@@ -5,8 +5,8 @@ title: UMG-TikTok deal becomes a de facto governance template for AI-generated c
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aimusicpreneur.com/ai-music-news/umg-tiktok-renew-ai-takedown-deal-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: faa62cbf1a3a366fdde6f3a0c0b0aab355133d6f3342ab7ab053bf85c65ab175

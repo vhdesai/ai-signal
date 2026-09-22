@@ -4,8 +4,8 @@ title: Mistral Medium 3.5 — 128B Enterprise Open-Weight Model with Remote Agen
 date: '2026-05-10'
 source: The Neuron AI / HuggingFace
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://huggingface.co/mistralai/Mistral-Medium-3.5-128B
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 8a6fbec9fb443d880762da37096682bd3436a045d9161b125b9e896a22305dec

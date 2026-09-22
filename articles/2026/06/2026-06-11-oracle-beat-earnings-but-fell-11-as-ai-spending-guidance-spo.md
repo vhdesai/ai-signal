@@ -4,8 +4,8 @@ title: Oracle Beat Earnings but Fell 11% as AI Spending Guidance Spooked Investo
 date: '2026-06-11'
 source: Barron's; Money Morning; Motley Fool; CIO.com
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ainvest.com/news/oracle-beat-earnings-stock-fell-mechanism-2609/
+url_status: repaired
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: cf0b6b24303d98ebf2a43f93a21c66eae25f0b8f697092ef8b3ca70177d3b381
 normalized_title_hash: 5274e811b986d488

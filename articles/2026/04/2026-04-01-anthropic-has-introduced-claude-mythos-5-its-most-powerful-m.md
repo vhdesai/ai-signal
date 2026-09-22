@@ -5,8 +5,8 @@ title: Anthropic has introduced Claude Mythos 5, its most powerful model to date
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/claude-fable-and-mythos-5-1
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: b773c042e7f03cddebfb8c3e2da77c9affa9d75ee37d3616fc3f903ca765cbf4

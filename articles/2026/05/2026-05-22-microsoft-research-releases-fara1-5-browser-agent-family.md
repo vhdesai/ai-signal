@@ -4,8 +4,8 @@ title: Microsoft Research releases Fara1.5 browser agent family
 date: '2026-05-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_canonical: https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 614ba9c64afffadd24558f910ee92155b6adffda9536e8dfd6af081ac79a62a6

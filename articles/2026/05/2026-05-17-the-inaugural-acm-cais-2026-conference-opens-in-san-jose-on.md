@@ -5,8 +5,8 @@ title: The inaugural ACM CAIS 2026 conference opens in San Jose on May 26 with 6
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 4c0e4e2df1866fd9593375d80d811a4f7d79b464bb7be0101419a298cd4e61c0

@@ -4,8 +4,8 @@ title: TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain
 date: '2026-06-04'
 source: The Verge; Digitimes; Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.digitimes.com/news/a20260707PD209/tsmc-nvidia-demand-supply-chain-packaging.html
+url_status: repaired
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 5aa8924141556e488e075840f462eef125ea7c26b40134e72a9d61d0ca7ba364

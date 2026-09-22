@@ -4,8 +4,8 @@ title: 'BCG CEO: AI is changing how consultants get paid — and much more'
 date: '2026-05-28'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bcg.com/about/expertise/ai-changing-consulting-and-pricing-models
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 8fee2a8d2437de4751e1abd57f32b631c9d9433e3e5319f9b00a4c7d31d701f8

@@ -5,8 +5,8 @@ title: '[BREAKING] Baidu Robotaxi Operations Suspended in Wuhan (Apr 1) Baidu’
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbctv18.com/auto/china-halts-new-robotaxi-licenses-after-baidu-wuhan-mass-outage-stalls-over-100-cars-19895533.htm
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 94b586433bdbf168bbddc15188b9b87f20f14785f3b291e80f6e98bdaf12d781

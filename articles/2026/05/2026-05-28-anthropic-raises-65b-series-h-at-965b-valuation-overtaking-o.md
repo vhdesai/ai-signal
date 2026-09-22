@@ -4,8 +4,8 @@ title: Anthropic raises $65B Series H at $965B valuation, overtaking OpenAI
 date: '2026-05-28'
 source: CNBC / TechCrunch / The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 56b39c141c1429f80755b2aaa997cb397b9263965ac658b909ef8d071d280987

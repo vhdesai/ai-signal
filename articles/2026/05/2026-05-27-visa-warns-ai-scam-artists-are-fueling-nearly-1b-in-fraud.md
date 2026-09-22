@@ -4,8 +4,8 @@ title: Visa warns AI scam artists are fueling nearly $1B in fraud
 date: '2026-05-27'
 source: Hoodline
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hoodline.com/2026/05/visa-sounds-alarm-as-ai-scam-artists-fuel-nearly-1-billion-in-scams/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 59f782e3e4e3a963f12994b83cdeb21d122e604994be8fce77a80554a2979f52

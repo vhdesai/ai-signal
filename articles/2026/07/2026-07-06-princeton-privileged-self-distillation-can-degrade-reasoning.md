@@ -4,8 +4,8 @@ title: 'Princeton: Privileged Self-Distillation Can Degrade Reasoning Models'
 date: '2026-07-06'
 source: arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2607.05184
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 5d401c9fd2316ae5246767c436cd96309fb9625374a79969e1df4b03cfe00c34

@@ -4,8 +4,8 @@ title: OpenAI restructures into a unified consumer "Deployment Company"
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techjournal.org/openai-launches-4-billion-deployment-company
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: ff520f798a23506c678ded6881b469bd08195f635f20054d9f6310f2c7d5da6c

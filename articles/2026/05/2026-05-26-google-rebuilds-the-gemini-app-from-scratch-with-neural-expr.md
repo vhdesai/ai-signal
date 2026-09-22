@@ -4,8 +4,8 @@ title: Google Rebuilds the Gemini App From Scratch With "Neural Expressive" Desi
 date: '2026-05-26'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/tag/google-gemini/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 9cb1637b1443474aff4fe1241b8242511150fc87fafad906520454f2beb3eafb

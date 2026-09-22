@@ -5,8 +5,8 @@ title: OpenAI Publishes Governance Blueprint; Altman Urges Against Mandatory Mod
 date: '2026-06-03'
 source: OpenAI Blog; Politico; Reuters
 url_original: https://openai.com/index/a-blueprint-for-democratic-governance-of-frontier-ai/
-url_canonical: https://openai.com/index/a-blueprint-for-democratic-governance-of-frontier-ai/
-url_status: broken
+url_canonical: https://theoutpost.ai/news-story/sam-altman-meets-with-lawmakers-and-trump-officials-after-ai-executive-order-26950/
+url_status: repaired
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: fac5a673141d49d3e46309f992034bcb14b0768a85b3ef5f6fa730508d37f3a4

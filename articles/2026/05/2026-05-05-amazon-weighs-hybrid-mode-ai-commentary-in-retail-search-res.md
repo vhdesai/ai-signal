@@ -4,8 +4,8 @@ title: Amazon weighs "hybrid mode" AI commentary in retail search results
 date: '2026-05-05'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.pymnts.com/amazon/2026/amazon-weighs-merging-ai-chat-into-its-main-search-bar/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: dd2046e7afde7a0af09abc33fe8dc2705f8f9a1230b43131b610f7e70c139623

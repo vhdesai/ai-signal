@@ -5,8 +5,8 @@ title: Google's annual developer conference opens tomorrow, May 19, at Shoreline
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/316822/20260519/google-i-o-2026-opens-today-full-schedule-every-session-what-developers-must-watch.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fae8bf282ec8c8fdf6dfb1287ba8d8b0380864c253727a1c90ac047e97ea5337

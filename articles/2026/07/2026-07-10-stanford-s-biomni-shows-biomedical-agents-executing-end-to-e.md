@@ -4,8 +4,8 @@ title: Stanford's Biomni shows biomedical agents executing end-to-end research w
 date: '2026-07-10'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cs.stanford.edu/people/jure//pubs/biomni-biorxiv25.pdf
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: c7e10e98c9cee99848241616e4202bbe78eb61a3f5d7ec2d145954723b3e4c46

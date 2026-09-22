@@ -4,8 +4,8 @@ title: Google Gemini 3.1 Ultra — 2M Token Native Multimodal Context
 date: '2026-05-10'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://codelucky.com/google-gemini-3-1-ultra-2m-token-context-multimodal/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 8cb092412f4577cf7286096b4976e2ecb19fafed15edbb61f503523a35f285c6

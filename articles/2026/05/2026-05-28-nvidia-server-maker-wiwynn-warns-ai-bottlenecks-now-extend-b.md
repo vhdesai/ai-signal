@@ -4,8 +4,8 @@ title: Nvidia server-maker WiWynn warns AI bottlenecks now extend beyond memory
 date: '2026-05-28'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finscans.com/news/2026/05/28/nvidia-server-maker-wiwynn-flags-ai-hardware-bottlenecks
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 9264a70595687dfe19ff6a55fd685223ed5a9eca428f1df58926898b1e86847a

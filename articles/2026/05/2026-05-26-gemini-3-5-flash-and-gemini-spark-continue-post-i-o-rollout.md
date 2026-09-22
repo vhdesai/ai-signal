@@ -5,8 +5,8 @@ title: Gemini 3.5 Flash and Gemini Spark Continue Post-I/O Rollout Across Search
 date: '2026-05-26'
 source: Google I/O 2026 coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.toolmintx.in/blog/google-io-2026-gemini-flash-spark-agents
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 9871da6072658605f7af0644ce436caeab760b52437893d5a47345e4c84bc565

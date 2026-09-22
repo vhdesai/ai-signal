@@ -4,8 +4,8 @@ title: 'CIO Dive: Shadow AI snares company data; keeping humans in the loop'
 date: '2026-05-28'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/enterprise-data-shadow-AI/821292/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: b5ab454b74d8694da21dd8f73924e2024aa90659ded6c6d1ac7182d6096cf2d4

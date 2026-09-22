@@ -4,8 +4,8 @@ title: 🟢 NEW ChatGPT Launches Personal Finance Dashboard for Pro Users via Pl
 date: '2026-05-15'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aitrove.ai/blog/chatgpt-personal-finance-plaid-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 0da3249e467d1dfc79e9db98c593ab93ae096d289a29ef74b7d1eaa34ab44051

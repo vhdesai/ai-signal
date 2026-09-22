@@ -5,8 +5,8 @@ title: OpenAI Accuses China of Influence Campaign to Shape U.S. Attitudes on AI 
 date: '2026-06-12'
 source: E&E News by Politico
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://subscriber.politicopro.com/article/eenews/2026/06/12/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-data-centers-00959427
+url_status: repaired
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: a8622751fe731e31fcdd389606b9d1d4e8994d045125cd8f6584e8031f86f526
 normalized_title_hash: 62d789ddc8eacf85

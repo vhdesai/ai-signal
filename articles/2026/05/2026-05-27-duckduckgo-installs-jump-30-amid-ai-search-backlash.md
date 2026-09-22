@@ -4,8 +4,8 @@ title: DuckDuckGo Installs Jump 30% Amid AI Search Backlash
 date: '2026-05-27'
 source: Axios / Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://analyticsindiamag.com/ai-news/duckduckgo-installs-rise-30-amid-backlash-over-google-ai-search
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 85357890cab7e5935322114daafe6fa23bed870828aef68c322cbc5e50812566

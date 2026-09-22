@@ -5,8 +5,8 @@ title: Mistral signs Airbus and BMW, defends military-AI use, expands French dat
 date: '2026-05-28'
 source: Bloomberg / CNA
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://enterpriseai.economictimes.indiatimes.com/news/industry/mistral-champions-military-ai-and-announces-new-data-centre-investment/131384613
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 447ea1a2451774564298a8c1c6333e0758791a3905a8b4c65fdf0e289dfeeda0

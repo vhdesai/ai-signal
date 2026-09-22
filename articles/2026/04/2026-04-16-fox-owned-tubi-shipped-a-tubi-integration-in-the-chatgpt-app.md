@@ -5,8 +5,8 @@ title: Fox-owned Tubi shipped a @Tubi integration in the ChatGPT app store, lett
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://corporate.tubitv.com/press/tubi-becomes-first-streamer-to-launch-chatgpt-app/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: f77d71784886f609d11be4f6515520595ebe13a1a8de1060b62b812556cc6168

@@ -5,8 +5,8 @@ title: arXiv cs.AI submissions sustain high volume through the window — arXiv,
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.arxiv.org/2026/07/09/arxiv-now-hosts-over-3-million-articles/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 396c0faa7203ba14f92444c6890289d44ed6099eccc245714c05c8cd351d90f8

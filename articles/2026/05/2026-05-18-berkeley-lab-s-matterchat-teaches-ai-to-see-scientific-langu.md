@@ -4,8 +4,8 @@ title: Berkeley Lab's MatterChat Teaches AI to "See" Scientific Language
 date: '2026-05-18'
 source: Lawrence Berkeley National Laboratory
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newscenter.lbl.gov/2026/05/18/new-matterchat-model-helps-ai-to-see-the-language-of-science/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 49def0d2735a92143f75379b3021111633671d73538e40e03983c71431b8c55e

@@ -4,8 +4,8 @@ title: OpenAI Plans ChatGPT "Superapp" Overhaul Ahead of IPO
 date: '2026-06-07'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-plans-chatgpt-superapp-overhaul-042143281.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
 content_hash: 6ddc3fa77c9505694a00e176d6bcbfe76b31b54050ea3071740d49780ef7842d
 normalized_title_hash: 693819453613b5bc

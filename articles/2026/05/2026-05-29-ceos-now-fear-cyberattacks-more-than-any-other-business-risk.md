@@ -5,8 +5,8 @@ title: CEOs now fear cyberattacks more than any other business risk; Duke pays $
 date: '2026-05-29'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ceoweekly.com/cybersecurity-surpasses-all-other-business-risks-for-ceos-in-latest-survey/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 6efc3f4386886ee5b4252eaa58108a69c6851fcb3274d837a0e119c2bed1bd3c

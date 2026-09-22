@@ -4,8 +4,8 @@ title: Five academic publishers sue Meta over Llama training data
 date: '2026-05-04'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nationthailand.com/business/corporate/40069202
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 7bf6cdd121f96a30a722da149bc5c03da2028b461715dfba0a9a709f78f32493

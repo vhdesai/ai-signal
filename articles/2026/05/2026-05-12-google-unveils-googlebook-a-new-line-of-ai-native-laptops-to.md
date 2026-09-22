@@ -4,8 +4,8 @@ title: Google unveils Googlebook — a new line of AI-native laptops to succeed 
 date: '2026-05-12'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: d50e0c9c2352f96559ffec4e9a35b7b081720c375fab1533572c36a64674be0d

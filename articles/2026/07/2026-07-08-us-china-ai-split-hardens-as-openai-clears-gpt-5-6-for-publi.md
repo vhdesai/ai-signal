@@ -4,8 +4,8 @@ title: US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch
 date: '2026-07-08'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aichatdaily.com/ai-models/openai-clears-gpt-5-6-public-rollout-launches-chatgpt
+url_status: repaired
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 5d57eecf1a5a546edba508ada18acaafd25ae0118202855cacd8cfbf7ccdf589

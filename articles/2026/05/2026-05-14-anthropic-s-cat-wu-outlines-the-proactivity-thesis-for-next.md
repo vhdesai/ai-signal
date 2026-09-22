@@ -5,8 +5,8 @@ title: Anthropic's Cat Wu outlines the proactivity thesis for next-generation AI
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: c91f29dbe894427c5ec5fed113d9307f6d73830c0b7566d4557702a8188c0217

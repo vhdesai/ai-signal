@@ -5,8 +5,8 @@ title: Presidents Trump and Xi had direct discussions about possible AI guardrai
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nbcnews.com/politics/trump-administration/trump-rejects-ai-guardrails-rcna597700
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 3b835cf9748342f5af425e91b3b0be636bb28b44188d6ba4e8076f27df487755

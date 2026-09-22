@@ -4,8 +4,8 @@ title: Oracle's AI Cloud Surge Is Offset by Software Weakness
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://khancapitals.com/oracle-cloud-backlog-rpo-surge/
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: 33b93372729da923d960b3590b93203be2e132afeb65e99ed5314ff072f77cba
 normalized_title_hash: a074a129ea406ef3

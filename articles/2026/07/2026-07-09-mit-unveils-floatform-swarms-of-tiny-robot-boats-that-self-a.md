@@ -4,8 +4,8 @@ title: 'MIT unveils FloatForm: swarms of tiny robot boats that self-assemble'
 date: '2026-07-09'
 source: 'Source: MIT News'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.csail.mit.edu/news/tiny-robot-boats-build-floating-structures
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: b7a06ebdbee6812b573d38cc5a1dc114a3e15b9fa7632cab6477ee051548d95e

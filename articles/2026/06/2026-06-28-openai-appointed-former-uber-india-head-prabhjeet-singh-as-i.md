@@ -5,8 +5,8 @@ title: OpenAI appointed former Uber India head Prabhjeet Singh as its most senio
 date: '2026-06-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hindustantimes.com/india-news/openai-appoints-former-uber-india-head-prabhjeet-singh-as-md-expands-operations-in-india-101782535358745.html
+url_status: repaired
 digest_source: digests\raw\2026-06-28_060351_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: fb10a55b1672803fa34125fada458467915703e24ebbfb8796b14dc967564087

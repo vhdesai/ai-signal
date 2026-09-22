@@ -5,8 +5,8 @@ title: SpaceX filed plans for a $55B chip fabrication facility in Texas ("Terafa
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/spacex-files-55b-plan-for-terafab-chip-plant-944cd687
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: e4489991a9384eceeaf0f951911941527dcf77350fe12b0b8a615fd906a688ea

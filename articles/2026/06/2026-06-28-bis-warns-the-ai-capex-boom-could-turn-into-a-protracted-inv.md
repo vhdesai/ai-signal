@@ -4,8 +4,8 @@ title: BIS warns the AI capex boom could turn into a "protracted investment bust
 date: '2026-06-28'
 source: Bank for International Settlements
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/06/29/bis-central-bank-warning-hyperscaler-data-center-1-trillion-gamble-recession/
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 1780b369d884d8884708ef6103acc8989b64ebc85548296da6cf4cdab41daf5d

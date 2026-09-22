@@ -4,8 +4,8 @@ title: Alibaba Unveils AI Chip to Challenge Nvidia Alongside Next-Gen Qwen
 date: '2026-05-20'
 source: Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/companies/alibaba-zhenwu-chip-nvidia-ai-push
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 34fd5f67651862b5fcc3b0096766d5143a993451c081fcffc6fd276a366b0212

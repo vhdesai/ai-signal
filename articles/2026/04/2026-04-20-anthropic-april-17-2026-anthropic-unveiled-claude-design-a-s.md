@@ -5,8 +5,8 @@ title: Anthropic • April 17, 2026 Anthropic unveiled Claude Design, a set of c
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-design-anthropic-labs
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 5e191ca7f87fe207dc405339af03cdd5730111b3a4a53b4be7533b1621bf791e

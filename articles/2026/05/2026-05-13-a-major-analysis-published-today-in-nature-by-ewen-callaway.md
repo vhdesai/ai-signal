@@ -5,8 +5,8 @@ title: A major analysis published today in Nature by Ewen Callaway examines the 
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.google.com/topics/CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZ0ZG5Sb2NYQmtjUklDWlc0b0FBUAE
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 871f14b9ceada74043efe76f58fd327cfd85ade1206abb04db514a9c5f6efd02

@@ -5,8 +5,8 @@ title: Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's 
 date: '2026-06-07'
 source: Crypto Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cryptobriefing.com/apollo-blackstone-anthropic-35b-debt-deal/
+url_status: repaired
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: 10b1b7b20ee58296562ab88a3eb4a8381ab28aeb65dbc69a7f63c5e5fd53942a
 normalized_title_hash: a5a0c91fa4738d14

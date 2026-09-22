@@ -4,8 +4,8 @@ title: Japan commissions a $6.1B sovereign "physical AI" model for 10 million ro
 date: '2026-07-01'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/
-url_canonical: https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/
-url_status: broken
+url_canonical: https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/
+url_status: repaired
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 7cce724d650509489b8862ab61e67694fbccf4f53600d1cb8e8b4ca04dd1a68a

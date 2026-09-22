@@ -5,8 +5,8 @@ title: Researchers from UC Berkeley and MIT (CAIS 2026 conference) introduced op
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/papers/optany-unified-text-optimization-can-outperform-specialized-systems/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 552318daab636c7123ae6f6934dc35b49c7778c47dd9e83ba24ce6efbabf224d

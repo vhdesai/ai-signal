@@ -5,8 +5,8 @@ title: 'Stanford HAI''s 2026 AI Index report delivers a clear headline: AI capab
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 456af644280e11e1e97d11f56fd81a10e95d58763bda39d9e8165ad802ac0faf

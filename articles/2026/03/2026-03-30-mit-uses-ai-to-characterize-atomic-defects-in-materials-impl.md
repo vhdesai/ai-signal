@@ -5,8 +5,8 @@ title: MIT Uses AI to Characterize Atomic Defects in Materials — Implications 
 date: '2026-03-30'
 source: MIT News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dmse.mit.edu/news/mit-researchers-use-ai-to-uncover-atomic-defects-in-materials/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: a9e01a12b2a9d7312a77142ffee0825a280741deacb338a6d41e5a80f600d288

@@ -4,8 +4,8 @@ title: Independent benchmarks temper GPT-5.6 and Grok 4.5 launch claims
 date: '2026-07-10'
 source: METR · Artificial Analysis
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 2cd974b346560728ef90caa8701077d394d3a2d2677a49e046b24a50b9112a4d

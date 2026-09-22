@@ -5,8 +5,8 @@ title: 'Baidu Create 2026: DuMate, Miaoda, and "Daily Active Agents" as the New 
 date: '2026-05-13'
 source: PR Newswire / TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/05/13/10382595.htm
-url_canonical: https://www.tmcnet.com/usubmit/2026/05/13/10382595.htm
-url_status: broken
+url_canonical: https://www.prnewswire.com/news-releases/baidu-advances-agent-portfolio-to-embrace-the-agent-era-champions-daily-active-agents-as-key-metric-302771383.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 05a175104346a0c7e5dce80b2a339d373290cfc1a3c5af9a83bc69cc3b692e6b

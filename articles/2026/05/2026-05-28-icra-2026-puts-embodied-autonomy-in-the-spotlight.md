@@ -4,8 +4,8 @@ title: ICRA 2026 puts embodied autonomy in the spotlight
 date: '2026-05-28'
 source: ICRA / NVIDIA Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://embodiedglobal.com/en/article/nvidia-icra-2026-sim-to-real-research
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 2f194f38d78401110992fe8db3bdd39f4327440119127e7d5c9460e969d22f89

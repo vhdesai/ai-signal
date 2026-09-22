@@ -5,8 +5,8 @@ title: Anthropic signed an agreement giving Claude access to SpaceX's entire Col
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/anthropic-spacex-colossus-compute-deal-claude-limits-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 14afac4c20d577280415b85f026538a9d341d3fdb7679811540e27c67cd50256

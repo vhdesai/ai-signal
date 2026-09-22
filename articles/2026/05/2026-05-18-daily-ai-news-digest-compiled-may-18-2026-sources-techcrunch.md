@@ -5,8 +5,8 @@ title: 'Daily AI News Digest | Compiled May 18, 2026 | Sources: TechCrunch, Vent
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 344099a90636395d394ad7da05febdaf1672c8d9c25dba798d88d75491d58f0f

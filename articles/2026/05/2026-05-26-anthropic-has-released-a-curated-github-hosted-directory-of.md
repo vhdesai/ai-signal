@@ -5,8 +5,8 @@ title: Anthropic has released a curated GitHub-hosted directory of verified plug
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolly.com/ai-news/article/2026-08-29-anthropic-launches-official-claude-code-plugins-directory-on-github-to-enhance-developer-ecosystem
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 7d0e8684971cd1f5162edd57505a8fa2e147db225635c3812bcd0cd9a2197b37

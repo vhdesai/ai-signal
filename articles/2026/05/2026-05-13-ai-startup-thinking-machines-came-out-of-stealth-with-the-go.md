@@ -5,8 +5,8 @@ title: AI startup Thinking Machines came out of stealth with the goal of buildin
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 873ccff8df5dfcc1c231ad1687d1b1945a780ffce834724490465e8d59c36fba

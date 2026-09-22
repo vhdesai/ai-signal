@@ -5,8 +5,8 @@ title: OpenAI announced that its AI-powered coding assistant Codex will be comin
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cxodigitalpulse.com/openai-brings-codex-ai-coding-tool-to-mobile-devices/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 1bbd0bc14cfde053272827fa8e3fefc4754263bf20f93695af31b2e777281dcc

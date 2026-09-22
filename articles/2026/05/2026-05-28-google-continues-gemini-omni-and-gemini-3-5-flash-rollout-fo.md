@@ -4,8 +4,8 @@ title: Google Continues Gemini Omni and Gemini 3.5 Flash Rollout Following I/O 2
 date: '2026-05-28'
 source: 'Source: The Keyword (Google) / MarketBeat'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.livemint.com/technology/tech-news/google-i-o-2026-google-reveals-gemini-omni-gemini-3-5-flash-with-faster-ai-performance-11779211490497.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: a4c281c09434483a16a74d5cd1f8c97c0230362cbd97f61ae14be4ffbbd53910

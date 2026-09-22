@@ -4,8 +4,8 @@ title: The industry is shifting from chatbots to fully agentic systems
 date: '2026-07-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/tools/the-agentic-ai-frenzy-vendors-battle
+url_status: repaired
 digest_source: digests\raw\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md
 content_hash: d1d7e85f6d29945014f69022803f94a7542ee5226ee3d4b5f47d9eb6d18956e7
 normalized_title_hash: 311614aaa12a9aa5

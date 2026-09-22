@@ -4,8 +4,8 @@ title: 'Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026'
 date: '2026-06-10'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/global-ai-debt-issuance-top-085023868.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 487ef433170d6551ba23142c9f0cf52c0545eb0d0c5fbfa2058d2b86aecb4bbf
 normalized_title_hash: 978b02fd46d38750

@@ -5,8 +5,8 @@ title: Adaption unveils AutoScientist for automated model training and alignment
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://adaptionlabs.ai/blog/autoscientist
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: e27d4ec40846b3982578c64c6d739b953ba38e68aa2e71dbfaa08d295f18d09f

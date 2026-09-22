@@ -4,8 +4,8 @@ title: IBM and Google Cloud Announce Strategic AI Partnership
 date: '2026-06-04'
 source: IBM Newsroom; Stock Titan
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-06-04-ibm-and-google-cloud-announce-strategic-partnership-to-scale-ai-with-human-expertise-and-ai-powered-delivery
+url_status: repaired
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: e0e0893ad61dfc4a18d62615fc2cbff28b8dd7a2517b21b278622f50440bf46a
 normalized_title_hash: ef5fcacf2df2a31b

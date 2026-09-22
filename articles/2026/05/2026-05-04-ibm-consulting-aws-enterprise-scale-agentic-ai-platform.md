@@ -4,8 +4,8 @@ title: 'IBM Consulting + AWS: enterprise-scale agentic AI platform'
 date: '2026-05-04'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibm.com/new/announcements/ibm-consulting-delivers-industrys-first-enterprise-scale-agentic-ai-platform-natively-integrated-with-aws
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 315751424ceb3b05670f38a5979ae3948e74fd5a4e86b8e2ae287d01cd7df0cd
 normalized_title_hash: b7607de9a9e667b7

@@ -4,8 +4,8 @@ title: Nvidia's $200B "Vera" Chip Bet and the H200 China Deal
 date: '2026-05-19'
 source: AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://abhs.in/blog/nvidia-h200-china-halt-vera-rubin-tsmc-capacity-gpu-supply-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: fbba8a4d9ab66d188744df2d74a0854cbb45229b58b1ac5c8896b000b6a6ca88

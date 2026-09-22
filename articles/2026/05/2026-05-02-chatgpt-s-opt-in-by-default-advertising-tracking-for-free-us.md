@@ -5,8 +5,8 @@ title: ChatGPT's opt-in-by-default advertising tracking for free users has drawn
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://opentools.ai/news/chatgpt-tracks-free-users-ads-default-openai-monetization
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4ec205bad7e0f3e86a442f5ff99e0f809a911fadc3346ff14a61c5b96c5615bd
 normalized_title_hash: fe7b98ba98847873

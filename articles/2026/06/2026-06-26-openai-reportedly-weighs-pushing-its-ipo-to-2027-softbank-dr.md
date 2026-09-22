@@ -4,8 +4,8 @@ title: OpenAI reportedly weighs pushing its IPO to 2027; SoftBank drops ~12%
 date: '2026-06-26'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/softbank-plunges-openai-ipo-delay-111458225.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-26_063915_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 021755e644cd1d76117f6537ab126cf0ff83a91e590ccbf84c406cda32e46fe6
