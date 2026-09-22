@@ -5,7 +5,7 @@ title: Apple targets Microsoft and Nvidia with new Macs designed to lower AI inf
 date: '2026-09-22'
 source: Reuters
 url_original: https://www.reuters.com/technology/apple-new-macs-target-microsoft-nvidia-ai-inference-costs-2026-09-22
-url_canonical: https://coinpaper.com/36110/aapl-stock-apple-takes-aim-at-nvidia-and-microsoft-with-cheaper-ai
+url_canonical: https://www.globalbankingandfinance.com/new-macs-apple-aims-take-microsoft-nvidia-rush-lower-ai/
 url_status: repaired
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md

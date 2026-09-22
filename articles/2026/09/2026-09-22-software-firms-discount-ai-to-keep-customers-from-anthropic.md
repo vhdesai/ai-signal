@@ -4,8 +4,8 @@ title: Software Firms Discount AI to Keep Customers from Anthropic and OpenAI
 date: '2026-09-22'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=software+firms+discount+AI+customers+anthropic+openai
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=software+firms+discount+AI+customers+anthropic+openai
-url_status: broken
+url_canonical: https://finance.yahoo.com/technology/ai/articles/market-chatter-big-software-firms-142042928.html
+url_status: repaired
 digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 0564be956b60bcef074aee7b2aef5138ed827f768d4469b839983d8f70410309

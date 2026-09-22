@@ -5,7 +5,7 @@ title: Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger batt
 date: '2026-09-22'
 source: The Information
 url_original: https://www.theinformation.com/articles/the-briefings-amazon-v-meta
-url_canonical: https://stocktwits.com/news-articles/markets/equity/meta-stock-rallies-as-muse-ai-tops-app-charts-exec-admits-it-s-heavily-inspired-by-open-claw/cZMPJD5RBIv
+url_canonical: https://www.geekwire.com/2026/amazons-fight-with-meta-who-owns-the-customer-relationship-when-an-agent-does-the-buying/
 url_status: repaired
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md

@@ -5,7 +5,7 @@ title: Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter
 date: '2026-09-22'
 source: AP / Seattle Times
 url_original: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
-url_canonical: https://finance.yahoo.com/technology/ai/articles/alibaba-shares-rise-company-unveils-104706372.html
+url_canonical: https://tech.yahoo.com/ai/gemini/articles/zhenwu-v900-alibaba-most-powerful-124500673.html
 url_status: repaired
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md

@@ -4,7 +4,7 @@ title: NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics
 date: '2026-09-22'
 source: NVIDIA Blog
 url_original: https://developer.nvidia.com/blog/isaac-ros-5-0-agentic-robotics/
-url_canonical: https://www.unite.ai/nvidias-isaac-ros-5-0-adds-agentic-skills-and-ros-lyrical-support/
+url_canonical: https://developer.nvidia.com/isaac/ros
 url_status: repaired
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md

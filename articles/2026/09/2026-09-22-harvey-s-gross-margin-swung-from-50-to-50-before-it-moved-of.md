@@ -5,8 +5,8 @@ title: Harvey's gross margin swung from +50% to −50% before it moved off front
 date: '2026-09-22'
 source: Bloomberg
 url_original: null
-url_canonical: https://aiweekly.co/alerts/harvey-moves-flagship-off-frontier-labs-to-moonshots-kimi-k3
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 43cc486bcfe7556b869f9e5c66c2bb667e5be589b91a838273dfd06d92bf7438
