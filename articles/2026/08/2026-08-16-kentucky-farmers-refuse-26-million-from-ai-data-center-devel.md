@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
+- 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
-- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 embedding_id: 2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Two self-described "country hicks" in Maysville, Kentucky, turned down a life-ch
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]]
+**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]] · [[2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]]
 <!-- graph:end -->

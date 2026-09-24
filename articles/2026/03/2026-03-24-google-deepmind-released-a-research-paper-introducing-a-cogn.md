@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
-- 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
+- 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 embedding_id: 2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind released a research paper introducing a cognitive framework for 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph]]
+**Related:** [[2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]]
 <!-- graph:end -->

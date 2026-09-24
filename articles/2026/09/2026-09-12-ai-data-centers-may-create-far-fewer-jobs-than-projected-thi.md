@@ -28,11 +28,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-13-sunday-september-13-2026
 - 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 - 2026-08-26-bill-gates-warns-about-ai-risks
-- 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 embedding_id: 2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi
 event_name: ''
 ---
@@ -46,5 +46,5 @@ A think-tank analysis surfaced in the CIO Dive Weekender warns that projected jo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-13-sunday-september-13-2026]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety]]
+**Related:** [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-13-sunday-september-13-2026]] · [[2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas]] · [[2026-08-26-bill-gates-warns-about-ai-risks]]
 <!-- graph:end -->

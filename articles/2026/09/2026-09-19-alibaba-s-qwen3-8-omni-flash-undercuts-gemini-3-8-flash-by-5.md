@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing
 - 2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
+- 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
 embedding_id: 2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-by-5
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Qwen released Qwen3.8-Omni-Flash, its first multimodal model built specifically 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m]] · [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing]] · [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
+**Related:** [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m]] · [[2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-flash-pricing]] · [[2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]]
 <!-- graph:end -->

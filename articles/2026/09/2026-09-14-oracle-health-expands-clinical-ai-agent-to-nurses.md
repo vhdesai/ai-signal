@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 - 2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
-- 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 embedding_id: 2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle expanded its Clinical AI Agent — which the company says has saved physi
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]]
+**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]] · [[2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent]]
 <!-- graph:end -->

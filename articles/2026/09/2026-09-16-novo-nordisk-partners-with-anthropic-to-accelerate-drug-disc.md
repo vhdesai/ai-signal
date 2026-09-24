@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial]]
 <!-- graph:end -->

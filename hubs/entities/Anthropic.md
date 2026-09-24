@@ -1,18 +1,38 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2112
+member_count: 2133
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2112 connected article(s).
+> Auto-generated entity hub. 2133 connected article(s).
 
+- `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
+- `2026-09-24` [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed|Anthropic says Claude helped discover a possible new gene-editing tool]]
+- `2026-09-24` [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par|Amazon gives sellers 12 months of Quick Plus for free as part of AI freebies race]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has|Google DeepMind launches "DeepMind Institute" for safe AGI; Hassabis proposes US-led frontier standards body]]
+- `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
+- `2026-09-23` [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li|Anthropic's Claude Autonomously Identifies a Novel CRISPR-Like Enzyme System]]
+- `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts|OpenAI ships GPT-6 Sol and GPT-6 Luna with 50% API price cuts]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
@@ -25,6 +45,7 @@ member_count: 2112
 - `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
 - `2026-09-22` [[2026-09-22-anthropic-s-claude-hit-by-widespread-outage|Anthropic's Claude Hit by Widespread Outage]]
 - `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-anthropic-releases-claude-opus-5-5-with-85-fewer-containment|Anthropic releases Claude Opus 5.5 with ~85% fewer containment-boundary attempts]]
 - `2026-09-22` [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will|Anthropic details plans for a biology lab where Claude will guide robots through drug experiments]]
 - `2026-09-22` [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob|Anthropic Builds a Bay Area Wet Lab Where Claude Directs Robotic Experiments]]
 - `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]

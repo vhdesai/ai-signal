@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
+- 2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund
 - 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
 - 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
-- 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 embedding_id: 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ Pro reports Cyera added a $400M extension from Goldman Sachs's venture arm t
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]]
+**Related:** [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund]] · [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]]
 <!-- graph:end -->

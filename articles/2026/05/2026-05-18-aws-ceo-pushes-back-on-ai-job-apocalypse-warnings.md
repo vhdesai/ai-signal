@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 embedding_id: 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon Web Services CEO publicly disputed forecasts of mass AI-driven white-coll
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
+**Related:** [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

@@ -1,19 +1,26 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 773
+member_count: 780
 ---
 
 # Meta
 
-> Auto-generated entity hub. 773 connected article(s).
+> Auto-generated entity hub. 780 connected article(s).
 
+- `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
+- `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
+- `2026-09-22` [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts|OpenAI ships GPT-6 Sol and GPT-6 Luna with 50% API price cuts]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
 - `2026-09-22` [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout|Instinct at ~$10B: BI profiles the 23-year-old college dropout Noah Shinn]]
 - `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
 - `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]
 - `2026-09-21` [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte|Robert Langer and Yann LeCun join the board of Cellular Intelligence]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us|Meta's Muse outpaces ChatGPT's early mobile launch in the US and Canada]]

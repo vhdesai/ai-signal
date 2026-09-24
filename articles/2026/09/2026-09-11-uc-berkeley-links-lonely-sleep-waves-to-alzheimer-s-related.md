@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Berkeley News
 url_original: https://news.berkeley.edu/2026/09/11/new-uc-berkeley-study-links-deep-sleep-loss-to-alzheimers-related-protein-buildup/
 url_canonical: https://news.berkeley.edu/2026/09/11/new-uc-berkeley-study-links-deep-sleep-loss-to-alzheimers-related-protein-buildup/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 6f35800711105149390aa51cc7eda494a4cd3c9833395e9890b55dfd0512697e

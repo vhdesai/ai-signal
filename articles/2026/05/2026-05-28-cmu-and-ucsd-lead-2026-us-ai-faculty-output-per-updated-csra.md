@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
+- 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 embedding_id: 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The CSRankings dataset refreshed on May 28 places Carnegie Mellon, UC San Diego,
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]]
+**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]]
 <!-- graph:end -->

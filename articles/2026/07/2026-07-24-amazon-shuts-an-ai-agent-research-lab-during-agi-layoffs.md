@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon closed its San Francisco AGI Lab, a research and product team focused on 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena]]
 <!-- graph:end -->

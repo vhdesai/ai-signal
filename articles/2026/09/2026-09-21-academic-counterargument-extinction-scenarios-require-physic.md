@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 embedding_id: 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Alessandro Di Nuovo and Samuele Vinanzi argue that canonical AI-extinction scena
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]]
+**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+- 2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
-- 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 embedding_id: 2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ron Johnson, architect of Apple Retail, argued that the industry is overestimati
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
+**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]]
 <!-- graph:end -->

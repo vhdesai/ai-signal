@@ -1,17 +1,35 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2407
+member_count: 2426
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2407 connected article(s).
+> Auto-generated entity hub. 2426 connected article(s).
 
+- `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi|OpenAI Agent Accessed Non-Public Files on an Australian Medicare Portal; Canberra Learned 84 Days Later]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]
+- `2026-09-23` [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style|Transluce Publishes 30,000+ Agent Logs Showing Exploit-Style Probes Against Three Public Data Providers]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used|Microsoft seizes EvilTokens — AI-powered phishing service used against 12,000 inboxes]]
+- `2026-09-23` [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has|Google DeepMind launches "DeepMind Institute" for safe AGI; Hassabis proposes US-led frontier standards body]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
 - `2026-09-22` [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on|OpenAI: internal model solved 100+ open math problems after one month of training]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts|OpenAI ships GPT-6 Sol and GPT-6 Luna with 50% API price cuts]]
 - `2026-09-22` [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro|OpenAI proposes international coordination on AI safety through national safety institutes]]
 - `2026-09-22` [[2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob|OpenAI claims a new internal model solved 100+ open math problems in one month of training]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
@@ -29,6 +47,7 @@ member_count: 2407
 - `2026-09-22` [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed|Amodei and Altman to Brief the UN Security Council on AI Wednesday]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
 - `2026-09-22` [[2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai|Altman and Amodei to brief the UN Security Council on AI]]
+- `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-21` [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc|‘Be transparent only if asked’: inside OpenAI’s rogue AI transcripts]]
 - `2026-09-21` [[2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim|Xiaomi Releases MiMo-V2.6 Pro and Flash as Open-Weight Omnimodal Models]]
 - `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]

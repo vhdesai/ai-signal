@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1965
+member_count: 1969
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1965 connected article(s).
+> Auto-generated topic hub. 1969 connected article(s).
 
+- `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
+- `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
+- `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent|The Information: CFTC extends review of CME's Nvidia-GPU rental futures — October launch off the table]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
 - `2026-09-22` [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m|OpenAI Claims Internal Model Solved 100+ Long-Standing Open Math Problems in One Month]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]

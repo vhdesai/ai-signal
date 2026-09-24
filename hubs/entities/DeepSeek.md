@@ -1,15 +1,24 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 467
+member_count: 476
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 467 connected article(s).
+> Auto-generated entity hub. 476 connected article(s).
 
+- `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
 - `2026-09-22` [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a|DeepSeek and Moonshot Join the Security Council Session as AI Safety Enters Trade Talks]]
 - `2026-09-22` [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh|China's Cyberspace Administration Probes DeepSeek and Moonshot Over Anthropic's Data-Routing Allegations]]

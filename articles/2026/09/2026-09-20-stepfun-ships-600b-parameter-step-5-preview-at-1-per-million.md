@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: StepFun
 url_original: https://www.stepfun.com/step-5-preview
 url_canonical: https://www.stepfun.com/step-5-preview
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 23a72276e85dad6eb574c0040d58f39add9a2f99c96e3f3bb4139a491d294930

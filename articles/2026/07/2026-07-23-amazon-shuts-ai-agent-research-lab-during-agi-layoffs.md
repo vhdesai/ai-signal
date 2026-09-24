@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
-- 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 embedding_id: 2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports that Amazon shut an AI agent research lab as part of bro
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin]]
+**Related:** [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]]
 <!-- graph:end -->

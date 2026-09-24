@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
 url_canonical: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: e5c4d1da0be74c2e26cad97daee1bcb15039d194ac955a76c8106c78ea8e6bca

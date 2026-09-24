@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
-- 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 embedding_id: 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]]
+**Related:** [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]]
 <!-- graph:end -->

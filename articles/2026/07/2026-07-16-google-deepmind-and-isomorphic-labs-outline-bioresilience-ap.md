@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
+- 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
-- 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 embedding_id: 2026-07-16-google-deepmind-and-isomorphic-labs-outline-bioresilience-ap
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind and Isomorphic Labs published a joint approach to bioresilience,
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
+**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

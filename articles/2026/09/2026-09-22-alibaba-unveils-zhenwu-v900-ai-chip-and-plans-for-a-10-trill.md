@@ -5,8 +5,8 @@ title: Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter
 date: '2026-09-22'
 source: AP / Seattle Times
 url_original: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
-url_canonical: https://tech.yahoo.com/ai/gemini/articles/zhenwu-v900-alibaba-most-powerful-124500673.html
-url_status: repaired
+url_canonical: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ce36262e8ca2babe3529604462bb62bd845e2d05bb2d288511249e280fe1184d
@@ -28,6 +28,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
@@ -44,5 +45,5 @@ At its Apsara conference, Alibaba unveiled the Zhenwu V900 AI chip and disclosed
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
+**Related:** [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc
 - 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
 - 2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu
 - 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 - 2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 embedding_id: 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Speaking to Fortune on the sidelines of the AI for Good Global Summit, Microsoft
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul]] · [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu]] · [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in]] · [[2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Related:** [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc]] · [[2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul]] · [[2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu]] · [[2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in]] · [[2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac]]
 <!-- graph:end -->

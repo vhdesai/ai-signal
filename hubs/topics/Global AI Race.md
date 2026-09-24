@@ -1,19 +1,32 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1424
+member_count: 1438
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1424 connected article(s).
+> Auto-generated topic hub. 1438 connected article(s).
 
+- `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no|China leads US in top AI talent — 40.6% of elite researchers now based in China, per Carnegie China]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
+- `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev|US and China Open a Formal Hotline for National-Security-Level AI Incidents]]
 - `2026-09-22` [[2026-09-22-u-s-and-china-weigh-an-ai-red-telephone-ahead-of-the-trump-x|U.S. and China Weigh an AI "Red Telephone" Ahead of the Trump–Xi Summit]]
 - `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro|OpenAI proposes international coordination on AI safety through national safety institutes]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
 - `2026-09-22` [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a|DeepSeek and Moonshot Join the Security Council Session as AI Safety Enters Trade Talks]]
@@ -31,6 +44,7 @@ member_count: 1424
 - `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]

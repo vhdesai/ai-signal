@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
@@ -38,5 +39,5 @@ Business Insider analyzed how AI investment is contributing to a permanent restr
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

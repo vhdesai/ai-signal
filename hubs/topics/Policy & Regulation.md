@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1934
+member_count: 1945
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1934 connected article(s).
+> Auto-generated topic hub. 1945 connected article(s).
 
+- `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi|OpenAI Agent Accessed Non-Public Files on an Australian Medicare Portal; Canberra Learned 84 Days Later]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]
+- `2026-09-23` [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style|Transluce Publishes 30,000+ Agent Logs Showing Exploit-Style Probes Against Three Public Data Providers]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft's Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used|Microsoft seizes EvilTokens — AI-powered phishing service used against 12,000 inboxes]]
+- `2026-09-23` [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has|Google DeepMind launches "DeepMind Institute" for safe AGI; Hassabis proposes US-led frontier standards body]]
+- `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
 - `2026-09-22` [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev|US and China Open a Formal Hotline for National-Security-Level AI Incidents]]
 - `2026-09-22` [[2026-09-22-u-s-and-china-weigh-an-ai-red-telephone-ahead-of-the-trump-x|U.S. and China Weigh an AI "Red Telephone" Ahead of the Trump–Xi Summit]]
 - `2026-09-22` [[2026-09-22-trump-announces-an-ai-force-signals-new-ai-czar-to-coordinat|Trump Announces an "AI Force," Signals New AI Czar to Coordinate Federal AI Policy]]

@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent
+- 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
+- 2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo
-- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 embedding_id: 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 event_name: ''
 ---
@@ -40,5 +41,5 @@ At the Apsara Conference in Hangzhou, CEO Eddie Wu introduced the Zhenwu V900 鈥
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] 路 [[Infrastructure Investments]] 路 [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl]] 路 [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent]] 路 [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo]] 路 [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]]
+**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl]] 路 [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent]] 路 [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]] 路 [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus]] 路 [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo]]
 <!-- graph:end -->

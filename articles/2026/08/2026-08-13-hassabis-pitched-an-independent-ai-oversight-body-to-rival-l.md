@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
+- 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 embedding_id: 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google DeepMind's Demis Hassabis proposed an independent industry body to codify
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]]
+**Related:** [[2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u]] · [[2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]] · [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]]
 <!-- graph:end -->

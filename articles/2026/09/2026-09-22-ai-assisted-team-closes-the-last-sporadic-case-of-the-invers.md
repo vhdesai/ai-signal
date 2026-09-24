@@ -4,8 +4,8 @@ title: AI-assisted team closes the last sporadic case of the inverse Galois prob
 date: '2026-09-22'
 source: Scientific American
 url_original: null
-url_canonical: https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 921923c16d8f9806d54384d2aadba5283b19b20aeffc9dbc28ad25c28ce933a6

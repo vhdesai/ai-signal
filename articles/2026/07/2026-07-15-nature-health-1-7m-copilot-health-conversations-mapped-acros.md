@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 embedding_id: 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A Microsoft AI study analyzed 1.7M health-related Copilot conversations across 1
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]]
+**Related:** [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

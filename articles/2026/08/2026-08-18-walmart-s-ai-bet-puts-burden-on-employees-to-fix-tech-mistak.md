@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 embedding_id: 2026-08-18-walmart-s-ai-bet-puts-burden-on-employees-to-fix-tech-mistak
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Walmart's aggressive deployment of AI in store operations is creating a new dyna
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]]
+**Related:** [[2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
 <!-- graph:end -->

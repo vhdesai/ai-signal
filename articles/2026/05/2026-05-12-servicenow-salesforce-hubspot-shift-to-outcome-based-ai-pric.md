@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-openai-tests-outcome-based-pricing-with-major-customers
 - 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro
-- 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
+- 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
 embedding_id: 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new survey of 230 enterprise software firms by former OpenView partner Kyle Po
 
 **Entities:** [[Adobe]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo]] · [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]]
+**Related:** [[2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo]] · [[2026-08-31-openai-tests-outcome-based-pricing-with-major-customers]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro]] · [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: The Manila Times
 url_original: https://www.manilatimes.net/2026/08/13/business/foreign-business/ai-firm-manus-to-resume-independent-operations/2403833
 url_canonical: https://www.manilatimes.net/2026/08/13/business/foreign-business/ai-firm-manus-to-resume-independent-operations/2403833
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: c53cdd2f52ead23b3fc14f9399cd4602d9338bc0306fd85f76523298d1f16de4
 normalized_title_hash: 8dc7238c883375ad

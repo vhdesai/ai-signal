@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c
 - 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
 - 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
-- 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 embedding_id: 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Scion Asset Management's latest 13F shows Michael Burry now holds ~$912M in noti
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
+**Related:** [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s]] · [[2026-08-12-anthropic-courts-investors-ahead-of-fall-ipo-michael-burry-c]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing]]
 <!-- graph:end -->

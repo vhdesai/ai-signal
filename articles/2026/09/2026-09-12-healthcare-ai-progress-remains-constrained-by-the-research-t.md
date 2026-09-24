@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 embedding_id: 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Bioengineer.org reported that AI is poised to transform medicine, but many tools
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

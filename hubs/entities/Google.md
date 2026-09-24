@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1435
+member_count: 1449
 ---
 
 # Google
 
-> Auto-generated entity hub. 1435 connected article(s).
+> Auto-generated entity hub. 1449 connected article(s).
 
+- `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and|Google Ships Gemini 3.8 Flash TTS With Voice Replication and Directed Performance]]
+- `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used|Microsoft seizes EvilTokens — AI-powered phishing service used against 12,000 inboxes]]
+- `2026-09-23` [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has|Google DeepMind launches "DeepMind Institute" for safe AGI; Hassabis proposes US-led frontier standards body]]
+- `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]

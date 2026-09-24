@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
+- 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 embedding_id: 2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras
 event_name: ''
@@ -38,5 +39,5 @@ KKR is backing Helix Digital Infrastructure, a new venture targeting roughly $10
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
+**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]]
 <!-- graph:end -->

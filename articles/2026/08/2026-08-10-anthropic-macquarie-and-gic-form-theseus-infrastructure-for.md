@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
 - 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
 - 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b
+- 2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
-- 2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i
 embedding_id: 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The three parties launched Theseus Infrastructure to develop, operate and lease 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]] · [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]] · [[2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i]]
+**Related:** [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo]] · [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]] · [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b]] · [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing]]
 <!-- graph:end -->

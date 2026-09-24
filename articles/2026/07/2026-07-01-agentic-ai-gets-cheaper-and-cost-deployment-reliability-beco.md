@@ -27,10 +27,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-09-12-saturday-september-12-2026
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
-- 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 embedding_id: 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The last 24 hours were defined less by raw capability than by the economics of p
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-09-12-saturday-september-12-2026]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]]
+**Related:** [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-09-12-saturday-september-12-2026]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]]
 <!-- graph:end -->

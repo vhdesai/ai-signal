@@ -28,6 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen
+- 2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen
 - 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 embedding_id: 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
@@ -43,5 +44,5 @@ British neocloud Nscale filed to list on the NYSE at an expected $35B valuation,
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen]] · [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]]
+**Related:** [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen]] · [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen]] · [[2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account]] · [[2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m]]
 <!-- graph:end -->

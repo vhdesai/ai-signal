@@ -1,14 +1,28 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1640
+member_count: 1654
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1640 connected article(s).
+> Auto-generated topic hub. 1654 connected article(s).
 
+- `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
+- `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher's CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
+- `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft's Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
+- `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent|The Information: CFTC extends review of CME's Nvidia-GPU rental futures — October launch off the table]]
+- `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]

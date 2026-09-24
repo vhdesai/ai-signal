@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
 - 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
-- 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 embedding_id: 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In its Annual Economic Report released Sunday, the BIS flagged an AI-driven bust
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off]]
+**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely]] · [[2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]]
 <!-- graph:end -->

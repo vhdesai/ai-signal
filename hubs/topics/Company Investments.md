@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1183
+member_count: 1193
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1183 connected article(s).
+> Auto-generated topic hub. 1193 connected article(s).
 
+- `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-23` [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund|WSJ Pro: Cyber startups on pace to more than double 2024 funding — seed is the new Series B]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]

@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
 - 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
 - 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
 embedding_id: 2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai
@@ -38,5 +39,5 @@ Semafor reports the US Commerce Department last month ordered prediction market 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja]]
+**Related:** [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent]] · [[2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token]] · [[2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja]]
 <!-- graph:end -->

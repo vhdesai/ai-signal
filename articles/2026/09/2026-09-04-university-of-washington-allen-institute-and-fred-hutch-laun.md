@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
+- 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-- 2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood
 embedding_id: 2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun
 event_name: ''
 ---
@@ -35,5 +35,5 @@ UW Medicine coverage described a $95M AI BioDesign effort across UW, the Allen I
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood]]
+**Related:** [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
 <!-- graph:end -->

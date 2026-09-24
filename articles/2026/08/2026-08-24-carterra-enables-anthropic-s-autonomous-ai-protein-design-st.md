@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-29-anthropic-s-mhs-preview-reports-early-lab-and-quantum-comput
+- 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
-- 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 embedding_id: 2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carterra announced that its high-throughput surface plasmon resonance platforms 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-29-anthropic-s-mhs-preview-reports-early-lab-and-quantum-comput]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of]]
+**Related:** [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-08-29-anthropic-s-mhs-preview-reports-early-lab-and-quantum-comput]] · [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]]
 <!-- graph:end -->

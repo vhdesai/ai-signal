@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 226
+member_count: 228
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 226 connected article(s).
+> Auto-generated entity hub. 228 connected article(s).
 
+- `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
+- `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b|Microsoft and Anthropic Account for $87.7B of Nscale's $103B Backlog]]
 - `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]

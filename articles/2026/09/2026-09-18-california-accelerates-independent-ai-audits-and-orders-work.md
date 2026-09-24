@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: Office of the Governor of California
 url_original: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/
 url_canonical: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 9b402be070d7f0306ee297e3efb947f145ac6b136ab051a6069a450cebdd9db3

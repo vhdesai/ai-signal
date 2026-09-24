@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 96
+member_count: 97
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 96 connected article(s).
+> Auto-generated entity hub. 97 connected article(s).
 
+- `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
 - `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
 - `2026-09-21` [[2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr|ByteDance launches Dramagic — a full-pipeline AI system for producing short dramas from script to screen]]
 - `2026-09-19` [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre|Google DeepMind's Dream-RSI helps agents self-improve by "dreaming" through past search runs]]

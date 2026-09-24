@@ -24,7 +24,8 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
-related_article_ids: []
+related_article_ids:
+- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo
 event_name: ''
 ---
@@ -39,4 +40,5 @@ Alibaba's T-Head semiconductor unit unveiled the Zhenwu V900 AI chip, with repor
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]]
+**Related:** [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
 <!-- graph:end -->

@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 606
+member_count: 615
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 606 connected article(s).
+> Auto-generated entity hub. 615 connected article(s).
 
+- `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
+- `2026-09-24` [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par|Amazon gives sellers 12 months of Quick Plus for free as part of AI freebies race]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 embedding_id: 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford Health Care's 18-month experiment of running new AI tools past patient 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]]
 <!-- graph:end -->

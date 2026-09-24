@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 - 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
+- 2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund
 - 2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption
-- 2026-08-17-arm-cfo-eyes-acquisitions-as-ai-chip-revenue-soars-supply-co
 embedding_id: 2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ Wealth Adviser reports that cybersecurity dealmaking surged in the first hal
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption]] · [[2026-08-17-arm-cfo-eyes-acquisitions-as-ai-chip-revenue-soars-supply-co]]
+**Related:** [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse]] · [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund]] · [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption]]
 <!-- graph:end -->

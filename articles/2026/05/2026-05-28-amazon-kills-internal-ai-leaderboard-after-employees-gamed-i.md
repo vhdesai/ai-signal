@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 - 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 - 2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs
-- 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 embedding_id: 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon retired an internal AI ranking system after employees inflated their scor
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]]
+**Related:** [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
-- 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
+- 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
 embedding_id: 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The NIH awarded UCSD $4.85M to grow NEMAR into a national high-performance compu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]]
+**Related:** [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]] · [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and]]
 <!-- graph:end -->

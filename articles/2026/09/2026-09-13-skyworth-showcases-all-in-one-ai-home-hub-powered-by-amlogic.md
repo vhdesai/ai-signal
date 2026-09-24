@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Columbus Dispatch
 url_original: https://www.dispatch.com/press-release/story/237839/skyworth-digital-showcased-new-all-in-one-ai-home-hub-powered-by-amlogic-s905d5-at-ibc-2026/
 url_canonical: https://www.dispatch.com/press-release/story/237839/skyworth-digital-showcased-new-all-in-one-ai-home-hub-powered-by-amlogic-s905d5-at-ibc-2026/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-13_060533_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 79a4074b86811d20aa4b85083f30ea10ce273697a9b10387847c522dead38358

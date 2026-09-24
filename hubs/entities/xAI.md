@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 397
+member_count: 398
 ---
 
 # xAI
 
-> Auto-generated entity hub. 397 connected article(s).
+> Auto-generated entity hub. 398 connected article(s).
 
 - `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-cheap-but-benchmarks-show-a-wide-gap-to-c|xAI ships Grok 4.7 cheap — but benchmarks show a wide gap to Claude Fable 5.1 and GPT-6]]
 - `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing|xAI ships Grok 4.7 at unchanged $2/$6 pricing]]
 - `2026-09-21` [[2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6|xAI releases Grok 4.7 at the same $2/$6 price as Grok 4.6]]

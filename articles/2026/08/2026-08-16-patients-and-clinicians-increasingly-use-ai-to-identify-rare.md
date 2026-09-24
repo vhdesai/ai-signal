@@ -26,10 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
 embedding_id: 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Patients, families, doctors, and nurses are turning to AI tools — including ph
 
 **Entities:** [[Arm]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t]]
+**Related:** [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

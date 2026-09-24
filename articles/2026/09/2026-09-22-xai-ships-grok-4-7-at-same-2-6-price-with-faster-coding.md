@@ -4,8 +4,8 @@ title: xAI ships Grok 4.7 at same $2/$6 price with faster coding
 date: '2026-09-22'
 source: Dataconomy
 url_original: https://dataconomy.com/2026/09/22/xai-launches-grok-4-7-pricing-coding-benchmarks/
-url_canonical: https://dataconomy.com/ai-models/grok-code-fast-1/
-url_status: repaired
+url_canonical: https://dataconomy.com/2026/09/22/xai-launches-grok-4-7-pricing-coding-benchmarks/
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: e0264d72ec9fb5e87d8d20c58d1f65aae47bdde5cd1a8a124e3acdfe9689b93a

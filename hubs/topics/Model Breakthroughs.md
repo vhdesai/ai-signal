@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3086
+member_count: 3095
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3086 connected article(s).
+> Auto-generated topic hub. 3095 connected article(s).
 
+- `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and|Google Ships Gemini 3.8 Flash TTS With Voice Replication and Directed Performance]]
+- `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed|Anthropic says Claude helped discover a possible new gene-editing tool]]
+- `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li|Anthropic's Claude Autonomously Identifies a Novel CRISPR-Like Enzyme System]]
 - `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
@@ -16,13 +22,16 @@ member_count: 3086
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
 - `2026-09-22` [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on|OpenAI: internal model solved 100+ open math problems after one month of training]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
+- `2026-09-22` [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts|OpenAI ships GPT-6 Sol and GPT-6 Luna with 50% API price cuts]]
 - `2026-09-22` [[2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob|OpenAI claims a new internal model solved 100+ open math problems in one month of training]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold|China's MLCC market splits in two — AI-server components hold prices as consumer components fall two-thirds]]
 - `2026-09-22` [[2026-09-22-china-pushes-miniaturized-han-xin-barcode-into-iso-standardi|China pushes miniaturized "Han Xin" barcode into ISO standardization to challenge US-anchored chip-industry standards]]
+- `2026-09-22` [[2026-09-22-anthropic-releases-claude-opus-5-5-with-85-fewer-containment|Anthropic releases Claude Opus 5.5 with ~85% fewer containment-boundary attempts]]
 - `2026-09-22` [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will|Anthropic details plans for a biology lab where Claude will guide robots through drug experiments]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
 - `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-cheap-but-benchmarks-show-a-wide-gap-to-c|xAI ships Grok 4.7 cheap — but benchmarks show a wide gap to Claude Fable 5.1 and GPT-6]]
 - `2026-09-21` [[2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing|xAI ships Grok 4.7 at unchanged $2/$6 pricing]]

@@ -1,16 +1,36 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4445
+member_count: 4465
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4445 connected article(s).
+> Auto-generated topic hub. 4465 connected article(s).
 
+- `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
+- `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher's CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
+- `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
+- `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no|China leads US in top AI talent — 40.6% of elite researchers now based in China, per Carnegie China]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-24` [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par|Amazon gives sellers 12 months of Quick Plus for free as part of AI freebies race]]
+- `2026-09-23` [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund|WSJ Pro: Cyber startups on pace to more than double 2024 funding — seed is the new Series B]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
+- `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-trump-announces-an-ai-force-signals-new-ai-czar-to-coordinat|Trump Announces an "AI Force," Signals New AI Czar to Coordinate Federal AI Policy]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]

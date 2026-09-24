@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Yahoo Finance reported that Oracle's large AI infrastructure bet has weighed hea
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
 <!-- graph:end -->

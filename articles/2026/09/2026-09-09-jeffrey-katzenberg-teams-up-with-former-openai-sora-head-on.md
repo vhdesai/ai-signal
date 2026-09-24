@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
+- 2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 - 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
@@ -39,5 +40,5 @@ Hollywood mogul Jeffrey Katzenberg is teaming with the former head of OpenAI's S
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide]] · [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide]] · [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato]] · [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
 <!-- graph:end -->

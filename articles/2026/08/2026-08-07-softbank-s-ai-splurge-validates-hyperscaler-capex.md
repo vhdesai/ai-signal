@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
+- 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 embedding_id: 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The Information's briefing argues that SoftBank's massive AI spending program se
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality]]
 <!-- graph:end -->

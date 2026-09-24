@@ -24,9 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 - 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
-- 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
+- 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 embedding_id: 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Google DeepMind launched the DeepMind Institute with Shane Legg, James Manyika, 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]]
+**Related:** [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]] · [[2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for]]
 <!-- graph:end -->

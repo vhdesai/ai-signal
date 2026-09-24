@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 - 2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn
+- 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 - 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
-- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 embedding_id: 2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS is retiring several first-generation AI services ~2 years after launch, refl
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
+**Related:** [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]]
 <!-- graph:end -->

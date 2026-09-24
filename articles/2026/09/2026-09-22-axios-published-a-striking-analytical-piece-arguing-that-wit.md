@@ -10,8 +10,8 @@ title: Axios published a striking analytical piece arguing that with approximate
 date: '2026-09-22'
 source: 'Source: Axios'
 url_original: null
-url_canonical: https://www.bain.com/about/media-center/press-releases/2026/ai-puts-$4.7-trillion-of-profits-at-stake-creating-a-competitive-battleground-across-industries
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-22_064820_Inbox_ClawPilot - Daily AI News Digest
   - September 22, 2026.md
 content_hash: 51d58cfb0b4274833dfc8741e9ae29910b518de7e8946709aa6bd019ca882ead

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 30
+member_count: 32
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 30 connected article(s).
+> Auto-generated entity hub. 32 connected article(s).
 
+- `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
+- `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-21` [[2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep|OpenAI Expected to Introduce Managed Agents at DevDay on September 29]]
 - `2026-09-03` [[2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro|Snowflake resists outcome-based pricing as CoCo adoption grows]]
 - `2026-09-03` [[2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt|Snowflake defies outcome-pricing pressure as AI coding adoption accelerates]]
