@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more
 - 2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms
+- 2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
-- 2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 embedding_id: 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Two Virginia Tech computer scientists published RNAbpFlow in Nature Methods, a f
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more]] · [[2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms]] · [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co]] · [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
+- 2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
-- 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 embedding_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Pro Cybersecurity reports an unauthorized AI tool exfiltrated banking custom
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
+**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]]
 <!-- graph:end -->

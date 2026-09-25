@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
+- 2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone
 - 2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i
 embedding_id: 2026-08-26-openai-s-data-center-chief-chris-malone-departs
 event_name: ''
@@ -38,5 +39,5 @@ OpenAI's head of data centers has left as the company reorganizes the teams resp
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i]]
+**Related:** [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]] · [[2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone]] · [[2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i]]
 <!-- graph:end -->

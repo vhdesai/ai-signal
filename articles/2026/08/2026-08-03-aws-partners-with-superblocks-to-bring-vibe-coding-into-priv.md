@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-- 2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t
+- 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
 embedding_id: 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch reports that AWS signed a multiyear joint marketing agreement with Su
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t]]
+**Related:** [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]]
 <!-- graph:end -->

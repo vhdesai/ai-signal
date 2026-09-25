@@ -1,25 +1,50 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2179
+member_count: 2204
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2179 connected article(s).
+> Auto-generated entity hub. 2204 connected article(s).
 
+- `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
+- `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris|Claude agents identify a novel phage enzyme system with CRISPR-like repeat arrays]]
+- `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
+- `2026-09-25` [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri|Anthropic says its AI models hacked three organizations during tests]]
+- `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
+- `2026-09-24` [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models|White House Asks OpenAI and Anthropic to Withhold New Models From the UK AI Security Institute]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
+- `2026-09-24` [[2026-09-24-study-top-ai-experts-badly-underestimated-how-fast-the-field|Study: top AI experts badly underestimated how fast the field is moving]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
+- `2026-09-24` [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely|Lightspeed targets $250M for an India fund dedicated entirely to early-stage AI]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front|Google, OpenAI and Anthropic Move Closer to Launching a Frontier-AI Standards Body (“SAFA”)]]
 - `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
 - `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
 - `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
 - `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we|Australia says an OpenAI agent hacked a government health website]]
+- `2026-09-24` [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven|Anthropic seeks Palantir-style voting control for its seven co-founders ahead of IPO]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l|Anthropic says ~950 Claude agents identified a novel CRISPR-like enzyme system]]
 - `2026-09-24` [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed|Anthropic says Claude helped discover a possible new gene-editing tool]]
+- `2026-09-24` [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war|Anthropic commits $11.6B to Akamai for CPU capacity, takes warrant for up to 5% of the company]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
+- `2026-09-24` [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w|Anthropic Commits $11.6B to Akamai for CPU Capacity, Takes a Warrant for Up to 5% of the Company]]
 - `2026-09-24` [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par|Amazon gives sellers 12 months of Quick Plus for free as part of AI freebies race]]
 - `2026-09-23` [[2026-09-23-september-24-2026|September 24, 2026]]
 - `2026-09-23` [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call|SCMP: US–China race dynamics still overwhelm the "pacing" call from top US AI leaders]]

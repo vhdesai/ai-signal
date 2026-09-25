@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
-- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 embedding_id: 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Hill reports the administration's request that OpenAI and Anthropic delay or
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]]
 <!-- graph:end -->

@@ -1,16 +1,26 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1540
+member_count: 1550
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1540 connected article(s).
+> Auto-generated entity hub. 1550 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
+- `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
+- `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
+- `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
+- `2026-09-24` [[2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone|Nvidia Hires OpenAI’s Former Data Center Chief Chris Malone as VP, DSX Platform]]
+- `2026-09-24` [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co|NVIDIA, Google DeepMind, and EMBL-EBI release viral protein-complex structures for pandemic preparedness]]
 - `2026-09-24` [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight|Micron ends 2GB GDDR7 production, narrowing an already tight memory market]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-24` [[2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more|AlphaFold Database Adds Predicted Protein Complexes for More Than 2,800 Viruses]]
 - `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
 - `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]

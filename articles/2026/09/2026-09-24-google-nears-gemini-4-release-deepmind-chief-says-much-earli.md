@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
+- 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
 - 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 embedding_id: 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
@@ -41,5 +42,5 @@ At The Information's AI Agenda Live Summit — in his first media appearance as 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
+**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
 <!-- graph:end -->

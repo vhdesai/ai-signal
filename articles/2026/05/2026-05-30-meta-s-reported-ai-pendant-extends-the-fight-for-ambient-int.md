@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
+- 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable
-- 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 embedding_id: 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta is reportedly developing an AI pendant, pushing the AI hardware race beyond
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]]
 <!-- graph:end -->

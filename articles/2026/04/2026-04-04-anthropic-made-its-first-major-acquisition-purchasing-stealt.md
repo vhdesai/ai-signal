@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
+- 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
-- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 embedding_id: 2026-04-04-anthropic-made-its-first-major-acquisition-purchasing-stealt
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic made its first major acquisition, purchasing stealth biotech AI startu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a]] · [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]]
+**Related:** [[2026-08-20-anthropic-s-enterprise-jv-ode-makes-first-acquisition-buys-a]] · [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]]
 <!-- graph:end -->

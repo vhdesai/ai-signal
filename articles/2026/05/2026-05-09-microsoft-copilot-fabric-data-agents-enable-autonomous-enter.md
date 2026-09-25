@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 embedding_id: 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft's May 2026 platform updates introduce Fabric "Data Agents" and Copilot
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
 <!-- graph:end -->

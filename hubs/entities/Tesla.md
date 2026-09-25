@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 50
+member_count: 54
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 50 connected article(s).
+> Auto-generated entity hub. 54 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
+- `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
 - `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw|NVIDIA launches DSX Ready to qualify power and cooling hardware for AI factories]]
 - `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-06` [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis|Travis Kalanick's Atoms is reportedly moving into robotaxis]]

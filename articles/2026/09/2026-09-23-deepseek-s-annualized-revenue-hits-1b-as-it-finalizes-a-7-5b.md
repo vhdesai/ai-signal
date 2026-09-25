@@ -25,6 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a
 - 2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo
+- 2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ
+- 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t
 embedding_id: 2026-09-23-deepseek-s-annualized-revenue-hits-1b-as-it-finalizes-a-7-5b
 event_name: ''
 ---
@@ -38,5 +40,5 @@ CEO Liang Wenfeng told investors that DeepSeek's run-rate revenue more than doub
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a]] · [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo]]
+**Related:** [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a]] · [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo]] · [[2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ]] · [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t]]
 <!-- graph:end -->

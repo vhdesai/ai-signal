@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable
+- 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 embedding_id: 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
@@ -37,5 +38,5 @@ Meta previewed Muse Charm, a small Tamagotchi-like wearable that keeps users con
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
+**Related:** [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]] · [[2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
 <!-- graph:end -->

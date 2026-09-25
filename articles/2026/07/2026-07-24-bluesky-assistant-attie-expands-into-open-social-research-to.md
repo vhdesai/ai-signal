@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
+- 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-07-24-bluesky-assistant-attie-expands-into-open-social-research-to
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Bluesky's AI assistant Attie expanded into a tool for as
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard]]
 <!-- graph:end -->

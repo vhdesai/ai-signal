@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Seeking Alpha reported that Amazon is expanding model availability in AWS GovClo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a]] · [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

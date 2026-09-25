@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
-- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-- 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
-- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 embedding_id: 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Per an internal memo seen by The Information, Microsoft will consolidate its con
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]]
 <!-- graph:end -->

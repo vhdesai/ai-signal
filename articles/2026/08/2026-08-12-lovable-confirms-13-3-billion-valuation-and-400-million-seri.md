@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-08-12-lovable-confirms-400m-raise-at-a-13-3b-valuation
-- 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
+- 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 embedding_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Lovable said it raised $400 million in a Series C round led by Menlo Ventures an
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-12-lovable-confirms-400m-raise-at-a-13-3b-valuation]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]]
+**Related:** [[2026-08-12-lovable-confirms-400m-series-c-at-13-3b-valuation]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-12-lovable-confirms-400m-raise-at-a-13-3b-valuation]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]]
 <!-- graph:end -->

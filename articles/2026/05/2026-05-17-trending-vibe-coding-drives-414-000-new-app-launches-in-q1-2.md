@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
+- 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued
-- 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
+- 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
 embedding_id: 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The "vibe coding" movement — where non-engineers build functional apps using A
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]]
+**Related:** [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak]]
 <!-- graph:end -->

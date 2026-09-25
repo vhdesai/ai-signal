@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
+- 2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo
+- 2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi
 - 2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips
-- 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
-- 2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat
 embedding_id: 2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat reports that Black Forest Labs launched FLUX 3, a limited-release mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat]]
+**Related:** [[2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips]]
 <!-- graph:end -->

@@ -1,18 +1,28 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 932
+member_count: 942
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 932 connected article(s).
+> Auto-generated entity hub. 942 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet|OpenAI launches MentalHealthBench for AI mental-health safety testing]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
+- `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
 - `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
+- `2026-09-24` [[2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper|New Jersey Fines AI Data-Center Operator $1.07M Over 62 Unpermitted Gas Generators]]
 - `2026-09-24` [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge|Microsoft Research finds offloading robot inference to edge and cloud improves success and battery life]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
 - `2026-09-23` [[2026-09-23-september-24-2026|September 24, 2026]]
 - `2026-09-23` [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call|SCMP: US–China race dynamics still overwhelm the "pacing" call from top US AI leaders]]

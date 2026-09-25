@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
-- 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
+- 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 embedding_id: 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft published research identifying seven new ways AI agents can be hacked 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-running-mal]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
+**Related:** [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-running-mal]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]]
 <!-- graph:end -->

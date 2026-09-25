@@ -5,8 +5,8 @@ title: Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow 
 date: '2026-09-24'
 source: Yahoo Finance / Bloomberg]
 url_original: https://finance.yahoo.com/news/michael-burry-3-trillion-ai-off-balance-sheet-big-tech
-url_canonical: https://finance.yahoo.com/technology/ai/articles/michael-burry-says-3-trillion-130000394.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: https://finance.yahoo.com/news/michael-burry-3-trillion-ai-off-balance-sheet-big-tech
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 335e8587566952b32dc5f17a8c7d071e53b01b4ee7cf6d56c4d92701dbba2ba5

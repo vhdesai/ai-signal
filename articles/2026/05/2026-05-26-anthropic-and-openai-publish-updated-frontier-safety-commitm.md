@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
-- 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 embedding_id: 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Both Anthropic and OpenAI published updated frontier safety commitments this wee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]]
+**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]]
 <!-- graph:end -->

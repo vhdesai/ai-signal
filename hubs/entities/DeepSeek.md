@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 490
+member_count: 496
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 490 connected article(s).
+> Auto-generated entity hub. 496 connected article(s).
 
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ|DeepSeek’s annualized revenue run rate reaches $1B as it targets a ~$7.5B raise]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p|DeepSeek's annualized revenue crosses $1B after raising API prices, targets ~$7.5B Shanghai raise]]
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
 - `2026-09-23` [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot|Global Times reports China has invited DeepSeek and Moonshot AI to attend the UN Security Council briefing on AI-related risks, aligning with Reuters' earlier scoop that both firms would participate. That inclusion comes despite Beijing's active data-routing investigation into both firms following Anthropic's public allegations (Alibaba stock fell 4% on Bloomberg's coverage today). The dual-track "brief the UN while under domestic investigation" dynamic is unusual and reflects how quickly AI governance is now moving on both sides of the US-China frontier-lab divide.]]

@@ -20,8 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l
+- 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
-- 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
 embedding_id: 2026-09-23-anthropic-says-claude-helped-identify-a-crispr-like-enzyme-s
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Anthropic said its Bay Area biology lab found a previously unknown enzyme system
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li]] · [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]]
+**Related:** [[2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li]]
 <!-- graph:end -->

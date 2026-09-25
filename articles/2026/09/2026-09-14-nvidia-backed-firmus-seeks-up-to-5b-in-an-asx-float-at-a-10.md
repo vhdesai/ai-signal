@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 - 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-- 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 embedding_id: 2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia- and Blackstone-backed AI data-centre developer Firmus Technologies is se
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]]
+**Related:** [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
 <!-- graph:end -->

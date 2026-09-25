@@ -24,8 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
+- 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p
 - 2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo
-- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
+- 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t
 embedding_id: 2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut
 event_name: ''
 ---
@@ -39,5 +40,5 @@ DeepSeek is closing a round valuing it near 500B yuan (~$74B) pre-money, raising
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
+**Related:** [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p]] · [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo]] · [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t]]
 <!-- graph:end -->

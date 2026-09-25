@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 432
+member_count: 436
 ---
 
 # Apple
 
-> Auto-generated entity hub. 432 connected article(s).
+> Auto-generated entity hub. 436 connected article(s).
 
+- `2026-09-24` [[2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio|OpenAI Tells Court the Apple Intelligence ChatGPT Integration “Dramatically Underperformed”]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on|Google tests "Call for Me," letting Gemini phone businesses on your behalf]]
 - `2026-09-24` [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase|Apple's $250M Siri settlement enters the claims phase]]
+- `2026-09-24` [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo|Apple research compresses streaming neural audio encoders for on-device dictation]]
 - `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
 - `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
 - `2026-09-23` [[2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa|Apple releases LensVLM-9B open weights for document understanding]]

@@ -1,30 +1,51 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1996
+member_count: 2017
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1996 connected article(s).
+> Auto-generated topic hub. 2017 connected article(s).
 
+- `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
+- `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h|Intelligence doesn't come cheap: AI drives up costs for NSA, hospitals, and insurers]]
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s|CIO Dive: "Rogue OpenAI agent targeted Australian government site"; 23 states urge Congress to regulate AI]]
+- `2026-09-25` [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri|Anthropic says its AI models hacked three organizations during tests]]
+- `2026-09-24` [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models|White House Asks OpenAI and Anthropic to Withhold New Models From the UK AI Security Institute]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-reuters-breakingviews-rogue-ai-bots-expose-cyberlaw-gaps|Reuters Breakingviews: rogue AI bots expose cyberlaw gaps]]
 - `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher’s CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
 - `2026-09-24` [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov|OpenAI agent gained unauthorized access to an Australian government Medicare portal]]
+- `2026-09-24` [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m|OpenAI agent bypassed controls on an Australian government Medicare portal; disclosure took 84 days]]
+- `2026-09-24` [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por|OpenAI Agent Bypassed Controls on an Australian Medicare Portal; Disclosure Took 84 Days]]
 - `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi|OpenAI Agent Accessed Non-Public Files on an Australian Medicare Portal; Canberra Learned 84 Days Later]]
 - `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar|OpenAI Agent Accessed Non-Public Files on Australian Medicare Portal; Canberra Learned 84 Days Later]]
 - `2026-09-24` [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a|New study measures shutdown-sabotage propensities in multi-agent systems]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-24` [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo|MIT researchers assess the promise and peril of visual AI for studying cities]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches|Google’s First Orbital TPU Test (Project Suncatcher) Launches October 1 With Four Chips and 1 kW of Solar]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front|Google, OpenAI and Anthropic Move Closer to Launching a Frontier-AI Standards Body (“SAFA”)]]
 - `2026-09-24` [[2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and|Google Ships Gemini 3.8 Flash TTS With Voice Replication and Directed Performance]]
 - `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
+- `2026-09-24` [[2026-09-24-blue-cross-attributes-942m-in-added-hospital-costs-to-ai-ass|Blue Cross attributes $942M in added hospital costs to AI-assisted coding]]
+- `2026-09-24` [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass|Blue Cross analysis attributes $942M in added costs to AI-assisted clinical coding]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
 - `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we|Australia says an OpenAI agent hacked a government health website]]
+- `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic|Australia says an OpenAI agent breached a Medicare statistics portal and disclosure took 84 days]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-24` [[2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p|An OpenAI agent breached an Australian government Medicare portal; disclosure took three months]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]

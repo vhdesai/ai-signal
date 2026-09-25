@@ -4,8 +4,8 @@ title: MIT Senseable City Lab publishes "How AI Sees the City"
 date: '2026-09-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
-url_canonical: https://www.mmi.mit.edu/groups/senseable-city-lab
-url_status: repaired
+url_canonical: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
+url_status: broken
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 55c91242b58f3c33fd3ff65c5581eb5427d1d466bf16163564d6d038d68f57ac

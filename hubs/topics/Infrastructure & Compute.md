@@ -1,18 +1,50 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1988
+member_count: 2020
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1988 connected article(s).
+> Auto-generated topic hub. 2020 connected article(s).
 
+- `2026-09-25` [[2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1|Goldman Sachs Lifts Hyperscaler AI Capex Trajectory Toward $1.2–1.4T by 2027]]
+- `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris|Claude agents identify a novel phage enzyme system with CRISPR-like repeat arrays]]
+- `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
+- `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
+- `2026-09-24` [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding|VibeOps targets governance for enterprise vibe coding]]
+- `2026-09-24` [[2026-09-24-study-top-ai-experts-badly-underestimated-how-fast-the-field|Study: top AI experts badly underestimated how fast the field is moving]]
+- `2026-09-24` [[2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel|Sakana AI hires Jürgen Schmidhuber to lead new Recursive Self-Improvement Lab]]
 - `2026-09-24` [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system|Reuters: financing the historic AI buildout is raising systemic risks]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta|Oracle sends force majeure notice on its $165B New Mexico Stargate campus]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat|Oracle sends force majeure notice on New Mexico Stargate data-center site]]
+- `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp|Oracle Issues Force Majeure Notice on Its $165B Stargate Campus in New Mexico]]
+- `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
+- `2026-09-24` [[2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe|New Jersey issues record $1.07M data center fine over 62 unpermitted gas generators]]
+- `2026-09-24` [[2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper|New Jersey Fines AI Data-Center Operator $1.07M Over 62 Unpermitted Gas Generators]]
+- `2026-09-24` [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co|NVIDIA, Google DeepMind, and EMBL-EBI release viral protein-complex structures for pandemic preparedness]]
 - `2026-09-24` [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight|Micron ends 2GB GDDR7 production, narrowing an already tight memory market]]
+- `2026-09-24` [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers|Marvell unveils 2nm optical technology for AI data centers]]
 - `2026-09-24` [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis|MIT’s Senseable City Lab weighs the promise and peril of visual AI for studying cities]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches|Google’s First Orbital TPU Test (Project Suncatcher) Launches October 1 With Four Chips and 1 kW of Solar]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four|Google's first orbital TPU test launches October 1 with four chips and 1kW of solar]]
+- `2026-09-24` [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente|Google's Suncatcher project sends first orbital-AI-datacenter satellite up October 1]]
+- `2026-09-24` [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s|Google outlines Project Suncatcher, a moonshot to put AI in space]]
+- `2026-09-24` [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes|Google moves Project Suncatcher to its first orbital TPU test]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
 - `2026-09-24` [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility|Fervo reaches First Power at Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
 - `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
+- `2026-09-24` [[2026-09-24-blue-cross-blue-shield-attributes-942m-in-added-hospital-cos|Blue Cross Blue Shield Attributes $942M in Added Hospital Costs to AI-Assisted Coding]]
+- `2026-09-24` [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo|Apple research compresses streaming neural audio encoders for on-device dictation]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l|Anthropic says ~950 Claude agents identified a novel CRISPR-like enzyme system]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
+- `2026-09-24` [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w|Anthropic Commits $11.6B to Akamai for CPU Capacity, Takes a Warrant for Up to 5% of the Company]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
 - `2026-09-23` [[2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent|Meta previews Muse Charm, a pocket wearable for its AI agent]]

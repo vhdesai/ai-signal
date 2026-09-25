@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
@@ -37,5 +38,5 @@ Yahoo Finance reported that Marvell shares rallied after the company unveiled 1.
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]]
+**Related:** [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade]] · [[2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil]]
 <!-- graph:end -->

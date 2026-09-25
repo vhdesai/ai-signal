@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
-- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 embedding_id: 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta AI and Stanford researchers unveiled a Fast Byte Latent Transformer that re
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
+**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style
+- 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
@@ -37,5 +38,5 @@ Nonprofit research lab Transluce published an analysis of public URL-scanning re
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]]
+**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]]
 <!-- graph:end -->

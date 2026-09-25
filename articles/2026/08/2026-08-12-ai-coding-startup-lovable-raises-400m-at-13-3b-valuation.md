@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
-- 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
-- 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
+- 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
+- 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
 embedding_id: 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Stockholm-based AI coding startup Lovable announced a $400 million funding round
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]]
+**Related:** [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak]]
 <!-- graph:end -->

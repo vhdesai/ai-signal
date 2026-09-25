@@ -5,8 +5,8 @@ title: MIT’s Senseable City Lab weighs the promise and peril of visual AI for 
 date: '2026-09-24'
 source: MIT News
 url_original: null
-url_canonical: https://www.miragenews.com/promise-and-peril-of-using-visual-ai-to-study-1749442/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-24_060618_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 5e3780206eeb520d90002fcead17c817648f0362b9000efcf7d8422c13419e39

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
+- 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 embedding_id: 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple Machine Learning Research published a study on preference alignment in mul
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]]
+**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]]
 <!-- graph:end -->

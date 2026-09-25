@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-- 2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun
 embedding_id: 2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Domyn (formerly iGenius) CEO Uljan Sharka said the company will release a fully 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun]]
+**Related:** [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]]
 <!-- graph:end -->

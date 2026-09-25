@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses
 - 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 - 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
-- 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 embedding_id: 2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Qualcomm's new top mobile SoC can run a 30B mixture-of-experts model entirely on
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de]]
+**Related:** [[2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses]] · [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]]
 <!-- graph:end -->

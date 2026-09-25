@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 embedding_id: 2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Malta's Ministry of Economy announced "AI for All" — a program giving any Malt
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Scale AI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
+**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
-- 2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof
-- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 embedding_id: 2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from two cybersecurity firms found previously unreported flaws in Mi
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]]
+**Related:** [[2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]]
 <!-- graph:end -->

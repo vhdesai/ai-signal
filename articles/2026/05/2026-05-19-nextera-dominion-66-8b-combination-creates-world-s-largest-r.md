@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
+- 2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe
 - 2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont
 embedding_id: 2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r
 event_name: ''
@@ -37,5 +38,5 @@ NextEra Energy and Dominion Energy announced a $66.8B all-stock combination, cre
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont]]
+**Related:** [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe]] · [[2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont]]
 <!-- graph:end -->

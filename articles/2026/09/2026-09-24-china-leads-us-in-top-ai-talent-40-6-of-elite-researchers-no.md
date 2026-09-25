@@ -5,8 +5,8 @@ title: China leads US in top AI talent — 40.6% of elite researchers now based 
 date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/china-leads-us-in-top-ai-talent-study-finds
-url_canonical: https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/china-leads-us-in-top-ai-talent-study-finds
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 4db8a9e3fa3758cb13a9af361fa54aaaa3fd790650ddd1494fe19470db443729
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
+- 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
-- 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 embedding_id: 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A Carnegie China study finds the share of top AI researchers working in China ro
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]]
+**Related:** [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-uk-assesses-the-economic-risk-of-losing-access-to-foreign-fr
 - 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The UK government has begun an urgent assessment of the economic consequences of
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-uk-assesses-the-economic-risk-of-losing-access-to-foreign-fr]] · [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-08-18-uk-assesses-the-economic-risk-of-losing-access-to-foreign-fr]] · [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
 <!-- graph:end -->

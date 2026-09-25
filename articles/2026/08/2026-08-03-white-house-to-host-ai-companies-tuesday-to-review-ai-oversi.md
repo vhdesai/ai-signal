@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
-- 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 embedding_id: 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Trump administration has invited staffers from major tech companies includin
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]]
+**Related:** [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]]
 <!-- graph:end -->

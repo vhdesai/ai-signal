@@ -1,19 +1,36 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1206
+member_count: 1223
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1206 connected article(s).
+> Auto-generated topic hub. 1223 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
+- `2026-09-25` [[2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi|PitchBook: software borrowers under stress lead private-credit watchlist; PSG raises $5.1B Europe fund as tech PE rebounds]]
+- `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
+- `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
+- `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
+- `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
 - `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-island-raises-400m-at-a-6-4b-valuation-as-enterprises-budget|Island raises $400M at a $6.4B valuation as enterprises budget against rogue agents]]
+- `2026-09-24` [[2026-09-24-island-raises-400m-series-f-at-a-6-4b-valuation-on-ai-agent|Island Raises $400M Series F at a $6.4B Valuation on AI-Agent Security Demand]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ|DeepSeek’s annualized revenue run rate reaches $1B as it targets a ~$7.5B raise]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p|DeepSeek's annualized revenue crosses $1B after raising API prices, targets ~$7.5B Shanghai raise]]
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-24` [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven|Anthropic seeks Palantir-style voting control for its seven co-founders ahead of IPO]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-23` [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund|WSJ Pro: Cyber startups on pace to more than double 2024 funding — seed is the new Series B]]
 - `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
 - `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale’s $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]

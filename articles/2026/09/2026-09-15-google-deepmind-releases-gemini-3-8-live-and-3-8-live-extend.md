@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut
+- 2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar
+- 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
 - 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-- 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
-- 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
 embedding_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Google released two native speech-to-speech models built to reason and execute t
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut]] · [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with]] · [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]]
+**Related:** [[2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut]] · [[2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar]] · [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a]] · [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with]] · [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]]
 <!-- graph:end -->

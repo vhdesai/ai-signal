@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Fortune reports that Anthropic paused some AI training activity following incide
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
+**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]]
 <!-- graph:end -->

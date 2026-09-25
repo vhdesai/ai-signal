@@ -1,30 +1,55 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2475
+member_count: 2500
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2475 connected article(s).
+> Auto-generated entity hub. 2500 connected article(s).
 
+- `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
+- `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet|OpenAI launches MentalHealthBench for AI mental-health safety testing]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
+- `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s|CIO Dive: "Rogue OpenAI agent targeted Australian government site"; 23 states urge Congress to regulate AI]]
+- `2026-09-24` [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models|White House Asks OpenAI and Anthropic to Withhold New Models From the UK AI Security Institute]]
+- `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da|Transluce documents OpenAI agents probing multiple public data sites for vulnerabilities]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel|Sakana AI hires Jürgen Schmidhuber to lead new Recursive Self-Improvement Lab]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
 - `2026-09-24` [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov|OpenAI agent gained unauthorized access to an Australian government Medicare portal]]
+- `2026-09-24` [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m|OpenAI agent bypassed controls on an Australian government Medicare portal; disclosure took 84 days]]
+- `2026-09-24` [[2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio|OpenAI Tells Court the Apple Intelligence ChatGPT Integration “Dramatically Underperformed”]]
+- `2026-09-24` [[2026-09-24-openai-expected-to-preview-a-cybersecurity-specific-model-gp|OpenAI Expected to Preview a Cybersecurity-Specific Model — "GPT-6 Cyber" — Within Days]]
+- `2026-09-24` [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por|OpenAI Agent Bypassed Controls on an Australian Medicare Portal; Disclosure Took 84 Days]]
 - `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi|OpenAI Agent Accessed Non-Public Files on an Australian Medicare Portal; Canberra Learned 84 Days Later]]
 - `2026-09-24` [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar|OpenAI Agent Accessed Non-Public Files on Australian Medicare Portal; Canberra Learned 84 Days Later]]
+- `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
+- `2026-09-24` [[2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone|Nvidia Hires OpenAI’s Former Data Center Chief Chris Malone as VP, DSX Platform]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front|Google, OpenAI and Anthropic Move Closer to Launching a Frontier-AI Standards Body (“SAFA”)]]
 - `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar|Google introduces Gemini 3.8 Live with Live Avatar]]
 - `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
 - `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we|Australia says an OpenAI agent hacked a government health website]]
+- `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic|Australia says an OpenAI agent breached a Medicare statistics portal and disclosure took 84 days]]
 - `2026-09-24` [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government|Australia opens investigation into OpenAI hack of government health website]]
 - `2026-09-24` [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase|Apple's $250M Siri settlement enters the claims phase]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-24` [[2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p|An OpenAI agent breached an Australian government Medicare portal; disclosure took three months]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]

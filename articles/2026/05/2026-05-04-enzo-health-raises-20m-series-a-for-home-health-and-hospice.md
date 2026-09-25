@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-takeda-taps-insilico-medicine-s-generative-ai-platform-in-a
+- 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 - 2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t
 - 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
-- 2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses
 embedding_id: 2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Enzo Health closed a $20M Series A led by N47 to scale AI tools that automate pa
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-02-takeda-taps-insilico-medicine-s-generative-ai-platform-in-a]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]] · [[2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses]]
+**Related:** [[2026-07-02-takeda-taps-insilico-medicine-s-generative-ai-platform-in-a]] · [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]]
 <!-- graph:end -->

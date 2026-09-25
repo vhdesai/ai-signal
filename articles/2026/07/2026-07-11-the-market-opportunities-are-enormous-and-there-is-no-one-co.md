@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
+- 2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-- 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 embedding_id: 2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai]]
+**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]] · [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]]
 <!-- graph:end -->

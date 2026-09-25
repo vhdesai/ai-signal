@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 401
+member_count: 403
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 401 connected article(s).
+> Auto-generated entity hub. 403 connected article(s).
 
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass|Blue Cross analysis attributes $942M in added costs to AI-assisted clinical coding]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
 - `2026-09-23` [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with|Google launches Gemini 3.8 Flash TTS and Flash-Lite TTS with text-to-voice design and 30-second cloning]]

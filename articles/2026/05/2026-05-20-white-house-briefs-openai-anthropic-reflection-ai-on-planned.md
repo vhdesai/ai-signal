@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-- 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
 embedding_id: 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The White House Office of the National Cyber Director hosted a Tuesday briefing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models]]
+**Related:** [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]]
 <!-- graph:end -->

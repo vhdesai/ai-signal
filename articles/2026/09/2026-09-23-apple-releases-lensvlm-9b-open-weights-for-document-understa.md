@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
+- 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
 - 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
-- 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 embedding_id: 2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ LensVLM-9B renders long documents as compressed page images and uses learned too
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
+**Related:** [[2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]]
 <!-- graph:end -->

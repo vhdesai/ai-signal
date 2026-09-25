@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+- 2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi
 embedding_id: 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Eight senior technology executives — reportedly including Sam Altman, Jensen H
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi]]
 <!-- graph:end -->

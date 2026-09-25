@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy
 - 2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy
+- 2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris
+- 2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l
 - 2026-09-23-anthropic-says-claude-discovered-a-possible-new-gene-editing
-- 2026-09-23-anthropic-says-claude-helped-identify-a-crispr-like-enzyme-s
-- 2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed
 embedding_id: 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic introduced a life-sciences research group and a Bay Area BSL-1/BSL-2 w
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy]] · [[2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy]] · [[2026-09-23-anthropic-says-claude-discovered-a-possible-new-gene-editing]] · [[2026-09-23-anthropic-says-claude-helped-identify-a-crispr-like-enzyme-s]] · [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed]]
+**Related:** [[2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy]] · [[2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy]] · [[2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris]] · [[2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l]] · [[2026-09-23-anthropic-says-claude-discovered-a-possible-new-gene-editing]]
 <!-- graph:end -->

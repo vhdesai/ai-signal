@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 embedding_id: 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic did not give Britain's AI Security Institute pre-release access to Cla
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Related:** [[2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f]]
 <!-- graph:end -->

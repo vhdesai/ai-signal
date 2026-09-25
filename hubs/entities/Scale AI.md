@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 51
+member_count: 52
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 51 connected article(s).
+> Auto-generated entity hub. 52 connected article(s).
 
+- `2026-09-25` [[2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h|Intelligence doesn't come cheap: AI drives up costs for NSA, hospitals, and insurers]]
 - `2026-09-23` [[2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout|NVIDIA and partners showcase production-scale AI across Southeast Asia]]
 - `2026-09-23` [[2026-09-23-cais-and-scale-ai-release-hle-diamond-resetting-the-frontier|CAIS and Scale AI release HLE-Diamond, resetting the frontier knowledge benchmark]]
 - `2026-09-15` [[2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3|ByteDance H1 profit drops to $20B on AI spending, revenue up 30% to $120B]]

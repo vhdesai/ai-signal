@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city
+- 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
-- 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 embedding_id: 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT News covered a new book from Senseable City Lab researchers on how visual AI
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]]
+**Related:** [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city]] · [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]]
 <!-- graph:end -->

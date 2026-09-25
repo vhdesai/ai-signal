@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
-- 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
 embedding_id: 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The White House is finalizing multiple AI executive orders and sources indicate 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-06-02-trump-signs-narrower-than-expected-ai-executive-order]]
+**Related:** [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]]
 <!-- graph:end -->

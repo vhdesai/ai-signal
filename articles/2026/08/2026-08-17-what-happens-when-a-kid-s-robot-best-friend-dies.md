@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r
+- 2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f
 embedding_id: 2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A reported feature on AI companion toys for neurodivergent children, examining w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria]] · [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]]
+**Related:** [[2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria]] · [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]] · [[2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f]]
 <!-- graph:end -->

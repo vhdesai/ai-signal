@@ -5,8 +5,8 @@ title: Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber
 date: '2026-09-24'
 source: The Information / WSJ Pro Cybersecurity
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/c90kly26d7pzo
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: d94018126d4baf646eb3bb742695a3343932572c29bd17da620a887b0b7a61f7

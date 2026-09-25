@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
+- 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 - 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
-- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple published research on calibrated sparse attention for accelerating text-to
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
+**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]]
 <!-- graph:end -->

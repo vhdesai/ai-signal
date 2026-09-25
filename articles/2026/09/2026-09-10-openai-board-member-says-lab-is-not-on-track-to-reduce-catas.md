@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-08-26-bill-gates-warns-about-ai-risks
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
+- 2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A sitting OpenAI board member publicly stated the company is not on track to mee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu]] · [[2026-08-26-bill-gates-warns-about-ai-risks]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

@@ -1,21 +1,39 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1469
+member_count: 1487
 ---
 
 # Google
 
-> Auto-generated entity hub. 1469 connected article(s).
+> Auto-generated entity hub. 1487 connected article(s).
 
+- `2026-09-25` [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a|Google Makes Gemini 3.8 Live Generally Available With “Live Avatar” for Enterprise Agents]]
+- `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio|OpenAI Tells Court the Apple Intelligence ChatGPT Integration “Dramatically Underperformed”]]
+- `2026-09-24` [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co|NVIDIA, Google DeepMind, and EMBL-EBI release viral protein-complex structures for pandemic preparedness]]
+- `2026-09-24` [[2026-09-24-max-planck-institute-for-informatics-and-stanford-engineerin|Max Planck Institute for Informatics and Stanford Engineering to Establish a Joint AI Center]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit|Google’s Project Suncatcher Will Fly Its First TPUs to Orbit on SpaceX Transporter-18]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches|Google’s First Orbital TPU Test (Project Suncatcher) Launches October 1 With Four Chips and 1 kW of Solar]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa|Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority for Frontier AI" Without Government Oversight]]
+- `2026-09-24` [[2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front|Google, OpenAI and Anthropic Move Closer to Launching a Frontier-AI Standards Body (“SAFA”)]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four|Google's first orbital TPU test launches October 1 with four chips and 1kW of solar]]
+- `2026-09-24` [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente|Google's Suncatcher project sends first orbital-AI-datacenter satellite up October 1]]
+- `2026-09-24` [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users|Google tests letting Gemini call businesses for users]]
+- `2026-09-24` [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on|Google tests "Call for Me," letting Gemini phone businesses on your behalf]]
+- `2026-09-24` [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s|Google outlines Project Suncatcher, a moonshot to put AI in space]]
 - `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes|Google moves Project Suncatcher to its first orbital TPU test]]
+- `2026-09-24` [[2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar|Google introduces Gemini 3.8 Live with Live Avatar]]
 - `2026-09-24` [[2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and|Google Ships Gemini 3.8 Flash TTS With Voice Replication and Directed Performance]]
 - `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
+- `2026-09-24` [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible|Google DeepMind Says Gemini 4 Is Coming “As Soon As Possible”]]
 - `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi|Black Forest Labs releases FLUX 3 Action, an open robotics vision-action model]]
 - `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
 - `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we|Australia says an OpenAI agent hacked a government health website]]
 - `2026-09-23` [[2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a|YouTube ships Gemini-powered creator tools: draft feedback, A/B testing, dynamic thumbnails, live dubbing]]

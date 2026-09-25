@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-youtube-adds-ai-custom-feeds-and-gemini-powered-creator-stud
+- 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-- 2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 embedding_id: 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At Made on YouTube 2026, Google introduced a feature that analyzes unpublished d
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-youtube-adds-ai-custom-feeds-and-gemini-powered-creator-stud]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g]]
+**Related:** [[2026-09-23-youtube-adds-ai-custom-feeds-and-gemini-powered-creator-stud]] · [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]]
 <!-- graph:end -->

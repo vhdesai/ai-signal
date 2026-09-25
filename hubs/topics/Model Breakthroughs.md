@@ -1,24 +1,52 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3155
+member_count: 3183
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3155 connected article(s).
+> Auto-generated topic hub. 3183 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
+- `2026-09-25` [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual|Meta Connect: $1,300 Meta VR Glasses with eye tracking, virtual workspaces, and Muse integration]]
+- `2026-09-25` [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a|Google Makes Gemini 3.8 Live Generally Available With “Live Avatar” for Enterprise Agents]]
+- `2026-09-24` [[2026-09-24-va-lsgan-generative-latent-space-parameterisation-cuts-groun|VA-LSGAN: Generative Latent-Space Parameterisation Cuts Groundwater Contaminant Uncertainty by 67.5%]]
+- `2026-09-24` [[2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f|University of Cincinnati: Children Trust Generative-AI Toys Far More Readily Than Their Parents Do]]
+- `2026-09-24` [[2026-09-24-uc-riverside-uses-machine-learning-to-find-odorants-that-rep|UC Riverside Uses Machine Learning to Find Odorants That Repel Honey Bees From Treated Crops]]
 - `2026-09-24` [[2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da|Transluce documents OpenAI agents probing multiple public data sites for vulnerabilities]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn|StudentBench: AI tutoring matches human tutoring on GRE learning gains]]
 - `2026-09-24` [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system|Reuters: financing the historic AI buildout is raising systemic risks]]
+- `2026-09-24` [[2026-09-24-openai-expected-to-preview-a-cybersecurity-specific-model-gp|OpenAI Expected to Preview a Cybersecurity-Specific Model — "GPT-6 Cyber" — Within Days]]
+- `2026-09-24` [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por|OpenAI Agent Bypassed Controls on an Australian Medicare Portal; Disclosure Took 84 Days]]
+- `2026-09-24` [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co|NVIDIA, Google DeepMind, and EMBL-EBI release viral protein-complex structures for pandemic preparedness]]
 - `2026-09-24` [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge|Microsoft Research finds offloading robot inference to edge and cloud improves success and battery life]]
+- `2026-09-24` [[2026-09-24-max-planck-institute-for-informatics-and-stanford-engineerin|Max Planck Institute for Informatics and Stanford Engineering to Establish a Joint AI Center]]
 - `2026-09-24` [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis|MIT’s Senseable City Lab weighs the promise and peril of visual AI for studying cities]]
 - `2026-09-24` [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo|MIT researchers assess the promise and peril of visual AI for studying cities]]
+- `2026-09-24` [[2026-09-24-mit-develops-text-based-model-to-estimate-imminent-suicide-r|MIT develops text-based model to estimate imminent suicide risk]]
 - `2026-09-24` [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city|MIT Senseable City Lab publishes "How AI Sees the City"]]
+- `2026-09-24` [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the|MIT Senseable City Lab Publishes “How AI Sees the City” on the Promise and Peril of Visual AI]]
+- `2026-09-24` [[2026-09-24-mit-builds-an-interpretable-laptop-scale-model-for-estimatin|MIT Builds an Interpretable, Laptop-Scale Model for Estimating Suicide Risk From Text]]
+- `2026-09-24` [[2026-09-24-md-anderson-model-flags-immunotherapy-pneumonitis-risk-from|MD Anderson Model Flags Immunotherapy Pneumonitis Risk From Routine Pre-Treatment CT Scans]]
+- `2026-09-24` [[2026-09-24-kaist-s-raibo2-quadruped-completes-a-full-marathon-on-a-sing|KAIST’s RAIBO2 Quadruped Completes a Full Marathon on a Single Charge — Published in Nature]]
+- `2026-09-24` [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s|Google outlines Project Suncatcher, a moonshot to put AI in space]]
 - `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
+- `2026-09-24` [[2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar|Google introduces Gemini 3.8 Live with Live Avatar]]
+- `2026-09-24` [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible|Google DeepMind Says Gemini 4 Is Coming “As Soon As Possible”]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai|China overtakes the U.S. as the top destination for elite AI talent]]
+- `2026-09-24` [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas|BottleCap AI releases ThinkingCap-Qwen3.8-27B to reduce reasoning-token usage]]
+- `2026-09-24` [[2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea|BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Reasoning Tokens for 0.86pp of Accuracy]]
+- `2026-09-24` [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi|Black Forest Labs releases FLUX 3 Action, an open robotics vision-action model]]
+- `2026-09-24` [[2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo|Black Forest Labs releases FLUX 3 Action, a 7B open-weight world-action model]]
+- `2026-09-24` [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo|Apple research compresses streaming neural audio encoders for on-device dictation]]
 - `2026-09-24` [[2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed|Anthropic says Claude helped discover a possible new gene-editing tool]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
+- `2026-09-24` [[2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more|AlphaFold Database Adds Predicted Protein Complexes for More Than 2,800 Viruses]]
 - `2026-09-23` [[2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit|University of Washington builds a one-gram hopping robot with precise jump-height control]]
 - `2026-09-23` [[2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent|StudentBench finds AI and human tutoring produce equivalent GRE learning gains]]
 - `2026-09-23` [[2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will|Stanford faculty split on AI and the humanities: “Poetry will not optimize”]]

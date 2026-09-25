@@ -32,10 +32,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-september-24-2026
+- 2026-09-24-daily-ai-news-digest-september-25-2026
 - 2026-09-21-daily-ai-news-digest-september-22-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-24-thursday-september-24-2026
-- 2026-08-12-daily-ai-news-digest-august-12-2026
 embedding_id: 2026-09-23-daily-ai-news-digest-september-24-2026
 event_name: ''
 ---
@@ -49,5 +49,5 @@ The defining story of the last 24 hours is not a model launch — it is autonomy
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-23-september-24-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]]
+**Related:** [[2026-09-23-september-24-2026]] · [[2026-09-24-daily-ai-news-digest-september-25-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-24-thursday-september-24-2026]]
 <!-- graph:end -->

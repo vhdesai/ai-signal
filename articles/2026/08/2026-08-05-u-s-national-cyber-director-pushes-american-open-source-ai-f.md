@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 embedding_id: 2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f
 event_name: ''
@@ -35,5 +36,5 @@ National Cyber Director Sean Cairncross said the administration wants U.S. open-
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]]
+**Related:** [[2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom]]
 <!-- graph:end -->

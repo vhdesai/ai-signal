@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-island-raises-400m-series-f-at-a-6-4b-valuation-on-ai-agent
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-- 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 embedding_id: 2026-09-24-island-raises-400m-at-a-6-4b-valuation-as-enterprises-budget
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Dallas-based enterprise browser and security company Island announced a $400 mil
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]]
+**Related:** [[2026-09-24-island-raises-400m-series-f-at-a-6-4b-valuation-on-ai-agent]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-- 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
 embedding_id: 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 event_name: ''
 ---
@@ -35,5 +35,5 @@ HSBC said it will hire more than 100 AI specialists and 100 wealth managers in S
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]]
+**Related:** [[2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]]
 <!-- graph:end -->

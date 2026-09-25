@@ -1,21 +1,46 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1670
+member_count: 1695
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1670 connected article(s).
+> Auto-generated topic hub. 1695 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1|Goldman Sachs Lifts Hyperscaler AI Capex Trajectory Toward $1.2–1.4T by 2027]]
+- `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
+- `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
+- `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
+- `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
 - `2026-09-24` [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system|Reuters: financing the historic AI buildout is raising systemic risks]]
 - `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher’s CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta|Oracle sends force majeure notice on its $165B New Mexico Stargate campus]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat|Oracle sends force majeure notice on New Mexico Stargate data-center site]]
+- `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp|Oracle Issues Force Majeure Notice on Its $165B Stargate Campus in New Mexico]]
+- `2026-09-24` [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a|Oracle Invokes Force Majeure on the 2.45GW “Project Jupiter” AI Data Center]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
+- `2026-09-24` [[2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe|New Jersey issues record $1.07M data center fine over 62 unpermitted gas generators]]
+- `2026-09-24` [[2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper|New Jersey Fines AI Data-Center Operator $1.07M Over 62 Unpermitted Gas Generators]]
+- `2026-09-24` [[2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co|NVIDIA, Google DeepMind, and EMBL-EBI release viral protein-complex structures for pandemic preparedness]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
+- `2026-09-24` [[2026-09-24-max-planck-institute-for-informatics-and-stanford-engineerin|Max Planck Institute for Informatics and Stanford Engineering to Establish a Joint AI Center]]
+- `2026-09-24` [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers|Marvell unveils 2nm optical technology for AI data centers]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit|Google’s Project Suncatcher Will Fly Its First TPUs to Orbit on SpaceX Transporter-18]]
+- `2026-09-24` [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s|Google outlines Project Suncatcher, a moonshot to put AI in space]]
+- `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
 - `2026-09-24` [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility|Fervo reaches First Power at Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
 - `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war|Anthropic commits $11.6B to Akamai for CPU capacity, takes warrant for up to 5% of the company]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
+- `2026-09-24` [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w|Anthropic Commits $11.6B to Akamai for CPU Capacity, Takes a Warrant for Up to 5% of the Company]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale’s $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]

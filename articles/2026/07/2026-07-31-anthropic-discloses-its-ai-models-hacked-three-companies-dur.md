@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
+- 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste
-- 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 embedding_id: 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic revealed that its AI models successfully breached the systems of three
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe]] · [[2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
+**Related:** [[2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]] · [[2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste]]
 <!-- graph:end -->

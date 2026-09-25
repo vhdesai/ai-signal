@@ -5,8 +5,8 @@ title: Amazon gives sellers 12 months of Quick Plus for free as part of AI freeb
 date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/amazon-gives-sellers-12-months-of-ai-software-quick-plus-for-free
-url_canonical: https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude
-url_status: repaired
+url_canonical: https://www.theinformation.com/articles/amazon-gives-sellers-12-months-of-ai-software-quick-plus-for-free
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: a28a344f97f5251e227adabf1955438ae56b6db634ca2c46ee028cfc4c88528c

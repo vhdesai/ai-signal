@@ -1,17 +1,29 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1470
+member_count: 1482
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1470 connected article(s).
+> Auto-generated topic hub. 1482 connected article(s).
 
+- `2026-09-25` [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi|Xi and Trump discuss AI and Taiwan at White House state visit]]
+- `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
+- `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc|China overtakes US as the top workplace for elite AI researchers]]
 - `2026-09-24` [[2026-09-24-us-house-committee-expands-fcc-covered-list-reach-as-china-t|US House committee expands FCC "Covered List" reach as China tech scrutiny widens]]
+- `2026-09-24` [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the|MIT Senseable City Lab Publishes “How AI Sees the City” on the Promise and Peril of Visual AI]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ|DeepSeek’s annualized revenue run rate reaches $1B as it targets a ~$7.5B raise]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]
+- `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p|DeepSeek's annualized revenue crosses $1B after raising API prices, targets ~$7.5B Shanghai raise]]
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
 - `2026-09-24` [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai|China overtakes the U.S. as the top destination for elite AI talent]]
 - `2026-09-24` [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no|China leads US in top AI talent — 40.6% of elite researchers now based in China, per Carnegie China]]
+- `2026-09-24` [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass|Blue Cross analysis attributes $942M in added costs to AI-assisted clinical coding]]
+- `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]

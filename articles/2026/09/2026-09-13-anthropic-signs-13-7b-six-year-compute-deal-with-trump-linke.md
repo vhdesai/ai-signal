@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin
 - 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
-- 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
+- 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
 embedding_id: 2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic signed a $13.7B, six-year computing deal with Rum Group — a firm wit
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin]]
+**Related:** [[2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
+- 2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-- 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
 embedding_id: 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Co-authored with more than 80 licensed psychologists and psychiatrists across 22
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros]]
+**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]]
 <!-- graph:end -->

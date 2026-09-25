@@ -5,8 +5,8 @@ title: Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic fo
 date: '2026-09-24'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/pension-giants-fire-ai-warning-shots-2026-09-24
-url_canonical: https://www.biospace.com/business/backed-by-nvidia-and-anthropic-basecamp-bags-140m-to-advance-ai-designed-drugs
-url_status: repaired
+url_canonical: https://pitchbook.com/news/articles/pension-giants-fire-ai-warning-shots-2026-09-24
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 313d9836ad6c396c53e63856416e9404abe729b0e3cbed5ac0f2f49027cb91bf

@@ -1,16 +1,27 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 802
+member_count: 813
 ---
 
 # Meta
 
-> Auto-generated entity hub. 802 connected article(s).
+> Auto-generated entity hub. 813 connected article(s).
 
+- `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
+- `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute|Meta Muse gives every user a full Ubuntu Linux cloud computer]]
+- `2026-09-25` [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual|Meta Connect: $1,300 Meta VR Glasses with eye tracking, virtual workspaces, and Muse integration]]
+- `2026-09-24` [[2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel|Sakana AI hires Jürgen Schmidhuber to lead new Recursive Self-Improvement Lab]]
+- `2026-09-24` [[2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses|PrismML brings tiny LLMs to Qualcomm-powered smart glasses]]
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
+- `2026-09-24` [[2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar|Meta Unveils Muse Charm, a Keychain-Sized AI Agent Device Targeting the December Holiday Window]]
 - `2026-09-24` [[2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con|Meta Connect: Muse gets video avatars, email addresses, Mac control, and dedicated hardware]]
 - `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
+- `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar|Google introduces Gemini 3.8 Live with Live Avatar]]
 - `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
 - `2026-09-23` [[2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato|Patreon co-founder Sam Yam joins OpenAI to lead a new creator division]]
 - `2026-09-23` [[2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles|OpenAI Blog: Focused on new models and evaluation principles]]

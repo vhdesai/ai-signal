@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
-- 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 embedding_id: 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At Meta Connect, Meta announced Muse retail partnerships with Walmart, Best Buy,
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con]]
+**Related:** [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual]] · [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]]
 <!-- graph:end -->

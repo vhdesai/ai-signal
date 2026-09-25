@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 400
+member_count: 402
 ---
 
 # xAI
 
-> Auto-generated entity hub. 400 connected article(s).
+> Auto-generated entity hub. 402 connected article(s).
 
+- `2026-09-24` [[2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats|xAI Tests Grok as a Participant Inside X’s XChat Group Chats]]
+- `2026-09-24` [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely|Lightspeed targets $250M for an India fund dedicated entirely to early-stage AI]]
 - `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
 - `2026-09-22` [[2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding|xAI ships Grok 4.7 at same $2/$6 price with faster coding]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
+- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 embedding_id: 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Political pressure is intensifying in Washington and Brussels for mandatory pre-
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]]
+**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]]
 <!-- graph:end -->

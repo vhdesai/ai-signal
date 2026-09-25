@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
+- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
 - 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 embedding_id: 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft’s August 2026 Excel update centers on Copilot, adding AI-assisted ch
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
+**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
 <!-- graph:end -->
