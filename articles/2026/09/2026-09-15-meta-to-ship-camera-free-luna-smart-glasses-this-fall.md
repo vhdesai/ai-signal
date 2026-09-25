@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
-- 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
-- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 embedding_id: 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta plans to release camera-free smart glasses codenamed Luna this fall, positi
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
 <!-- graph:end -->

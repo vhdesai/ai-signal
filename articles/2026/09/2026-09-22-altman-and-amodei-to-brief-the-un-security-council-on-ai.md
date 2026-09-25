@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti
+- 2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to
 - 2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun
 - 2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un
-- 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
 embedding_id: 2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic CEO Dario Amodei will brief the UN Security Council on Wednesday along
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed]] · [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti]] · [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun]] · [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]]
+**Related:** [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed]] · [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti]] · [[2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to]] · [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun]] · [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un]]
 <!-- graph:end -->

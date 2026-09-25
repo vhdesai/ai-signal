@@ -21,7 +21,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
+canonical_article_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
 related_article_ids: []
 embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl
 event_name: ''
@@ -36,5 +36,5 @@ At its Apsara Conference in Hangzhou, Alibaba introduced the Zhenwu V900, claimi
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Canonical:** [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]]
+**Canonical:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target]]
 <!-- graph:end -->

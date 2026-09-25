@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
-- 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
 embedding_id: 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM and Red Hat committed $5 billion over five years to an AI-driven open-source
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf]]
+**Related:** [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]] · [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe]] · [[2026-07-22-openai-s-ai-spending-commitments-approach-750b]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]]
 <!-- graph:end -->

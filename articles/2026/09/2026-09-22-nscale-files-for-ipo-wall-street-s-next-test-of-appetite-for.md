@@ -25,6 +25,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat
 - 2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen
 embedding_id: 2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for
 event_name: ''
@@ -39,5 +40,5 @@ British AI data-center developer Nscale — the counterparty behind Anthropic's 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen]]
+**Related:** [[2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat]] · [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen]]
 <!-- graph:end -->

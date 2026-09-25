@@ -1,33 +1,50 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 615
+member_count: 632
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 615 connected article(s).
+> Auto-generated entity hub. 632 connected article(s).
 
+- `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
 - `2026-09-24` [[2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par|Amazon gives sellers 12 months of Quick Plus for free as part of AI freebies race]]
+- `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am|Meta adds Walmart, Best Buy and Sephora to Muse — days after Amazon blocked it]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
 - `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
-- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w|Amazon opens Seller Central to outside AI agents, beginning with Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12|Amazon opens Seller Assistant to Claude and gives sellers 12 free months of Quick Plus]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic’s Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-begin|Amazon Opens Seller Central APIs to Third-Party Agents, Beginning With Anthropic’s Claude]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
+- `2026-09-23` [[2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op|1. Agentic AI is becoming mainstream (e.g., Muse, GPT-6, Claude Opus 5.5)]]
+- `2026-09-22` [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c|tiny software layer from lab-grown neurons promises faster, cheaper AI video]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus|Opus 5.5 carries four breaking API changes for existing Opus 5 code]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer|Amazon's block on Meta's Muse agent opens the agentic-commerce governance fight]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com|Amazon blocks Meta's Muse agent from shopping on Amazon.com]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss|Amazon Blocks Meta's Muse Agent, Opening the Platform-Permission Fight]]
 - `2026-09-21` [[2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese|Moonshot's Kimi K3 Lands on AWS Bedrock — First Major Chinese Frontier Model in a U.S. Hyperscaler Catalog]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us|Meta's Muse outpaces ChatGPT's early mobile launch in the US and Canada]]
 - `2026-09-21` [[2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the|Meta hot-fixes a Muse zero-day that could hand attackers the agent's privileges]]
 - `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
 - `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf|Cybernews: AWS AgentCore Leaves Credentials Vulnerable to Exfiltration by Default]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f|Amazon blocks Meta's Muse agent, opening a platform-control fight over agentic shopping]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c|Amazon blocks Meta's Muse AI agent from shopping on Amazon.com]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp|Amazon Blocks Meta's Muse Agent from Amazon.com as Muse Outpaces ChatGPT's Early Mobile Curve]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com|Amazon Blocks Meta's Muse Agent from Amazon.com]]

@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc
 - 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
-- 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
+- 2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot
 embedding_id: 2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Chinese AI developers DeepSeek and Moonshot have been invited to deliver stateme
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc]] · [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]]
+**Related:** [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc]] · [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth]] · [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot]]
 <!-- graph:end -->

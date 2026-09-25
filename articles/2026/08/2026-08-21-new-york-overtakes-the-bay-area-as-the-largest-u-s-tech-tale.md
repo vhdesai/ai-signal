@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley
+- 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
-- 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 embedding_id: 2026-08-21-new-york-overtakes-the-bay-area-as-the-largest-u-s-tech-tale
 event_name: ''
 ---
@@ -36,5 +36,5 @@ York's tech workforce reached approximately 394,300 jobs against the San Francis
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
+**Related:** [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley]] · [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]]
 <!-- graph:end -->

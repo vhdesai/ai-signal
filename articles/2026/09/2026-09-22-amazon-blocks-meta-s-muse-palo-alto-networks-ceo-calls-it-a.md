@@ -27,7 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
+- 2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 embedding_id: 2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Amazon's Sunday-night block of Meta's Muse shopping agent — following the same
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]]
 <!-- graph:end -->

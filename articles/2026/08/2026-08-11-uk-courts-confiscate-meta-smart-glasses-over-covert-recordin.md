@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
-- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
+- 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 embedding_id: 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ His Majesty's Courts & Tribunals Service will seize camera-equipped smart glasse
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr]]
 <!-- graph:end -->

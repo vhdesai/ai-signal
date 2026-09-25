@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
 - 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
-- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ STMicroelectronics raised its 2026 data-center revenue target to roughly $1 bill
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
+**Related:** [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]] · [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]]
 <!-- graph:end -->

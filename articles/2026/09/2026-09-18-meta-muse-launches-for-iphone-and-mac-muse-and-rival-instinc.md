@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
-- 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
+- 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 embedding_id: 2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta launched its Muse personal AI agent on iPhone and Mac, and both Muse and ri
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]]
+**Related:** [[2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]]
 <!-- graph:end -->

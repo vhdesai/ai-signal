@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
 - 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-09-18-faa-ai-rollout-draws-airline-concern-as-agencies-push-automa
+- 2026-09-23-september-24-2026
+- 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 embedding_id: 2026-07-19-australia-to-curb-government-use-of-automated-ai-decision-ma
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Australia will require agencies such as Centrelink and Services Australia to fol
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]] · [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-09-18-faa-ai-rollout-draws-airline-concern-as-agencies-push-automa]]
+**Related:** [[2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use]] · [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-09-23-september-24-2026]] · [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]]
 <!-- graph:end -->

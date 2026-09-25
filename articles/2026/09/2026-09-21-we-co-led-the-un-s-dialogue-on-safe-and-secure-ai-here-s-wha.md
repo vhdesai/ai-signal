@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
-- 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
 embedding_id: 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Costa Rica’s science and technology minister Paula Bogantes Zamora and Partner
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]]
+**Related:** [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]]
 <!-- graph:end -->

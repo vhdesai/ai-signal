@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
 - 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 - 2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c
+- 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
 embedding_id: 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 event_name: ''
 ---
@@ -38,5 +39,5 @@ VentureBeat reports that OpenAI is bringing GPT-Live's full-duplex voice control
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c]]
+**Related:** [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c]] · [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]]
 <!-- graph:end -->

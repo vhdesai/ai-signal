@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 - 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
-- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
+- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 embedding_id: 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At the Australian Federation of Banks conference in Sydney, the OpenAI CEO said 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]]
+**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]]
 <!-- graph:end -->

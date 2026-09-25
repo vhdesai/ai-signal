@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 embedding_id: 2026-06-29-the-authors-test-whether-prompting-llm-agents-with-different
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The authors test whether prompting LLM agents with different personality traits 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]]
+**Related:** [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

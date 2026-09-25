@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
 - 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
+- 2026-09-24-thursday-september-24-2026
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
-- 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
 embedding_id: 2026-08-15-ai-manager-luna-makes-first-employee-firing-decision-at-sf-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Luna, the Claude-powered AI agent managing San Francisco's Andon Market, recomme
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll]] · [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe]]
+**Related:** [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 - 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
-- 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 embedding_id: 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The UN-backed Independent International Scientific Panel on AI published a thema
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]] · [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug]] · [[2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach]]
+**Related:** [[2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]] · [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug]]
 <!-- graph:end -->

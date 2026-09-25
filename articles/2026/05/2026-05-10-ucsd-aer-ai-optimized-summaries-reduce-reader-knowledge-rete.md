@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 embedding_id: 2026-05-10-ucsd-aer-ai-optimized-summaries-reduce-reader-knowledge-rete
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UCSD behavioral economist Marta Serra-Garcia published an American Economic Revi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
+**Related:** [[2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 - 2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing
-- 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+- 2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat
 embedding_id: 2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reported that Nscale filed to go public, showing a large revenue
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
+**Related:** [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]] · [[2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo]] · [[2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah]] · [[2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing]] · [[2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat]]
 <!-- graph:end -->

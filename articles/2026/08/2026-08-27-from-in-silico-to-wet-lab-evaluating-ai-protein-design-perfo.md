@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-- 2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st
+- 2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy
 embedding_id: 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A detailed benchmark walkthrough uses Anthropic's claude-protein-binder-design d
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st]]
+**Related:** [[2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico]] · [[2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy]]
 <!-- graph:end -->

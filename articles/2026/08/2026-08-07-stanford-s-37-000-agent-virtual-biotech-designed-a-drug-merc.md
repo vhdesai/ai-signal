@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
+- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation
-- 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 embedding_id: 2026-08-07-stanford-s-37-000-agent-virtual-biotech-designed-a-drug-merc
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Stanford professor James Zou described at VB Transform 2026 how his lab scaled f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]]
+**Related:** [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-23-claude-autonomously-designed-protein-binders-effective-again]] · [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]] · [[2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation]]
 <!-- graph:end -->

@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
 - 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
 - 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 - 2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio
 - 2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c
-- 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 embedding_id: 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 event_name: ''
 ---
@@ -41,5 +41,5 @@ MarkTechPost reports that Alibaba's Tongyi Lab released Qwen-Audio-3.0-TTS, a ho
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency]] · [[2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio]] · [[2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
+**Related:** [[2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices]] · [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency]] · [[2026-09-19-alibaba-s-qwen3-8-livetranslate-cuts-real-time-interpretatio]] · [[2026-09-19-alibaba-s-qwen-ships-a-real-time-interpretation-model-that-c]]
 <!-- graph:end -->

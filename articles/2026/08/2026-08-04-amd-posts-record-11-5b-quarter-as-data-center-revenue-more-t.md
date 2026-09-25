@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 - 2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g
-- 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 embedding_id: 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AMD reported record second-quarter revenue of $11.5 billion, up roughly 50% year
 
 **Entities:** [[AMD]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value]]
+**Related:** [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]] · [[2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds]] · [[2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt]] · [[2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g]]
 <!-- graph:end -->

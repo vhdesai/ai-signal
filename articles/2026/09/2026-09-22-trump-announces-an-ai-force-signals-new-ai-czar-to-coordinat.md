@@ -7,7 +7,7 @@ source: The Wall Street Journal]
 url_original: https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f
 url_canonical: https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 76b101584df7001b39515ede89bdc7d64a8f06f9e1398f5a00902eb6618bb20c
 normalized_title_hash: db6d4839e54a1606

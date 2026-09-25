@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 225
+member_count: 228
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 225 connected article(s).
+> Auto-generated entity hub. 228 connected article(s).
 
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
 - `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training|DeepSeek shifts to Huawei chips for large-model training]]
 - `2026-09-22` [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico|Bernstein: Huawei's Kirin 9050 Pro closes gap to Apple silicon to ~3 years and beats A17 Pro on Geekbench multi-core]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
 - `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]

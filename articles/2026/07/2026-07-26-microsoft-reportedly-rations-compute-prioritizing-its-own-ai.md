@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-are-microsoft-s-ai-plans-being-held-back-by-a-shortage-of-ch
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
-- 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
+- 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 embedding_id: 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reports Microsoft is sufficiently compute-constrained that it i
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-17-are-microsoft-s-ai-plans-being-held-back-by-a-shortage-of-ch]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]]
+**Related:** [[2026-08-17-are-microsoft-s-ai-plans-being-held-back-by-a-shortage-of-ch]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]] · [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]]
 <!-- graph:end -->

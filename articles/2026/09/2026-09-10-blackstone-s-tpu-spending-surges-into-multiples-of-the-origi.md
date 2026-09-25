@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
+- 2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the
 - 2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la
-- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 embedding_id: 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Blackstone's May joint venture with Google, initially $5B for 500MW of TPUs, is 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]]
+**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the]] · [[2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la]]
 <!-- graph:end -->

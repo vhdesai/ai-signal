@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin
 - 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
+- 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 embedding_id: 2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f
 event_name: ''
 ---
@@ -35,5 +36,5 @@ The New Mexico Supreme Court fined Santa Fe attorney Stephen Aarons $5,000 and h
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]]
+**Related:** [[2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 embedding_id: 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Stanford is merging the Stanford Institute for Human-Centered AI (HAI) and the S
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]]
 <!-- graph:end -->

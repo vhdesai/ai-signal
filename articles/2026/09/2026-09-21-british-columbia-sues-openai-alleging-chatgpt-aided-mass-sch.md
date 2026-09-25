@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 - 2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
@@ -38,5 +39,5 @@ The Wall Street Journal reported that British Columbia sued OpenAI, alleging Cha
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
+**Related:** [[2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s]] · [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
 <!-- graph:end -->

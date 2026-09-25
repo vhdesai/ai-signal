@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
+- 2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi
 - 2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab
-- 2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab
+- 2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy
 embedding_id: 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Following yesterday's TechCrunch reporting, The Decoder provides technical detai
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab]]
+**Related:** [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob]] · [[2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi]] · [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
-- 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
+- 2026-09-23-nvidia-open-weights-nemotron-3-diarization
+- 2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker
 embedding_id: 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA published an 11B end-to-end speech-to-speech model that replaces the conv
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Related:** [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-open-full-duplex]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-09-23-nvidia-open-weights-nemotron-3-diarization]] · [[2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker]]
 <!-- graph:end -->

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
+- 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
-- 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 embedding_id: 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI has expanded ChatGPT's reach to Apple CarPlay, enabling hands-free conver
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
+**Related:** [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]] · [[2026-08-21-chatgpt-gains-a-messages-integration-on-macos]] · [[2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
-- 2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea
+- 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
 embedding_id: 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ On the debut of The Information's AI Deep Dive, OpenAI research scientist Noam B
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r]] · [[2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea]]
+**Related:** [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r]] · [[2026-09-22-openai-calls-for-international-standards-on-recursive-self-i]]
 <!-- graph:end -->

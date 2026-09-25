@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
-- 2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction
 embedding_id: 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reuters reported that rising corporate debt tied to AI investment is testing inv
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction]]
+**Related:** [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
+- 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 embedding_id: 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A landmark multi-institution paper by MIT, Stanford, CMU, Harvard, and Northeast
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
+**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

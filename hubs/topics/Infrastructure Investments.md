@@ -1,27 +1,38 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1654
+member_count: 1670
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1654 connected article(s).
+> Auto-generated topic hub. 1670 connected article(s).
 
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
-- `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher's CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
+- `2026-09-24` [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system|Reuters: financing the historic AI buildout is raising systemic risks]]
+- `2026-09-24` [[2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares|Pension Giants Sound the Alarm: Texas Teacher’s CIO Compares the AI Buildout to Five Prior Infrastructure Booms]]
+- `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
-- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility|Fervo reaches First Power at Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
-- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
-- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft's Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale’s $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft’s Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f|Microsoft’s Brad Smith Endorses a Mandated “Emergency Brake” for Advanced AI Systems]]
 - `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
 - `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
+- `2026-09-23` [[2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and|Alibaba Cloud to open new data centres in Turkey, Finland and the Netherlands]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
+- `2026-09-22` [[2026-09-22-wednesday-september-23-2026|Wednesday, September 23, 2026]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
 - `2026-09-22` [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent|The Information: CFTC extends review of CME's Nvidia-GPU rental futures — October launch off the table]]
+- `2026-09-22` [[2026-09-22-snorkel-ai-raises-350m-at-a-3-5b-valuation-as-training-data|Snorkel AI raises $350M at a $3.5B valuation as training-data demand compounds]]
+- `2026-09-22` [[2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus|Opus 5.5 carries four breaking API changes for existing Opus 5 code]]
 - `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
@@ -30,10 +41,15 @@ member_count: 1654
 - `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
 - `2026-09-22` [[2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo|Helsinki's Verda Raises $189M, Becoming Europe's Newest AI Cloud Unicorn]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen|Alibaba unveils full-stack AI roadmap: Zhenwu V900 chip, Qwen 4 in training, 10-trillion-parameter ambition]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target|Alibaba unveils Zhenwu V900 accelerator, 20GW capacity target and a 10-trillion-parameter Qwen roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of|Alibaba unveils Zhenwu V900 accelerator and targets 20GW of cloud capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center|Alibaba Unveils Zhenwu V900 and Targets 20GW of Data Center Capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw|NVIDIA launches DSX Ready to qualify power and cooling hardware for AI factories]]
 - `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont|Microsoft and Anthropic Account for 85% of Nscale's $103B Contract Book]]

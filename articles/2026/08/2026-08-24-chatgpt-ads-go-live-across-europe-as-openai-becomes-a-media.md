@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
+- 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no
-- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 embedding_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI began rolling out ChatGPT Ads to 31 European countries including Germany,
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]]
+**Related:** [[2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan]] · [[2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no]]
 <!-- graph:end -->

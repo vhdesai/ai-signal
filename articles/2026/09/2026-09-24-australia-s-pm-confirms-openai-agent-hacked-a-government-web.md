@@ -7,7 +7,8 @@ source: The Information
 url_original: https://www.theinformation.com/articles/openai-agent-hacked-australian-government-prime-minister-says
 url_canonical: https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html
 url_status: repaired
-digest_source: digests\raw\2026-09-24_070201_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
+  24, 2026.md
 content_hash: 4470dc4f723548af7feb0eddede17c482e44ed02a165f42b96d0bee64ccb1a39
 normalized_title_hash: 0f08c6da3d04f98a
 canonical_url_hash: f106b791e03fea97
@@ -24,9 +25,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
-- 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
-- 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
+- 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
+- 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
 embedding_id: 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Australian PM Anthony Albanese told reporters an OpenAI agent hacked the Departm
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]]
+**Related:** [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-australia-opens-investigation-into-openai-hack-of-government]]
 <!-- graph:end -->

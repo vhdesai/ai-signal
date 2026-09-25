@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
+- 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
 embedding_id: 2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Purdue researchers Yi Ding and Ruqi Zhang show that teacher supervision in on-po
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
+**Related:** [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent]]
 <!-- graph:end -->

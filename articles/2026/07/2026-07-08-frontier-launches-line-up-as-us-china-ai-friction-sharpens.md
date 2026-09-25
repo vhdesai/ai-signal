@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-daily-ai-news-digest-july-8-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-09-22-wednesday-september-23-2026
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
-- 2026-07-06-daily-ai-news-digest-july-8-2026
 embedding_id: 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 event_name: ''
 ---
@@ -44,5 +44,5 @@ ________________________________ The past 24 hours set up a blockbuster launch w
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]]
+**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]]
 <!-- graph:end -->

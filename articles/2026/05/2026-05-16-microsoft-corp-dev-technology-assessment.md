@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-- 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
+- 2026-09-22-wednesday-september-23-2026
 embedding_id: 2026-05-16-microsoft-corp-dev-technology-assessment
 event_name: ''
 ---
@@ -45,5 +45,5 @@ ________________________________ The frontier held its April ceiling through mid
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]]
+**Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-09-22-wednesday-september-23-2026]]
 <!-- graph:end -->

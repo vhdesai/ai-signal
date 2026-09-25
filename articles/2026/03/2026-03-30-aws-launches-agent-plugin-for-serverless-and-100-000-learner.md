@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
-- 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
+- 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
 embedding_id: 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS released an Agent Plugin for Serverless enabling Claude Code, Cursor, and Am
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]]
+**Related:** [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that]] · [[2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w]]
 <!-- graph:end -->

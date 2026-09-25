@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
-- 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
-- 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
+- 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
+- 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 embedding_id: 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Intel shares rose after the company reported strong second-quarter results, incl
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]]
+**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]] · [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]]
 <!-- graph:end -->

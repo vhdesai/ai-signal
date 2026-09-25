@@ -1,32 +1,46 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 476
+member_count: 490
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 476 connected article(s).
+> Auto-generated entity hub. 490 connected article(s).
 
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot|Global Times reports China has invited DeepSeek and Moonshot AI to attend the UN Security Council briefing on AI-related risks, aligning with Reuters' earlier scoop that both firms would participate. That inclusion comes despite Beijing's active data-routing investigation into both firms following Anthropic's public allegations (Alibaba stock fell 4% on Bloomberg's coverage today). The dual-track "brief the UN while under domestic investigation" dynamic is unusual and reflects how quickly AI governance is now moving on both sides of the US-China frontier-lab divide.]]
 - `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
-- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek’s Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-as-it-finalizes-a-7-5b|DeepSeek's annualized revenue hits $1B as it finalizes a $7.5B round ahead of a Shanghai listing]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
 - `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
+- `2026-09-23` [[2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier|Altman and Amodei brief the UN Security Council on frontier AI risk]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-three-frontier-price-cuts-in-48-hours-reset-the-cost-floor-f|Three frontier price cuts in 48 hours reset the cost floor for AI workloads]]
+- `2026-09-22` [[2026-09-22-same-day-releases-mark-the-first-frontier-price-war-since-th|Same-day releases mark the first frontier price war since the slowdown debate]]
 - `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-frontier-pricing-resets-claude-opus-5-5-and-gpt-6-sol-luna-4|Frontier pricing resets: Claude Opus 5.5 and GPT-6 Sol/Luna (48-hour context)]]
+- `2026-09-22` [[2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training|DeepSeek shifts to Huawei chips for large-model training]]
 - `2026-09-22` [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a|DeepSeek and Moonshot Join the Security Council Session as AI Safety Enters Trade Talks]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega|Cisco Talos documents the first reported malware that delegates command-and-control to an LLM quorum]]
+- `2026-09-22` [[2026-09-22-cisco-talos-discloses-closedquorum-the-first-reported-autono|Cisco Talos discloses CLOSEDQUORUM, the first reported autonomous multi-model AI malware implant]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro|Cisco Talos Documents First Autonomous AI Command-and-Control Implant]]
 - `2026-09-22` [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh|China's Cyberspace Administration Probes DeepSeek and Moonshot Over Anthropic's Data-Routing Allegations]]
 - `2026-09-22` [[2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth|China's CAC opens probe into DeepSeek and Moonshot over Anthropic's data-routing allegations]]
 - `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-fronti|Amodei and Altman to Brief the UN Security Council on Frontier AI]]
 - `2026-09-22` [[2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai|Altman and Amodei to brief the UN Security Council on AI]]
+- `2026-09-22` [[2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to|Altman and Amodei expected before the UN Security Council today, alongside Chinese labs]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]
 - `2026-09-21` [[2026-09-21-xiaomi-s-mimo-v2-6-pro-takes-the-top-open-weight-slot-on-the|Xiaomi's MiMo-V2.6-Pro takes the top open-weight slot on the Intelligence Index]]

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi
 - 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
+- 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
 embedding_id: 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sandhya Devanathan is joining OpenAI to oversee operations across Southeast Asia
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs]] · [[2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi]] · [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining]]
+**Related:** [[2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs]] · [[2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi]] · [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan]]
 <!-- graph:end -->

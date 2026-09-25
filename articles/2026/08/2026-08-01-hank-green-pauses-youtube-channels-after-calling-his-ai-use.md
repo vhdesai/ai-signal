@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
-- 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
+- 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
 embedding_id: 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Science creator Hank Green said his use of ChatGPT in production workflows had b
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]]
+**Related:** [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]]
 <!-- graph:end -->

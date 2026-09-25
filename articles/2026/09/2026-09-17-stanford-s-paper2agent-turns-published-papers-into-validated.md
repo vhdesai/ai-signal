@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
@@ -34,5 +35,5 @@ Stanford researchers released Paper2Agent, which converts a published paper into
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
 <!-- graph:end -->

@@ -23,7 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors
 - 2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b
-- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
+- 2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy
 embedding_id: 2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into
 event_name: ''
 ---
@@ -36,5 +37,5 @@ All 166,700 neurons and 25.6 million directed edges of the MaleCNS v1.0 fruit-fl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors]] · [[2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
+**Related:** [[2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors]] · [[2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b]] · [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c]] · [[2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy]]
 <!-- graph:end -->

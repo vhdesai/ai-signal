@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-07-07-july-7-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
+- 2026-09-22-wednesday-september-23-2026
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-08-01-the-ai-brief-august-1-2026
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Today's cycle was driven by AI infrastructure economics and safety fallout rathe
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-07-july-7-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-07-july-7-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]]
 <!-- graph:end -->

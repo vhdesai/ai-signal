@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
+- 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford HAI's recap of the May 5 AI+Science conference documents three concrete
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]]
 <!-- graph:end -->

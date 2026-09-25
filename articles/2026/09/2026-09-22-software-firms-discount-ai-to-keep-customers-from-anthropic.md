@@ -6,7 +6,7 @@ source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=software+firms+discount+AI+customers+anthropic+openai
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=software+firms+discount+AI+customers+anthropic+openai
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 0564be956b60bcef074aee7b2aef5138ed827f768d4469b839983d8f70410309
 normalized_title_hash: 465cd1307c9717c3
@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
+- 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 embedding_id: 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Amazon, Microsoft, Figma, and Workday are dangling new AI discounts and free-acc
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
+**Related:** [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]] · [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]]
 <!-- graph:end -->

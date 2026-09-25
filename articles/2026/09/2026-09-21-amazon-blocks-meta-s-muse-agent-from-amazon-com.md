@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
-- 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 embedding_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Starting Sunday night, Muse users attempting to buy goods on Amazon received an 
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]]
 <!-- graph:end -->

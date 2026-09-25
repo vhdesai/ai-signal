@@ -42,11 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
+- 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
-- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
-- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 embedding_id: 2026-08-06-openai-partners-with-the-american-psychological-association
 event_name: ''
 ---
@@ -60,5 +60,5 @@ OpenAI announced a collaboration with the American Psychological Association to 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
+**Related:** [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml]]
 <!-- graph:end -->

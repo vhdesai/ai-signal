@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a
+- 2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and
 embedding_id: 2026-08-20-tencent-cloud-announces-first-malaysian-cloud-region-in-joho
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent Cloud unveiled plans for its first Malaysian cloud region, with up to th
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a]]
+**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and]]
 <!-- graph:end -->

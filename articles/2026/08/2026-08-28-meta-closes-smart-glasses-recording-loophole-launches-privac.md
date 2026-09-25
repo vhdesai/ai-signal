@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
-- 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
+- 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 embedding_id: 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta is updating its AI smart glasses after users found that covering the captur
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]]
+**Related:** [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr]]
 <!-- graph:end -->

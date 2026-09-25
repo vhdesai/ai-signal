@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
+- 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
@@ -38,5 +39,5 @@ NVIDIA detailed DSX MaxLPS, a suite of chip, thermal, system, and software techn
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
+**Related:** [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
 <!-- graph:end -->

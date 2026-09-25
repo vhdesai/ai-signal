@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-openai-s-data-center-chief-chris-malone-departs
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-- 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
+- 2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato
 embedding_id: 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information / Axios • April 17–19, 2026 OpenAI confirmed the departures 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a]]
+**Related:** [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]] · [[2026-08-26-openai-s-data-center-chief-chris-malone-departs]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato]]
 <!-- graph:end -->

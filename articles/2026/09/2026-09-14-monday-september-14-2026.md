@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-saturday-september-12-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
+- 2026-09-24-thursday-september-24-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
-- 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard
 embedding_id: 2026-09-14-monday-september-14-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Editor's note. The safety-slowdown narrative moved from op-eds to concrete gover
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-09-13-anthropic-openai-and-google-quietly-discussed-an-ai-standard]]
+**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]]
 <!-- graph:end -->

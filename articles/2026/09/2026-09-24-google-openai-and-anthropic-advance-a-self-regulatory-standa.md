@@ -3,17 +3,16 @@ article_id: 2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-sta
 title: Google, OpenAI, and Anthropic Advance a Self-Regulatory "Standards Authority
   for Frontier AI" Without Government Oversight
 date: '2026-09-24'
-source: The Information (Exclusive)*
+source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SAFA+Google+OpenAI+Anthropic+safety+standards+body
 url_canonical: https://worldattention.com/stories/standards-authority-for-frontier-ai-safa-formation-by-google-openai-and-anthropic-05c5e1ef25
 url_status: repaired
-digest_source: digests\raw\2026-09-24_065100_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
+  24, 2026.md
 content_hash: da27d11c0b2e267102d3114410de60da0082c7b72d81ca0b7e0246a93a5910c9
 normalized_title_hash: ee9441a31a1cc181
 canonical_url_hash: e4e4232ab882aa97
-tags:
-- Breaking
-- Exclusive
+tags: []
 entities:
 - Anthropic
 - Google

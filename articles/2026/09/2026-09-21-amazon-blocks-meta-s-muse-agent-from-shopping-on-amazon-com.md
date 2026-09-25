@@ -22,7 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-related_article_ids: []
+related_article_ids:
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
 embedding_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 event_name: ''
 ---
@@ -37,4 +38,5 @@ Amazon began serving Muse users a blocking notice on the night of September 20, 
 **Entities:** [[Amazon]] · [[Meta]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
+**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f]]
 <!-- graph:end -->

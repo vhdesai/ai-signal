@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-- 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
 embedding_id: 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Encore AI raised a $30 million Series A to build AI agents trained on customer c
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]] · [[2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua]]
+**Related:** [[2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa]] · [[2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua]]
 <!-- graph:end -->

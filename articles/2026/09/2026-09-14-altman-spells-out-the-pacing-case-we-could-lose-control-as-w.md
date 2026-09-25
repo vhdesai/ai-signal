@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
 - 2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls
+- 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-- 2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse
 embedding_id: 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 event_name: ''
 ---
@@ -42,5 +42,5 @@ In a post just after midnight Monday, Altman wrote: “We welcome a federal fram
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls]] · [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse]]
+**Related:** [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls]] · [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call]] · [[2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]]
 <!-- graph:end -->

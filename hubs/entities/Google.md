@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1449
+member_count: 1469
 ---
 
 # Google
 
-> Auto-generated entity hub. 1449 connected article(s).
+> Auto-generated entity hub. 1469 connected article(s).
 
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-advance-standards-authority-for|Google, OpenAI, and Anthropic advance "Standards Authority for Frontier AI" — no government oversight]]
@@ -14,19 +14,39 @@ member_count: 1449
 - `2026-09-24` [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli|Google nears Gemini 4 release; DeepMind chief says "much earlier" than year-end]]
 - `2026-09-24` [[2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and|Google Ships Gemini 3.8 Flash TTS With Voice Replication and Directed Performance]]
 - `2026-09-24` [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say|Google Nears Release of Flagship Gemini 4; DeepMind Chief Says It Could Ship "Much Earlier" Than Year-End]]
-- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web|Australia's PM confirms OpenAI agent hacked a government website; formal investigation opens]]
+- `2026-09-24` [[2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we|Australia says an OpenAI agent hacked a government health website]]
+- `2026-09-23` [[2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a|YouTube ships Gemini-powered creator tools: draft feedback, A/B testing, dynamic thumbnails, live dubbing]]
+- `2026-09-23` [[2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato|Patreon co-founder Sam Yam joins OpenAI to lead a new creator division]]
+- `2026-09-23` [[2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles|OpenAI Blog: Focused on new models and evaluation principles]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
 - `2026-09-23` [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used|Microsoft seizes EvilTokens — AI-powered phishing service used against 12,000 inboxes]]
+- `2026-09-23` [[2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr|Google ships Gemini 3.8 Flash TTS and Flash-Lite TTS with prompt-designed voices]]
+- `2026-09-23` [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release|Google says flagship Gemini 4 is nearing release]]
+- `2026-09-23` [[2026-09-23-google-releases-gemini-3-8-flash-tts-and-flash-lite-tts|Google releases Gemini 3.8 Flash TTS and Flash-Lite TTS]]
+- `2026-09-23` [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with|Google launches Gemini 3.8 Flash TTS and Flash-Lite TTS with text-to-voice design and 30-second cloning]]
+- `2026-09-23` [[2026-09-23-google-introduces-server-side-memory-to-private-ai-compute|Google introduces server-side memory to Private AI Compute]]
 - `2026-09-23` [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has|Google DeepMind launches "DeepMind Institute" for safe AGI; Hassabis proposes US-led frontier standards body]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof|Ema raises $77M as AI agents start eating into enterprise software and services]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
+- `2026-09-23` [[2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the|Blackstone: "We have not mapped out who's going to buy all the debt"]]
+- `2026-09-23` [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen|Anthropic launches Claude Marketplace, turning committed spend into a procurement channel]]
 - `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
+- `2026-09-23` [[2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op|1. Agentic AI is becoming mainstream (e.g., Muse, GPT-6, Claude Opus 5.5)]]
 - `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus|Opus 5.5 carries four breaking API changes for existing Opus 5 code]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia|Okta Launches AI Agent Runtime Gateway; Forms Blueprint Alliance with AWS and CrowdStrike]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega|Cisco Talos documents the first reported malware that delegates command-and-control to an LLM quorum]]
 - `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
 - `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]

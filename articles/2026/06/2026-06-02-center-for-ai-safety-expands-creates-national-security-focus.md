@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
+- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
-- 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
-- 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 embedding_id: 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CAIS named former xAI leader Devin Kim as president and established the Frontier
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]] · [[2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr]] · [[2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe]]
+**Related:** [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c]]
 <!-- graph:end -->

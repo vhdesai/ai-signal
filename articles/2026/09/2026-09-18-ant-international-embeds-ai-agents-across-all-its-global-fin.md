@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 - 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
 - 2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
-- 2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la
 embedding_id: 2026-09-18-ant-international-embeds-ai-agents-across-all-its-global-fin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ant International launched what it calls its largest product upgrade ever, embed
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a]] · [[2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]]
+**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a]] · [[2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
 <!-- graph:end -->

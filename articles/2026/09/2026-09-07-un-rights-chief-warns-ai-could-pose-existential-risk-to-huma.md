@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
+- 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
-- 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 embedding_id: 2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reuters reported that the UN human rights chief warned AI could pose existential
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]] · [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]]
+**Related:** [[2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks]] · [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over]]
 <!-- graph:end -->

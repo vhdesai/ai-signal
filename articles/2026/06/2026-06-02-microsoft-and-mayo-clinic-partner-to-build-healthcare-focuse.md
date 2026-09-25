@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
+- 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-- 2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash
-- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 embedding_id: 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft and Mayo Clinic announced a joint effort to build a frontier AI model 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]] · [[2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]]
 <!-- graph:end -->

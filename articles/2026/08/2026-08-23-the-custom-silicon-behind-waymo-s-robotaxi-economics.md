@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
+- 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 embedding_id: 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
@@ -34,5 +35,5 @@ TechCrunch Mobility detailed the custom inference chip underpinning Waymo's robo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
+**Related:** [[2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif]] · [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]]
 <!-- graph:end -->

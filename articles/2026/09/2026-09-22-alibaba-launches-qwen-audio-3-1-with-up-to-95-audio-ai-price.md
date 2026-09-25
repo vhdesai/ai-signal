@@ -6,7 +6,8 @@ source: The Decoder
 url_original: https://the-decoder.com/alibaba-qwen-audio-3-1-price-cut-2026-09-22
 url_canonical: https://the-decoder.com/alibaba-qwen-audio-3-1-price-cut-2026-09-22
 url_status: ok
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: b626a3c7df9fbb19a6402e5f70b99e314d5699ad807f70bf136e9cccf38b75a9
 normalized_title_hash: b54f3601e8057f05
 canonical_url_hash: de12c6ef296da38d
@@ -25,9 +26,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-- 2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are
 embedding_id: 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alibaba launched Qwen Audio 3.1 with new models and cut AI audio prices by up to
 
 **Entities:** [[Alibaba]] · [[Meta]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are]]
+**Related:** [[2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc
 - 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
 - 2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a
-- 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
+- 2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot
 embedding_id: 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Information reports China's Cyberspace Administration is investigating DeepS
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh]] · [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc]] · [[2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f]] · [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a]] · [[2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a]]
+**Related:** [[2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh]] · [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc]] · [[2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f]] · [[2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a]] · [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot]]
 <!-- graph:end -->

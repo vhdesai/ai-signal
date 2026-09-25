@@ -43,10 +43,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+- 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-08-06-openai-partners-with-the-american-psychological-association
 - 2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op
 - 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
-- 2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
 embedding_id: 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 event_name: ''
 ---
@@ -60,5 +60,5 @@ MIT News profiles PhD student Ila Kumar, who works alongside young people who ha
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]]
+**Related:** [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]] · [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op]] · [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist]]
 <!-- graph:end -->

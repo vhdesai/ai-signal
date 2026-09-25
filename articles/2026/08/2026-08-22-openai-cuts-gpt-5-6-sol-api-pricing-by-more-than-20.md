@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite
+- 2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
-- 2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than
+- 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 embedding_id: 2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI is reducing API and credit pricing for GPT-5.6 Sol by over 20% for the ne
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]] · [[2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than]]
+**Related:** [[2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite]] · [[2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]] · [[2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h]]
 <!-- graph:end -->

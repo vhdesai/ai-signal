@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 118
+member_count: 121
 ---
 
 # AMD
 
-> Auto-generated entity hub. 118 connected article(s).
+> Auto-generated entity hub. 121 connected article(s).
 
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand|AMD Crosses $1 Trillion Market Cap on AI Accelerator Demand]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]
+- `2026-09-21` [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema|AMD crosses $1 trillion as agentic workloads reprice CPU demand]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-plus-n|Apple exploring return to server market with M8 Ultra plus Nvidia NVLink Fusion, targeting 2029 sales]]
 - `2026-09-16` [[2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia|Apple exploring return to server market with M8 Ultra + Nvidia NVLink Fusion]]
 - `2026-09-14` [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin|Chip and Memory Stocks Sell Off as Coordinated Safety Warnings Hit the AI Trade — Intel −7%, AMD −6%, NVIDIA −3%]]

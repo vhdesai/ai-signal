@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
+- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
-- 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 embedding_id: 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reported that OpenAI CEO Sam Altman warned companies sho
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]]
+**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe]]
 <!-- graph:end -->

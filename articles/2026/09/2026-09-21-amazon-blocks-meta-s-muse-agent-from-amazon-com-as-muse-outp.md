@@ -7,7 +7,7 @@ source: TechCrunch / The Information]
 url_original: https://techcrunch.com/2026/09/21/amazon-blocks-metas-muse-ai-agent-from-shopping/
 url_canonical: https://techcrunch.com/2026/09/21/amazon-blocks-metas-muse-ai-agent-from-shopping/
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 3d58a7b86fb69a6f8a43612075d8ec4f629ab0d60334d2adc9f184b48946a100
 normalized_title_hash: 7bc15baefab1c661
@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us
 - 2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-- 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
-- 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 embedding_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Starting Sunday night, Muse users attempting to buy on Amazon received an error 
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]]
+**Related:** [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]]
 <!-- graph:end -->

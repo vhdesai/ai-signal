@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
@@ -37,5 +38,5 @@ The province filed in San Francisco federal court, jointly with school district 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
+**Related:** [[2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
 <!-- graph:end -->

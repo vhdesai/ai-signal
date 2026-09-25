@@ -1,26 +1,43 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 915
+member_count: 932
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 915 connected article(s).
+> Auto-generated entity hub. 932 connected article(s).
 
+- `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
+- `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
+- `2026-09-24` [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge|Microsoft Research finds offloading robot inference to edge and cloud improves success and battery life]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
-- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
+- `2026-09-23` [[2026-09-23-september-24-2026|September 24, 2026]]
+- `2026-09-23` [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call|SCMP: US–China race dynamics still overwhelm the "pacing" call from top US AI leaders]]
+- `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale’s $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
-- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft's Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc|Microsoft’s Brad Smith Formally Endorses a Mandated "Emergency Brake" for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f|Microsoft’s Brad Smith Endorses a Mandated “Emergency Brake” for Advanced AI Systems]]
+- `2026-09-23` [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak|Microsoft's Brad Smith endorses a mandated AI "emergency brake"]]
 - `2026-09-23` [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used|Microsoft seizes EvilTokens — AI-powered phishing service used against 12,000 inboxes]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof|Ema raises $77M as AI agents start eating into enterprise software and services]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
+- `2026-09-23` [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen|Anthropic launches Claude Marketplace, turning committed spend into a procurement channel]]
 - `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-22` [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic|Software Firms Discount AI to Keep Customers from Anthropic and OpenAI]]
+- `2026-09-22` [[2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus|Opus 5.5 carries four breaking API changes for existing Opus 5 code]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat|Nscale's IPO will test Wall Street's appetite for concentrated AI bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic|Microsoft disrupts EvilTokens, an AI-native cybercrime service]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]

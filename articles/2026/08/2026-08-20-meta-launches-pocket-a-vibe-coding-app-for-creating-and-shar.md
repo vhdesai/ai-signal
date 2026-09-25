@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
 - 2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued
 - 2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us
-- 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
+- 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
 embedding_id: 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta brought Pocket, its experimental AI-powered app for creating and sharing in
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]] · [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued]] · [[2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us]] · [[2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered]]
+**Related:** [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]] · [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued]] · [[2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us]] · [[2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent]]
 <!-- graph:end -->

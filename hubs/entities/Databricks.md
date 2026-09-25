@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 143
+member_count: 146
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 143 connected article(s).
+> Auto-generated entity hub. 146 connected article(s).
 
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-21` [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti|OpenAI Publishes V7 Case Study on Giving AI Agents Institutional Memory]]
 - `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]

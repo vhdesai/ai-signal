@@ -6,7 +6,7 @@ source: Asia Times / Bloomberg]
 url_original: https://asiatimes.com/2026/09/us-china-open-formal-ai-incident-hotline
 url_canonical: https://asiatimes.com/2026/09/us-china-open-formal-ai-incident-hotline
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 1d5a7b982ea1a0caf3ded4413be6bf2c17cceb7942a80d209b26bdb5ea07e096
 normalized_title_hash: 25321a570ec75c4e

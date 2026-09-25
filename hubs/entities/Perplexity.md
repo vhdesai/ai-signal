@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 80
+member_count: 83
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 80 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
+- `2026-09-22` [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer|Amazon's block on Meta's Muse agent opens the agentic-commerce governance fight]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss|Amazon Blocks Meta's Muse Agent, Opening the Platform-Permission Fight]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f|Amazon blocks Meta's Muse agent, opening a platform-control fight over agentic shopping]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp|Amazon Blocks Meta's Muse Agent from Amazon.com as Muse Outpaces ChatGPT's Early Mobile Curve]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com|Amazon Blocks Meta's Muse Agent From Shopping on Amazon.com]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon|Amazon Blocks Meta's Muse AI Agent from Shopping the Amazon Store]]

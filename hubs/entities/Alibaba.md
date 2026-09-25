@@ -1,30 +1,46 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 385
+member_count: 401
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 385 connected article(s).
+> Auto-generated entity hub. 401 connected article(s).
 
+- `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with|Google launches Gemini 3.8 Flash TTS and Flash-Lite TTS with text-to-voice design and 30-second cloning]]
+- `2026-09-23` [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot|Global Times reports China has invited DeepSeek and Moonshot AI to attend the UN Security Council briefing on AI-related risks, aligning with Reuters' earlier scoop that both firms would participate. That inclusion comes despite Beijing's active data-routing investigation into both firms following Anthropic's public allegations (Alibaba stock fell 4% on Bloomberg's coverage today). The dual-track "brief the UN while under domestic investigation" dynamic is unusual and reflects how quickly AI governance is now moving on both sides of the US-China frontier-lab divide.]]
 - `2026-09-23` [[2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its|Founders Fund and Khosla Ventures quietly visit China as its AI prowess rises]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
 - `2026-09-23` [[2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc|China invites DeepSeek and Moonshot to the UN Security Council briefing on AI risks]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
+- `2026-09-23` [[2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices|Alibaba launches Qwen-Audio 3.1 and cuts audio-model prices by up to 95%]]
 - `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
+- `2026-09-23` [[2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and|Alibaba Cloud to open new data centres in Turkey, Finland and the Netherlands]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo|Xiaomi's MiMo-V2.6-Pro tops open-model benchmarks — trained for $2.62M, allegedly with Claude distillation]]
 - `2026-09-22` [[2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6|Xiaomi's MiMo-V2.6-Pro Tops Open-Model Leaderboards on a $2.62M RL Run — Anthropic Alleges Claude Distillation]]
+- `2026-09-22` [[2026-09-22-wednesday-september-23-2026|Wednesday, September 23, 2026]]
 - `2026-09-22` [[2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5|Tencent launches Hy Image 3.5 Preview; shares rise about 5%]]
+- `2026-09-22` [[2026-09-22-same-day-releases-mark-the-first-frontier-price-war-since-th|Same-day releases mark the first frontier price war since the slowdown debate]]
 - `2026-09-22` [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of|Opinion: Why America's AI dream is failing to launch — $130B of data-center projects blocked or delayed in Q1]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-frontier-pricing-resets-claude-opus-5-5-and-gpt-6-sol-luna-4|Frontier pricing resets: Claude Opus 5.5 and GPT-6 Sol/Luna (48-hour context)]]
+- `2026-09-22` [[2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training|DeepSeek shifts to Huawei chips for large-model training]]
 - `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen|Alibaba unveils full-stack AI roadmap: Zhenwu V900 chip, Qwen 4 in training, 10-trillion-parameter ambition]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target|Alibaba unveils Zhenwu V900 accelerator, 20GW capacity target and a 10-trillion-parameter Qwen roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of|Alibaba unveils Zhenwu V900 accelerator and targets 20GW of cloud capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
 - `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center|Alibaba Unveils Zhenwu V900 and Targets 20GW of Data Center Capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion|Alibaba Unveils Zhenwu V900 AI Chip and Teases a 10-Trillion-Parameter Model at Apsara]]

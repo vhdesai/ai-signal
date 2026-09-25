@@ -28,6 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
@@ -44,5 +45,5 @@ OpenAI: Launched GPT-5.6 (Sol, Terra, Luna), GPT-Live voice model, and new scien
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]]
+**Related:** [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]]
 <!-- graph:end -->

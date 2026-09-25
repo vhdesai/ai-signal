@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
+- 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
 - 2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 embedding_id: 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Bank for International Settlements' Annual Economic Report, published Sunday
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp]]
 <!-- graph:end -->

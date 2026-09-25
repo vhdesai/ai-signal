@@ -42,10 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement
+- 2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase
 - 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
 - 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
-- 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 embedding_id: 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
 event_name: ''
 ---
@@ -59,5 +60,5 @@ The claims site for Apple’s $250 million US class-action settlement over the d
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]]
+**Related:** [[2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement]] · [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase]] · [[2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri]] · [[2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]]
 <!-- graph:end -->

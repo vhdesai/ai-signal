@@ -7,7 +7,8 @@ source: The Information
 url_original: https://www.theinformation.com/articles/anthropic-in-talks-to-cement-control-over-more-data-centers
 url_canonical: https://www.theinformation.com/articles/anthropic-in-talks-to-cement-control-over-more-data-centers
 url_status: broken
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: 64a4e6f5924cba6aaf69e0eccdce02f3f47f9c1c69e3b822d06ffacfc995ea90
 normalized_title_hash: a7c4b7b98d01823c
 canonical_url_hash: 5c3a11731bf2452c

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 - 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
-- 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 embedding_id: 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta announced that Ray-Ban AI glasses will disable camera capture if the record
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]]
+**Related:** [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr]] · [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]]
 <!-- graph:end -->

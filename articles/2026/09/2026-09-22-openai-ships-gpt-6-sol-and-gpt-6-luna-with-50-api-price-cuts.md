@@ -6,7 +6,8 @@ source: OpenAI
 url_original: https://openai.com/index/gpt-6-sol-luna/
 url_canonical: https://openai.com/index/gpt-6-sol-luna/
 url_status: broken
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: af5a5397973b318f81c5ee13d7afcab22301e556d86877f86fb1cfad917ee832
 normalized_title_hash: bcd2c5761cea8959
 canonical_url_hash: 725017125c4c13b3
@@ -20,11 +21,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-- 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
+dedupe_status: duplicate
+canonical_article_id: 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
+related_article_ids: []
 embedding_id: 2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI released GPT-6 Sol and GPT-6 Luna, bringing Astra-level alignment work to
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]]
+**Canonical:** [[2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token]]
 <!-- graph:end -->

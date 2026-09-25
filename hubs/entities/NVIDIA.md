@@ -1,31 +1,47 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1523
+member_count: 1540
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1523 connected article(s).
+> Auto-generated entity hub. 1540 connected article(s).
 
+- `2026-09-24` [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight|Micron ends 2GB GDDR7 production, narrowing an already tight memory market]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
+- `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker|NVIDIA releases Nemotron 3 Diarization for real-time speaker tracking]]
+- `2026-09-23` [[2026-09-23-nvidia-open-weights-nemotron-3-diarization|NVIDIA open-weights Nemotron 3 Diarization]]
+- `2026-09-23` [[2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout|NVIDIA and partners showcase production-scale AI across Southeast Asia]]
+- `2026-09-23` [[2026-09-23-ionq-to-install-the-first-qpu-at-nvidia-s-accelerated-quantu|IonQ to install the first QPU at NVIDIA's Accelerated Quantum Research Center]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t|Basecamp Research raises $140M from Nvidia and Anthropic to turn evolution into training data]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
 - `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
-- `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
+- `2026-09-23` [[2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op|1. Agentic AI is becoming mainstream (e.g., Muse, GPT-6, Claude Opus 5.5)]]
 - `2026-09-22` [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent|The Information: CFTC extends review of CME's Nvidia-GPU rental futures — October launch off the table]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
 - `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training|DeepSeek shifts to Huawei chips for large-model training]]
 - `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
+- `2026-09-22` [[2026-09-22-alphabet-s-intrinsic-open-sources-its-core-robotics-stack-at|Alphabet's Intrinsic open-sources its core robotics stack at ROSCon 2026]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen|Alibaba unveils full-stack AI roadmap: Zhenwu V900 chip, Qwen 4 in training, 10-trillion-parameter ambition]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill|Alibaba unveils Zhenwu V900 AI chip and plans for a 10-trillion-parameter model at Apsara]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center|Alibaba Unveils Zhenwu V900 and Targets 20GW of Data Center Capacity by 2032]]
+- `2026-09-22` [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand|AMD Crosses $1 Trillion Market Cap on AI Accelerator Demand]]
 - `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
 - `2026-09-21` [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti|OpenAI Publishes V7 Case Study on Giving AI Agents Institutional Memory]]
 - `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
 - `2026-09-21` [[2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi|NVIDIA's SoL-Pi: AI-Discovered Harness Optimizations Cut Coding-Agent Token Traffic Up to 49%]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw|NVIDIA launches DSX Ready to qualify power and cooling hardware for AI factories]]
 - `2026-09-21` [[2026-09-21-nvidia-frames-ai-security-as-an-engineering-problem-across-t|NVIDIA frames AI security as an engineering problem across the full agent stack]]
 - `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-21` [[2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1|Microsoft and Anthropic Account for Nearly All of Nscale’s $103B Backlog]]
@@ -35,6 +51,7 @@ member_count: 1523
 - `2026-09-21` [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar|Crusoe Raises $3.9B Series F at $30.9B; AI Infrastructure Megarounds Continue]]
 - `2026-09-21` [[2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics|Chinese chipmaker Hygon expands from data-center to robotics silicon with new CPU1000-series variant]]
 - `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]
+- `2026-09-21` [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema|AMD crosses $1 trillion as agentic workloads reprice CPU demand]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
 - `2026-09-20` [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real|TechCrunch: AI industry remains split over whether it is really ready to slow down]]
 - `2026-09-20` [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon|Siri AI settlement website goes live: Apple to pay some iPhone owners]]

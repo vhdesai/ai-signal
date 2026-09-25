@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
+- 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
 embedding_id: 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI disclosed that it banned a cluster of ChatGPT accounts it assesses as ver
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending]]
+**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
+- 2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
-- 2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t
 embedding_id: 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Thales and Google Cloud are extending their sovereign-cloud joint venture into G
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t]]
+**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]]
 <!-- graph:end -->

@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-wednesday-september-23-2026
 - 2026-08-26-daily-ai-news-digest-august-27-2026
 - 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-08-01-the-ai-brief-august-1-2026
 embedding_id: 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Over the US Independence Day weekend, hard demand signals outweighed new product
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-08-01-the-ai-brief-august-1-2026]]
+**Related:** [[2026-09-22-wednesday-september-23-2026]] · [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

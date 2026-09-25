@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
-- 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
+- 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
 embedding_id: 2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reports that OpenAI's updated voice mode is now available in the Chat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]]
+**Related:** [[2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop]] · [[2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows]]
 <!-- graph:end -->

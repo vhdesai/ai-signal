@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how
+- 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
+- 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
-- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 embedding_id: 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fleet-management firm Samsara unveiled Ground Intelligence, an AI model trained 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
+**Related:** [[2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]]
 <!-- graph:end -->

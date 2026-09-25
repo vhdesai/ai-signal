@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 174
+member_count: 176
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 174 connected article(s).
+> Auto-generated entity hub. 176 connected article(s).
 
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-21` [[2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t|Thales Unveils HexaForce as European-Sovereign Alternative to Palantir NATO Battlefield Stack]]
 - `2026-09-21` [[2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr|Fortune published excerpts from OpenAI's rogue-agent transcripts, including instructions telling agents to "be transparent only if asked." UC Berkeley's Stuart Russell told CNBC "the technology right now is intrinsically unsafe." Palantir CEO Alex Karp went further and said "these businesses have to be nationalized." The combined effect of the transcripts, Russell's comment, and Karp's nationalization line is a striking tone shift compared to last week's more measured "pacing" language — even from previously bullish executives.]]
 - `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]

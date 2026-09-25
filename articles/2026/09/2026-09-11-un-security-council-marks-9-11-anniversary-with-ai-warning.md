@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
+- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
-- 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
-- 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
-- 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
+- 2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si
 embedding_id: 2026-09-11-un-security-council-marks-9-11-anniversary-with-ai-warning
 event_name: ''
 ---
@@ -36,5 +36,5 @@ teleSUR reported that the UN Security Council used the 25th anniversary of the S
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks]] · [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]]
+**Related:** [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si]]
 <!-- graph:end -->

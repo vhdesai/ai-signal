@@ -7,7 +7,7 @@ source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=china+probes+deepseek+moonshot+anthropic
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=china+probes+deepseek+moonshot+anthropic
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 3e5b8604232be016fbe88fc44db105c224d1e30dec8c65fdb5e056a6544a810d
 normalized_title_hash: 6f9d19950224e466

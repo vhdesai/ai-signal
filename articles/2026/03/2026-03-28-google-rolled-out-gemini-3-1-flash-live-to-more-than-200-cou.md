@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
-- 2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi
+- 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
 embedding_id: 2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google rolled out Gemini 3.1 Flash Live to more than 200 countries, completing a
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi]]
+**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with]]
 <!-- graph:end -->

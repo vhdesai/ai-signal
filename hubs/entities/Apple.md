@@ -1,17 +1,23 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 426
+member_count: 432
 ---
 
 # Apple
 
-> Auto-generated entity hub. 426 connected article(s).
+> Auto-generated entity hub. 432 connected article(s).
 
+- `2026-09-24` [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase|Apple's $250M Siri settlement enters the claims phase]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa|Apple releases LensVLM-9B open weights for document understanding]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-22` [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout|Instinct at ~$10B: BI profiles the 23-year-old college dropout Noah Shinn]]
 - `2026-09-22` [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico|Bernstein: Huawei's Kirin 9050 Pro closes gap to Apple silicon to ~3 years and beats A17 Pro on Geekbench multi-core]]
 - `2026-09-22` [[2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to|Apple targets Microsoft and Nvidia with new Macs designed to lower AI inference costs]]
+- `2026-09-22` [[2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement|Apple opens claims for $250M Siri AI delay settlement]]
 - `2026-09-22` [[2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli|Ant Group consolidates Alipay into one business group, doubling down on "agentic commerce"]]
 - `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
 - `2026-09-21` [[2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin|Ron Johnson: Silicon Valley Is Overestimating Agentic Shopping]]

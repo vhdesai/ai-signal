@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20
+- 2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices
 - 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 embedding_id: 2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than
@@ -40,5 +41,5 @@ OpenAI reduced GPT-5.6 Sol API and Codex credit pricing by over 20% for the next
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]]
+**Related:** [[2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20]] · [[2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]]
 <!-- graph:end -->

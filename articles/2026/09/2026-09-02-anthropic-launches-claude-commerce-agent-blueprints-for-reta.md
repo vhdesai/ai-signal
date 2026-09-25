@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic launched a blueprint for commerce agents on Claude, including referenc
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop]]
 <!-- graph:end -->

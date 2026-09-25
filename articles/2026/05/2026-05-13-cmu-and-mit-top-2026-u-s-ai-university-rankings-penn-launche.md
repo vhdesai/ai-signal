@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
+- 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 embedding_id: 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon and MIT were named the leading U.S. universities for artificial 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
+**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

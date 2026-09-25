@@ -7,7 +7,7 @@ source: VentureBeat / Dataconomy / The Decoder]
 url_original: https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/
 url_canonical: https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/
 url_status: ok
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: f1eff33c3d679f6f08ece73789b5159c6d8f5412d4403572660dae0aafa056b6
 normalized_title_hash: f77e5fb3b453fbc3

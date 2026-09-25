@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 embedding_id: 2026-05-26-retrying-vs-resampling-in-ai-control
 event_name: ''
 ---
@@ -36,5 +36,5 @@ First head-to-head empirical comparison of two safety-monitor strategies — ret
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
+**Related:** [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]]
 <!-- graph:end -->

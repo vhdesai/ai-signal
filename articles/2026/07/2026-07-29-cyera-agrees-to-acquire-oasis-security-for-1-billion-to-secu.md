@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
+- 2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
-- 2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents
 embedding_id: 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cyera agreed to acquire Oasis Security for about $1 billion, mostly in cash, to 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents]]
+**Related:** [[2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
 - 2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc
 - 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
-- 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
+- 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 embedding_id: 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Speaking at the UN’s AI for Good summit, Werner Vogels said companies are movi
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]] · [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]]
+**Related:** [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]] · [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]] · [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]]
 <!-- graph:end -->

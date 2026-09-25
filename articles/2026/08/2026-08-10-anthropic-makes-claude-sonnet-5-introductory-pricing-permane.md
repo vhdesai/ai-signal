@@ -21,8 +21,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y
-- 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
+- 2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu
+- 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
 embedding_id: 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Anthropic will keep Claude Sonnet 5 at $2 per million input tokens and $10 per m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]]
+**Related:** [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and]] · [[2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l]]
 <!-- graph:end -->

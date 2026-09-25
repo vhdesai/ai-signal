@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
+- 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo
 embedding_id: 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 event_name: ''
 ---
@@ -37,5 +37,5 @@ research from MIT and collaborating institutions demonstrated a significant impr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo]]
+**Related:** [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
 <!-- graph:end -->

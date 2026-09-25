@@ -1,30 +1,43 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1193
+member_count: 1206
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1193 connected article(s).
+> Auto-generated topic hub. 1206 connected article(s).
 
+- `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]
+- `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
+- `2026-09-24` [[2026-09-24-island-raises-400m-at-a-6-4b-valuation-as-enterprises-budget|Island raises $400M at a $6.4B valuation as enterprises budget against rogue agents]]
 - `2026-09-24` [[2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo|DeepSeek annualized revenue hits $1B; $7.5B round targeting close by end-October ahead of Shanghai IPO]]
-- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone's AI Investment Lead: "We Have Not Mapped Out Who's Going to Buy All the Debt"]]
+- `2026-09-24` [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s|Blackstone’s AI Investment Lead: "We Have Not Mapped Out Who’s Going to Buy All the Debt"]]
 - `2026-09-24` [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and|Basecamp Research raises $140M Series C backed by NVIDIA and Anthropic for AI-designed therapeutics]]
 - `2026-09-23` [[2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund|WSJ Pro: Cyber startups on pace to more than double 2024 funding — seed is the new Series B]]
-- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale's $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
-- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek's Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
+- `2026-09-23` [[2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen|Nscale’s $35B NYSE Listing Tests Appetite for Customer-Concentrated AI Infrastructure]]
+- `2026-09-23` [[2026-09-23-enveda-raises-311m-at-a-2b-valuation-for-nature-derived-ai-d|Enveda raises $311M at a $2B valuation for nature-derived AI-designed drugs]]
+- `2026-09-23` [[2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof|Ema raises $77M as AI agents start eating into enterprise software and services]]
+- `2026-09-23` [[2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl|Dueling Price Cuts Land Days After Both CEOs Called for a Slowdown]]
+- `2026-09-23` [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a|DeepSeek’s Annualized Revenue Hits $1B; Chinese Lab Targets a $7.5B Round at a $75B Valuation Ahead of Shanghai IPO]]
+- `2026-09-23` [[2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t|Basecamp Research raises $140M from Nvidia and Anthropic to turn evolution into training data]]
 - `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
 - `2026-09-23` [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio|Amazon promises 30% AI token cost cuts via new cloud-migration agent]]
 - `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
+- `2026-09-22` [[2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini|Snorkel AI triples valuation to $3.5B as demand for AI training data booms]]
+- `2026-09-22` [[2026-09-22-snorkel-ai-raises-350m-at-a-3-5b-valuation-as-training-data|Snorkel AI raises $350M at a $3.5B valuation as training-data demand compounds]]
+- `2026-09-22` [[2026-09-22-snorkel-ai-raises-350m-at-3-5b-as-training-data-demand-compo|Snorkel AI Raises $350M at $3.5B as Training-Data Demand Compounds]]
 - `2026-09-22` [[2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in|OpenAI's GPT-6 Astra Overtakes Anthropic's Claude Opus 5 in Weekly Business AI Spend (Ramp)]]
 - `2026-09-22` [[2026-09-22-nscale-s-nyse-filing-tests-wall-street-s-appetite-for-concen|Nscale's NYSE Filing Tests Wall Street's Appetite for Concentrated AI Bets]]
+- `2026-09-22` [[2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat|Nscale's IPO will test Wall Street's appetite for concentrated AI bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-ipo-wall-street-s-next-test-of-appetite-for|Nscale files for IPO — Wall Street's next test of appetite for concentrated AI infrastructure bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
 - `2026-09-22` [[2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo|Helsinki's Verda Raises $189M, Becoming Europe's Newest AI Cloud Unicorn]]
+- `2026-09-22` [[2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va|Cyera takes $400M from Goldman Sachs Alternatives at a $12B+ valuation to govern agent access]]
 - `2026-09-22` [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and|Alibaba declares ASI ambition, teases 10T-parameter model, and unveils "China's most powerful AI chip" at Apsara]]
 - `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
 - `2026-09-21` [[2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta|SoftBank plans $11B+ in risky bonds to fund another OpenAI stake payment]]

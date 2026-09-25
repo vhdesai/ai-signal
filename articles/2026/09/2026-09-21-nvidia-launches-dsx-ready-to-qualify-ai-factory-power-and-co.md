@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
-- 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 embedding_id: 2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA introduced DSX Ready, a qualification program certifying partner products
 
 **Entities:** [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]]
+**Related:** [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc]]
 <!-- graph:end -->

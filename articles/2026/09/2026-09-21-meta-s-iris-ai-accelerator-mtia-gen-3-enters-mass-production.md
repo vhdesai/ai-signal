@@ -6,7 +6,7 @@ source: The Eastern Herald]
 url_original: https://www.easternherald.com/2026/09/21/meta-iris-mtia-gen3-mass-production-tsmc-3nm/
 url_canonical: https://www.easternherald.com/2026/09/21/meta-iris-mtia-gen3-mass-production-tsmc-3nm/
 url_status: broken
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: b0e27c858f5c32a1f4f502d8334f0d3ec3db11eaf2c50cc20a1ee6622fa0d18e
 normalized_title_hash: d76ebf14198be973

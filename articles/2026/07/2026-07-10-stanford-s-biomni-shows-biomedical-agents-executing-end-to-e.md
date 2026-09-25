@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
+- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
 embedding_id: 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford highlighted Biomni, a general-purpose biomedical AI co-scientist that c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]]
+**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

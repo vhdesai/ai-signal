@@ -21,6 +21,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
 - 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
@@ -37,5 +38,5 @@ TechCrunch reports growing evidence that China's leading AI researchers — hist
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
+**Related:** [[2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai]] · [[2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis
-- 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
+- 2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier
 embedding_id: 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Speaking at a Sydney CBA conference, Sam Altman told CEO Matt Comyn: "I don't th
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]]
+**Related:** [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis]] · [[2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
+canonical_article_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
 related_article_ids: []
 embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent
 event_name: ''
@@ -37,5 +37,5 @@ At Alibaba Cloud's Apsara Conference in Hangzhou, CEO Eddie Wu introduced the Zh
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Canonical:** [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]]
+**Canonical:** [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target]]
 <!-- graph:end -->

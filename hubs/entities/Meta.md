@@ -1,25 +1,46 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 780
+member_count: 802
 ---
 
 # Meta
 
-> Auto-generated entity hub. 780 connected article(s).
+> Auto-generated entity hub. 802 connected article(s).
 
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
+- `2026-09-24` [[2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con|Meta Connect: Muse gets video avatars, email addresses, Mac control, and dedicated hardware]]
 - `2026-09-24` [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec|Meta Connect: Muse gains Walmart/Best Buy/Sephora + PayPal checkout, VR Glasses ($1,300) and Ray-Ban Meta Audio ($349) launch]]
+- `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
+- `2026-09-23` [[2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato|Patreon co-founder Sam Yam joins OpenAI to lead a new creator division]]
+- `2026-09-23` [[2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles|OpenAI Blog: Focused on new models and evaluation principles]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable|Meta unveils "Muse Charm," a keychain-sized AI wearable]]
+- `2026-09-23` [[2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent|Meta previews Muse Charm, a pocket wearable for its AI agent]]
+- `2026-09-23` [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr|Meta introduces camera-free Ray-Ban AI glasses to address privacy concerns]]
+- `2026-09-23` [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a|Meta expands Muse with retail partnerships, Mac control, and agent connectors]]
+- `2026-09-23` [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am|Meta adds Walmart, Best Buy and Sephora to Muse — days after Amazon blocked it]]
+- `2026-09-23` [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses|Meta Connect: camera-free Ray-Ban Meta Audio, $1,300 VR glasses, and a Gen 3 refresh]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
+- `2026-09-23` [[2026-09-23-chatgpt-voice-adds-email-calendar-and-slack-access-moves-ont|ChatGPT Voice adds email, calendar, and Slack access, moves onto GPT-6 Sol/Luna/Astra]]
 - `2026-09-23` [[2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi|Amazon rehires laid-off workers for AI and cloud roles as Big Tech reverses course]]
-- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic's Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w|Amazon opens Seller Central to outside AI agents, beginning with Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start|Amazon Opens Seller Central APIs to Third-Party Agents, Starting With Anthropic’s Claude]]
+- `2026-09-23` [[2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-begin|Amazon Opens Seller Central APIs to Third-Party Agents, Beginning With Anthropic’s Claude]]
 - `2026-09-23` [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent|AI Agenda Live: open source and price cuts are keeping AI enterprise costs in check]]
 - `2026-09-22` [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts|OpenAI ships GPT-6 Sol and GPT-6 Luna with 50% API price cuts]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
+- `2026-09-22` [[2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence|Meta admits Muse's likeness to OpenClaw isn't a coincidence]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-22` [[2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout|Instinct at ~$10B: BI profiles the 23-year-old college dropout Noah Shinn]]
 - `2026-09-22` [[2026-09-22-cio-dive-google-ai-models-broke-out-of-sandbox-and-hacked-3|CIO Dive: Google AI models broke out of sandbox and hacked 3 companies — same defects that tripped OpenAI, Anthropic, Meta]]
 - `2026-09-22` [[2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un|Anthropic's Amodei and DeepSeek Will Separately Brief the UN Security Council on AI Risks This Week]]
 - `2026-09-22` [[2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun|Amodei and DeepSeek to Separately Brief the UN Security Council on AI Risks This Week]]
+- `2026-09-22` [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer|Amazon's block on Meta's Muse agent opens the agentic-commerce governance fight]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com|Amazon blocks Meta's Muse agent from shopping on Amazon.com]]
+- `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss|Amazon Blocks Meta's Muse Agent, Opening the Platform-Permission Fight]]
 - `2026-09-22` [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price|Alibaba launches Qwen Audio 3.1 with up to 95% audio-AI price cuts]]
 - `2026-09-21` [[2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv|WSJ + FT: Gemini Test-Hack Details — Password-Guessing Plus a Live-Internet Config Oversight]]
 - `2026-09-21` [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte|Robert Langer and Yann LeCun join the board of Cellular Intelligence]]
@@ -31,6 +52,7 @@ member_count: 780
 - `2026-09-21` [[2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the|Meta hot-fixes a Muse zero-day that could hand attackers the agent's privileges]]
 - `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr|Anthropic Weighs an Off-Cycle Model Release as OpenAI's Astra Gains Enterprise Share]]
+- `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f|Amazon blocks Meta's Muse agent, opening a platform-control fight over agentic shopping]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c|Amazon blocks Meta's Muse AI agent from shopping on Amazon.com]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp|Amazon Blocks Meta's Muse Agent from Amazon.com as Muse Outpaces ChatGPT's Early Mobile Curve]]
 - `2026-09-21` [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com|Amazon Blocks Meta's Muse Agent from Amazon.com]]

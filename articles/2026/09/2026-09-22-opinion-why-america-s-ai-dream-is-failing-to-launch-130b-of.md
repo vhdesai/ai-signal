@@ -7,7 +7,8 @@ source: The Information
 url_original: https://www.theinformation.com/articles/opinion-why-americas-ai-dream-is-failing-to-launch
 url_canonical: https://www.theinformation.com/articles/opinion-why-americas-ai-dream-is-failing-to-launch
 url_status: broken
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: 343478df5f3d7dddc862380ffc76f92172ef6daefaaa3d46d7031f6cb0dcb54e
 normalized_title_hash: 5dfdebcb5ee2ca59
 canonical_url_hash: 3caad85ea51f4d13

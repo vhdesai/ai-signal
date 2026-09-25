@@ -4,9 +4,10 @@ title: OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product div
 date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/patreon-co-founder-sam-yam-joins-openai-to-lead-new-creator-division
-url_canonical: https://www.aitechdaily.com/openai-creator-product-patreon-hires/
+url_canonical: https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/
 url_status: repaired
-digest_source: digests\raw\2026-09-24_070201_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
+  24, 2026.md
 content_hash: 6d6309ddbfb7eb2b8f0e0c9a6bc4c02806589575dde2654261ae644f73a697b7
 normalized_title_hash: 2c62e28affcade0a
 canonical_url_hash: 9bb5389968e5332b
@@ -22,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 - 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-- 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 embedding_id: 2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI hired Patreon co-founder Sam Yam plus two other former Patreon executives
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the]]
+**Related:** [[2026-09-23-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato]] · [[2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]]
 <!-- graph:end -->

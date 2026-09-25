@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia
 - 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
-- 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
+- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 embedding_id: 2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Truveta published a peer-reviewed study in JCO Clinical Cancer Informatics showi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32]]
+**Related:** [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past]]
 <!-- graph:end -->

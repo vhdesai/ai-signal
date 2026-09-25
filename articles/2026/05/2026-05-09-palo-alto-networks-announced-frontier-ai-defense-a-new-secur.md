@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy
+- 2026-09-22-palo-alto-networks-launches-unit-42-continuous-frontier-ai-d
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-- 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
 embedding_id: 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Palo Alto Networks announced Frontier AI Defense, a new security initiative comb
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]]
+**Related:** [[2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at]] · [[2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy]] · [[2026-09-22-palo-alto-networks-launches-unit-42-continuous-frontier-ai-d]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]]
 <!-- graph:end -->

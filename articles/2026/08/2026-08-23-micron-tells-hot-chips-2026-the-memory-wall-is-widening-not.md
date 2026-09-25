@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
+- 2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight
 embedding_id: 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 event_name: ''
 ---
@@ -36,5 +36,5 @@ At Hot Chips 2026, Micron laid out that accelerator compute is tripling every tw
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
+**Related:** [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons]] · [[2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th]] · [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight]]
 <!-- graph:end -->

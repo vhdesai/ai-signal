@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy
+- 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In what HAI calls the first comprehensive policy brief on world models — AI th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]]
 <!-- graph:end -->

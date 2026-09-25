@@ -7,7 +7,8 @@ source: Quartz / Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-ai-convenience-catastrophe-amazon-rehires-oracle-cuts-2026-09-23
 url_canonical: https://www.businessinsider.com/todays-newsletter-ai-convenience-catastrophe-amazon-rehires-oracle-cuts-2026-09-23
 url_status: broken
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: 63a4d1bafeb5532f8a162a80f18104d44b34c578fb959786ae0eeb384aff09d5
 normalized_title_hash: ba30135b4bf027e5
 canonical_url_hash: 29a336e93670a06d

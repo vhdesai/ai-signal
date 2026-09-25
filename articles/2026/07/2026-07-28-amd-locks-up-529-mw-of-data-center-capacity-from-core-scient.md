@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
+- 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 embedding_id: 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AMD secured more than 529 megawatts of U.S. AI data-center capacity from former 
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
+**Related:** [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]] · [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]]
 <!-- graph:end -->

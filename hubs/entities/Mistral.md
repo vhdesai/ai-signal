@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 215
+member_count: 222
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 215 connected article(s).
+> Auto-generated entity hub. 222 connected article(s).
 
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
+- `2026-09-23` [[2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op|1. Agentic AI is becoming mainstream (e.g., Muse, GPT-6, Claude Opus 5.5)]]
+- `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-the-first-reported-malware-that-delega|Cisco Talos documents the first reported malware that delegates command-and-control to an LLM quorum]]
+- `2026-09-22` [[2026-09-22-cisco-talos-discloses-closedquorum-the-first-reported-autono|Cisco Talos discloses CLOSEDQUORUM, the first reported autonomous multi-model AI malware implant]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro|Cisco Talos Documents First Autonomous AI Command-and-Control Implant]]
 - `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro|Johns Hopkins: LLMs Return Weaker Writing for Woman-Coded Prompts]]
 - `2026-09-21` [[2026-09-21-johns-hopkins-llms-return-shorter-weaker-writing-for-woman-c|Johns Hopkins: LLMs Return Shorter, Weaker Writing for Woman-Coded Prompts — Adding a Male Name Doesn't Fix It]]
 - `2026-09-21` [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic|Academic Counterargument: Extinction Scenarios Require Physical Access AI Lacks]]

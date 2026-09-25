@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
+- 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 embedding_id: 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Alibaba used its Apsara event to unveil a next-generation Qwen model alongside c
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]]
+**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen]] · [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion]]
 <!-- graph:end -->

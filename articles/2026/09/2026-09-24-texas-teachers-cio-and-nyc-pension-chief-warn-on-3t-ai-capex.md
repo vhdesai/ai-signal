@@ -4,15 +4,15 @@ title: Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom
 date: '2026-09-24'
 source: PitchBook / Yahoo Finance
 url_original: https://pitchbook.com/news/articles/texas-teachers-nyc-pension-ai-capex-warning-2026
-url_canonical: https://pitchbook.com/news/articles/texas-teachers-nyc-pension-ai-capex-warning-2026
-url_status: broken
-digest_source: digests\raw\2026-09-24_070201_Final-Daily-AI-News-Digest.md
+url_canonical: https://www.top1000funds.com/investor-profile/cio-monte-tarbox-charts-new-course-for-nyc-pension/
+url_status: repaired
+digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
+  24, 2026.md
 content_hash: 0118718dc3362eba9eefebec82fe12482771bf441a4751d4255e9418e2d02651
 normalized_title_hash: fce373b11ed9034c
 canonical_url_hash: d6af0d38e29a2a23
 tags:
 - Hot
-- Data
 entities:
 - Oracle
 - Snowflake

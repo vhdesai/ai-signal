@@ -28,9 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion
+- 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
+- 2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
-- 2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus
 embedding_id: 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 event_name: ''
 ---
@@ -44,5 +45,5 @@ At the Apsara Conference in Hangzhou, Alibaba chairman Joe Tsai declared the com
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus]]
+**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]] · [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen]] · [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]]
 <!-- graph:end -->

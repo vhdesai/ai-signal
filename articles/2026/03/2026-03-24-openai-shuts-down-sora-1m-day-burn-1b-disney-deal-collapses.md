@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
 - 2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b
 - 2026-08-28-openai-terminates-cursor-s-model-access-following-spacex-acq
-- 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover
+- 2026-08-28-openai-to-wind-down-cursor-s-model-access-following-spacex-a
 embedding_id: 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI discontinued Sora after six months, citing ~$1M/day compute costs against
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b]] · [[2026-08-28-openai-terminates-cursor-s-model-access-following-spacex-acq]] · [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover]]
+**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b]] · [[2026-08-28-openai-terminates-cursor-s-model-access-following-spacex-acq]] · [[2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover]] · [[2026-08-28-openai-to-wind-down-cursor-s-model-access-following-spacex-a]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
+- 2026-09-22-wednesday-september-23-2026
 embedding_id: 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The last 24 hours were defined by the physical and financial plumbing of AI rath
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]]
+**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-22-wednesday-september-23-2026]]
 <!-- graph:end -->

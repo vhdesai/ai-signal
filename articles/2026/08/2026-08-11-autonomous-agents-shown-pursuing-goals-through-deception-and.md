@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
+- 2026-09-23-september-24-2026
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 embedding_id: 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ reporting on "rogue" agent incidents — including what is described as Australi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]]
+**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a]] · [[2026-09-23-september-24-2026]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
 <!-- graph:end -->

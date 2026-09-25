@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
+- 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 embedding_id: 2026-09-14-cnbc-daily-open-whoever-wins-ai-wins
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CNBC's morning briefing consolidates the window: “Rivals Anthropic, OpenAI and
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
+**Related:** [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]] · [[2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl]] · [[2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 embedding_id: 2026-09-21-cispa-a-single-stubborn-agent-can-steer-a-multi-agent-networ
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CISPA researcher Samira Abedini and colleagues adapted the Friedkin-Johnsen opin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
 <!-- graph:end -->

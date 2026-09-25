@@ -7,7 +7,8 @@ source: The Information
 url_original: https://www.theinformation.com/articles/meta-announces-new-retail-partnerships-for-agent-muse
 url_canonical: https://www.theinformation.com/articles/meta-announces-new-retail-partnerships-for-agent-muse
 url_status: broken
-digest_source: digests\raw\2026-09-24_070201_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
+  24, 2026.md
 content_hash: 94f13d32cd9ba10e3aae17883252f39364aec5d134d11b02dff142c5050d520d
 normalized_title_hash: 8c477c89307ffc70
 canonical_url_hash: 8b3b70ee1d0ea612
@@ -22,9 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
+- 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
+- 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
+- 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
+- 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 embedding_id: 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 event_name: ''
 ---
@@ -38,5 +40,5 @@ At Meta Connect, Meta announced Muse retail partnerships with Walmart, Best Buy,
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
+**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con]]
 <!-- graph:end -->

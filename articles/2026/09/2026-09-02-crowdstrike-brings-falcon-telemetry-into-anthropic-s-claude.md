@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-crowdstrike-brings-the-falcon-platform-to-the-anthropic-clau
+- 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
-- 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 embedding_id: 2026-09-02-crowdstrike-brings-falcon-telemetry-into-anthropic-s-claude
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CrowdStrike announced that its Falcon platform is coming to Anthropic's Claude M
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-crowdstrike-brings-the-falcon-platform-to-the-anthropic-clau]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]]
+**Related:** [[2026-09-02-crowdstrike-brings-the-falcon-platform-to-the-anthropic-clau]] · [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]]
 <!-- graph:end -->

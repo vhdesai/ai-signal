@@ -20,9 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai
+- 2026-09-23-september-24-2026
 embedding_id: 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
 event_name: ''
 ---
@@ -35,5 +37,5 @@ In an interview on TechCrunch's Equity podcast, Harvard historian Jill Lepore ar
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]]
+**Related:** [[2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]] · [[2026-09-23-september-24-2026]]
 <!-- graph:end -->

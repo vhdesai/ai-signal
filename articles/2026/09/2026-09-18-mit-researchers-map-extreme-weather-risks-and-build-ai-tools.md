@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
+- 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
+- 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 embedding_id: 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT published a four-year progress report on its Climate Grand Challenges projec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]]
 <!-- graph:end -->

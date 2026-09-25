@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab
 - 2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo
 - 2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab
+- 2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi
 - 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
 embedding_id: 2026-09-18-anthropic-is-quietly-operating-its-own-wet-biology-lab
 event_name: ''
@@ -39,5 +40,5 @@ TechCrunch reports Anthropic is running an in-house biology laboratory that cond
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo]] · [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab]] · [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]]
+**Related:** [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]] · [[2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo]] · [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab]] · [[2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi]] · [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]]
 <!-- graph:end -->

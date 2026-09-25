@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc
+- 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
+- 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
-- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
-- 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
 embedding_id: 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Meta AI released NeuralBench-EEG v1.0, the largest open-source framework for ben
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]]
+**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc]] · [[2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b]] · [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]]
 <!-- graph:end -->

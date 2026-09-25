@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
 - 2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab
 - 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
-- 2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab
+- 2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi
 embedding_id: 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic is standing up its own biology laboratory in the San Francisco area to
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[M&A Activity]]
-**Related:** [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]] · [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab]] · [[2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench]] · [[2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab]]
+**Related:** [[2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will]] · [[2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab]] · [[2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench]] · [[2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi]]
 <!-- graph:end -->

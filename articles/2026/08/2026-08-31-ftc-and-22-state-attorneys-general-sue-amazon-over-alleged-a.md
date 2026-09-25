@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer
 - 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
 - 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 embedding_id: 2026-08-31-ftc-and-22-state-attorneys-general-sue-amazon-over-alleged-a
@@ -34,5 +35,5 @@ The Federal Trade Commission and attorneys general from 22 states sued Amazon, a
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi]]
+**Related:** [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer]] · [[2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe]] · [[2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi]]
 <!-- graph:end -->

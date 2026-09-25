@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
+- 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
-- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 embedding_id: 2026-08-28-wsj-asks-whether-consumers-should-use-ai-for-mental-health
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Wall Street Journal examined whether consumers should use AI for mental-heal
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
 <!-- graph:end -->

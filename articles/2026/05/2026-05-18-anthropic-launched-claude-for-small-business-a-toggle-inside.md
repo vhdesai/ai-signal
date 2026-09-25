@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
-- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 embedding_id: 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic launched Claude for Small Business, a toggle inside the Claude Cowork 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen]]
 <!-- graph:end -->

@@ -6,13 +6,12 @@ source: The Information
 url_original: https://www.theinformation.com/articles/anthropic-says-its-ai-helped-discover-a-possible-new-gene-editing-tool
 url_canonical: https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says
 url_status: repaired
-digest_source: digests\raw\2026-09-24_070201_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
+  24, 2026.md
 content_hash: 655a5791f7d1d93ba867825323cf37e3277c3c592c636c04366665caf4453729
 normalized_title_hash: fb19cdf11b0b04e2
 canonical_url_hash: 9ae8f03b91f2e89d
-tags:
-- Breaking
-- Research
+tags: []
 entities:
 - Anthropic
 themes:
@@ -24,7 +23,6 @@ related_article_ids:
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
-- 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 embedding_id: 2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed
 event_name: ''
 ---
@@ -38,5 +36,5 @@ Anthropic said Claude helped discover a previously unknown molecular system that
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li]] · [[2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in]]
+**Related:** [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li]]
 <!-- graph:end -->

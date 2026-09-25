@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill
+- 2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t
 embedding_id: 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Y Combinator–backed startup closed a $9 million seed round led by Lightspe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill]]
+**Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t]]
 <!-- graph:end -->

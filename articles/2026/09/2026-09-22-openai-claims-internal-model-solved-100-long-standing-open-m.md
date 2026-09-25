@@ -7,7 +7,7 @@ source: The Decoder / OpenAI Blog]
 url_original: https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/
 url_canonical: https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/
 url_status: ok
-digest_source: digests\raw\2026-09-22_081018_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: c2b1cdee5e70afd8d41d4370b860925d691e9fbc125a8aebfc604dce5e76e1a7
 normalized_title_hash: 99f64024f1bb1512

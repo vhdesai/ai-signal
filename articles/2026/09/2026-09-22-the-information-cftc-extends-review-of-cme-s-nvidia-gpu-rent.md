@@ -7,13 +7,13 @@ source: The Information
 url_original: https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-at-the-cftc
 url_canonical: https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-at-the-cftc
 url_status: broken
-digest_source: digests\raw\2026-09-23_065718_Final-Daily-AI-News-Digest.md
+digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
+  23, 2026.md
 content_hash: 5a476a979aecbb42652d89c0c5609a211e8927f627e1e0896503398705ff9280
 normalized_title_hash: bfe383d1670ebcfe
 canonical_url_hash: 8e143d0869d94b98
 tags:
 - Hot
-- Policy
 entities:
 - NVIDIA
 themes:

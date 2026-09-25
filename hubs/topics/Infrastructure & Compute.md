@@ -1,28 +1,45 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1969
+member_count: 1988
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1969 connected article(s).
+> Auto-generated topic hub. 1988 connected article(s).
 
+- `2026-09-24` [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system|Reuters: financing the historic AI buildout is raising systemic risks]]
+- `2026-09-24` [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight|Micron ends 2GB GDDR7 production, narrowing an already tight memory market]]
+- `2026-09-24` [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis|MIT’s Senseable City Lab weighs the promise and peril of visual AI for studying cities]]
+- `2026-09-24` [[2026-09-24-fervo-reaches-first-power-at-cape-station-the-first-utility|Fervo reaches First Power at Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili|Fervo delivers first power from Cape Station, the first utility-scale enhanced geothermal plant on the grid]]
+- `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
+- `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]
+- `2026-09-23` [[2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent|Meta previews Muse Charm, a pocket wearable for its AI agent]]
+- `2026-09-23` [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a|Meta expands Muse with retail partnerships, Mac control, and agent connectors]]
+- `2026-09-23` [[2026-09-23-daily-ai-news-digest-september-24-2026|Daily AI News Digest – September 24, 2026]]
 - `2026-09-23` [[2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea|Anthropic in talks to lease up to 1GW at Apollo-backed Stream Data Centers, filled with Google/Broadcom TPUs]]
 - `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]
-- `2026-09-23` [[2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion|Alibaba Unveils Zhenwu V900 Accelerator and a 5–10-Trillion-Parameter Qwen Roadmap]]
+- `2026-09-23` [[2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and|Alibaba Cloud to open new data centres in Turkey, Finland and the Netherlands]]
+- `2026-09-22` [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c|tiny software layer from lab-grown neurons promises faster, cheaper AI video]]
 - `2026-09-22` [[2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud|Verda raises $189M Series B, becomes Europe's newest AI-cloud unicorn]]
 - `2026-09-22` [[2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent|The Information: CFTC extends review of CME's Nvidia-GPU rental futures — October launch off the table]]
 - `2026-09-22` [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus|OpenAI and Anthropic Chase 20–30 MW Sites as Gigawatt Campuses Slip]]
 - `2026-09-22` [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m|OpenAI Claims Internal Model Solved 100+ Long-Standing Open Math Problems in One Month]]
+- `2026-09-22` [[2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat|Nscale's IPO will test Wall Street's appetite for concentrated AI bets]]
 - `2026-09-22` [[2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres|Nscale Files for ~$35B NYSE IPO; Microsoft and Anthropic Represent 85% of the $103B Contract Book]]
 - `2026-09-22` [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source|NVIDIA Isaac ROS 5.0 adds agentic workflows for open-source robotics development]]
+- `2026-09-22` [[2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro|Cisco Talos Documents First Autonomous AI Command-and-Control Implant]]
 - `2026-09-22` [[2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit|Axios published a striking analytical piece arguing that with approximately $7 trillion in AI-related market capitalization at stake, safety commitments are structurally likely to lose to competitive pressure — a framing that reconciles the paradox of last week's coordinated slowdown call with this week's Alibaba chip launch, Grok 4.7 shipping, and OpenAI's math-prize claims. The piece lands the same day Anthropic and OpenAI jointly asked Australia to ease its ban on AI training with local content, illustrating exactly the tension Axios describes.]]
 - `2026-09-22` [[2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob|Anthropic Builds a Bay Area Wet Lab Where Claude Directs Robotic Experiments]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap|Alibaba unveils the Zhenwu V900 and a 20 GW compute roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target|Alibaba unveils Zhenwu V900 accelerator, 20GW capacity target and a 10-trillion-parameter Qwen roadmap]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-targets-20gw-of|Alibaba unveils Zhenwu V900 accelerator and targets 20GW of cloud capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo|Alibaba unveils Zhenwu V900 AI chip and targets 20 GW of cloud data centers by 2032]]
+- `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-and-targets-20gw-of-data-center|Alibaba Unveils Zhenwu V900 and Targets 20GW of Data Center Capacity by 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent|Alibaba Unveils Zhenwu V900 Accelerator and a 20GW Data Center Target for 2032]]
 - `2026-09-22` [[2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl|Alibaba Unveils Zhenwu V900 Accelerator and a 20-Gigawatt Cloud Target]]
+- `2026-09-22` [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand|AMD Crosses $1 Trillion Market Cap on AI Accelerator Demand]]
 - `2026-09-22` [[2026-09-22-ai-assisted-team-closes-the-last-open-case-of-the-inverse-ga|AI-Assisted Team Closes the Last Open Case of the Inverse Galois Problem]]
 - `2026-09-22` [[2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5|AI Data-Center IPOs Freeze: SoftBank's SB Energy Delayed at $50B Target, Holtec Pauses Indefinitely]]
 - `2026-09-21` [[2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug|UN AI panel invokes precautionary principle after OpenAI-Hugging Face incident]]
@@ -31,6 +48,7 @@ member_count: 1969
 - `2026-09-21` [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc|Nvidia highlights clean-energy AI use cases from grid interconnection to nuclear operations]]
 - `2026-09-21` [[2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso|Nscale’s contract book reaches $103B — roughly 85% of it Microsoft and Anthropic]]
 - `2026-09-21` [[2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi|NVIDIA's SoL-Pi: AI-Discovered Harness Optimizations Cut Coding-Agent Token Traffic Up to 49%]]
+- `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw|NVIDIA launches DSX Ready to qualify power and cooling hardware for AI factories]]
 - `2026-09-21` [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co|NVIDIA Launches DSX Ready to Qualify AI Factory Power and Cooling Hardware]]
 - `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]
 - `2026-09-21` [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for|Marvell rallies after unveiling 1.6T optical technology for AI networks]]
@@ -41,6 +59,7 @@ member_count: 1969
 - `2026-09-21` [[2026-09-21-daily-ai-news-digest-september-22-2026|Daily AI News Digest – September 22, 2026]]
 - `2026-09-21` [[2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai|Anthropic proposes metrics to track the pace of frontier AI development]]
 - `2026-09-21` [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge|Alibaba Qwen releases Qwen-Image-2.1, a 7B model for image generation and editing]]
+- `2026-09-21` [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema|AMD crosses $1 trillion as agentic workloads reprice CPU demand]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data|ABB launches Infinitus direct-current portfolio for AI data centers]]
 - `2026-09-21` [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf|ABB Launches Infinitus, a Source-to-Rack Direct-Current Portfolio for 1 MW-per-Rack AI Data Centers]]
 - `2026-09-20` [[2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi|Z.ai's ZCode Uploaded Full Git Histories to Alibaba Cloud With a Key Only Z.ai Holds]]

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
+- 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-- 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 embedding_id: 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a proposal calling for national AI safety institutes — such a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
+**Related:** [[2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-22-openai-calls-for-international-standards-on-recursive-self-i]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]]
 <!-- graph:end -->

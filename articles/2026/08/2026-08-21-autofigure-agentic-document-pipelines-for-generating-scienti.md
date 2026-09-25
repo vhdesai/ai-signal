@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
-- 2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable
 embedding_id: 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost published a technical walkthrough of AutoFigure, a toolkit that gen
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]] · [[2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable]]
+**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec]] · [[2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r]]
 <!-- graph:end -->

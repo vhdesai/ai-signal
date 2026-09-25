@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
 - 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 event_name: ''
 ---
@@ -36,5 +36,5 @@ JPMorgan, Morgan Stanley, and other major banks are reportedly looking for ways 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
 <!-- graph:end -->

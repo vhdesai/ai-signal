@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
+- 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
+- 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-- 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
 embedding_id: 2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published a proposal calling for the U.S. government to develop binding g
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa]]
+**Related:** [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow]] · [[2026-09-22-openai-calls-for-international-standards-on-recursive-self-i]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has]]
 <!-- graph:end -->

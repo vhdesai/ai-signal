@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 - 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
+- 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-- 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 embedding_id: 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The UN's first thematic AI science-panel report — co-chaired by Yoshua Bengio 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]]
+**Related:** [[2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen]] · [[2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling]] · [[2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu]] · [[2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu]] · [[2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei]]
 <!-- graph:end -->

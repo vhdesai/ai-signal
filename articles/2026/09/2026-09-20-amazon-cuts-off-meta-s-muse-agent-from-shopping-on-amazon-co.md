@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
+- 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-- 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c
-- 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 embedding_id: 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Twelve days after Muse launched, Amazon began serving users a popup reading “C
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]]
+**Related:** [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f]] · [[2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]]
 <!-- graph:end -->

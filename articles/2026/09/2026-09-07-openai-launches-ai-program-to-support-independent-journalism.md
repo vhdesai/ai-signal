@@ -20,8 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-08-02-openai-updates-article-on-news-organizations-using-ai
+- 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
+- 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
 embedding_id: 2026-09-07-openai-launches-ai-program-to-support-independent-journalism
 event_name: ''
 ---
@@ -35,5 +38,5 @@ OpenAI, together with the Association of Independent Regional Publishers of Ukra
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-openai-updates-article-on-news-organizations-using-ai]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]]
+**Related:** [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]] · [[2026-08-02-openai-updates-article-on-news-organizations-using-ai]] · [[2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]] · [[2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine]]
 <!-- graph:end -->

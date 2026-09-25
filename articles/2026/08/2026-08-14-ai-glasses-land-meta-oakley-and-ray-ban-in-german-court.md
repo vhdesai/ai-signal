@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
+- 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
-- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 embedding_id: 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta’s AI-equipped Ray-Ban smart glasses face legal action in Germany over pri
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin]] · [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin]] · [[2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac]]
 <!-- graph:end -->

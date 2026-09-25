@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
+- 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
-- 2026-08-12-daily-ai-news-digest-august-13-2026
 embedding_id: 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Geordie AI raised a $30M Series A to build observability and orchestration for t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]]
+**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]]
 <!-- graph:end -->

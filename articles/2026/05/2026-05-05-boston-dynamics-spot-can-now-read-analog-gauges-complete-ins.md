@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
+- 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 embedding_id: 2026-05-05-boston-dynamics-spot-can-now-read-analog-gauges-complete-ins
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Boston Dynamics added a vision-language capability stack to Spot that lets it re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

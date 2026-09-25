@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
-- 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
+- 2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices
 embedding_id: 2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At Goldman Sachs Communacopia, OpenAI CFO Sarah Friar described how a price cut 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi]] · [[2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices]]
+**Related:** [[2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain]] · [[2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi]] · [[2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices]]
 <!-- graph:end -->

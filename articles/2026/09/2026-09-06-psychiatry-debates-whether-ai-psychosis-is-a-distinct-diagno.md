@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-04-02-academic-research
-- 2026-08-06-openai-partners-with-the-american-psychological-association
+- 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 embedding_id: 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Researchers including teams at King’s College London are arguing over whether 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-04-02-academic-research]] · [[2026-08-06-openai-partners-with-the-american-psychological-association]]
+**Related:** [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-04-02-academic-research]] · [[2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment]]
 <!-- graph:end -->

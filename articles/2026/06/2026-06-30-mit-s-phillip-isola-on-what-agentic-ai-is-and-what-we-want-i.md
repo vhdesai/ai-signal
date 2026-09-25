@@ -43,9 +43,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
+- 2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
-- 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 embedding_id: 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 event_name: ''
 ---
@@ -59,5 +59,5 @@ MIT News interviewed Phillip Isola, an EECS associate professor and CSAIL member
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]]
 <!-- graph:end -->

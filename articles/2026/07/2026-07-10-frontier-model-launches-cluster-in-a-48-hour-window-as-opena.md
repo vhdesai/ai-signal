@@ -32,9 +32,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours
+- 2026-09-22-wednesday-september-23-2026
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 - 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
-- 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
 embedding_id: 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 event_name: ''
 ---
@@ -48,5 +48,5 @@ The past 24–48 hours produced the densest frontier-model release window of the
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day]]
+**Related:** [[2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]]
 <!-- graph:end -->

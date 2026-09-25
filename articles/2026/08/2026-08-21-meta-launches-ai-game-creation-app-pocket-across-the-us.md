@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
-- 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
+- 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
 embedding_id: 2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Meta rolled out its experimental AI-powered gaming app Pocket to all US users, l
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]] · [[2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi]]
+**Related:** [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]] · [[2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent]]
 <!-- graph:end -->

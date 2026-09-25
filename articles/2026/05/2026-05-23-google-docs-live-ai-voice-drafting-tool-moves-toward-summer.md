@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
+- 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
-- 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
-- 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
+- 2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr
 embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A hands-on preview of Google Docs Live revealed a voice-first drafting experienc
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]] · [[2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]]
+**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a]] · [[2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api]] · [[2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec]] · [[2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr]]
 <!-- graph:end -->

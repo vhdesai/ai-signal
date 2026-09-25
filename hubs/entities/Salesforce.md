@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 86
+member_count: 87
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 86 connected article(s).
+> Auto-generated entity hub. 87 connected article(s).
 
+- `2026-09-23` [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen|Anthropic launches Claude Marketplace, turning committed spend into a procurement channel]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]
 - `2026-09-21` [[2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep|OpenAI Expected to Introduce Managed Agents at DevDay on September 29]]
 - `2026-09-21` [[2026-09-21-accenture-up-6-on-anthropic-ai-safety-evaluation-partnership|Accenture Up 6% on Anthropic AI Safety Evaluation Partnership]]

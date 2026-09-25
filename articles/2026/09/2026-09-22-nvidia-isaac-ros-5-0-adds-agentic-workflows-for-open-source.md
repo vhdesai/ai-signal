@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
+- 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 embedding_id: 2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released Isaac ROS 5.0 at ROSCon, adding agentic workflows, ROS Lyrical a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]]
+**Related:** [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti]] · [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

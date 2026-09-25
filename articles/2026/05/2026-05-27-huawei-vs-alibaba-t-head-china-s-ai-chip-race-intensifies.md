@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion
+- 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 embedding_id: 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reported Alibaba's T-Head chip unit unveiled the Zhenwu M890 and a multi
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]]
+**Related:** [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-targets-20-gw-of-clo]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion]] · [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen]] · [[2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
 <!-- graph:end -->

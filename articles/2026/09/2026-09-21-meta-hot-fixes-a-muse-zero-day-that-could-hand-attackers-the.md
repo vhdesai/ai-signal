@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 - 2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us
-- 2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c
+- 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
 embedding_id: 2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researcher Patrick Wardle disclosed that Muse, Meta's month-old macOS personal a
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c]]
+**Related:** [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss]]
 <!-- graph:end -->

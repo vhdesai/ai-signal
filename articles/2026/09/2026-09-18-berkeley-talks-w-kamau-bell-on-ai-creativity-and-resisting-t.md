@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
 - 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-04-15-research-breakthroughs
 embedding_id: 2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley News published the recording and write-up of the keynote from the AI, J
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-15-research-breakthroughs]]
+**Related:** [[2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will]] · [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

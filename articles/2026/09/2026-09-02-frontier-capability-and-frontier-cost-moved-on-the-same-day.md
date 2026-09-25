@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-09-frontier-capability-meets-its-first-hard-stop
+- 2026-09-22-wednesday-september-23-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
-- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 embedding_id: 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The last 24 hours delivered a rare convergence of frontier-model releases and ha
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-09-frontier-capability-meets-its-first-hard-stop]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
+**Related:** [[2026-08-09-frontier-capability-meets-its-first-hard-stop]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt]] · [[2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p]]
 <!-- graph:end -->
