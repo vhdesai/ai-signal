@@ -4,8 +4,8 @@ title: Trending Moonshot Releases Kimi K2.6 With 300-Agent Swarm Scaling
 date: '2026-04-20'
 source: Hugging Face / Red Ferret Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://rits.shanghai.nyu.edu/ai/moonshot-ai-releases-kimi-k2-6-with-256k-context-and-300-agent-swarms/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 433c9a7547399944e713cc8ebc73f526061157cc1aaa0b55954745ae95e97701

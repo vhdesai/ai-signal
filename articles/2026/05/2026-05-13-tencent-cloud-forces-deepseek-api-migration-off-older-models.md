@@ -4,8 +4,8 @@ title: Tencent Cloud Forces DeepSeek API Migration Off Older Models by May 22
 date: '2026-05-13'
 source: Peerlist
 url_original: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
-url_canonical: https://www.aibase.com/news/27961
-url_status: repaired
+url_canonical: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 98c7bf02410db93c22473fab4777ee7d214fe92a29f6e336745456750546aee4

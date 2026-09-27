@@ -5,8 +5,8 @@ title: Cursor 3.0 has fundamentally changed developer interaction with code by i
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://forum.cursor.com/t/cursor-3-agents-window/156509
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9ac8b8de7ace136b65dec650d360a7c65f03520dced18246aad0913a3fd50f17

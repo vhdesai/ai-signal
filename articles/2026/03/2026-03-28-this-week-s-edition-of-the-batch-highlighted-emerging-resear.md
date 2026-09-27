@@ -5,8 +5,8 @@ title: This week's edition of The Batch highlighted emerging research on recursi
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2512.24601
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 153dba59d48fd2a376aefd6cee3e64da2bf39eb53ea2632f11521a05a6a4feb3

@@ -5,8 +5,8 @@ title: AI-Generated Actors and Scripts Now Ineligible for Oscar Nominations BREA
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/
+url_status: repaired
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 63cbdcdec5f91e310bf11c47d71c5b6afb449941d599b9cc4b221719a8d47a40
 normalized_title_hash: ea41abfd4f730d67

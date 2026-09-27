@@ -4,8 +4,8 @@ title: Anthropic Flexes Pricing Power as Customers Willingly Eat the Cost
 date: '2026-05-13'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aistartupsnews.com/news/anthropic-flexes-pricing-power-as-its-customers-willingly-eat-the-cost/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: df9a2a0ca59798d73ba7b0567604bdae37b3023b8b611e6bc8879affd15aaa5b

@@ -4,8 +4,8 @@ title: ICRA 2026 — Overview
 date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_canonical: https://ieeetv.ieee.org/event/icra-2026
+url_status: repaired
 digest_source: digests\raw\icra-2026.md
 content_hash: b49e3e9973ea09e22775f04ada59f7115f56ff20219decf7d537e0f49d07a6e2
 normalized_title_hash: 960e1a4b0777ff75

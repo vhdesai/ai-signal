@@ -4,8 +4,8 @@ title: Anthropic's Seed 100 cohort and Mythos cybersecurity rollout
 date: '2026-05-18'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/anthropic-mythos-cybersecurity-concerns-what-smart-people-are-saying-ai-2026-4
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 610273b6b76d874c026f3951bc553992a92c1bc94d57fdfc7ac4e71a38d9ac31

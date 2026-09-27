@@ -4,8 +4,8 @@ title: Stanford HAI 2026 AI Index — continuing analysis
 date: '2026-05-27'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 83fb476fc0fabbcc330c3004ba19f01434f6e1bfc3f3ea7c8c58cc0fe902bd7c

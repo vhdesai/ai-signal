@@ -5,8 +5,8 @@ title: OpenAI's B2B Signals Report found that companies operating at the AI fron
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://debriefing.io/intel/openai-b2b-signals-frontier-firms-ai-advantage
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 90e63bc5ead311e255c6168ef552dffff4260248a87ffdb5689d1172630a47e2

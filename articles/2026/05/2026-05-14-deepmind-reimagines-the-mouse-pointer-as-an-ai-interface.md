@@ -4,8 +4,8 @@ title: DeepMind Reimagines the Mouse Pointer as an AI Interface
 date: '2026-05-14'
 source: Google DeepMind Blog / TechBooky
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/ai-pointer/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 2b8ff53df023c6cb1b2011abff2e88febeafbd84d79ed9c78bb3fcca3547cab6

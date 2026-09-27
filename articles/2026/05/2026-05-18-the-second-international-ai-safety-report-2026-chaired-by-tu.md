@@ -5,8 +5,8 @@ title: The second International AI Safety Report 2026, chaired by Turing Award w
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fa08b3207bfb1b576cae31e2eb15840538b20eb1577fd54accdc94a988077ad

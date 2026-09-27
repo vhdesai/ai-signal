@@ -4,8 +4,8 @@ title: Andrej Karpathy Joins Anthropic's Claude Pretraining Team
 date: '2026-05-19'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/andrej-karpathy-joins-anthropic/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: ab598a406c652401f23f58038b6b06413355996ced5afee211ad324b8e0640c1

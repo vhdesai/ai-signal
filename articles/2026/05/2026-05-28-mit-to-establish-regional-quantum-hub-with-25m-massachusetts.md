@@ -4,8 +4,8 @@ title: MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment
 date: '2026-05-28'
 source: 'Source: MIT News'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://quantumzeitgeist.com/25m-state-investment-quantum-mits-regional/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 79c9bc97babaf0164a9845caafcdf83f8c8518d2e524f8602b11d74d000420bf

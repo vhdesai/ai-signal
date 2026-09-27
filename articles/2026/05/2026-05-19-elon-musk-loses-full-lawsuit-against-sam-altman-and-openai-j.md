@@ -4,8 +4,8 @@ title: Elon Musk Loses Full Lawsuit Against Sam Altman and OpenAI — Jury Unani
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: e0a8931d2d39fdbbb5820794046a60ebeab52f634078d0f21c8afe562dae28fd
