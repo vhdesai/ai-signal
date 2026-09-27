@@ -4,8 +4,8 @@ title: 'VentureBeat: AI Agents Are Creating an Untracked Class of Production Fai
 date: '2026-05-24'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.progressiverobot.com/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 850aaf8922f437e482016149ad9778026838309cb370abaeb38fcfbf2fac5cb0

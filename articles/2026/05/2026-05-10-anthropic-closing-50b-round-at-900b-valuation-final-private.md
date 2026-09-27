@@ -5,8 +5,8 @@ title: Anthropic Closing ~$50B Round at $900B+ Valuation — Final Private Round
 date: '2026-05-10'
 source: Forbes / TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bitsminds.com/news/anthropic-50b-raise-900b-valuation-pre-ipo-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 03d464f983080128b14e63441a6e949076c26ff61f28afae13be1d2d9a5873c2

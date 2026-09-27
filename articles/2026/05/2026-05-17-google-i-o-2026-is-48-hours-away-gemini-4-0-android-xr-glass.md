@@ -5,8 +5,8 @@ title: Google I/O 2026 Is 48 Hours Away — Gemini 4.0, Android XR Glasses, and 
 date: '2026-05-17'
 source: Google / Mashable / Android Headlines
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: afcaee907c8d4b4757ef1263da217e5bf6e114faa9fede9555fd2ff68d11360c

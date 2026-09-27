@@ -4,8 +4,8 @@ title: 'Simon Willison: DeepSeek V4 is “almost on the frontier”'
 date: '2026-05-02'
 source: Simon Willison / Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://simonwillison.net/2026/Apr/24/deepseek-v4/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: 5d12f4c2b4857bcbacf896bb56ea139877cd92a54813df5ab60f13a3ad8ca812

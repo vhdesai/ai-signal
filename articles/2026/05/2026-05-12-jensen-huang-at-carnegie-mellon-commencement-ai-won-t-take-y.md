@@ -5,8 +5,8 @@ title: 'Jensen Huang at Carnegie Mellon commencement: AI won''t take your job â€
 date: '2026-05-12'
 source: Entrepreneur
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.entrepreneur.com/business-news/nvidia-ceo-jensen-huang-ai-jobs-message-for-graduates-commencement-speech
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest â€“ May 13,
   2026.md
 content_hash: 4265f7db3dfddbf01f719775dc519db11ee33d2276d46ea6fd32d7a922a83f9c

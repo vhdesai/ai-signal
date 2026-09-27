@@ -5,8 +5,8 @@ title: Anthropic's Mythos model is in a tightly restricted preview with approxim
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digitalstrategy-ai.com/2026/04/28/anthropic-claude-mythos/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: cd1f6e1bc0d5082336bbdd87fbeeb9a448d696440e8493533cdfe8166660310d

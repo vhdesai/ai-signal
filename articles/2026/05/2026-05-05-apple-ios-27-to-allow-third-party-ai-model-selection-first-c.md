@@ -5,8 +5,8 @@ title: Apple iOS 27 to Allow Third-Party AI Model Selection — First Crack in i
 date: '2026-05-05'
 source: 9to5Mac / FutureAGI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.simplenews.ai/news/apple-opens-ios-27-to-third-party-ai-models-breaking-openai-exclusivity-or09
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 3ccacdbd6b0fe9530f72d1419ef29a735aac94eb7f9c2ec4bd12d1c1155fd836

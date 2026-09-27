@@ -4,8 +4,8 @@ title: New Modal Labs raises $355M Series C at $4.65B valuation
 date: '2026-05-26'
 source: DatacenterDynamics
 url_original: https://www.datacenterdynamics.com/en/news/modal-labs-secures-funding/
-url_canonical: https://www.datacenterdynamics.com/en/news/modal-labs-secures-funding/
-url_status: broken
+url_canonical: https://techstartups.com/2026/05/21/modal-labs-raises-355m-quadrupling-valuation-to-4-65b-as-ai-infrastructure-demand-surges/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3028d83181a8a699a3d5f0b1672dbe40701131d74b76ded6255aa982154286fd

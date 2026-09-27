@@ -4,8 +4,8 @@ title: 'Palantir Q1 2026: revenue +85% YoY, U.S. commercial +133%'
 date: '2026-05-04'
 source: Business Wire
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://investors.palantir.com/news-details/2026/Palantir-Reports-Q1-2026-U-S--Revenue-Growth-of-104-YY-and-Revenue-Growth-of-85-YY-Raises-FY-2026-Revenue-Guidance-to-71-YY-Growth-and-U-S--Comm-Revenue-Guidance-to-120-YY-Crushing-Consensus-Expectations/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: c4d613f4c61773160cde2991923327647e84f4d3acf96bfe6ecebf715e437630
 normalized_title_hash: 3fdc6acb41f16063

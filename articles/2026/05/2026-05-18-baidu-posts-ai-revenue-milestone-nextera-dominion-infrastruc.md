@@ -4,8 +4,8 @@ title: Baidu posts AI revenue milestone; NextEra–Dominion infrastructure tie-u
 date: '2026-05-18'
 source: CIO Dive
 url_original: null
-url_canonical: https://finance.yahoo.com/energy/articles/nextera-67-billion-megamerger-proves-173145711.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 4d46499d1e861caca270f808162cda8208e425f8261d5c3ccb3929d34fd573eb

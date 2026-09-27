@@ -5,8 +5,8 @@ title: A Hangzhou, China court ruled this week that employers cannot legally ter
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/05/03/chinese-court-layoffs-workers-ai-replacement-labor-market/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: b609e72a2d1cfb3a9cd335521c6aa3284b390f42b31acb66979f0d8dd8ef4ed9
 normalized_title_hash: 2177e3704e9e3064

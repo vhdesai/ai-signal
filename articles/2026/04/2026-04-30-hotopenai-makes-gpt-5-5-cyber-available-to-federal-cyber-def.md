@@ -4,8 +4,8 @@ title: HOTOpenAI Makes GPT-5.5-Cyber Available to Federal Cyber Defenders
 date: '2026-04-30'
 source: Nextgov
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nextgov.com/artificial-intelligence/2026/04/openai-makes-frontier-model-available-critical-cyber-defenders/413234/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: eb9f4df8189fbcecd0978953655b35e1dc22c95ddcf5e913f01e39e816a9b4fc
 normalized_title_hash: b1efeff3455663b1

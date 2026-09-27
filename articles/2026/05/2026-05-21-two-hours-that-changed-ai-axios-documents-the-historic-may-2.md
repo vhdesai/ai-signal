@@ -4,8 +4,8 @@ title: '"Two Hours That Changed AI" — Axios Documents the Historic May 21 News
 date: '2026-05-21'
 source: 'Source: Axios'
 url_original: https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex
-url_canonical: https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex
-url_status: broken
+url_canonical: https://applyingai.com/2026/05/two-hours-that-changed-ai-axios/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 3e0eb57b1bb139c327cbdcb26c15ea5a41c6422ae9326e349aacc9c8e27589d2

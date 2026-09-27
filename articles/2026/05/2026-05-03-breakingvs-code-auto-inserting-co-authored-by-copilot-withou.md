@@ -4,8 +4,8 @@ title: BREAKINGVS Code Auto-Inserting "Co-Authored-by Copilot" Without Consent
 date: '2026-05-03'
 source: GitHub / Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/co-pilot-becomes-a-co-author-in-vs-code-without-being-asked/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: c71f6f9517212953e6eec7bbc55d8b9adffe870ffb3e40c10508e7f11d3f7277
 normalized_title_hash: 4409c162d4e9a692

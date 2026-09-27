@@ -5,8 +5,8 @@ title: Xreal, Google's Smartglasses Partner, Says It Has Finally Cracked the For
 date: '2026-05-25'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 781424c342e97e7a81a7089d855361a97e5df433ff344cc29025cc50f8b1e7a3

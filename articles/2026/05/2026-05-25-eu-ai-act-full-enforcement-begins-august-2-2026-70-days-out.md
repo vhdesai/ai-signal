@@ -4,8 +4,8 @@ title: EU AI Act Full Enforcement Begins August 2, 2026 — 70 Days Out
 date: '2026-05-25'
 source: European Commission / Hung-Yi Chen analysis
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.regulation-ai.eu/en/blog/eu-ai-act-enforcement-august-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: c0ba81de4f9aa7182cf3a8dcb5a562c8fea8ce6a26253239b2d791255759a7c2

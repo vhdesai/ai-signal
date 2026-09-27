@@ -4,8 +4,8 @@ title: AMD & Intel Lead 2026 Shift from Training to Inference; CPU Market Boomin
 date: '2026-05-15'
 source: MSN / Invezz
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/savingandinvesting/amd-and-intel-lead-2026-gains-as-ai-guard-changes/ar-AA22VOnx
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3465577b293a513a5efa39b29986edc6036ce9f86b3f7534e10da6d2c1fab611

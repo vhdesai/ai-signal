@@ -5,8 +5,8 @@ title: Per the Stanford AI Index, agentic AI benchmarks saw the most extreme cap
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: ec5c7dc2df940a8fffe2eeac5e92243ba737d144433bd3af826ea91e4ab6c8c3
 normalized_title_hash: fddc6d6fa32c7846

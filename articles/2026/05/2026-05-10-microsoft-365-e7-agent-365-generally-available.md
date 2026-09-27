@@ -4,8 +4,8 @@ title: Microsoft 365 E7 & Agent 365 — Generally Available
 date: '2026-05-10'
 source: CRN / Microsoft Learn
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://learn.microsoft.com/en-us/microsoft-agent-365/overview
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 261fe6d6215e2dfac90c01249e943c0c814a13d934d8fec8d4cce848bf06afe4

@@ -5,8 +5,8 @@ title: Mini Shai-Hulud worm compromises Mistral AI PyPI, TanStack npm, and multi
 date: '2026-05-12'
 source: The Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 0cf85df2c2fb0097c9362b98507c7492b9657b2d4f581c452dae42bb4ff109f6

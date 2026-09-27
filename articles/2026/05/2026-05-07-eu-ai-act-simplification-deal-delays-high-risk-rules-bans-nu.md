@@ -4,8 +4,8 @@ title: EU AI Act Simplification Deal Delays High-Risk Rules, Bans Nudification A
 date: '2026-05-07'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/eu-ai-act-simplification-deal/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 184dba9d26b63892b671a290f51cc1bd6fa4a26b45bfff63b80ee055aa3136ec

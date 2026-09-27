@@ -5,8 +5,8 @@ title: Spain's Economy Minister Carlos Cuerpo confirmed at a meeting of EU finan
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://sg.finance.yahoo.com/news/spain-says-eu-talks-anthropic-013522200.html
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 01795fbef4b003a2fbc0dfab70831c7a9f24ce0ee1b9eb4f42f471044c499178

@@ -4,8 +4,8 @@ title: Anthropic acquires Stainless and expands the Claude platform
 date: '2026-05-18'
 source: TechCrunch · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/anthropic-acquires-stainless
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 9be14403537015c880df8f03c99dab973f399d9799318980722e8a768ffcf3a7

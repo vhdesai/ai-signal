@@ -5,8 +5,8 @@ title: Pentagon Signs Classified AI Contracts with 7 Firms; Anthropic Excluded O
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aieatingtheworld.com/articles/pentagon-classified-ai-deals-nvidia-microsoft-aws-anthropic-excluded
+url_status: repaired
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: 27c5460649c51146a189ccd00f7b7268997af1cda49e9d7d271fbb09e461a46f
 normalized_title_hash: 2b32782a8e14254b

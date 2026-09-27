@@ -5,8 +5,8 @@ title: The European Union said Meta's AI policies for WhatsApp allegedly block r
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.politico.eu/article/eu-to-halt-whatsapp-business-chatbot-policy/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 45bfc7a7a115d6a724539743a441b0a4acc990c344cafc6c9cdb250fb89de87e

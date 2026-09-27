@@ -4,8 +4,8 @@ title: BAIR and MIT CSAIL publish joint work on verifiable reasoning chains
 date: '2026-04-23'
 source: Berkeley AI Research / MIT News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.22074
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 114318f4ef70135c3ec515c9f976b9e13e190cd590b5c42099e96ba7b066a586

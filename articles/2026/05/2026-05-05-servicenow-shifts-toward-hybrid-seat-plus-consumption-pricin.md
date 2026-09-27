@@ -5,8 +5,8 @@ title: ServiceNow shifts toward hybrid seat-plus-consumption pricing as AI econo
 date: '2026-05-05'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/325759/20260827/servicenow-ai-revenue-crosses-1b-non-seat-deals-hit-50-new-business.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 47b9c24f98df0d7ff6ff1395b5b11d7163ca6213e11e98f4c78d19080b562353

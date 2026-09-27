@@ -5,8 +5,8 @@ title: NVIDIA AI released Nemotron-Labs-Diffusion, a tri-mode language model ach
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://research.nvidia.com/publication/2026-05_nemotron-labs-diffusion-tri-mode-language-model-unifying-autoregressive
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 0d1a9874cb20d1fd96ee587afbed5c8945be586e6ecbd1c210d0afe1435a33f3

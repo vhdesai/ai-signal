@@ -4,8 +4,8 @@ title: 'AI and Strategic Stability: A Framework for US-China Technology Competit
 date: '2026-05-27'
 source: Eyck Freymann (Stanford HAI seminar) · Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/events/eyck-freymann-ai-and-strategic-stability
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 4476794c006248c0bbffb0ef839e9bda4ed1258dc3456e838322900fdb508782

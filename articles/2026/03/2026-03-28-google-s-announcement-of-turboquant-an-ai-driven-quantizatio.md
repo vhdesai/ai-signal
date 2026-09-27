@@ -5,8 +5,8 @@ title: Google's announcement of TurboQuant — an AI-driven quantization techniq
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+url_status: repaired
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: c3ef16e2e6eba6012a42015c819732a8a049a1e0441c1b212f9ea028a3a7d28b

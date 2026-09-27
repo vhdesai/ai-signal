@@ -4,8 +4,8 @@ title: TRENDINGOpenAI Postmortem on GPT-5.1's "Goblin" Affinity
 date: '2026-04-30'
 source: OpenAI / Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://clauday.com/article/99151d53-cb32-4975-a422-0c6960d29c7a
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: e4ec5da573e49ea50ee01ad59c8d80b76d41dd53dc92ce3089670892a4043dfe
 normalized_title_hash: d15b5d20d1fdd861

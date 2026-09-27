@@ -5,8 +5,8 @@ title: New Hugging Face Opens Reachy Mini App Store with 200+ Open-Source Roboti
 date: '2026-05-06'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://huggingface.co/blog/clem/reachymini-appstore
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6dd197fc9aa122c90efe89794c976d6ae042dd5d1de3eb4ae9b1f1031dc96464

@@ -4,8 +4,8 @@ title: Mistral Medium 3.5 Released as Open Source with 256K Context Window New
 date: '2026-04-29'
 source: AI Flash Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiflashreport.com/models/mistral-medium-3-5/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 1a740e72047150d87c3a530c1e5a5b995541a1abbf668cb8ae801e23da00ba78

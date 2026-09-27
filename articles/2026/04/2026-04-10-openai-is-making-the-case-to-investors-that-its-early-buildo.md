@@ -5,8 +5,8 @@ title: OpenAI is making the case to investors that its early buildout of AI infr
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-122b-capital-raise-signals-130644500.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 0978bc2c893bc2edbdab4b6363316d05aab3e4138e34a86e4a9eb178b3cd5e28

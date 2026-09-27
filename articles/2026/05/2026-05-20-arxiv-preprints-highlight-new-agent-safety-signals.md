@@ -4,8 +4,8 @@ title: arXiv Preprints Highlight New Agent-Safety Signals
 date: '2026-05-20'
 source: arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2412.14470
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 8b126dce1a7f6df4b8a43542590ecb08a17117b8e216367923f776d020ecb78c

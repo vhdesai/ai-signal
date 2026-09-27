@@ -5,8 +5,8 @@ title: Analysis circulating widely on May 15 (109 Hacker News points, 113 commen
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nbcnews.com/tech/security/hacker-used-ai-automate-unprecedented-cybercrime-spree-anthropic-says-rcna227309
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4ec65c81b20aa58b3a285b3a0deb26d7462ba01db6e6fa1dc7e72d21e08da164

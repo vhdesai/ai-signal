@@ -4,8 +4,8 @@ title: ClickHouse Crosses $250M ARR, Launches Agentic Analytics at Open House 20
 date: '2026-05-27'
 source: HPCwire
 url_original: https://www.hpcwire.com/aiwire/
-url_canonical: https://www.hpcwire.com/aiwire/
-url_status: broken
+url_canonical: https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: b5d63c84152c75d49c2c9affe816c58cda14cd8884926bbade9b1f11f7f616eb
