@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 121
+member_count: 122
 ---
 
 # AMD
 
-> Auto-generated entity hub. 121 connected article(s).
+> Auto-generated entity hub. 122 connected article(s).
 
+- `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
 - `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-22` [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand|AMD Crosses $1 Trillion Market Cap on AI Accelerator Demand]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]

@@ -4,8 +4,8 @@ title: Anthropic Claude Code Source Leaked Again — Exposes "Capybara" Model Fa
 date: '2026-03-31'
 source: TechStartups
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techstartups.com/2026/03/31/anthropics-claude-source-code-leak-goes-viral-again-after-full-source-hits-npm-registry-revealing-hidden-capybara-models-and-ai-pet/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 5d4a8370876b291847a789cd441b3742001d180503a1a2fa80c549962cc852ec

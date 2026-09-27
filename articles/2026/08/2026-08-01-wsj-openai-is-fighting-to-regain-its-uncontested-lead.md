@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
+- 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 - 2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock
-- 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 embedding_id: 2026-08-01-wsj-openai-is-fighting-to-regain-its-uncontested-lead
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Wall Street Journal argues that OpenAI no longer has the uncontested lead it
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock]] · [[2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc]]
+**Related:** [[2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back]] · [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock]]
 <!-- graph:end -->

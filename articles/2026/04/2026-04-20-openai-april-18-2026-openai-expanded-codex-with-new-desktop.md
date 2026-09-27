@@ -5,8 +5,8 @@ title: 'OpenAI • April 18, 2026 OpenAI expanded Codex with new desktop-agent c
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://smartscope.blog/en/generative-ai/chatgpt/codex-desktop-major-update-april-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 9a61ce335197ae3f582ef3627129369cd0e1e0ea8207a543d8d54225581eceb1

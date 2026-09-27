@@ -23,7 +23,6 @@ canonical_article_id: 2026-09-24-google-s-first-orbital-tpu-test-project-suncatc
 related_article_ids:
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
 - 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
-- 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
 embedding_id: 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Google's Suncatcher program will launch a fridge-sized experimental TPU satellit
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]]
-**Related:** [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]] · [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]]
+**Related:** [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]]
 <!-- graph:end -->

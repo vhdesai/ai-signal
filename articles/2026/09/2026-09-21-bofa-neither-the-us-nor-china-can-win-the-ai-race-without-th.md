@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
+- 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-- 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 embedding_id: 2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bank of America's Matty Zhao published a pre-summit note arguing neither Beijing
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]] · [[2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s]]
+**Related:** [[2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai]] · [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit]]
 <!-- graph:end -->

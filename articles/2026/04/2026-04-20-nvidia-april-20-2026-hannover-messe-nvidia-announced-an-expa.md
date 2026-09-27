@@ -5,8 +5,8 @@ title: NVIDIA • April 20, 2026 (Hannover Messe) NVIDIA announced an expanded p
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nvidia.com/en-us/events/hannover-messe/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: c577e55a136bc73cd439acd51f23747641bbc5300a148f0080e373d8f2dd0be1

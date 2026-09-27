@@ -1,19 +1,24 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1223
+member_count: 1228
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1223 connected article(s).
+> Auto-generated topic hub. 1228 connected article(s).
 
+- `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac|DealBook: AI Efficiency Meets the Billable Hour — Law Firms Face 20–30% Client Discount Requests]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
 - `2026-09-25` [[2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi|PitchBook: software borrowers under stress lead private-credit watchlist; PSG raises $5.1B Europe fund as tech PE rebounds]]
 - `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-cognition-crosses-a-1b-annualized-revenue-run-rate-for-devin|Cognition Crosses a $1B Annualized Revenue Run Rate for Devin]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]

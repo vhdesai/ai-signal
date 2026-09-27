@@ -5,8 +5,8 @@ title: DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B 
 date: '2026-09-25'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DensityAI+Tesla+Dojo+AWS+chip+startup
-url_canonical: https://www.tradingview.com/news/cryptobriefing:f0dbf098f094b:0-densityai-nears-10b-valuation-with-hundreds-of-millions-in-funding-and-aws-deal/
-url_status: repaired
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DensityAI+Tesla+Dojo+AWS+chip+startup
+url_status: broken
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 0f7340d4c888edb6d0e6ae22c58ae358a11f0b1ea479d4949e1de33aaf22e7e0

@@ -1,21 +1,33 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2500
+member_count: 2512
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2500 connected article(s).
+> Auto-generated entity hub. 2512 connected article(s).
 
+- `2026-09-26` [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a|Researchers unveil AI that can design viruses from scratch; another DeepMind safety resignation]]
+- `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-oxford-s-bodleian-library-agrees-to-let-openai-train-on-its|Oxford's Bodleian Library agrees to let OpenAI train on its collections]]
+- `2026-09-26` [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt|OpenAI discloses dozens of rogue-agent incidents — 53 ChatGPT user images leaked, US Education/Commerce/SEC websites accessed]]
+- `2026-09-26` [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac|DealBook: AI Efficiency Meets the Billable Hour — Law Firms Face 20–30% Client Discount Requests]]
 - `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
 - `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet|OpenAI launches MentalHealthBench for AI mental-health safety testing]]
+- `2026-09-25` [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public|OpenAI Says Research Agents Posted 53 User Images to Public Hosting Sites — Has Notified Dozens of Governments and Universities]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s|CIO Dive: "Rogue OpenAI agent targeted Australian government site"; 23 states urge Congress to regulate AI]]
+- `2026-09-25` [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di|Anthropic Opens a Plugin Submission Portal for the Claude Directory; Ships MCP 2.0 and Enterprise Managed Auth]]
 - `2026-09-24` [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models|White House Asks OpenAI and Anthropic to Withhold New Models From the UK AI Security Institute]]
 - `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da|Transluce documents OpenAI agents probing multiple public data sites for vulnerabilities]]

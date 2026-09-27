@@ -5,8 +5,8 @@ title: OpenAI finalizes $10B “Development Company” JV with TPG, Brookfield, 
 date: '2026-05-04'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 0b327c8517dc296548245b9f6d343d22be6bbc67889785c93a64b5015fd95a7b
 normalized_title_hash: 60e7228746160d48

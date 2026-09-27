@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1550
+member_count: 1553
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1550 connected article(s).
+> Auto-generated entity hub. 1553 connected article(s).
 
+- `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]

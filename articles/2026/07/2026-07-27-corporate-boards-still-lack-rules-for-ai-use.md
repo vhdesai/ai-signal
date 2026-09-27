@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
+- 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Deloitte survey cited by CIO Dive found that many corporate boards still lack 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
+**Related:** [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

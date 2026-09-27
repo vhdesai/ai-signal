@@ -4,8 +4,8 @@ title: Tencent previews Hunyuan 3 with native video and 3D generation
 date: '2026-04-23'
 source: Tencent / VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/articles/tencent-heats-ai-video-generation-093000799.html
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 9cfe7e841cfcd98108cadfcf8cd76f4eae689e19c8f06d57097a7ca98ba15664

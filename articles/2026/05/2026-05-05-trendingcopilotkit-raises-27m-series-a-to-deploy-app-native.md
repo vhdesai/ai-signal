@@ -4,8 +4,8 @@ title: TRENDINGCopilotKit raises $27M Series A to deploy app-native AI agents
 date: '2026-05-05'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 1c95833e3100a28a5fe646315b18f3eb64d57e0494ac7accb3445aa7b01db0c5
 normalized_title_hash: 62b4982dfef905a6

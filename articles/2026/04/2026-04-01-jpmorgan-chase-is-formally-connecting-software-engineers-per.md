@@ -5,8 +5,8 @@ title: JPMorgan Chase is formally connecting software engineers' performance rat
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/blog/jpmorgan-tracks-65000-engineers-ai-usage-performance-reviews
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 5bb616d6b1f1f63698e146d6d1f3025905d9ec8f4364894d3d7990cdebbf1e16

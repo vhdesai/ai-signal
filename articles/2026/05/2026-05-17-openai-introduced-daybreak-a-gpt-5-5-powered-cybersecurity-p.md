@@ -5,8 +5,8 @@ title: OpenAI introduced Daybreak, a GPT-5.5-powered cybersecurity platform for 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: d49ac7ac937892ab3c93936324cc06385d34fdcc2c31aa285bed7a04a246bf44

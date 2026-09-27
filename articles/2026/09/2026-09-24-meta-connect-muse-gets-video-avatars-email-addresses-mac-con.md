@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
-- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 embedding_id: 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mark Zuckerberg used Connect 2026 to reposition Meta squarely around Muse. Updat
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
+**Related:** [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]]
 <!-- graph:end -->

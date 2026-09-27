@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
+- 2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
 - 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
-- 2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou
 embedding_id: 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Oracle sent a force majeure notice to a Blue Owl Capital unit tied to Project Ju
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat]] · [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou]]
+**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat]]
 <!-- graph:end -->

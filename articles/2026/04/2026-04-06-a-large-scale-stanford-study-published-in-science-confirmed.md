@@ -5,8 +5,8 @@ title: A large-scale Stanford study published in Science confirmed that sycophan
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/03/31/ai-tech-sycophantic-regulations-openai-chatgpt-gemini-claude-anthropic-american-politics/
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: adbbb956185fcb992477eb6cbb4813bd9fb072b4f6aab2d7fdfdb27788c34210

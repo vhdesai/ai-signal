@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4567
+member_count: 4580
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4567 connected article(s).
+> Auto-generated topic hub. 4580 connected article(s).
 
+- `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-oxford-s-bodleian-library-agrees-to-let-openai-train-on-its|Oxford's Bodleian Library agrees to let OpenAI train on its collections]]
+- `2026-09-26` [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain|Meta Connect wrap: AI glasses everywhere, Muse Charm keychain gadget, months-long Muse push]]
+- `2026-09-26` [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac|DealBook: AI Efficiency Meets the Billable Hour — Law Firms Face 20–30% Client Discount Requests]]
+- `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
+- `2026-09-26` [[2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d|Chinese Model Providers Take Majority Token Share on Major Developer Routers]]
 - `2026-09-25` [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi|Xi and Trump discuss AI and Taiwan at White House state visit]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
 - `2026-09-25` [[2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi|PitchBook: software borrowers under stress lead private-credit watchlist; PSG raises $5.1B Europe fund as tech PE rebounds]]
@@ -17,11 +24,17 @@ member_count: 4567
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
 - `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Nadella Calls It "a New OS for Work"]]
 - `2026-09-25` [[2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute|Meta Muse gives every user a full Ubuntu Linux cloud computer]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so|Fal and Fireworks Consider New Rounds as Inference Demand Soars — $15–30B Valuations on the Table]]
 - `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-cognition-crosses-a-1b-annualized-revenue-run-rate-for-devin|Cognition Crosses a $1B Annualized Revenue Run Rate for Devin]]
 - `2026-09-25` [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc|China overtakes US as the top workplace for elite AI researchers]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
+- `2026-09-25` [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di|Anthropic Opens a Plugin Submission Portal for the Claude Directory; Ships MCP 2.0 and Enterprise Managed Auth]]
+- `2026-09-25` [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives|Anthropic Commits $11.6B to Akamai for CPU Capacity, Receives a Warrant for Up to 5% of the Supplier]]
+- `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up|Alibaba Ships Qwen-Audio 3.1 With Voice API Price Cuts of Up to 95%]]
 - `2026-09-24` [[2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats|xAI Tests Grok as a Participant Inside X’s XChat Group Chats]]
 - `2026-09-24` [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding|VibeOps targets governance for enterprise vibe coding]]
 - `2026-09-24` [[2026-09-24-us-house-committee-expands-fcc-covered-list-reach-as-china-t|US House committee expands FCC "Covered List" reach as China tech scrutiny widens]]

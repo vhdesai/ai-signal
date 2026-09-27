@@ -5,8 +5,8 @@ title: A joint research team from Stanford, Carnegie Mellon, MIT, and the Univer
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://engineering.stanford.edu/news/scientists-and-us-foundry-achieve-3d-chip-breakthrough-accelerate-ai
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: e87a044e01cb168c2dacd68caef85ee6d0f5c089f01ed033bc2a54bc0a7c24fa

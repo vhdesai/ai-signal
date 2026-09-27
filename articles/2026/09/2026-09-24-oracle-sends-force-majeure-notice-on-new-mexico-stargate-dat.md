@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
 - 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
-- 2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus
 embedding_id: 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Oracle sent a force majeure notice to the developer of Project Jupiter, a Starga
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]] · [[2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus]]
+**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]]
 <!-- graph:end -->

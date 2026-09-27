@@ -5,8 +5,8 @@ title: TrendingGoogle and Meta Race to Build Personal AI Agents as Anthropic and
 date: '2026-05-06'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 9a9372678105f1de535f8147469fdb3448d3796c3ed4cc07d2aa1c9b0e2f24f3
 normalized_title_hash: 90f5d6e0531cebe2

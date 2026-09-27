@@ -5,8 +5,8 @@ title: Claude agents identify a novel phage enzyme system with CRISPR-like repea
 date: '2026-09-25'
 source: Business Standard
 url_original: https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html
-url_canonical: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
-url_status: repaired
+url_canonical: https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html
+url_status: broken
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: ff382fac3c2d745b0fd93dd4e2a1d8d7c19503f92d02eb4404f1a611aa250efe

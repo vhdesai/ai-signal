@@ -5,8 +5,8 @@ title: Apple Machine Learning Research • April 19, 2026 Apple ML Research publ
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://machinelearning.apple.com/research/iclr-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: e3df05a49b8efc2d3d3814b65bf278318e6075574e2eefb2db37298ae4446a4b

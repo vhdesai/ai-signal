@@ -5,8 +5,8 @@ title: NVIDIA Research via MarkTechPost • April 14, 2026 (coverage Apr 19) NVI
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 763f356ee7b8c22cc01ca2921f8cd75eaaf94a5c25ef72337dd52e254dfff244

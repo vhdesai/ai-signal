@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 - 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
+- 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 embedding_id: 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Replit shipped its first iOS app update in four months following a protracted Ap
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]]
+**Related:** [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]]
 <!-- graph:end -->

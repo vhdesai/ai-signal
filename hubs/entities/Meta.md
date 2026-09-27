@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 813
+member_count: 816
 ---
 
 # Meta
 
-> Auto-generated entity hub. 813 connected article(s).
+> Auto-generated entity hub. 816 connected article(s).
 
+- `2026-09-26` [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain|Meta Connect wrap: AI glasses everywhere, Muse Charm keychain gadget, months-long Muse push]]
+- `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
 - `2026-09-25` [[2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute|Meta Muse gives every user a full Ubuntu Linux cloud computer]]

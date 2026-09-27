@@ -5,8 +5,8 @@ title: Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4644d2cd482708d5a3949aec5c1f005f21e705f45676b9af9319bf7aaa99b383
 normalized_title_hash: e07b56156c2be256

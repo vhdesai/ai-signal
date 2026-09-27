@@ -4,8 +4,8 @@ title: Standard Chartered Plans 7,800+ Job Cuts by 2030, Explicitly Citing AI Ad
 date: '2026-05-19'
 source: Reuters / Financial Times / Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.livemint.com/companies/news/replacing-lower-value-human-capital-standard-chartered-plans-over-7-800-job-cuts-by-2030-amid-ai-profitability-push-11779161209845.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 0e988b86972cc17fefbb19521bdef07695afece94055a132fa440de17a0fb163

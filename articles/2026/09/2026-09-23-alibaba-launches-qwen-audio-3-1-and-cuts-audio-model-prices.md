@@ -21,9 +21,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up
 - 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
-- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 embedding_id: 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Qwen released five audio models spanning ASR, TTS, and real-time interaction, al
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
+**Related:** [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up]] · [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]]
 <!-- graph:end -->

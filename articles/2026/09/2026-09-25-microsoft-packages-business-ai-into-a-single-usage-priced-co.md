@@ -23,8 +23,7 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
-related_article_ids:
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
+related_article_ids: []
 embedding_id: 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 event_name: ''
 ---
@@ -39,5 +38,4 @@ Microsoft introduced an updated Copilot app for corporate users that combines Ho
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]]
-**Related:** [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]]
 <!-- graph:end -->

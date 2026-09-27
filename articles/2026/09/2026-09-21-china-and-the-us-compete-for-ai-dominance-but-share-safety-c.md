@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
+- 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
-- 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
 embedding_id: 2026-09-21-china-and-the-us-compete-for-ai-dominance-but-share-safety-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An AFP analysis published ahead of the Sept 24 Trump–Xi meeting frames the two
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]]
+**Related:** [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
 <!-- graph:end -->

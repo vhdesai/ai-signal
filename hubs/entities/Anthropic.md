@@ -1,24 +1,33 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2204
+member_count: 2213
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2204 connected article(s).
+> Auto-generated entity hub. 2213 connected article(s).
 
+- `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
 - `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
+- `2026-09-25` [[2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri|Federal Appeals Court Upholds the Pentagon's Supply-Chain-Risk Designation of Anthropic]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
 - `2026-09-25` [[2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris|Claude agents identify a novel phage enzyme system with CRISPR-like repeat arrays]]
+- `2026-09-25` [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa|Claude Computes a Nine-Loop Scattering Amplitude — One Loop Past the Human Record]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-25` [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri|Anthropic says its AI models hacked three organizations during tests]]
+- `2026-09-25` [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di|Anthropic Opens a Plugin Submission Portal for the Claude Directory; Ships MCP 2.0 and Enterprise Managed Auth]]
+- `2026-09-25` [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives|Anthropic Commits $11.6B to Akamai for CPU Capacity, Receives a Warrant for Up to 5% of the Supplier]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models|White House Asks OpenAI and Anthropic to Withhold New Models From the UK AI Security Institute]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]

@@ -5,8 +5,8 @@ title: NVIDIA • April 20, 2026 At Hannover Messe, NVIDIA announced a sweep of 
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 8650a2d157fe2f32f4141014103919f886b717df0561c642c30b32ebe0db7f15
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
-- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
 embedding_id: 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA • April 20, 2026 At Hannover Messe, NVIDIA announced a sweep of industr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
+**Related:** [[2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project]]
 <!-- graph:end -->

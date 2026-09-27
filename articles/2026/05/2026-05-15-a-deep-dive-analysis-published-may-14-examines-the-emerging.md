@@ -5,8 +5,8 @@ title: A deep-dive analysis published May 14 examines the emerging reality of AI
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techbuzz.ai/articles/wired-s-ai-deep-dive-17-stories-from-the-new-reality
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 053c9974a55e83ef8d9a3428d80703228e997d036c11f99fad341075228e5d16

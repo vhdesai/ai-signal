@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro
+- 2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d
 embedding_id: 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Chinese models — Kimi K2.6, DeepSeek V4, GLM-5.1, Qwen 3 — now account for 6
 
 **Entities:** [[DeepSeek]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro]]
+**Related:** [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro]] · [[2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d]]
 <!-- graph:end -->

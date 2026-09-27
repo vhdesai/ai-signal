@@ -5,8 +5,8 @@ title: OpenAI Releases GPT-5.5 — "Biggest Single Jump in Usefulness" HOT MSN /
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/technology/openai-launches-gpt-5-5-calling-it-its-most-powerful-model-yet/ar-AA21HXts
+url_status: repaired
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: c57050488ea4da247400789f20f7bcddc40c2fb52438e801d819bb47ef85536b
 normalized_title_hash: a71ac70bf4c890d5

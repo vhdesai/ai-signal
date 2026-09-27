@@ -5,8 +5,8 @@ title: Musk Explores Three-Way Alliance of xAI, Mistral & Cursor to Challenge An
 date: '2026-04-22'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: fef5fadcfedd4e468b39dfccec4d92b17aea93ce91ee982725142900f13478a5

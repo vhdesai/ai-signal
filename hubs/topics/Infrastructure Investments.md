@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1695
+member_count: 1701
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1695 connected article(s).
+> Auto-generated topic hub. 1701 connected article(s).
 
+- `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1|Goldman Sachs Lifts Hyperscaler AI Capex Trajectory Toward $1.2–1.4T by 2027]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
+- `2026-09-25` [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives|Anthropic Commits $11.6B to Akamai for CPU Capacity, Receives a Warrant for Up to 5% of the Supplier]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
@@ -20,6 +25,7 @@ member_count: 1695
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta|Oracle sends force majeure notice on its $165B New Mexico Stargate campus]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat|Oracle sends force majeure notice on New Mexico Stargate data-center site]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla|Oracle Sends Force-Majeure Notice on Project Jupiter, Its Flagship Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp|Oracle Issues Force Majeure Notice on Its $165B Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a|Oracle Invokes Force Majeure on the 2.45GW “Project Jupiter” AI Data Center]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]

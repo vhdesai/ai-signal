@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1487
+member_count: 1493
 ---
 
 # Google
 
-> Auto-generated entity hub. 1487 connected article(s).
+> Auto-generated entity hub. 1493 connected article(s).
 
+- `2026-09-26` [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a|Researchers unveil AI that can design viruses from scratch; another DeepMind safety resignation]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
 - `2026-09-25` [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a|Google Makes Gemini 3.8 Live Generally Available With “Live Avatar” for Enterprise Agents]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so|Fal and Fireworks Consider New Rounds as Inference Demand Soars — $15–30B Valuations on the Table]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]
 - `2026-09-24` [[2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio|OpenAI Tells Court the Apple Intelligence ChatGPT Integration “Dramatically Underperformed”]]
@@ -22,6 +27,7 @@ member_count: 1487
 - `2026-09-24` [[2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front|Google, OpenAI and Anthropic Move Closer to Launching a Frontier-AI Standards Body (“SAFA”)]]
 - `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four|Google's first orbital TPU test launches October 1 with four chips and 1kW of solar]]
 - `2026-09-24` [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente|Google's Suncatcher project sends first orbital-AI-datacenter satellite up October 1]]
+- `2026-09-24` [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october|Google's First Project Suncatcher Satellite Launches October 1 With Four TPUs Aboard]]
 - `2026-09-24` [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users|Google tests letting Gemini call businesses for users]]
 - `2026-09-24` [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on|Google tests "Call for Me," letting Gemini phone businesses on your behalf]]
 - `2026-09-24` [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s|Google outlines Project Suncatcher, a moonshot to put AI in space]]

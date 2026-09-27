@@ -1,18 +1,29 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1482
+member_count: 1493
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1482 connected article(s).
+> Auto-generated topic hub. 1493 connected article(s).
 
+- `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
+- `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
+- `2026-09-26` [[2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d|Chinese Model Providers Take Majority Token Share on Major Developer Routers]]
 - `2026-09-25` [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi|Xi and Trump discuss AI and Taiwan at White House state visit]]
+- `2026-09-25` [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af|US and China Signal a "Super-Intelligence" Dialogue Channel After the Trump–Xi Summit]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
+- `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa|Claude Computes a Nine-Loop Scattering Amplitude — One Loop Past the Human Record]]
 - `2026-09-25` [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc|China overtakes US as the top workplace for elite AI researchers]]
+- `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up|Alibaba Ships Qwen-Audio 3.1 With Voice API Price Cuts of Up to 95%]]
 - `2026-09-24` [[2026-09-24-us-house-committee-expands-fcc-covered-list-reach-as-china-t|US House committee expands FCC "Covered List" reach as China tech scrutiny widens]]
 - `2026-09-24` [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the|MIT Senseable City Lab Publishes “How AI Sees the City” on the Promise and Peril of Visual AI]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]

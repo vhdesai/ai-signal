@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-wsj-openai-is-fighting-to-regain-its-uncontested-lead
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
+- 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
-- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 embedding_id: 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Wall Street Journal publishes an extensive analysis of OpenAI's competitive 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-wsj-openai-is-fighting-to-regain-its-uncontested-lead]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]]
+**Related:** [[2026-08-01-wsj-openai-is-fighting-to-regain-its-uncontested-lead]] · [[2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro]] · [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]]
 <!-- graph:end -->

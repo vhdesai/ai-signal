@@ -4,8 +4,8 @@ title: HOTBig Tech 2026 AI capex tracks to roughly $725B
 date: '2026-05-04'
 source: Invezz
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://inferredresearch.com/analysis/big-tech-capex-725b-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 0da2bce4452fc88fa003e75f680bb2b379c0f86d7e70b816517f6bcaa6ad3a23
 normalized_title_hash: 60900703e0edf05d

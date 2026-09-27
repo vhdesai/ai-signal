@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
 - 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 - 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
+- 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
 embedding_id: 2026-09-20-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking
 event_name: ''
@@ -36,5 +37,5 @@ Vocci launched a $249 titanium-surfaced AI note-taking ring — under 6 grams, r
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]] · [[2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per]] · [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]]
+**Related:** [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]] · [[2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca]] · [[2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per]] · [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain]] · [[2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor]]
 <!-- graph:end -->

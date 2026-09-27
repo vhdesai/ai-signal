@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
 - 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
+- 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 - 2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p
-- 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
 embedding_id: 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Decart, developer of real-time generative video and GPU optimization technology,
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]] · [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
+**Related:** [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p]]
 <!-- graph:end -->

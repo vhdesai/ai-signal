@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
-- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 embedding_id: 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ On Microsoft's earnings call, Satya Nadella said the company will fold Copilot's
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]]
+**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]]
 <!-- graph:end -->

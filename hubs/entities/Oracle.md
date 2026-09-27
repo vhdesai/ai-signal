@@ -1,25 +1,28 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 243
+member_count: 246
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 243 connected article(s).
+> Auto-generated entity hub. 246 connected article(s).
 
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
 - `2026-09-25` [[2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1|Goldman Sachs Lifts Hyperscaler AI Capex Trajectory Toward $1.2–1.4T by 2027]]
 - `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta|Oracle sends force majeure notice on its $165B New Mexico Stargate campus]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat|Oracle sends force majeure notice on New Mexico Stargate data-center site]]
+- `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla|Oracle Sends Force-Majeure Notice on Project Jupiter, Its Flagship Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp|Oracle Issues Force Majeure Notice on Its $165B Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a|Oracle Invokes Force Majeure on the 2.45GW “Project Jupiter” AI Data Center]]
 - `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
+- `2026-09-24` [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october|Google's First Project Suncatcher Satellite Launches October 1 With Four TPUs Aboard]]
 - `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
 - `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]

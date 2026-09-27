@@ -5,8 +5,8 @@ title: Apple plans to send a significant chunk of its Siri team (fewer than 200 
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.siliconreport.com/apple-plans-ai-coding-bootcamp-for-fewer-than-200-siri-engineers-4a81d6fd3478d808
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 359f7a1f042a6a0fbeb97a22bc83f65a7fea72ef7b5497a674b467b838d7cd5e

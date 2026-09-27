@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
+- 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
+- 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue
 - 2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner
-- 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
-- 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
 embedding_id: 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The largest U.S. venture round of the week. Fireworks, which helps enterprises t
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue]] · [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]] · [[2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor]]
+**Related:** [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue]] · [[2026-08-25-stability-ai-raises-76m-series-b-backed-by-universal-warner]]
 <!-- graph:end -->

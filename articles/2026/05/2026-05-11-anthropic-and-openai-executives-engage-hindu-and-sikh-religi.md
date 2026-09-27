@@ -5,8 +5,8 @@ title: Anthropic and OpenAI Executives Engage Hindu and Sikh Religious Leaders o
 date: '2026-05-11'
 source: 🔗 India Today  · 🏢 Anthropic / OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.indiatoday.in/technology/news/story/anthropic-openai-execs-meet-hindu-and-sikh-religious-leaders-as-they-try-to-make-ethical-ai-2909703-2026-05-11
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 452f93dc32f66034d046cacf62e9256707d6685eb52184c7c389e2fc98389a0a

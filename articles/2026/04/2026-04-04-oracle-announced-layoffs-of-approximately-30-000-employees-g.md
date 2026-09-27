@@ -5,8 +5,8 @@ title: Oracle announced layoffs of approximately 30,000 employees globally as it
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/oracle-begins-new-round-of-layoffs-2026-9
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 098c73ef3e960c2dd76e46cba725058a49ad77877eb5c959f7fad9d71aa72449

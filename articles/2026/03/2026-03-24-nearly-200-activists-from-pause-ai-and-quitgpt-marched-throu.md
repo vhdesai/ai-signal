@@ -5,8 +5,8 @@ title: Nearly 200 activists from Pause AI and QuitGPT marched through San Franci
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 89a66b5d72363944681d4a24de6ce0af2543c86547c70bdb83777c19f5ff3fdc

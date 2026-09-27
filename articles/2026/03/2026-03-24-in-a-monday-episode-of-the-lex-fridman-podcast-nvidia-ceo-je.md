@@ -5,8 +5,8 @@ title: In a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang s
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
+url_status: repaired
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 8646b598f449bda6b4ed24784aec3063b1b60f21a9951bd9b9d7049507d22458

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-24-google-s-first-project-suncatcher-satellite-launches-october
 - 2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four
 - 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
 - 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
-- 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 embedding_id: 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed that a prototype satellite named MVP, built with Planet, will l
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four]] · [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]] · [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]] · [[2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip]]
+**Related:** [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october]] · [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four]] · [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]] · [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]]
 <!-- graph:end -->

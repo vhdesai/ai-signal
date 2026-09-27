@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
-- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
+- 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
 embedding_id: 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost reports that Liquid AI released LFM2.5-Encoder-230M and LFM2.5-Enco
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]]
+**Related:** [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]] · [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco]]
 <!-- graph:end -->

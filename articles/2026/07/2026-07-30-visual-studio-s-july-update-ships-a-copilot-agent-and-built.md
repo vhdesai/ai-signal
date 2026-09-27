@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
@@ -38,5 +39,5 @@ Microsoft's July Visual Studio update adds preview agent mode to Copilot Chat, p
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
+**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
 <!-- graph:end -->

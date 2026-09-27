@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics
 - 2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi
-- 2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video
 - 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
+- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 embedding_id: 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
 event_name: ''
 ---
@@ -38,5 +38,5 @@ FLUX 3 Action is a 7B open-weight world-action model that jointly predicts the n
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi]] · [[2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video]] · [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]]
+**Related:** [[2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi]] · [[2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
 <!-- graph:end -->

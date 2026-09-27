@@ -5,8 +5,8 @@ title: Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within T
 date: '2026-05-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/
+url_status: repaired
 digest_source: digests\raw\2026-05-03_071146_Inbox_Daily AI News Digest – May 3, 2026.md
 content_hash: f73fecc10a23cafdc93b651bc4e4b407d899642143ace45daf61d7861b726e43
 normalized_title_hash: 32e3ca97bfd5f203

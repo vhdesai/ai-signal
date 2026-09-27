@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 embedding_id: 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has released a curated GitHub-hosted directory of verified plugins ext
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow]]
+**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: OpenAI's COO shifted into a new role, and Fidji Simo—CEO of OpenAI's AG
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: bae9efab9f44e51fed59a8339ed590a27e4417082c65874d9ade775c2c7b0ed7

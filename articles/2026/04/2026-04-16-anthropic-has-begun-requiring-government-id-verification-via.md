@@ -5,8 +5,8 @@ title: Anthropic has begun requiring government ID verification (via Persona) be
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/318778/20260621/claude-identity-verification-starts-july-8-what-facial-data-anthropic-collects.htm
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 12697dc373ba35133bfdacca388f7ec757fc49ead20575404f356b0d0727d12b

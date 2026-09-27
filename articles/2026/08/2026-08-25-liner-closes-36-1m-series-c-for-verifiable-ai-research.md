@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
+- 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
-- 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 embedding_id: 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Liner, an evidence-first AI research platform, raised $36.1 million in Series C 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]]
+**Related:** [[2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
 <!-- graph:end -->

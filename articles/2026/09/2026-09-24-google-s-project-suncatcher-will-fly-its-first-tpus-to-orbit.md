@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 - 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
-- 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
 embedding_id: 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Sundar Pichai said Google’s Project Suncatcher will place a TPU prototype in l
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]] · [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]]
+**Related:** [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]]
 <!-- graph:end -->

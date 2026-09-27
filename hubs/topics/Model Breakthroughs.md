@@ -1,17 +1,21 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3183
+member_count: 3187
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3183 connected article(s).
+> Auto-generated topic hub. 3187 connected article(s).
 
 - `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
 - `2026-09-25` [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual|Meta Connect: $1,300 Meta VR Glasses with eye tracking, virtual workspaces, and Muse integration]]
+- `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
 - `2026-09-25` [[2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a|Google Makes Gemini 3.8 Live Generally Available With “Live Avatar” for Enterprise Agents]]
+- `2026-09-25` [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa|Claude Computes a Nine-Loop Scattering Amplitude — One Loop Past the Human Record]]
 - `2026-09-24` [[2026-09-24-va-lsgan-generative-latent-space-parameterisation-cuts-groun|VA-LSGAN: Generative Latent-Space Parameterisation Cuts Groundwater Contaminant Uncertainty by 67.5%]]
 - `2026-09-24` [[2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f|University of Cincinnati: Children Trust Generative-AI Toys Far More Readily Than Their Parents Do]]
 - `2026-09-24` [[2026-09-24-uc-riverside-uses-machine-learning-to-find-odorants-that-rep|UC Riverside Uses Machine Learning to Find Odorants That Repel Honey Bees From Treated Crops]]

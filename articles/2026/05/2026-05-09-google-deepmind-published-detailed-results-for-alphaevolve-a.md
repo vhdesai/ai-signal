@@ -5,8 +5,8 @@ title: Google DeepMind published detailed results for AlphaEvolve, a Gemini-powe
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/alphaevolve-impact/
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 647c3fb59a42ea2651b04f343b11cb5a6f3e39028a7406eb0ecb812e96f69dc8
 normalized_title_hash: dcf32fda865b96c9

@@ -1,19 +1,23 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 942
+member_count: 946
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 942 connected article(s).
+> Auto-generated entity hub. 946 connected article(s).
 
+- `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
 - `2026-09-25` [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet|OpenAI launches MentalHealthBench for AI mental-health safety testing]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
 - `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Nadella Calls It "a New OS for Work"]]
+- `2026-09-25` [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di|Anthropic Opens a Plugin Submission Portal for the Claude Directory; Ships MCP 2.0 and Enterprise Managed Auth]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]
 - `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]

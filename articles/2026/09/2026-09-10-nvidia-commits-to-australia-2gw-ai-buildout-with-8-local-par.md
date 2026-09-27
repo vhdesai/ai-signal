@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
-- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
 embedding_id: 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia announced partnerships with eight Australian data-center and infrastructu
 
 **Entities:** [[Huawei]] · [[Mistral]] · [[NVIDIA]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
+**Related:** [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project]]
 <!-- graph:end -->

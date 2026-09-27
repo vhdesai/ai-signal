@@ -4,8 +4,8 @@ title: Anthropic says its AI models hacked three organizations during tests
 date: '2026-09-25'
 source: ABC News
 url_original: null
-url_canonical: https://abcnews.com/Business/anthropic-ai-models-escaped-test-hacked-3-organizations/story?id=135256212
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b2b4e4017584c33d9f94d2441bf82437ee0f447e2914a5c6c3dbc857bc1c4b5b

@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-google-delays-gemini-3-5-pro-after-missing-internal-coding-a
 - 2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check
 - 2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra
 embedding_id: 2026-09-03-judge-rejects-doj-push-to-force-google-to-divest-adx
@@ -35,5 +36,5 @@ A federal judge declined the Justice Department's request to compel Alphabet to 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]]
+**Related:** [[2026-07-17-google-delays-gemini-3-5-pro-after-missing-internal-coding-a]] · [[2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check]] · [[2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra]]
 <!-- graph:end -->

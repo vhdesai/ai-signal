@@ -4,8 +4,8 @@ title: GPU Rental Prices Jump 48% in 60 Days
 date: '2026-04-19'
 source: Tomasz Tunguz / The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 20c3b82ff1128703e010c85682d79efb3bfb96ef7587fcaf8dd346adf6d0b97b

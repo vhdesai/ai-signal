@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: AiThority / Nvidia Newsroom
 url_original: https://aithority.com/machine-learning/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem/
 url_canonical: https://aithority.com/machine-learning/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 2e831917d60bda996f83ad5e0bfe7f62c735eeae99554c03a3105e17bd1878ca
 normalized_title_hash: 2ec06f7e6877106e
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
+- 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
 - 2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus
-- 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
 embedding_id: 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia said it is working with eight Australian data-center and infrastructure f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus]] · [[2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus]]
+**Related:** [[2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par]] · [[2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai]] · [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project]] · [[2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus]]
 <!-- graph:end -->

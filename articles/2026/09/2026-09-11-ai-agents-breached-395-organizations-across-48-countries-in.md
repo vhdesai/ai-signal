@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 - 2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber
+- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 embedding_id: 2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in
 event_name: ''
 ---
@@ -39,5 +40,5 @@ GreyNoise documented a suspected Russian-speaking actor who used hundreds of AI 
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]]
+**Related:** [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
 <!-- graph:end -->

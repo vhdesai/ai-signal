@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 489
+member_count: 490
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 489 connected article(s).
+> Auto-generated topic hub. 490 connected article(s).
 
+- `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
 - `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]

@@ -5,8 +5,8 @@ title: Microsoft's 2026 Global AI Diffusion Report documented that 17.8% of the 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Microsoft-AI-Diffusion-Report-2026-Q2.pdf
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: c1d8f5a3310a255d004669fac524a6e7230a827283be648e8c903265a8a76956

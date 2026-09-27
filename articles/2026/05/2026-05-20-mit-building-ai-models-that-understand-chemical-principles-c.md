@@ -5,8 +5,8 @@ title: 'MIT: Building AI models that understand chemical principles (Connor Cole
 date: '2026-05-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-url_canonical: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-url_status: broken
+url_canonical: https://computing.mit.edu/news/building-ai-models-that-understand-chemical-principles/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: eb6c0146c8e796f1ea5a83c52f3655ac9246396cf5585228c9d31a2495c77d7f

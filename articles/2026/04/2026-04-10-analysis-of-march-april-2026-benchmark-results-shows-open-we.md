@@ -5,8 +5,8 @@ title: Analysis of March–April 2026 benchmark results shows open-weight models
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://agentmarketcap.ai/blog/2026/04/12/qwen3-vs-llama4-vs-gemma4-open-weight-agent-model-race-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: f760a235a692fa28462a38e959156d24abb359ad811cfe3dc216a919808f33d4

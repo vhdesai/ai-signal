@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic
 - 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
+- 2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off
 embedding_id: 2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Microsoft announced it helped dismantle EvilTokens, an AI chatbot designed to as
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic]] · [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
+**Related:** [[2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic]] · [[2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off]]
 <!-- graph:end -->

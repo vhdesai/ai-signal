@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 403
+member_count: 406
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 403 connected article(s).
+> Auto-generated entity hub. 406 connected article(s).
 
+- `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
+- `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
+- `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up|Alibaba Ships Qwen-Audio 3.1 With Voice API Price Cuts of Up to 95%]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass|Blue Cross analysis attributes $942M in added costs to AI-assisted clinical coding]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]

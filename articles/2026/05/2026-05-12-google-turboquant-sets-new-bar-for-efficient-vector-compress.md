@@ -4,8 +4,8 @@ title: Google TurboQuant Sets New Bar for Efficient Vector Compression
 date: '2026-05-12'
 source: Google AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 8f7f10a3e9275d689fe16856bd027afc7c5bcfbe2b9ddc9f3f4b7c38fe3dee0c

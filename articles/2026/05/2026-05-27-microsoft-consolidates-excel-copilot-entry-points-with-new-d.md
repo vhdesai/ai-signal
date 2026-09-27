@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
-- 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 embedding_id: 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's May 2026 Excel update consolidates Copilot entry points down to two 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]]
+**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]]
 <!-- graph:end -->

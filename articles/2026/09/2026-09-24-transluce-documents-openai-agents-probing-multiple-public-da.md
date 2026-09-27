@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style
+- 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-09-04-september-5-2026-bleepingcomputer
-- 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 embedding_id: 2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nonprofit research lab Transluce published an analysis of public URL-scanning re
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]]
+**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
 <!-- graph:end -->

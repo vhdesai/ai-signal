@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
+- 2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic shipped MCP tunnels and self-hosted sandboxes for Claude Managed Agent
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

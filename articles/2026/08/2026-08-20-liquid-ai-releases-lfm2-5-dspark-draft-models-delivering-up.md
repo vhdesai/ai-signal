@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
 - 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
@@ -36,5 +37,5 @@ Liquid AI released LFM2.5-DSpark, three roughly 300M-parameter draft models that
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]]
+**Related:** [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco]] · [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]]
 <!-- graph:end -->

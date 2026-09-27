@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 - 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
-- 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 embedding_id: 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Financial Times examines a wave of legal tech startups building AI-native se
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]]
+**Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac]] · [[2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts]]
 <!-- graph:end -->

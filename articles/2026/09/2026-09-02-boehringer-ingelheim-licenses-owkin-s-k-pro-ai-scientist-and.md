@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 - 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
-- 2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery
 embedding_id: 2026-09-02-boehringer-ingelheim-licenses-owkin-s-k-pro-ai-scientist-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Owkin signed a license agreement giving Boehringer Ingelheim access to K Pro, it
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]] · [[2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery]]
+**Related:** [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]]
 <!-- graph:end -->

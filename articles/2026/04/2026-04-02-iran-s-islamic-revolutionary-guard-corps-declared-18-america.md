@@ -5,8 +5,8 @@ title: Iran's Islamic Revolutionary Guard Corps declared 18 American and Gulf te
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/iran-irgc-18-us-tech-companies-military-targets
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: a6da4d693d1b71ec1e3537276a21daa4a07601c0feae4d568730d1c08c3b1964

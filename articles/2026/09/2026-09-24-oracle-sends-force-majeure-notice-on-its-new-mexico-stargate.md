@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 - 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 - 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
-- 2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou
 embedding_id: 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Oracle filed a force-majeure notice on the New Mexico Stargate site that would l
 
 **Entities:** [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat]] · [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou]]
+**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat]]
 <!-- graph:end -->

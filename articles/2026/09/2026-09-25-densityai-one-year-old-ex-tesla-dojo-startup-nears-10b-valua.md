@@ -5,15 +5,14 @@ title: DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with 
 date: '2026-09-25'
 source: The Information
 url_original: https://www.theinformation.com/articles/one-year-old-ai-chip-firm-nears-10-billion-valuation
-url_canonical: https://www.tradingview.com/news/cryptobriefing:f0dbf098f094b:0-densityai-nears-10b-valuation-with-hundreds-of-millions-in-funding-and-aws-deal/
-url_status: repaired
-digest_source: digests\raw\2026-09-25_071032_Inbox_Daily AI News Digest – September
+url_canonical: https://www.theinformation.com/articles/one-year-old-ai-chip-firm-nears-10-billion-valuation
+url_status: broken
+digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: cf2bd7863e549b52b79bc30741c1ad886f84516af8408d58573dbe72001ca068
 normalized_title_hash: 5235db1ed0d1b729
 canonical_url_hash: 252c72975b87fa5e
-tags:
-- Breaking
+tags: []
 entities:
 - Amazon
 - Anthropic

@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
 - 2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi
-- 2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
+- 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 embedding_id: 2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MarkTechPost reported that Black Forest Labs released FLUX 3 Action, a 7B open-w
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi]] · [[2026-07-23-black-forest-labs-launches-flux-3-for-image-and-short-video]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]]
+**Related:** [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
 <!-- graph:end -->

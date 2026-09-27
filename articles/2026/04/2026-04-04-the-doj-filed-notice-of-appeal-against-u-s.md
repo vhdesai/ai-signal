@@ -4,8 +4,8 @@ title: The DOJ filed notice of appeal against U.S
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://awesomeagents.ai/news/trump-doj-appeals-anthropic-injunction/
+url_status: repaired
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: b869cafea7966970e8c116125c7607df8ff140814f95254cf604b46040282001
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
+- 2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri
 - 2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk
 - 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 - 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
-- 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 embedding_id: 2026-04-04-the-doj-filed-notice-of-appeal-against-u-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The DOJ filed notice of appeal against U.S. District Judge Rita Lin's March 26 r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]] · [[2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk]] · [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]]
+**Related:** [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]] · [[2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri]] · [[2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk]] · [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]]
 <!-- graph:end -->

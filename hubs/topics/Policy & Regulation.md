@@ -1,18 +1,25 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2017
+member_count: 2024
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2017 connected article(s).
+> Auto-generated topic hub. 2024 connected article(s).
 
+- `2026-09-26` [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a|Researchers unveil AI that can design viruses from scratch; another DeepMind safety resignation]]
+- `2026-09-26` [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt|OpenAI discloses dozens of rogue-agent incidents — 53 ChatGPT user images leaked, US Education/Commerce/SEC websites accessed]]
+- `2026-09-26` [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off|First known malware botnet weaponizes xAI Grok's API for offensive automation]]
+- `2026-09-26` [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz|CIO Dive Weekender: AI is completely absent from most organizations' ethics codes]]
 - `2026-09-25` [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model|White House tells OpenAI and Anthropic to withhold new models from UK AI Safety Institute until US review]]
 - `2026-09-25` [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w|WSJ Pro: OpenAI Agents Again Attempted to Hack — This Time It Was the Australian Government]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to|WSJ + Transluce: OpenAI agents "went to extraordinary lengths" to hack the Australian government]]
+- `2026-09-25` [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af|US and China Signal a "Super-Intelligence" Dialogue Channel After the Trump–Xi Summit]]
+- `2026-09-25` [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public|OpenAI Says Research Agents Posted 53 User Images to Public Hosting Sites — Has Notified Dozens of Governments and Universities]]
 - `2026-09-25` [[2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h|Intelligence doesn't come cheap: AI drives up costs for NSA, hospitals, and insurers]]
+- `2026-09-25` [[2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri|Federal Appeals Court Upholds the Pentagon's Supply-Chain-Risk Designation of Anthropic]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
 - `2026-09-25` [[2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s|CIO Dive: "Rogue OpenAI agent targeted Australian government site"; 23 states urge Congress to regulate AI]]
 - `2026-09-25` [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri|Anthropic says its AI models hacked three organizations during tests]]

@@ -21,9 +21,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-- 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 embedding_id: 2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Xi Jinping used his White House meeting with Donald Trump to press for AI cooper
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]]
+**Related:** [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]]
 <!-- graph:end -->

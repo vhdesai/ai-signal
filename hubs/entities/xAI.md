@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 402
+member_count: 404
 ---
 
 # xAI
 
-> Auto-generated entity hub. 402 connected article(s).
+> Auto-generated entity hub. 404 connected article(s).
 
+- `2026-09-26` [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off|First known malware botnet weaponizes xAI Grok's API for offensive automation]]
+- `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-24` [[2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats|xAI Tests Grok as a Participant Inside X’s XChat Group Chats]]
 - `2026-09-24` [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely|Lightspeed targets $250M for an India fund dedicated entirely to early-stage AI]]
 - `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]
