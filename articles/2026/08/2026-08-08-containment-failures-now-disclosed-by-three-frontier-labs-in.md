@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20agent%20containment
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20agent%20containment
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 713f59becc9cc8c94c960b7419e2ed0e20b3242827cb46e7315f31b7a185ea79
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 - 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
-- 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
 embedding_id: 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Astra pause lands amid a cluster of disclosures in which OpenAI, Anthropic, 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]] · [[2026-08-26-openai-publishes-official-hugging-face-breach-postmortem]]
+**Related:** [[2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu]] · [[2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo]] · [[2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach]]
 <!-- graph:end -->

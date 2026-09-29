@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
 - 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
-- 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
+- 2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s
 embedding_id: 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA has open-sourced OSMO, the orchestration layer that sits behind its GR00T
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]]
+**Related:** [[2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s]]
 <!-- graph:end -->

@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-07-04-deployment-silicon-power-take-center-stage
 - 2026-09-24-thursday-september-24-2026
+- 2026-09-25-saturday-september-26-2026
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 embedding_id: 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The center of gravity in AI shifted visibly from model launches to deployment, c
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

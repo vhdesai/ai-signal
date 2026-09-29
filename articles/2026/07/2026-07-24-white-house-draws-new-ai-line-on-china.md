@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
+- 2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-- 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t
 embedding_id: 2026-07-24-white-house-draws-new-ai-line-on-china
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports that the White House is drawing a new AI line on China as policyma
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t]]
+**Related:** [[2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]]
 <!-- graph:end -->

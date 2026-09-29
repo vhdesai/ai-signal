@@ -5,8 +5,8 @@ title: 'NewMicrosoft Global AI Diffusion Report: 17.8% of Working-Age Population
 date: '2026-05-10'
 source: AIToolsRecap
 url_original: null
-url_canonical: https://www.aitrove.ai/blog/global-ai-adoption-2026-microsoft-diffusion-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 4e5f466104f0d2f4c99ff84a0f570f92e311fa524ec806bbc72efd5f32f974b8

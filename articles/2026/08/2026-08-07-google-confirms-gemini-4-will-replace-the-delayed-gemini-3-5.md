@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
 url_canonical: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 78fd6f137d78671b287848a527956de64a0fff6a221507418b615081f6c37322
@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
+- 2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
 - 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
-- 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
 embedding_id: 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google has shifted its flagship roadmap to Gemini 4, which will supersede the re
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance]] · [[2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]]
+**Related:** [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance]] · [[2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f]]
 <!-- graph:end -->

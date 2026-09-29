@@ -1,14 +1,19 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 490
+member_count: 495
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 490 connected article(s).
+> Auto-generated topic hub. 495 connected article(s).
 
+- `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
+- `2026-09-27` [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p|WSJ: Anthropic veterans quietly buying remote US parcels as personal AI-contingency plans]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]
 - `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
+- `2026-09-25` [[2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri|DeepSeek crosses $1B annualized revenue after raising API prices 2.3x–4.5x, targets ~$7.5B Shanghai raise]]
 - `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-22` [[2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye|WSJ: Cybersecurity is getting white-hot investor interest — Cyera adds $400M extension to hit $2.7B total]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]

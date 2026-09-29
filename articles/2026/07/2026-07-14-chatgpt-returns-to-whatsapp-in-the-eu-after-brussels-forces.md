@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Decoder
 url_original: https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/
 url_canonical: https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_062633_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 02a6a8507b181c6099deb8568ae290fa5d9e519725525b4fdff14632ca7eed5e

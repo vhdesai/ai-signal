@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/
 url_canonical: https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 80bf04be9c9068e0cda29dc47211607b8a11d2473cc61acf49ec730fc2d0923f

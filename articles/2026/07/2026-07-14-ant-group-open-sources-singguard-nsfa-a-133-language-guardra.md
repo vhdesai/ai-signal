@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: TechNode
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: e71efb1387a6350c9f7c5fa597a9fd0d30d3e3c83275a0f54fdd4de7b7c7020b

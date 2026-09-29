@@ -18,10 +18,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
 embedding_id: 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 event_name: ''
 ---
@@ -33,5 +33,5 @@ MIT News reports that CSAIL director Daniela Rus received the 2026 Bavarian Mini
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am]]
+**Related:** [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

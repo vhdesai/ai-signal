@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html
 url_canonical: https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 724271a6e7a545764f15ed9579ba63bebee84e099351dce8a390f964a8248987
@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 embedding_id: 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft introduced an updated Copilot app that combines coding, complex produc
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]]
+**Related:** [[2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Fox Business; WSJ
 url_original: https://www.foxbusiness.com/technology/microsoft-ceo-has-warning-about-ai-race
 url_canonical: https://www.foxbusiness.com/technology/microsoft-ceo-has-warning-about-ai-race
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 38d51d239f6ca861a6b2d5000400998db5080fd93f1c0860cc170221ab588f8f
 normalized_title_hash: 1658b2e4b73e0f15

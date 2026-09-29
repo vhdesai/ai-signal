@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 embedding_id: 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 event_name: ''
@@ -36,5 +37,5 @@ Seeking Alpha reports that Meta’s AI agent strategy is drawing investor focus 
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
+**Related:** [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
-- 2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo
 embedding_id: 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A July Pulse survey found that 80% of organizations that have implemented AI-age
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo]]
+**Related:** [[2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]]
 <!-- graph:end -->

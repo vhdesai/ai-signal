@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: WSJ Pro Cybersecurity / CyberScoop
 url_original: https://www.wsj.com/pro/cybersecurity
 url_canonical: https://www.wsj.com/pro/cybersecurity
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: b807a375dde9b547e8395536bd65ac17fcaf030ab0c6cf73a718853cd9cc7157

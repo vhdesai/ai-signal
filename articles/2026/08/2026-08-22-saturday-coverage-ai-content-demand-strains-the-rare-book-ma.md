@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Third Run Time
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 3752173937661cbbb9735fc96ab24f642c7a97224f318f2f4a489cd591a68d32

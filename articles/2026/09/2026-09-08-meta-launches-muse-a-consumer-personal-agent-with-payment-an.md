@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
 url_canonical: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: c5c8bf47b91438e0e2978a9971f11b823145bcbfd4899a9e7762b21b9240f8aa
 normalized_title_hash: 4815bc93d9e32c08
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
+- 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 embedding_id: 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta introduced Muse in the US on web, iOS, Android, and WhatsApp for users 18+,
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]]
+**Related:** [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]]
 <!-- graph:end -->

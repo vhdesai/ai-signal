@@ -5,8 +5,8 @@ title: A pre-launch leak reveals Google is developing a new autonomous AI agent 
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aiweekly.co/alerts/google-gemini-spark-leak-shows-autonomous-ai-agent
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: e2ab496b0459441f37ad0d720c2bcc5ee857f2ac78067faa3116228004fbf4b1

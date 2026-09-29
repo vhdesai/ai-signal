@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: The Independent / AOL'
 url_original: https://www.aol.com/news/openai-makes-breakthrough-80-old-200836300.html
 url_canonical: https://www.aol.com/news/openai-makes-breakthrough-80-old-200836300.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 80dfedc6845c3d02453dfb26c08b8165f30391568a6004c8f12e7738a9fedfad

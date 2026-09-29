@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Max Planck Society
 url_original: https://www.miragenews.com/max-planck-stanford-center-to-be-established-1748857/
 url_canonical: https://www.miragenews.com/max-planck-stanford-center-to-be-established-1748857/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 5b43ff38c247a34779a48fb371e77308e057cedec7be733fb9fe6309e05a2497

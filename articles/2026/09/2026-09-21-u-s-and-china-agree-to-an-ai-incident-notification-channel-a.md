@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Axios
 url_original: https://www.axios.com/2026/09/21/us-china-ai-risks-bessent-trump
 url_canonical: https://www.axios.com/2026/09/21/us-china-ai-risks-bessent-trump
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: f3bc9a70a581f2d15d5357b6e7445fdba3bf4c968699cb121f4af75975e22ce2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t
-- 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
+- 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 embedding_id: 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Treasury Secretary Scott Bessent said after an eight-hour meeting with Chinese V
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
+**Related:** [[2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t]] · [[2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha]]
 <!-- graph:end -->

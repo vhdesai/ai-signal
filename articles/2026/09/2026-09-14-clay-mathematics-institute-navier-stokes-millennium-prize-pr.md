@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: The Decoder
 url_original: https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/
 url_canonical: https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9e2d0ec8d9a90e015f728835dddb3e236f7f3a536fa1e60ea79768d89e5809be

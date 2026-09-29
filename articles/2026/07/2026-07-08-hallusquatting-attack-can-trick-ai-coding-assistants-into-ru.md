@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html
 url_canonical: https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: f19c9b84d22be007421c535a2074adffc4fabed5244111b43b0ec28aa2203e44

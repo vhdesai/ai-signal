@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: TechCrunch; Yahoo Finance; Wired; Axios; The Verge; NYT; Fortune
 url_original: https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/
 url_canonical: https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: a72f9b8b459b4f05b29d6306d3d9167058fbc7d5cfde6c67a419d9ee3d60710a
 normalized_title_hash: fbcc546b36f5d73a

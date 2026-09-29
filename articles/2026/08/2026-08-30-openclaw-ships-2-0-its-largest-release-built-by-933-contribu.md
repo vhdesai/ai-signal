@@ -5,7 +5,7 @@ date: '2026-08-30'
 source: MarkTechPost / Techgenyz
 url_original: https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/
 url_canonical: https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: c8606b0b287a48568bdf545f296db1bf3fb1b5b157c15b072387800d3886f0aa
 normalized_title_hash: e0e02413ff00a79c

@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
+- 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 embedding_id: 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
 event_name: ''
 ---
@@ -37,5 +38,5 @@ After an eight-hour bilateral at JPMorgan's New York headquarters, Treasury Secr
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]]
+**Related:** [[2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica]] · [[2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a]] · [[2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a]] · [[2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev]] · [[2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20financing%20gets%20creative
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20financing%20gets%20creative
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: e032233038c769028983999cb52b3ae426d9a02f70104dff1974b9d0717006ee
 normalized_title_hash: bdac82c87702cd07
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
-- 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
+- 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 embedding_id: 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reports that bankers and investors are searching “every nook a
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su]]
+**Related:** [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Telegraph India
 url_original: https://www.telegraphindia.com/business/anther-researcher-quits-anthropic-over-ai-threat-to-humanity-but-mit-professor-says-problem-is-lack-of-alignment
 url_canonical: https://www.telegraphindia.com/business/anther-researcher-quits-anthropic-over-ai-threat-to-humanity-but-mit-professor-says-problem-is-lack-of-alignment
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 2c42373d76d181f26e7da2573039d69400db6347806cfa51eb90a5a4498bdc5c

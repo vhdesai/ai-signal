@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Yahoo Finance · xAI
 url_original: https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-bot-promise-230000414.html
 url_canonical: https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-bot-promise-230000414.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 99afcaf7b79831b88d282facd7ebdc6ebb6c0849457c2e175e85d2ff761afc74

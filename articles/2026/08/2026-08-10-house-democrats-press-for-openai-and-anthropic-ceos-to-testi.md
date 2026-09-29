@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
 url_canonical: https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: b92f366f7fc5c759428f7971453dae5159c128f4ad1171c7136ba3a5474da634
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
-- 2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-with-a-cle
+- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 embedding_id: 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A letter led by Rep. Greg Casar urges Speaker Mike Johnson to bring AI executive
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-with-a-cle]]
+**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]]
 <!-- graph:end -->

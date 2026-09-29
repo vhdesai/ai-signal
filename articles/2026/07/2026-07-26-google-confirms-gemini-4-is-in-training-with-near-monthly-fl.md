@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: 9to5Google
 url_original: https://9to5google.com/2026/07/26/google-gemini-4-teases/
 url_canonical: https://9to5google.com/2026/07/26/google-gemini-4-teases/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 285b33e5b21161f2089122efbdec8f93cbec16f0fc36e72a8c9a3d79daaf9e56
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
-- 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
+- 2026-09-25-google-plans-gemini-4-release-before-year-end
 embedding_id: 2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ On Alphabet's Q2 earnings call, Sundar Pichai said Google is "now training Gemin
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance]] · [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]]
+**Related:** [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance]] · [[2026-09-25-google-plans-gemini-4-release-before-year-end]]
 <!-- graph:end -->

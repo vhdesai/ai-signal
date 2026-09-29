@@ -5,8 +5,8 @@ title: 'Stanford HAI 2026 AI Index: SWE-Bench Near 100%, Enterprise Adoption Hit
 date: '2026-05-12'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 31e8bf18ff156ff37efb21c04309965759ce858bb5eb6d646800f6ff47f16d58

@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 url_canonical: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 5e87eb2fd8979d955af20ff6ab47a64428824a19dd47af8f3f86587aee04ffbd
 normalized_title_hash: 2ab3cab820a1fa9c

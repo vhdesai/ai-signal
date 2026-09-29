@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: Tom's Hardware
 url_original: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-built-16-air-defense-suppression-tools-using-claude
 url_canonical: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-built-16-air-defense-suppression-tools-using-claude
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: b8dcd837fa6016a73aa24499c962a932bf1d77465ed8d2fd6330ed7399f2c114

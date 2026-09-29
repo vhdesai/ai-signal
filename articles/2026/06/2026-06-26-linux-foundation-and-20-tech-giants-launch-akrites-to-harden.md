@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: SecurityWeek
 url_original: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
 url_canonical: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: e35759bfd04eab3f1bb05675036deeda76dce7947145ad8cd171107466353dfc

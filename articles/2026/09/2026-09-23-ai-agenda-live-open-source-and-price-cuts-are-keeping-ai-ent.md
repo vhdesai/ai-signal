@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: The Information
 url_original: https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-under-control
 url_canonical: https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-under-control
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 7fece05a1f63626c1c1ab8d976971e5c687baa684621720e628e76bb2074ece4
@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 - 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
+- 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
-- 2026-09-23-daily-ai-news-digest-september-24-2026
 embedding_id: 2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent
 event_name: ''
 ---
@@ -48,5 +48,5 @@ At The Information's AI Agenda Live conference, Replit CEO Amjad Masad said "the
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]] · [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]]
+**Related:** [[2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final]] · [[2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
 <!-- graph:end -->

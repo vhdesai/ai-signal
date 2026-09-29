@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
 url_canonical: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c39bd7890404d4a4908d3b490f299eeec1bd19ddb6fa36b2201b7cc8ba639da8
@@ -21,9 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
-- 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 embedding_id: 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
 event_name: ''
 ---
@@ -37,5 +35,5 @@ Oracle sent a force majeure notice to the developer of Project Jupiter, a Starga
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]]
+**Related:** [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]]
 <!-- graph:end -->

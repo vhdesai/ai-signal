@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-how-to-play-the-flood-of-ai-bonds
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 embedding_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Wall Street Journal reported that large technology companies are borrowing f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
+**Related:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]]
 <!-- graph:end -->

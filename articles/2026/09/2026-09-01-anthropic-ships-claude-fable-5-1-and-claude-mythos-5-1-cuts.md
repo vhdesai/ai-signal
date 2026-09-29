@@ -6,7 +6,7 @@ date: '2026-09-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/
 url_canonical: https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: e0566756b552350d29e595b8903740bc32c47ac5a8bbea765d259d35463fd97f
 normalized_title_hash: 312a77cdf4b50c99

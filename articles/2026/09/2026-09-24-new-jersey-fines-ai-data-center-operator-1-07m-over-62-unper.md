@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Ars Technica]
 url_original: https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/
 url_canonical: https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 54412ee1efc2008b503e862d7641a7c157b8c03cf5b5699f06d062eabe922a69

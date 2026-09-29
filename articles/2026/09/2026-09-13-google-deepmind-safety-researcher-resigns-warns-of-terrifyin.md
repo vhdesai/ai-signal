@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: Firstpost
 url_original: https://www.firstpost.com/tech/google-deepmind-researcher-quits-ai-safety-team-raises-alarm-over-risks-of-rampant-ai-development
 url_canonical: https://www.firstpost.com/tech/google-deepmind-researcher-quits-ai-safety-team-raises-alarm-over-risks-of-rampant-ai-development
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_065352_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 9a818188ec973f0f0042ff09239cbb95e2d32641bd84608de9b5bad9d3e648f1

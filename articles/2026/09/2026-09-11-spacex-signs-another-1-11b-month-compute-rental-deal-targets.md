@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Information
 url_original: https://www.theinformation.com/articles/spacex-signs-another-compute-deal-with-new-customer
 url_canonical: https://www.theinformation.com/articles/spacex-signs-another-compute-deal-with-new-customer
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: cffe7496d2be46e924bd087b77bec1e0b6513b469b83f89c2817b6b743ac8383

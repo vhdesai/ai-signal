@@ -4,8 +4,8 @@ title: Microsoft Copilot Studio Moves Computer-Use Agents to Enterprise GA
 date: '2026-05-22'
 source: Microsoft / VentureBeat
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/copilot/blog/copilot-studio/computer-using-agents-now-deliver-more-secure-ui-automation-at-scale/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071821_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ceae61bc253dce2c0edbdf3ed7de713c168c5298121f63b077de3257cdfe2f2e
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
+- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 embedding_id: 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft moved Copilot Studio's computer-use agents — agents that can drive d
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]]
+**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
 <!-- graph:end -->

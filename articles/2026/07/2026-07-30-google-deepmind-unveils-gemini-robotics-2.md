@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Engadget · Google DeepMind
 url_original: https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/
 url_canonical: https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: c272cabef7c1c31a1e8282dda23b17c50d8f252dea6dbbcb88cee0afc14e965d

@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/venture-curse-ai-exits-2026
 url_canonical: https://pitchbook.com/news/articles/venture-curse-ai-exits-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 54272ebb2595111c79c8b744db8bae879e5fd715210e352216945fe8c3be18aa

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
 url_canonical: https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 9eaa6f34c3049773e36d9a9df4d8dcf2d090e46e2bed1fd78417d7f49bbd7b2b
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 - 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 - 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
+- 2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
-- 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 embedding_id: 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ On Shopify's Q2 earnings call, President Harley Finkelstein reported that AI-dri
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit]]
+**Related:** [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr]] · [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]]
 <!-- graph:end -->

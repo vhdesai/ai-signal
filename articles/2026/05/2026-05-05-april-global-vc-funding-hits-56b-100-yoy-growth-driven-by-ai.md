@@ -4,8 +4,8 @@ title: April global VC funding hits $56B — 100% YoY growth driven by AI megade
 date: '2026-05-05'
 source: Crunchbase News
 url_original: null
-url_canonical: https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 2bcba5411ac45f0680d2ff67ebc5b748794155e83528c8787ac1758782349220

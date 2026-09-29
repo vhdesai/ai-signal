@@ -5,8 +5,8 @@ title: Fervo Energy pops 33% in IPO, fueled by AI data center demand — TechCru
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 260f225063429a2e664b818c358983b5a14e8b5c013cd0e080931a346ef896aa

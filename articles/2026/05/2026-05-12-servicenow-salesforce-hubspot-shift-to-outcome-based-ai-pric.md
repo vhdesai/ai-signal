@@ -4,8 +4,8 @@ title: ServiceNow, Salesforce, HubSpot Shift to Outcome-Based AI Pricing
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: https://www.revenuebrew.com/stories/saas-companies-outcome-based-pricing
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 8958ec5f317f29218882e31706414e98bfae6ab03942396646a84859c771ffd1

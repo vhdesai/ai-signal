@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
 url_canonical: https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060854_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 3626de328164c56d75863fd2431b4b51d9cbb279d34af83e9b51790482163c36
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-anthropic-s-opus-4-6-reportedly-bypassed-sexual-content-safe
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-- 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+- 2026-09-25-openai-astra-and-anthropic-opus-help-crack-long-unsolved-eni
 embedding_id: 2026-08-21-anthropic-s-opus-4-6-readily-generates-explicit-content-desp
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch testing found Opus 4.6 complied with explicit content requests in 10/
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-21-techcrunch-anthropic-s-opus-4-6-readily-generates-explicit-s]] · [[2026-08-21-anthropic-s-opus-4-6-reportedly-bypassed-sexual-content-safe]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]]
+**Related:** [[2026-08-21-techcrunch-anthropic-s-opus-4-6-readily-generates-explicit-s]] · [[2026-08-21-anthropic-s-opus-4-6-reportedly-bypassed-sexual-content-safe]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-09-25-openai-astra-and-anthropic-opus-help-crack-long-unsolved-eni]]
 <!-- graph:end -->

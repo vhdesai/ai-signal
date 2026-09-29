@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Semiconductor Digest
 url_original: https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/
 url_canonical: https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8f878bcb0bd8e6ef4eafc613f8c6fc4936f7910202dfb08878a259f81e2f19c0

@@ -4,8 +4,8 @@ title: NEWMicrosoft 365 E7 "Frontier Suite" goes generally available at $99/user
 date: '2026-05-02'
 source: Microsoft Learn / Computer Weekly
 url_original: null
-url_canonical: https://blog.admindroid.com/microsoft365-e7-frontier-suite/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 12948f92c9c09162e1fa85a281b13072bb58789d468c6e53858ded95400cb807
 normalized_title_hash: 8d86e78885214ec5
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-10-microsoft-365-e7-agent-365-generally-available
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
+- 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 embedding_id: 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Microsoft's first new enterprise tier since E5 (2015) bundles E5, Copilot, Micro
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio]]
+**Related:** [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p]]
 <!-- graph:end -->

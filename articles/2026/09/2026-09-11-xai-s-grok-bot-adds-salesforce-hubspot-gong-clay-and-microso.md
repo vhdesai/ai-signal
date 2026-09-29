@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: TeslaNorth
 url_original: https://teslanorth.com/2026/09/11/grok-bot-salesforce-hubspot-sales/
 url_canonical: https://teslanorth.com/2026/09/11/grok-bot-salesforce-hubspot-sales/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 22316d8327ef046a9b322457a496cd35a9470a86e4292963cde33760af493328

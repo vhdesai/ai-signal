@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: '[OpenAI]'
 url_original: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
 url_canonical: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 7a32744d29e04b8c5a1e74df325680d6abc9852a18e4a1ff5fe2128889cac0b5
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework
+- 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout
-- 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 embedding_id: 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI banned a cluster of ChatGPT accounts originating in Russia that used VPNs
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework]] · [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]] · [[2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery]]
+**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]]
 <!-- graph:end -->

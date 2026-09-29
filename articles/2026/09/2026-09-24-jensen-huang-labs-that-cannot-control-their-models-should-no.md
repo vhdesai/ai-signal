@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Yahoo Finance / Benzinga
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-070859198.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-070859198.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 9bce92df928fc170adad0f260368506abae02a3a395d4c78a6cd3df80fc24d04

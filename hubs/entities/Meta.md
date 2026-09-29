@@ -1,21 +1,54 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 816
+member_count: 849
 ---
 
 # Meta
 
-> Auto-generated entity hub. 816 connected article(s).
+> Auto-generated entity hub. 849 connected article(s).
 
+- `2026-09-28` [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta|WSJ: AI Usage Reaches 18.8% of Working-Age Population as Meta Pivots to Business Buyers]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi|Meta's Muse agent draws privacy and access backlash on multiple fronts]]
+- `2026-09-28` [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome|Meta pushes to monetize AI spending through business customers]]
+- `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen|OpenAI and Anthropic are reviewing tens of thousands of agent security incidents]]
+- `2026-09-27` [[2026-09-27-openai-and-anthropic-reviewing-tens-of-thousands-of-agent-bo|OpenAI and Anthropic Reviewing Tens of Thousands of Agent Boundary Violations — Including Probes of US Federal Sites]]
+- `2026-09-27` [[2026-09-27-meta-s-muse-reportedly-has-a-one-click-vulnerability-smart-g|Meta's Muse reportedly has a one-click vulnerability; smart-glasses privacy toggle in dispute]]
+- `2026-09-27` [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine|Meta's Muse Agent Faces Trust Scrutiny After Virtual Machine Vulnerability]]
+- `2026-09-27` [[2026-09-27-google-tests-flipkart-purchasing-directly-through-gemini-and|Google Tests Flipkart Purchasing Directly Through Gemini and AI Mode in India]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct|Goldman Sachs: hyperscalers will spend $1.2T on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i|Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1|Goldman Sachs Lifts 2027 Hyperscaler AI Capex Forecast to $1.2 Trillion — "Largest Since the Railroads"]]
+- `2026-09-27` [[2026-09-27-can-muse-overcome-meta-s-trust-issues|Can Muse overcome Meta's trust issues?]]
+- `2026-09-26` [[2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash|The Weekend: keeping Meta’s Muse on a short leash]]
 - `2026-09-26` [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain|Meta Connect wrap: AI glasses everywhere, Muse Charm keychain gadget, months-long Muse push]]
+- `2026-09-26` [[2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v|Meta Adds an Explicit Safety Warning to Muse After a SEV-2 VM Vulnerability Is Disclosed Through Bug Bounty]]
+- `2026-09-26` [[2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner|Meta Adds Explicit Safety Warning to Muse After SEV-2 Vulnerability in User Virtual Machines]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-26` [[2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio|GPT-6 Astra hits 80% on the IKEA furniture-assembly evaluation benchmark]]
+- `2026-09-26` [[2026-09-26-daily-ai-news-digest-september-27-2026|Daily AI News Digest – September 27, 2026]]
+- `2026-09-26` [[2026-09-26-daily-ai-news-digest-september-26-2026|Daily AI News Digest – September 26, 2026]]
 - `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
+- `2026-09-26` [[2026-09-26-at-meta-connect-smart-glasses-were-everywhere|At Meta Connect, smart glasses were everywhere]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single|Microsoft packages work, code, and custom agents into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
+- `2026-09-25` [[2026-09-25-meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-ag|Meta unveils Muse Charm, a keychain device for its Muse AI agent]]
+- `2026-09-25` [[2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c|Meta shares extend rally as Muse outpaces ChatGPT's launch curve]]
+- `2026-09-25` [[2026-09-25-meta-opens-early-access-program-for-new-muse-features|Meta opens early-access program for new Muse features]]
+- `2026-09-25` [[2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin|Meta Muse opens early-access program, gets full Meta marketing push behind it]]
 - `2026-09-25` [[2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute|Meta Muse gives every user a full Ubuntu Linux cloud computer]]
 - `2026-09-25` [[2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual|Meta Connect: $1,300 Meta VR Glasses with eye tracking, virtual workspaces, and Muse integration]]
+- `2026-09-25` [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe|Anthropic's founders move to lock in 50.1% voting control ahead of IPO]]
 - `2026-09-24` [[2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel|Sakana AI hires Jürgen Schmidhuber to lead new Recursive Self-Improvement Lab]]
 - `2026-09-24` [[2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses|PrismML brings tiny LLMs to Qualcomm-powered smart glasses]]
 - `2026-09-24` [[2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato|OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division]]

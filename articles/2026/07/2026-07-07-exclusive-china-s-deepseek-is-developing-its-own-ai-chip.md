@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 549780f50dcd8ccc33450827c0106bb3447130053fc5151753a971a5ebd1b84d

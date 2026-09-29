@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Unite.AI
 url_original: https://www.unite.ai/harvey-secures-550m-in-fresh-funding-valuation-climbs-to-15-5b/
 url_canonical: https://www.unite.ai/harvey-secures-550m-in-fresh-funding-valuation-climbs-to-15-5b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 5cd67f125aec44b677ac82974d148f636d5633e3a7d091c0011a0e878f0a5e74
 normalized_title_hash: cae4b24a67e4fdae

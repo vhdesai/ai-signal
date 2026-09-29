@@ -4,8 +4,8 @@ title: DeepSeek Raising $10B — Founder Pledges AGI Mission Over Commercializat
 date: '2026-05-22'
 source: Bloomberg / Yahoo Finance
 url_original: null
-url_canonical: https://7minai.com/news/deepseek-10b-financing/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: c1a6f9c3b9fbb2e07e82cd773b173c466f4caad2678c227c6ad8fee2624d1e71

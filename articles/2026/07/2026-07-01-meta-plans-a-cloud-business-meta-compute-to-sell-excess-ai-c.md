@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
-- 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 embedding_id: 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta is drawing up plans for a cloud venture that would sell outside customers a
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]]
+**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
 <!-- graph:end -->

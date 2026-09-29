@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Wired
 url_original: https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/
 url_canonical: https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: c9aabaaa227c55f8f855ffe30f0297412eff57129c8ff8b77120bde2f47d12a9
 normalized_title_hash: dee0d940bee61cfc

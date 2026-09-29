@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/googles-open-source-envharness-lets-ai-agents-train-against-environments-that-evolve-with-them
 url_canonical: https://venturebeat.com/orchestration/googles-open-source-envharness-lets-ai-agents-train-against-environments-that-evolve-with-them
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 04b3d9b0140de5c43d7990ef600787a8ad516da5ad764cc5ded01dc4e56bdf3b

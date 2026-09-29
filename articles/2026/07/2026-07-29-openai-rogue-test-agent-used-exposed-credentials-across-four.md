@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html
 url_canonical: https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 8c2db21d94f7141547014909ec3491557a3c2b8d47227323ae85ff26e4f066b0

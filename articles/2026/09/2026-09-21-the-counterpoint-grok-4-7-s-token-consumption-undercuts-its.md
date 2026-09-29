@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/grok-4-7-pairs-coding-gains-with-the-same-affordable-pricing-but-high-token-consumption-threatens-real-world-roi
 url_canonical: https://venturebeat.com/technology/grok-4-7-pairs-coding-gains-with-the-same-affordable-pricing-but-high-token-consumption-threatens-real-world-roi
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 8a2a6ca17b6a88d1f98109ea82d8c03b0398860ab7d46e6834d7c9788c9dc58d

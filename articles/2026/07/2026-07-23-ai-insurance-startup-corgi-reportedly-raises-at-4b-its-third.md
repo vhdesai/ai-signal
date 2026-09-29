@@ -6,7 +6,7 @@ date: '2026-07-23'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/
 url_canonical: https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 73241f91aec0a4bcd53fc2f869cc3be36d042b8fe6653c86dc622cbb46f92385
 normalized_title_hash: 5a34f56c7c7911ac

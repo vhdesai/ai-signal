@@ -4,8 +4,8 @@ title: 'Meta + Stanford Propose Fast Byte Latent Transformer: 50%+ Inference Spe
 date: '2026-05-12'
 source: The Decoder
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: f42a6dc8ccd06aff9600f44a79ffcd03b4184e3349866493dbd1af071b5e45d8
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
+- 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
-- 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 embedding_id: 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta AI and Stanford researchers unveiled a Fast Byte Latent Transformer that re
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]]
+**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]] · [[2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform]] · [[2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper]]
 <!-- graph:end -->

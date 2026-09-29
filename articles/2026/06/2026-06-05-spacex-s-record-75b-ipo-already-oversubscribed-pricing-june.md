@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 6b96bfc25a54ac405a98e71cfef6a2ada34ff8a8043d2f7e98e433097fc97a99

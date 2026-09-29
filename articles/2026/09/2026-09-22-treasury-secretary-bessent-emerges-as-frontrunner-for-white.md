@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Semafor
 url_original: https://www.yahoo.com/news/politics/articles/bessent-eyed-trump-ai-czar-175520203.html
 url_canonical: https://www.yahoo.com/news/politics/articles/bessent-eyed-trump-ai-czar-175520203.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 1312dd86cdf7d0d2076b9289d846cbfef8f94a0d766c5b6a4879c00acfc378ec

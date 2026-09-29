@@ -4,8 +4,8 @@ title: Hot Meta Announces $600B AI Investment Commitment
 date: '2026-04-21'
 source: Fox Business / AI Flash Report
 url_original: null
-url_canonical: https://www.businessinsider.com/meta-600-billion-us-investment-ai-infrastructure-data-center-jobs-2025-11
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 632f7abaeee17acc62589d50769f8d13b71b38b973f030b558917755f31d8d56
@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
-- 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
 embedding_id: 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Meta unveiled a $600B AI investment plan anchored by its new Muse Spark model, p
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]]
+**Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]]
 <!-- graph:end -->

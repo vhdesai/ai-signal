@@ -1,19 +1,57 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1553
+member_count: 1591
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1553 connected article(s).
+> Auto-generated entity hub. 1591 connected article(s).
 
+- `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest|Nvidia authorizes an additional $150B in buybacks, the largest increase on record]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai|Nvidia authorizes an additional $150B in buybacks — total remaining authorization hits $235B]]
+- `2026-09-28` [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the|Nvidia authorises an additional $150B in buybacks, raising the program to $235B]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc|Nvidia Authorizes Additional $150 Billion Buyback, Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its|CMU's Block Center for Technology and Society announced its new director, explicitly framing the appointment as a "tech policy at a crossroads" moment. The center has been influential on autonomous-systems governance, and the timing — the same day the Pentagon-Anthropic ruling and the Trump-Amodei dinner lead the news — reinforces academic policy centers as the honest broker between labs and Washington.]]
+- `2026-09-27` [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f|xAI's Colossus 2 on Track to Roughly Double Its Nvidia GPU Fleet by Year-End]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum|Stanford and Caltech wire a frontier model directly to a humanoid, skipping the learned control layer]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp|Stanford and Caltech drive a humanoid robot directly with GPT-6 Astra]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control|Stanford and Caltech Put a Frontier VLM Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter|Nvidia releases Nemotron 3 Diarization, a free 100M-parameter real-time speaker-ID model]]
+- `2026-09-27` [[2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust|How to know when the AI boom is about to go bust]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia|Beijing signals it may let Alibaba and ByteDance buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases|Beijing Signals Approvals for Nvidia RTX Pro 5500 Purchases; ByteDance Weighs ~1M Units]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-shortsellers-aren-t-re|The Information: Why Wall Street’s Big Shortsellers Aren’t Ready to Bet Against AI — Yet]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready|The Information: Why Wall Street's big, bad bears aren't ready to short AI yet]]
+- `2026-09-26` [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn|Nvidia's SoL-Pi cuts coding-agent token usage by ~49% via harness optimization]]
+- `2026-09-26` [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-vi|Nvidia's SoL-Pi cuts coding-agent token usage by up to 49% via harness optimization]]
+- `2026-09-26` [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe|Nvidia's SoL-Pi cuts coding-agent token usage by up to 49 percent]]
 - `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
+- `2026-09-26` [[2026-09-26-lg-electronics-qualifies-2-6-mw-cooling-distribution-unit-fo|LG Electronics qualifies 2.6 MW cooling distribution unit for NVIDIA DSX AI infrastructure]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-26` [[2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute|AWS tells engineers to conserve CPU capacity amid AI compute crunch; Oracle delays New Mexico rent]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-us-china-ai-rivalry-moves-to-standards-setting-with-nvidia-i|US–China AI rivalry moves to standards-setting, with Nvidia in the middle]]
 - `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
+- `2026-09-25` [[2026-09-25-stanford-and-nvidia-release-clm-8b-caching-reusable-agent-ac|Stanford and NVIDIA release CLM-8B, caching reusable agent actions for faster execution]]
+- `2026-09-25` [[2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have|Ricursive Intelligence: ex-AlphaChip leads raise $335M to have AI design its own hardware]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
 - `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead|Nscale secures $3.36B in pre-IPO convertible financing ahead of NYSE listing]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe|Nscale secures $3.36B convertible from Third Point, Nvidia ahead of US IPO]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head|Musk says xAI's Colossus runs ~780,000 Nvidia processors, heading toward 1.44M GPUs]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4|Musk says xAI's Colossus now runs ~780,000 Nvidia GPUs, with 440,000 more due by October]]
 - `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-cognition-crosses-1b-annualized-revenue-run-rate|Cognition crosses $1B annualized revenue run rate]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]

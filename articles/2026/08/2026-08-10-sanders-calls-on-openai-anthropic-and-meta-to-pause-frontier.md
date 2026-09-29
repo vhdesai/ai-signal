@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Axios]'
 url_original: https://www.axios.com/2026/08/10/sanders-ai-development-pause
 url_canonical: https://www.axios.com/2026/08/10/sanders-ai-development-pause
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: dbc8d906f34cd5dfc3b89c574f08ddf155397f272492202147796670acdfc02d

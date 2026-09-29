@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message
 url_canonical: https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 52605e5e1ce7ff678a40c18c63cce8aaf7c9a7e5c08f7b0a49a6008c0a190c95
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
-- 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 embedding_id: 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NanoCo, maker of the open-source agent harness NanoClaw, launched a Slack integr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl]]
+**Related:** [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts]] · [[2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen]] · [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]] · [[2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
 <!-- graph:end -->

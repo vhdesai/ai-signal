@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: UC Berkeley AI Research announcement
 url_original: https://abc.bot/
 url_canonical: https://abc.bot/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: b38cf2940cb2248155562a74c43c2e9290a88bdd27caed87b0d3d8d983e5e21f
@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
+- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
+- 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 embedding_id: 2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed
 event_name: ''
 ---
@@ -36,5 +37,5 @@ ABC is a fully open-source behavior-cloning stack for bimanual manipulation, bui
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
+**Related:** [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

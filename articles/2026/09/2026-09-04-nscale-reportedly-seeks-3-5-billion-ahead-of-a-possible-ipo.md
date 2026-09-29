@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
 url_canonical: https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 782419c3ea76f15afb0f1028f4596c3516d63fb0226668512531c9dab57e0922
@@ -22,8 +22,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
-- 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 embedding_id: 2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nscale is discussing $1.5 billion in convertible notes and another $2 billion in
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev]]
+**Related:** [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]]
 <!-- graph:end -->

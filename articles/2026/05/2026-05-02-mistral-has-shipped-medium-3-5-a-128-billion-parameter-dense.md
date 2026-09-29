@@ -5,8 +5,8 @@ title: Mistral has shipped Medium 3.5, a 128-billion-parameter dense merged mode
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://letsdatascience.com/blog/mistral-medium-3-5-128b-open-weight-merged-model
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 2f8ecaf62fe741f9a4e971790d690caf79705e8d72d5028e09ac4f2e48e69df0
 normalized_title_hash: 220451fcd0ef5e47

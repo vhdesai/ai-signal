@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: University of Washington
 url_original: https://www.washington.edu/news/2026/09/23/directhop-hopping-robot/
 url_canonical: https://www.washington.edu/news/2026/09/23/directhop-hopping-robot/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 1d845f2d65a194c7c925f62d67c622d30598cf517ca6a1e2b61756d17b531cb6
@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
-- 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
-- 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
+- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
+- 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 embedding_id: 2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UW's Autonomous Insect Robotics Lab demonstrated "DirectHop," a grasshopper-insp
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]]
+**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]]
 <!-- graph:end -->

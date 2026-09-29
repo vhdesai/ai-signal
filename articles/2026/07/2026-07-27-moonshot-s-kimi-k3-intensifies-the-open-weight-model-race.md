@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CMSWire · The Information
 url_original: https://www.cmswire.com/digital-experience/everything-you-need-to-know-about-kimi-k3/
 url_canonical: https://www.cmswire.com/digital-experience/everything-you-need-to-know-about-kimi-k3/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 97b3c2fc8af7992f07dc8c1a003b44a32323d7c519824759dd95badd623ec179
 normalized_title_hash: 4fee14ac89e1e413

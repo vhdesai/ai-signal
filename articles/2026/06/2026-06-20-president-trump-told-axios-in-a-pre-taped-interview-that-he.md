@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-- 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
-- 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
+- 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
+- 2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit
 embedding_id: 2026-06-20-president-trump-told-axios-in-a-pre-taped-interview-that-he
 event_name: ''
 ---
@@ -37,5 +37,5 @@ President Trump told Axios in a pre-taped interview that he no longer considers 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]]
+**Related:** [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Saxo
 url_original: https://www.home.saxo/content/articles/equities/adobe-oracle-preview-07092026
 url_canonical: https://www.home.saxo/content/articles/equities/adobe-oracle-preview-07092026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 2cf4fdd71b37773a346fd6313384515cc8bef089c8e9aa270dd454db5788e231

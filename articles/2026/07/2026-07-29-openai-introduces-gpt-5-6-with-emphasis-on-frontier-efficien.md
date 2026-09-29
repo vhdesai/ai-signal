@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/
 url_canonical: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: f64803d4b9da92e3d8396edecd44ea57fa00a18486cf7edbb842ba585ead02c2

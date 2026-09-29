@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Free Press Journal
 url_original: https://www.freepressjournal.in/tech/xi-jinping-to-make-first-appearance-at-chinas-flagship-ai-summit-as-rivalry-with-us-intensifies
 url_canonical: https://www.freepressjournal.in/tech/xi-jinping-to-make-first-appearance-at-chinas-flagship-ai-summit-as-rivalry-with-us-intensifies
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 6e81b5dc19224346a323ff77d5572cb42b8380c45b8167e7fb1b3b04d646591a

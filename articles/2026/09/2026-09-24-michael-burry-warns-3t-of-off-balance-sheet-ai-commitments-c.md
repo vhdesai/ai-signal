@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Yahoo Finance / Bloomberg]
 url_original: https://finance.yahoo.com/news/michael-burry-3-trillion-ai-off-balance-sheet-big-tech
 url_canonical: https://finance.yahoo.com/news/michael-burry-3-trillion-ai-off-balance-sheet-big-tech
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 335e8587566952b32dc5f17a8c7d071e53b01b4ee7cf6d56c4d92701dbba2ba5

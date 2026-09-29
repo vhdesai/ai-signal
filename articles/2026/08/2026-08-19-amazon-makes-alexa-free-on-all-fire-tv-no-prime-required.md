@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/
 url_canonical: https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 32c1f31ad7fed70ae868a675fbb79f7ec3676f8033bde598c9c32f7470d6c471
 normalized_title_hash: f3d0b246b3014d03

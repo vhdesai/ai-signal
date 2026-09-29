@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-04-02-academic-research
+- 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-- 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cornell researchers released data from press releases circulated May 10–11 sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-04-02-academic-research]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]]
+**Related:** [[2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter]] · [[2026-04-02-academic-research]] · [[2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]]
 <!-- graph:end -->

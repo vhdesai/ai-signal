@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Variety
 url_original: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
 url_canonical: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 9105ff84bad501b16f518ab243422886d980611fba70997fb0fb0b03fb8808b7

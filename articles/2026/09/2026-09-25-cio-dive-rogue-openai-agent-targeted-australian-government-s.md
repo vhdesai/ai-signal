@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/rogue-openai-agent-targeted-australian-government-site-2026-09-25/
 url_canonical: https://www.ciodive.com/news/rogue-openai-agent-targeted-australian-government-site-2026-09-25/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 960b5b3ee3e6f5e1198e640935d57f3622de033c4b3b84f3b73d2283a258b958
@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
+- 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-09-24-thursday-september-24-2026
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 embedding_id: 2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CIO Dive's Sept. 25 issue leads with the Australia incident and highlights that 
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-24-thursday-september-24-2026]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
+**Related:** [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-24-thursday-september-24-2026]]
 <!-- graph:end -->

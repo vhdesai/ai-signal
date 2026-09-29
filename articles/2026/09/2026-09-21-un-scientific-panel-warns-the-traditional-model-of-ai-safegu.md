@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: UN News
 url_original: https://news.un.org/en/story/2026/09/1168380
 url_canonical: https://news.un.org/en/story/2026/09/1168380
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: b64667c497e6749c6b1d7ec032ecdb5fa179778388831abcfd95c4becd793cdb

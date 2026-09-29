@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: OpenAI
 url_original: https://openai.com/index/perplexity-improving-accuracy-with-astra
 url_canonical: https://openai.com/index/perplexity-improving-accuracy-with-astra
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 71ba7a7064762cb5dd0b7d7254c3152871cb0f6b31191a89b982e92e811ac1ac

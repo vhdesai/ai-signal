@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: MIT Technology Review
 url_original: https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
 url_canonical: https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 61cc580046a88a76a7e3c2070c210748a4b84af9e764e83737cbeb372d6a4540

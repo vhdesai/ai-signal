@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: MarkTechPost]
 url_original: https://www.marktechpost.com/2026/09/21/nvidia-sol-pi-ai-discovered-harness-optimizations-coding-agents/
 url_canonical: https://www.marktechpost.com/2026/09/21/nvidia-sol-pi-ai-discovered-harness-optimizations-coding-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 6b7657c23bb48956596b4fb3c92a49eb1a56aa331980c56b7502311d533e4569
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe
+- 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
+- 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-vi
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-- 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
-- 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 embedding_id: 2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Researchers from NVIDIA, NTU, and MIT released SoL-Pi, four harness-level effici
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]]
+**Related:** [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn]] · [[2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-vi]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]]
 <!-- graph:end -->

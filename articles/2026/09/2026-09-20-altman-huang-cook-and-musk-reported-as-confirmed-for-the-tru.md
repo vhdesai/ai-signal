@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Eastern Herald
 url_original: https://easternherald.com/2026/09/20/altman-huang-cook-musk-trump-xi-white-house-ai-summit/
 url_canonical: https://easternherald.com/2026/09/20/altman-huang-cook-musk-trump-xi-white-house-ai-summit/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: f738ac2560f0476f6bd8cbabaf4b1627c5fbac9243a62c140be16f6413331713
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
+- 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
-- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-- 2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi
+- 2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit
 embedding_id: 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Eight senior technology executives — reportedly including Sam Altman, Jensen H
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi]]
+**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit]]
 <!-- graph:end -->

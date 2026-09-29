@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/327363/20260911/enflame-soars-star-market-debut-holds-just-17-china-ai-chip-market.htm
 url_canonical: https://www.techtimes.com/articles/327363/20260911/enflame-soars-star-market-debut-holds-just-17-china-ai-chip-market.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 485820e71ace5ae1a3bd0734e35615893c917573113cea7dd5df93563be5d92e

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 3d31346647146e97b8e751e4d5d9174df762c5695c01cc968488fec64c3159df

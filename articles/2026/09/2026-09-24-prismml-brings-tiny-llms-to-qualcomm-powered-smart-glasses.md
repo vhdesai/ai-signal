@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/
 url_canonical: https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 88c89a41df42fe5c617c1f31fed51a90921c09ce6dbfd40117e6faa2d2814b17
@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-at-meta-connect-smart-glasses-were-everywhere
 - 2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia
 - 2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas
 - 2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language
@@ -37,5 +38,5 @@ Prism's compressed open-weight language models are now running on Qualcomm's Sna
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia]] · [[2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas]] · [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
+**Related:** [[2026-09-26-at-meta-connect-smart-glasses-were-everywhere]] · [[2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia]] · [[2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas]] · [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
 <!-- graph:end -->

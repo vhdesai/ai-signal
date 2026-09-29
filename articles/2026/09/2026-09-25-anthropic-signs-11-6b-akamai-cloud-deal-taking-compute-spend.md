@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/
 url_canonical: https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: a94287d625e3f432c9f10015d4a333a4cc2ff94e5f02878ac49caf84846d5697
@@ -23,13 +23,9 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
-- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
-- 2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first
-- 2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives
+dedupe_status: duplicate
+canonical_article_id: 2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap
+related_article_ids: []
 embedding_id: 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
 event_name: ''
 ---
@@ -43,5 +39,5 @@ Anthropic reportedly inked a seven-year, $11.6B cloud contract with Akamai and w
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives]]
+**Canonical:** [[2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Banking Dive
 url_original: https://www.bankingdive.com/news/stripe-openrouter-acquisition-ai-7-billion/828357/
 url_canonical: https://www.bankingdive.com/news/stripe-openrouter-acquisition-ai-7-billion/828357/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 517f2769b9e6e808bb0c637087eebc3fefe28370eb1fabcf42777506d89eebcc

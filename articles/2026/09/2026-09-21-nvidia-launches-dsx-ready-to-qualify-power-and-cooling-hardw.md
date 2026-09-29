@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
 url_canonical: https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 15908c79266235fc38717bed5d6b6776bb8a0bfd0fabbf05dc875885e1a2c98e

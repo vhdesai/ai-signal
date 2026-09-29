@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: Microsoft**
 url_original: https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/
 url_canonical: https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: f762d892b781cef73a4ac6764b067e8bae5f4e411ae35193b4b25919bf11c2fb
 normalized_title_hash: 2a5960e28e311b1e

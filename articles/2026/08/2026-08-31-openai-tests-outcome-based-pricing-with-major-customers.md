@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+outcome+based+pricing
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI+outcome+based+pricing
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 4e5fae8a7e289dd15c6ee3058fb104002cda5621aeee93665985751d77663700
 normalized_title_hash: 44f70b2389c1dfd8

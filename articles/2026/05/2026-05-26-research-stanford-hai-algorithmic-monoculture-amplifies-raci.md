@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Stanford HAI / arXiv
 url_original: https://hai.stanford.edu/
 url_canonical: https://hai.stanford.edu/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 0ac996d3aa317e3b5fd085233dc4b2d90365d44c00e6e53e6ae906d14e3df5f8

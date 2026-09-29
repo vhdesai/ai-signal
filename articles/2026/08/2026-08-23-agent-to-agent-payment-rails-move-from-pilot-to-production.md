@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Blockonomi
 url_original: https://blockonomi.com/ai-agents-are-now-using-crypto-to-pay-their-own-bills-and-its-just-getting-started/
 url_canonical: https://blockonomi.com/ai-agents-are-now-using-crypto-to-pay-their-own-bills-and-its-just-getting-started/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: c7596b414a13cffe18e246132adca6b5329a910de819dd9083b3084f92e55899
 normalized_title_hash: 1ebbe2272709110d

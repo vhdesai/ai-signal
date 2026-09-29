@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: Unite.AI
 url_original: https://www.unite.ai/salesforce-aws-ai-integration-slack-amazon-quick/
 url_canonical: https://www.unite.ai/salesforce-aws-ai-integration-slack-amazon-quick/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: d00c7f9153836eaead252d528bf3bad2ab0028add0a165eb089575150e8b5f12
 normalized_title_hash: f11fea73c5a1c525

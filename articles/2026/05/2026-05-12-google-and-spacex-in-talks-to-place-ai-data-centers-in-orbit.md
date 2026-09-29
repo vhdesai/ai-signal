@@ -4,8 +4,8 @@ title: Google and SpaceX in talks to place AI data centers in orbit
 date: '2026-05-12'
 source: TechCrunch Daily
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 14800b36712382d237ad5adf19394920d8999ca001a9e483444a98c7468c1262

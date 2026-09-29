@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-oracle-layoffs-2026-9
 url_canonical: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-oracle-layoffs-2026-9
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 30e3a67aeee981bd3a971b3fe3339bdf9439e72875fe178fd346b122c4b4f12c
@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
+- 2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready
 - 2026-09-14-monday-september-14-2026
-- 2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices
 embedding_id: 2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Business Insider's Dan DeFrancesco argues the coordinated Amodei/Altman/Musk slo
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-14-software-stocks-rally-chip-stocks-sell-off-as-market-prices]]
+**Related:** [[2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready]] · [[2026-09-14-monday-september-14-2026]]
 <!-- graph:end -->

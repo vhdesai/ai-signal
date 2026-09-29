@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: VentureBeat
 url_original: https://venturebeat.com/security/why-ai-shouldnt-be-the-one-repairing-your-data-pipelines
 url_canonical: https://venturebeat.com/security/why-ai-shouldnt-be-the-one-repairing-your-data-pipelines
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 281127ddd9fa987e283b1b69ed7459977c8d26a30b6d31699ceeadcfd5983951
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-- 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 embedding_id: 2026-09-13-ai-auto-remediation-in-data-pipelines-faces-reliability-limi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ VentureBeat argued that AI-driven anomaly detection can help identify data-pipel
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe]] · [[2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]] · [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]]
+**Related:** [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe]] · [[2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]]
 <!-- graph:end -->

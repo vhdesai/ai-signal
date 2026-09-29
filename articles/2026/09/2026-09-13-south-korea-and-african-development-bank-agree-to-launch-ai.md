@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Rio Times
 url_original: https://www.riotimesonline.com/korea-africa-ai-hub-seoul-summit-2026/
 url_canonical: https://www.riotimesonline.com/korea-africa-ai-hub-seoul-summit-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_060533_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: b85a50acfae481942e163d897b8c37212b2bcb6c67a43636a929045e6ef06d91

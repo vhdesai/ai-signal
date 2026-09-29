@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
 url_canonical: https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 2487c9440461b5f3eab195eabc8c9cdd99c470d31a6bb0bd40cde906975450a6

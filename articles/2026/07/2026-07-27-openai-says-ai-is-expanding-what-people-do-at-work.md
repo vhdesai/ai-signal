@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/
 url_canonical: https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 1e454420817230e7af963decfa958d090c2198f55ad56a5e2f7ee045568d0093

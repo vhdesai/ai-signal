@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Quasa.io
 url_original: https://quasa.io/en/media/meta-stilla-ai-acquisition-business-agent-commerce
 url_canonical: https://quasa.io/en/media/meta-stilla-ai-acquisition-business-agent-commerce
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_065352_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 42c1cb2a89868ec1f95e6fd52ff04caf18b836810f87e5322fd2678120395f69

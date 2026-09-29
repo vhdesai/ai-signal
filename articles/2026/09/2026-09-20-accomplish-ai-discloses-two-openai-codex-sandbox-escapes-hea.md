@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: BleepingComputer
 url_original: https://www.bleepingcomputer.com/news/security/openai-codex-heapjack-overpatch-sandbox-escapes-2026
 url_canonical: https://www.bleepingcomputer.com/news/security/openai-codex-heapjack-overpatch-sandbox-escapes-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: de1a710eeea1fde49b391dcdb1400cc260360461ce85c7005070867f185bfb3e

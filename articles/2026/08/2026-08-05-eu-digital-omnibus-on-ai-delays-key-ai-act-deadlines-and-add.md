@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: JD Supra
 url_original: https://www.jdsupra.com/legalnews/digital-ai-omnibus-delays-key-deadlines-1900131/
 url_canonical: https://www.jdsupra.com/legalnews/digital-ai-omnibus-delays-key-deadlines-1900131/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 40809cae8c51a2988eeadfa29f046a7a2b3e6509b8d303cf9e5c3195508a7fd4

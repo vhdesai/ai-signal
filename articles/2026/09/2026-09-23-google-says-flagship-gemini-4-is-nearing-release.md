@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Information
 url_original: https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model
 url_canonical: https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 6f979565467ebd26b03fd285046704fa92032ab7037e764473d0b2279d0e7ebd
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say
 - 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
+- 2026-09-25-google-plans-gemini-4-release-before-year-end
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
-- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
-- 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
+- 2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea
 embedding_id: 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Koray Kavukcuoglu, in his first media appearance as the new head of Google DeepM
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]]
+**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]] · [[2026-09-25-google-plans-gemini-4-release-before-year-end]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea]]
 <!-- graph:end -->

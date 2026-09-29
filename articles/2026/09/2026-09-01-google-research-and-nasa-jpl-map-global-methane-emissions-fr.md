@@ -6,7 +6,7 @@ date: '2026-09-01'
 source: Google Research
 url_original: https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/
 url_canonical: https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: 80efa60a6a36026c28647a66da8ae21efa1cd87e2619df6114de726e017e0cea
 normalized_title_hash: 0dc673c2273f204a

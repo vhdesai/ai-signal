@@ -6,7 +6,7 @@ date: '2026-06-08'
 source: Wired
 url_original: https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/
 url_canonical: https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: c9c4a78b3b9e5486ac67af57d39981bb7500524ff1092d5309909e473327d935
 normalized_title_hash: 938005fa4fe293d4

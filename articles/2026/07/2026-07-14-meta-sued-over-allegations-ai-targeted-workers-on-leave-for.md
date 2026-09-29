@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Fox Business
 url_original: https://www.foxbusiness.com/technology/meta-employees-sue-allegations-company-used-ai-target-workers-medical-parental-leave-layoffs
 url_canonical: https://www.foxbusiness.com/technology/meta-employees-sue-allegations-company-used-ai-target-workers-medical-parental-leave-layoffs
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 83940b6d86d9a5e71af2f4739875350e2541622493dfa007164f7d9420e5e121
 normalized_title_hash: 1ead28ec649307f3

@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: FinanceFeeds
 url_original: https://financefeeds.com/oracle-orcl-earnings-cloud-62-percent-rpo-664-billion/
 url_canonical: https://financefeeds.com/oracle-orcl-earnings-cloud-62-percent-rpo-664-billion/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 6407042c5929e500ae4360b0ee8c2847d6031075fd50e579aa7b75eb94cb6969

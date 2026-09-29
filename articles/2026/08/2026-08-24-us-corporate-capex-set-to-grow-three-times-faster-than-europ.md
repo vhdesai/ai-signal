@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Financial Times
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: d59416631041bdd6ec709cc71cf3a6976a564f697fc449700cb9bde51839f8fa
@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
+- 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
 embedding_id: 2026-08-24-us-corporate-capex-set-to-grow-three-times-faster-than-europ
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Oxford Economics data cited by the FT shows US corporate spending on equipment a
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct]]
 <!-- graph:end -->

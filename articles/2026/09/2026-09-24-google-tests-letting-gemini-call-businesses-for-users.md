@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-google-tests-letting-gemini-call-businesses-for-users
 - 2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on
 - 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
@@ -35,5 +36,5 @@ TechCrunch reported that Google is testing a Gemini capability that can call bus
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on]] · [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
+**Related:** [[2026-09-25-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on]] · [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
 <!-- graph:end -->

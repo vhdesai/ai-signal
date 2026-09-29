@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 83
+member_count: 89
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 83 connected article(s).
+> Auto-generated entity hub. 89 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-27` [[2026-09-27-google-tests-buying-from-flipkart-directly-through-gemini-an|Google tests buying from Flipkart directly through Gemini and AI Mode in India]]
+- `2026-09-26` [[2026-09-26-exa-launches-agent-ultra-a-subagent-swarm-deep-research-api|Exa launches Agent Ultra, a subagent-swarm deep-research API]]
+- `2026-09-25` [[2026-09-25-perplexity-trains-its-computer-use-agent-on-its-own-failures|Perplexity trains its computer-use agent on its own failures]]
+- `2026-09-25` [[2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h|Perplexity trains its computer agent on real mistakes with hint-guided self-distillation]]
 - `2026-09-22` [[2026-09-22-amazon-s-block-on-meta-s-muse-agent-opens-the-agentic-commer|Amazon's block on Meta's Muse agent opens the agentic-commerce governance fight]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-palo-alto-networks-ceo-calls-it-a|Amazon blocks Meta's Muse; Palo Alto Networks CEO calls it "a bigger battle than anyone anticipates"]]
 - `2026-09-22` [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss|Amazon Blocks Meta's Muse Agent, Opening the Platform-Permission Fight]]

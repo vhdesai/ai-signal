@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html
 url_canonical: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 6b665ab5a4fee394192738d015e6c535ec7d4bf2004d971a85073070dd4976e8
 normalized_title_hash: 2e75e3c18187bec1

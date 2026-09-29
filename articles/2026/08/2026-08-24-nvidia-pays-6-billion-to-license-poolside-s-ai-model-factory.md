@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: b0e06785ee1826fc41d6eacf2de5f137e87c17fb5a41e730929b00bd5ab33a5d

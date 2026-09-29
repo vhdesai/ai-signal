@@ -5,7 +5,7 @@ date: '2026-05-10'
 source: Carnegie Mellon University
 url_original: https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/
 url_canonical: https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 7d9a244efe05f687a67c6ed3996d6ee8a95974b7b8608cfd259abc0a547bc6bb

@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: Bloomberg / Associated Press**
 url_original: https://www.newsday.com/news/nation/nvidia-microsoft-ai-laptops-jensen-chip-g68435
 url_canonical: https://www.newsday.com/news/nation/nvidia-microsoft-ai-laptops-jensen-chip-g68435
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 028eab805671267378e51c035ce311f3d24f41171351c642ef010f4565f4ee8a
 normalized_title_hash: 5acf6cde6daa7359

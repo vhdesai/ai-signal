@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Google DeepMind Blog
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 5e590e4024dbab3bcfaae72166c1436d2b50885ba0440c2389a5233f1b8ba3dc

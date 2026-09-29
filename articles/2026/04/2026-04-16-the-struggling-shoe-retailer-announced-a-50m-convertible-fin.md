@@ -5,8 +5,8 @@ title: The struggling shoe retailer announced a $50M convertible financing facil
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finviz.com/news/344730/allbirds-inc-executes-50m-convertible-financing-facility-agreement-announces-expansion-into-ai-compute-infrastructure
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: d79c1b2210497e183f54d0e9dd8ecedcb3d424a8d2da49510d017d58823db6ef

@@ -5,7 +5,7 @@ date: '2026-05-12'
 source: Google Android Show 2026
 url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\google-android-show-2026.md
 content_hash: 9649fae88d9b27fd2c50008f0d27b1df8090a34e08420657a08747c3000b3f84
 normalized_title_hash: 8ea317438a75224a

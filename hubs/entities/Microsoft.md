@@ -1,22 +1,42 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 946
+member_count: 966
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 946 connected article(s).
+> Auto-generated entity hub. 966 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p|Microsoft consolidates Copilot into a single enterprise AI platform with flexible pricing]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct|Goldman Sachs: hyperscalers will spend $1.2T on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i|Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1|Goldman Sachs Lifts 2027 Hyperscaler AI Capex Forecast to $1.2 Trillion — "Largest Since the Railroads"]]
+- `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
 - `2026-09-26` [[2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy|Cursor's AI bots gain security-flaw detection and bad-deploy halts]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
-- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo’s "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-saturday-september-26-2026|Saturday, September 26, 2026]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
 - `2026-09-25` [[2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet|OpenAI launches MentalHealthBench for AI mental-health safety testing]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead|Nscale secures $3.36B in pre-IPO convertible financing ahead of NYSE listing]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe|Nscale secures $3.36B convertible from Third Point, Nvidia ahead of US IPO]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit|Microsoft rebuilds Copilot around a new "Autopilot" agent, switches to usage-based billing]]
+- `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent|Microsoft rebuilds Copilot around Home, Code and a persistent Autopilot agent]]
+- `2026-09-25` [[2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single|Microsoft packages work, code, and custom agents into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app|Microsoft packages business AI into a single Copilot app]]
 - `2026-09-25` [[2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut|Microsoft launches all-in-one Copilot with Home, Code, and Autopilot]]
 - `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Shifts New Surfaces to Usage-Based Pricing]]
 - `2026-09-25` [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na|Microsoft Rebuilds Copilot Around Home, Code, and Autopilot — Nadella Calls It "a New OS for Work"]]
+- `2026-09-25` [[2026-09-25-daily-ai-news-digest-september-26-2026|Daily AI News Digest – September 26, 2026]]
 - `2026-09-25` [[2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di|Anthropic Opens a Plugin Submission Portal for the Claude Directory; Ships MCP 2.0 and Enterprise Managed Auth]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]
 - `2026-09-24` [[2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing|Software Discounts and Free-Tier Offers Bloom as AI Pricing Cycles Back to 2024]]

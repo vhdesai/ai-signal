@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated
-- 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 embedding_id: 2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom
 event_name: ''
 ---
@@ -60,5 +60,5 @@ TechCrunch traces the trigger for the week's safety firestorm: “AI researcher 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts]]
+**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]]
 <!-- graph:end -->

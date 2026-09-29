@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: the-decoder
 url_original: https://the-decoder.com/deepmind-dream-rsi-agent-self-improvement-2026
 url_canonical: https://the-decoder.com/deepmind-dream-rsi-agent-self-improvement-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: a0f6963bac43df547b3ca346c63ace44265e5c5efc920a0ffbf448ff53395870

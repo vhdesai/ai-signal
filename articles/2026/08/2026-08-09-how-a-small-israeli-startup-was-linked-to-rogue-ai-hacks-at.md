@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html
 url_canonical: https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 5a812790469e9b9a06f77071b11c6ffab413e07b06fa71563f984aa31fc75e58

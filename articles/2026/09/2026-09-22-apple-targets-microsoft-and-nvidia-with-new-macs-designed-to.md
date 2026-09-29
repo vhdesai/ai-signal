@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Reuters
 url_original: https://www.reuters.com/technology/apple-new-macs-target-microsoft-nvidia-ai-inference-costs-2026-09-22
 url_canonical: https://www.reuters.com/technology/apple-new-macs-target-microsoft-nvidia-ai-inference-costs-2026-09-22
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: f9a5adf59dfa5442cbe903b0e0346070086c7e5b316e984bb532814131f172b0

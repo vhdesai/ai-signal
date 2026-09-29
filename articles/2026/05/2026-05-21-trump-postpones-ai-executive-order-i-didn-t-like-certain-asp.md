@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: CNBC'
 url_original: https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html
 url_canonical: https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 498576e6be566ac6e363a83b14ed1018599eaed1a42ae4629afef2809783a8c4

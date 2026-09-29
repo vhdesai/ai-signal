@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: South China Morning Post**
 url_original: https://www.scmp.com/tech/big-tech/article/3367593/forget-ai-kpis-how-chinas-tech-giants-are-rationing-tokens-employees
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367593/forget-ai-kpis-how-chinas-tech-giants-are-rationing-tokens-employees
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 97a6edbd351e4fccf9f81e3be394a0f5af6bcc8a7d7669b3417ef33c5ffaf31c
 normalized_title_hash: e73d982fe4b158d8

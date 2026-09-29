@@ -4,7 +4,7 @@ type: vault-index
 
 # News Trends — Knowledge Graph
 
-> 9567 article notes · 34 entity hubs · 8 topic hubs. Open **Graph view** to explore.
+> 9792 article notes · 34 entity hubs · 8 topic hubs. Open **Graph view** to explore.
 
 ## Entities
 

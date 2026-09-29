@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Technobezz
 url_original: https://www.technobezz.com/news/zoom-service-incident-c3ac6af5
 url_canonical: https://www.technobezz.com/news/zoom-service-incident-c3ac6af5
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 59ab3437320021bdcc8b14be6d1ead1ba1b1872dd796cdcec23e2776d7ecd8e0
 normalized_title_hash: 7f987c82bf2ce967

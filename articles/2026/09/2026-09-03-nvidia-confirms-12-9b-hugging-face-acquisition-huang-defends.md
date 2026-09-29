@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
 url_canonical: https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: ec68eca80f8f033ca33e4e8964f3e340fa6d60ba8911b0f1d1bf9b1b939e9643

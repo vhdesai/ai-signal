@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Google
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 10e673557c82d5d69b074217cf70ca017c9be089989d78574bf48cc601b3e615
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-24-google-s-first-project-suncatcher-satellite-launches-october
 - 2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four
 - 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
+- 2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
-- 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 embedding_id: 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed that a prototype satellite named MVP, built with Planet, will l
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october]] · [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four]] · [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]] · [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]]
+**Related:** [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october]] · [[2026-09-24-google-s-first-orbital-tpu-test-launches-october-1-with-four]] · [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]] · [[2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr]] · [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]]
 <!-- graph:end -->

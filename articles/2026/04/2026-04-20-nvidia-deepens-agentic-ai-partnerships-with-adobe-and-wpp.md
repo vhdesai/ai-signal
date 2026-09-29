@@ -4,8 +4,8 @@ title: NVIDIA Deepens Agentic AI Partnerships With Adobe and WPP
 date: '2026-04-20'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: d7e9a62d182ab8e813351d8d713ab85524d42a866f718dc3061b21a1af3435f9

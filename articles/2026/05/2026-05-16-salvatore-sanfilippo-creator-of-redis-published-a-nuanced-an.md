@@ -5,8 +5,8 @@ title: Salvatore Sanfilippo (creator of Redis) published a nuanced analysis of D
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://theneuralfeed.com/article/deepseek-v4-flash-quantized-model-by-redis-creator-goes-viral-on-hugging-face/awnSNRqh
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: acf3d21411b411a704316234144e3baa0e2f709ebaa6ca30b5a974ca4b0dfaf1

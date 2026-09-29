@@ -5,8 +5,8 @@ title: White House AI Framework vs. State Regulations — California and Others 
 date: '2026-03-31'
 source: White House
 url_original: null
-url_canonical: https://www.latimes.com/business/story/2026-03-20/white-house-moves-to-strip-california-other-states-of-ai-regulation-power
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: ffb012a90777f8d50a39976e1899b5783882292240642218bb2e2f42c00d22b3

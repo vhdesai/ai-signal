@@ -4,8 +4,8 @@ title: Microsoft Outperforms in Holiday-Shortened Magnificent 7 Week
 date: '2026-05-28'
 source: 'Source: Money Morning'
 url_original: null
-url_canonical: https://moneymorning.com/2026/03/27/magnificent-7-weekly-report-march-24-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 4952555f6f3766d2a15dce8e30d789e20704a0513ada3d43aaf4121ae530c18d

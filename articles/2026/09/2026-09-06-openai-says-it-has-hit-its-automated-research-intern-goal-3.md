@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/research-acceleration-view-inside-openai/
 url_canonical: https://openai.com/index/research-acceleration-view-inside-openai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 46211023916080ca13b9a25eb3bf63e2a914f4010b6b4b4617b2dd9e738b8a8d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil
-- 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
+- 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
 embedding_id: 2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI reported that its research organization now expends 3.1 agent-workdays of
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]]
+**Related:** [[2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at]] · [[2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh]] · [[2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil]] · [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on]]
 <!-- graph:end -->

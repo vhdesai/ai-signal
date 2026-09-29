@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechNode
 url_original: https://technode.com/2026/09/21/alibabas-qwen-open-sources-qwen-image-2-1-for-unified-image-generation-and-editing/
 url_canonical: https://technode.com/2026/09/21/alibabas-qwen-open-sources-qwen-image-2-1-for-unified-image-generation-and-editing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_062401_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 862d073dfa50e93f6fb2ccbf6a46ff152e1aa855c19c04ab695e5529252d93b1

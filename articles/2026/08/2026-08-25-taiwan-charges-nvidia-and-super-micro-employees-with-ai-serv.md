@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Wall Street Journal
 url_original: https://www.yahoo.com/news/us/articles/taiwan-charges-nvidia-super-micro-123817556.html
 url_canonical: https://www.yahoo.com/news/us/articles/taiwan-charges-nvidia-super-micro-123817556.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 58ef55178942956ea1d50156a8b1f96f43daf3663c6708a8d30a0c6867ac923c

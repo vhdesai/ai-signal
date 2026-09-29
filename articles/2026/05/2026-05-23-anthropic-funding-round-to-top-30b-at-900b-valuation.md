@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: Tech Times / Bloomberg
 url_original: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
 url_canonical: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 46f780d4bfd1ff609e8d7a506a75802370d43fee03af78a9bc43b5821ac6481a

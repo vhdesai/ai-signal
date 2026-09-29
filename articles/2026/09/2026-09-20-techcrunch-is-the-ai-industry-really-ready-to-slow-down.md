@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
 url_canonical: https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 22ee73b36847fd3d245151f8912bb607596855a4931bd900d854834bec3d3103

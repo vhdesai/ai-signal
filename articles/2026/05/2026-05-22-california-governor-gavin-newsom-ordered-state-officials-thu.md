@@ -5,8 +5,8 @@ title: California Governor Gavin Newsom ordered state officials Thursday to begi
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 5268d8ff23260c8f18dbe8da3ebe6dd59a3b20ff97219df9d08d1dc02b48cd40

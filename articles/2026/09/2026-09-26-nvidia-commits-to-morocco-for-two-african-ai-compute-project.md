@@ -6,8 +6,9 @@ date: '2026-09-26'
 source: iAfrica
 url_original: https://iafrica.com/nvidia-morocco-500mw-casablanca-ai-factory-2026
 url_canonical: https://iafrica.com/nvidia-morocco-500mw-casablanca-ai-factory-2026
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: fbccec883e72b430d20bce33326a16b5ec129d36cb6755aea8ff514ea8280c65
 normalized_title_hash: 37aba63b1f8f397d
 canonical_url_hash: 279f60fa639698c5

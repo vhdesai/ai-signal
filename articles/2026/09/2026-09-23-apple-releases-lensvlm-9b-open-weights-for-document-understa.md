@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Apple Machine Learning Research
 url_original: https://huggingface.co/apple/LensVLM-9B
 url_canonical: https://huggingface.co/apple/LensVLM-9B
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 88f2e3cb76ab59327652a92d7026e21d0a85a4ac0f909994fab31895a23a09d0

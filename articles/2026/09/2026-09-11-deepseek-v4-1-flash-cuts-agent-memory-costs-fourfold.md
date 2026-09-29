@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Local AI Zone
 url_original: https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html
 url_canonical: https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 7f84a949aa7f90b098d3e0caab13bdfc928c55287c7f3e37d2d34c491585ba30

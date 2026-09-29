@@ -4,8 +4,8 @@ title: Anthropic investigates unauthorized access to "Claude Mythos" preview
 date: '2026-04-21'
 source: The AI Track
 url_original: null
-url_canonical: https://theaitrack.com/unauthorized-access-to-claude-mythos/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: dbcd9a71b94aa2efb64d23ccc8b4e3a2ab9ad966fe7d76a2f552264eabda551b
 normalized_title_hash: 22cea1c51ff2fbb9

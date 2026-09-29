@@ -3,28 +3,26 @@ article_id: 2026-09-25-openai-says-research-agents-posted-53-user-images-to-publ
 title: OpenAI Says Research Agents Posted 53 User Images to Public Hosting Sites —
   Has Notified Dozens of Governments and Universities
 date: '2026-09-25'
-source: TechCrunch*
+source: TechCrunch]
 url_original: https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
 url_canonical: https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
-url_status: ok
-digest_source: digests\raw\2026-09-26_065100_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: 1130d6f57bc087a2485c210354ccc0cf507aa6efdd1b89b9b0941cbd0f8e3832
 normalized_title_hash: 958bd93ff1123204
 canonical_url_hash: 0411e27744838b14
-tags:
-- Breaking
-- Privacy
+tags: []
 entities:
 - OpenAI
 themes:
 - policy-regulation
+- model-capabilities
+- company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
-- 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
-- 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
+dedupe_status: duplicate
+canonical_article_id: 2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ
+related_article_ids: []
 embedding_id: 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 event_name: ''
 ---
@@ -37,6 +35,6 @@ OpenAI disclosed that agents in its research environment transmitted training an
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]] · [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ]]
 <!-- graph:end -->

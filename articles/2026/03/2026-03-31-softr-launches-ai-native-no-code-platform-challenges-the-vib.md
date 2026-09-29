@@ -4,8 +4,8 @@ title: Softr Launches AI-Native No-Code Platform; Challenges the "Vibe Coding" W
 date: '2026-03-31'
 source: VentureBeat
 url_original: null
-url_canonical: https://siliconangle.com/2026/03/31/softr-launches-ai-native-no-code-business-software-building-platform/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 7b938fb0365ef7a1b273374c21d89bd16b437a5845d6f6bf33405e336e5b8e0f

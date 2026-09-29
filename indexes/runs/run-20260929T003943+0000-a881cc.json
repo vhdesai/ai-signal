@@ -1,0 +1,44 @@
+{
+  "run_id": "20260929T003943+0000-a881cc",
+  "started_at": "2026-09-29T00:39:43+00:00",
+  "finished_at": "2026-09-29T00:40:10+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 1351,
+      "digests_changed": 30,
+      "changed": [
+        "news\\2026-09-26_000000_Publication-Sources.md",
+        "news\\2026-09-26_060231_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_060617_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_060618_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_061235_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_061738_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_062118_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_064845_Inbox_ClawPilot - Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_065801_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-26_070233_Inbox_Daily AI News Digest - September 26, 2026.md",
+        "news\\2026-09-27_000000_Publication-Sources.md",
+        "news\\2026-09-27_060139_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_060536_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_060626_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_061113_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_061919_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_062213_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_065100_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-27_065156_Inbox_ClawPilot - Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_065921_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-27_065956_Final-Daily-AI-News-Digest.md",
+        "news\\2026-09-27_070337_Inbox_Daily AI News Digest - September 27, 2026.md",
+        "news\\2026-09-28_000000_Publication-Sources.md",
+        "news\\2026-09-28_060201_Inbox_Daily AI News Digest \u2013 September 28, 2026.md",
+        "news\\2026-09-28_060701_Inbox_Daily AI News Digest \u2013 September 28, 2026.md",
+        "news\\2026-09-28_063052_Inbox_Daily AI News Digest \u2013 September 28, 2026.md",
+        "news\\2026-09-28_063054_Inbox_Daily AI News Digest \u2013 September 28, 2026.md",
+        "news\\2026-09-28_064919_Inbox_ClawPilot - Daily AI News Digest \u2013 September 28, 2026.md",
+        "news\\Daily AI News Digest - 2026-09-27.md",
+        "news\\daily-ai-news-digest-2026-09-27.md"
+      ]
+    }
+  }
+}

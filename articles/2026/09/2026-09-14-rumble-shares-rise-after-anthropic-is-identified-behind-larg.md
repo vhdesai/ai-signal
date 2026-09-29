@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Blockonomi
 url_original: https://blockonomi.com/rumble-rum-stock-climbs-20-as-anthropic-revealed-behind-massive-13-7b-ai-deal/
 url_canonical: https://blockonomi.com/rumble-rum-stock-climbs-20-as-anthropic-revealed-behind-massive-13-7b-ai-deal/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9d7b393c9c2843d92917941dcc02a620600961d7c4e06f2239f0c9be06f80951
@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+- 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 - 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg
@@ -39,5 +40,5 @@ Blockonomi reported that Rumble shares climbed after The Information identified 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]] · [[2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
 <!-- graph:end -->

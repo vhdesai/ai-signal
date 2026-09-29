@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Axios
 url_original: https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks
 url_canonical: https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_060756_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: f8dc83220d96fb602292b451382f8ae12b3f2ae428633ca27821bbc18187ca25

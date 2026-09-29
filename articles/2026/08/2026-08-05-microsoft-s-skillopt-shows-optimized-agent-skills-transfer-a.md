@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
 url_canonical: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 32a5f59ad85d7f06981d74e0f6ecdb56be87abffaa7aaf82ababf60686749563

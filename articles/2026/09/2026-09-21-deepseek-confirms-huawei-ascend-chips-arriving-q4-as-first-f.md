@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: The Information
 url_original: https://www.theinformation.com/articles/deepseek-bets-big-on-huawei-chips-to-bypass-us-export-controls
 url_canonical: https://www.theinformation.com/articles/deepseek-bets-big-on-huawei-chips-to-bypass-us-export-controls
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: f8f0bcb35dc29249935e12ff5ab9a2dbf8bcf69e3d07e66195c6348f5ce8a898

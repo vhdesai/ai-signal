@@ -5,8 +5,8 @@ title: OpenAI rolled out Codex-only seats with pay-as-you-go pricing in ChatGPT 
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://enterprisedna.co/resources/news/openai-codex-pay-as-you-go-enterprise-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: c510fa9feeb0dbb7dda76912dbb6c660be50b419e5281abb7b6af8d824b781e8

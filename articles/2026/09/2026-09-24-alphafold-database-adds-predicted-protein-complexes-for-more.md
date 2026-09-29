@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: EMBL-EBI with Google DeepMind, NVIDIA, CEPI and academic partners
 url_original: https://www.miragenews.com/alphafold-adds-viral-protein-complexes-for-1749776/
 url_canonical: https://www.miragenews.com/alphafold-adds-viral-protein-complexes-for-1749776/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 7890962302805d03b56c2f33184fe15de39040d871016abad22e493d5903e1ee

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/oura-16-billion-ipo-wearables-data-platform-2026
 url_canonical: https://pitchbook.com/news/articles/oura-16-billion-ipo-wearables-data-platform-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: f6f0f0e774ee579620fbc2ff84de9469b9d548a58bb49c8d784c0c8edc313435

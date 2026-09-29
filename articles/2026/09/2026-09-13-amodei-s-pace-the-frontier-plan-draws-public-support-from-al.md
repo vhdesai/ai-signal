@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
 url_canonical: https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_062818_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: bd94e1fd25899c444406ef3039e3e836c429436f837744ff6c8d37fb3d3ded42
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent
+- 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
 embedding_id: 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amodei published a plan Saturday proposing that frontier labs give independent s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-13-altman-musk-and-hassabis-publicly-back-amodei-s-independent]]
+**Related:** [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro]]
 <!-- graph:end -->

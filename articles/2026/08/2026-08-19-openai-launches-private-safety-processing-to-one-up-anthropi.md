@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for
 - 2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi
 - 2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus
-- 2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 embedding_id: 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI previewed Private Safety Processing — an automated system that monitors
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac]] · [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for]] · [[2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]] · [[2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on]]
+**Related:** [[2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac]] · [[2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for]] · [[2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi]] · [[2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]]
 <!-- graph:end -->

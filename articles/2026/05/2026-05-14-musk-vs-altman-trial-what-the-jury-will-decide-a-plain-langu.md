@@ -4,8 +4,8 @@ title: 'Musk vs. Altman Trial: What the Jury Will Decide — A Plain-Language Ex
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 079095bca34a30fa89ae8173de0906e36febc7c241dd09cb1b71eccf103a2224

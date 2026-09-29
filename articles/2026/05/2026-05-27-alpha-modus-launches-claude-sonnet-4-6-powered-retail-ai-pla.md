@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Markets Insider / GlobeNewswire
 url_original: https://markets.businessinsider.com/news/stocks/alpha-modus-introduces-aria-enterprise-ai-for-physical-retail-built-on-anthropic-s-claude-and-backed-by-12-granted-u-s-patents-1036197900
 url_canonical: https://markets.businessinsider.com/news/stocks/alpha-modus-introduces-aria-enterprise-ai-for-physical-retail-built-on-anthropic-s-claude-and-backed-by-12-granted-u-s-patents-1036197900
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 074d9890f8cdccdce39fa16447da493445b3ec95e07c2b1cdfc5e98360c77280

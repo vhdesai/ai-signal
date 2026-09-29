@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: PitchBook]
 url_original: https://pitchbook.com/news/articles/pension-giants-ai-warning-shots-2026-09
 url_canonical: https://pitchbook.com/news/articles/pension-giants-ai-warning-shots-2026-09
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: b741ea267c972d94ff6e47b575aefe86669710c7117077d34ac87c1a487b2e64
@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
@@ -39,5 +40,5 @@ At the $225.3B Teacher Retirement System of Texas investment-committee meeting, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
+**Related:** [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
 <!-- graph:end -->

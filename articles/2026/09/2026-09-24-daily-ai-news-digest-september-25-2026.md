@@ -29,11 +29,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-daily-ai-news-digest-september-26-2026
+- 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-09-21-daily-ai-news-digest-september-22-2026
+- 2026-09-25-saturday-september-26-2026
 - 2026-09-24-friday-september-25-2026
-- 2026-09-03-daily-ai-news-digest-september-4-2026
-- 2026-08-17-daily-ai-news-digest-august-18-2026
-- 2026-08-11-daily-ai-news-digest-august-11-2026
 embedding_id: 2026-09-24-daily-ai-news-digest-september-25-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ The last 24 hours were dominated by capital, not capability. Anthropic committed
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-24-friday-september-25-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
+**Related:** [[2026-09-25-daily-ai-news-digest-september-26-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-09-24-friday-september-25-2026]]
 <!-- graph:end -->

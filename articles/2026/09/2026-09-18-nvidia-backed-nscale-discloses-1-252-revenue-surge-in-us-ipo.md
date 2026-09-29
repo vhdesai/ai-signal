@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Reuters / The Information
 url_original: https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses
 url_canonical: https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_065935_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: ac5b28a811d34d96a2a52a1b070317270663f00e28d5493883ff64b957ed9752

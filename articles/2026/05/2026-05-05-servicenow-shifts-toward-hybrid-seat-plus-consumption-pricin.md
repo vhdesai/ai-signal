@@ -5,8 +5,8 @@ title: ServiceNow shifts toward hybrid seat-plus-consumption pricing as AI econo
 date: '2026-05-05'
 source: Business Insider
 url_original: null
-url_canonical: https://www.techtimes.com/articles/325759/20260827/servicenow-ai-revenue-crosses-1b-non-seat-deals-hit-50-new-business.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 47b9c24f98df0d7ff6ff1395b5b11d7163ca6213e11e98f4c78d19080b562353
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
 - 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
+- 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 - 2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 embedding_id: 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow CEO Bill McDermott told Business Insider the company has moved off pu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p]] · [[2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank]]
 <!-- graph:end -->

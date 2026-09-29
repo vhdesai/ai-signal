@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Axios AI+
 url_original: https://www.axios.com/newsletters/axios-ai-plus
 url_canonical: https://www.axios.com/newsletters/axios-ai-plus
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: e0080ed878f807b48646683bfb6a05faf7baf0e4057f968fa174846edbc3f533
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-new-warning-in-race-to-superintelligence
 - 2026-07-12-new-warning-in-race-to-superintelligence
 - 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
-- 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
+- 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 embedding_id: 2026-07-09-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios AI+ highlighted a new AI Futures Project proposal calling for an internati
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]]
+**Related:** [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a]] · [[2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai]]
 <!-- graph:end -->

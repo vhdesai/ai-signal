@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: tech-ish
 url_original: https://www.tech-ish.com/2026/09/12/gemini-desktop-windows-10-11/
 url_canonical: https://www.tech-ish.com/2026/09/12/gemini-desktop-windows-10-11/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: ca4865378ca4b8f6c77e054c24c9f8d6ad8faf2586e8d0fb607da7df6fe820df

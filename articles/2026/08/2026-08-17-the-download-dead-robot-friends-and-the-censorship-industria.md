@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
+- 2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca
 embedding_id: 2026-08-17-the-download-dead-robot-friends-and-the-censorship-industria
 event_name: ''
 ---
@@ -36,5 +37,5 @@ MIT Technology Review's daily newsletter roundup covering companion-robot shutdo
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]]
+**Related:** [[2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca]]
 <!-- graph:end -->

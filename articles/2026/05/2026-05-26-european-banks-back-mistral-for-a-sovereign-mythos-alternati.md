@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Next Web; May 26, 2026 · Bloomberg; May 26, 2026 · The Wall Street Journal
 url_original: https://thenextweb.com/news/bnp-paribas-mistral-mythos-rival-sovereign-ai
 url_canonical: https://thenextweb.com/news/bnp-paribas-mistral-mythos-rival-sovereign-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 426028a514a8bd435ec0df335408b3ca40c466b57d3900f97b1d1125cb9f6c3e

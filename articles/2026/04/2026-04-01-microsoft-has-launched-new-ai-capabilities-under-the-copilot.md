@@ -5,8 +5,8 @@ title: Microsoft has launched new AI capabilities under the Copilot Cowork brand
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/whats-new
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 44e55efea403fce5e322f6b66a040ad853d6939f079756de1da10033a4519586
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
+- 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 embedding_id: 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft has launched new AI capabilities under the Copilot Cowork brand, now i
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i]] · [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/cleancore-solutions-inc-nyse-american-120000096.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3d69ac14aeb59e0616890e9409b0d121bdd8170db8860d88f62a572707036dba

@@ -4,8 +4,8 @@ title: Cohere and Aleph Alpha explore $20B European AI combination
 date: '2026-04-23'
 source: Axios / VentureBeat
 url_original: null
-url_canonical: https://tech-insider.org/cohere-aleph-alpha-merger-20-billion-schwarz-sovereign-ai-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: a036b3662e74e44a3fd858f3a8aec9f6a13d338dfd45533e5921ba849de40fd3

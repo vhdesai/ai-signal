@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Blockonomi
 url_original: https://blockonomi.com/cerebras-systems-cbrs-stock-surges-12-as-analysts-project-40-upside-potential/
 url_canonical: https://blockonomi.com/cerebras-systems-cbrs-stock-surges-12-as-analysts-project-40-upside-potential/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 2ee912216eb5b3ee91011bcf487647f976ccb0fdec30291ea9b59186b75f8fcb

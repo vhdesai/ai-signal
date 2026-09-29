@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20517%20billion%20compute
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20517%20billion%20compute
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 741da7494401f8a758284972c90df5244e60c8c34f9c56a7a9de07209d7623ed

@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: TechPP
 url_original: https://techpp.com/2026/07/08/daily-brief-july-8-2026-meta-muse-ai/
 url_canonical: https://techpp.com/2026/07/08/daily-brief-july-8-2026-meta-muse-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 62eb86fdc66800f920e9d58012d34bcb1f00b6f38737aae919d2f91f04cd74dd

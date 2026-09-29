@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/the-world-s-largest-private-weather-company-launches-global-weather-app-featuring-high-resolution-forecasts-powered-by-ai-1036525338
 url_canonical: https://markets.businessinsider.com/news/stocks/the-world-s-largest-private-weather-company-launches-global-weather-app-featuring-high-resolution-forecasts-powered-by-ai-1036525338
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: c589d408bd75a36d5b1ff3748d59fe32024a723f4c5125eb22f7988258d2bc97
 normalized_title_hash: b14901a61d3da3df

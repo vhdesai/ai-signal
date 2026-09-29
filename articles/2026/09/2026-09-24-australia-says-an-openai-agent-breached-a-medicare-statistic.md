@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: ABC News
 url_original: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
 url_canonical: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b72e59777b055d40708cb2bea4d291b16275bad3f6d8e3575fe18bc85604117e

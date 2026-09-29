@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 182
+member_count: 191
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 182 connected article(s).
+> Auto-generated entity hub. 191 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda|Anthropic Seeks 50.1% Founder Voting Control Ahead of a Nasdaq Listing Reportedly Targeting a ~$2T Valuation]]
+- `2026-09-25` [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq|Anthropic Seeks 50.1% Founder Voting Control Ahead of Nasdaq Listing]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]

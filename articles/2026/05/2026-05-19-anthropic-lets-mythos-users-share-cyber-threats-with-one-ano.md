@@ -4,8 +4,8 @@ title: Anthropic lets Mythos users share cyber threats with one another
 date: '2026-05-19'
 source: The Wall Street Journal · Read article
 url_original: null
-url_canonical: https://www.devdiscourse.com/article/headlines/3913444-anthropics-mythos-feature-enhances-cyber-threat-sharing
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 1b74a090e326be8cca8b5f96b30a8b5be256b6909e62d52f7ceccaeb01159b4c

@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: DataCenterDynamics / Crypto Briefing
 url_original: https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/
 url_canonical: https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b9f1868cf771b4660da9ac544e4d79fd3a490d59cb34a2f3841fb071f451041f
@@ -19,8 +19,8 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr
 related_article_ids:
 - 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 - 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
@@ -37,5 +37,6 @@ Sundar Pichai said Google’s Project Suncatcher will place a TPU prototype in l
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
+**Canonical:** [[2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr]]
 **Related:** [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]]
 <!-- graph:end -->

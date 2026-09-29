@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Engadget  / The Hacker News  / Anthropic
 url_original: https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/
 url_canonical: https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 8c657bb6e91ba8f4900b3d37ce97a7e19fa29c30cd5eabf4d64bfe427d5c2b1f

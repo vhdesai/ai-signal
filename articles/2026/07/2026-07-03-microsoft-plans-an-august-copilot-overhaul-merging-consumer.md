@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 04ac63234930d44b1ad37bb47af16d607f8c293285ee1372639e565eef78f9a3
@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
+- 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
 - 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
-- 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 embedding_id: 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Per an internal memo seen by The Information, Microsoft will consolidate its con
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]]
 <!-- graph:end -->

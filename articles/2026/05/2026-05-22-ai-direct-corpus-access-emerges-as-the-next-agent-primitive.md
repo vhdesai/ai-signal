@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 - 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
-- 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
-- 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 embedding_id: 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat published an analysis arguing AI agents need terminal-level corpus a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
+**Related:** [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]] · [[2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents]]
 <!-- graph:end -->

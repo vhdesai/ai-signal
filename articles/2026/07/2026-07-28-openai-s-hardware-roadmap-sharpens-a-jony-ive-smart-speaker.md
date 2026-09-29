@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/07/28/openai-first-devices/
 url_canonical: https://www.macrumors.com/2026/07/28/openai-first-devices/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 369a41b611eb39c6e7ac90f1f127f625d4dcb4d9119c220d9473f51cd08e5791

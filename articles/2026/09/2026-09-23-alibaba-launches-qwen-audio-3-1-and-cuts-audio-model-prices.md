@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Decoder
 url_original: https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/
 url_canonical: https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 8ba36d7ae8f8c6c347f3b49b2e0dea65345bb3557bc719f79258fb735882fdec
@@ -21,9 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95
+- 2026-09-25-alibaba-ships-qwen-audio-3-1-voice-stack-and-cuts-audio-api
 - 2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up
-- 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
-- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
+- 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
+- 2026-09-25-alibaba-cuts-qwen-voice-api-prices-by-up-to-95-with-qwen-aud
 embedding_id: 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Qwen released five audio models spanning ASR, TTS, and real-time interaction, al
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up]] · [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]]
+**Related:** [[2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95]] · [[2026-09-25-alibaba-ships-qwen-audio-3-1-voice-stack-and-cuts-audio-api]] · [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up]] · [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up]] · [[2026-09-25-alibaba-cuts-qwen-voice-api-prices-by-up-to-95-with-qwen-aud]]
 <!-- graph:end -->

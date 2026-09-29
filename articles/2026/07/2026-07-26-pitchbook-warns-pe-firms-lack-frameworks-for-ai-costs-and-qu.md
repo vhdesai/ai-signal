@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
+- 2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how
 - 2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures
-- 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 embedding_id: 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook reports that private-equity firms are moving AI from pilot projects in
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]]
+**Related:** [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]]
 <!-- graph:end -->

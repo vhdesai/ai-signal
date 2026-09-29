@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: The Next Web
 url_original: https://thenextweb.com/news/moore-threads-hong-kong-listing-ai-chip-nvidia-china
 url_canonical: https://thenextweb.com/news/moore-threads-hong-kong-listing-ai-chip-nvidia-china
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 82b5698699a60ce6ff3c3f97310ddc5f72a4896574a13550907c0f35f01f8523
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m
+- 2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
-- 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 embedding_id: 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moore Threads, the Beijing AI chipmaker founded by former Nvidia China executive
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]]
+**Related:** [[2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m]] · [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]]
 <!-- graph:end -->

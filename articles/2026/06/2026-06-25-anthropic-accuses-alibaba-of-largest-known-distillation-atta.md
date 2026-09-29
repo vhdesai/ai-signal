@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: Inc.
 url_original: https://www.inc.com/hazel-gandhi/anthropic-accused-alibaba-of-a-distillation-attack-heres-what-that-means-and-why-its-so-dangerous/91365906
 url_canonical: https://www.inc.com/hazel-gandhi/anthropic-accused-alibaba-of-a-distillation-attack-heres-what-that-means-and-why-its-so-dangerous/91365906
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 43a03d6d9111fc2bffc3cc0cdf16d581e00019b6d2f9d47d2cf1eddc3f752cc0

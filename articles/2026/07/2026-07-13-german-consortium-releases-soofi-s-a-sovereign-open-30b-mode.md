@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Decoder
 url_original: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/
 url_canonical: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 30f10fcdd6a18f3c17679c994da0c447f3ded325806a2d78e6311ed2390347eb
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-launch-open-source
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r
+- 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
 - 2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch
-- 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
-- 2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b
 embedding_id: 2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Soofi S 30B-A3B activates 3.2B of 31.6B parameters per token and tops fully open
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-launch-open-source]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch]] · [[2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b]]
+**Related:** [[2026-07-13-launch-open-source]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r]] · [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch]]
 <!-- graph:end -->

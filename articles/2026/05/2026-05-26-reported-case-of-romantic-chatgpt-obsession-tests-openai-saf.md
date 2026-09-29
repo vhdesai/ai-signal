@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: WinBuzzer
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 82df46c21e74efc7c99d0d6d4c477936590433ee94b41db1159e41cf8fd41b27

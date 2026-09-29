@@ -5,8 +5,8 @@ title: Reuters / Le Monde • April 20, 2026 French prosecutors summoned Elon Mu
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.lemonde.fr/en/pixels/article/2026/04/19/elon-musk-summoned-by-french-prosecutors-after-15-month-probe_6752590_13.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: c67075e79ec1574dfe49d03eb7ea34f07a924fba7244f87ddbaff42c190ab6fa

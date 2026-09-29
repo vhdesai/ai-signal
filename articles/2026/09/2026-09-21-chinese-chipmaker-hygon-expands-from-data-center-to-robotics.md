@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: ade7e91bd185785843480dd45ee5e400a02951e23741629f4f19272cd71886eb

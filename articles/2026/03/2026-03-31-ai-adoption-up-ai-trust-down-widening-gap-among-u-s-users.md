@@ -4,8 +4,8 @@ title: AI Adoption Up, AI Trust Down — Widening Gap Among U.S. Users
 date: '2026-03-31'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 7ad5543f5d1b70b063ced31b4e3f2e4e0c0dbd852d4b6f8669d13b1ec2f4ba8c
@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
+- 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
 - 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 - 2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
-- 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 embedding_id: 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new TechCrunch survey reveals U.S. AI tool adoption is rising while confidence
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]]
+**Related:** [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]]
 <!-- graph:end -->

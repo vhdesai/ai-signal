@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: TechCrunch / ABC News Australia
 url_original: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
 url_canonical: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061032_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: a69407e90cad9356e260acd146ae8a33378d4fabc42623e7f9c6f10956ae112f

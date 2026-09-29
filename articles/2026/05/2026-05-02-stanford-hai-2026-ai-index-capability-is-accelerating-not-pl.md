@@ -4,8 +4,8 @@ title: 'Stanford HAI 2026 AI Index: Capability Is Accelerating, Not Plateauing T
 date: '2026-05-02'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 8448162408c8c97e6cdf8644862ab91aac5039b9bc8cc61be1c24c6322420abc
 normalized_title_hash: eed864093f1d199e

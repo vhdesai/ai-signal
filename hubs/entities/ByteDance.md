@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 99
+member_count: 103
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 99 connected article(s).
+> Auto-generated entity hub. 103 connected article(s).
 
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia|Beijing signals it may let Alibaba and ByteDance buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases|Beijing Signals Approvals for Nvidia RTX Pro 5500 Purchases; ByteDance Weighs ~1M Units]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe|Nscale secures $3.36B convertible from Third Point, Nvidia ahead of US IPO]]
 - `2026-09-24` [[2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center|Nscale IPO filing puts customer concentration at the center of the neocloud model]]
 - `2026-09-23` [[2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou|Nvidia-backed Nscale keeps its biggest customer, ByteDance, out of its IPO filing]]
 - `2026-09-23` [[2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus|Alibaba's Zhenwu V900 accelerator supports 500,000-chip cluster systems]]

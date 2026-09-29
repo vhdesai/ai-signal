@@ -5,8 +5,8 @@ title: Startup Subquadratic launched SubQ 1M-Preview with $29M in seed funding, 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.trysignalbase.com/news/funding/subquadratic-raises-290m-seed-round
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b59e00d096eab64bf6e5cd241b47b4c874655040f7f914c4f375193efe313bad

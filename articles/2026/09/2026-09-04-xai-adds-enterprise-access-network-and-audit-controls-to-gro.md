@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Technobezz
 url_original: https://www.technobezz.com/news/xai-adds-enterprise-controls-grok-bot
 url_canonical: https://www.technobezz.com/news/xai-adds-enterprise-controls-grok-bot
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 887e15902b7557a241a25c74dcbfb19eea42d032b7d05638736320964fec8c79

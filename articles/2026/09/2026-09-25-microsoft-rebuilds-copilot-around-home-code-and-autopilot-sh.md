@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Microsoft / CNBC]
 url_original: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
 url_canonical: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 000a198e98a3cf46a0a32cf1125eb1d814ff8a365cb7351a756682d27b046568
@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
+canonical_article_id: 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
 related_article_ids: []
 embedding_id: 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 event_name: ''
@@ -35,5 +35,5 @@ Microsoft introduced a restructured Copilot app combining Chat and Cowork under 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]]
+**Canonical:** [[2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit]]
 <!-- graph:end -->

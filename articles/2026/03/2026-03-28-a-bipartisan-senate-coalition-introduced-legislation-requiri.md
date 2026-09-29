@@ -5,8 +5,8 @@ title: A bipartisan Senate coalition introduced legislation requiring mandatory 
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-lead-bipartisan-push-for-mandatory-energy-use-reporting-requirements-for-data-centers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 14fddd0c4d4aeef5b3752e1225079242784f8075b11691698e718eed9711d0de
@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
+- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-- 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
 embedding_id: 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A bipartisan Senate coalition introduced legislation requiring mandatory energy 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]] · [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel]]
+**Related:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]] · [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]]
 <!-- graph:end -->

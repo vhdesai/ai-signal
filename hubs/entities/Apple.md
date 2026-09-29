@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 436
+member_count: 441
 ---
 
 # Apple
 
-> Auto-generated entity hub. 436 connected article(s).
+> Auto-generated entity hub. 441 connected article(s).
 
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-26` [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r|Julia 1: a 144.3M-parameter open decision model trained for roughly $104]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod|Liquid AI brings speculative decoding to vision-language models with LFM2.5-VL-3B-DSpark]]
 - `2026-09-24` [[2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio|OpenAI Tells Court the Apple Intelligence ChatGPT Integration “Dramatically Underperformed”]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on|Google tests "Call for Me," letting Gemini phone businesses on your behalf]]

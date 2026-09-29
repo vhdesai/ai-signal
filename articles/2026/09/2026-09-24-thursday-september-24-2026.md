@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-september-24-2026
+- 2026-09-25-saturday-september-26-2026
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-09-14-monday-september-14-2026
 - 2026-09-12-saturday-september-12-2026
-- 2026-09-24-friday-september-25-2026
 embedding_id: 2026-09-24-thursday-september-24-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The last 24 hours split cleanly into two stories that now define enterprise AI r
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-23-september-24-2026]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-12-saturday-september-12-2026]] · [[2026-09-24-friday-september-25-2026]]
+**Related:** [[2026-09-23-september-24-2026]] · [[2026-09-25-saturday-september-26-2026]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-12-saturday-september-12-2026]]
 <!-- graph:end -->

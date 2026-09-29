@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: Bloomberg**
 url_original: https://thenextweb.com/news/microsoft-mai-models-replace-openai-apps
 url_canonical: https://thenextweb.com/news/microsoft-mai-models-replace-openai-apps
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_081821_Final-Daily-AI-News-Digest.md
 content_hash: ae5ff4675cf414710c04fd8d714f07d598de14d4574972db7926b7dea9fea53c
 normalized_title_hash: 2e82efe6509641f7

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: UT MD Anderson Cancer Center
 url_original: https://www.miragenews.com/ai-flags-at-risk-patients-for-lung-treatment-1750054/
 url_canonical: https://www.miragenews.com/ai-flags-at-risk-patients-for-lung-treatment-1750054/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 1b0397b1bc81468c2bd1e65c8452cf13133d1800f1a48377175c48232df61e61
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
+- 2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non
 embedding_id: 2026-09-24-md-anderson-model-flags-immunotherapy-pneumonitis-risk-from
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Researchers led by Jia Wu, Ph.D., with co-senior authors Ajay Sheshadri, M.D. an
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]]
+**Related:** [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non]]
 <!-- graph:end -->

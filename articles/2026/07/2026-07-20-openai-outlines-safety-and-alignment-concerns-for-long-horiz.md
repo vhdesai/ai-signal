@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec
-- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 embedding_id: 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published guidance on safety and alignment in an era of long-horizon mode
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
+**Related:** [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec]]
 <!-- graph:end -->

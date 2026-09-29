@@ -4,8 +4,8 @@ title: NVIDIA Vera Rubin Platform Launches with Seven New Chips for Agentic AI F
 date: '2026-05-16'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: a054af1bba703045fdeed99b9083befa35bf3ca6b867c532b71588332a35dcda

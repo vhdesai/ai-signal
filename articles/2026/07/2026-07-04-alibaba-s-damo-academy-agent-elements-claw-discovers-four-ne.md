@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: Pandaily
 url_original: https://pandaily.com/alibaba-damo-elementsclaw-ai-superconductors-28-gpu-hours-jul2026
 url_canonical: https://pandaily.com/alibaba-damo-elementsclaw-ai-superconductors-28-gpu-hours-jul2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 6fab3bdba0e54f6821117ee1e3d57e00216179e9e118a3f2e4f52ba23984bb80

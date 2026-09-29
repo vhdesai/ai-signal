@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
 url_canonical: https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 70c8c7325a693016143e97292df6177e1f937003b36b4ef9099542d83a38837a
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable
+- 2026-09-25-meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-ag
 - 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
-- 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
-- 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-09-25-meta-opens-early-access-program-for-new-muse-features
 embedding_id: 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta previewed Muse Charm, a small Tamagotchi-like wearable that keeps users con
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]] · [[2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar]] · [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]]
+**Related:** [[2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable]] · [[2026-09-25-meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-ag]] · [[2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar]] · [[2026-09-25-meta-opens-early-access-program-for-new-muse-features]]
 <!-- graph:end -->

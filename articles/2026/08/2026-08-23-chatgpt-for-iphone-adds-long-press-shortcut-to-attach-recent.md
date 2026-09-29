@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Next Web
 url_original: https://thenextweb.com/news/chatgpt-iphone-recent-photos-shortcut-siri-eu-delay
 url_canonical: https://thenextweb.com/news/chatgpt-iphone-recent-photos-shortcut-siri-eu-delay
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060400_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 57835cf2ed1eb5fc07089cfe780829369f40c41354d0778cacf39d49abc2ee14

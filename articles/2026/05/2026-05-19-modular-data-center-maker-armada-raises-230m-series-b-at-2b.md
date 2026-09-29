@@ -4,8 +4,8 @@ title: Modular Data Center Maker Armada Raises $230M Series B at $2B Valuation
 date: '2026-05-19'
 source: CNBC / Techmeme
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/19/modular-data-center-builder-armada-raises-230-million.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 3d0dd35ceb0a9bdf8e1677ec0a4641ddb6d6a381152462ce80a4550cd97c267b

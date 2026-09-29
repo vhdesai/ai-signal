@@ -5,8 +5,8 @@ title: BREAKINGOpenAI restricts access to Cyber model after dissing Anthropic fo
 date: '2026-04-30'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 63223c939976560d71a0e8f2044b2aa7311f28e2b7df7eb33069048d78a7b38d
 normalized_title_hash: 9161978e6e82bc5c

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/AI-skill-supply-demand-indeed/826405/
 url_canonical: https://www.ciodive.com/news/AI-skill-supply-demand-indeed/826405/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_065717_Final-Daily-AI-News-Digest.md
 content_hash: 7b740986f7ec36f951b8e01ff6fb7a290ea852ff49497de35fd12acefd518077
 normalized_title_hash: 8d3bba56bc2d6e4c

@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Forbes
 url_original: https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/
 url_canonical: https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: c3ac6a6f2648c360ff558d68d181480dd0d47431e38a2f33871a8b4eda1e9926
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera
+- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit
-- 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
+- 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
+- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
 embedding_id: 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A UCSD team used two teleoperated Unitree G1 humanoid robots to perform gallblad
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
+**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly]]
 <!-- graph:end -->

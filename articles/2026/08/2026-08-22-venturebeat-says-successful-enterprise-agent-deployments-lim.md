@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 embedding_id: 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
 event_name: ''
 ---
@@ -34,5 +34,5 @@ VentureBeat reported that enterprises seeing success with AI agents are limiting
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Reuters
 url_original: https://www.reuters.com/technology/oracle-spend-700-million-more-restructuring-costs-it-ramps-up-ai-spending-2026-09-11/
 url_canonical: https://www.reuters.com/technology/oracle-spend-700-million-more-restructuring-costs-it-ramps-up-ai-spending-2026-09-11/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8424a249e354879012dd9d57133a74e00cb5ee0341358a4ed4de7dad0ef53c38

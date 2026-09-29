@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Forbes
 url_original: https://www.forbes.com/sites/lanceeliot/2026/06/03/bold-symposium-at-stanford-illuminates-the-future-of-ai-for-mental-health/
 url_canonical: https://www.forbes.com/sites/lanceeliot/2026/06/03/bold-symposium-at-stanford-illuminates-the-future-of-ai-for-mental-health/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 53a5cbcb07731e6defe25f50e87a71ee779aebbd506fced5d3eda191a59b48fa
 normalized_title_hash: e159ff32990c69ea

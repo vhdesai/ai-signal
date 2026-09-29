@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
 url_canonical: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 72693e54f07be858eb4c10f6e9dc6e5bba72eb574d955d12d2bfae3ce4b712cb
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
 - 2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 embedding_id: 2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch reports on OpenAI's expanding agent surface, centered on a desktop ap
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]] · [[2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system]]
+**Related:** [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]] · [[2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]]
 <!-- graph:end -->

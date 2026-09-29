@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/05/26/
 url_canonical: https://9to5mac.com/2026/05/26/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ea44221da25d65f0e3fc4f36007a01e17631834379e20a545c10a87b0554a9eb

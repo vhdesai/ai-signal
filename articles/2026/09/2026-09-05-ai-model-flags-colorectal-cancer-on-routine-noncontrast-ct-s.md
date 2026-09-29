@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The American Journal of Managed Care
 url_original: https://www.ajmc.com/view/ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-scans
 url_canonical: https://www.ajmc.com/view/ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-scans
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: cc388ab7ff9f32dca718ef21dabecabc068c953ab0cd02cb30e8de1ded6068fe
 normalized_title_hash: e713d09991007092
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
+- 2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
-- 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 embedding_id: 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A deep learning model detected colorectal cancer on routine noncontrast CT scans
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]]
+**Related:** [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]]
 <!-- graph:end -->

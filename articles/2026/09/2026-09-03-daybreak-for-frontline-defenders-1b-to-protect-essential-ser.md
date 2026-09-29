@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: OpenAI
 url_original: https://openai.com/index/daybreak-for-frontline-defenders/
 url_canonical: https://openai.com/index/daybreak-for-frontline-defenders/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: dab3879696b4a8280da4a8306e577257adbc04b286145eb0c156488a2adbd4bd

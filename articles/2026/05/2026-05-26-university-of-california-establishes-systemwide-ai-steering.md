@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: University of California
 url_original: https://www.universityofcalifornia.edu/press-room/new-uc-steering-committee-guide-use-artificial-intelligence-across-uc-system-and-beyond
 url_canonical: https://www.universityofcalifornia.edu/press-room/new-uc-steering-committee-guide-use-artificial-intelligence-across-uc-system-and-beyond
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a195ec782b47f0f5b8508006fa3938bf981b29b808cf223e84c90e2fb3ab3080

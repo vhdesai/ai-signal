@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch · eWeek
 url_original: https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
 url_canonical: https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: d72ecdd50cd8f41d4a7b9dc0797da0076a5913787382db0205d933a3ff540c0a

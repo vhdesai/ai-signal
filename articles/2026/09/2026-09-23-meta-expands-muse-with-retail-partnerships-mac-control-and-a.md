@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
 url_canonical: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 4e6e9a9771785ea659d26e5c23786ec252aad922fb6a91d3cc5ee16b66854ace
@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
+- 2026-09-27-can-muse-overcome-meta-s-trust-issues
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 embedding_id: 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta used Connect to expand Muse, its personal AI agent, with a real-time avatar
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
+**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
 <!-- graph:end -->

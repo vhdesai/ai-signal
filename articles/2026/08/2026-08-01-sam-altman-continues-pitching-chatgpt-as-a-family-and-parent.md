@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
 url_canonical: https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-02_060559_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: f79970c9cde8420f41f4cda2436e23d92a2182d4eb7c2f0df6c667c8559ebd99

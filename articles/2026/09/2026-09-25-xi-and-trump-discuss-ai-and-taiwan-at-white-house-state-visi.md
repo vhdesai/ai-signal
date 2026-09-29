@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 45b8ecb1fc794f539bb46f69ea0df79e8bf2e0909f1c8ce59df1b38fa0944803
@@ -21,9 +21,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
+- 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-- 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
 embedding_id: 2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Xi Jinping used his White House meeting with Donald Trump to press for AI cooper
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]] · [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]]
+**Related:** [[2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]]
 <!-- graph:end -->

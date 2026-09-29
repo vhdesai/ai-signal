@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/
 url_canonical: https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: aa05a77fa01f30564a2a8fc9fa654e93dcfb93a0e455263d29eb68aa05248007
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
+- 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
-- 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 embedding_id: 2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tokyo-based Sakana AI has appointed Jürgen Schmidhuber — LSTM co-inventor and
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-09-22-openai-calls-for-international-standards-on-recursive-self-i]] · [[2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr]]
+**Related:** [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] · [[2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-09-22-openai-calls-for-international-standards-on-recursive-self-i]]
 <!-- graph:end -->

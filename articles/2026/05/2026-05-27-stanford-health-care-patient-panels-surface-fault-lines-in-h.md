@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: STAT News
 url_original: https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/
 url_canonical: https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 41794fad5af3033908d0d6c468993281916cfc2cd8e2ed9baa6e4887eaed5fb4
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 embedding_id: 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford Health Care's 18-month experiment of running new AI tools past patient 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]]
+**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
 <!-- graph:end -->

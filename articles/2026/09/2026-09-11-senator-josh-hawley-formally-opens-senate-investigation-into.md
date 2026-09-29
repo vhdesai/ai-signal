@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Information
 url_original: https://www.theinformation.com/articles/sen-josh-hawley-launches-investigation-into-openai-hugging-face-hack
 url_canonical: https://www.theinformation.com/articles/sen-josh-hawley-launches-investigation-into-openai-hugging-face-hack
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 90baae6fa2136b306a19561ff5e51e5073dd7e2d77bf23646293210cd6da282f

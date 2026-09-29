@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: Quanta Magazine
 url_original: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/
 url_canonical: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: ed3e297c757df7c7a4aa9b3d777aea2860b26135bedca1da53f5b21eb7cbab65
 normalized_title_hash: f18b2f3a687ded25

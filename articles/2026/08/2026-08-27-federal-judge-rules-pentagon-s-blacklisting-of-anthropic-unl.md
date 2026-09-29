@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: U.S. News & World Report (Reuters) · Anthropic, U.S. Department of Defense
 url_original: https://www.usnews.com/news/top-news/articles/2026-08-27/us-judge-rules-pentagon-blacklisting-of-anthropic-unlawful
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-08-27/us-judge-rules-pentagon-blacklisting-of-anthropic-unlawful
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 27247398fe7da448bbac6fb8260efb5c1ef79205c2c30ecfe567f22d53cde0f7

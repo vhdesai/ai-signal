@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 148
+member_count: 154
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 148 connected article(s).
+> Auto-generated entity hub. 154 connected article(s).
 
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl|Databricks makes the Genie One MCP server generally available]]
 - `2026-09-24` [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely|Lightspeed targets $250M for an India fund dedicated entirely to early-stage AI]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-23` [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra|NVIDIA: Released Isaac ROS 5.0 for robotics, expanded AI infrastructure, and promoted AI safety]]

@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/unive/
 url_canonical: https://openai.com/index/unive/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5542847bb328c4d431097c29e8c70ae577ff004e03ed73bde5487c0cd11a4821

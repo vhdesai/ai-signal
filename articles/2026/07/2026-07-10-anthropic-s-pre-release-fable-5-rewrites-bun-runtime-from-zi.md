@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: The Decoder
 url_original: https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/
 url_canonical: https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 73b756be6be88d35fa36a48c0e3c507efbd3d69eb78552be6ca87af03f40c743

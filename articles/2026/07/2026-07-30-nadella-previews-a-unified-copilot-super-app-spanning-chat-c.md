@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: Technology Record
 url_original: https://www.technologyrecord.com/article/microsoft-is-developing-a-copilot-super-app-that-will-launch-later-in-2026
 url_canonical: https://www.technologyrecord.com/article/microsoft-is-developing-a-copilot-super-app-that-will-launch-later-in-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: c3c6549292e148ced820725cf2570e501b1e87326c1d981524aa4160de6f3b9a
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
+- 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
 - 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
-- 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 embedding_id: 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ On Microsoft's earnings call, Satya Nadella said the company will fold Copilot's
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]] · [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co]]
+**Related:** [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh]] · [[2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]] · [[2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na]]
 <!-- graph:end -->

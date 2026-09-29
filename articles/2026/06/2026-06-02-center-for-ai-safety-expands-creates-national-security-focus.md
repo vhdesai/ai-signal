@@ -5,8 +5,8 @@ title: Center for AI Safety Expands, Creates National Security–Focused Frontie
 date: '2026-06-02'
 source: HPCwire; Business Wire
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/center-ai-safety-names-former-150000662.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: a8aaf1f02db1e2dd50fab44b6b4246e3298530abfc0e5b9204b64504c4ba922f

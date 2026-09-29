@@ -5,7 +5,7 @@ date: '2026-04-23'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/
 url_canonical: https://machinelearning.apple.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 111d8a7847988235899d3fc57275b00ff84d7b381470e96db956481597f19d5b

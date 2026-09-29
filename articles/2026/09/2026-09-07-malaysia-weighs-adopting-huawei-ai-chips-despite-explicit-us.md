@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Lowyat.NET
 url_original: https://www.lowyat.net/2026/403595/malaysia-mulls-using-huawei-ai-chips-to-further-national-ambition/
 url_canonical: https://www.lowyat.net/2026/403595/malaysia-mulls-using-huawei-ai-chips-to-further-national-ambition/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 03d35c136c3f6df5e57cd161bef2a2efb55edc1315ee609275caa67433e0b339

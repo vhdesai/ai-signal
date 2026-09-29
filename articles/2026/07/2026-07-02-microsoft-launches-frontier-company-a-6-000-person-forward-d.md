@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-frontier-company-launches-6-144023214.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-frontier-company-launches-6-144023214.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 726ea50fe3df880039ba14e5a494ac070560664185deb588dc30ba5b15c19348

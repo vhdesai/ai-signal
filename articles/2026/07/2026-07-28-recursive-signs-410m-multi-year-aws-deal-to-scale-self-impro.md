@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Amazon Web Services
 url_original: https://press.aboutamazon.com/aws/2026/7/recursive-signs-410-million-multi-year-collaboration-with-aws-to-scale-self-improving-ai
 url_canonical: https://press.aboutamazon.com/aws/2026/7/recursive-signs-410-million-multi-year-collaboration-with-aws-to-scale-self-improving-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: edf6815158f2cead2baeed80b3348eebfe1aae24d5be700d3e9359e869b66f29

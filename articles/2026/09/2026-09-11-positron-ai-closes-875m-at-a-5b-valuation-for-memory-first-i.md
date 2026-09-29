@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/liberty-global-tech-ventures-invests-100400420.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/liberty-global-tech-ventures-invests-100400420.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f3836f908751f153fcaeabbf1a17b36f92c6503af8030402a5656e46094b8548

@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/
 url_canonical: https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: cf3527b169cce94713b1afde131839036b95ee84a5a4fd4c6a1b81cc56f5482e
 normalized_title_hash: edd07c5f46b850b4
@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
-- 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 embedding_id: 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Perplexity launched Brain, described as a memory system that builds a context gr
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]]
+**Related:** [[2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h]] · [[2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive]]
 <!-- graph:end -->

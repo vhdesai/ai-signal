@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/elevate-2026-brings-credit-union-120000890.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/elevate-2026-brings-credit-union-120000890.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 883a92144c4e04da30872f19e2e1af53abb3fe764f2843044e2625b3d9d410c9

@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/california-ai-transparency-law-first-000156185.html
 url_canonical: https://www.yahoo.com/news/politics/articles/california-ai-transparency-law-first-000156185.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 24b6de86ee24681973ba8ad3bf1e8db0cd765db3c6340479e0e855cd7431d29c

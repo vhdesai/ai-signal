@@ -5,8 +5,8 @@ title: Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/ai-news-may-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4644d2cd482708d5a3949aec5c1f005f21e705f45676b9af9319bf7aaa99b383
 normalized_title_hash: e07b56156c2be256
@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-08-12-daily-ai-news-digest-august-13-2026
+- 2026-09-27-daily-ai-news-digest-september-27-2026
 - 2026-09-03-daily-ai-news-digest-september-4-2026
 - 2026-05-20-ai-news-digest-may-20-2026
-- 2026-07-07-daily-ai-news-digest-july-8-2026
 embedding_id: 2026-05-02-saturday-may-2-2026-today-s-digest-covers-18-confirmed-stori
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the past 2
 
 **Entities:** [[Cerebras]] · [[Microsoft]] · [[Mistral]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
+**Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-08-12-daily-ai-news-digest-august-13-2026]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
 url_canonical: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: d216436f420b533abdbb0b2492fc319d5d0f92b6320886da95ba87c5caf0b2c3
 normalized_title_hash: 1aa5c61cf0c39ce3
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 - 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
-- 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
+- 2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding
 embedding_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI coding startup Lovable—which recently signed a multi-year Google Cloud deal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation]] · [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding]]
 <!-- graph:end -->

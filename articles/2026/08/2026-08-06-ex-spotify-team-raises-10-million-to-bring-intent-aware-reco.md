@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/
 url_canonical: https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 44a73324c5f4acce42db98ab1e38fe9ee38f6e5f793dc4a61c957ab57c46f332
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
+- 2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
-- 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 embedding_id: 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Malachyte, founded by former Spotify employees who worked on recommendation infr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]]
+**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]]
 <!-- graph:end -->

@@ -6,14 +6,14 @@ date: '2026-09-25'
 source: The Information
 url_original: https://www.theinformation.com/articles/navier-stokes-ai-tumult-forces-to-new-contest-involving-openai
 url_canonical: https://www.theinformation.com/articles/navier-stokes-ai-tumult-forces-to-new-contest-involving-openai
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: d33b08230535b54576f49492f9cd477c9460534d8521dfb04864b1eab2e39bf1
 normalized_title_hash: 4af959467d63513a
 canonical_url_hash: 231584df06740613
 tags:
 - Hot
-- Research
 entities:
 - Anthropic
 - Meta

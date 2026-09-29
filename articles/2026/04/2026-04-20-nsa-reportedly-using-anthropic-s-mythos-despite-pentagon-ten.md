@@ -4,8 +4,8 @@ title: NSA Reportedly Using Anthropic's Mythos Despite Pentagon Tension
 date: '2026-04-20'
 source: AI Flash Report
 url_original: null
-url_canonical: https://cybersecuritynews.com/nsa-confirms-anthropics-mythos-use/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 2d0b37d2786ce076723af7c3e4f90d566afcd7d44e6c04ed6e10d1c56959c2a8

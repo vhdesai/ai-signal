@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html
 url_canonical: https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-12_065059_Final-Daily-AI-News-Digest.md
 content_hash: 0c3ec00e10c6a66e82baa473b28e0ea167afaaad49a33347c2c62040e7e28a05
 normalized_title_hash: 0e4404299d2db58c

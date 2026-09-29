@@ -4,8 +4,8 @@ title: Lowe's says "semantic" data is materially boosting its AI agents
 date: '2026-05-28'
 source: The Information
 url_original: null
-url_canonical: https://ainewsleader.com/articles/84028/lowes-says-semantic-data-is-boosting-its-ai-agents
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 988b7de85aff3fc78524dbe6e16a46d3796b45c3f5d984ad86c36c2b70c162ca

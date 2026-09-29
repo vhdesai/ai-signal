@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Crypto Briefing]
 url_original: https://cryptobriefing.com/goldman-sachs-ai-capex-1-2-trillion-2027/
 url_canonical: https://cryptobriefing.com/goldman-sachs-ai-capex-1-2-trillion-2027/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 72911647c7a742ea5a398a93087234f991d78753a2ea1a2522d5627b60c4f908
@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1
+- 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
-- 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
-- 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
-- 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
+- 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 embedding_id: 2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Goldman Sachs raised its forecast for US hyperscaler capex, sketching a path fro
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]]
+**Related:** [[2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1]] · [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]]
 <!-- graph:end -->

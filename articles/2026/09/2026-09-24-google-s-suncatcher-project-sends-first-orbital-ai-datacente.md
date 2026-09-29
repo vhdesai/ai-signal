@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/
 url_canonical: https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6642d6608383d1429ab70c2fe7f042d69514db079e8442772122ae780d713a9d
@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
 related_article_ids:
-- 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
 - 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
 embedding_id: 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 event_name: ''
@@ -37,5 +36,5 @@ Google's Suncatcher program will launch a fridge-sized experimental TPU satellit
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches]]
-**Related:** [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]]
+**Related:** [[2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes]]
 <!-- graph:end -->

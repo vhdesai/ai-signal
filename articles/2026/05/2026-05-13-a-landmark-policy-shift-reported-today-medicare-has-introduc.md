@@ -5,8 +5,8 @@ title: 'A landmark policy shift reported today: Medicare has introduced a new pa
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.aichatdaily.com/ai-business/cms-access-medicare-ai-pair-team
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 2ad200e9d43003d4605896de3acf8a675519c7a991f1fba4155854c370139d81
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
+- 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
+- 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
 - 2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash
-- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
-- 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 embedding_id: 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A landmark policy shift reported today: Medicare has introduced a new payment mo
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t]]
+**Related:** [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t]] · [[2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca]] · [[2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash]]
 <!-- graph:end -->

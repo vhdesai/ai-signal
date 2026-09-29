@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Purdue Elmore Family School of ECE
 url_original: https://engineering.purdue.edu/ECE/News/2026/purdue-ai-racing-sets-track-record-runner-up-laguna-seca
 url_canonical: https://engineering.purdue.edu/ECE/News/2026/purdue-ai-racing-sets-track-record-runner-up-laguna-seca
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 78c1df9873e93d53ffc5fa62128ec1e60b3cf16940db176833e28b3fa9a323d8

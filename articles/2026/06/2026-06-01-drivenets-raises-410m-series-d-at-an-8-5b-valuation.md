@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CTech**
 url_original: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
 url_canonical: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 4322e106d611818d8d628ae51f71cc532fdd2fb3329d4a3d3e5e044004c119a8
 normalized_title_hash: 6f23295a059d71c7

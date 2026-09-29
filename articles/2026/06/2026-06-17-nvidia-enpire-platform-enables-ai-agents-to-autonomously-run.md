@@ -5,7 +5,7 @@ date: '2026-06-17'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm
 url_canonical: https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: f0f74fa413e29d05c0a33dc642490118f324f6a837c995216f0f21d9b5288e9a
 normalized_title_hash: 3890afdc0872733c

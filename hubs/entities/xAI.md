@@ -1,15 +1,21 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 404
+member_count: 410
 ---
 
 # xAI
 
-> Auto-generated entity hub. 404 connected article(s).
+> Auto-generated entity hub. 410 connected article(s).
 
+- `2026-09-27` [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f|xAI's Colossus 2 on Track to Roughly Double Its Nvidia GPU Fleet by Year-End]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
 - `2026-09-26` [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off|First known malware botnet weaponizes xAI Grok's API for offensive automation]]
 - `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head|Musk says xAI's Colossus runs ~780,000 Nvidia processors, heading toward 1.44M GPUs]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4|Musk says xAI's Colossus now runs ~780,000 Nvidia GPUs, with 440,000 more due by October]]
 - `2026-09-24` [[2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats|xAI Tests Grok as a Participant Inside X’s XChat Group Chats]]
 - `2026-09-24` [[2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely|Lightspeed targets $250M for an India fund dedicated entirely to early-stage AI]]
 - `2026-09-23` [[2026-09-23-even-daily-ai-users-remain-worried-about-the-technology|Even daily AI users remain worried about the technology]]

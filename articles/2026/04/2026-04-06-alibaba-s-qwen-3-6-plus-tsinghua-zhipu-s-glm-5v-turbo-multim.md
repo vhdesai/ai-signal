@@ -5,8 +5,8 @@ title: Alibaba's Qwen 3.6 Plus, Tsinghua/Zhipu's GLM-5V-Turbo (multimodal), and 
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 8d0f866dfc22b6d52ed6fcb97ef573a06b978465f10af7326398f55ee24713f6

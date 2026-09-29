@@ -1,28 +1,51 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 246
+member_count: 269
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 246 connected article(s).
+> Auto-generated entity hub. 269 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust|How to know when the AI boom is about to go bust]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct|Goldman Sachs: hyperscalers will spend $1.2T on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i|Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1|Goldman Sachs Lifts 2027 Hyperscaler AI Capex Forecast to $1.2 Trillion — "Largest Since the Railroads"]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready|The Information: Why Wall Street's big, bad bears aren't ready to short AI yet]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-26` [[2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute|AWS tells engineers to conserve CPU capacity amid AI compute crunch; Oracle delays New Mexico rent]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
-- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo’s "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-saturday-september-26-2026|Saturday, September 26, 2026]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-oracle-issues-force-majeure-notice-on-project-jupiter-openai|Oracle issues force majeure notice on Project Jupiter, OpenAI's New Mexico campus]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head|Musk says xAI's Colossus runs ~780,000 Nvidia processors, heading toward 1.44M GPUs]]
+- `2026-09-25` [[2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4|Musk says xAI's Colossus now runs ~780,000 Nvidia GPUs, with 440,000 more due by October]]
 - `2026-09-25` [[2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1|Goldman Sachs Lifts Hyperscaler AI Capex Trajectory Toward $1.2–1.4T by 2027]]
+- `2026-09-25` [[2026-09-25-daily-ai-news-digest-september-26-2026|Daily AI News Digest – September 26, 2026]]
+- `2026-09-25` [[2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with|Crusoe abandons its $1.25B plan to power AI data centers with Boom stationary turbines]]
 - `2026-09-24` [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou|WSJ / Bloomberg: Cracks in Oracle's Stargate New Mexico buildout for OpenAI]]
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate|Oracle sends force-majeure notice on its New Mexico Stargate data center]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta|Oracle sends force majeure notice on its $165B New Mexico Stargate campus]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat|Oracle sends force majeure notice on New Mexico Stargate data-center site]]
+- `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-project-jupiter-data-c|Oracle issues force majeure notice on Project Jupiter data-center campus]]
+- `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-165b-project-jupiter-d|Oracle issues force majeure notice on $165B Project Jupiter data center]]
 - `2026-09-24` [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla|Oracle Sends Force-Majeure Notice on Project Jupiter, Its Flagship Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp|Oracle Issues Force Majeure Notice on Its $165B Stargate Campus in New Mexico]]
 - `2026-09-24` [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a|Oracle Invokes Force Majeure on the 2.45GW “Project Jupiter” AI Data Center]]
 - `2026-09-24` [[2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d|Nvidia-Backed Firmus Pushes Ahead With a ~$5B Australian IPO Despite a Forecast Loss]]
 - `2026-09-24` [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c|Michael Burry Warns ~$3T of Off-Balance-Sheet AI Commitments Could "Blow a Hole" in Big Tech Revenues]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
-- `2026-09-24` [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october|Google's First Project Suncatcher Satellite Launches October 1 With Four TPUs Aboard]]
+- `2026-09-24` [[2026-09-24-google-s-first-project-suncatcher-satellite-launches-october|Google’s First Project Suncatcher Satellite Launches October 1 With Four TPUs Aboard]]
+- `2026-09-24` [[2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr|Google’s First Orbital TPU Test Flies October 1 on SpaceX Transporter-18]]
 - `2026-09-24` [[2026-09-24-friday-september-25-2026|Friday, September 25, 2026]]
 - `2026-09-24` [[2026-09-24-daily-ai-news-digest-september-25-2026|Daily AI News Digest – September 25, 2026]]
 - `2026-09-24` [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n|Anthropic Says ~950 Claude Agents Autonomously Identified a Novel CRISPR-Like Enzyme System]]

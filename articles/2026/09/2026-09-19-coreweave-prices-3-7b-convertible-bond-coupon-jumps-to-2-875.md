@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Information
 url_original: https://www.theinformation.com/articles/coreweave-prices-3-7-billion-convertible-bond-offering
 url_canonical: https://www.theinformation.com/articles/coreweave-prices-3-7-billion-convertible-bond-offering
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
 content_hash: c8c3baacc1efd3f2e11c54bbcf045f66d0c1937a8ed740b7e70a0e3db90f3cb4
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
+- 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-- 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
+- 2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe
 embedding_id: 2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave priced $3.7B in convertible bonds on Friday, above the $3B initially m
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai]]
+**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/09/14/buildots-raises-130-million-to-expand-ai-powered-construction-platform/
 url_canonical: https://siliconangle.com/2026/09/14/buildots-raises-130-million-to-expand-ai-powered-construction-platform/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_062818_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 94d7b9f1c0daeb4736990a2246a38a1cca43fc46f49d4d80e3ebb83f010a86a4

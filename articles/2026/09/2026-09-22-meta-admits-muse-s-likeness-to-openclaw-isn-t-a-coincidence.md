@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/
 url_canonical: https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 74609c4b351eccdcd3e9f7266c2bae699af6fde8924bcd08a654d9a6a3cb44f6
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-27-can-muse-overcome-meta-s-trust-issues
+- 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-- 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 embedding_id: 2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Meta acknowledged that its new Muse AI assistant was "heavily inspired" by OpenC
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions]]
+**Related:** [[2026-09-27-can-muse-overcome-meta-s-trust-issues]] · [[2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]]
 <!-- graph:end -->

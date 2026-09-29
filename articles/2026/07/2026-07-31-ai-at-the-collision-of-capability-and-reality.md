@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-07-07-cost-compute-and-consolidation-set-the-tone
+- 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-09-22-wednesday-september-23-2026
 embedding_id: 2026-07-31-ai-at-the-collision-of-capability-and-reality
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The last 24 hours were defined less by a single model launch than by AI collidin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-09-22-wednesday-september-23-2026]]
+**Related:** [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

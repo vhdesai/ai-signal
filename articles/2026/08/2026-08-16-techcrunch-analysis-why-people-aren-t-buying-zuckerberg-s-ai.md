@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 - 2026-08-16-zuckerberg-s-ai-manifesto-lands-to-public-skepticism
+- 2026-09-27-can-muse-overcome-meta-s-trust-issues
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 - 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
-- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 embedding_id: 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch's Equity podcast dissected why Zuckerberg's 6,500-word "The Future Is
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-08-16-zuckerberg-s-ai-manifesto-lands-to-public-skepticism]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]]
+**Related:** [[2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe]] · [[2026-08-16-zuckerberg-s-ai-manifesto-lands-to-public-skepticism]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]]
 <!-- graph:end -->

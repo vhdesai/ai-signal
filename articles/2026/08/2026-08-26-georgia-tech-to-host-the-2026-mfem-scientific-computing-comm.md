@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Georgia Tech AI Research News · Georgia Institute of Technology
 url_original: https://ai.gatech.edu/research-news
 url_canonical: https://ai.gatech.edu/research-news
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8d9ae159b1ef0d77734c06b570d7ae282424262e7148eeefb47dff71ba741ce3

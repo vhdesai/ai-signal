@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20Huawei%20chip%20order
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20Huawei%20chip%20order
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: 511606f58f566f0ef5d8690f1027cee2b51894ba322f4425ffd9a3ecce917d25

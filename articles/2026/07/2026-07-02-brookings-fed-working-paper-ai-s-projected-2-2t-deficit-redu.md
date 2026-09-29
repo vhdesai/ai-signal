@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Fortune
 url_original: https://finance.yahoo.com/economy/policy/articles/ai-2-2-trillion-deficit-185524020.html
 url_canonical: https://finance.yahoo.com/economy/policy/articles/ai-2-2-trillion-deficit-185524020.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 7eb047f2d53e1eb8d2f804f3f5a28d6af303ca79f8c8e1769d58be5ae9a59e39
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 - 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 embedding_id: 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new working paper from economists at Brookings and the Federal Reserve finds A
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain]]
+**Related:** [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
 <!-- graph:end -->

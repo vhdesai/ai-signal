@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/
 url_canonical: https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 3fcaaa78ef100e59421b306f6a6541b29acd4c4cafe38a66eb374dd3822c23f8
@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-- 2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass
-- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+- 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
+- 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
+- 2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen
 embedding_id: 2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Reporting compiled by The Decoder finds the NSA is already spending billions on 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]] · [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
+**Related:** [[2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca]] · [[2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen]]
 <!-- graph:end -->

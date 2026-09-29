@@ -4,8 +4,8 @@ title: 'NVIDIA Releases Star Elastic: Three Nested Reasoning Models in One Check
 date: '2026-05-09'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 2d645b69729863d95eb609af489956a6110bb39274fdb8a6100bdaebb549ed8c

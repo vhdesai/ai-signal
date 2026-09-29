@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Cybersecurity News
 url_original: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
 url_canonical: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ad5bb98a85984eee6e85cad85314833bb5c1b62f774d4ff644ca4d37c8ed03b0

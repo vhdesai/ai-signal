@@ -6,7 +6,7 @@ date: '2026-08-12'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
 url_canonical: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 91123e6ebe9a7b4b978aee1f534d08866b400f8c027096b896c387c0c74c337b

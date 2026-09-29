@@ -4,8 +4,8 @@ title: Amazon kills internal AI leaderboard after employees gamed it
 date: '2026-05-28'
 source: Financial Times via The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 49ea027570b430c704ad93fe1fa8e1aceda5abc907a40cdf2c4b6ed38acb5cc7

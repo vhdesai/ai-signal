@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/
 url_canonical: https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 3b2a9679aa1ab688b76f6fd7396b8974cd0e14cbf84db9102aeeddaf69fe1e95
@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri
 - 2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
+- 2026-09-27-anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-t
 embedding_id: 2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou
 event_name: ''
 ---
@@ -35,5 +36,5 @@ At the Ai4 conference, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng made different
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin]] · [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri]] · [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
+**Related:** [[2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin]] · [[2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri]] · [[2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-09-27-anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-t]]
 <!-- graph:end -->

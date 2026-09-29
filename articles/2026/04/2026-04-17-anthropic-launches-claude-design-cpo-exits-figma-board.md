@@ -4,8 +4,8 @@ title: Anthropic Launches Claude Design; CPO Exits Figma Board
 date: '2026-04-17'
 source: The Neuron / The AI Track
 url_original: null
-url_canonical: https://recul.ai/news/anthropic-cpo-figma-board-claude-design-launch/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 9b3f10fb175eaad08d603f17aafb07bbc2db2a02a827cab30c82c390de06de09

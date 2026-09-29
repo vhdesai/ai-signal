@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: OpenAI
 url_original: https://openai.com/index/deutsche-telekom/
 url_canonical: https://openai.com/index/deutsche-telekom/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 6a21e59e1dc3f35e11c257a39267ce7555321c4563d8864d16ebc0890c7ea66f

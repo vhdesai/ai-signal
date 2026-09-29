@@ -5,8 +5,8 @@ title: OpenAI's CFO is reported to be signaling 2027 as a potential IPO window w
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-cfo-just-told-employees-135036521.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 828fa89b2f25a87f3814e143bec741d8062493689dc5089d21bb3587091e465b
 normalized_title_hash: 5fa7b461fb6a944d

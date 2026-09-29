@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/
 url_canonical: https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: e660c5c3fe59e8fcac4d3c9b2d9544a69ea2a857464b55b4339028a048be83a5

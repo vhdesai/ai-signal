@@ -5,8 +5,8 @@ title: As OpenAI — valued at $730 billion after its record $110B fundraise —
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.fortuneindia.com/economy/a-110-billion-fundraise-at-a-730-billion-valuation-for-openai-has-just-changed-the-world-forever/130802
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 1d4dfa8a53fa0364a4991f738b6463cbe6a5237c9eb36a41bf7c1a40caa633b4

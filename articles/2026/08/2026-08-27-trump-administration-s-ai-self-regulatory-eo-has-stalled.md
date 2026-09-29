@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+AI+regulator+executive+order+stalls
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Trump+AI+regulator+executive+order+stalls
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_065040_Final-Daily-AI-News-Digest.md
 content_hash: c781f1ccf55099ca902eff36fc45e1edd1512c6dd165335ab4424f641b64adfa
 normalized_title_hash: 70fef1dbfb06b9ea

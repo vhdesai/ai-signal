@@ -4,8 +4,8 @@ title: 'University of Washington: Microsoft AI deal still lacks defined value'
 date: '2026-05-04'
 source: The Daily of the University of Washington
 url_original: null
-url_canonical: https://www.dailyuw.com/article/uw-s-many-millions-microsoft-ai-deal-still-lacks-defined-value-in-months-following-announcement-20260504
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 735574d547194e497be40751ed825a0cc4a0cbacc60c084d78a0b9d00cffcc94
 normalized_title_hash: e925c169281cf7c3

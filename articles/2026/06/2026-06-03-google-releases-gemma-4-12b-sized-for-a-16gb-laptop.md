@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Ars Technica
 url_original: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
 url_canonical: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 0acc8d6f2481e73e29b23975a7e541e7ec10cd9a27022940acb2afb5071229a9

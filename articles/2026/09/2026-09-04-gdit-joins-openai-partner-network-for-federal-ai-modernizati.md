@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Homeland Security Today
 url_original: https://www.hstoday.us/industry/industry-news/gdit-joins-openai-partner-network-to-accelerate-federal-ai-modernization/
 url_canonical: https://www.hstoday.us/industry/industry-news/gdit-joins-openai-partner-network-to-accelerate-federal-ai-modernization/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_060634_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 46d6679b299b0c305507029a41049672eb7073d726ec50e52efb004ffc90c4d2

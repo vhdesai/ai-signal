@@ -5,8 +5,8 @@ title: 'Nature Medicine: a call for an independent international scientific foun
 date: '2026-05-04'
 source: Nature Medicine
 url_original: null
-url_canonical: https://www.nature.com/articles/s41591-026-04375-w
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: ffe4496a90a511eec99004f5e8b334ff198a3c1ebbcee7b357206db279ac4913
 normalized_title_hash: beb1d3aecb9724e1

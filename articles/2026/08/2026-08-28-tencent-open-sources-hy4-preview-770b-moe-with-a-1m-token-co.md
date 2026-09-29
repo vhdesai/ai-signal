@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: TechNode
 url_original: https://technode.com/2026/08/28/tencent-open-sources-hy4-preview-with-770b-parameters-and-a-1m-token-context/
 url_canonical: https://technode.com/2026/08/28/tencent-open-sources-hy4-preview-with-770b-parameters-and-a-1m-token-context/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-30_065043_Final-Daily-AI-News-Digest.md
 content_hash: 64c2dfe9aa7ec5e3234408305784752e21b0eccb02efcb8863b3ac3ab52b9dd1
 normalized_title_hash: b12dfc4ec259fc42

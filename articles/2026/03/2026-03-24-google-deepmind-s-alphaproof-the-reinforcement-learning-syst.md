@@ -5,8 +5,8 @@ title: Google DeepMind's AlphaProof — the reinforcement learning system that a
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: bac394f56d465f60351762c3674b488a60be7a36ece578dc4fa74172fde148b8

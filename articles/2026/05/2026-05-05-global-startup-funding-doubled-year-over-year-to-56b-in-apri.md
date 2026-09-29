@@ -5,8 +5,8 @@ title: Global startup funding doubled year-over-year to $56B in April, marking t
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ai2.work/blog/global-venture-funding-hits-56b-in-april-as-ai-megarounds-dominate
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 65011a52e7d66be69269ba8d12007e5c81d5266b2e0ee4d8f8f6b32cd6875446
 normalized_title_hash: 2c72ee8464f208c2

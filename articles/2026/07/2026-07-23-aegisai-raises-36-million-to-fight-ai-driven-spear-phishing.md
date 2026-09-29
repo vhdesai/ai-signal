@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
 - 2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr
 - 2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc
-- 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
+- 2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have
 embedding_id: 2026-07-23-aegisai-raises-36-million-to-fight-ai-driven-spear-phishing
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AegisAI, founded by former Google security executives, raised a $36 million Seri
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-07-28-bot-detection-startup-spur-raises-200m-from-insight-partners]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130]]
+**Related:** [[2026-07-28-bot-detection-startup-spur-raises-200m-from-insight-partners]] · [[2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va]] · [[2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr]] · [[2026-08-26-instinct-raises-350m-at-a-2-5b-valuation-before-public-launc]] · [[2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have]]
 <!-- graph:end -->

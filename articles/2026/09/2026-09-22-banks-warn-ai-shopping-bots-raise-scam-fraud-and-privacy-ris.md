@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Reuters
 url_original: https://us.fashionnetwork.com/news/Banks-warn-ai-shopping-bots-raise-scam-fraud-and-data-privacy-risks,1868828.html
 url_canonical: https://us.fashionnetwork.com/news/Banks-warn-ai-shopping-bots-raise-scam-fraud-and-data-privacy-risks,1868828.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060610_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9ed09e52e637501aa29b670d7877af743e4c43d3a05137b4c492724bda1412c9

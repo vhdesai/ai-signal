@@ -5,8 +5,8 @@ title: 'Stanford AI Index 2026: Breakthroughs at Concerning Environmental & Tale
 date: '2026-04-13'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 9105b0411b902ca7f0574553a4b6ead4e85886267393761d8aaa1258f5c517e2

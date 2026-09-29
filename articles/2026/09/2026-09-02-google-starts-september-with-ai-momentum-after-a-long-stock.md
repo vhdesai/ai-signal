@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html
 url_canonical: https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 21da049487bdf57f8b4c2b98c42ef2966a67f51b5ffef3fdea7892868a6fe606
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in
 - 2026-05-27-the-week-that-reset-the-ai-industry
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
-- 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
+- 2026-09-26-daily-ai-news-digest-september-26-2026
 embedding_id: 2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CNBC reported that Alphabet entered September with renewed AI momentum after a f
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]]
+**Related:** [[2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-09-26-daily-ai-news-digest-september-26-2026]]
 <!-- graph:end -->

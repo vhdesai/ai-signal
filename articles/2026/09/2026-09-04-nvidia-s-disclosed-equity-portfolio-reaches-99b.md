@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html
 url_canonical: https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-04_074900_Final-Daily-AI-News-Digest.md
 content_hash: 0945075ea4274f394a378bcfe1bdbb6fa1067edda5e43ea0c8e19b3685cd34b6
 normalized_title_hash: 40b978c65b06000a

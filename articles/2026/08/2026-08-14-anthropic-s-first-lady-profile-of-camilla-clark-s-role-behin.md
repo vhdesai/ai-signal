@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 embedding_id: 2026-08-14-anthropic-s-first-lady-profile-of-camilla-clark-s-role-behin
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The Information published a profile of Camilla Clark, wife of Anthropic CEO Dari
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]]
+**Related:** [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]]
 <!-- graph:end -->

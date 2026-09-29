@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: Unite.AI**
 url_original: https://www.unite.ai/salesforce-and-aws-expand-ai-integrations-across-slack-and-amazon-quick/
 url_canonical: https://www.unite.ai/salesforce-and-aws-expand-ai-integrations-across-slack-and-amazon-quick/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 41e7019a9f71a99cd06f5d7c3ac5275aebd9cded3cb454fe4f27bec8c1eb76b0
 normalized_title_hash: b5742d6e509a7af5

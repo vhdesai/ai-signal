@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Microsoft Build 2026 Preview
 url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\microsoft-build-2026-preview.md
 content_hash: 75cc1f422bf4a8ef07727411e1178442d5b02cfab5cd6ffb862aa55b9491e69f
 normalized_title_hash: 4a878143a52487c5

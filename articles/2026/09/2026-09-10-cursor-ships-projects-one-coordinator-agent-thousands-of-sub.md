@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Cursor
 url_original: https://cursor.com/blog/projects
 url_canonical: https://cursor.com/blog/projects
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 7ffb9ca9bd7b8e7fe1751dbd3c13222294b2f090a6804f0248f5fcaa0ca0f0a4

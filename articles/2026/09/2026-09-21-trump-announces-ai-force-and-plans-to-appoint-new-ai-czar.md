@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Information
 url_original: https://www.theinformation.com/articles/president-trump-announces-ai-force-will-appoint-new-czar
 url_canonical: https://www.theinformation.com/articles/president-trump-announces-ai-force-will-appoint-new-czar
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 2f190d1646be8d60d33e0a4f6f3eb752cec5829bc4e60384f8bf12690c79f3aa

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
+- 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
+- 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl
-- 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
-- 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 embedding_id: 2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle expanded its Clinical AI Agent — which the company says has saved physi
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve]]
+**Related:** [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]]
 <!-- graph:end -->

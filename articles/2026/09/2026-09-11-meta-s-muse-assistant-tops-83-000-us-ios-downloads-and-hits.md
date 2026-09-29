@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The American Bazaar
 url_original: https://americanbazaaronline.com/2026/09/11/metas-muse-ai-assistant-tops-83000-us-ios-downloads-after-launch/
 url_canonical: https://americanbazaaronline.com/2026/09/11/metas-muse-ai-assistant-tops-83000-us-ios-downloads-after-launch/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 84b9489f0ab12a51f204bc7c2f71531fd4ade39fadf48dac81ebdac13f93ff16
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 - 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
-- 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
+- 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
 embedding_id: 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta's consumer agent surpassed 83,000 US iOS downloads and reached No. 2 on the
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
+**Related:** [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t]] · [[2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c]]
 <!-- graph:end -->

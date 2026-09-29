@@ -5,8 +5,8 @@ title: Google upgraded Vids with Veo 3.1 video generation, Lyria 3 music creatio
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: dd44134f8e8ba6535bebc8830cc08925d0dbc3a531b6b9ace1915e986fd976cb

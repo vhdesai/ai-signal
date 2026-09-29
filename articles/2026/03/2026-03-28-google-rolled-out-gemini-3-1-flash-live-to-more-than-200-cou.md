@@ -5,8 +5,8 @@ title: Google rolled out Gemini 3.1 Flash Live to more than 200 countries, compl
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: 820e647b9049e5369ff1219873f63d91ed9fd7f6215294f2c7c424e8f9689abb

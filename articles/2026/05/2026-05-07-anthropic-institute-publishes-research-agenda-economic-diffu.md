@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
-- 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 embedding_id: 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's newly established Anthropic Institute (TAI) published its formal res
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]]
+**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]]
 <!-- graph:end -->

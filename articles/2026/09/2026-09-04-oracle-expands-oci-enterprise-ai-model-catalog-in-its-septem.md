@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Oracle AI & Data Science Blog
 url_original: https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-september-2026-edition
 url_canonical: https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-september-2026-edition
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 9c1994db6350682ed794bbf769bff5bfba8bcc4083b58dcdaa33197ad99637d3

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-induction-labs-details-photon-1-a-106b-parameter-lsquo-imagi
+- 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
+- 2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec
 - 2026-05-11-
-- 2026-08-25-caltech-researchers-launch-a-physics-ai-built-on-neural-oper
-- 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 embedding_id: 2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MarkTechPost reports that Induction Labs' Photon-1 can simulate desktops, play c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-induction-labs-details-photon-1-a-106b-parameter-lsquo-imagi]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-05-11-]] · [[2026-08-25-caltech-researchers-launch-a-physics-ai-built-on-neural-oper]] · [[2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor]]
+**Related:** [[2026-07-26-induction-labs-details-photon-1-a-106b-parameter-lsquo-imagi]] · [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum]] · [[2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw]] · [[2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec]] · [[2026-05-11-]]
 <!-- graph:end -->

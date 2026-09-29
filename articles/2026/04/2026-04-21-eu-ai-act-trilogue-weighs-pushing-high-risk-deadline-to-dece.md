@@ -4,8 +4,8 @@ title: EU AI Act Trilogue Weighs Pushing High-Risk Deadline to December 2027
 date: '2026-04-21'
 source: Eversheds Sutherland / Simmons & Simmons
 url_original: null
-url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 4c7ec1bc82c58b3cf7e3de7935ace2d1de35e8aac2e01b449f78808b38dc7263

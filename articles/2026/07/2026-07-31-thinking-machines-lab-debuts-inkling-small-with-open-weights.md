@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: VentureBeat · Thinking Machines Lab
 url_original: https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size
 url_canonical: https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 30074b71c1fc038170ab24e1807387b69080cb7ceb10a1169e957f05278e053a

@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
 url_canonical: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 4012b96e3e77b8b2ca624447ce4b8ffaf5f2d7121739655902d2d677b4a72839

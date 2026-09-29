@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html
 url_canonical: https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: b8f751bc23585ca2c919002f65fb01e11f1ff04127255fb8dcec0db4e7eb52d5
 normalized_title_hash: dfae366de1587cbb

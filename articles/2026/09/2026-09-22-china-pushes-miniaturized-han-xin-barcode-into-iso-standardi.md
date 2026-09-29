@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard
 url_canonical: https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: fd55a2d47d701394177c0ad84e53de1223094d75c3307d2e11f0e0c009a0e5f9

@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Tech Funding News
 url_original: https://techfundingnews.com/oxylabs-130m-warburg-pincus-3-6b-valuation/
 url_canonical: https://techfundingnews.com/oxylabs-130m-warburg-pincus-3-6b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 39ef959d0b77772a5d70ee53e9aeacbb182e6404a8a82038824f102d67b8a6e5
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-- 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 embedding_id: 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Vilnius-based Oxylabs took its first outside investment in a decade — $130M fr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b]]
+**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
 <!-- graph:end -->

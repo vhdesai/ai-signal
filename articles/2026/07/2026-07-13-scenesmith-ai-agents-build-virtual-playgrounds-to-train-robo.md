@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: MIT News / MIT CSAIL
 url_original: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
 url_canonical: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 69003c8f157e59a96aa1f800b70fbb01dc01e1a03d199dbe72c03842d8e651b4

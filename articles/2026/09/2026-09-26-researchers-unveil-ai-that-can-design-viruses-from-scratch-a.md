@@ -6,8 +6,9 @@ date: '2026-09-26'
 source: The Cool Down / Times of India
 url_original: https://www.thecooldown.com/researchers-ai-design-viruses-from-scratch-2026
 url_canonical: https://www.thecooldown.com/researchers-ai-design-viruses-from-scratch-2026
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: 043a891108d4902486b8f47080ca911a7bd0abf82a1fc29ce6632423d6f3ec0a
 normalized_title_hash: 79c8b09bf8ebfff9
 canonical_url_hash: ef85a73018f6cc26
@@ -23,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca
 - 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 - 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
 embedding_id: 2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a
@@ -38,5 +40,5 @@ The Cool Down reports researchers demonstrated an AI capable of designing viruse
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl]] · [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety]]
+**Related:** [[2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca]] · [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl]] · [[2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety]]
 <!-- graph:end -->

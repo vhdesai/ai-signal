@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
 - 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
 - 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
-- 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
+- 2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl
 embedding_id: 2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA Labs released NOOA (Object-Oriented Agents) under Apache 2.0, collapsing 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]]
+**Related:** [[2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]] · [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl]]
 <!-- graph:end -->

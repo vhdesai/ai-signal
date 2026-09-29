@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: PR Newswire
 url_original: https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html
 url_canonical: https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 66a241784d50daafb8151d00ac5d7e56473edf69f94c6a3f8719c172e414a12a

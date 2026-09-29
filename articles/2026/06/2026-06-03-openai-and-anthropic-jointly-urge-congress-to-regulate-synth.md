@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: WSJ (Exclusive); Wired; The Verge
 url_original: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/
 url_canonical: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 639686dd560bc26b5c4676279e9080bdbbcfb676a19efc996f2e1d0b013f262a
 normalized_title_hash: ba2b1412dfdc3b9c

@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: News18
 url_original: https://www.news18.com/business/economy/microsoft-ai-chief-warns-white-collar-jobs-could-vanish-within-18-months-ws-l-10097856.html
 url_canonical: https://www.news18.com/business/economy/microsoft-ai-chief-warns-white-collar-jobs-could-vanish-within-18-months-ws-l-10097856.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 97f3ee2a2837b4c7ebcc89e39c75ae88965b8773321245776aeec09a936416d9

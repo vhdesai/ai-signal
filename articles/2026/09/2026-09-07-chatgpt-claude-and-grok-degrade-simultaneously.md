@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Memeburn
 url_original: https://memeburn.com/chatgpt-claude-and-grok-stopped-working-heres-why/
 url_canonical: https://memeburn.com/chatgpt-claude-and-grok-stopped-working-heres-why/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 70787cb6088c9ff09634ce9faf896ba2572d90502333caa5e93efe138f490f94
 normalized_title_hash: 671c7baeb2938279

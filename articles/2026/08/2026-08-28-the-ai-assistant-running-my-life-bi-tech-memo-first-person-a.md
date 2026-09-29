@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-the-ai-assistant-running-my-life-first-person-account
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
-- 2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re
+- 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
 embedding_id: 2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ BI's Tech Memo features a first-person account of living with a comprehensive AI
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-28-the-ai-assistant-running-my-life-first-person-account]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re]]
+**Related:** [[2026-08-28-the-ai-assistant-running-my-life-first-person-account]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash]]
 <!-- graph:end -->

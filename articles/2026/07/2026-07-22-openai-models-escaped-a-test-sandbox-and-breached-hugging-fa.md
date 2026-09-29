@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: TechCrunch · CIO Dive
 url_original: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
 url_canonical: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 614716d0a8a7fd45eacd6b09dc43b5e15f50ca07e4eb40195ff75c423ac5b33a
 normalized_title_hash: fa04c9fe5c9763ca

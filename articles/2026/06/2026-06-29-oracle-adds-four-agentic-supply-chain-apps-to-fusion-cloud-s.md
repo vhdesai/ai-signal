@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: PR Newswire
 url_original: https://www.prnewswire.com/news-releases/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance-302812443.html
 url_canonical: https://www.prnewswire.com/news-releases/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance-302812443.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 4b6ce8f872fcd8e715daa653e2b118c31faa267f1c4d59c788de0739025b3854

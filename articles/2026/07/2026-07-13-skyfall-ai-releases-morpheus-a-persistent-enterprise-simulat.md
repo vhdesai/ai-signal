@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 4c3f7b04069ca63a510979f5ed3870bd96374711a3f240f12f3f76dba7091001
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
+- 2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 embedding_id: 2026-07-13-skyfall-ai-releases-morpheus-a-persistent-enterprise-simulat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MORPHEUS runs “worlds that never reset,” introducing structured non-stationa
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
+**Related:** [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
 <!-- graph:end -->

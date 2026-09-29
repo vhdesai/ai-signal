@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
 - 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
+- 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Hashimoto reframed synthetic data as "a general algorithmic tool for generative 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo]] · [[2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a]]
 <!-- graph:end -->

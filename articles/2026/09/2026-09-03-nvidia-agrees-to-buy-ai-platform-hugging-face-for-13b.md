@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/nvidia-agrees-to-buy-hugging-face-for-13-billion-11929060?mod=panda_wsj_digest
 url_canonical: https://www.wsj.com/tech/ai/nvidia-agrees-to-buy-hugging-face-for-13-billion-11929060?mod=panda_wsj_digest
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 10042fcbc2b4fd0497ce24ad2bedc1c5ea8475b7362c68fcba998bf12eb969cc

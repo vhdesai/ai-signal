@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: The New York Times DealBook]
 url_original: https://www.nytimes.com/2026/09/22/business/dealbook/openai-gpt6-astra-business-users.html
 url_canonical: https://www.nytimes.com/2026/09/22/business/dealbook/openai-gpt6-astra-business-users.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 18e1e122551b71775dcbe7f73a06785bf784190c8e62e5d081785bb35ddffcc6

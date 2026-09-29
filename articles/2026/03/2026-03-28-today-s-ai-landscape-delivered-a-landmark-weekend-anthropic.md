@@ -5,8 +5,8 @@ title: 'Today''s AI landscape delivered a landmark weekend: Anthropic''s next-ge
 date: '2026-03-28'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsreview.co.uk/insights/next-claude-model
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-28_070924_Inbox_Daily AI News Digest – March 28,
   2026.md
 content_hash: f78fc621f279a547c6cd2450c13cb497dfa10d6985d9d62019e03c1ebb093ceb
@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
+- 2026-09-26-daily-ai-news-digest-september-26-2026
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
-- 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 embedding_id: 2026-03-28-today-s-ai-landscape-delivered-a-landmark-weekend-anthropic
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Today's AI landscape delivered a landmark weekend: Anthropic's next-generation m
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[Google]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
+**Related:** [[2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip]] · [[2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis]] · [[2026-09-26-daily-ai-news-digest-september-26-2026]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]]
 <!-- graph:end -->

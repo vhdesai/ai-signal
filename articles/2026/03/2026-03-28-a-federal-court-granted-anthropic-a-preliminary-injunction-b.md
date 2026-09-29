@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 - 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
+- 2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati
 - 2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl
-- 2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s
 embedding_id: 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A federal court granted Anthropic a preliminary injunction blocking the Trump ad
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa]] · [[2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl]] · [[2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s]]
+**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation]] · [[2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa]] · [[2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati]] · [[2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl]]
 <!-- graph:end -->

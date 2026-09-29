@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
 url_canonical: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: bb684226cb7e7c36a3302e62027ab74e06ff83c109f08e697c6235deb6daf1f7
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
-- 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 embedding_id: 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zuckerberg also told investors that Meta sees a broader enterprise AI opportunit
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce]]
+**Related:** [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
 url_canonical: https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061438_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 85fdc7e090d472c0317c7d74fd0e1b04ee77376b20c203761dd3f0049c614de9

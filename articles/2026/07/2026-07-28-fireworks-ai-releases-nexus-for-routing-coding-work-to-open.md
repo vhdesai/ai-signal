@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us
+- 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-08-20-ramp-launches-ai-model-router-continued
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
-- 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
-- 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 embedding_id: 2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]]
+**Related:** [[2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-20-ramp-launches-ai-model-router-continued]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]]
 <!-- graph:end -->

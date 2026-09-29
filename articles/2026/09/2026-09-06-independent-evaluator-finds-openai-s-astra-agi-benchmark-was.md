@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions
 url_canonical: https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: b1bb88d0ac489f46eb0e21823a5d85dc48be8bca40711e353ce5129e5befc8fa
 normalized_title_hash: b56e9822cbc03078

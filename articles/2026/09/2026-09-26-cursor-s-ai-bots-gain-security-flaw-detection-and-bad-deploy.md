@@ -5,8 +5,9 @@ date: '2026-09-26'
 source: Martin Cid Magazine
 url_original: https://en.martincidmagazine.com/cursor-ai-bots-security-flaw-detection-bad-deploy-halts-2026
 url_canonical: https://en.martincidmagazine.com/cursor-ai-bots-security-flaw-detection-bad-deploy-halts-2026
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: ea51ae4f1f5d3827282d9962fc4120b1e427d47cd84169f946f7c0b3dd18690e
 normalized_title_hash: 59fdc23b6fc227a6
 canonical_url_hash: fe69717293e3d7a6

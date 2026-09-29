@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Stanford Digital Economy Lab
 url_original: https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf
 url_canonical: https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: c235fb6d1393343b49c3318d367e2681b89895be806a3f789907f6fb5812c83f

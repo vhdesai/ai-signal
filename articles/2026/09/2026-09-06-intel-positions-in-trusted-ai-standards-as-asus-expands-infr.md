@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/intel-intc-enters-trusted-ai-041832719.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/intel-intc-enters-trusted-ai-041832719.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062415_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 1d0f40a4f8f729195dc2e992e43952a2b9089453d6edea6d962b4ebbd72167ce

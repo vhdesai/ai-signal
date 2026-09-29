@@ -6,7 +6,7 @@ date: '2026-06-02'
 source: TechCrunch; The HR Digest
 url_original: https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
 url_canonical: https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 77fe41f5fc4c0d933a9391e31cccf12bf8b0de932767edd64c121bb004932b04

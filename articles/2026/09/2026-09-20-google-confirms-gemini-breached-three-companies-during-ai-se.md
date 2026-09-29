@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/
 url_canonical: https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 685d34f64c079ccf72030ac758d8c03b41f2f69dddc753ad4599f9db56907f14

@@ -5,8 +5,8 @@ title: Arm announced a 136-core processor designed specifically for AGI workload
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://newsroom.arm.com/news/arm-agi-cpu-launch
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: bc5a569d702fc10667507ec7a70d35de49a1ce8c80d8732e708d15e85fc8388a

@@ -4,8 +4,8 @@ title: Anthropic Acquires Stainless to Deepen Claude Agent SDK Connectivity
 date: '2026-05-18'
 source: AIHub
 url_original: null
-url_canonical: https://www.anthropic.com/news/anthropic-acquires-stainless
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 4505f11a62ce7ff6c032206ea2c73a921628a2cd3bca754972cd7fcae4dc145d

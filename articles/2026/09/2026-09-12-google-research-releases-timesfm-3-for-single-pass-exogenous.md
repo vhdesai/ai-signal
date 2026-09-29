@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Decoder
 url_original: https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/
 url_canonical: https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 82e968ad3b0a2d39772e1790d9fde7593a4da48dba9ce5567eb924025315924a

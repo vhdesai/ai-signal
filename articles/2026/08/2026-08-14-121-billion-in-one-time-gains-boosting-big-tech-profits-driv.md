@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da
 url_canonical: https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: ee904109865562847f197e8bc52d0ae8cded08517f7207e4f2cec2a47f636b40
 normalized_title_hash: c0f740307a99341e

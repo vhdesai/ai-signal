@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chief-says-china-163001131.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-ai-chief-says-china-163001131.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: fc8e6ea94b8ec0e0809f65339b3dfa2acfee2ac7503e51543550349bb15b1c70

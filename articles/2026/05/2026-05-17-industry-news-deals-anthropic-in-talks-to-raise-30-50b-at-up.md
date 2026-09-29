@@ -5,8 +5,8 @@ title: 💼 Industry News & Deals Anthropic in Talks to Raise $30–50B at Up to
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ailearningguides.com/anthropic-950b-valuation-funding-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 80bce0b231c3c3586dce0bac23d02bad9ea1a0db7c7b54a146ba74821c99085e

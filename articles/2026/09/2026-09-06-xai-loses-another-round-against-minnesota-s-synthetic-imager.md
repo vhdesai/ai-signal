@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: AOL
 url_original: https://www.aol.com/articles/xai-loses-legal-battle-against-144705000.html
 url_canonical: https://www.aol.com/articles/xai-loses-legal-battle-against-144705000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: d2c5736c16a2d908a1f3b1bf1714bbd03b2b417c3340603569e9357f5ca5cb5e
 normalized_title_hash: b75579532193151f

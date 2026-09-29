@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: Malay Mail (AFP)**
 url_original: https://www.malaymail.com/news/tech-gadgets/2026/07/17/the-chinese-ai-models-quietly-challenging-silicon-valley-in-2026/227907
 url_canonical: https://www.malaymail.com/news/tech-gadgets/2026/07/17/the-chinese-ai-models-quietly-challenging-silicon-valley-in-2026/227907
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 8e910fb58ac6d57ad3fb76cf0254f0304a8d781f3ac2f5a443dd694f6c7a3304
 normalized_title_hash: 7c4019091fad4416

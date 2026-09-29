@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: ba0172f327adaa254503b793e81139a8c75455005c4868a3763e228c0a35e2d0
@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
-- 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
+- 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
 embedding_id: 2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CCB International and other analysts frame Alibaba's Apsara Conference — which
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen]]
+**Related:** [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in]]
 <!-- graph:end -->

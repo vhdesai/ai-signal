@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Techlicious (via Yahoo News)**
 url_original: https://www.yahoo.com/news/politics/articles/us-senate-ai-bill-could-195714583.html
 url_canonical: https://www.yahoo.com/news/politics/articles/us-senate-ai-bill-could-195714583.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: df8f7f07cef6208461ef37a884a0252e0b3306fbfe1a26863a4a1a7bdea35c08
 normalized_title_hash: c2124f9417b8a7db

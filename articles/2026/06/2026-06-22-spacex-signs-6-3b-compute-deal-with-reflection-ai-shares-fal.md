@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch; CNBC
 url_original: https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/
 url_canonical: https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 51b25c423c27e5506c4e6810c0ea421345e6c79ccf328b5e74c30a880a80689c
 normalized_title_hash: a4d969ca4819401c

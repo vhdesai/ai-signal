@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f
 - 2026-04-16-in-us-v-heppner-judge-jed-rakoff-of-the-southern-district-of
+- 2026-09-25-26-state-attorneys-general-press-congress-for-national-ai-sa
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
 embedding_id: 2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin
@@ -35,5 +36,5 @@ The New Mexico Supreme Court fined defense attorney Stephen Aarons $5,000 and he
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f]] · [[2026-04-16-in-us-v-heppner-judge-jed-rakoff-of-the-southern-district-of]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]]
+**Related:** [[2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f]] · [[2026-04-16-in-us-v-heppner-judge-jed-rakoff-of-the-southern-district-of]] · [[2026-09-25-26-state-attorneys-general-press-congress-for-national-ai-sa]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]]
 <!-- graph:end -->

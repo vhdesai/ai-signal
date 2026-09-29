@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: IEEE Spectrum
 url_original: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
 url_canonical: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: fbe292d1879b3e503abfcf8ca8eb3a229c460f7bb4b032a431cfb47a0692feea

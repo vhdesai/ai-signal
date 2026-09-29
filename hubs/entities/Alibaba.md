@@ -1,19 +1,33 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 406
+member_count: 420
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 406 connected article(s).
+> Auto-generated entity hub. 420 connected article(s).
 
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia|Beijing signals it may let Alibaba and ByteDance buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases|Beijing Signals Approvals for Nvidia RTX Pro 5500 Purchases; ByteDance Weighs ~1M Units]]
+- `2026-09-26` [[2026-09-26-oxford-let-openai-use-bodleian-library-texts-to-populate-its|Oxford let OpenAI use Bodleian Library texts to populate its training set]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-26` [[2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95|Alibaba's Qwen-Audio 3.1 cuts voice API pricing by up to 95%]]
+- `2026-09-26` [[2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv|Alibaba's Amap AI ranking as a natural experiment in AI-driven consumer traffic redistribution]]
+- `2026-09-26` [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in|Alibaba's Amap "Street Stars" uses AI to challenge Meituan in local commerce]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
 - `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
 - `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
+- `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-voice-stack-and-cuts-audio-api|Alibaba ships Qwen-Audio 3.1 voice stack and cuts audio API prices up to 95%]]
 - `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up|Alibaba Ships Qwen-Audio 3.1 With Voice API Price Cuts of Up to 95%]]
+- `2026-09-25` [[2026-09-25-alibaba-cuts-qwen-voice-api-prices-by-up-to-95-with-qwen-aud|Alibaba Cuts Qwen Voice API Prices by Up to 95% With Qwen-Audio 3.1]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass|Blue Cross analysis attributes $942M in added costs to AI-assisted clinical coding]]
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
+- `2026-09-24` [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up|Alibaba ships Qwen-Audio 3.1 and cuts voice API prices by up to 95%]]
 - `2026-09-23` [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening|Nature Medicine: Lessons From Scaling a Clinical AI Screening Tool Past One Million Patients Across Three Countries]]
 - `2026-09-23` [[2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with|Google launches Gemini 3.8 Flash TTS and Flash-Lite TTS with text-to-voice design and 30-second cloning]]
 - `2026-09-23` [[2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot|Global Times reports China has invited DeepSeek and Moonshot AI to attend the UN Security Council briefing on AI-related risks, aligning with Reuters' earlier scoop that both firms would participate. That inclusion comes despite Beijing's active data-routing investigation into both firms following Anthropic's public allegations (Alibaba stock fell 4% on Bloomberg's coverage today). The dual-track "brief the UN while under domestic investigation" dynamic is unusual and reflects how quickly AI governance is now moving on both sides of the US-China frontier-lab divide.]]

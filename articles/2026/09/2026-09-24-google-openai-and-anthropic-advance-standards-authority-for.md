@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/new-ai-safety-group-backed-by-google-openai-and-anthropic-takes-shape
 url_canonical: https://www.theinformation.com/articles/new-ai-safety-group-backed-by-google-openai-and-anthropic-takes-shape
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: a382dbac62e1e5059f6d9c6e523a64ed02e81750ce9245a09141e6251f14350b

@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85
 url_canonical: https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: cd0443af90c56c32cd25b36273ccb49e64db41c2972afc873a22096fe616ed70
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin
 - 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
 - 2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding
+- 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
-- 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
 embedding_id: 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek released DSpark, an MIT-licensed speculative-decoding framework that sp
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco]]
+**Related:** [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]]
 <!-- graph:end -->

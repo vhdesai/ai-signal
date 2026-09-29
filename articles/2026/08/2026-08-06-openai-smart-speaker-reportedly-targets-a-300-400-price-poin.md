@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
 url_canonical: https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_060643_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: b981a18498d670687a281f57757517a72ae9534ac309e17a10aad0042d2d0f74

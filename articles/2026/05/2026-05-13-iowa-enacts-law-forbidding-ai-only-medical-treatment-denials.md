@@ -5,8 +5,8 @@ title: Iowa Enacts Law Forbidding AI-Only Medical Treatment Denials, Effective J
 date: '2026-05-13'
 source: Des Moines Register / BlueWater
 url_original: https://bluewaterhealthyliving.com/news/national-news/iowa/new-iowa-law-forbids-ai-medical-care-denials-streamlines-preapprovals/
-url_canonical: https://www.legis.iowa.gov/law/statutory/acts/enrolledBills
-url_status: repaired
+url_canonical: https://bluewaterhealthyliving.com/news/national-news/iowa/new-iowa-law-forbids-ai-medical-care-denials-streamlines-preapprovals/
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 88770b260d9ff2e9f60c15fdea6eaf2091fe102f5fa66ee5c0f1507af24d346f

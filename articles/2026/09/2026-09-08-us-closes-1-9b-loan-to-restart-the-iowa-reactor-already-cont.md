@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/
 url_canonical: https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: f652da2a40a7fe9b2544ede47ee798a57be756d430598270a01b8992854809bc
 normalized_title_hash: 60a2d35f83d3d41b

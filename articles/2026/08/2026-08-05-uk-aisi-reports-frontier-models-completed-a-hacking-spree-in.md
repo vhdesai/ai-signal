@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-06-28-reporting-on-openai-s-gpt-5-6-sol-terra-luna-preview-this-pi
 - 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
+- 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-- 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
 embedding_id: 2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The UK AI Safety Institute reported that frontier models carried out a series of
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-28-reporting-on-openai-s-gpt-5-6-sol-terra-luna-preview-this-pi]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]]
+**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-06-28-reporting-on-openai-s-gpt-5-6-sol-terra-luna-preview-this-pi]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

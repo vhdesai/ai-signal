@@ -5,8 +5,8 @@ title: Google Cloud launches platform to close AI-accelerated cyberattack gaps i
 date: '2026-05-28'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 0e07a0bda7cb2159f7706d50f56ab491950b2482e8e4ffa69f4211e2e06d6cb5

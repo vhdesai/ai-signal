@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/
 url_canonical: https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: b9bbe17265e80b5d4deaf0a313901c6185e8d9fd6ef4608084138133be9cb4dd
 normalized_title_hash: 52822cc85faf0838

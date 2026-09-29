@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: World Energy News
 url_original: https://www.worldenergynews.com/news/chevron-continue-securing-deals-for-data-centers-776159
 url_canonical: https://www.worldenergynews.com/news/chevron-continue-securing-deals-for-data-centers-776159
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 6721afba7923f46dda4c1dd560f6d22407f9670034a9d9ee7c833fe1d4ca9c6f

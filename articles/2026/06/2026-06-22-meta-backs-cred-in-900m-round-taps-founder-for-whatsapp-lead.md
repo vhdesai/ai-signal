@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 embedding_id: 2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta is investing as part of a ~$900M round in Indian fintech CRED, paired with 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon]]
+**Related:** [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
 <!-- graph:end -->

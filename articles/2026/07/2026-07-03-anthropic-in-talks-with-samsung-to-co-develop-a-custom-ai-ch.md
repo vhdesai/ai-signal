@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?query=Anthropic%20Samsung%20chip
 url_canonical: https://www.theinformation.com/search?query=Anthropic%20Samsung%20chip
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 4e33d4d79e2c5427f5eddcc98eb7a4399bf095970fadd5a318fd325e3ba9e6c3

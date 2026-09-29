@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Google DeepMind Blog · Google DeepMind
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 79d4d4537b9b5bf8d8edff8a15d35b52c50a7c14c1d0f338950700c4e41402ad

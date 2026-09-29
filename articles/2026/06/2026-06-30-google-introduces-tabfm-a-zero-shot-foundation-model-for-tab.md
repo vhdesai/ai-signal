@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Google Research
 url_original: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
 url_canonical: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 80adea597ed97dd8c6499e24e6c8cdcc9b3d96d5098c2f2a63f95a7e93cbcab8

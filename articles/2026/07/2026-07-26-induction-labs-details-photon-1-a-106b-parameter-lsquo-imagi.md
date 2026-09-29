@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/
 url_canonical: https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: daea82b067ba881c322af925d5c48e2eae2373b6b8453c2f4aee57e9eb96a908

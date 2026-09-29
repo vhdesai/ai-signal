@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: NVIDIA Technical Blog / TechCrunch
 url_original: https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/
 url_canonical: https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: d12c2e0aabc6bee68468e89c749cec0cbc9cdc8b4556c1d8bd9eabd0783f95a9

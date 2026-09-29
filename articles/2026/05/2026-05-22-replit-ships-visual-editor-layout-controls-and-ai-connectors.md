@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Replit Docs Changelog
 url_original: https://docs.replit.com/updates/
 url_canonical: https://docs.replit.com/updates/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: e3a826d7f85eb9e9451cd9a14a525b6f66aeafe5914f309d6a70a85b768d7d32

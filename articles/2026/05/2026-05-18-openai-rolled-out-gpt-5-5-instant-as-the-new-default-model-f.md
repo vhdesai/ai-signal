@@ -5,8 +5,8 @@ title: OpenAI rolled out GPT-5.5 Instant as the new default model for all ChatGP
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fa7ef3f27aaf3a6af4495eaf93b476fb8e025aaa8f8c6ed8f8146505da52a98c

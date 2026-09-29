@@ -5,8 +5,8 @@ title: startup Poppy launched a consumer AI assistant focused on proactive perso
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 6fbb591857bf952cb720c0e13c40e7ac0ee224d96dc75b392637d2f9c904e571

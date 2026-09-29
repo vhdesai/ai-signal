@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 - 2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a
-- 2026-09-16-two-more-google-deepmind-safety-researchers-resign
+- 2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca
 embedding_id: 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Filtered to items published between September 12, 2026 at 6:45 AM PDT and Septem
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin]] · [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a]] · [[2026-09-16-two-more-google-deepmind-safety-researchers-resign]]
+**Related:** [[2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai]] · [[2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin]] · [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a]] · [[2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca]]
 <!-- graph:end -->

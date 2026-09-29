@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Yonhap News Agency
 url_original: https://en.yna.co.kr/view/AEN20260920002500320
 url_canonical: https://en.yna.co.kr/view/AEN20260920002500320
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 84d49fc066a3c80ea02234acb2efec8d05c23d6a484519e7a2e51fc742529a8d

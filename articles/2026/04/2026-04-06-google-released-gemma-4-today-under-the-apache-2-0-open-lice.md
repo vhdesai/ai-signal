@@ -5,8 +5,8 @@ title: Google released Gemma 4 today under the Apache 2.0 open license, achievin
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 3b289bb26b5a8b8c0027c85c8236d42fa055cd0cb9808476beb68d1c647bb19d

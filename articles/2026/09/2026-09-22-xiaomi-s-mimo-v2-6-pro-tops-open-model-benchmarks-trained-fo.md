@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: The Decoder
 url_original: https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/
 url_canonical: https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 103ab9cae4a18b10c20bfbf4daaafddc291eeebecd7e162db49cca7d3b63c088

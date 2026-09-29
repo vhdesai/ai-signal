@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding
 url_canonical: https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 73cf519cbfb38ed218470350e321bff96fa0d4c677b8e4b6427c7ec1d8dec0e3

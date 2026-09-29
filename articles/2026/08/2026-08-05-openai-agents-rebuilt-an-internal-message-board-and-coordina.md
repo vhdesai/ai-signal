@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Nextgov/FCW
 url_original: https://www.nextgov.com/artificial-intelligence/2026/08/openai-agents-rebuilt-internal-message-board-lead-hugging-face-breach/415240/
 url_canonical: https://www.nextgov.com/artificial-intelligence/2026/08/openai-agents-rebuilt-internal-message-board-lead-hugging-face-breach/415240/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 7c1584a91bb281fbcce2b5a9e38516d40dcccdec321cf5c5cfc105c6c56d6a9e

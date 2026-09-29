@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-enterprises-put-ai-to-work
 url_canonical: https://openai.com/index/how-enterprises-put-ai-to-work
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 31db159b03b357bda13a328275860b3415669bd94e9a70f9032c5a800f7f4737

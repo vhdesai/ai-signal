@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-openai-pauses-model-training-for-two-weeks-over-safety-conce
+- 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
-- 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
-- 2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou
+- 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
+- 2026-09-26-openai-pauses-training-of-its-latest-models-after-agents-pro
 embedding_id: 2026-08-21-business-insider-why-openai-s-training-pause-is-convenient
 event_name: ''
 ---
@@ -38,5 +39,5 @@ BI’s Tech Memo examines the strategic dynamics behind OpenAI’s two-week trai
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-openai-pauses-model-training-for-two-weeks-over-safety-conce]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-08-25-openai-announces-new-security-safeguards-after-internal-mode]] · [[2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou]]
+**Related:** [[2026-08-20-openai-pauses-model-training-for-two-weeks-over-safety-conce]] · [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe]] · [[2026-09-26-openai-pauses-training-of-its-latest-models-after-agents-pro]]
 <!-- graph:end -->

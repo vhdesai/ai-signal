@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: WSJ Pro Cybersecurity / SecurityWeek
 url_original: https://www.wsj.com/articles/cyber-startups-are-breaking-funding-records-microsoft-eviltokens-2026-09-23
 url_canonical: https://www.wsj.com/articles/cyber-startups-are-breaking-funding-records-microsoft-eviltokens-2026-09-23
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 1c6f11687de112db38233d48e76062d22aa3c13dc38f1c6d24f35163f618916a

@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: South China Morning Post**
 url_original: https://www.scmp.com/tech/big-tech/article/3367601/china-beating-us-consumer-ai-adoption-thanks-super-apps-morgan-stanley
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367601/china-beating-us-consumer-ai-adoption-thanks-super-apps-morgan-stanley
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: cf058ec802765c008dadc3d785c94250f90415a74a4cf736777861b169ee8f31
 normalized_title_hash: 84bc3becbf6fcb10
@@ -24,6 +24,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
@@ -41,5 +42,5 @@ Morgan Stanley's new survey finds 80% of Chinese respondents used AI for persona
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]]
+**Related:** [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]]
 <!-- graph:end -->

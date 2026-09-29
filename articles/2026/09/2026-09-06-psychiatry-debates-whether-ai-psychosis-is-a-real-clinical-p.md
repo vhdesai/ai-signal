@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Decoder
 url_original: https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/
 url_canonical: https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 287b2740937cb116ce498a6f080c52949baed3127a79e6c8ffababd975e6273e

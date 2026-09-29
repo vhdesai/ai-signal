@@ -5,8 +5,8 @@ title: Researchers from MIT and the University of Washington published experimen
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 3135cae0817b6044c28fd27205d00f851f8c0650e42fac5789ca43c29d3dd38a
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed
 - 2026-04-02-academic-research
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
+- 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
-- 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
 embedding_id: 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers from MIT and the University of Washington published experimental evi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-02-academic-research]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]]
+**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-02-academic-research]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Single-Instruction Attack Flips Frontier Aligned Models to >91% Unsafe Ac
 date: '2026-05-14'
 source: arXiv
 url_original: null
-url_canonical: https://www.semanticscholar.org/paper/SBFA:-Single-Sneaky-Bit-Flip-Attack-to-Break-Large-Guo-Chakrabarti/e2840042e5e27db93d7539969ebdecfda665f817
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 5f1e225a0fd411d8ad7380a9e37d4fbb231fd89cad0766cda539e9906bf340b7

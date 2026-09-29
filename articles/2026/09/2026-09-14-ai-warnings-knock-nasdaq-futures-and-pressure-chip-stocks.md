@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Reuters
 url_original: https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/
 url_canonical: https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9c099d673713e661f9d1b65cc7f95e40733fe30664b5b3c304a1caf2b5aeb301

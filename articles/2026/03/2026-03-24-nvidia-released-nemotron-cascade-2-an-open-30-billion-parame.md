@@ -5,8 +5,8 @@ title: Nvidia released Nemotron-Cascade 2, an open 30-billion-parameter Mixture-
 date: '2026-03-24'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://research.nvidia.com/labs/nemotron/nemotron-cascade-2/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-26_105104_Inbox_Daily AI News Digest – March 24,
   2026.md
 content_hash: 8d3d42a9159907ca7287ddc332461e283667bc7c144277880ef4d168c35dbed6

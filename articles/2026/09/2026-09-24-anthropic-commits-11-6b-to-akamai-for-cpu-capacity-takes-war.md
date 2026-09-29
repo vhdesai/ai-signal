@@ -1,19 +1,18 @@
 ---
 article_id: 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war
-title: Anthropic commits $11.6B to Akamai for CPU capacity, takes warrant for up to
-  5% of the company
+title: Anthropic commits $11.6B to Akamai for CPU capacity, takes warrants for up
+  to 5% of the company
 date: '2026-09-24'
-source: Akamai Technologies
-url_original: https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand
-url_canonical: https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand
-url_status: broken
-digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
-  25, 2026.md
-content_hash: c500e9575e3bd08bb0e6ec7fb8901346572ec1582f4ae6b77f92e6225f9893ca
-normalized_title_hash: 630e520f31fd7423
-canonical_url_hash: d73153fa3712eb81
-tags:
-- Breaking
+source: Reuters
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-09-26_061738_Inbox_Daily AI News Digest - September
+  26, 2026.md
+content_hash: 409ee7e41bb5128f1c5856b8ea948e9634aa250000a6553e11862d5abea17501
+normalized_title_hash: 0da41942eea4c0e9
+canonical_url_hash: ''
+tags: []
 entities:
 - Anthropic
 themes:
@@ -27,9 +26,9 @@ embedding_id: 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-take
 event_name: ''
 ---
 
-# Anthropic commits $11.6B to Akamai for CPU capacity, takes warrant for up to 5% of the company
+# Anthropic commits $11.6B to Akamai for CPU capacity, takes warrants for up to 5% of the company
 
-Akamai announced a seven-year, $11.6 billion contractual commitment from Anthropic, expandable by a further $9 billion to a ceiling near $20 billion. Akamai issued Anthropic a warrant for 7.7 million shares (~5% of common stock on an as-converted basis) at $111.33, with roughly 2% vesting on this commitment and ~1% more per additional $3 billion purchased. Notably, the capacity is CPU, not GPU — aimed at Anthropic's agentic orchestration workloads. Akamai expects ~$5.5 billion in related capex, including $1.7 billion in 2026 partly to pre-purchase memory. FUNDING
+Akamai signed the largest contract in its history: a seven-year, $11.6B computing agreement with Anthropic, expandable by up to a further $9B toward a ceiling near $20B. Anthropic receives a warrant for up to 5% of Akamai common stock, roughly 2% vesting against the initial commitment. Akamai estimates about $5.5B in associated capex, including a ~$1.7B increase in 2026 spending partly to pre-purchase memory; shares rose more than 20% after hours. The detail most coverage understated is that this is CPU capacity, not GPU — a signal that agent orchestration, not just model inference, is becoming a material line item.
 
 <!-- graph:start -->
 ## Connections

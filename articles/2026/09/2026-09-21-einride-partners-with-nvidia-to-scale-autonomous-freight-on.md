@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/einride-partners-nvidia-expand-autonomous-123412723.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/einride-partners-nvidia-expand-autonomous-123412723.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9eda72d8f607284af111ed53b549e9693dd4b3ee5747898a29ae80e8ba4fb52d

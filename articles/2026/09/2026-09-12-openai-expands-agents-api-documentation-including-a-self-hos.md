@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Daily roundup citing OpenAI platform documentation
 url_original: https://malpass.co/top-ai-stories-2026-09-12/
 url_canonical: https://malpass.co/top-ai-stories-2026-09-12/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 6b3f205dc9183615d6be17fcaf350ec1cb0a7d04b3f51b8f681c8bc43f2ac5ce

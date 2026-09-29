@@ -5,8 +5,8 @@ title: Bannon + 60 Trump Allies Sign Letter Demanding Mandatory Federal Approval
 date: '2026-05-18'
 source: Axios
 url_original: null
-url_canonical: https://gizmodo.com/steve-bannon-petitions-trump-to-review-new-ai-models-before-their-release-2000760052
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 50d46804911df1061278fecbeb1527f77b45b4ce882c8355df9ba6885e749370

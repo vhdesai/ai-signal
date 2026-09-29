@@ -6,7 +6,7 @@ date: '2026-06-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
 url_canonical: https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 656bb4b93f3b165e34b60039054fbbb664a144f1b52fc3613da4c08658c36f2b

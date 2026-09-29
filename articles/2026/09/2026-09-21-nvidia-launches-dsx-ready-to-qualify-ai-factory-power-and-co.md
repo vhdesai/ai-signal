@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
 url_canonical: https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 358c3d050dac3d02c64c20466f4959075e1bb2c9ce4ae0db3ebb9c6db8bdcd3e
@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
+- 2026-09-26-lg-electronics-qualifies-2-6-mw-cooling-distribution-unit-fo
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-- 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
 embedding_id: 2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA introduced DSX Ready, a qualification program certifying partner products
 
 **Entities:** [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]] · [[2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc]]
+**Related:** [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-09-26-lg-electronics-qualifies-2-6-mw-cooling-distribution-unit-fo]] · [[2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt]] · [[2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Rum+Group+compute+deal
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+Rum+Group+compute+deal
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 0602690f15208b2f5c16844985a6f22d04d31afb5c03c2bfb6d52d38409a0d54

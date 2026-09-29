@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/325244/20260823/coding-model-ox-alpha-retains-every-prompt-you-cannot-name-company-holding-them.htm
 url_canonical: https://www.techtimes.com/articles/325244/20260823/coding-model-ox-alpha-retains-every-prompt-you-cannot-name-company-holding-them.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_065006_Final-Daily-AI-News-Digest.md
 content_hash: cef30c4a7f69a83c3821cf2e91d29c7ba64de95aa22c963f0d113ba81a424873
 normalized_title_hash: 8de3318abd8342be

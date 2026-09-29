@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 event_name: ''
 ---
@@ -37,5 +37,5 @@ VentureBeat analysis argues that the dominant barrier to enterprise AI adoption 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
+**Related:** [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
 <!-- graph:end -->

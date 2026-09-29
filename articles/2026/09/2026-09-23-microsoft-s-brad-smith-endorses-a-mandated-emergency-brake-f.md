@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e
 url_canonical: https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_062359_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: f1a4763dcf3a6fda6e37383b1a262660e87c47c82d1192a27dc7f516843162f4

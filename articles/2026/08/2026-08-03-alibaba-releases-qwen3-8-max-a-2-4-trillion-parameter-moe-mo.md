@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/
 url_canonical: https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: c64e691a29a28b8285932cf1d32f5e01b6f6430453a49415fd9dd49dc9748277

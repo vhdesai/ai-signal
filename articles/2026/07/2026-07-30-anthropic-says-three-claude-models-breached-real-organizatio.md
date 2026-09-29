@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: Fox Business
 url_original: https://www.foxbusiness.com/technology/anthropic-says-ai-models-accessed-systems-3-real-organizations-during-testing
 url_canonical: https://www.foxbusiness.com/technology/anthropic-says-ai-models-accessed-systems-3-real-organizations-during-testing
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: c9e20cc2bf587c3b3c834660a03eb7ece75d3431e9a2d75b8be58bcfd3bd8f42

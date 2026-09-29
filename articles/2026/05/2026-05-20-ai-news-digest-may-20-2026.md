@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-08-29-daily-ai-news-digest-august-30-2026
 - 2026-05-14-daily-ai-news-digest-may-14-2026
+- 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: 2026-05-20-ai-news-digest-may-20-2026
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Today stands as arguably the most AI-news-dense single day of 2026. Google I/O 2
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-08-29-daily-ai-news-digest-august-30-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

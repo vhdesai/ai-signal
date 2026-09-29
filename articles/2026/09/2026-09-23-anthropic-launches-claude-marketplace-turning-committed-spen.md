@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: Anthropic
 url_original: https://claude.com/blog/claude-marketplace
 url_canonical: https://claude.com/blog/claude-marketplace
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 8c8fadb8b658dd965faf0341485199c4c8251bf111ceea6f655d039efc117230

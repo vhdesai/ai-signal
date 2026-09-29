@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Verge
 url_original: https://standarity.com/ai-news/2026-07-14
 url_canonical: https://standarity.com/ai-news/2026-07-14
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 97684bd72ccce5d2dbc2d7de0d16162eaa4b7c224b45c0f9e7cd662addef5d20

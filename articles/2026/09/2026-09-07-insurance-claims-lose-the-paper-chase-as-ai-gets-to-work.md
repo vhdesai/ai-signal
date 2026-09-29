@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: PYMNTS
 url_original: https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/
 url_canonical: https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 6180e85a37ffce9d33a94556ee581159cac083baa8b69613ee888d8741bf406f
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge
 - 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
-- 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 embedding_id: 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PYMNTS reported that insurers and reinsurers are deploying AI agents for documen
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris]]
+**Related:** [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: AiThority
 url_original: https://aithority.com/robots-drones/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model/
 url_canonical: https://aithority.com/robots-drones/perceptron-ai-launches-isaac-0-5-a-frontier-open-weight-robotics-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: f8972b2514bcc1584a33066e04afcadfbcdfe1a2ec56a17f9f3bf173ed810ee6
 normalized_title_hash: b4ad3b3c254e440d

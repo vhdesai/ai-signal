@@ -4,8 +4,8 @@ title: Meta Cuts 8,000 Jobs While Raising AI Capital Expenditure to $145 Billion
 date: '2026-05-19'
 source: TechRepublic
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/meta-cuts-8-000-jobs-181620319.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 721f80a88b13a6f0c327332f36d74febcc011d58fbe945f16d821944b5486aa5

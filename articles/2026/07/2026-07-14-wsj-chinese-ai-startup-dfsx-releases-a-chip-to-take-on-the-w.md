@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Wall Street Journal
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: d466684a990dafa4d564e099a071fad99b25c945b611d1af89d40dd9c62d64ed

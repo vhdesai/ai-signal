@@ -6,7 +6,7 @@ date: '2026-09-07'
 source: South China Morning Post
 url_original: https://www.scmp.com/opinion/world-opinion/article/3366149/ai-titans-circular-deals-are-starting-look-daisy-chains
 url_canonical: https://www.scmp.com/opinion/world-opinion/article/3366149/ai-titans-circular-deals-are-starting-look-daisy-chains
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 8ff82b3294f312152752ae5e9941367800e2f5803ba659e174892923fd395942
 normalized_title_hash: d25b4d5ef9a9ce89

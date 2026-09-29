@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-anthropic-dominate-nscales-103b-173456455.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-anthropic-dominate-nscales-103b-173456455.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 4965999b7fc17799632eb47e87c72e05c1f404cd9f8bd7fbf0ea02bf32f4b127

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anjney+Midha+Anthropic+early+investor
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anjney+Midha+Anthropic+early+investor
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 653ea6debf97b32c8f34c7df4ece086e26bd5281e1b0afd0a7975b9af50c0c50

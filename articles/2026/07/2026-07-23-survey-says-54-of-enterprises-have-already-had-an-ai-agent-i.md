@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
+- 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 embedding_id: 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat reports that 54% of enterprises surveyed have already experienced an
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro]]
 <!-- graph:end -->

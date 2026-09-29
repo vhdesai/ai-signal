@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/
 url_canonical: https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 26dde4660649aa3ef94debd974e1259577368d0f65d4e702f00987326e08dc1a
@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc
-- 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
+- 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 embedding_id: 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Liquid AI released Pipette under Apache 2.0, benchmarking the full deployment co
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
+**Related:** [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]]
 <!-- graph:end -->

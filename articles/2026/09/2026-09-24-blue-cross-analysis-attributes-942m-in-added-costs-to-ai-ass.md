@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Fierce Healthcare
 url_original: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
 url_canonical: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6624edd0b87f4bfb9c642fe8ad18a1171573a282350abe73ba3b46ba26276324
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-blue-cross-blue-shield-attributes-942m-in-added-hospital-cos
+- 2026-09-24-blue-cross-study-attributes-942m-in-added-costs-to-ai-assist
 - 2026-09-24-blue-cross-attributes-942m-in-added-hospital-costs-to-ai-ass
-- 2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h
-- 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
-- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+- 2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen
+- 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
 embedding_id: 2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Blue Cross Blue Shield Association found the share of inpatient cases billed
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-24-blue-cross-blue-shield-attributes-942m-in-added-hospital-cos]] · [[2026-09-24-blue-cross-attributes-942m-in-added-hospital-costs-to-ai-ass]] · [[2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h]] · [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
+**Related:** [[2026-09-24-blue-cross-blue-shield-attributes-942m-in-added-hospital-cos]] · [[2026-09-24-blue-cross-study-attributes-942m-in-added-costs-to-ai-assist]] · [[2026-09-24-blue-cross-attributes-942m-in-added-hospital-costs-to-ai-ass]] · [[2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen]] · [[2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca]]
 <!-- graph:end -->

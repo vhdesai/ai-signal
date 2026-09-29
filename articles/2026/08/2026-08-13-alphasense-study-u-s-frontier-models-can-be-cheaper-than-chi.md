@@ -6,7 +6,7 @@ date: '2026-08-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+OpenAI+cheaper+Chinese+models
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic+OpenAI+cheaper+Chinese+models
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 8b16b80da818fa51de98d724211e57767fd5cd62c8e1cf3aed5614131bf2700c
 normalized_title_hash: fda4372f496ba853

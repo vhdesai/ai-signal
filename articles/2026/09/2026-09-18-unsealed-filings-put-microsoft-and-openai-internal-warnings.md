@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Engadget / Tech Xplore
 url_original: https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/
 url_canonical: https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_065935_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 61c4ecca1eb3a37088b7baf917f9e801cb9fec30ab19b3de387f63b2a430cb7a

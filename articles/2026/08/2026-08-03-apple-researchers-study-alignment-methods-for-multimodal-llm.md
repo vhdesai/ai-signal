@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/alignment-multimodal-llms
 url_canonical: https://machinelearning.apple.com/research/alignment-multimodal-llms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 595c33152327f837598af3c0047eddea1ce0c383f5138faaa1f90c851ca5beb9

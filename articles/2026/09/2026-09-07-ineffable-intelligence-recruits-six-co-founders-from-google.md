@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Fortune
 url_original: https://fortune.com/2026/09/07/ineffable-intelligence-cofounders-google-deepmind-instadeep/
 url_canonical: https://fortune.com/2026/09/07/ineffable-intelligence-cofounders-google-deepmind-instadeep/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 596bc6d4ebd6d5e1df75d064e3e69fb552d203290f7c998a505979e54c970deb
 normalized_title_hash: cc81d5b2b14774aa

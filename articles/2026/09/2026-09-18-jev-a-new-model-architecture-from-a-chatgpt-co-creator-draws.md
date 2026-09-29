@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
 url_canonical: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 17853a53de70cb37e06dc8080cc75ff353d2e5605cc7d02e2816894b6962c674
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel
 - 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
 - 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
+- 2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model
 - 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
-- 2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed
 embedding_id: 2026-09-18-jev-a-new-model-architecture-from-a-chatgpt-co-creator-draws
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Diogo Almeida — a former OpenAI researcher who worked on ChatGPT and helped in
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel]] · [[2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft]] · [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model]] · [[2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat]] · [[2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed]]
+**Related:** [[2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel]] · [[2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft]] · [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model]] · [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model]] · [[2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat]]
 <!-- graph:end -->

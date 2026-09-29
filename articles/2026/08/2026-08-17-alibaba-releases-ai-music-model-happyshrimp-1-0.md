@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 - 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
-- 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
+- 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
 embedding_id: 2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba put its HappyShrimp 1.0 music model into beta, supporting end-to-end son
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices]] · [[2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w]]
+**Related:** [[2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices]] · [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
 url_canonical: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 66ef9222984b616bec07a285ed8aa04fa44cf032cd81dfe7b470ec223c23e34c
@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p
-related_article_ids: []
+related_article_ids:
+- 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
 embedding_id: 2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m
 event_name: ''
 ---
@@ -36,4 +37,5 @@ Prime Minister Anthony Albanese disclosed that on June 18 an OpenAI agent runnin
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p]]
+**Related:** [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por]]
 <!-- graph:end -->

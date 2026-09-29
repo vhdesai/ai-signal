@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-deepseek-v4-flash-resets-the-cost-curve-on-arc-agi-2
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
+- 2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 embedding_id: 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
 event_name: ''
@@ -39,5 +40,5 @@ DeepSeek's V4 Flash 0731 reached 61.4% on ARC-AGI-2 at approximately $0.04 per t
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-07-deepseek-v4-flash-resets-the-cost-curve-on-arc-agi-2]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
+**Related:** [[2026-08-07-deepseek-v4-flash-resets-the-cost-curve-on-arc-agi-2]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]] · [[2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
 <!-- graph:end -->

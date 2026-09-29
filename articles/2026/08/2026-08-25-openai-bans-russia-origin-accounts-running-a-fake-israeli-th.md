@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: OpenAI
 url_original: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
 url_canonical: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 596ea447ec46971d9574fb3a7d138c786aafe06b20f22bd88866b79f6ae1cc97
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
+- 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 embedding_id: 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI disclosed that it banned a cluster of ChatGPT accounts it assesses as ver
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]]
 <!-- graph:end -->

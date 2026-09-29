@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: OpenAI
 url_original: https://openai.com/index/priorities-principles-third-party-assessments/
 url_canonical: https://openai.com/index/priorities-principles-third-party-assessments/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: ea32a2ead51141fbcd8f3d8bc86dd707483fe8a3b11f7096484d93442f313d31

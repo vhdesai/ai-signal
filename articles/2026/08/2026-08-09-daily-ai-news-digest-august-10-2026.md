@@ -30,11 +30,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-08-17-daily-ai-news-digest-august-18-2026
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-- 2026-08-05-daily-ai-news-digest-august-6-2026
 embedding_id: 2026-08-09-daily-ai-news-digest-august-10-2026
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Executive Summary Monday’s cycle was defined by two forces pulling in opposite
 
 **Entities:** [[Anthropic]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-08-05-daily-ai-news-digest-august-6-2026]]
+**Related:** [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-08-14-daily-ai-news-digest-august-15-2026]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]]
 <!-- graph:end -->

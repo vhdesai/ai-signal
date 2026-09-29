@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Yahoo
 url_original: https://www.yahoo.com/news/politics/articles/openai-building-automated-ai-shutdown-123852082.html
 url_canonical: https://www.yahoo.com/news/politics/articles/openai-building-automated-ai-shutdown-123852082.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-03_061026_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 1d1c3089bb3f4dfabcc175b31620be28c4d841ec0147f216ad0fcba2d5d0fa97

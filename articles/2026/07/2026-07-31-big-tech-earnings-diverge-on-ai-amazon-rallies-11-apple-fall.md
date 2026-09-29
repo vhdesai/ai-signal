@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: LiveMint
 url_original: https://www.livemint.com/market/stock-market-news/amazon-shares-surge-11-pc-after-earnings-apple-stock-down-8-pc-results-chips-ai-cloud-business-artificial-intelligence-11785505618161.html
 url_canonical: https://www.livemint.com/market/stock-market-news/amazon-shares-surge-11-pc-after-earnings-apple-stock-down-8-pc-results-chips-ai-cloud-business-artificial-intelligence-11785505618161.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 1d821a0993068cac4d3b574e7a61a4d9706d97258dbb0a23b7579b4c96d93310

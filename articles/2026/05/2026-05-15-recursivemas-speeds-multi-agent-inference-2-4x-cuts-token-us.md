@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-stanford-and-nvidia-release-clm-8b-caching-reusable-agent-ac
 - 2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-- 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
 embedding_id: 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from UIUC and Stanford published RecursiveMAS, a multi-agent framewo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]] · [[2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex]]
+**Related:** [[2026-09-25-stanford-and-nvidia-release-clm-8b-caching-reusable-agent-ac]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
 <!-- graph:end -->

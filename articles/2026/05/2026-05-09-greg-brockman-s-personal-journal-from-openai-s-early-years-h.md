@@ -5,8 +5,8 @@ title: Greg Brockman's personal journal from OpenAI's early years has emerged as
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.financialexpress.com/life/technology-musk-vs-altman-lawsuit-openais-greg-brockmans-private-diary-now-a-star-evidence-in-landmark-lawsuit-4237758/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 984f487614d4ece2bfac6734b7438908f042e267bef001742ddc1c76c5b5bcfa
 normalized_title_hash: 7e83d0efd4aa80f9

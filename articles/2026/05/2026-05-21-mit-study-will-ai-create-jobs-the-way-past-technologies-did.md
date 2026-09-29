@@ -4,8 +4,8 @@ title: 'MIT Study: Will AI Create Jobs the Way Past Technologies Did?  Trending'
 date: '2026-05-21'
 source: 'Source: MIT News'
 url_original: https://news.mit.edu/topic/artificial-intelligence2
-url_canonical: https://www.webpronews.com/the-great-decoupling-mit-data-reveals-11-7-of-u-s-jobs-are-now-economically-obsolete/
-url_status: repaired
+url_canonical: https://news.mit.edu/topic/artificial-intelligence2
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 55047ba1de3ae0e65a6b5e5b29d675580f5ec5fefdaf83472b903660e8b0dfab

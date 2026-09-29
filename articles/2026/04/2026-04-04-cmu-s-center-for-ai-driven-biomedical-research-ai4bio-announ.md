@@ -5,8 +5,8 @@ title: CMU's Center for AI-Driven Biomedical Research (AI4BIO) announced its fir
 date: '2026-04-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.cmu.edu/ai4bio/news/2026/ai4bio-selects-inaugural-projects-for-biomedical-discovery.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-04_140800_Inbox_Daily AI News Digest – April 4,
   2026.md
 content_hash: 727090444b036574cd3c66351d277f4ce1b8bf8dc21dc10ebee1dde479e447b4

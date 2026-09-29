@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
 url_canonical: https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: c2b3fc383dbf528554954335feee4badb144654e71bb4a5c53074a950e02d2f6
 normalized_title_hash: d8f08ad2a1188bfa

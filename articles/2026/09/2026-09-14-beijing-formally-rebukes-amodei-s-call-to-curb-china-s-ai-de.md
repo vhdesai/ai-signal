@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: AP News / NPR**
 url_original: https://apnews.com/article/china-anthropic-amodei-ai-slowdown
 url_canonical: https://apnews.com/article/china-anthropic-amodei-ai-slowdown
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 753906f022b4a8cfc44cdf4c1f55c49d4d2ba3c7852e6d3274c754a028fa1169
 normalized_title_hash: 042a89696e0016f3

@@ -5,8 +5,8 @@ title: Anthropic's decision to develop but withhold Claude Mythos from public re
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://opentools.ai/news/anthropics-claude-mythos-the-ai-too-powerful-for-public-release
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: eb312e560a2b726f80409c74f0d663d0cf012be911e83bf24516fb2e880f33ad

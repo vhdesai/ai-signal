@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: CNBC
 url_original: https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
 url_canonical: https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 93f5cc8cd038c39d68d9407ff8ef62a482c06ea2c51a7ed24a749cf6a43a5184

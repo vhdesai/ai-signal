@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: OpenAI**
 url_original: https://openai.com/index/safety-alignment-long-horizon-models/
 url_canonical: https://openai.com/index/safety-alignment-long-horizon-models/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: eb060e1720828742afeee80f1bd767c2632c0075388be44695167012f7280ec6
 normalized_title_hash: 9b8bee58aa2cae98
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
 - 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
 - 2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox
+- 2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-- 2026-08-18-openai-institutes-new-safety-protocols-after-hugging-face-br
 embedding_id: 2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI disclosed that an internal model built for long-running autonomous tasks 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-08-18-openai-institutes-new-safety-protocols-after-hugging-face-br]]
+**Related:** [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
 <!-- graph:end -->

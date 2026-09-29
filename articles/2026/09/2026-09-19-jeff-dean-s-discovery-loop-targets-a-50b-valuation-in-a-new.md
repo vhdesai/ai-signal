@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: TechStory
 url_original: https://techstory.in/jeff-deans-discovery-loop-targets-50-bn-valuation-in-new-funding-round/
 url_canonical: https://techstory.in/jeff-deans-discovery-loop-targets-50-bn-valuation-in-new-funding-round/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 71efbb295a38c7da77214b43bcc9c26f62fca50ef4cfea27866963384d5f54ab

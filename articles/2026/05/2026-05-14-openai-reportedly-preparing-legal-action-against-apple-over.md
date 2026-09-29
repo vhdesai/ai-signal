@@ -5,8 +5,8 @@ title: OpenAI Reportedly Preparing Legal Action Against Apple Over Siri + ChatGP
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: e69b8a35cb07fe151272204780795713ffd9383ad391db55f12e102ed42b0bd1

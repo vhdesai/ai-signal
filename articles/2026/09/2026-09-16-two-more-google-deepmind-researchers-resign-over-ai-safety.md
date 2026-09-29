@@ -5,7 +5,7 @@ date: '2026-09-16'
 source: The Information
 url_original: https://www.theinformation.com/articles/two-google-deepmind-ai-researchers-resign-over-safety
 url_canonical: https://www.theinformation.com/articles/two-google-deepmind-ai-researchers-resign-over-safety
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 479d01f308c518a2c244aa86e724babfcc81800531898c2882a9cb9746dd5d99
 normalized_title_hash: 1ac06ccb9d659d3c
@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-16-two-more-google-deepmind-safety-researchers-resign
 - 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
 - 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
+- 2026-09-25-another-deepmind-researcher-quits-calls-near-term-superintel
 embedding_id: 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Two Google DeepMind AI-safety researchers, Bilal Chughtai and Josh Engels, resig
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-16-two-more-google-deepmind-safety-researchers-resign]] · [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]]
+**Related:** [[2026-09-16-two-more-google-deepmind-safety-researchers-resign]] · [[2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]] · [[2026-09-25-another-deepmind-researcher-quits-calls-near-term-superintel]]
 <!-- graph:end -->

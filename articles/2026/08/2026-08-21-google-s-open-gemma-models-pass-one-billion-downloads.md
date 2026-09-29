@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Google
 url_original: https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/
 url_canonical: https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: cbc1bd385ac268a50a30b81db90a95e784fe5fe4a2ca2936ad604ec3e2b9f395

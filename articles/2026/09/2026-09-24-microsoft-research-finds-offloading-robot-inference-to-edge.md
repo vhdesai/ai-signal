@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
+- 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 embedding_id: 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft Research reported that moving physical-AI inference off onboard robot 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
+**Related:** [[2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics]] · [[2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r]] · [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]]
 <!-- graph:end -->

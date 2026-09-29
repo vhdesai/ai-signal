@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/322905/20260804/fable-5-laps-field-mirrorcode-benchmark-design-explains-gpt-55s-score-collapse.htm
 url_canonical: https://www.techtimes.com/articles/322905/20260804/fable-5-laps-field-mirrorcode-benchmark-design-explains-gpt-55s-score-collapse.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: d1302f307c2cb1a545308f3db87b5a0da7f8ac452f38dd1c2f18db29af8cc75d

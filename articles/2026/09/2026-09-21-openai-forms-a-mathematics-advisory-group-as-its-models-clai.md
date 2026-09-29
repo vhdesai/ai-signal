@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechCrunch / OpenAI Blog
 url_original: https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
 url_canonical: https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 442e6d43fd5d4444ba4b8db1f5243bc52940f38bdba06933ab0331a9786277c6

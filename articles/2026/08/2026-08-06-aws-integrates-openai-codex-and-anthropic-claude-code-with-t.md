@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: CRN
 url_original: https://www.crn.com/news/ai/2026/aws-openai-and-anthropic-coding-integrations-to-drive-ai-wins-via-security-partners-say
 url_canonical: https://www.crn.com/news/ai/2026/aws-openai-and-anthropic-coding-integrations-to-drive-ai-wins-via-security-partners-say
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 6c69d37600b5166c475cbb4933ace85f92c9cafe2c05c8b9a99e462f25c54ea8

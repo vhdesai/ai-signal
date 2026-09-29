@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/robots/humanoid-robots/unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research/
 url_canonical: https://aithority.com/robots/humanoid-robots/unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: a8db1a4b00793df5194551d5de217a55116f011800d071e27f5e44f7dea60f23
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
+- 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
-- 2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste
 embedding_id: 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Unitree announced H2 Plus, a humanoid robot positioned as an NVIDIA Isaac GR00T 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste]]
+**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/news/nvidia-offloads-its-all-star-ai-security-response-to-hugging-face-horror/
 url_canonical: https://www.sdxcentral.com/news/nvidia-offloads-its-all-star-ai-security-response-to-hugging-face-horror/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 00e7f843430bd173db2cec76a6ac60584d45af7ad2f9d981ab15c81546585d38
 normalized_title_hash: 3e84ab51db44660d

@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: Axios
 url_original: https://www.axios.com/2026/06/20/ai-tech-moguls-g7
 url_canonical: https://www.axios.com/2026/06/20/ai-tech-moguls-g7
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: f877a005da43c263357b095b31454cc67637e6a633951d10dace49c5f70d9b7f
 normalized_title_hash: d3491bdf0aeb69b8

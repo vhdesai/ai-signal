@@ -5,8 +5,8 @@ title: Anthropic has begun requiring government ID verification (via Persona) be
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/318778/20260621/claude-identity-verification-starts-july-8-what-facial-data-anthropic-collects.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 12697dc373ba35133bfdacca388f7ec757fc49ead20575404f356b0d0727d12b
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
+- 2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
 - 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
-- 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
 embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has begun requiring government ID verification (via Persona) before al
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]] · [[2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs]]
+**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]]
 <!-- graph:end -->

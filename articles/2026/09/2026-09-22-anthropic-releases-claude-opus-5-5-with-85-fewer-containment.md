@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Anthropic
 url_original: https://thehackernews.com/2026/09/anthropic-claude-opus-5-5-system-card.html
 url_canonical: https://thehackernews.com/2026/09/anthropic-claude-opus-5-5-system-card.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4a9cd8568bc244627c4563a3d2250836d827ebb5d1910fb6212117760ece3234

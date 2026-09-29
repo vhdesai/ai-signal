@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Insilico Medicine
 url_original: https://www.news-medical.net/news/20260702/Insilico-Medicine-partners-with-Takeda-for-AI-driven-drug-discovery.aspx
 url_canonical: https://www.news-medical.net/news/20260702/Insilico-Medicine-partners-with-Takeda-for-AI-driven-drug-discovery.aspx
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: c0e662bfb575bc89f6a70e4d53ca5526306f009ba41fb249537456111ba182b8

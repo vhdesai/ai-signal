@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechSpot
 url_original: https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html
 url_canonical: https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8de9bb06e21b2dd13a65ee6461c891629e62e9309a52eecf3f08c6e045a91443

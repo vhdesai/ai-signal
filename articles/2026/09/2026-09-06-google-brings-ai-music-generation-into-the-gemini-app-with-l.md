@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Decoder · Google
 url_original: https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/
 url_canonical: https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060643_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: a68d1f1d2843ecb70c83b6983ada9e2e68f53e5f613f0fb8ed6948cbeeeb2a38

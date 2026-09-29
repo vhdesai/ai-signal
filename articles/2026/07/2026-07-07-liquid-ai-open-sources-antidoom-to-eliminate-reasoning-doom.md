@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
-- 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
 embedding_id: 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Liquid AI released “Antidoom,” a targeted post-training method that eliminat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible]]
+**Related:** [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]] · [[2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]]
 <!-- graph:end -->

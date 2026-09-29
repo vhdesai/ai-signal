@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Engadget / 9to5Google / Android Authority
 url_original: https://thirdruntime.com/
 url_canonical: https://thirdruntime.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 63985f953269d43c21d94bcd14979762ddd3fc386739ac3720725aaaab2ff649

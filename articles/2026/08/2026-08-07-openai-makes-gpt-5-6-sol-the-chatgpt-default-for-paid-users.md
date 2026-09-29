@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: '[OpenAI]'
 url_original: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
 url_canonical: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_062022_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 638c5474d573247f6e8a130fe22766c19a8405ba9d76c796f0550e7b986629f1

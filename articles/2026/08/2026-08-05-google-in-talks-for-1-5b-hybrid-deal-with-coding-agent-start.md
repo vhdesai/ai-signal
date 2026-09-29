@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/08/05/google-targets-ai-startup-mechanizes-technology-talent-proposed-1-5b-deal/
 url_canonical: https://siliconangle.com/2026/08/05/google-targets-ai-startup-mechanizes-technology-talent-proposed-1-5b-deal/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: a674337d1e3a17c51e628e007537153beaef4ee33140d97d4085d9fb592ca0ce

@@ -26,6 +26,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-saturday-september-26-2026
 - 2026-09-12-saturday-september-12-2026
 - 2026-09-24-daily-ai-news-digest-september-25-2026
 - 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
@@ -43,5 +44,5 @@ The last 24 hours were dominated by capital, not capability. Anthropic committed
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-12-saturday-september-12-2026]] · [[2026-09-24-daily-ai-news-digest-september-25-2026]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives]]
+**Related:** [[2026-09-25-saturday-september-26-2026]] · [[2026-09-12-saturday-september-12-2026]] · [[2026-09-24-daily-ai-news-digest-september-25-2026]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-receives]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
 url_canonical: https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: 4f94dfe8b5cdef57dbc49f17a2c6e393bf1a9bfa9151e0e1d119d9ce2a946ca8
 normalized_title_hash: f65246f8b85b5d3f
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-04-01-products-tools
-- 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 embedding_id: 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Snap is spinning off an AI video team into a new company, Dotmo, with cost press
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization]] · [[2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]]
+**Related:** [[2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

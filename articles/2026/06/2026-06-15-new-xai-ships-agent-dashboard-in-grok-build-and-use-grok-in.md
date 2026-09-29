@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: xAI News
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 052dcf10d70a7c88a07e1233bdf23927f5f1fbee155f9f53fc58119c6dfb1a8f
 normalized_title_hash: 30f7daffc9b73a6f

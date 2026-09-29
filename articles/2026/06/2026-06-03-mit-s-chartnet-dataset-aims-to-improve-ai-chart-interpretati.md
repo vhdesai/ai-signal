@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-researchers-teach-ai-models-interpret-charts
 url_canonical: https://news.mit.edu/2026/mit-researchers-teach-ai-models-interpret-charts
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 0743d632de7b68cfc6ed7360fb4bf5a66d6fc119b94ae65998443527ba7e92d7
 normalized_title_hash: f079e432376392a4

@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
 url_canonical: https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: e0a86d71d4b4accf95c2e72ef4dd246fa71b675a8d80e36a71e580c4567c5bb6

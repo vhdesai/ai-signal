@@ -6,7 +6,7 @@ date: '2026-06-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
 url_canonical: https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 94ba79617c8941385e7dd349a13947d71d9bd2479e7cf636b57cc8271d7a821f
 normalized_title_hash: 746ffbae026aa492

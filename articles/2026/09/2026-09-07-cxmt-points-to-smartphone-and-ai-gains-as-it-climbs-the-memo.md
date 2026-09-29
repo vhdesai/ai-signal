@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/cxmt-highlights-smartphone-ai-advances-as-market-share-climbs-1d777648
 url_canonical: https://www.wsj.com/tech/cxmt-highlights-smartphone-ai-advances-as-market-share-climbs-1d777648
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 86a847d6136c2608ff9a364eb923b58ffd5f0f4e7b4dcfbd9a8e5aecea5a1c63

@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/
 url_canonical: https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_060053_Daily-AI-News-Digest.md
 content_hash: 79fe41056d08b4457d7e9fc2592912a20c2459c986d1e0de6eacdf73a277eb3d
 normalized_title_hash: f38e43124c69ec7d
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-10-ai-pilled-firms-spend-7-500-per-employee-per-month-on-ai
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-- 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 embedding_id: 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reported that companies with aggressive AI adoption strategies are sp
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-10-ai-pilled-firms-spend-7-500-per-employee-per-month-on-ai]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]]
+**Related:** [[2026-06-10-ai-pilled-firms-spend-7-500-per-employee-per-month-on-ai]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]]
 <!-- graph:end -->

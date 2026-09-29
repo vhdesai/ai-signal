@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Decoder
 url_original: https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/
 url_canonical: https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: d74b05be62631148a9c2a916a33df2ea87bd074df75e0a63f6d32aa1a5dac50f

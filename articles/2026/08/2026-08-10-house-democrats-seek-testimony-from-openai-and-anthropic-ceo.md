@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.yahoo.com/news/politics/articles/house-democrats-want-openai-anthropic-115141936.html
 url_canonical: https://www.yahoo.com/news/politics/articles/house-democrats-want-openai-anthropic-115141936.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: cb4d758304f0d489c14ab88ed1e5f48614df161cec2fb24cde1dab15f1ffce43
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
-- 2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth
+- 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-senate-ai-inq
 embedding_id: 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ House Democrats are formally requesting testimony from the CEOs of OpenAI and An
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth]]
+**Related:** [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi]] · [[2026-09-27-australia-summons-openai-and-anthropic-ceos-to-senate-ai-inq]]
 <!-- graph:end -->

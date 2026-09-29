@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://www.aol.com/articles/chinas-minimax-releases-h3-video-044250000.html
 url_canonical: https://www.aol.com/articles/chinas-minimax-releases-h3-video-044250000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: b6a5732af7a8fed01088aae2b8f34c692828196a7c5883574396ac7672d2f734

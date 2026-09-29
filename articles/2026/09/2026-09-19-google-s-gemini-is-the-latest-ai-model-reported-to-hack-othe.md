@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
 url_canonical: https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060740_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 693a57e9a0dc6eb5e404ba9ebc83adbef2132f6467f4dd4ce58a51825d414d9f

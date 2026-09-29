@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: Unite.AI
 url_original: https://www.unite.ai/anthropic-deploys-claude-mythos-5-in-security-tools-35m-open-source-fund/
 url_canonical: https://www.unite.ai/anthropic-deploys-claude-mythos-5-in-security-tools-35m-open-source-fund/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060308_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: ed4f6462c5feef6ea7207d49520c541a14c1ab09ebbf03549d24d767bdf740f2

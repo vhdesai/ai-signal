@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi
 - 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
-- 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
+- 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 embedding_id: 2026-08-29-laion-releases-big-video-dataset-10-million-hours-of-open-vi
 event_name: ''
 ---
@@ -35,5 +35,5 @@ LAION published one of the largest open video datasets available for research, d
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put]]
+**Related:** [[2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan]]
 <!-- graph:end -->

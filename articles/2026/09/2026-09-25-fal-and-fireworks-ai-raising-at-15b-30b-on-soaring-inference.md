@@ -5,14 +5,14 @@ date: '2026-09-25'
 source: The Information
 url_original: https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-as-inference-demand-soars
 url_canonical: https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-as-inference-demand-soars
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: 3a71be69e9b5dc3c500c319074343125874c78a720d850a5cba5d5e43ece7cd0
 normalized_title_hash: cb70009010a44295
 canonical_url_hash: 68ef10ff74e848cd
 tags:
 - Breaking
-- Funding
 entities:
 - Alibaba
 - Google
@@ -27,9 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
+- 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
+- 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
 - 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
-- 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
 embedding_id: 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 event_name: ''
 ---
@@ -43,5 +44,5 @@ Inference-serving startups are the year's cleanest AI-infrastructure trade. The 
 
 **Entities:** [[Alibaba]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup]] · [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]]
+**Related:** [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Unite.AI
 url_original: https://www.unite.ai/bain-joins-anthropics-claude-partner-network-at-global-premier-tier/
 url_canonical: https://www.unite.ai/bain-joins-anthropics-claude-partner-network-at-global-premier-tier/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_065048_Final-Daily-AI-News-Digest.md
 content_hash: 90970a3d681f194edbd3778e8aaa395d7b69a35d0620b916a9d1191e54006a5b
 normalized_title_hash: bf309dc04b555604

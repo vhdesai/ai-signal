@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
 url_canonical: https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_070034_Final-Daily-AI-News-Digest.md
 content_hash: 16641b76f5974097f4a2843f9611a0f1a73b4e1b4e88cca94999a5b28e9f656a
 normalized_title_hash: 100a00d0fa014b69

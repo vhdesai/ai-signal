@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: PA / BankInfoSecurity
 url_original: https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926
 url_canonical: https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 08e2d1c5901891e9cd29ff49892a69d8372add4d5b88d1c916bd34d0bcde2802
@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa
+- 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 embedding_id: 2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front
@@ -40,5 +41,5 @@ The three labs are advancing an industry-led independent standards body — work
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
+**Related:** [[2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa]] · [[2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
 <!-- graph:end -->

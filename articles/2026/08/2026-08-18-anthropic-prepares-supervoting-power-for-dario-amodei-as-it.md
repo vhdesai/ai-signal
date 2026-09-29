@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven
+- 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
+- 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi
-- 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
-- 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
 embedding_id: 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic is preparing to give CEO Dario Amodei and co-founders supervoting stoc
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi]] · [[2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv]] · [[2026-09-14-anthropic-picks-nasdaq-for-potential-ipo]]
+**Related:** [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi]]
 <!-- graph:end -->

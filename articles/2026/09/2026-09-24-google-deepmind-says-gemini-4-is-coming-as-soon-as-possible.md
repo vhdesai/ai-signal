@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Android Headlines / 9to5Google
 url_original: https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/
 url_canonical: https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 5f32bb0bdf3e2749e90754286d23018400b01a5ec52485ea9b5b038e28264c5a
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say
 - 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
-- 2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl
-- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
+- 2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea
+- 2026-09-25-google-plans-gemini-4-release-before-year-end
 embedding_id: 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepMind signalled that Gemini 4 has entered early post-training and will be pus
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
+**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea]] · [[2026-09-25-google-plans-gemini-4-release-before-year-end]]
 <!-- graph:end -->

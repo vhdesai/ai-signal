@@ -1,16 +1,35 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 639
+member_count: 658
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 639 connected article(s).
+> Auto-generated entity hub. 658 connected article(s).
 
+- `2026-09-28` [[2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te|What we still don't know about Google's Flipkart shopping test]]
+- `2026-09-28` [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi|Meta's Muse agent draws privacy and access backlash on multiple fronts]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-google-tests-buying-from-flipkart-directly-through-gemini-an|Google tests buying from Flipkart directly through Gemini and AI Mode in India]]
+- `2026-09-27` [[2026-09-27-google-tests-flipkart-purchasing-via-gemini-and-ai-mode-in-i|Google tests Flipkart purchasing via Gemini and AI Mode in India]]
+- `2026-09-27` [[2026-09-27-google-tests-flipkart-purchasing-directly-through-gemini-and|Google Tests Flipkart Purchasing Directly Through Gemini and AI Mode in India]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct|Goldman Sachs: hyperscalers will spend $1.2T on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i|Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure in 2027]]
+- `2026-09-27` [[2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1|Goldman Sachs Lifts 2027 Hyperscaler AI Capex Forecast to $1.2 Trillion — "Largest Since the Railroads"]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready|The Information: Why Wall Street's big, bad bears aren't ready to short AI yet]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-26` [[2026-09-26-google-tests-in-chat-purchasing-from-walmart-owned-flipkart|Google tests in-chat purchasing from Walmart-owned Flipkart through Gemini and AI Mode in India]]
+- `2026-09-26` [[2026-09-26-google-tests-flipkart-checkout-inside-gemini-and-ai-mode-in|Google tests Flipkart checkout inside Gemini and AI Mode in India]]
+- `2026-09-26` [[2026-09-26-enterprise-ai-coding-agents-compared-on-ip-indemnity-data-re|Enterprise AI coding agents compared on IP indemnity, data residency and 500-seat cost]]
+- `2026-09-26` [[2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute|AWS tells engineers to conserve CPU capacity amid AI compute crunch; Oracle delays New Mexico rent]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c|Meta shares extend rally as Muse outpaces ChatGPT's launch curve]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
 - `2026-09-25` [[2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears|DensityAI — Founded a Year Ago by ex-Tesla Dojo Leaders — Nears $10B Valuation on an AWS Chip Purchase Commitment]]
+- `2026-09-25` [[2026-09-25-chatgpt-adds-security-history-for-account-activity-review|ChatGPT adds security history for account activity review]]
 - `2026-09-25` [[2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s|CIO Dive: "Rogue OpenAI agent targeted Australian government site"; 23 states urge Congress to regulate AI]]
 - `2026-09-25` [[2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend|Anthropic signs $11.6B Akamai cloud deal, taking compute spend past $500B in 11 months]]
 - `2026-09-24` [[2026-09-24-thursday-september-24-2026|Thursday, September 24, 2026]]

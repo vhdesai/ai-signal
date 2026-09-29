@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: AWS
 url_original: https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 823cf99db72e91b4f1fb2a27d0abe19be3c816b5df8c5292c372e11d06642462

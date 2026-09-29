@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/
 url_canonical: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 883328d95382b5a68eccc19295321befcb606839e7785169f4d2d4f37d478b40

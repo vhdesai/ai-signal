@@ -6,7 +6,7 @@ date: '2026-07-24'
 source: UK AI Security Institute
 url_original: https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities
 url_canonical: https://www.aisi.gov.uk/blog/preliminary-assessment-of-kimi-k3s-cyber-capabilities
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 5a55526d665a1bab696ee33f47922acfa26869c0042455f18baa731eeb075cc2

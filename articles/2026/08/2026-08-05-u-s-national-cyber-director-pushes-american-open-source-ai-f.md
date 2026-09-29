@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Nextgov/FCW
 url_original: https://www.nextgov.com/artificial-intelligence/2026/08/top-cyber-official-wants-us-open-source-ai-adopted-worldwide/415222/
 url_canonical: https://www.nextgov.com/artificial-intelligence/2026/08/top-cyber-official-wants-us-open-source-ai-adopted-worldwide/415222/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 311b477a4a83cd4a0864f32361c6d021437814cc95103b1caf30c44d45ee8c45

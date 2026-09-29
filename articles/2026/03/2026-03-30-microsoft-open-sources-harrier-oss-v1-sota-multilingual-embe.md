@@ -4,8 +4,8 @@ title: 'Microsoft Open-Sources Harrier-OSS-v1: SOTA Multilingual Embedding Model
 date: '2026-03-30'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 0497a568edafb88fd227febd1a8d0a28852356c1e6b299d2af690bee2151fe88
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
-- 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 embedding_id: 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft released Harrier-OSS-v1, a family of three multilingual text embedding
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]]
+**Related:** [[2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
 <!-- graph:end -->

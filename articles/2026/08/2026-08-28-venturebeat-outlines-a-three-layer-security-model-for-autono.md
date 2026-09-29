@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 - 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
-- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
-- 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 embedding_id: 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 event_name: ''
 ---
@@ -36,5 +36,5 @@ VentureBeat reported on a defense-in-depth architecture for autonomous agents, o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]]
+**Related:** [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]] · [[2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]]
 <!-- graph:end -->

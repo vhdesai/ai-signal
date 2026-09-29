@@ -4,8 +4,8 @@ title: Anthropic–SpaceX Colossus 1 Deal Doubles Claude Code Rate Limits
 date: '2026-05-06'
 source: Ars Technica
 url_original: null
-url_canonical: https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 1c848a9ec3d1c2608e38fc3abb422a794f0d5a58a9880e505f307fe459c46309

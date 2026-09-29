@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Next Web
 url_original: https://thenextweb.com/news/altman-congress-ai-model-approvals
 url_canonical: https://thenextweb.com/news/altman-congress-ai-model-approvals
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: bfac6881655dca925547f2404071f0e5c1d07550f41b426df692c471adb74754

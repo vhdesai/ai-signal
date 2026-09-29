@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html
 url_canonical: https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 14a8bb8eebc6ef31f85f42ce7bba423e69fe616151cd98df1288293506d582f1
 normalized_title_hash: 57a07d23ae395db3

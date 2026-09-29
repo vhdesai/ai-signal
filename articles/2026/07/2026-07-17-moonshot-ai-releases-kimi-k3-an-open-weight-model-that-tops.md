@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html
 url_canonical: https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 61b538090459f32c0fd5980e867ede9141897537a37e57950f238b7cdf8312a1
 normalized_title_hash: 5b24f76c7bef1163

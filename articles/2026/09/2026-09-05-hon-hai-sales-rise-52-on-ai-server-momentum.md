@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The Hindu BusinessLine
 url_original: https://www.thehindubusinessline.com/info-tech/nvidia-partner-hon-hais-sales-climb-52-with-ai-server-momentum/article71431443.ece
 url_canonical: https://www.thehindubusinessline.com/info-tech/nvidia-partner-hon-hais-sales-climb-52-with-ai-server-momentum/article71431443.ece
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_065239_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: eec799e0a5f822a4c2052e927bb37e065bc6f9b00a4e753b37a5939867038556

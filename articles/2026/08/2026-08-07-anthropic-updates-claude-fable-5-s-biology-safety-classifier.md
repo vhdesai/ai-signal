@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: Anthropic
 url_original: https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
 url_canonical: https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: cc4dc5e7138a8fb13c2e145ed827dfe28e666fd43cfa18dbc829bbe9992a449d

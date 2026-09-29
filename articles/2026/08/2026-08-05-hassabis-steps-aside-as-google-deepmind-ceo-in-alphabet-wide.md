@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Ars Technica
 url_original: https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/
 url_canonical: https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 7eb9cc08ef6dc91e71615bb71104558aa6378cce05c13351807a2739dd68dbbb

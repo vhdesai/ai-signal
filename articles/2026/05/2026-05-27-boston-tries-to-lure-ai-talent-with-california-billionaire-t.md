@@ -4,8 +4,8 @@ title: Boston tries to lure AI talent with California-billionaire-tax pitch
 date: '2026-05-27'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/videos/2026-05-28/boston-seizes-on-california-billionaire-tax-to-lure-ai-talent-mppfy1kl
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 793492fac862b7d5cb710f7c0afabe6921e6bd42da6f002453c038a7a3fd23d3

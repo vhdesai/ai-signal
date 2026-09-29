@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/12/ai-data-centers-may-create-far-fewer-jobs-than-projected.html
 url_canonical: https://www.cnbc.com/2026/09/12/ai-data-centers-may-create-far-fewer-jobs-than-projected.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: b9c5d16e1017021befd6976b8fc43a1f9a4671079f8d5cd371590461b9716d0a

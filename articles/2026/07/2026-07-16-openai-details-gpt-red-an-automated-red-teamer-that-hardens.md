@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Hacker News**
 url_original: https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html
 url_canonical: https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: d2623493e301cb85820c38cbde7c3983ff6af8f670f0dbe4c2cae567f440a229
 normalized_title_hash: e1b54622bb4732b6

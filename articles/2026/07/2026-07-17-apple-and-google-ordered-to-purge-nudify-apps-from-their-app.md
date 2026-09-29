@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/
 url_canonical: https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: b841d02793eeb74ea0943094b5bff146a52f7e8ba05fb25757ad2adf76d4d8bb
 normalized_title_hash: f47b8c708145608a

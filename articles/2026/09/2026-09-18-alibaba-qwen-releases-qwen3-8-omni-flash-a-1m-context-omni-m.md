@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/18/alibaba-qwen-qwen3-8-omni-flash-1m-context/
 url_canonical: https://www.marktechpost.com/2026/09/18/alibaba-qwen-qwen3-8-omni-flash-1m-context/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 7da4eb6fcb420f773b7e855ce59ff28b216e8344c390574c1874bb31d8ad1486

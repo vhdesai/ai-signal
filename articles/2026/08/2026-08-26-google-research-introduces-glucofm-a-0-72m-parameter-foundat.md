@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: MarkTechPost · Google Research · UNSW Sydney
 url_original: https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/
 url_canonical: https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 6f8df6bc97fab488dd5302d9b5cdc41655259c52e418f86e11ce121502cccdd0

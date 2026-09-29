@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: The Guardian / Oxford Internet Institute
 url_original: https://www.aol.co.uk/articles/ai-altering-meaning-users-drafts-110003000.html
 url_canonical: https://www.aol.co.uk/articles/ai-altering-meaning-users-drafts-110003000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 77e8f8e0d99dff65dc757316a25fd76e53639f3629dd547dc89ea0a775a3677f
 normalized_title_hash: d095687fc6b50685

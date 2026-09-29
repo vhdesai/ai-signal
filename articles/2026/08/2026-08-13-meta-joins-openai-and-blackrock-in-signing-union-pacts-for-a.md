@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
 - 2026-07-26-unionized-workers-are-bargaining-with-the-bots
+- 2026-09-28-ai-giants-and-unions-form-a-data-center-coalition-ahead-of-2
+- 2026-09-28-ai-companies-private-equity-and-unions-form-the-american-inf
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-- 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
-- 2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi
 embedding_id: 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta signed labor agreements covering AI data center construction, following sim
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-07-26-unionized-workers-are-bargaining-with-the-bots]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing]] · [[2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi]]
+**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-07-26-unionized-workers-are-bargaining-with-the-bots]] · [[2026-09-28-ai-giants-and-unions-form-a-data-center-coalition-ahead-of-2]] · [[2026-09-28-ai-companies-private-equity-and-unions-form-the-american-inf]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]]
 <!-- graph:end -->

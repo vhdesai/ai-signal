@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
+- 2026-09-27-databricks-acquires-row-zero-replit-acquires-atta
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
-- 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 embedding_id: 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Databricks announced AppKit, a new accelerator for enterprise apps, and a privat
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]]
+**Related:** [[2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil]] · [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta]] · [[2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]]
 <!-- graph:end -->

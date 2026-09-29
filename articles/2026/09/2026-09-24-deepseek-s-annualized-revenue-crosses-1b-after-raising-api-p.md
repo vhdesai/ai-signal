@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c9524440bdac84476b99d42921735e65dc37bbf5ec4cc246e2ac91dc59a724af
@@ -23,7 +23,8 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t
 related_article_ids:
-- 2026-09-23-deepseek-s-annualized-revenue-hits-1b-as-it-finalizes-a-7-5b
+- 2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri
+- 2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise
 embedding_id: 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p
 event_name: ''
 ---
@@ -38,5 +39,5 @@ DeepSeek's annualized revenue run rate reached approximately $1 billion, more th
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
 **Canonical:** [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t]]
-**Related:** [[2026-09-23-deepseek-s-annualized-revenue-hits-1b-as-it-finalizes-a-7-5b]]
+**Related:** [[2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri]] · [[2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise]]
 <!-- graph:end -->

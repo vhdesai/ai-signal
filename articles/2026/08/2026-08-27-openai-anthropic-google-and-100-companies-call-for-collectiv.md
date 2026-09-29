@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
 url_canonical: https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_061032_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 527501aaa6c7a5e20a108c800557fd77d1219e12085f883f7839fc247ff91fb4
@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
-- 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
+- 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
 embedding_id: 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Over 100 companies signed an open letter warning “AI-enabled cyber attacks wil
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic]]
+**Related:** [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]] · [[2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains]] · [[2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu]]
 <!-- graph:end -->

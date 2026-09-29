@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Stanford HAI
 url_original: https://hai.stanford.edu/news/can-ai-be-slowed-down-stanford-hai-experts-weigh-the-risks-rules-and-race-ahead
 url_canonical: https://hai.stanford.edu/news/can-ai-be-slowed-down-stanford-hai-experts-weigh-the-risks-rules-and-race-ahead
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: ccb395e8c3952b47f5506f948b8efa1c8ba3f678e3fe5cc8d6d23be97118ed07

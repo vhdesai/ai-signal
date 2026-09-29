@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: MarkTechPost / Unite.AI
 url_original: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/
 url_canonical: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: c0586dfafe592564abc51177f4e89dbffb622f429a2afd37771b14a56e33ed10
@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker
+- 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
-- 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 embedding_id: 2026-09-23-nvidia-open-weights-nemotron-3-diarization
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released a compact 100M-parameter speaker-diarization model on Hugging Fa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]]
+**Related:** [[2026-09-23-nvidia-releases-nemotron-3-diarization-for-real-time-speaker]] · [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]]
 <!-- graph:end -->

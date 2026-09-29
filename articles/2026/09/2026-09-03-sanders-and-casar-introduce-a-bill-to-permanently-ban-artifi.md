@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Axios
 url_original: https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause
 url_canonical: https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_062136_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: f309888e9b50549317508fa0cafb97c84a05e068d94ac30c199e890a78300a74
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-sanders-and-casar-introduce-bill-to-ban-artificial-superinte
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
+- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 - 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
 - 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
-- 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
 embedding_id: 2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Sen. Bernie Sanders and Rep. Greg Casar announced the Ban Artificial Superintell
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-sanders-and-casar-introduce-bill-to-ban-artificial-superinte]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]] · [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel]] · [[2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai]]
+**Related:** [[2026-09-03-sanders-and-casar-introduce-bill-to-ban-artificial-superinte]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]] · [[2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel]]
 <!-- graph:end -->

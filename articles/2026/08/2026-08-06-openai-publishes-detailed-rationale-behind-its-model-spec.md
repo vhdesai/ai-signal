@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: OpenAI
 url_original: https://openai.com/index/our-approach-to-the-model-spec/
 url_canonical: https://openai.com/index/our-approach-to-the-model-spec/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6cd67de8585260d3802c9b290b1bcd372b25b50af21f0e8565ae76b951c19d7d

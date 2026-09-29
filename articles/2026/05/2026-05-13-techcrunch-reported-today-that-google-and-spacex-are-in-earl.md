@@ -5,8 +5,8 @@ title: TechCrunch reported today that Google and SpaceX are in early talks to co
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: e25a5266af606fa67b7bf80c549bffbeae97dbaa4b5acdcd97986e23b15aa1f6

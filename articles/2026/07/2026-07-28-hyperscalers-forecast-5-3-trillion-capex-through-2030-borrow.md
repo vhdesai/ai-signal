@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
-- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
+- 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
 embedding_id: 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Goldman Sachs estimates that the four largest hyperscalers — Alphabet, Amazon,
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032]] · [[2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct]]
 <!-- graph:end -->

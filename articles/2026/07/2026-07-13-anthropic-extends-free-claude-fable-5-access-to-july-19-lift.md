@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Republic World**
 url_original: https://www.republicworld.com/tech/anthropic-pushes-back-claude-fable-5-s-free-access-deadline-to-july-19-2026-07-13-132118
 url_canonical: https://www.republicworld.com/tech/anthropic-pushes-back-claude-fable-5-s-free-access-deadline-to-july-19-2026-07-13-132118
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: aa9c74f5d20ae6175eff2a06db9f316e005fed12d119eb0a400e1e07e27a5c06
 normalized_title_hash: 98ff8d680b909532

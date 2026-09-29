@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Fortune
 url_original: https://fortune.com/2026/09/18/openai-rogue-agent-incidents-tracking-plan/
 url_canonical: https://fortune.com/2026/09/18/openai-rogue-agent-incidents-tracking-plan/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: bdf69330cd2d2c19b642cc8e730785676650210b6de5b3a35702de7b22a1435e

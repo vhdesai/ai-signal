@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
 url_canonical: https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-02_060559_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: 6eca721145922fc44667297a64fe420b3db5a10913bc5dc2aa8560c2096116ba

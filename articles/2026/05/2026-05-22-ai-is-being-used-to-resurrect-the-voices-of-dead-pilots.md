@@ -4,8 +4,8 @@ title: AI is being used to resurrect the voices of dead pilots
 date: '2026-05-22'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: d38e242a4af1af7c130851e7b6c3ed376355a5825562c949b8a9dc6c71b04cfc

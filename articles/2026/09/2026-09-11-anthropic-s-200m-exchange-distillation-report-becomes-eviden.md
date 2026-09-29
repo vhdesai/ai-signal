@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-200m-exchange-distillation-report-213015315.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-200m-exchange-distillation-report-213015315.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8c4cb13ea0f9f886bb8682566dc8b0e96a3e26ff6f1cc414339007ddc1f157c7

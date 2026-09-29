@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: ABC News
 url_original: https://abcnews.com/Business/feds-launch-probe-teslas-deployment-cybercab-vehicles-brakes/story?id=136202521
 url_canonical: https://abcnews.com/Business/feds-launch-probe-teslas-deployment-cybercab-vehicles-brakes/story?id=136202521
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_065836_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 1fbddca2d6c021c72a4db95ff9cf1ee1f3bf9ab3304c4dc28060c3a6c61b2f60

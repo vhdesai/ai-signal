@@ -5,8 +5,8 @@ title: The U.S. Senate Commerce Committee advanced a bipartisan AI liability bil
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://usabusinesstimes.com/congresss-landmark-ai-liability-bill-is-splitting-corporate-america/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 44deec993ee6e8d3ff60b4553bfb89523ab3814d48f4644629556da6e1ad87f1

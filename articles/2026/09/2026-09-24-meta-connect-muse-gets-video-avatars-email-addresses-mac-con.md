@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/
 url_canonical: https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 2339c170d8e8cc33844daf9b42bfb88a13220502b307a330efe3c5182bb7d98c
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-25-meta-opens-early-access-program-for-new-muse-features
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
-- 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 embedding_id: 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mark Zuckerberg used Connect 2026 to reposition Meta squarely around Muse. Updat
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]]
+**Related:** [[2026-09-25-meta-opens-early-access-program-for-new-muse-features]] · [[2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]]
 <!-- graph:end -->

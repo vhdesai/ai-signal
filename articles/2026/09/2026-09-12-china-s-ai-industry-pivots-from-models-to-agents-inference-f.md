@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Next Web
 url_original: https://thenextweb.com/news/china-agents-inference-eu-compute
 url_canonical: https://thenextweb.com/news/china-agents-inference-eu-compute
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 34e443ca081687dfe92e7a7e6a43e56ed9f7a18322ce4f8dfa72fedcf20bfda3

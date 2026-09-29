@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Google Blog
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060756_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: dfb8bca82617b1105dbe0b45291e4721046a6371400fb67d3c76b742be9f1202

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: NPR / WVIK
 url_original: https://www.wvik.org/npr-top-stories/2026-09-12/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do
 url_canonical: https://www.wvik.org/npr-top-stories/2026-09-12/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 849d0d972c462935c3cc9d22e4bc6d57c49817fba9cd2a61f0ba606c4a29bc33

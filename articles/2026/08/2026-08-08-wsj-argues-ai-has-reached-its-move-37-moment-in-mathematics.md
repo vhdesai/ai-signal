@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41
 url_canonical: https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 5d8ca1eecec580872a42d64a38c8ecd796f9b4d0161d93e03400c12070c5e59b

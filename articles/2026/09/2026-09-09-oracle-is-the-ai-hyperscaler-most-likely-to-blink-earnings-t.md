@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: WSJ
 url_original: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-boom-weakest-link
 url_canonical: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-boom-weakest-link
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 4da7ab3826bfb2bc598005c4c1e260d634589785f70fdcc950f1b8400d4d3d35
 normalized_title_hash: 6d6aed0c0fbd92b7

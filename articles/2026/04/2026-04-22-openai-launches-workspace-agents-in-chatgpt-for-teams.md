@@ -4,8 +4,8 @@ title: OpenAI launches Workspace Agents in ChatGPT for Teams
 date: '2026-04-22'
 source: The AI Track
 url_original: null
-url_canonical: https://theaitrack.com/openai-workspace-agents-chatgpt-enterprise/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 7fabe06a4e35c0c2f3970be037778677a0df66c0b4ee3ba103a0ac58331c3a0d
 normalized_title_hash: 8c683a8e06f390ac

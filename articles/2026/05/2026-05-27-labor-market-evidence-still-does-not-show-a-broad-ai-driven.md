@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: WinBuzzer
 url_original: https://spectrum.ieee.org/state-of-ai-index-2026
 url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 0d7421d59cc972cb28d9fb4371a0108c436de3bbe35703f75eef8e64f83fc3d2

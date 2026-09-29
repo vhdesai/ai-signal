@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: TechCrunch / Meta Platforms
 url_original: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
 url_canonical: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 6175eca884877397f3e63581a84930f55130bf15cc6ce7edce44d9c4a24fcbca
@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 - 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
+- 2026-09-27-can-muse-overcome-meta-s-trust-issues
 embedding_id: 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Chief AI officer Alexandr Wang announced new retail partners for Meta's consumer
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]]
+**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]]
 <!-- graph:end -->

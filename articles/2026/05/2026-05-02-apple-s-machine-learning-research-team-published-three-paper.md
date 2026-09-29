@@ -5,8 +5,8 @@ title: Apple's machine learning research team published three papers at ICASSP 2
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://resources.paperdigest.org/2026/05/icassp-2026-papers-highlights/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 474c4d08b59329dba3df3f5ae9bb338b4429f09e96d8f84f3a45f4fe813a9571
 normalized_title_hash: ec4dc19d895ba99a
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
+- 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
-- 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
 embedding_id: 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple's machine learning research team published three papers at ICASSP 2026 cov
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]]
+**Related:** [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]] · [[2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text]]
 <!-- graph:end -->

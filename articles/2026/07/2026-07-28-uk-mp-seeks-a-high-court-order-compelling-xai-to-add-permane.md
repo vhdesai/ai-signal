@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: The Next Web
 url_original: https://thenextweb.com/news/uk-lawmaker-xai-grok-images
 url_canonical: https://thenextweb.com/news/uk-lawmaker-xai-grok-images
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 0cabd9aefdda25e2d602960af1041cefd7b5fcdb7f87db32e7c0415d33b8a4d4

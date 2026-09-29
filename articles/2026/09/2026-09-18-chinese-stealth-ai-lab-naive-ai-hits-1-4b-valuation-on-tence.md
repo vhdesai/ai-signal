@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: The Information
 url_original: https://www.theinformation.com/articles/chinese-stealth-llm-naive-ai-1-4-billion-valuation
 url_canonical: https://www.theinformation.com/articles/chinese-stealth-llm-naive-ai-1-4-billion-valuation
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: c5ecef771bb7e76c4da6f8c328148d9b4c2e27381a997f5ac806b0145e5ad383

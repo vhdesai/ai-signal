@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: OpenAI
 url_original: https://openai.com/index/gpt-6-astra/
 url_canonical: https://openai.com/index/gpt-6-astra/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: f2e224b7fabebb6ada9f5b1ca233b107663db49d2751ab2c906171547f2b348e

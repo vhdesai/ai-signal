@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Google Blog
 url_original: https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/
 url_canonical: https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: c9f5018492be89591d218dd4276572f75580e0d7d64cbeee264852545ec8b68d

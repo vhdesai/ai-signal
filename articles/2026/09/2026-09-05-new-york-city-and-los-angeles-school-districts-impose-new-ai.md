@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Tech Policy Press
 url_original: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/
 url_canonical: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060801_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: b320cd2f5fce6e1da0895b801e85bb7e16d9c719439dad8645470fa57a5a1e9f

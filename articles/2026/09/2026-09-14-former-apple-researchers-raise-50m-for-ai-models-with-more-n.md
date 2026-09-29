@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Business Insider
 url_original: https://www.businessinsider.com/former-apple-researchers-raise-50-million-to-build-foundational-model-2026-9
 url_canonical: https://www.businessinsider.com/former-apple-researchers-raise-50-million-to-build-foundational-model-2026-9
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: d3f0395952dfefbd8e7531814fc6632d008acabbe6a3714da6ce2b8a0b3699ef

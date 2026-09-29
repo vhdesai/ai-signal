@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Help Net Security
 url_original: https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/
 url_canonical: https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 9c53fe5e174a5d3125fad3b8c671c23b9c0ec22ce854eefbefa73094e5141a66
@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin
+- 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
+- 2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th
+- 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-- 2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber
-- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 embedding_id: 2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in
 event_name: ''
 ---
@@ -40,5 +41,5 @@ GreyNoise documented a suspected Russian-speaking actor who used hundreds of AI 
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
+**Related:** [[2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th]] · [[2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]]
 <!-- graph:end -->

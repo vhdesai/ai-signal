@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Springer Information Systems and e-Business Management
 url_original: https://link.springer.com/subjects/artificial-intelligence
 url_canonical: https://link.springer.com/subjects/artificial-intelligence
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ae1fc0d61a08005e8491327fd23273b0cc9803c324adeacc232eb5fed7b134a4

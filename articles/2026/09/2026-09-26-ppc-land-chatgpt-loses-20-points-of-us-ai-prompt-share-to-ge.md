@@ -5,14 +5,14 @@ date: '2026-09-26'
 source: PPC Land
 url_original: https://ppc.land/chatgpt-loses-20-points-us-ai-prompt-share-gemini-claude-2026
 url_canonical: https://ppc.land/chatgpt-loses-20-points-us-ai-prompt-share-gemini-claude-2026
-url_status: broken
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: b997066a30ee20fdc592257d2f3fbf339196739cd0afd4905039d75c7878153a
 normalized_title_hash: 95123691b252d195
 canonical_url_hash: df3cf58aff1f0c51
 tags:
 - Hot
-- Data
 entities:
 - Anthropic
 - Google

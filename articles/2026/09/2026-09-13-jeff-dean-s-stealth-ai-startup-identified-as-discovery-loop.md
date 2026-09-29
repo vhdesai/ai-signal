@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Livemint
 url_original: https://www.livemint.com/technology/tech-news/jeff-dean-discovery-loop-ai-startup-50-billion-valuation
 url_canonical: https://www.livemint.com/technology/tech-news/jeff-dean-discovery-loop-ai-startup-50-billion-valuation
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 2526427893d9098fa4137afcdea1e574cd710aa77cbf2de44f0421f0f5c82442

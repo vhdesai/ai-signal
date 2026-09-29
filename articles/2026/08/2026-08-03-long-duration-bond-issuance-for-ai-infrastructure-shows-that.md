@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 embedding_id: 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Long-duration bond issuance for AI infrastructure shows that data-center expansi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
+**Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

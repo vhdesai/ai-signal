@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: The Decoder
 url_original: https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/
 url_canonical: https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 845a5adeaf4481398a7a5c32f08ae5172b54fefd7d58b8e7ed3dafb1826f5e3f

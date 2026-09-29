@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: MIT News · MIT Department of Biology
 url_original: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
 url_canonical: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 86915d521c0743aea5595b0096b26c0db36880f9bd71cce9b9d3a20e8750cc19
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri
 - 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
 embedding_id: 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT biologists introduced a machine-learning framework designed to raise the suc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri]] · [[2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri]] · [[2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat]] · [[2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo]] · [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]]
 <!-- graph:end -->

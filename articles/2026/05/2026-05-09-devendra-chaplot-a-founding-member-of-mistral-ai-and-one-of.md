@@ -5,8 +5,8 @@ title: Devendra Chaplot, a founding member of Mistral AI and one of xAI's highes
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.fintechweekly.com/news/xai-superintelligence-devendra-chaplot-mistral-thinking-machines-lab-grok-march-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: 32c48bc54bf073198bba4cd968d9b7482ac5029725dbcaf0ab3da4b4dee127af
 normalized_title_hash: 033ea72ae2545228

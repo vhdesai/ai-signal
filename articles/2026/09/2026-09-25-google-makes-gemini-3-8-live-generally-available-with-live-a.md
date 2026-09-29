@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Engadget / Google Cloud Blog
 url_original: https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/
 url_canonical: https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: da21556feccb06b1a061ee2fc7d40a772f3814310f701c9eeea5d826cd8f5bc3

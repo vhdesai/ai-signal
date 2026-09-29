@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
-- 2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures
+- 2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how
 embedding_id: 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook reports that AI is increasing the volume of diligence questions in pri
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-06-13-pitchbook-ai-ambitions-vs-exit-pressures]]
+**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit]] · [[2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how]]
 <!-- graph:end -->

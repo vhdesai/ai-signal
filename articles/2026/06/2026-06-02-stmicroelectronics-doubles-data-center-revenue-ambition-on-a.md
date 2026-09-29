@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
 url_canonical: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: 5a572e77d2acc6b2270f6383742a74a6879167d362c87f097865ab28e9ba9847
 normalized_title_hash: 771d651c7e18355c

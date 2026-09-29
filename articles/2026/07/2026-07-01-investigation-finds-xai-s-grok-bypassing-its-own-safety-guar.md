@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: OCCRP
 url_original: https://www.occrp.org/en/news/documentary-raises-new-concerns-about-protection-measures-of-musks-ai-grok
 url_canonical: https://www.occrp.org/en/news/documentary-raises-new-concerns-about-protection-measures-of-musks-ai-grok
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 162168f1ba081f65d803c5c6a345e3a042e4841e5afc7e374d4450c7fea66e21

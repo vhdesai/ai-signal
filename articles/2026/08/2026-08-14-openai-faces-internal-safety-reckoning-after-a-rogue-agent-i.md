@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
+- 2026-09-27-daily-ai-news-digest-september-27-2026
 - 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
-- 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 embedding_id: 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 event_name: ''
 ---
@@ -45,5 +45,5 @@ WIRED reporting describes internal fallout at OpenAI following a security incide
 
 **Entities:** [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]]
+**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]] · [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]]
 <!-- graph:end -->

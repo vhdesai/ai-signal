@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/personal-tech/ai-tools-car-maintenance-pros-cons-7e9c73d5
 url_canonical: https://www.wsj.com/tech/personal-tech/ai-tools-car-maintenance-pros-cons-7e9c73d5
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: 27660c9886e27c464f0515b9a89032fa3c7625fbc97ec793cb1ccf061e8f5298
 normalized_title_hash: e9bd9426311c82da

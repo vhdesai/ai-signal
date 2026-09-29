@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud
-- 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
+- 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-senate-ai-inq
 embedding_id: 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anadolu summarized key points from Anthropic CEO Dario Amodei's call to slow fro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]]
+**Related:** [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass]] · [[2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud]] · [[2026-09-27-australia-summons-openai-and-anthropic-ceos-to-senate-ai-inq]]
 <!-- graph:end -->

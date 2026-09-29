@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: IBM Newsroom
 url_original: https://newsroom.ibm.com/2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 url_canonical: https://newsroom.ibm.com/2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: f1a9dccc9bd4a5a3c701c4543d1623148f74a748a94a51a60ae0b0e42b18df1d

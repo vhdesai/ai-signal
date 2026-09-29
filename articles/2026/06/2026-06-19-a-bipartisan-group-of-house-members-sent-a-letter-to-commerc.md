@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-19-anthropic-executives-pledged-to-work-more-closely-with-the-w
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
+- 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
-- 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 embedding_id: 2026-06-19-a-bipartisan-group-of-house-members-sent-a-letter-to-commerc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A bipartisan group of House members sent a letter to Commerce Secretary Howard L
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-19-anthropic-executives-pledged-to-work-more-closely-with-the-w]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]]
+**Related:** [[2026-06-19-anthropic-executives-pledged-to-work-more-closely-with-the-w]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 embedding_id: 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Satya Nadella is dismantling Microsoft's traditional senior leadership structure
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Next Web
 url_original: https://thenextweb.com/news/china-embodied-ai-data-eu-gap
 url_canonical: https://thenextweb.com/news/china-embodied-ai-data-eu-gap
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_060533_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 6ac4069edaa17676963eaa76bf3df36b7088f68b9b5ecb63297d24de75164d51

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
-- 2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development
+- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 embedding_id: 2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Senator Bernie Sanders and Steve Bannon delivered back-to-back speeches at the F
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development]]
+**Related:** [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]]
 <!-- graph:end -->

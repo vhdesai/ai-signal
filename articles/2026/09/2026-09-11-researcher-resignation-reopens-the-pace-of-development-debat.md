@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Homeland Security Today**
 url_original: https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/anthropic-blocks-potential-bioweapon-misuse-as-former-ai-researcher-warns-of-greater-threats-to-humanity/
 url_canonical: https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/anthropic-blocks-potential-bioweapon-misuse-as-former-ai-researcher-warns-of-greater-threats-to-humanity/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 07aa071a22f95627d507ac5e26bc47fc950b723eda7b142e6aa5c8fe519012fa
 normalized_title_hash: 39aae49633e1303b

@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-spacex-cursor-ai-coding-agents-iphone/
 url_canonical: https://www.techrepublic.com/article/news-spacex-cursor-ai-coding-agents-iphone/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: fae5efc869c3d13df2add8136303bdd1879576e04421602f03cd5453358fb613

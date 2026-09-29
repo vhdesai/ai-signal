@@ -5,8 +5,8 @@ title: Anthropic Releases Claude Connectors for Adobe, Blender, and Autodesk Fus
 date: '2026-04-28'
 source: The AI Track
 url_original: null
-url_canonical: https://theaitrack.com/claude-connectors-adobe-blender/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4fbcf6da79cd916c3d4276e95e839b9773e01aa6910365f42408cdef5bb80f9b
 normalized_title_hash: 710f22ba0dbe7786
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
+- 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-- 2026-05-06-
 embedding_id: 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic expanded its Claude Connectors program to cover Adobe's creative suite
 
 **Entities:** [[Adobe]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-05-06-]]
+**Related:** [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

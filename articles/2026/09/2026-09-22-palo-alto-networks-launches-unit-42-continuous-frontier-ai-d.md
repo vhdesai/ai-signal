@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-launches-ai-135532789.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-launches-ai-135532789.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 1f350a1f81f20cc84650a3221fbddb8a1b8efddfa9b58aa465df501222510402

@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/articles/amd-just-joined-1-trillion-150144199.html
 url_canonical: https://finance.yahoo.com/technology/articles/amd-just-joined-1-trillion-150144199.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: f67fd59817fcf385fe3e312c2b6990d5d7fe82afe2f2635759d5fb3457ecb0ef

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
+- 2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
-- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 embedding_id: 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Databricks' Data+AI Summit concluded at Moscone Center with its highest-density 
 
 **Entities:** [[Databricks]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Snowflake]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]]
+**Related:** [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-09-25-databricks-makes-the-genie-one-mcp-server-generally-availabl]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark]] · [[2026-09-06-databricks-launches-context-engineer-certification-and-expan]]
 <!-- graph:end -->

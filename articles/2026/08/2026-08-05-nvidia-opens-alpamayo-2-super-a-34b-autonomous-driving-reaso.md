@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: IoT Tech News
 url_original: https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/
 url_canonical: https://iottechnews.com/news/nvidia-opens-av-reasoning-model-robotaxi-developers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 3ae72c8e43740c83477c996f77756c46a2eeec4d2911882902f927555a6995be

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/articles/positron-valued-at-5-billion-in-new-funding-as-demand-for-ai-chips-surges
 url_canonical: https://www.wsj.com/articles/positron-valued-at-5-billion-in-new-funding-as-demand-for-ai-chips-surges
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 9b843e23f5116bc747c4aaf1d5d06646bddbcd64c977ddc41a49bf1aadebd024

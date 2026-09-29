@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: Inc.com
 url_original: https://www.inc.com/lucia-auerbach/chatgpts-personal-finance-test-is-rolling-out-in-the-u-s-with-a-major-warning-label/91346331
 url_canonical: https://www.inc.com/lucia-auerbach/chatgpts-personal-finance-test-is-rolling-out-in-the-u-s-with-a-major-warning-label/91346331
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 73ec5ec85cdb22618483a2b474cee606675753c83807ac820e05e464dcf86f2e

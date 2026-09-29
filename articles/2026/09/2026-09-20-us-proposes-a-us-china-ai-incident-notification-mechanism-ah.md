@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html
 url_canonical: https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: e1cebdb8721bfa54668be78b8ed4569540fd40bab899e7b3d66fb6fdc7616c4b

@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/nvidia-hires-openai-chris-malone-vp-dsx/
 url_canonical: https://cryptobriefing.com/nvidia-hires-openai-chris-malone-vp-dsx/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 82d7b3f4828166b201f648a76ba0b1a3686cc31774ef9e19a79ff339d24c6ba6

@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: The Financial Express
 url_original: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
 url_canonical: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 02b08eb5bbb3137ef222b2628f3fe2bead44f2ad480e26c3e226d5e885409cb6
 normalized_title_hash: 0d6f9dea5a63e87a
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
+- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A weekend analysis frames an "AI affordability wake-up call": token-based pricin
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]]
+**Related:** [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368454/alibaba-cloud-set-open-new-data-centres-europe-next-year-overseas-push-speeds
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368454/alibaba-cloud-set-open-new-data-centres-europe-next-year-overseas-push-speeds
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: e1bae3a6335821e901483229ff5bb3dc370ebb3c7c88357fca67f946b2404a76

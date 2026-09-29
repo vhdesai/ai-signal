@@ -5,8 +5,8 @@ title: ⚙️ Hardware & Geopolitics Trump and Xi Discuss AI Guardrails; Nvidia 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://theneuralfeed.com/article/trump-xi-weigh-ai-guardrails-as-nvidia-chip-exports-hang-in-the-balance/v2QUznoV
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b6096e9c7634ef45d15f3f25123b48d277bf0f38dc03451d818f357235bf1068

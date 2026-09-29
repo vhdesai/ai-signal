@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Ars Technica
 url_original: https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
 url_canonical: https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 8ab05f98251f093e66d2000d3ab6e6cd78a752c69300fb44168cefe885200fc0
@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
-- 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
-- 2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us
-- 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
+- 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
+- 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
+- 2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner
 embedding_id: 2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Researcher Patrick Wardle disclosed that Muse, Meta's month-old macOS personal a
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all]] · [[2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us]] · [[2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss]]
+**Related:** [[2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi]] · [[2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v]] · [[2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner]]
 <!-- graph:end -->

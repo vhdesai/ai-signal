@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: WION
 url_original: https://www.wionews.com/world/nvidia-s-nemotron-3-ultra-vs-google-s-gemma-4-12b-understanding-the-difference-between-two-new-species-of-ai-1780670784127
 url_canonical: https://www.wionews.com/world/nvidia-s-nemotron-3-ultra-vs-google-s-gemma-4-12b-understanding-the-difference-between-two-new-species-of-ai-1780670784127
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 05c2f6ae5bf4697f7fccc2f8f0f5370dcec4a3c1133f49e91127cec34c9426f1

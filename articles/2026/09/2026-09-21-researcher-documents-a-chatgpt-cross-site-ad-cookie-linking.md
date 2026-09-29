@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Notebookcheck
 url_original: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
 url_canonical: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 4ef2cdf49727bbae942014a8e8650a2bbc8c9cc3a45287296b7792eff8ba50de
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 - 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
+- 2026-09-26-engadget-details-the-specifics-census-credentials-an-sec-for
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
-- 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
 embedding_id: 2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A disclosure published September 20 by Buchodi’s Threat Intel traced obi, a co
 
 **Entities:** [[Intel]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
+**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-09-26-engadget-details-the-specifics-census-credentials-an-sec-for]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/
 url_canonical: https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: dece2e4d7c3eefbd1d028eb0e2458793bd5270c9d7a8a854881557baff5e36fc

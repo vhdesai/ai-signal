@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
 url_canonical: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: b6d7ea35e772bacbe0ac11e60d4e6c7aa2e80be85592a4de14b1dc0d8dfe688e
 normalized_title_hash: d2b866702976590f
@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-- 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 embedding_id: 2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Artificial Intelligence Underwriting Company (AIUC), founded by an early Anthrop
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]]
+**Related:** [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan]] · [[2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation]]
 <!-- graph:end -->

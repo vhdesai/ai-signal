@@ -6,7 +6,7 @@ date: '2026-08-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/
 url_canonical: https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-02_060559_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: d2e6407279e01e584619f0fdf422dfaa60b9325e5aca9fe1d27f59b3bf5931f3

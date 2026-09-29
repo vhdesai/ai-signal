@@ -6,8 +6,9 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/25/liquid-ai-lfm2-5-vl-3b-dspark-speculative-decoding/
 url_canonical: https://www.marktechpost.com/2026/09/25/liquid-ai-lfm2-5-vl-3b-dspark-speculative-decoding/
-url_status: ok
-digest_source: digests\raw\2026-09-26_065844_Final-Daily-AI-News-Digest.md
+url_status: found
+digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
+  26, 2026.md
 content_hash: 229482b58a02c763831b78d2316454cdb5d245b7b7ca121879bac4f655a0d952
 normalized_title_hash: a0e266e50d0a3a1d
 canonical_url_hash: acdd2f1c792a5efe
@@ -21,11 +22,9 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
-- 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
+dedupe_status: duplicate
+canonical_article_id: 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
+related_article_ids: []
 embedding_id: 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
 event_name: ''
 ---
@@ -39,5 +38,5 @@ MarkTechPost reports Liquid AI released LFM2.5-VL-3B-DSpark, a 3B-parameter visi
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]]
+**Canonical:** [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]]
 <!-- graph:end -->

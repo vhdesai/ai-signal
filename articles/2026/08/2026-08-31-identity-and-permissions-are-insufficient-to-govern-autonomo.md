@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
+- 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
-- 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
-- 2026-08-10-venturebeat-your-agent-didn-t-hallucinate-it-exceeded-its-au
+- 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 embedding_id: 2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Access controls determine what an agent can reach but not what it does once oper
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim]] · [[2026-08-10-venturebeat-your-agent-didn-t-hallucinate-it-exceeded-its-au]]
+**Related:** [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca]] · [[2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati]]
 <!-- graph:end -->

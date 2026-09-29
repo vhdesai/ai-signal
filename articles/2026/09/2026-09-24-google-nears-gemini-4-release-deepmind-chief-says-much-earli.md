@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/google-nears-release-of-flagship-gemini-4-ai-model
 url_canonical: https://www.theinformation.com/articles/google-nears-release-of-flagship-gemini-4-ai-model
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 87408763c962debd347f74e13a4c995b17634d6bd4952e3a224017e3cf0d84f1
@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
-- 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
-- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
+- 2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea
+- 2026-09-25-google-plans-gemini-4-release-before-year-end
 embedding_id: 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
 event_name: ''
 ---
@@ -42,5 +42,5 @@ At The Information's AI Agenda Live Summit — in his first media appearance as 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
+**Related:** [[2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say]] · [[2026-09-23-google-says-flagship-gemini-4-is-nearing-release]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea]] · [[2026-09-25-google-plans-gemini-4-release-before-year-end]]
 <!-- graph:end -->

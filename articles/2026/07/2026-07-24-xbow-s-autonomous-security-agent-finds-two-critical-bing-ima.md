@@ -6,7 +6,7 @@ date: '2026-07-24'
 source: The Hacker News · within 48h
 url_original: https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
 url_canonical: https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: ad15825375859be0c192fddb898a422420bc6f67a7c927095aecabc50cd35a5a

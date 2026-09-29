@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
 url_canonical: https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: d57e86b17fc80f30a9040a976cc1031732d9844605ab3c857ec60ddfa144b5d0

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: The Information · The Wall Street Journal
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google%20TPU%20Nvidia%20customers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google%20TPU%20Nvidia%20customers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_065741_Final-Daily-AI-News-Digest.md
 content_hash: d4ebed363404c7c4e3b474eda5e73f08924cf47a79ce03315d86a03e861d50f3
 normalized_title_hash: 63614273b68bb871

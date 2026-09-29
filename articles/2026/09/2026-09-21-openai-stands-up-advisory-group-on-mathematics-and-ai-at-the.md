@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: OpenAI
 url_original: https://openai.com/index/advisory-group-on-mathematics-and-ai
 url_canonical: https://openai.com/index/advisory-group-on-mathematics-and-ai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 61e14d3b0849a0c59e8480eb0ea71f34c6a2003329875724405a4ae5fff794a0

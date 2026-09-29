@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
+- 2026-09-26-llm-agents-can-easily-tamper-with-their-own-traces-coding-ag
 - 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
 embedding_id: 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Researchers from ELLIS Institute Tübingen, Max Planck Institute, MATS, and Snyk
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]]
+**Related:** [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-09-26-llm-agents-can-easily-tamper-with-their-own-traces-coding-ag]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-22'
 source: Business Insider
 url_original: https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8
 url_canonical: https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060915_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: e94c9a16430082cd04e7989a7e6d71f85fc6e6e0ec01c4c81d727ee2dfda3f6f

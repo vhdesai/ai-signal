@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/china-leads-us-in-top-ai-talent-study-finds
 url_canonical: https://www.theinformation.com/articles/china-leads-us-in-top-ai-talent-study-finds
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 4db8a9e3fa3758cb13a9af361fa54aaaa3fd790650ddd1494fe19470db443729

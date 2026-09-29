@@ -5,8 +5,8 @@ title: Salesforce announced a major Slackbot upgrade, adding 30 new AI features 
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ai2.work/blog/salesforce-turns-slackbot-into-a-full-autonomous-work-agent
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 3c15a30ba6aa5c4d55bfa65d5235383cc3c81033a3ec85cfbd9b812962695d81

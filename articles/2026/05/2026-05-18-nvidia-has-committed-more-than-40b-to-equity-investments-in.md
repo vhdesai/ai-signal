@@ -5,8 +5,8 @@ title: Nvidia has committed more than $40B to equity investments in AI companies
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://letsdatascience.com/blog/nvidia-40-billion-ai-equity-investments-2026-openai-corning-iren
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 9f2825b3d6a20aae8ba0116f9e69c6272bb049e48a6910cf41619022d353a636

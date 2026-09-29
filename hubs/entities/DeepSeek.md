@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 496
+member_count: 505
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 496 connected article(s).
+> Auto-generated entity hub. 505 connected article(s).
 
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be|DeepSeek V4.1-Flash undercuts Opus 5 by ~70% while matching benchmarks]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
+- `2026-09-25` [[2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise|DeepSeek revenue hits $1B run rate; targeting a $7.5B raise]]
+- `2026-09-25` [[2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri|DeepSeek crosses $1B annualized revenue after raising API prices 2.3x–4.5x, targets ~$7.5B Shanghai raise]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-alibaba-cuts-qwen-voice-api-prices-by-up-to-95-with-qwen-aud|Alibaba Cuts Qwen Voice API Prices by Up to 95% With Qwen-Audio 3.1]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
 - `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ|DeepSeek’s annualized revenue run rate reaches $1B as it targets a ~$7.5B raise]]
 - `2026-09-24` [[2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t|DeepSeek’s Annualized Revenue Crosses $1B After Price Hikes; Targets ~$7.5B Shanghai Round at $74B Valuation]]

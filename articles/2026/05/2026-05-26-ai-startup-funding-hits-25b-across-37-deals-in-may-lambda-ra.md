@@ -4,8 +4,8 @@ title: AI Startup Funding Hits ~$25B Across 37 Deals in May; Lambda Raises $1B
 date: '2026-05-26'
 source: 'Source: TechCrunch / VentureBeat roundup'
 url_original: null
-url_canonical: https://techcrunch.com/tag/funding/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_071446_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 3d203e611bfc01661308fe5f45462074f181537a003bff55b78a1a6a56d41526

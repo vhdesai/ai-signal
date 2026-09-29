@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
 - 2026-04-02-academic-research
+- 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
 - 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
-- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
 embedding_id: 2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A large-scale Stanford study published in Science confirmed that sycophancy — 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-04-02-academic-research]] · [[2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]]
+**Related:** [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p]] · [[2026-04-02-academic-research]] · [[2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa]] · [[2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting]]
 <!-- graph:end -->

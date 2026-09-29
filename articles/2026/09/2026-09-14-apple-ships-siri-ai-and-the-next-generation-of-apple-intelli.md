@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Apple Newsroom**
 url_original: https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/
 url_canonical: https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 2603153384107f4f3f7aaf5862c9f610a1409c46b7f7c6f876bedefe1b8369c9
 normalized_title_hash: fad6bc41dc373e2e

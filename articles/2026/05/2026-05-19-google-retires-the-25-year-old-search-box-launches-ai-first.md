@@ -4,8 +4,8 @@ title: Google Retires the 25-Year-Old Search Box — Launches AI-First Search Pa
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d98a714f2efb8c0e75f250cab609a16c80e76fbc8583adedbd77af3aca3fb8a9

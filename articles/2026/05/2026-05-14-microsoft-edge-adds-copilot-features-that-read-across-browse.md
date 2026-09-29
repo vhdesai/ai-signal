@@ -5,8 +5,8 @@ title: Microsoft Edge adds Copilot features that read across browser tabs — Cr
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 32f7ce7d27e17a3c9b65c5401c5fa4e6b6805126fc07537f6a1c830351f151b5

@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Muse+agent+hands+on
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta+Muse+agent+hands+on
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_065352_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 1cca57439c6f3244f4b6888d6a5ff9f4a0c6346c268b8ac54685989c96b3309a
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
-- 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
+- 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 embedding_id: 2026-09-12-hands-on-meta-s-muse-agent-nearly-cost-a-reporter-408
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A hands-on review of Meta's new personal agent Muse describes a hotel-booking ta
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]]
+**Related:** [[2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]]
 <!-- graph:end -->

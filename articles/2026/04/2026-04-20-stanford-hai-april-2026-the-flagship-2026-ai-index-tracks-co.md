@@ -5,8 +5,8 @@ title: Stanford HAI • April 2026 The flagship 2026 AI Index tracks continued c
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 3b1b155f14e5b1a2e40902d59e24eab094db8bb49f53308ee6e3d45debc5bbbf

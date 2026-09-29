@@ -4,8 +4,8 @@ title: Baseten and Orbital Industries close fresh capital for AI inference and c
 date: '2026-05-29'
 source: Industry coverage
 url_original: null
-url_canonical: https://runtimewire.com/article/modal-baseten-funding-talks-inference-valuations
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 32a4390a5dd6f168a8a5a8844df7fed8e1fd9801512404b9185067cea1ee314c

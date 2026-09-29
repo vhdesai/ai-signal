@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Slack
 url_original: https://slack.com/blog/news/slack-code-channels-for-agents
 url_canonical: https://slack.com/blog/news/slack-code-channels-for-agents
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: e82da41f4d836cd86e281b36e35c1e2db968515102b82b8641d095962cc4b881

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
 url_canonical: https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: c10c5636e22a29bf6c4e2686bfdadf2cdb958f069aa6209613bd2d62b5e3b7e5
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 - 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 - 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
-- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
+- 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 embedding_id: 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Runway is repositioning around live-streaming video generation built on its GWM-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
+**Related:** [[2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]] · [[2026-07-23-runway-launches-model-router-for-generative-media-workflows]] · [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp]]
 <!-- graph:end -->

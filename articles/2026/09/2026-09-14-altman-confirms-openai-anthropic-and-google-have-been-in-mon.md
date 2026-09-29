@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: The Decoder / The Information
 url_original: https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/
 url_canonical: https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 11d831c2ca277fe241ce1a98e24a15a921910ce0e7533b66e30f27a56a10fea3
@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-- 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
+- 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
 embedding_id: 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman confirmed that OpenAI now runs formal safety checks before major trai
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]]
+**Related:** [[2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]] · [[2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro]]
 <!-- graph:end -->

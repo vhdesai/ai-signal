@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-10-new-warning-in-race-to-superintelligence
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
-- 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
+- 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 embedding_id: 2026-07-11-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios AI+ highlighted the AI Futures Project’s “AI 2040” proposal for an i
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a]] · [[2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte]]
+**Related:** [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-09-new-warning-in-race-to-superintelligence]] · [[2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a]] · [[2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai]]
 <!-- graph:end -->

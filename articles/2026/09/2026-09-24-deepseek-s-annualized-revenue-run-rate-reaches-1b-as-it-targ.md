@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Economic Times
 url_original: https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-annualised-revenue-run-rate-hits-1-billion-report/articleshow/134458238.cms
 url_canonical: https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-annualised-revenue-run-rate-hits-1-billion-report/articleshow/134458238.cms
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 4e4fbe05648083a3ac91f2f7521d5be11663bf40b75d6066010b1ed9af82fdeb

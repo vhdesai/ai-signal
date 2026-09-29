@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Engadget
 url_original: https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/
 url_canonical: https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: cae7ac63aa478c6ab165ba6b0bef69b6f431de4b9ed56ab0b974019fe3ea0646
 normalized_title_hash: 32be9e959b3f15f3

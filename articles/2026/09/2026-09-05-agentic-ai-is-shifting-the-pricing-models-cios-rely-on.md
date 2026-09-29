@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/agentic-ai-outcome-pricing-models/829023/
 url_canonical: https://www.ciodive.com/news/agentic-ai-outcome-pricing-models/829023/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 56c01f7a4cc053b4a7b4fef6e3d06036c88089dd8fd7cc744a7249201d304b5b

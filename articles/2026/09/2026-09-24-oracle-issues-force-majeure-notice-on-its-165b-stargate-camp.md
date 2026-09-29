@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch]
 url_original: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
 url_canonical: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 8c7d35e520e15ff6dd6fe03077b4e8100718d72d8db3bc50bcc0e394690311f1
@@ -18,14 +18,13 @@ themes:
 - datacenter-infrastructure
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-24-oracle-issues-force-majeure-notice-on-165b-project-jupiter-d
 related_article_ids:
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta
 - 2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla
 - 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
-- 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
 embedding_id: 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 event_name: ''
 ---
@@ -39,5 +38,6 @@ Oracle sent a force majeure notice to a Blue Owl Capital unit developing Project
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat]]
+**Canonical:** [[2026-09-24-oracle-issues-force-majeure-notice-on-165b-project-jupiter-d]]
+**Related:** [[2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla]] · [[2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a]] · [[2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate]]
 <!-- graph:end -->

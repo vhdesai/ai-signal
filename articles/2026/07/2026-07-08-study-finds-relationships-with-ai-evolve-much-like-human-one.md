@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Phys.org
 url_original: https://phys.org/news/2026-07-romantic-relationships-ai-evolve-similar.html
 url_canonical: https://phys.org/news/2026-07-romantic-relationships-ai-evolve-similar.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: e75a0892b3ef226fe1ea34cf2f8f12d9a7b7bbc5d52c9af3481938012693b8d7

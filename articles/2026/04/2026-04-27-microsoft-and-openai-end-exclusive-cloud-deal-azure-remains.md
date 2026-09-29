@@ -5,8 +5,8 @@ title: Microsoft and OpenAI End Exclusive Cloud Deal; Azure Remains Primary Part
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: https://www.techtimes.com/articles/316173/20260427/openai-microsoft-end-exclusive-partnership-after-7-yearsazure-remains-primary-cloud-partner.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 22f63049db3fee8f17e0763cb42b3430f64b5d0e60885bc7c00be46ae245cf1d
 normalized_title_hash: ec0b867d7fcf7be6

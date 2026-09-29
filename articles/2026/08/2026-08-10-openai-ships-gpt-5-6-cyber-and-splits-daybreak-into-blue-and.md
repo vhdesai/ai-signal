@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Unite.AI / The Next Web
 url_original: https://www.unite.ai/openai-expands-daybreak-with-two-tiers-and-a-new-cybersecurity-model/
 url_canonical: https://www.unite.ai/openai-expands-daybreak-with-two-tiers-and-a-new-cybersecurity-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_070121_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: da33e25c23d7916f65d5e1763abfdb5d47ee57a414d08a141dcdb955f06073df

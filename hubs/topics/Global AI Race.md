@@ -1,29 +1,62 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1493
+member_count: 1527
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1493 connected article(s).
+> Auto-generated topic hub. 1527 connected article(s).
 
+- `2026-09-28` [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non|EAGLE Model Detects 90% of Esophageal Cancers on Routine Non-Contrast Chest CT]]
+- `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
+- `2026-09-27` [[2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one|Trump Hosts Anthropic CEO Dario Amodei for First One-on-One White House Dinner]]
+- `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card|MiniMax Ships M3.1-Flash-Preview Inside MiniMax Code — No Card, No Pricing, No API]]
+- `2026-09-27` [[2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta|Google confirms Gemini 4 replaces Gemini 3.5 Pro entirely, targets pre-year-end release]]
+- `2026-09-27` [[2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid|GlobalFoundries: Chinese optical-module demand is "strong" amid the AI data-center boom]]
+- `2026-09-27` [[2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be|DeepSeek V4.1-Flash undercuts Opus 5 by ~70% while matching benchmarks]]
+- `2026-09-27` [[2026-09-27-daily-ai-news-digest-september-27-2026|Daily AI News Digest – September 27, 2026]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia|Beijing signals it may let Alibaba and ByteDance buy Nvidia's RTX Pro 5500]]
+- `2026-09-27` [[2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases|Beijing Signals Approvals for Nvidia RTX Pro 5500 Purchases; ByteDance Weighs ~1M Units]]
+- `2026-09-27` [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit|Anthropic's Amodei takes a one-on-one White House dinner with President Trump]]
+- `2026-09-27` [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house|Amodei meets Trump one-on-one at the White House]]
+- `2026-09-26` [[2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue|US and China agree to a formal “super intelligence” dialogue]]
+- `2026-09-26` [[2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai|U.S. and China agree to a “super intelligence” dialogue amid AI tensions]]
 - `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
 - `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-oxford-let-openai-use-bodleian-library-texts-to-populate-its|Oxford let OpenAI use Bodleian Library texts to populate its training set]]
 - `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
+- `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
 - `2026-09-26` [[2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d|Chinese Model Providers Take Majority Token Share on Major Developer Routers]]
+- `2026-09-26` [[2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95|Alibaba's Qwen-Audio 3.1 cuts voice API pricing by up to 95%]]
+- `2026-09-26` [[2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv|Alibaba's Amap AI ranking as a natural experiment in AI-driven consumer traffic redistribution]]
+- `2026-09-26` [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in|Alibaba's Amap "Street Stars" uses AI to challenge Meituan in local commerce]]
 - `2026-09-25` [[2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi|Xi and Trump discuss AI and Taiwan at White House state visit]]
+- `2026-09-25` [[2026-09-25-us-china-ai-rivalry-moves-to-standards-setting-with-nvidia-i|US–China AI rivalry moves to standards-setting, with Nvidia in the middle]]
+- `2026-09-25` [[2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha|US and China agree to open a "super intelligence" dialogue channel]]
 - `2026-09-25` [[2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af|US and China Signal a "Super-Intelligence" Dialogue Channel After the Trump–Xi Summit]]
-- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo's "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
+- `2026-09-25` [[2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag|The Information: Ginkgo’s "Mike vs. the Machines" Puts OpenAI Agents Against a Stanford Protein-Engineering Expert]]
 - `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
+- `2026-09-25` [[2026-09-25-pentagon-seeks-30m-for-an-ai-powered-lie-detector|Pentagon seeks $30M for an AI-powered lie detector]]
 - `2026-09-25` [[2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co|Microsoft packages business AI into a single usage-priced Copilot app to chase Anthropic]]
 - `2026-09-25` [[2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco|Liquid AI releases LFM2.5-VL-3B-DSpark with 3.13× faster decoding via speculative decoding]]
 - `2026-09-25` [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference|Fal and Fireworks AI raising at $15B–$30B on soaring inference demand]]
+- `2026-09-25` [[2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise|DeepSeek revenue hits $1B run rate; targeting a $7.5B raise]]
+- `2026-09-25` [[2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri|DeepSeek crosses $1B annualized revenue after raising API prices 2.3x–4.5x, targets ~$7.5B Shanghai raise]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-daily-ai-news-digest-september-26-2026|Daily AI News Digest – September 26, 2026]]
+- `2026-09-25` [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-beating-the|Claude computes a nine-loop scattering amplitude, beating the 2023 human record]]
 - `2026-09-25` [[2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa|Claude Computes a Nine-Loop Scattering Amplitude — One Loop Past the Human Record]]
 - `2026-09-25` [[2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc|China overtakes US as the top workplace for elite AI researchers]]
+- `2026-09-25` [[2026-09-25-anthropic-opens-a-formal-submission-portal-for-claude-plugin|Anthropic opens a formal submission portal for Claude plugins]]
+- `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-voice-stack-and-cuts-audio-api|Alibaba ships Qwen-Audio 3.1 voice stack and cuts audio API prices up to 95%]]
 - `2026-09-25` [[2026-09-25-alibaba-ships-qwen-audio-3-1-with-voice-api-price-cuts-of-up|Alibaba Ships Qwen-Audio 3.1 With Voice API Price Cuts of Up to 95%]]
+- `2026-09-25` [[2026-09-25-alibaba-cuts-qwen-voice-api-prices-by-up-to-95-with-qwen-aud|Alibaba Cuts Qwen Voice API Prices by Up to 95% With Qwen-Audio 3.1]]
 - `2026-09-24` [[2026-09-24-us-house-committee-expands-fcc-covered-list-reach-as-china-t|US House committee expands FCC "Covered List" reach as China tech scrutiny widens]]
 - `2026-09-24` [[2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the|MIT Senseable City Lab Publishes “How AI Sees the City” on the Promise and Peril of Visual AI]]
 - `2026-09-24` [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no|Jensen Huang: Labs That Cannot Control Their Models Should Not Ship — and May Need Shutting Down]]
@@ -38,6 +71,7 @@ member_count: 1493
 - `2026-09-24` [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat|Analysts read Alibaba's Apsara wrap as a pragmatic monetization pivot, not just ASI theater]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u|Altman and Amodei brief UN Security Council; OpenAI expands Ukraine cyber-defense partnership]]
 - `2026-09-24` [[2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation|Altman and Amodei Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]
+- `2026-09-24` [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up|Alibaba ships Qwen-Audio 3.1 and cuts voice API prices by up to 95%]]
 - `2026-09-24` [[2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si|AI Lab Chiefs Brief the UN Security Council as 21 Nations Sign a Frontier-Model Control Appeal]]
 - `2026-09-23` [[2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic|Trump offloads tens of millions in AI, tech shares led by Microsoft, Amazon, Meta]]
 - `2026-09-23` [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call|SCMP: US–China race dynamics still overwhelm the "pacing" call from top US AI leaders]]

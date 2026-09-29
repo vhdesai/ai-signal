@@ -5,8 +5,8 @@ title: 'Physical AI Milestone: Humanoid Robots from Schaeffler/Humanoid and RLWR
 date: '2026-05-14'
 source: AI News
 url_original: null
-url_canonical: https://www.ai.cc/news/humanoid-robots-tested-in-factories/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3bfb71d8e6111f889bfd2ca206ef4fff9b3416e74f3e8809ffc2dfee08c3a15f
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
+- 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Two separate physical AI ventures — a Schaeffler/Humanoid joint venture and RL
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
 <!-- graph:end -->

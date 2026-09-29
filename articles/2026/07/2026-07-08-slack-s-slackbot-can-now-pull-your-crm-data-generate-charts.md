@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message
 url_canonical: https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 73c3dec8d114eeeae93c3d6d498b17c4e07dafcd15b21be103d3f45d6d72200d

@@ -1,24 +1,45 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1228
+member_count: 1249
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1228 connected article(s).
+> Auto-generated topic hub. 1249 connected article(s).
 
+- `2026-09-27` [[2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a|WSJ: some Anthropic veterans are buying remote land in case "AI goes awry"]]
+- `2026-09-27` [[2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one|Trump Hosts Anthropic CEO Dario Amodei for First One-on-One White House Dinner]]
+- `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
+- `2026-09-27` [[2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote|Some early Anthropic employees are reportedly buying remote land]]
+- `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
+- `2026-09-27` [[2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust|How to know when the AI boom is about to go bust]]
+- `2026-09-27` [[2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be|DeepSeek V4.1-Flash undercuts Opus 5 by ~70% while matching benchmarks]]
+- `2026-09-27` [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit|Anthropic's Amodei takes a one-on-one White House dinner with President Trump]]
+- `2026-09-27` [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house|Amodei meets Trump one-on-one at the White House]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-shortsellers-aren-t-re|The Information: Why Wall Street’s Big Shortsellers Aren’t Ready to Bet Against AI — Yet]]
+- `2026-09-26` [[2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready|The Information: Why Wall Street's big, bad bears aren't ready to short AI yet]]
 - `2026-09-26` [[2026-09-26-pitchbook-vc-evergreen-funds-jump-from-3b-to-20b-on-ai-and-i|PitchBook: VC evergreen funds jump from $3B to $20B+ on AI and IPO tailwinds; AI = 50% of Greater China VC deal value]]
 - `2026-09-26` [[2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge|PPC Land: ChatGPT loses 20 points of US AI prompt share to Gemini and Claude]]
+- `2026-09-26` [[2026-09-26-oxford-let-openai-use-bodleian-library-texts-to-populate-its|Oxford let OpenAI use Bodleian Library texts to populate its training set]]
 - `2026-09-26` [[2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac|DealBook: AI Efficiency Meets the Billable Hour — Law Firms Face 20–30% Client Discount Requests]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s|The Information: "Mike vs. the Machines" — Ginkgo/OpenAI biology showdown scrapped and reworked]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
+- `2026-09-25` [[2026-09-25-ricursive-intelligence-ex-alphachip-leads-raise-335m-to-have|Ricursive Intelligence: ex-AlphaChip leads raise $335M to have AI design its own hardware]]
 - `2026-09-25` [[2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi|PitchBook: software borrowers under stress lead private-credit watchlist; PSG raises $5.1B Europe fund as tech PE rebounds]]
 - `2026-09-25` [[2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua|OpenEvidence raises $250M at a $15B valuation, up 25% from January]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead|Nscale secures $3.36B in pre-IPO convertible financing ahead of NYSE listing]]
+- `2026-09-25` [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe|Nscale secures $3.36B convertible from Third Point, Nvidia ahead of US IPO]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]
+- `2026-09-25` [[2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise|DeepSeek revenue hits $1B run rate; targeting a $7.5B raise]]
 - `2026-09-25` [[2026-09-25-dataconomy-and-pandaily-report-deepseek-published-detailed-t|Dataconomy and Pandaily report DeepSeek published detailed technical analysis of how AI agents exploit sandboxes during training, publishing agentic-training sandbox statistics from DSec Elastic Compute (~3M/day, 380K+ concurrent). It's DeepSeek's first major English-language contribution to the agent-safety literature and complements the reveal that DeepSeek's annualized revenue run rate has hit $1 billion. Meanwhile Kenya signed a Responsible AI Declaration with Anthropic just days after being named in Anthropic's threat report — a rapid rehabilitation cycle that mirrors this week's DeepSeek/Moonshot UN Security Council invitation despite the Beijing probe.]]
+- `2026-09-25` [[2026-09-25-cognition-crosses-1b-annualized-revenue-run-rate-for-devin|Cognition crosses $1B annualized revenue run rate for Devin]]
+- `2026-09-25` [[2026-09-25-cognition-crosses-1b-annualized-revenue-run-rate|Cognition crosses $1B annualized revenue run rate]]
 - `2026-09-25` [[2026-09-25-cognition-crosses-a-1b-annualized-revenue-run-rate-for-devin|Cognition Crosses a $1B Annualized Revenue Run Rate for Devin]]
+- `2026-09-25` [[2026-09-25-appeals-court-upholds-pentagon-s-supply-chain-risk-designati|Appeals court upholds Pentagon's “supply chain risk” designation of Anthropic]]
+- `2026-09-25` [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe|Anthropic's founders move to lock in 50.1% voting control ahead of IPO]]
+- `2026-09-25` [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda|Anthropic Seeks 50.1% Founder Voting Control Ahead of a Nasdaq Listing Reportedly Targeting a ~$2T Valuation]]
 - `2026-09-25` [[2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first|Akamai lands $11.6B Anthropic compute deal — Anthropic's first Nvidia-free frontier win]]
 - `2026-09-24` [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c|OpenEvidence Raises $250M at a $15B Valuation as Clinical AI Consolidates]]
 - `2026-09-24` [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in|OpenAI to supply Ukraine's cyber teams with models and $1B in subsidized tokens]]

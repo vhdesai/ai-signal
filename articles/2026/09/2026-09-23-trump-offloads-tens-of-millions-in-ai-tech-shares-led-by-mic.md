@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta
 url_canonical: https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: f194764cfcab8a02fdaa5f609342a3209d009c24941e1144362ca2de4275aae3

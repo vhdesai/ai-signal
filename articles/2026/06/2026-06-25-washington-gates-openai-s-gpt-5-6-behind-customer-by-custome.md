@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: Engadget
 url_original: https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/
 url_canonical: https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 9ff6a1858de8aa45838216fdbf8d1e547566e8b2ef38d061961f8e76a2e1d2e6

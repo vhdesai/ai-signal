@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Next Web**
 url_original: https://thenextweb.com/news/altman-white-house-openai-model-preview-agents
 url_canonical: https://thenextweb.com/news/altman-white-house-openai-model-preview-agents
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_065041_Final-Daily-AI-News-Digest.md
 content_hash: 8c7851749a314f23678d891114d40ed02cac951ce4a1ae8bc9699230028a52ca
 normalized_title_hash: c3d7de1b190c2d85

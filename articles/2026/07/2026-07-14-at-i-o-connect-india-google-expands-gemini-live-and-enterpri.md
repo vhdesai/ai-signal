@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: Mashable India
 url_original: https://in.mashable.com/tech/111939/google-unveils-atl-saathi-expands-gemini-live-and-ai-tools-for-india-at-google-for-india-2026
 url_canonical: https://in.mashable.com/tech/111939/google-unveils-atl-saathi-expands-gemini-live-and-ai-tools-for-india-at-google-for-india-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 26fe69f159e8bde9a8013a7f5f7aa4c172529dc09451d950a569ee4a2d616655
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi
 - 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
-- 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
+- 2026-09-27-google-tests-flipkart-purchasing-via-gemini-and-ai-mode-in-i
 embedding_id: 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At Google I/O Connect India 2026 in Bengaluru, Google unveiled a slate of AI ini
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]]
+**Related:** [[2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi]] · [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-09-27-google-tests-flipkart-purchasing-via-gemini-and-ai-mode-in-i]]
 <!-- graph:end -->

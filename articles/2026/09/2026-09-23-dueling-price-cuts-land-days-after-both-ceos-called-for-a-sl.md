@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-anthropic-openai-cheaper-ai-safety.html
 url_canonical: https://techxplore.com/news/2026-09-anthropic-openai-cheaper-ai-safety.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: ef1cd250661c4e335ec87dd962eeaf93af942a6979c3eed75fa078143eea9073

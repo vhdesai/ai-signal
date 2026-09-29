@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: PYMNTS, reporting The Wall Street Journal
 url_original: https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/
 url_canonical: https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: de974602dfdeba2ca5a2c21b05ef8a841cfd8371f7ea545c1561bb1a6211e411

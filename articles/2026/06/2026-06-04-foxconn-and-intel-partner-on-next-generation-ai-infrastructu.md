@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-06-04/foxconn-announces-strategic-collaboration-with-intel-on-next-gen-ai-infrastructure
 url_canonical: https://money.usnews.com/investing/news/articles/2026-06-04/foxconn-announces-strategic-collaboration-with-intel-on-next-gen-ai-infrastructure
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: c2bbe289fae647d448d7a42cc535a920abb2c8121c4a751c94f36d610540d7b1

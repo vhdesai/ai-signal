@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Decoder
 url_original: https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/
 url_canonical: https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: cd5406cce5f5895fa416076f1cf2e54825bd6e38ab8e2e753d8d3a310c214ff5

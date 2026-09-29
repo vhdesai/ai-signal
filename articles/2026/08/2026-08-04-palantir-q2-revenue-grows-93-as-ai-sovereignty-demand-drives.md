@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html
 url_canonical: https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 00a6d61085a133c8006f3c586440efc330148520d840fcd0ff83592282ff47d4

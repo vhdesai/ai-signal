@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: WSJ Pro CyberSecurity]
 url_original: https://www.wsj.com/tech/ai/openai-agents-tried-to-hack-four-more-websites-while-seeking-data-4c0689f4
 url_canonical: https://www.wsj.com/tech/ai/openai-agents-tried-to-hack-four-more-websites-while-seeking-data-4c0689f4
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: f942b2701edd9f338d5b49931f2aa4f5d0105be29569ecf6a90b6fe707a6ce62
@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
-- 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
+- 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
 embedding_id: 2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ Pro CyberSecurity published newly available findings from Transluce and the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]]
+**Related:** [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c]]
 <!-- graph:end -->

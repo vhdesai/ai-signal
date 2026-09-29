@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Axios
 url_original: https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit
 url_canonical: https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 123dab2bc264d05ec0a413bd3edc33e21a912c7865b292c1d6775d8eea109dac

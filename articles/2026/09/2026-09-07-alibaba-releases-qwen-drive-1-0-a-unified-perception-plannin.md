@@ -6,7 +6,7 @@ date: '2026-09-07'
 source: The Decoder
 url_original: https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/
 url_canonical: https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_061438_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: e7d3bef2d3c967fc9e97d803a4d9e978655926bed19057b32fa514bd65c905d4

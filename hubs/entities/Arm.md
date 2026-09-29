@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 33
+member_count: 36
 ---
 
 # Arm
 
-> Auto-generated entity hub. 33 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]
 - `2026-09-18` [[2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets|SoftBank adds ~$21B in new borrowing capacity to fund AI bets]]
 - `2026-09-12` [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul|StationeryBench: GPT-6 Astra Clears 7 of 100 Dual-Arm Manipulation Tasks; Ai2’s MolmoAct2 Clears Zero]]

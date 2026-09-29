@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: The Decoder
 url_original: https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/
 url_canonical: https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_061415_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 1e5a913c3a6e6bfedce5cfbfb5b7e7cabd78b413fc8e8393dc8dd5a3ca4f9c43

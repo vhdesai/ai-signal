@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Mint
 url_original: https://www.livemint.com/companies/news/what-is-openevidence-the-chatgpt-for-doctors-valued-at-15-billion-in-a-new-funding-round-11790333618550.html
 url_canonical: https://www.livemint.com/companies/news/what-is-openevidence-the-chatgpt-for-doctors-valued-at-15-billion-in-a-new-funding-round-11790333618550.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 838802ed23e3f436c26f91854ca4793602ead2dba81f3a045ea577f74c7a5382

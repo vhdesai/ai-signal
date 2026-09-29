@@ -5,8 +5,8 @@ title: CMU & Cleveland Clinic develop CMR-CLIP — cardiac MRI foundation model 
 date: '2026-05-21'
 source: Cleveland Clinic Newsroom  · Carnegie Mellon University / Cleveland Clinic
 url_original: null
-url_canonical: https://engineering.cmu.edu/news-events/news/2026/05/21-ai-cardiac-mri-scans.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 0be4c70c3d9caa95974c518e42e795de2d043470f2991d8a5d1f552973ce1964

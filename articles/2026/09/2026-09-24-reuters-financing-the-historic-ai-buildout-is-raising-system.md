@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-- 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 embedding_id: 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters reported that financing for the historic AI buildout is raising systemic
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
 <!-- graph:end -->

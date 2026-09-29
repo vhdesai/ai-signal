@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Capital & Compute
 url_original: https://capitalandcompute.net/blog/new-ai-models-august-2026/
 url_canonical: https://capitalandcompute.net/blog/new-ai-models-august-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: c866cdb669bbee82755ba1efddf8f729ff5c786c4d4946cd8435a64d0e4c84a0

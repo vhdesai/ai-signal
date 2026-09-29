@@ -5,8 +5,8 @@ title: 'arXiv cs.AI: 259 new submissions on May 14, 2026 — arXiv, May 14, 2026
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.arxiv.org/2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b696fdc14cd0dbc49f4069a37ea47fabf62706cf533aa06a8e8ae2b3cca2a5a8

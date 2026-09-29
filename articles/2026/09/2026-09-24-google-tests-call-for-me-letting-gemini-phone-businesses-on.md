@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/
 url_canonical: https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6f199b5db545ea6456f00b929fb67f1d5f7e9036c7ff612770cc370067a7e431
@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-tests-letting-gemini-call-businesses-for-users
+- 2026-09-25-google-tests-letting-gemini-call-businesses-for-users
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
-- 2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum
 embedding_id: 2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google is piloting an outbound-phone agent that has Gemini dial local businesses
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]] · [[2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum]]
+**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-25-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
 <!-- graph:end -->

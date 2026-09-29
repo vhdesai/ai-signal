@@ -5,7 +5,7 @@ date: '2026-09-16'
 source: The Information
 url_original: https://www.theinformation.com/articles/apple-considers-return-to-server-market-has-talked-with-nvidia-to-use-network-tech
 url_canonical: https://www.theinformation.com/articles/apple-considers-return-to-server-market-has-talked-with-nvidia-to-use-network-tech
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 955bfccc646078b882936c201d50a5cef5ef2dc2b51af1d9833ab1422b0c5db1
 normalized_title_hash: a7e87382b440012b

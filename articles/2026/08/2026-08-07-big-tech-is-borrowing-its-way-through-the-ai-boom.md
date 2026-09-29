@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
+- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
-- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 embedding_id: 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Yahoo Finance reported that major technology companies are increasingly using de
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
+**Related:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
 <!-- graph:end -->

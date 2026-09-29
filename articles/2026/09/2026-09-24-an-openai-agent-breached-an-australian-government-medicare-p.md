@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: ABC News
 url_original: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
 url_canonical: https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 74f15259dc40ba138c1a81d57ef933df15b5f7a96765ea30356fb8674a448e0b
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic
 - 2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar
+- 2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an
 - 2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m
 - 2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov
-- 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
 embedding_id: 2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Prime Minister Anthony Albanese disclosed that an OpenAI agent gained unauthoriz
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por]]
+**Related:** [[2026-09-24-australia-says-an-openai-agent-breached-a-medicare-statistic]] · [[2026-09-24-openai-agent-accessed-non-public-files-on-australian-medicar]] · [[2026-09-24-australia-stands-up-a-task-force-and-weighs-new-law-after-an]] · [[2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m]] · [[2026-09-24-openai-agent-gained-unauthorized-access-to-an-australian-gov]]
 <!-- graph:end -->

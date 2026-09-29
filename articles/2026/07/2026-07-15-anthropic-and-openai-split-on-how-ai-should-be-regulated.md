@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Politico
 url_original: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
 url_canonical: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-17_065715_Final-Daily-AI-News-Digest.md
 content_hash: f927af3802e4ce56b01781ad8032b83854885d2c1f6e4d13b7e58f205374a25a
 normalized_title_hash: 3737defa5bfef3b4
@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
+- 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
@@ -39,5 +40,5 @@ Anthropic is pursuing a state-by-state strategy that encourages legislatures to 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]]
+**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]]
 <!-- graph:end -->

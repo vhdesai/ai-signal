@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/duo-power-boost-clivet-debuts-030600164.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/duo-power-boost-clivet-debuts-030600164.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 82194bd54a62546dd095b2d524ee0bc2465443d53d00f33f7d64ce6a7980ada7
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
-- 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
+- 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 embedding_id: 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Clivet used AI Infra Summit 2026 in Santa Clara to launch a dual-rotor variable-
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf]] · [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f]] · [[2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b]]
+**Related:** [[2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf]] · [[2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f]] · [[2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid]]
 <!-- graph:end -->

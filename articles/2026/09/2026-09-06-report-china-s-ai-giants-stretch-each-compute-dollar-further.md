@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race
 url_canonical: https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_065650_Final-Daily-AI-News-Digest.md
 content_hash: 929f2a579b9f6bdef89986a1375446d5dfd11cdb6810a351c61fecff89320019
 normalized_title_hash: f02fe9b5e0ec9dd2

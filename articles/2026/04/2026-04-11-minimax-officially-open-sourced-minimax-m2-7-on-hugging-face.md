@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
 - 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
-- 2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c
+- 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 embedding_id: 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Liquid AI Releases LFM2.5-VL-450M — Multimodal Vision-Language Model with Sub-
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]] · [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]]
+**Related:** [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language-w]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag]] · [[2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod]]
 <!-- graph:end -->

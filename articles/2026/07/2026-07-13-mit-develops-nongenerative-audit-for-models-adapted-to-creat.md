@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
 url_canonical: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 3d3419963c9883ecb7fcba1088f780c00fd57b89dbc7ef1430152770d36668eb

@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: NVIDIA Newsroom; CNBC; Bloomberg; BBC
 url_original: https://nvidianews.nvidia.com/
 url_canonical: https://nvidianews.nvidia.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: e9f5c062594a1010ec0201c7b5972224d6b68ae71f05fbec0700af50318a1bd9
 normalized_title_hash: 8448f297916f1157

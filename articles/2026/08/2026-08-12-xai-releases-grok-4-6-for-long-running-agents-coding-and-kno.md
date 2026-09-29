@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: xAI
 url_original: https://x.ai/news/grok-4-6
 url_canonical: https://x.ai/news/grok-4-6
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 553a3c0b5a69eaacd3614155782f513488e103857ce254549f87df792ea95532
