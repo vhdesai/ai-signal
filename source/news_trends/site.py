@@ -44,6 +44,14 @@ _DEALS_SUBCATEGORIES: tuple[str, ...] = (
 # Items per page for client-side pagination on large listings
 _PAGE_SIZE = 30
 
+# Max article cards emitted per "latest" listing page (topics/<slug>.html,
+# entities/<name>.html, investments/<slug>.html Latest view). Older stories
+# beyond this cap remain reachable via /archive.html (per-day snapshots)
+# and the AI Chat. This dramatically reduces the per-commit HTML delta for
+# high-cardinality topics/entities where each rebuild otherwise re-emits
+# thousands of cards.
+_LATEST_CAP = 300
+
 # ---------------------------------------------------------------------------
 # Shared CSS (written once to style.css, linked from every page)
 # ---------------------------------------------------------------------------
@@ -240,6 +248,9 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .chat-highlight-text span{font-size:13px;color:#475569}
 .chat-highlight-btn{padding:10px 20px;border-radius:12px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;text-decoration:none;font-size:13px;font-weight:700;transition:all .2s;white-space:nowrap}
 .chat-highlight-btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(13,107,94,.25)}
+.cap-note{margin:12px 0 20px;padding:10px 14px;background:rgba(245,158,11,.08);border:1px solid rgba(245,158,11,.25);border-radius:10px;font-size:13px;color:#475569}
+.cap-note a{color:var(--brand);font-weight:600;text-decoration:none}
+.cap-note a:hover{text-decoration:underline}
 .event-iframe{width:100%;min-height:600px;border:1px solid var(--border);border-radius:var(--radius);background:var(--card)}
 
 /* ---- pagination ---- */
@@ -616,6 +627,34 @@ def _format_summary(text: str) -> str:
         f'el.style.display=el.style.display===\'none\'?\'inline\':\'none\';'
         f'this.textContent=el.style.display===\'none\'?\'Show {len(hidden)} more\u2026\':\'Show less\'">'
         f'Show {len(hidden)} more\u2026</button>'
+    )
+
+
+def _latest_capped(articles: list[dict]) -> tuple[list[dict], int]:
+    """Return (newest-N articles, total-count) for high-cardinality listings.
+
+    Sorts by date desc (undated last) and truncates to `_LATEST_CAP`. The
+    caller uses the returned total to render a "showing N of TOTAL" note
+    that points readers at the Archive / Chat for the full history.
+    """
+    total = len(articles)
+    if total <= _LATEST_CAP:
+        return list(articles), total
+    ordered = sorted(articles, key=lambda a: (a.get("date") or ""), reverse=True)
+    return ordered[:_LATEST_CAP], total
+
+
+def _latest_cap_note(shown: int, total: int, rel: str = "") -> str:
+    """Callout shown above capped listings so readers can find older stories."""
+    if total <= shown:
+        return ""
+    return (
+        '<div class="cap-note">'
+        f'Showing the <strong>{shown}</strong> most recent of '
+        f'<strong>{total:,}</strong> stories. '
+        f'Older stories are in the <a href="{rel}archive.html">Archive</a> '
+        f'or explore via <a href="{rel}chat.html">AI Chat</a>.'
+        '</div>'
     )
 
 
@@ -1360,9 +1399,14 @@ def _build_investments_pages(site: Path, deals_by_slug: dict[str, list[dict]],
 
         # Latest view (default). Cards list, newest first, matches old /topics/ page.
         latest_items = sorted(items, key=lambda a: (a.get("date") or ""), reverse=True)
+        capped_items, capped_total = _latest_capped(latest_items)
         tabs = _investments_tab_strip(slug, "latest", deals_by_slug, rel="../")
-        body = tabs + _cards(latest_items, rel="../", entity_files=entity_files)
-        if len(latest_items) > _PAGE_SIZE:
+        body = (
+            tabs
+            + _latest_cap_note(len(capped_items), capped_total, rel="../")
+            + _cards(capped_items, rel="../", entity_files=entity_files)
+        )
+        if len(capped_items) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "investments" / f"{slug}.html",
                _render(label, body, rel="../", active="investments",
@@ -2449,8 +2493,12 @@ def run_build_site(cfg: Config) -> dict:
     for t, items in by_topic.items():
         if t in _DEALS_SUBCATEGORIES:
             continue
-        body = _cards(items, rel="../", entity_files=entity_files)
-        if len(items) > _PAGE_SIZE:
+        capped, total_t = _latest_capped(items)
+        body = (
+            _latest_cap_note(len(capped), total_t, rel="../")
+            + _cards(capped, rel="../", entity_files=entity_files)
+        )
+        if len(capped) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "topics" / f"{t}.html",
                _render(_topic_label(t), body, rel="../", active="topics",
@@ -2504,8 +2552,12 @@ def run_build_site(cfg: Config) -> dict:
     pages += 1
     for e, items in by_entity.items():
         safe = _safe_filename(e)
-        body = _cards(items, rel="../", entity_files=entity_files)
-        if len(items) > _PAGE_SIZE:
+        capped, total_e = _latest_capped(items)
+        body = (
+            _latest_cap_note(len(capped), total_e, rel="../")
+            + _cards(capped, rel="../", entity_files=entity_files)
+        )
+        if len(capped) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "entities" / f"{safe}.html",
                _render(f"{e}", body, rel="../", active="entities",

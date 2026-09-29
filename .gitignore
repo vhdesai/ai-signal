@@ -28,6 +28,11 @@ desktop.ini
 /indexes/repair.stop
 /site/.build-manifest.json
 
+# Per-stage pipeline run logs (audit trail — superseded by indexes/run-daily.log
+# and the console output kept per session). Adds ~7 tiny files per rebuild
+# that inflate the git delta with no long-term value.
+/indexes/runs/
+
 # IDE / editor settings
 .vscode/
 .idea/

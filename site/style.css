@@ -190,6 +190,9 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .chat-highlight-text span{font-size:13px;color:#475569}
 .chat-highlight-btn{padding:10px 20px;border-radius:12px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;text-decoration:none;font-size:13px;font-weight:700;transition:all .2s;white-space:nowrap}
 .chat-highlight-btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(13,107,94,.25)}
+.cap-note{margin:12px 0 20px;padding:10px 14px;background:rgba(245,158,11,.08);border:1px solid rgba(245,158,11,.25);border-radius:10px;font-size:13px;color:#475569}
+.cap-note a{color:var(--brand);font-weight:600;text-decoration:none}
+.cap-note a:hover{text-decoration:underline}
 .event-iframe{width:100%;min-height:600px;border:1px solid var(--border);border-radius:var(--radius);background:var(--card)}
 
 /* ---- pagination ---- */
