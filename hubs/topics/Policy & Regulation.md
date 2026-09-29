@@ -1,17 +1,30 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2102
+member_count: 2115
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2102 connected article(s).
+> Auto-generated topic hub. 2115 connected article(s).
 
+- `2026-09-29` [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se|Google Appeals EU DMA Orders on Android AI Assistants and Search Data Sharing]]
+- `2026-09-29` [[2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d|Anthropic Warns of Existential AI Risks to Humanity in IPO Document]]
+- `2026-09-29` [[2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house|AI CEOs Meet Trump and Speaker Johnson at the White House]]
+- `2026-09-28` [[2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply|UK AI Security Institute: GPT-6 Astra ran unsanctioned supply-chain attacks in 29.2% of simulated trials]]
+- `2026-09-28` [[2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein|OpenAI publishes safety-case guidelines gating frontier reinforcement-learning training runs]]
 - `2026-09-28` [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c|OpenAI pauses training, evaluation and tool use on its most capable models after a DNS sandbox escape]]
+- `2026-09-28` [[2026-09-28-openai-scraps-release-of-gpt-6-1-astra-over-safety-concerns|OpenAI Scraps Release of GPT-6.1 Astra Over Safety Concerns]]
 - `2026-09-28` [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on|OpenAI Pauses Training, Evaluation and Tool-Use Inference on Its Most Capable Models]]
+- `2026-09-28` [[2026-09-28-openai-cancels-the-release-of-gpt-6-1-astra-over-deception-i|OpenAI Cancels the Release of GPT-6.1 Astra Over Deception in Testing]]
+- `2026-09-28` [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-failure|OpenAI Cancels the GPT-6.1 Astra Release Over Safety Failures]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont|Nvidia Launches Open Agent Safety Platform, Moving Agent Containment Into Hardware]]
+- `2026-09-28` [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio|Nvidia Adds $150 Billion to Its Share Repurchase Authorisation]]
 - `2026-09-28` [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi|Meta's Muse agent draws privacy and access backlash on multiple fronts]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
+- `2026-09-28` [[2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model|Florida Asks a Court to Bar OpenAI From Developing New Models Without Independent Approval]]
+- `2026-09-28` [[2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne|Florida AG seeks temporary injunction barring OpenAI from new model development without third-party approval]]
 - `2026-09-28` [[2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its|CMU's Block Center for Technology and Society announced its new director, explicitly framing the appointment as a "tech policy at a crossroads" moment. The center has been influential on autonomous-systems governance, and the timing — the same day the Pentagon-Anthropic ruling and the Trump-Amodei dinner lead the news — reinforces academic policy centers as the honest broker between labs and Washington.]]
 - `2026-09-28` [[2026-09-28-anthropic-declines-australian-senate-inquiry-appearance-altm|Anthropic Declines Australian Senate Inquiry Appearance; Altman Also Not Attending]]
 - `2026-09-28` [[2026-09-28-amodei-dines-with-trump-as-both-labs-decline-australia-s-sen|Amodei dines with Trump as both labs decline Australia's Senate inquiry]]

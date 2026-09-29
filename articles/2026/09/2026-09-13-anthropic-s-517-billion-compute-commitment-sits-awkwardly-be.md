@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov
 - 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 - 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
-- 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
+- 2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de
 embedding_id: 2026-09-13-anthropic-s-517-billion-compute-commitment-sits-awkwardly-be
 event_name: ''
 ---
@@ -42,5 +42,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl]] · [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w]]
+**Related:** [[2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl]] · [[2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov]] · [[2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes]] · [[2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen]] · [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de]]
 <!-- graph:end -->

@@ -19,12 +19,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
+dedupe_status: duplicate
+canonical_article_id: 2026-09-28-mit-ml-designed-formulation-lets-rna-vaccines-survive-withou
+related_article_ids: []
 embedding_id: 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
 event_name: ''
 ---
@@ -37,5 +34,5 @@ MIT engineers working with MIT CSAIL applied a machine-learning algorithm purpos
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without]]
+**Canonical:** [[2026-09-28-mit-ml-designed-formulation-lets-rna-vaccines-survive-withou]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 154
+member_count: 155
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 154 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
 - `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo
 - 2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco
-- 2026-09-04-gpt-6-astra-a-new-generation-of-intelligence
 embedding_id: 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99% of
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo]] · [[2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco]] · [[2026-09-04-gpt-6-astra-a-new-generation-of-intelligence]]
+**Related:** [[2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply]] · [[2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag]] · [[2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo]] · [[2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco]]
 <!-- graph:end -->

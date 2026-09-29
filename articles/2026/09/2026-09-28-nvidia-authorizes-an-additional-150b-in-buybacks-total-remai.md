@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
+canonical_article_id: 2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio
 related_article_ids: []
 embedding_id: 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai
 event_name: ''
@@ -36,5 +36,5 @@ Nvidia's board approved an incremental $150 billion under its existing repurchas
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the]]
+**Canonical:** [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio]]
 <!-- graph:end -->

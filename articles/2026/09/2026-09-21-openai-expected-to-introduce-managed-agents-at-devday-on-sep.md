@@ -22,9 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-29-openai-devday-opens-today-under-safety-scrutiny
+- 2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu
+- 2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-- 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 embedding_id: 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
 event_name: ''
 ---
@@ -38,5 +40,5 @@ OpenAI's annual developer conference lands September 29 at Fort Mason in San Fra
 
 **Entities:** [[OpenAI]] · [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]]
+**Related:** [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny]] · [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu]] · [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
 <!-- graph:end -->

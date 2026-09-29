@@ -1,17 +1,27 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 966
+member_count: 976
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 966 connected article(s).
+> Auto-generated entity hub. 976 connected article(s).
 
+- `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont|Nvidia Launches Open Agent Safety Platform, Moving Agent Containment Into Hardware]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners|Nvidia Launches Open Agent Safety Platform with 100+ Partners]]
+- `2026-09-28` [[2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo|Meta launches Meta Enterprise Platform and hires MongoDB CEO CJ Desai to run it]]
+- `2026-09-28` [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it|Meta Opens an Enterprise Front, Hiring MongoDB CEO to Run It]]
+- `2026-09-28` [[2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo|Meta Launches an Enterprise Platform and Hires MongoDB's CEO to Run It]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
+- `2026-09-28` [[2026-09-28-anthropic-launches-claude-sonnet-5-5|Anthropic Launches Claude Sonnet 5.5]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
 - `2026-09-27` [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p|Microsoft consolidates Copilot into a single enterprise AI platform with flexible pricing]]

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1591
+member_count: 1600
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1591 connected article(s).
+> Auto-generated entity hub. 1600 connected article(s).
 
+- `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
@@ -16,7 +18,14 @@ member_count: 1591
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai|Nvidia authorizes an additional $150B in buybacks — total remaining authorization hits $235B]]
 - `2026-09-28` [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the|Nvidia authorises an additional $150B in buybacks, raising the program to $235B]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont|Nvidia Launches Open Agent Safety Platform, Moving Agent Containment Into Hardware]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners|Nvidia Launches Open Agent Safety Platform with 100+ Partners]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the|Nvidia Authorizes an Additional $150 Billion in Buybacks — the Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-share-repurchase|Nvidia Authorizes Additional $150 Billion Share Repurchase]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc|Nvidia Authorizes Additional $150 Billion Buyback, Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio|Nvidia Adds $150 Billion to Its Share Repurchase Authorisation]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its|CMU's Block Center for Technology and Society announced its new director, explicitly framing the appointment as a "tech policy at a crossroads" moment. The center has been influential on autonomous-systems governance, and the timing — the same day the Pentagon-Anthropic ruling and the Trump-Amodei dinner lead the news — reinforces academic policy centers as the honest broker between labs and Washington.]]
 - `2026-09-27` [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f|xAI's Colossus 2 on Track to Roughly Double Its Nvidia GPU Fleet by Year-End]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

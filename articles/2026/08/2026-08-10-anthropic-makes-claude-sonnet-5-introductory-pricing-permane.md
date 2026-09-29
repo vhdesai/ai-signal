@@ -21,9 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-anthropic-ships-claude-sonnet-5-5-at-unchanged-pricing
+- 2026-09-28-anthropic-launches-claude-sonnet-5-5
+- 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper
+- 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
-- 2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu
-- 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
 embedding_id: 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Anthropic will keep Claude Sonnet 5 at $2 per million input tokens and $10 per m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and]] · [[2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l]]
+**Related:** [[2026-09-28-anthropic-ships-claude-sonnet-5-5-at-unchanged-pricing]] · [[2026-09-28-anthropic-launches-claude-sonnet-5-5]] · [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper]] · [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and]]
 <!-- graph:end -->

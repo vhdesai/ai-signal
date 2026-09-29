@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
+- 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
-- 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
 embedding_id: 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported that Ando is building a team-messaging app designed for huma
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]] · [[2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si]]
+**Related:** [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers]] · [[2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single]]
 <!-- graph:end -->

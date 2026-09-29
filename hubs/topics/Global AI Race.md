@@ -1,14 +1,16 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1527
+member_count: 1529
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1527 connected article(s).
+> Auto-generated topic hub. 1529 connected article(s).
 
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non|EAGLE Model Detects 90% of Esophageal Cancers on Routine Non-Contrast Chest CT]]
+- `2026-09-28` [[2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex|Alibaba Qwen Releases Qwen-Audio-3.1-Realtime, a Full-Duplex Voice Model]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one|Trump Hosts Anthropic CEO Dario Amodei for First One-on-One White House Dinner]]
 - `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]

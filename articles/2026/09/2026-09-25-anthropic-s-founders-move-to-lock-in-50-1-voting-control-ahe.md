@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq
 - 2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
+- 2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc
 - 2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 embedding_id: 2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Anthropic is asking shareholders to approve a governance structure that would gi
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq]] · [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
+**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq]] · [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc]] · [[2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a]]
 <!-- graph:end -->

@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 849
+member_count: 857
 ---
 
 # Meta
 
-> Auto-generated entity hub. 849 connected article(s).
+> Auto-generated entity hub. 857 connected article(s).
 
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook|Meta launches Muse for Small Business with Shopify, QuickBooks, Stripe and Slack connectors]]
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla|Meta Launches Muse for Small Business With Connectors to Slack, Shopify, QuickBooks and Canva]]
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business|Meta Launches Muse for Small Business]]
 - `2026-09-28` [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta|WSJ: AI Usage Reaches 18.8% of Working-Age Population as Meta Pivots to Business Buyers]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi|Meta's Muse agent draws privacy and access backlash on multiple fronts]]
 - `2026-09-28` [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome|Meta pushes to monetize AI spending through business customers]]
+- `2026-09-28` [[2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo|Meta launches Meta Enterprise Platform and hires MongoDB CEO CJ Desai to run it]]
+- `2026-09-28` [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it|Meta Opens an Enterprise Front, Hiring MongoDB CEO to Run It]]
+- `2026-09-28` [[2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo|Meta Launches an Enterprise Platform and Hires MongoDB's CEO to Run It]]
+- `2026-09-28` [[2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai|Meta Launches Enterprise Platform, Hires MongoDB CEO CJ Desai]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]

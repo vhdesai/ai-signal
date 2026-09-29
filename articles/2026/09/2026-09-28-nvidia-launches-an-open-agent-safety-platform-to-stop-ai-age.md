@@ -31,9 +31,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl
 - 2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents
+- 2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners
+- 2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag
 - 2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl
-- 2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s
-- 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
+- 2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont
 embedding_id: 2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age
 event_name: ''
 ---
@@ -47,5 +48,5 @@ Nvidia announced an open platform and reference design pairing OpenShell, an Apa
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl]] · [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents]] · [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl]] · [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s]] · [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]]
+**Related:** [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl]] · [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents]] · [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners]] · [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag]] · [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl]] · [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont]]
 <!-- graph:end -->

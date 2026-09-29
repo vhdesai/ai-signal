@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 - 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
+- 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
 - 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
-- 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 embedding_id: 2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information details how AWS engineering leader Anthony Liguori and five othe
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]]
+**Related:** [[2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context]] · [[2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available]]
 <!-- graph:end -->

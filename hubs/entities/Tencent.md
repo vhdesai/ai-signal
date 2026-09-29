@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 213
+member_count: 214
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 213 connected article(s).
+> Auto-generated entity hub. 214 connected article(s).
 
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]

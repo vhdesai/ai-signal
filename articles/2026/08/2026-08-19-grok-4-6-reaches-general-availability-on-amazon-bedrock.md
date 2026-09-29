@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
 - 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
-- 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 embedding_id: 2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI's flagship Grok 4.6 is now generally available on Amazon Bedrock, one week a
 
 **Entities:** [[Amazon]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]]
+**Related:** [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]]
 <!-- graph:end -->

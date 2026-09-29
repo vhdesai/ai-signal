@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 191
+member_count: 194
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 191 connected article(s).
+> Auto-generated entity hub. 194 connected article(s).
 
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont|Nvidia Launches Open Agent Safety Platform, Moving Agent Containment Into Hardware]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]

@@ -19,13 +19,10 @@ themes:
 - datacenter-infrastructure
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio
 related_article_ids:
-- 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
-- 2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 embedding_id: 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
 event_name: ''
 ---
@@ -39,5 +36,6 @@ Nvidia's board approved a $150 billion increase to its existing share repurchase
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]] · [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]]
+**Canonical:** [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio]]
+**Related:** [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai
+- 2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 - 2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc
 embedding_id: 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
@@ -37,5 +38,5 @@ Nvidia authorized an $80 billion share repurchase — its largest ever — and r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc]]
+**Related:** [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai]] · [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc]]
 <!-- graph:end -->

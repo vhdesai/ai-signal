@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
+- 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 embedding_id: 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Commission issued two binding Digital Markets Act decisions requiri
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]]
+**Related:** [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
-- 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 embedding_id: 2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Elon Musk amplified a post confirming Grok is being tested as a conversational p
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat]]
+**Related:** [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers]] · [[2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]]
 <!-- graph:end -->

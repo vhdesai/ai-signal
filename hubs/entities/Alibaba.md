@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 420
+member_count: 422
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 420 connected article(s).
+> Auto-generated entity hub. 422 connected article(s).
 
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
+- `2026-09-28` [[2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex|Alibaba Qwen Releases Qwen-Audio-3.1-Realtime, a Full-Duplex Voice Model]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
 - `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]

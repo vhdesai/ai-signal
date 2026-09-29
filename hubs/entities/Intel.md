@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 117
+member_count: 119
 ---
 
 # Intel
 
-> Auto-generated entity hub. 117 connected article(s).
+> Auto-generated entity hub. 119 connected article(s).
 
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners|Nvidia Launches Open Agent Safety Platform with 100+ Partners]]
 - `2026-09-22` [[2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti|NVIDIA releases Isaac ROS 5.0 for agentic open-source robotics]]
 - `2026-09-21` [[2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking|Researcher documents a ChatGPT cross-site ad cookie linking browsing to accounts]]
 - `2026-09-21` [[2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t|Meta's Muse Agent Tops the App Store and Pushes AMD Past $1 Trillion]]

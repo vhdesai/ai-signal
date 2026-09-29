@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 122
+member_count: 125
 ---
 
 # AMD
 
-> Auto-generated entity hub. 122 connected article(s).
+> Auto-generated entity hub. 125 connected article(s).
 
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al|AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in all-stock deal]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion|AMD to Acquire Fei-Fei Li’s World Labs for $8.2 Billion]]
 - `2026-09-26` [[2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project|Nvidia commits to Morocco for two African AI compute projects including a 500MW Casablanca factory]]
 - `2026-09-22` [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien|MIT's Poitras Center to fund early careers of 50 young scientists]]
 - `2026-09-22` [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand|AMD Crosses $1 Trillion Market Cap on AI Accelerator Demand]]

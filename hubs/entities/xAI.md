@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 410
+member_count: 414
 ---
 
 # xAI
 
-> Auto-generated entity hub. 410 connected article(s).
+> Auto-generated entity hub. 414 connected article(s).
 
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-28` [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context|xAI’s Grok 4.7 arrives on Amazon Bedrock with a 500K context window]]
+- `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f|xAI's Colossus 2 on Track to Roughly Double Its Nvidia GPU Fleet by Year-End]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
+- 2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 embedding_id: 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
 event_name: ''
@@ -37,5 +38,5 @@ Krishnan is leaving as the administration negotiates equity stakes, implements a
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
+**Related:** [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house]] · [[2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent]]
 <!-- graph:end -->

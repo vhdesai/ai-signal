@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
+- 2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-- 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 embedding_id: 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new study led by the INGENIO Institute (a joint CSIC–Universitat Politècnic
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
+**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
 <!-- graph:end -->

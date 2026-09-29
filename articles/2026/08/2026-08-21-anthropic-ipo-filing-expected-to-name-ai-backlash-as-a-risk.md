@@ -23,7 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
+- 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
+- 2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c
 embedding_id: 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic is preparing registration documents for an IPO that people familiar wi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
+**Related:** [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war]] · [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c]]
 <!-- graph:end -->

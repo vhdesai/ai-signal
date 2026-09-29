@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi
+- 2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t
 embedding_id: 2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Gimlet Labs raised $300M at a $3B valuation for software that breaks LLM workloa
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi]]
+**Related:** [[2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi]] · [[2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t]]
 <!-- graph:end -->

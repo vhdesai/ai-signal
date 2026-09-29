@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-- 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
-- 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
+- 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-failure
 embedding_id: 2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sam Altman said OpenAI now formulates explicit safety cases in advance of fronti
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
+**Related:** [[2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein]] · [[2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou]] · [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-failure]]
 <!-- graph:end -->

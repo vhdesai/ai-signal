@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
-- 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
+- 2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their
 embedding_id: 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
 event_name: ''
 ---
@@ -35,5 +35,5 @@ HarnessDev grades the runnable agent harness a model builds rather than the answ
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives]]
+**Related:** [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their]]
 <!-- graph:end -->

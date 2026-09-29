@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 505
+member_count: 506
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 505 connected article(s).
+> Auto-generated entity hub. 506 connected article(s).
 
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]

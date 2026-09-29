@@ -1,17 +1,24 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1534
+member_count: 1541
 ---
 
 # Google
 
-> Auto-generated entity hub. 1534 connected article(s).
+> Auto-generated entity hub. 1541 connected article(s).
 
+- `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]
+- `2026-09-29` [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users|Google Opens Gemini Skills to All Free Account Users]]
+- `2026-09-29` [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se|Google Appeals EU DMA Orders on Android AI Assistants and Search Data Sharing]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te|What we still don't know about Google's Flipkart shopping test]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl|Google moves agentic commerce to checkout: a “Buy” button on Flipkart inside Gemini and AI Mode]]
+- `2026-09-28` [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills|Google Is Retiring Gemini’s Gems in Favour of “Skills”]]
 - `2026-09-28` [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea|Gemini 4 is in post-training, and Google wants it out "much earlier" than year-end]]
 - `2026-09-28` [[2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its|CMU's Block Center for Technology and Society announced its new director, explicitly framing the appointment as a "tech policy at a crossroads" moment. The center has been influential on autonomous-systems governance, and the timing — the same day the Pentagon-Anthropic ruling and the Trump-Amodei dinner lead the news — reinforces academic policy centers as the honest broker between labs and Washington.]]
+- `2026-09-28` [[2026-09-28-anthropic-launches-claude-sonnet-5-5|Anthropic Launches Claude Sonnet 5.5]]
 - `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
 - `2026-09-27` [[2026-09-27-leading-mit-energy-scientist-announced-a-move-to-singapore-s|leading MIT energy scientist announced a move to Singapore's Nanyang Technological University after more than three decades at MIT, citing research environment, grid-plus-AI opportunities and Asia's data-center energy pipeline. The move joins a growing pattern of senior U.S. AI-adjacent talent taking cross-border chairs, and underscores the compute-plus-energy positioning of Singapore/UAE research corridors.]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

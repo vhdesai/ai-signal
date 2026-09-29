@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 269
+member_count: 272
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 269 connected article(s).
+> Auto-generated entity hub. 272 connected article(s).
 
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners|Nvidia Launches Open Agent Safety Platform with 100+ Partners]]
+- `2026-09-28` [[2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo|Meta Launches an Enterprise Platform and Hires MongoDB's CEO to Run It]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
 - `2026-09-27` [[2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust|How to know when the AI boom is about to go bust]]

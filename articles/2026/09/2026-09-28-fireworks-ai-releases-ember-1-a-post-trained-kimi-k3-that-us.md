@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-using-4
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
 embedding_id: 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fireworks Research post-trained Moonshot's open-weight Kimi K3 to emit shorter r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]]
+**Related:** [[2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-using-4]] · [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
 <!-- graph:end -->

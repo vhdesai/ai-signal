@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-new-georgia-tech-38-46-of-ai-generated-security-patches-were
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
+- 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Georgia Tech researchers shared lessons from DARPA's AI Cyber Challenge at USENI
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-03-new-georgia-tech-38-46-of-ai-generated-security-patches-were]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-09-03-new-georgia-tech-38-46-of-ai-generated-security-patches-were]] · [[2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn]] · [[2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

@@ -29,6 +29,7 @@ related_article_ids:
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq
 - 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
 - 2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe
+- 2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc
 embedding_id: 2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Anthropic is asking shareholders to approve a new corporate structure that would
 
 **Entities:** [[Anthropic]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe]]
+**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe]] · [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc]]
 <!-- graph:end -->

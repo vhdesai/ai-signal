@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
-- 2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit
 embedding_id: 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Eight senior technology executives — reportedly including Sam Altman, Jensen H
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]] · [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit]]
+**Related:** [[2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house]] · [[2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif]] · [[2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a]]
 <!-- graph:end -->

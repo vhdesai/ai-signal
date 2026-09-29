@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 441
+member_count: 443
 ---
 
 # Apple
 
-> Auto-generated entity hub. 441 connected article(s).
+> Auto-generated entity hub. 443 connected article(s).
 
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the|Nvidia Authorizes an Additional $150 Billion in Buybacks — the Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-26` [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r|Julia 1: a 144.3M-parameter open decision model trained for roughly $104]]
 - `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]

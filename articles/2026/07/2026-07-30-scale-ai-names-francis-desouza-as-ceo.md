@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo
 - 2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de
 - 2026-04-27-
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
-- 2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie
 embedding_id: 2026-07-30-scale-ai-names-francis-desouza-as-ceo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Scale AI appointed former Google Cloud COO and Illumina CEO Francis deSouza as c
 
 **Entities:** [[Google]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-27-]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]] · [[2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie]]
+**Related:** [[2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo]] · [[2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de]] · [[2026-04-27-]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]] · [[2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc
 - 2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair
 - 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
-- 2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer
 embedding_id: 2026-07-09-anthropic-appoints-former-fed-chair-ben-bernanke-to-its-long
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic named Nobel laureate and former Federal Reserve Chair Ben Bernanke to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]] · [[2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer]]
+**Related:** [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc]] · [[2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]]
 <!-- graph:end -->

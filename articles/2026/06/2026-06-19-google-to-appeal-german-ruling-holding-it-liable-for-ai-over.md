@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
-- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
+- 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 embedding_id: 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google will appeal a Munich court ruling holding it directly liable for content 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]]
+**Related:** [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on]] · [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se]]
 <!-- graph:end -->

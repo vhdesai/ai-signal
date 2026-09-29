@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-- 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
+- 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
 embedding_id: 2026-05-13-anthropic-issued-a-formal-warning-to-investors-cautioning-ag
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic issued a formal warning to investors cautioning against secondary-mark
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-04-02-despite-the-record-raise-openai-s-secondary-market-position]]
+**Related:** [[2026-08-14-investors-battle-for-anthropic-shares-on-secondary-markets-a]] · [[2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar]] · [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar]] · [[2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an]] · [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war]]
 <!-- graph:end -->

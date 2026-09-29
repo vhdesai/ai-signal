@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1249
+member_count: 1256
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1249 connected article(s).
+> Auto-generated topic hub. 1256 connected article(s).
 
+- `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d|Anthropic Warns of Existential AI Risks to Humanity in IPO Document]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
+- `2026-09-28` [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc|Anthropic Founders to Retain Control via New “Founder LLC”]]
 - `2026-09-27` [[2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a|WSJ: some Anthropic veterans are buying remote land in case "AI goes awry"]]
 - `2026-09-27` [[2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one|Trump Hosts Anthropic CEO Dario Amodei for First One-on-One White House Dinner]]
 - `2026-09-27` [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly|Stanford and Caltech Put a Frontier VLM (GPT-6 Astra) Directly in Control of a Humanoid Robot]]

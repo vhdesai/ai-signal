@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
+- 2026-09-29-meta-launches-muse-for-small-business
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 embedding_id: 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 event_name: ''
@@ -38,5 +39,5 @@ Meta introduced Muse in the US on web, iOS, Android, and WhatsApp for users 18+,
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]]
+**Related:** [[2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]] · [[2026-09-29-meta-launches-muse-for-small-business]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]]
 <!-- graph:end -->

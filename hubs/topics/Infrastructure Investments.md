@@ -1,19 +1,27 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1743
+member_count: 1751
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1743 connected article(s).
+> Auto-generated topic hub. 1751 connected article(s).
 
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
 - `2026-09-28` [[2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ|Sakana AI and the University of Tokyo triple robot task success with test-time search]]
 - `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest|Nvidia authorizes an additional $150B in buybacks, the largest increase on record]]
 - `2026-09-28` [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the|Nvidia authorises an additional $150B in buybacks, raising the program to $235B]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the|Nvidia Authorizes an Additional $150 Billion in Buybacks — the Largest Increase on Record]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc|Nvidia Authorizes Additional $150 Billion Buyback, Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio|Nvidia Adds $150 Billion to Its Share Repurchase Authorisation]]
 - `2026-09-28` [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome|Meta pushes to monetize AI spending through business customers]]
+- `2026-09-28` [[2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo|ElevenLabs Releases Eleven v4 and v4 Turbo]]
+- `2026-09-28` [[2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t|Cerebras and Gimlet Labs plan 100 MW of inference capacity targeting 3,000 tokens per second]]
 - `2026-09-28` [[2026-09-28-ai-giants-and-unions-form-a-data-center-coalition-ahead-of-2|AI giants and unions form a data-center coalition ahead of 2027 build-out]]
 - `2026-09-28` [[2026-09-28-ai-firms-private-equity-and-unions-form-a-coalition-to-head|AI firms, private equity and unions form a coalition to head off data-center moratoriums]]
 - `2026-09-28` [[2026-09-28-ai-companies-private-equity-and-unions-form-the-american-inf|AI Companies, Private Equity and Unions Form the American Infrastructure Alliance]]

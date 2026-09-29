@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 embedding_id: 2026-09-22-openai-publishes-priorities-and-principles-for-third-party-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI set out four priority areas for independent assessors: safety cases spann
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
+**Related:** [[2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein]] · [[2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro]] · [[2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]]
 <!-- graph:end -->

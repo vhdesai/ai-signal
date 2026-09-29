@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
 - 2026-09-27-can-muse-overcome-meta-s-trust-issues
+- 2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 embedding_id: 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 event_name: ''
@@ -37,5 +38,5 @@ Meta used Connect to expand Muse, its personal AI agent, with a real-time avatar
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
+**Related:** [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]] · [[2026-09-27-can-muse-overcome-meta-s-trust-issues]] · [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook]] · [[2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s]]
 <!-- graph:end -->

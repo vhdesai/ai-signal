@@ -1,14 +1,16 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 495
+member_count: 497
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 495 connected article(s).
+> Auto-generated topic hub. 497 connected article(s).
 
 - `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al|AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in all-stock deal]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion|AMD to Acquire Fei-Fei Li’s World Labs for $8.2 Billion]]
 - `2026-09-27` [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p|WSJ: Anthropic veterans quietly buying remote US parcels as personal AI-contingency plans]]
 - `2026-09-27` [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving|Scientists download a frontier AI model into a self-driving car and "let it loose"]]
 - `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]

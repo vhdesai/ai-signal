@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 89
+member_count: 93
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 89 connected article(s).
+> Auto-generated entity hub. 93 connected article(s).
 
+- `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it|Meta Opens an Enterprise Front, Hiring MongoDB CEO to Run It]]
+- `2026-09-28` [[2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo|Meta Launches an Enterprise Platform and Hires MongoDB's CEO to Run It]]
 - `2026-09-27` [[2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p|Microsoft consolidates Copilot into a single enterprise AI platform with flexible pricing]]
 - `2026-09-23` [[2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen|Anthropic launches Claude Marketplace, turning committed spend into a procurement channel]]
 - `2026-09-22` [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo|Okta launches AI Agent Runtime Gateway; Blueprint Alliance formed with AWS and CrowdStrike]]

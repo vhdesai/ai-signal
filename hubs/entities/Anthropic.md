@@ -1,19 +1,34 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2280
+member_count: 2295
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2280 connected article(s).
+> Auto-generated entity hub. 2295 connected article(s).
 
+- `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d|Anthropic Warns of Existential AI Risks to Humanity in IPO Document]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont|Nvidia Launches Open Agent Safety Platform, Moving Agent Containment Into Hardware]]
+- `2026-09-28` [[2026-09-28-meta-launches-meta-enterprise-platform-and-hires-mongodb-ceo|Meta launches Meta Enterprise Platform and hires MongoDB CEO CJ Desai to run it]]
+- `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea|Gemini 4 is in post-training, and Google wants it out "much earlier" than year-end]]
 - `2026-09-28` [[2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its|CMU's Block Center for Technology and Society announced its new director, explicitly framing the appointment as a "tech policy at a crossroads" moment. The center has been influential on autonomous-systems governance, and the timing — the same day the Pentagon-Anthropic ruling and the Trump-Amodei dinner lead the news — reinforces academic policy centers as the honest broker between labs and Washington.]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper|Anthropic ships Claude Sonnet 5.5 — 30% faster, up to 30% cheaper per task, unchanged token pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri|Anthropic Ships Claude Sonnet 5.5 — ~30% Faster at Unchanged Pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-at-unchanged-pricing|Anthropic Ships Claude Sonnet 5.5 at Unchanged Pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-launches-claude-sonnet-5-5|Anthropic Launches Claude Sonnet 5.5]]
+- `2026-09-28` [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc|Anthropic Founders to Retain Control via New “Founder LLC”]]
 - `2026-09-28` [[2026-09-28-anthropic-declines-australian-senate-inquiry-appearance-altm|Anthropic Declines Australian Senate Inquiry Appearance; Altman Also Not Attending]]
 - `2026-09-28` [[2026-09-28-amodei-dines-with-trump-as-both-labs-decline-australia-s-sen|Amodei dines with Trump as both labs decline Australia's Senate inquiry]]
 - `2026-09-27` [[2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a|WSJ: some Anthropic veterans are buying remote land in case "AI goes awry"]]

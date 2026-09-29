@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
-- 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
-- 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
+- 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper
 embedding_id: 2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic launched Opus 5.5 — first model in a new generation — calling it "
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l]]
+**Related:** [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri]] · [[2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op]] · [[2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and]] · [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper]]
 <!-- graph:end -->

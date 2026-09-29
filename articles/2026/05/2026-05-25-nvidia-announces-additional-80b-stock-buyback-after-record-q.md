@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
+- 2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai
 - 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
 - 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
-- 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
 embedding_id: 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia disclosed an additional $80 billion stock repurchase authorization follow
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai]] · [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]]
+**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio]] · [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai]] · [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]]
 <!-- graph:end -->

@@ -1,13 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4680
+member_count: 4703
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4680 connected article(s).
+> Auto-generated topic hub. 4703 connected article(s).
 
+- `2026-09-29` [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny|OpenAI DevDay Opens Today Under Safety Scrutiny]]
+- `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l|OpenAI DevDay 2026 opens under safety scrutiny rather than launch hype]]
+- `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny|OpenAI DevDay 2026 Opens Under Safety Scrutiny]]
+- `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook|Meta launches Muse for Small Business with Shopify, QuickBooks, Stripe and Slack connectors]]
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla|Meta Launches Muse for Small Business With Connectors to Slack, Shopify, QuickBooks and Canva]]
+- `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business|Meta Launches Muse for Small Business]]
+- `2026-09-29` [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users|Google Opens Gemini Skills to All Free Account Users]]
+- `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
+- `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
+- `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]
 - `2026-09-28` [[2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te|What we still don't know about Google's Flipkart shopping test]]
 - `2026-09-28` [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta|WSJ: AI Usage Reaches 18.8% of Working-Age Population as Meta Pivots to Business Buyers]]
 - `2026-09-28` [[2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r|University of Tokyo work anchors the inference-compute-for-reliability thesis in robotics]]
@@ -19,11 +33,20 @@ member_count: 4680
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest|Nvidia authorizes an additional $150B in buybacks, the largest increase on record]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai|Nvidia authorizes an additional $150B in buybacks — total remaining authorization hits $235B]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
+- `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners|Nvidia Launches Open Agent Safety Platform with 100+ Partners]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-share-repurchase|Nvidia Authorizes Additional $150 Billion Share Repurchase]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc|Nvidia Authorizes Additional $150 Billion Buyback, Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio|Nvidia Adds $150 Billion to Its Share Repurchase Authorisation]]
 - `2026-09-28` [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome|Meta pushes to monetize AI spending through business customers]]
+- `2026-09-28` [[2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it|Meta Opens an Enterprise Front, Hiring MongoDB CEO to Run It]]
+- `2026-09-28` [[2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai|Meta Launches Enterprise Platform, Hires MongoDB CEO CJ Desai]]
 - `2026-09-28` [[2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl|Google moves agentic commerce to checkout: a “Buy” button on Flipkart inside Gemini and AI Mode]]
+- `2026-09-28` [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills|Google Is Retiring Gemini’s Gems in Favour of “Skills”]]
 - `2026-09-28` [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non|EAGLE Model Detects 90% of Esophageal Cancers on Routine Non-Contrast Chest CT]]
+- `2026-09-28` [[2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc|Anthropic Founders to Retain Control via New “Founder LLC”]]
 - `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al|AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in all-stock deal]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion|AMD to Acquire Fei-Fei Li’s World Labs for $8.2 Billion]]
 - `2026-09-28` [[2026-09-28-ai-firms-private-equity-and-unions-form-a-coalition-to-head|AI firms, private equity and unions form a coalition to head off data-center moratoriums]]
 - `2026-09-27` [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f|xAI's Colossus 2 on Track to Roughly Double Its Nvidia GPU Fleet by Year-End]]
 - `2026-09-27` [[2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp|Stanford and Caltech drive a humanoid robot directly with GPT-6 Astra]]

@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
+- 2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d
 - 2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated
-- 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
+- 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
 embedding_id: 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
 event_name: ''
 ---
@@ -40,5 +41,5 @@ TechCrunch's Equity podcast examined the doomer wave triggered by an Anthropic r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk]]
+**Related:** [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d]] · [[2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated]] · [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war]]
 <!-- graph:end -->

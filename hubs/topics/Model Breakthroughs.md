@@ -1,15 +1,33 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3253
+member_count: 3271
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3253 connected article(s).
+> Auto-generated topic hub. 3271 connected article(s).
 
+- `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
+- `2026-09-29` [[2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe|MIT: Sherry Turkle’s “Artificial Intimacy” on Who We Become When We Talk to Machines]]
+- `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]
+- `2026-09-29` [[2026-09-29-company-releases-holo4-open-weight-computer-use-models|Company Releases Holo4 Open-Weight Computer-Use Models]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
+- `2026-09-28` [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context|xAI’s Grok 4.7 arrives on Amazon Bedrock with a 500K context window]]
+- `2026-09-28` [[2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco|OpenAI cancels the GPT-6.1 Astra release over safety and scope failures]]
+- `2026-09-28` [[2026-09-28-mit-ml-designed-formulation-lets-rna-vaccines-survive-withou|MIT: ML-Designed Formulation Lets RNA Vaccines Survive Without Refrigeration]]
 - `2026-09-28` [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su|MIT uses small-data machine learning to make RNA vaccines survive room temperature for a year]]
 - `2026-09-28` [[2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us|Fireworks AI releases Ember-1, a post-trained Kimi K3 that uses ~40% fewer tokens]]
+- `2026-09-28` [[2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-using-4|Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 Using ~40% Fewer Tokens]]
+- `2026-09-28` [[2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag|ElevenLabs Releases Eleven v4 and v4 Turbo, Adding 90+ Languages and ~100ms Latency]]
+- `2026-09-28` [[2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo|ElevenLabs Releases Eleven v4 and v4 Turbo]]
+- `2026-09-28` [[2026-09-28-cornell-trust-is-the-missing-ingredient-for-ai-driven-food-s|Cornell: Trust Is the Missing Ingredient for AI-Driven Food Safety]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper|Anthropic ships Claude Sonnet 5.5 — 30% faster, up to 30% cheaper per task, unchanged token pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri|Anthropic Ships Claude Sonnet 5.5 — ~30% Faster at Unchanged Pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-ships-claude-sonnet-5-5-at-unchanged-pricing|Anthropic Ships Claude Sonnet 5.5 at Unchanged Pricing]]
+- `2026-09-28` [[2026-09-28-anthropic-launches-claude-sonnet-5-5|Anthropic Launches Claude Sonnet 5.5]]
+- `2026-09-28` [[2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex|Alibaba Qwen Releases Qwen-Audio-3.1-Realtime, a Full-Duplex Voice Model]]
 - `2026-09-27` [[2026-09-27-leading-mit-energy-scientist-announced-a-move-to-singapore-s|leading MIT energy scientist announced a move to Singapore's Nanyang Technological University after more than three decades at MIT, citing research environment, grid-plus-AI opportunities and Asia's data-center energy pipeline. The move joins a growing pattern of senior U.S. AI-adjacent talent taking cross-border chairs, and underscores the compute-plus-energy positioning of Singapore/UAE research corridors.]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]

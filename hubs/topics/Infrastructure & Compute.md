@@ -1,16 +1,25 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2064
+member_count: 2073
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2064 connected article(s).
+> Auto-generated topic hub. 2073 connected article(s).
 
+- `2026-09-29` [[2026-09-29-mit-the-harms-of-algorithmic-monoculture-depend-on-the-detai|MIT: The Harms of "Algorithmic Monoculture" Depend on the Details]]
+- `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
+- `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
 - `2026-09-28` [[2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ|Sakana AI and the University of Tokyo triple robot task success with test-time search]]
 - `2026-09-28` [[2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the|Nvidia authorises an additional $150B in buybacks, raising the program to $235B]]
+- `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]
+- `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the|Nvidia Authorizes an Additional $150 Billion in Buybacks — the Largest Increase on Record]]
+- `2026-09-28` [[2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio|Nvidia Adds $150 Billion to Its Share Repurchase Authorisation]]
+- `2026-09-28` [[2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab|MIT uses a small-data ML algorithm to make RNA vaccines stable at room temperature for a year]]
 - `2026-09-28` [[2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea|Gemini 4 is in post-training, and Google wants it out "much earlier" than year-end]]
+- `2026-09-28` [[2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t|Cerebras and Gimlet Labs plan 100 MW of inference capacity targeting 3,000 tokens per second]]
+- `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al|AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in all-stock deal]]
 - `2026-09-27` [[2026-09-27-leading-mit-energy-scientist-announced-a-move-to-singapore-s|leading MIT energy scientist announced a move to Singapore's Nanyang Technological University after more than three decades at MIT, citing research environment, grid-plus-AI opportunities and Asia's data-center energy pipeline. The move joins a growing pattern of senior U.S. AI-adjacent talent taking cross-border chairs, and underscores the compute-plus-energy positioning of Singapore/UAE research corridors.]]
 - `2026-09-27` [[2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum|Stanford and Caltech wire a frontier model directly to a humanoid, skipping the learned control layer]]
 - `2026-09-27` [[2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how|PitchBook Weekend Pitch: Should PE Partners Actually Know How to Use AI? Carlyle Says 90% of Employees Now Do]]

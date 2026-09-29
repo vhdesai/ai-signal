@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
 - 2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock
 - 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reported, and The Register analyzed, that AWS is in talks to ad
 
 **Entities:** [[Amazon]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock]] · [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]]
+**Related:** [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context]] · [[2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock]] · [[2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]]
 <!-- graph:end -->
