@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TeraWulf / GlobeNewswire
 url_original: https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
 url_canonical: https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: acac8417418e796e1633ad30c96931773103b21f25cabeb68565e6859fa6658c

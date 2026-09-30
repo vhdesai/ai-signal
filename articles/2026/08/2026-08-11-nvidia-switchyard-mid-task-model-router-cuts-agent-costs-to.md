@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests
 url_canonical: https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_061032_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 0a39784768125094e0852c9506f83b5b558fb688557cda36f864e1d9bf1a962e

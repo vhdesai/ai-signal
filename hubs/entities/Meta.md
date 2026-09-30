@@ -1,16 +1,21 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 857
+member_count: 862
 ---
 
 # Meta
 
-> Auto-generated entity hub. 857 connected article(s).
+> Auto-generated entity hub. 862 connected article(s).
 
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook|Meta launches Muse for Small Business with Shopify, QuickBooks, Stripe and Slack connectors]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla|Meta Launches Muse for Small Business With Connectors to Slack, Shopify, QuickBooks and Canva]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business|Meta Launches Muse for Small Business]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-28` [[2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta|WSJ: AI Usage Reaches 18.8% of Working-Age Population as Meta Pivots to Business Buyers]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi|Meta's Muse agent draws privacy and access backlash on multiple fronts]]

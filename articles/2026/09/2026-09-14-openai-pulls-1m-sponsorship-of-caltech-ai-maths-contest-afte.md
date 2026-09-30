@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: The Next Web
 url_original: https://thenextweb.com/news/openai-withdraws-caltech-mathathon-slop-mathematics-fields-medallists
 url_canonical: https://thenextweb.com/news/openai-withdraws-caltech-mathathon-slop-mathematics-fields-medallists
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_060544_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 72caea6d5edb7b4c7893adb71db7eae73620feeed90d6a1d79ccac2b9d5e96e9

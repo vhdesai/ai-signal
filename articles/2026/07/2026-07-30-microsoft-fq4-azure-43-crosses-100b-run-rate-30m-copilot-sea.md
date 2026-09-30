@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Yahoo Finance · Microsoft
 url_original: https://finance.yahoo.com/technology/articles/microsoft-q4-2026-earnings-azure-111058880.html
 url_canonical: https://finance.yahoo.com/technology/articles/microsoft-q4-2026-earnings-azure-111058880.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: e505bd612a37b7a201e96185429a62a67dbac8545acd79a68d0c9bd3efe0342b

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: xAI
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 772b3f396f0cb270a1e25a3c41c75821bcdb925458eb8530fc007dac39973c01

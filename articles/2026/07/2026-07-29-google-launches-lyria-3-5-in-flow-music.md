@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Google DeepMind Blog
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: bfba25f6506f6aab48a46d26289915f0f7f00621192d72a34312b754950e22c7

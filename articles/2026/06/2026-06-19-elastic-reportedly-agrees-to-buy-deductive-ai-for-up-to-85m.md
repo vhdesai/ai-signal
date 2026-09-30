@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
 url_canonical: https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: e706fa5c76729cc0b1defcc1c0bfaeb330d8f004ba792d900a6615ce72092703
 normalized_title_hash: 7b0d050e4d3a181f

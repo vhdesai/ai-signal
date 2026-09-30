@@ -6,7 +6,7 @@ date: '2026-08-11'
 source: Anthropic Research
 url_original: https://www.anthropic.com/research/riemann-zeta
 url_canonical: https://www.anthropic.com/research/riemann-zeta
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c18d71bbed481820f77ace4ce5fb60762aedce7fea3a143aa3da522a67e97111

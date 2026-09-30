@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: VentureBeat
 url_original: https://venturebeat.com/ai/stanford-and-nvidias-open-clm-8b-caches-reusable-agent-actions-and-runs-up-to-9x-faster-than-jev-in-tests/
 url_canonical: https://venturebeat.com/ai/stanford-and-nvidias-open-clm-8b-caches-reusable-agent-actions-and-runs-up-to-9x-faster-than-jev-in-tests/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 86a6ed8db0d95b307c8b77832a9c3fcbce70396dcea61670bcc39e6030258fd0

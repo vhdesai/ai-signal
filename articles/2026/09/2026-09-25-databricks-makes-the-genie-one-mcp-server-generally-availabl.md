@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Databricks release notes
 url_original: https://docs.databricks.com/aws/en/release-notes/product/2026/september
 url_canonical: https://docs.databricks.com/aws/en/release-notes/product/2026/september
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: f698497ab4e836ca929ef6f6f08e0c27ac546da16c22d04cde6eac8bf29ef879

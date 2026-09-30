@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Yahoo Finance]'
 url_original: https://finance.yahoo.com/technology/ai/articles/intel-raises-15-billion-stock-124534191.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/intel-raises-15-billion-stock-124534191.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: a6e0ba24fa3a1b6c43aedff832d179334d629fe331a630692b57fced452a7202

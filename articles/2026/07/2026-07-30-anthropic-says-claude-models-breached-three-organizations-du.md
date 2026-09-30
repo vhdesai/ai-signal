@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
 url_canonical: https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 5a512aefe407b6626adf577062f68b82a1a1793546356b66ea61bdd7e30d7369

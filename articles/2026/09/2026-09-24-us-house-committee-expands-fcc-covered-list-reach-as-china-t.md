@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: f47143f8988a9aa1c6b487f421e2c6fcdf27861203c5c7804df8104614219df3

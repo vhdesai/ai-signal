@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
 url_canonical: https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 53cce9a4a86c3aecd7a69c9e830d6965a9c42f317b6f7966998463891ffe7f32

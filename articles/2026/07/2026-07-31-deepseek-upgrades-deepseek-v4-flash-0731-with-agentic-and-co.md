@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/
 url_canonical: https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: f4a8cc68815f2c7d9521027beda27ad91b7a908b9ea38598226f68a620bfd681

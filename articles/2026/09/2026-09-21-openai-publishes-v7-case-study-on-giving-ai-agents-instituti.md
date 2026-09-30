@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: OpenAI
 url_original: https://openai.com/index/v7-labs/
 url_canonical: https://openai.com/index/v7-labs/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
 content_hash: 62b47822653b7a746a842e29095d1c1436958bd80355bbcfff08404539004dbd

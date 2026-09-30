@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: 9to5Mac**
 url_original: https://9to5mac.com/2026/07/17/apple-sends-legal-letters-to-former-employees-now-at-openai/
 url_canonical: https://9to5mac.com/2026/07/17/apple-sends-legal-letters-to-former-employees-now-at-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 430911f15a7cb9d68da9ca45f50a5b914fd09f91b7365c8f9e551ef7b6643645
 normalized_title_hash: 0ca6040e53f6cb7b

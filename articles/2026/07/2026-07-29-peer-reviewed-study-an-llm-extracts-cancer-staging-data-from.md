@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/truveta-language-model-unlocks-research-ready-cancer-staging-data-from-millions-of-clinical-notes-1036378220
 url_canonical: https://markets.businessinsider.com/news/stocks/truveta-language-model-unlocks-research-ready-cancer-staging-data-from-millions-of-clinical-notes-1036378220
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: c433c3501fce671a95e758f72e3e4f129b14beef80daf5d0d9c538a453c1747f

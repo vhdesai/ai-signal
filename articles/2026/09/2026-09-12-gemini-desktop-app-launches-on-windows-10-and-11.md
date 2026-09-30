@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: tech-ish
 url_original: https://tech-ish.com/2026/09/12/google-gemini-desktop-app-windows-10-11/
 url_canonical: https://tech-ish.com/2026/09/12/google-gemini-desktop-app-windows-10-11/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 4780871268675ce332079795002654370a03a94febb6739de7f443a3a74d1336

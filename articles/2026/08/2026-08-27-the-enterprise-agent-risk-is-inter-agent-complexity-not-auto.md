@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: VentureBeat
 url_original: https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them
 url_canonical: https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 8ec4c7d05e1c3691e3f5f07c60b7650d13c21f689950bdc1d744c965632e58fa

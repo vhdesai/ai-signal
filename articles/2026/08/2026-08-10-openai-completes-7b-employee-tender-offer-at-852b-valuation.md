@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
 url_canonical: https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 5689a53cf8929e2365ebcc7940827b6efa600279a5532686becefe7858d1ae89

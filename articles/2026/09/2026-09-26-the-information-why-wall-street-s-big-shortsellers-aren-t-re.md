@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Eisman+shortsellers+AI+Nvidia+Anthropic+OpenAI
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Eisman+shortsellers+AI+Nvidia+Anthropic+OpenAI
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: dffbf84b15e7639288f5893919a372034bcf2f86dc0d1df2ba75116ae8750aa2

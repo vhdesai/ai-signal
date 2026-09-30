@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
 url_canonical: https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: b92f366f7fc5c759428f7971453dae5159c128f4ad1171c7136ba3a5474da634

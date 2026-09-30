@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: DealBook / The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Anthropic%20compute%20lease
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Anthropic%20compute%20lease
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 164e3793b05f846269d72887444007d8d044d3092865a315b958e44888d56d0b

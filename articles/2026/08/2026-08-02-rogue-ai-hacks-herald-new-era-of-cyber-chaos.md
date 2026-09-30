@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c
 url_canonical: https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_065028_Final-Daily-AI-News-Digest.md
 content_hash: 302161597127de54e5fe9944d16d01a4e33d20b26ea74364b50e981045188439
 normalized_title_hash: 3999a5cf9f31f053

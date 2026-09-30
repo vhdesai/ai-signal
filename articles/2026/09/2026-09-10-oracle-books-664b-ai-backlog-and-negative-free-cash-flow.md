@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Oracle Investor Relations**
 url_original: https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx
 url_canonical: https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 19199607e448f6f34bac05173a6c881f2281eeb2e80d21d0ffc9f5fb8b2e8d39
 normalized_title_hash: 4f2e8c2652db22e7

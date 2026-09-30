@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps
 url_canonical: https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_060536_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 64b746438f3d4df3888075fab5110baa420291b1ef38c2a279b60d21c3f43fef

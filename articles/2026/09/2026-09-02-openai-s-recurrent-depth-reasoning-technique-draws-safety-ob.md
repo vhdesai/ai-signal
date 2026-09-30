@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts
+- 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
 - 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 embedding_id: 2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob
@@ -36,5 +37,5 @@ OpenAI's Astra model uses a technique described as "recurrent depth," which allo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]]
+**Related:** [[2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts]] · [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause]] · [[2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy]] · [[2026-08-07-openai-pauses-astra-model-development-after-reaching-critica]]
 <!-- graph:end -->

@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Filtered to items published between September 20, 2026 at 6:45 AM PDT and Septem
 ## Connections
 
 **Entities:** [[OpenAI]] · [[Palantir]]
-**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
 <!-- graph:end -->

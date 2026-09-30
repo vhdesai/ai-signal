@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: September 12, 2026
 url_original: https://developmentstoday.com/ai-robotics/google-timesfm-3-forecasting-sales-weather-promotions
 url_canonical: https://developmentstoday.com/ai-robotics/google-timesfm-3-forecasting-sales-weather-promotions
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_060535_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 80bd196c1c7d1f2ec831ff183d6a350374f62a3fbd5171ae54097f71a519d9dd

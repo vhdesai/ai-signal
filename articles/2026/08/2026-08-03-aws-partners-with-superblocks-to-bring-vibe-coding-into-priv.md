@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
 url_canonical: https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 0e07172fecbd32b99ed55a3ea4013937cd0d95056fbba7f0d269719be8ffa171
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
+- 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-- 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
 embedding_id: 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ TechCrunch reports that AWS signed a multiyear joint marketing agreement with Su
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]] · [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]]
+**Related:** [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla]]
 <!-- graph:end -->

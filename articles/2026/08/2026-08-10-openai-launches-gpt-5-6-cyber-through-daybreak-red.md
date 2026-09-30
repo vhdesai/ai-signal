@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch / OpenAI Blog
 url_original: https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
 url_canonical: https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 460ade850610f95894871f76351f2bd5baffb827bedb0990e91eacfc2fec7ba4

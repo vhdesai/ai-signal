@@ -6,7 +6,7 @@ date: '2026-08-15'
 source: TechCrunch · The Washington Post
 url_original: https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
 url_canonical: https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: a189e67180d51356913f783bafa3e8a528b8a251369f67dea25bae847f7f148b
 normalized_title_hash: bae4c0abddd73683

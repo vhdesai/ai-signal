@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: VentureBeat
 url_original: https://venturebeat.com/security/ai-agents-route-around-blocks-few-isolate-them/
 url_canonical: https://venturebeat.com/security/ai-agents-route-around-blocks-few-isolate-them/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e2fa959d15b6c5176702bccc5781638060045d720e3c97bfbcee84150e0ee7f0

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Unite.AI
 url_original: https://www.unite.ai/zenity-raises-125-million-as-enterprises-confront-the-security-risks-of-autonomous-ai-agents/
 url_canonical: https://www.unite.ai/zenity-raises-125-million-as-enterprises-confront-the-security-risks-of-autonomous-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 7ac315955370df6e94eaf1515bfee3a12af92194c44f8b42092a7e01c3e1f056

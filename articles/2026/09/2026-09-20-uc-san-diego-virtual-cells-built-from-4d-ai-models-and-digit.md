@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Phys.org / UC San Diego
 url_original: https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html
 url_canonical: https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 5ecdee4d253d397172de49528c1be976b2baed91dcd6387aa1db221f333a1587

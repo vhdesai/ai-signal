@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance
 url_canonical: https://www.scmp.com/tech/article/3367354/chinese-researchers-extend-future-memory-endurance-100-fold-semiconductor-advance
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 19ebc763d6ff3f2b5ee344ebb92140a3e1acd7a0fc2ae3f9d8a26751693c2243

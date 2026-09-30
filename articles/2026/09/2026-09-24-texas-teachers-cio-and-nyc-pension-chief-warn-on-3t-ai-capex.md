@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: PitchBook / Yahoo Finance
 url_original: https://pitchbook.com/news/articles/texas-teachers-nyc-pension-ai-capex-warning-2026
 url_canonical: https://pitchbook.com/news/articles/texas-teachers-nyc-pension-ai-capex-warning-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 0118718dc3362eba9eefebec82fe12482771bf441a4751d4255e9418e2d02651

@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
 url_canonical: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 877b1997e32497a4d921054f04b8a8a4812721359729545e83fe17650c60ef3c

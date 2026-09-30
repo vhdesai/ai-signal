@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
 url_canonical: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 61c99237c2d009d7ee9e9a457d8a5230ee7deb8adb98cf5a97b8c2759a117d41

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
 url_canonical: https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 4665d0be94ed38af0e46be40a88c27a697d8d311986dbd1e931935155e7d433f

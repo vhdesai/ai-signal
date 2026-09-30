@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/
 url_canonical: https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 535af62d8d763a4d86a39d8cad64aac2e627ac3c863615bdc8ed1dc87050ad9d

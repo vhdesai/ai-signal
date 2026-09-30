@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Akamai Technologies (press release)]
 url_original: https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand
 url_canonical: https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 3e3c5d7d11979cb306e373a2c96675fe1f46f77fc570941e3af666c777b0598b

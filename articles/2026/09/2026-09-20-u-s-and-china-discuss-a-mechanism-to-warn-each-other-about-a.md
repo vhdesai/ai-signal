@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Wired
 url_original: https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/
 url_canonical: https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 4155a3e598d27855b81d8fd986cc9a1f32ccf6a4587645ba6f513b2b42b87f1b

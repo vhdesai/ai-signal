@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/fervo-energy-achieves-first-power-at-cape-station-a-landmark-moment-for-the-future-of-enhanced-geothermal-systems-1036570430
 url_canonical: https://markets.businessinsider.com/news/stocks/fervo-energy-achieves-first-power-at-cape-station-a-landmark-moment-for-the-future-of-enhanced-geothermal-systems-1036570430
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060618_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: fe6609b900a9829e42801f8b4be906a2d3e0d3ab9b7ce45c8565689243233311

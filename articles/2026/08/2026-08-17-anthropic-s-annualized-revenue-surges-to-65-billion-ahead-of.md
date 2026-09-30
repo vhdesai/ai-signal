@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
 url_canonical: https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 30711571f5b22aa73d979b5a96e22fc574b278e810c81150d127450a6702ce7f
 normalized_title_hash: 5a893c07d7fcd2c0

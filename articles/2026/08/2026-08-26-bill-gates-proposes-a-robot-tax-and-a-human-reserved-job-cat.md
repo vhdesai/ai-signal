@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/bill-gates-wants-tax-robots-165625176.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/bill-gates-wants-tax-robots-165625176.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_065039_Final-Daily-AI-News-Digest.md
 content_hash: 352e22b773803eca1fc42562d19391a1d357cdefebd41cfbaf5c2b21f8f6a0d9
 normalized_title_hash: d2fa0689bf2a2698

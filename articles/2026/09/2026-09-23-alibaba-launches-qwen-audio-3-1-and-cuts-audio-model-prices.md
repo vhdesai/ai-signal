@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Decoder
 url_original: https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/
 url_canonical: https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 8ba36d7ae8f8c6c347f3b49b2e0dea65345bb3557bc719f79258fb735882fdec

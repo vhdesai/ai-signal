@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Atlanta Journal-Constitution
 url_original: https://www.ajc.com/politics/politics-blog/jon-ossoff-calls-for-inspectors-at-ai-research-labs-amid-industry-fears
 url_canonical: https://www.ajc.com/politics/politics-blog/jon-ossoff-calls-for-inspectors-at-ai-research-labs-amid-industry-fears
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 407606f918013a60ef13100bcb93388930cf6c4fbcf42c1ca06a0f2d672910fe

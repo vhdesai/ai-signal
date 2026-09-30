@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: The Straits Times**
 url_original: https://www.straitstimes.com/asia/east-asia/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules
 url_canonical: https://www.straitstimes.com/asia/east-asia/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: 4cdb5e6fd38d6324e07e07baca8d6aec7a603bf1b6de1f9cf2454ddf653abc21
 normalized_title_hash: c43dbbd631a64107

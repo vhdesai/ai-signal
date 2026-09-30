@@ -6,7 +6,7 @@ date: '2026-06-11'
 source: Reuters; TechCrunch
 url_original: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/
 url_canonical: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: 54e870f452fe46abb6d294cbda4a6665b69c7d171422e5d67c90840f791757a9
 normalized_title_hash: 8584ac4050422935

@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html
 url_canonical: https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 0eb0f1c11dd71bfcef929f6ad38403c53b2d178e65a07e7e5c45e6fc0d2bf9f1

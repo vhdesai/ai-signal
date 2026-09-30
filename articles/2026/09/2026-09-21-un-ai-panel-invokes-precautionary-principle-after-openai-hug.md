@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Unite.AI
 url_original: https://www.unite.ai/un-ai-panel-invokes-precautionary-principle-on-loss-of-control-risk/
 url_canonical: https://www.unite.ai/un-ai-panel-invokes-precautionary-principle-on-loss-of-control-risk/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: d3321a2cec9c5ab4dddc607b984fc3260ded776f9b280b72605a311f9ff9037d

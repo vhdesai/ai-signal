@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Techlicious
 url_original: https://www.yahoo.com/tech/senate-ai-duty-of-care-bill-slowdown-2026
 url_canonical: https://www.yahoo.com/tech/senate-ai-duty-of-care-bill-slowdown-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 0e02991c41148b696e6099befbfd7362aa15b52826e4afd3fc2351a3b65af6ef
 normalized_title_hash: 142e98da622586b2
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
+- 2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
-- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 embedding_id: 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Senate negotiators led by Thune, Cruz, and Klobuchar are drafting legislation wi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]]
+**Related:** [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede]] · [[2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove]]
 <!-- graph:end -->

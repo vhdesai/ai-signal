@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20RTX%20Pro%205500%20China
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia%20RTX%20Pro%205500%20China
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 46a2d81d554a9d28ecb71dd130da9069e5ec3a732417cf1160b11290efb4f398

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google+Gemini+4+DeepMind+Kavukcuoglu+release
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google+Gemini+4+DeepMind+Kavukcuoglu+release
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 867592138b12424b56cdd560c2d9825b3e8424ef28a302c42adaa6fc34884f87

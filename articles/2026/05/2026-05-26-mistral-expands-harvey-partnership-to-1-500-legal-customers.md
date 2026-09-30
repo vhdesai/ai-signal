@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Neuron
 url_original: https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-26-2026/
 url_canonical: https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-26-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a9c3188054d4d3f5e8f2f63e3584f1671636586fc7a9b0c51dd2cad56d8a1c79

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Virtualization Review
 url_original: https://virtualizationreview.com/articles/2026/08/21/openai-slows-frontier-ai-training-after-hugging-face-breach-adds-new-safeguards.aspx
 url_canonical: https://virtualizationreview.com/articles/2026/08/21/openai-slows-frontier-ai-training-after-hugging-face-breach-adds-new-safeguards.aspx
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: bd9beec73884623301cf639324cdc6773b3b708ca6001875aef582a7e08717ee

@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Engadget · Google DeepMind, Isomorphic Labs
 url_original: https://www.engadget.com/2225849/google-shuts-down-alphafold/
 url_canonical: https://www.engadget.com/2225849/google-shuts-down-alphafold/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: a1cf7433ea0bb5d877edf7e15fb1a838c964066215215c28d1dc1829db7aee52

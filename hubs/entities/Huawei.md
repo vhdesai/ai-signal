@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 233
+member_count: 237
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 233 connected article(s).
+> Auto-generated entity hub. 237 connected article(s).
 
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]

@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: Sakana AI
 url_original: https://sakana.ai/sail/
 url_canonical: https://sakana.ai/sail/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: db5e41be00889f93f56d4b045b0378823f75a9830b3c5f41727f0d98b9adb4cf

@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: CNBC / Business Insider
 url_original: https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html
 url_canonical: https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b0c3de87d73a2b34f440b60830e319be11dfcc4b55cf72c4e2233043b26d8fb6

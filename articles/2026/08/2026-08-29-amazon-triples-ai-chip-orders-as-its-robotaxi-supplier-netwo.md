@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
+- 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-04-09-products-tools
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 embedding_id: 2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo
@@ -38,5 +39,5 @@ Amazon is reported to have roughly tripled its AI chip orders while broadening t
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]] · [[2026-04-09-products-tools]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]]
+**Related:** [[2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand]] · [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-04-09-products-tools]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]]
 <!-- graph:end -->

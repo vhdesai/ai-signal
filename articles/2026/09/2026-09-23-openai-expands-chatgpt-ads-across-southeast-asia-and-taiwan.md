@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: OpenAI Blog
 url_original: https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/
 url_canonical: https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d526554f6353845785671a9bf3fa462d7d1fda7086445e76c2dca1e9e16dcc07

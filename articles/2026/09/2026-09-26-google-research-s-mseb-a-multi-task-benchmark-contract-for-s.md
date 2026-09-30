@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/
 url_canonical: https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: ca8f795fb8d45027614df4ec520e9564b2012c16ff7929c4742a58cc4cb36e53

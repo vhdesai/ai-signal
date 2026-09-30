@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/amazon-kicks-metas-muse-split-213337096.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/amazon-kicks-metas-muse-split-213337096.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 9bbcfa26a81d20f399d61ab885c3af5d6684f15bcc29c14de3fefde9cd06bb0a

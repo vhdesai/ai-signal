@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html
 url_canonical: https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: ff861373f3bca61b5eb0cbd18d7bf83aede68f66773aee104ffd800fb22211f2

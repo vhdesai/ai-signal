@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: Benzinga
 url_original: https://www.benzinga.com/markets/tech/26/09/google-deepmind-mechanize-ai-1-5-billion-acquihire
 url_canonical: https://www.benzinga.com/markets/tech/26/09/google-deepmind-mechanize-ai-1-5-billion-acquihire
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 33a1ca47837d316429af1ac47a5e29fd9c4f98ff286a181335146e77e8bdd5da

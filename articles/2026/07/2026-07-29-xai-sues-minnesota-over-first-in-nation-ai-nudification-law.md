@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/xai-sued-block-minnesota-ai-154349084.html
 url_canonical: https://www.yahoo.com/news/politics/articles/xai-sued-block-minnesota-ai-154349084.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: f70b0b49541a02e25fefca4d17a8129ec17aebd81e4e4584c25b3d957d11470f

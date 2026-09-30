@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
 url_canonical: https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 92acb0e73fefba54fd49d99326ff8db704c552fc6599931536b78da1647a9b2c

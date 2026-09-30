@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: eec5887e637e53179a61d9e6aafef823a91c748b392c18c06b52547f41dbb9b6

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-chip-stocks-fall-ai-114634380.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-chip-stocks-fall-ai-114634380.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062818_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 11c6f0a0f68d3e7cf3c338c97bc4c05e868efdc9ed20ed55c3b20965ae97caba

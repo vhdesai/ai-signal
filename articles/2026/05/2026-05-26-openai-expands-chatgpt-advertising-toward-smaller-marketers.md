@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: ad6670b6b3612108dcb5c56b99b258755059d67025fb92ff90bca6d5889173fa

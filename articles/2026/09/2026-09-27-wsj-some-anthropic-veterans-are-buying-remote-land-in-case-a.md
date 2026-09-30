@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: The Decoder
 url_original: https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/
 url_canonical: https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 1cdc79f9da4f27bab76cb9702cb4e0e1a5702a515568098aa3cb5e52189281fe

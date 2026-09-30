@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / The Information / Business Insider
 url_original: https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
 url_canonical: https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061032_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: cdeaa692dda143fcd380bb7115ff3d0a011bee902dc0ba0bd09fd03e0ff29d3f

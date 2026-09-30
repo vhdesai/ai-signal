@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
 url_canonical: https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 70c8c7325a693016143e97292df6177e1f937003b36b4ef9099542d83a38837a

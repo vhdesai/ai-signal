@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CXMT%20Shanghai%20debut
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=CXMT%20Shanghai%20debut
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_065741_Final-Daily-AI-News-Digest.md
 content_hash: 39c3d1a0309ae497e53f60e7b16411781ba6c3b73be951590cd0abb598cb7f9e
 normalized_title_hash: 5e47535e7d17df05

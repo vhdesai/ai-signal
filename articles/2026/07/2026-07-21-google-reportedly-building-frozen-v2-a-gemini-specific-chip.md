@@ -6,7 +6,7 @@ date: '2026-07-21'
 source: Moneycontrol (via The Information)**
 url_original: https://www.moneycontrol.com/technology/google-is-working-on-new-frozen-v2-ai-chip-for-gemini-here-s-what-it-could-do-article-13979159.html
 url_canonical: https://www.moneycontrol.com/technology/google-is-working-on-new-frozen-v2-ai-chip-for-gemini-here-s-what-it-could-do-article-13979159.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: c0c889484d9ec398380951374a28f4586a089e05baca06f4f7ad6d0e029bbc8c
 normalized_title_hash: fbeb2076866d139d

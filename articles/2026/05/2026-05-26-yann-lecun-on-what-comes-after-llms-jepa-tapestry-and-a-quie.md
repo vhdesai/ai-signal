@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Lifeboat Foundation Podcast
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: af3784ee2db2d60eb74015d7340b11f58c8699fec3858cb2d94ea08e916d0a38

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/promise-peril-using-visual-ai-study-cities-0924
 url_canonical: https://news.mit.edu/2026/promise-peril-using-visual-ai-study-cities-0924
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b573cc5edf219e69500a860605434558bd6961006d7d17ee926b01891fd4c188

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/
 url_canonical: https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: adbd659615d8def6b2a856c67c1f41402f7eddea761476559c53394059490cf9

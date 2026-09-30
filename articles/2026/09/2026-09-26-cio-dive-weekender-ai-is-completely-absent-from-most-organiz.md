@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/weekender-ai-absent-ethics-codes-lrn-survey-2026-09-26/
 url_canonical: https://www.ciodive.com/news/weekender-ai-absent-ethics-codes-lrn-survey-2026-09-26/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: cd7fb5da0f052705b8e58089eeef020d570cb79ec31c643d4cd0f9ba91095efa

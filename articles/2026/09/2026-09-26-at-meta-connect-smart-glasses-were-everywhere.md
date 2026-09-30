@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
 url_canonical: https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: eaa104e911ff3f3be56fd78e0e853d3421030dd9b9676789c47e374217c1e9bb

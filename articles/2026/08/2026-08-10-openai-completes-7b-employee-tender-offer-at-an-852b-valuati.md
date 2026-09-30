@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[CNBC]'
 url_original: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
 url_canonical: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 13915bcdf9839587bd6d98e7147d0695e75d30547be5d00f9ffbb629b83173e9

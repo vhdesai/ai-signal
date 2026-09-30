@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Ars Technica
 url_original: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/
 url_canonical: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 9038305bc711f187ff6cbe0c42547cb4bbb34d808d28adc986bcbfbb6b650130

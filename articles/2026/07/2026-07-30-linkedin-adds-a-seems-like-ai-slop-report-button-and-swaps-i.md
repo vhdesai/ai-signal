@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/
 url_canonical: https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: ca86b47152cb88f74d6b36df6e8164d169bc338061fd1be66bee767bd17e157e

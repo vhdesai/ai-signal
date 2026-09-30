@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/openai-delay-ipo-sam-altman-103507298.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-delay-ipo-sam-altman-103507298.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 86b8dce1247cfbdfb3b0c69d3197d7117fd0ce0c1395763613adf1efcd3e44d7

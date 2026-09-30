@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Business Insider via Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/markets-biggest-ai-stocks-struggling-170527844.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/markets-biggest-ai-stocks-struggling-170527844.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: e63419f68f4de99e91b00340250112b08b8a9e1ea69d5727ddd58d00dd69e36e

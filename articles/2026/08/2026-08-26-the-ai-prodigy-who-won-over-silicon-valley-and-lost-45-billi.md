@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/world/the-ai-prodigy-who-won-over-silicon-valleyand-lost-45-billion-24603833
 url_canonical: https://www.wsj.com/world/the-ai-prodigy-who-won-over-silicon-valleyand-lost-45-billion-24603833
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 4281902381c4091f122f012f8c4a1aaf78f69f3e78d9d4d4d34e4cf286ec58c2
 normalized_title_hash: 4b46a8a403fca3c5

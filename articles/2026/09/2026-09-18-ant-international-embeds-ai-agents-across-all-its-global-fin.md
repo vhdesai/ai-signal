@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3367998/ant-international-embeds-ai-agents-across-all-platforms-biggest-ever-product-upgrade
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3367998/ant-international-embeds-ai-agents-across-all-platforms-biggest-ever-product-upgrade
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 47ca83be5271fe45e35d98673cb7098c5706578c7c62bc731f995d33e273ff6e

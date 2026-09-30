@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: The Next Web
 url_original: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
 url_canonical: https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_062157_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: fd745deda5068acced4e432a1bbde6b98ceb44129f0a1752e08de34331e0ef90

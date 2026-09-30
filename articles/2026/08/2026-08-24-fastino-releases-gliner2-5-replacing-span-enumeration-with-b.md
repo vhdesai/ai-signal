@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/
 url_canonical: https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 9e13e07e9d64c6b50317b38b5edc469d9e22e58979aa9c927c3c6b56f85330a6

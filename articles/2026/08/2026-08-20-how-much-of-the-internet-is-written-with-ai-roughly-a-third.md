@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Pew Research Center
 url_original: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
 url_canonical: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 6d23ef5474bcec272331e7171e870652df345afe7fa6441ccb98d5f18e9a0a61

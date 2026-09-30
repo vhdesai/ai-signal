@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
 url_canonical: https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: edd0c90b4b75a025974c552caf20f2089a2c7ad8c74c31d44ff3687d266d2ca3
 normalized_title_hash: a7300fff183afb97

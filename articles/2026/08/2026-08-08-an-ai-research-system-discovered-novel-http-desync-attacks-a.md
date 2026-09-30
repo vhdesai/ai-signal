@@ -6,7 +6,7 @@ date: '2026-08-08'
 source: PortSwigger Research
 url_original: https://portswigger.net/research/can-ai-do-novel-security-research
 url_canonical: https://portswigger.net/research/can-ai-do-novel-security-research
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 537663e29929c091a8fd65e3ac16dfb07b1c96994ba615a9e73516a2401a4715

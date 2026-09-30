@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html
 url_canonical: https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 1e5d2de34bee8fe9cd95142bba65ca1eb8649b7c1ebf40456e8396287f024c87

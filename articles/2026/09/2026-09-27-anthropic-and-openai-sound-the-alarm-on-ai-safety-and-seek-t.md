@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Associated Press
 url_original: https://www.usnews.com/news/us/articles/2026-09-27/anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled
 url_canonical: https://www.usnews.com/news/us/articles/2026-09-27/anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 68c86642e24fb5850947c4d938c53e57f014595c0b21b4a3cf5fb4b501b41c52

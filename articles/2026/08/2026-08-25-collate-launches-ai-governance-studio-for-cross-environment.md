@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/collate-governs-enterprise-ai-wherever-it-runs-1036490106
 url_canonical: https://markets.businessinsider.com/news/stocks/collate-governs-enterprise-ai-wherever-it-runs-1036490106
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061318_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 39bdd3e8148ecece0485da195c16d09ae74b9a763a750983f1880ff980ef786d

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://aiweekly.co/ai-news-today/edition/2026-09-25
 url_canonical: https://aiweekly.co/ai-news-today/edition/2026-09-25
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 610de9f46cc1a64930a55fa56c739f767089aaea0d3075dc47e8dba01eab64bf

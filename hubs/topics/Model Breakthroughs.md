@@ -1,16 +1,19 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3271
+member_count: 3274
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3271 connected article(s).
+> Auto-generated topic hub. 3274 connected article(s).
 
+- `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
 - `2026-09-29` [[2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe|MIT: Sherry Turkle’s “Artificial Intimacy” on Who We Become When We Talk to Machines]]
 - `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-company-releases-holo4-open-weight-computer-use-models|Company Releases Holo4 Open-Weight Computer-Use Models]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
 - `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]

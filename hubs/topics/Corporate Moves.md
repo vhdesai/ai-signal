@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4703
+member_count: 4714
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4703 connected article(s).
+> Auto-generated topic hub. 4714 connected article(s).
 
+- `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
+- `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
+- `2026-09-30` [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul|PitchBook: Software Dealmaking Goes Underground — AI-Native Multiples 10–15× ARR vs 3–6× for Non-AI SaaS]]
+- `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
+- `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
+- `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
+- `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
+- `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
+- `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny|OpenAI DevDay Opens Today Under Safety Scrutiny]]
 - `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l|OpenAI DevDay 2026 opens under safety scrutiny rather than launch hype]]
 - `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny|OpenAI DevDay 2026 Opens Under Safety Scrutiny]]
@@ -17,6 +27,7 @@ member_count: 4703
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business|Meta Launches Muse for Small Business]]
 - `2026-09-29` [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users|Google Opens Gemini Skills to All Free Account Users]]
 - `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]

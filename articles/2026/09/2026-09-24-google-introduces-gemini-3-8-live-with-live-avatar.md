@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Google DeepMind
 url_original: https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
 url_canonical: https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c1422fb530a9e3ea51184d336d02d1a065d55af98028d4499e17a35f76293a2e

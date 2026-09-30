@@ -6,7 +6,7 @@ date: '2026-05-25'
 source: Vatican News
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 130e8247f9cb1f8ad30eb4c06783d214d3fcb1428e51ea028eca8e40f592c85d

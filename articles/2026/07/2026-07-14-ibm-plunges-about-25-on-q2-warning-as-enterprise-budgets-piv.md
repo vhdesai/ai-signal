@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-ibm-plunges-on-second-quarter-warning-as-enterprise-spending-shifts/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-ibm-plunges-on-second-quarter-warning-as-enterprise-spending-shifts/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 264d60eb2dc01dfe3655e3c5d2077fae39392684ad5ad1c0beb5dc07db7b9cd3
 normalized_title_hash: ee0491427ca3c8ef

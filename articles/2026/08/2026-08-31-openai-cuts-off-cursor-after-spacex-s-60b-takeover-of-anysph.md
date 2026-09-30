@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: Forbes / TechStartups
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/31/openai-cuts-off-cursor-after-spacexs-60-billion-takeover/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/31/openai-cuts-off-cursor-after-spacexs-60-billion-takeover/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 32ba189f205df855b7aceffdf12261716c6458e8c4afd47d74e71e856484f676
 normalized_title_hash: 77bd9d79803192d6

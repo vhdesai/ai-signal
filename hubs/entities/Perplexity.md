@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 89
+member_count: 90
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 89 connected article(s).
+> Auto-generated entity hub. 90 connected article(s).
 
+- `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]
 - `2026-09-27` [[2026-09-27-google-tests-buying-from-flipkart-directly-through-gemini-an|Google tests buying from Flipkart directly through Gemini and AI Mode in India]]

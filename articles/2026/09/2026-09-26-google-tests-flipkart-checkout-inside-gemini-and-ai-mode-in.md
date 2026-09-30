@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
 url_canonical: https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061919_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 0af7427c044079265cf98a0ce6918a4c31b61115a27bc51566e4a7bc74de5348

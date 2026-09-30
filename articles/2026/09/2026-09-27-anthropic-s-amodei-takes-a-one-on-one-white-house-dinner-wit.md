@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: TechCrunch / CNBC / USA Today
 url_original: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
 url_canonical: https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: a2a432bb867c2d6a31b8cfe7d5f310264ca8c9dd28e66a4bc3331e21a68e7f75

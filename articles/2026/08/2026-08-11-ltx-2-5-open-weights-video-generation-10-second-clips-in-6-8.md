@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights
 url_canonical: https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_061032_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 3c41e9bccafc9dd982f5c36376522e5956a68b85efe1adfc0b368d9571e39fba

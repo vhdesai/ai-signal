@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Digital Journal
 url_original: https://www.digitaljournal.com/article/seoul-tokyo-lead-asian-plunge-as-tech-stocks-suffer-fresh-rout/
 url_canonical: https://www.digitaljournal.com/article/seoul-tokyo-lead-asian-plunge-as-tech-stocks-suffer-fresh-rout/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: ebb06a7bf303f648bc70fb54a6915004e89cc6977a7b35690821dc326619dfa6

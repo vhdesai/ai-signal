@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
 url_canonical: https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 6430379de5d1e775728601361ad4cc36e4166fa72fa3a7e1c59ae268e3106902

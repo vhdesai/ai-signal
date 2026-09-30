@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: PitchBook]
 url_original: https://pitchbook.com/news/articles/should-pe-partners-know-how-to-use-ai-2026-09
 url_canonical: https://pitchbook.com/news/articles/should-pe-partners-know-how-to-use-ai-2026-09
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 3baf6f0c62104b21bc5a8945e3e4511154369825bea99f74c3b87094fec30491

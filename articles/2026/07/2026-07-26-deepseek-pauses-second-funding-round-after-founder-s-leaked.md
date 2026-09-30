@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Next Web**
 url_original: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
 url_canonical: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_065030_Final-Daily-AI-News-Digest.md
 content_hash: d4e09b302542f546c5b0b2ae48c40897518bbf98f95aafbebb91737b7153b113
 normalized_title_hash: a21bb2a083990a07

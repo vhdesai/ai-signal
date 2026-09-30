@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
 url_canonical: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 83059b67b42782afba28fce54de2df0272ab440848c3a40adf5394e11b0b320b

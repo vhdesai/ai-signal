@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Decoder
 url_original: https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/
 url_canonical: https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 0cf125ec507dfe3b7dbccd809d9c139a46fd580df0dc19011fe975825ef36dec

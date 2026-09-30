@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Associated Press
 url_original: https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a
 url_canonical: https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 5f5422d7727953ca8ba765f1fe2e4a5d8229b6dbaab2d9864dfd13856c7d9117

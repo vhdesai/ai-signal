@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/space-eyes-and-mckinley-acquisition-corp-announce-definitive-business-combination-agreement-to-deliver-ai-driven-counter-drone-technology-and-geospatial-intelligence-worldwide-1036392052
 url_canonical: https://markets.businessinsider.com/news/stocks/space-eyes-and-mckinley-acquisition-corp-announce-definitive-business-combination-agreement-to-deliver-ai-driven-counter-drone-technology-and-geospatial-intelligence-worldwide-1036392052
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_062620_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 653a8e4f57da9a9392842cfbbc8ad5a2411e2d65473f6640978f0ebc5cf32f06

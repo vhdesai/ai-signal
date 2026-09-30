@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: International Business Times
 url_original: https://www.ibtimes.sg/amazon-blocks-metas-muse-shopping-ai-agents-challenge-retailer-control-94066
 url_canonical: https://www.ibtimes.sg/amazon-blocks-metas-muse-shopping-ai-agents-challenge-retailer-control-94066
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 7bce3d47bfcaa74b54b44ea451a6d03b9ce1bada74a2ae84275ed08c2e1b1d5a

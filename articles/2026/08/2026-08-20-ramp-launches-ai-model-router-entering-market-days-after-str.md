@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/
 url_canonical: https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 9eeb7646baaae585895166a7c93d555f3f642a0a97f36da1d8f88440c0352308

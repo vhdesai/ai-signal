@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: The Straits Times
 url_original: https://www.straitstimes.com/asia/east-asia/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks
 url_canonical: https://www.straitstimes.com/asia/east-asia/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 31335bba2c611ecbe499caf1bc07b63ea7ed94e2af299300086447d9d2c4711e

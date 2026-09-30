@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: OpenAI
 url_original: https://openai.com/index/gpt-live-1/
 url_canonical: https://openai.com/index/gpt-live-1/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 68708401c40640c196ec1639e8df1aad328722b03a73de80d3721dfb86d070bd

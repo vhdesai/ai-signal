@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter
+- 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
 - 2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise
-- 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 embedding_id: 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A new PitchBook analyst note argues that Stripe’s acquisition of OpenRouter �
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise]] · [[2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter]]
+**Related:** [[2026-08-19-stripe-to-acquire-ai-model-marketplace-openrouter]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion]] · [[2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise]]
 <!-- graph:end -->

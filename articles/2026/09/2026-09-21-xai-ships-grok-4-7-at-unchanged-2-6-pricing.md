@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/
 url_canonical: https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 32a12a1e5773775c8077bca098d26e282a8bdb35c2dd21e132af1ce91e40665b

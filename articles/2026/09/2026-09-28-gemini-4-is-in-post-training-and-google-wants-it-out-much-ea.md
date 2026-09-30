@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: The Next Web
 url_original: https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training
 url_canonical: https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: a36e7a530be5cd06fb6a2d4635f7a0b5eb847b343ffe1cb13aad3bc63d8a589c

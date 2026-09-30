@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: Gulf Today
 url_original: https://www.gulftoday.ae/news/2026/07/12/meta-discontinues-ai-image-generation-feature-within-three-days-of-launch
 url_canonical: https://www.gulftoday.ae/news/2026/07/12/meta-discontinues-ai-image-generation-feature-within-three-days-of-launch
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 7cc9b5c323f87a7368bbfcf92cd79977c281552cfdb298c8cd34f0da72b9f18c

@@ -5,7 +5,7 @@ date: '2026-08-02'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/02/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/
 url_canonical: https://www.marktechpost.com/2026/08/02/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: ed3bdea3921b9c9d5a94e5ed859c6c26bcc5456d93fa25959e4100156d5f0e5f

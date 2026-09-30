@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-09-26-daily-ai-news-digest-september-26-2026
 - 2026-09-21-daily-ai-news-digest-september-22-2026
-- 2026-09-25-saturday-september-26-2026
+- 2026-09-29-daily-ai-news-digest-september-30-2026
 embedding_id: 2026-09-25-daily-ai-news-digest-september-26-2026
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The last 24 hours split cleanly into two stories. On the commercial side, capita
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-24-daily-ai-news-digest-september-25-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-26-daily-ai-news-digest-september-26-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-25-saturday-september-26-2026]]
+**Related:** [[2026-09-24-daily-ai-news-digest-september-25-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-26-daily-ai-news-digest-september-26-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]] · [[2026-09-29-daily-ai-news-digest-september-30-2026]]
 <!-- graph:end -->

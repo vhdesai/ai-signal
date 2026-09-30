@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/
 url_canonical: https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 1b9936f7cc0dd23a2a5215d1f47cc2dfd541eb71dbc41c8f106399ec0f9de212

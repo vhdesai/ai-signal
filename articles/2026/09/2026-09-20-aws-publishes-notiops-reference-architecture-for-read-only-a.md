@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/notiops-read-only-agentic-aws-operations-assistant/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/notiops-read-only-agentic-aws-operations-assistant/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: ab6d21da81d85fd2603eca44ec8f23923b13adb19dc3276a5f267ebdbccd0ea1

@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: MIT News
 url_original: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921
 url_canonical: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ec222e4dc23742db0dea6b613cf5b94874e7967fce4fb09ae40e39f9601f787a

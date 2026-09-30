@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Engadget
 url_original: https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/
 url_canonical: https://www.engadget.com/2211810/waze-rolls-out-ai-features-motorcycle-less-chatty-modes/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 79771e33304378ee6ce87e91daa724689f1a822ccb2c0f5a3667f2e2ead8bfe8

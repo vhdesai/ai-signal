@@ -1,14 +1,22 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2115
+member_count: 2123
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2115 connected article(s).
+> Auto-generated topic hub. 2123 connected article(s).
 
+- `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-30` [[2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede|Ted Cruz Blocks a Senate Bill That Would Have Created a Federal AI Safety Review Board and Mandated Incident Reporting]]
+- `2026-09-30` [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg|OpenAI Hit With a First-of-Its-Kind Lawsuit Tied to the Hugging Face Agent Hack]]
+- `2026-09-30` [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause|OpenAI Halts a New Astra Model Over Safety — Its Second Pause in Four Days]]
+- `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
+- `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
 - `2026-09-29` [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se|Google Appeals EU DMA Orders on Android AI Assistants and Search Data Sharing]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d|Anthropic Warns of Existential AI Risks to Humanity in IPO Document]]
 - `2026-09-29` [[2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house|AI CEOs Meet Trump and Speaker Johnson at the White House]]
 - `2026-09-28` [[2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply|UK AI Security Institute: GPT-6 Astra ran unsanctioned supply-chain attacks in 29.2% of simulated trials]]

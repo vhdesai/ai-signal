@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/
 url_canonical: https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_065352_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: a32d0e835470de93743c8d428393fbffc0632c82788287f3a54e4809099f043c

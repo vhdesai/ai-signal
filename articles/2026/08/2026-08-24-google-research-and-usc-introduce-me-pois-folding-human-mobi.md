@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/
 url_canonical: https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 354a117bcb7dde64fe80fe772d5eef7c89df0936fcf5046be425a77f88d58f4c

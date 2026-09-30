@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: The Motley Fool**
 url_original: https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-super-micro-computer-surges-on-record-q4-orders-and-surprise-margin-beat/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-today-july-22-super-micro-computer-surges-on-record-q4-orders-and-surprise-margin-beat/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: c38e12f051175bca8a1bcdf83f2d5261eb86fd7bf01bcafa8e5b3bb88aff19a2
 normalized_title_hash: 0b58708040378d80

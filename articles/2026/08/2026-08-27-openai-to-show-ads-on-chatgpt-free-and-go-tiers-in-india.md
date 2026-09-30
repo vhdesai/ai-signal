@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
 url_canonical: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: c156de18142a03247e1dea892e99614507fd1f1c962aa44fa23fcc794997b353

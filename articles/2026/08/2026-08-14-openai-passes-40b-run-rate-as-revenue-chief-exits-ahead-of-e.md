@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: CNBC · Yahoo Finance
 url_original: https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html
 url_canonical: https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 8c521e21006d1933eac7d431e5fca3e13f08d23c75c7f70e7e18ba88ae9bb769
 normalized_title_hash: d416054df77f4f75

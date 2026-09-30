@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3367245/beijing-pushes-ai-assisted-chip-design-part-self-sufficiency-drive
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: d059a9acbcbf404ed5137897e4bd85213c5a650fcb9189342fa0b4ce97cd1143

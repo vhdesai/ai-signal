@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: Forkast News
 url_original: https://forkast.news/three-frontier-labs-are-building-a-finra-style-safety-body-history-suggests-it-wont-be-a-brake/
 url_canonical: https://forkast.news/three-frontier-labs-are-building-a-finra-style-safety-body-history-suggests-it-wont-be-a-brake/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: b46e3738298035d32f2aec45b87c810fc495a01496ce714eaa1354c1905b5253

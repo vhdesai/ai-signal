@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/
 url_canonical: https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 342c996e0eadcb28f6262964116bf6528ccd0d877120fc2b857c561e677e6a84

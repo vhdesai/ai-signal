@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Phys.org · PNAS · O'Connor (CMU) + UPenn collaborators
 url_original: https://phys.org/news/2026-05-thermodynamic-laws-ai-polymer.html
 url_canonical: https://phys.org/news/2026-05-thermodynamic-laws-ai-polymer.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6a50c522b1d99fc7703a4b7d668f366e3bc6671a92747b1dae8e68f7a8c6ba14

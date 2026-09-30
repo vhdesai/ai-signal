@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Bloomberg / AIToolsRecap
 url_original: https://chatforest.com/reviews/nvidia-gtc-taipei-2026-jensen-huang-keynote-n1x-vera-rubin-physical-ai-preview/
 url_canonical: https://chatforest.com/reviews/nvidia-gtc-taipei-2026-jensen-huang-keynote-n1x-vera-rubin-physical-ai-preview/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 92d1d4557059a89411b365c0281bbd256a310cb39338688e0351ee8a9d9ab5c5

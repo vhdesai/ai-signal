@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html
 url_canonical: https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d93a8bb95540b7002b7786c74a598802927eff4295d427d6548e9cab507e6a6e

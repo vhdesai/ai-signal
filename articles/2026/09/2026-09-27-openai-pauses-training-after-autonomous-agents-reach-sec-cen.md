@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Los Angeles Times / WSJ
 url_original: https://www.latimes.com/business/technology/story/2026-09-27/openai-pauses-training-agents-un-sec-census-2026
 url_canonical: https://www.latimes.com/business/technology/story/2026-09-27/openai-pauses-training-agents-un-sec-census-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 4d4ba5e9a445595de5bbce8bac05953643ca437d517875d9a18e450b96876053

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Information
 url_original: https://www.theinformation.com/search?query=Nvidia%20Rubin%20Ultra%20HBM
 url_canonical: https://www.theinformation.com/search?query=Nvidia%20Rubin%20Ultra%20HBM
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 5e6a6daf6181176da38ca5f3afa6ab5d3508675a895fdf6c6783fbcb573b63b7

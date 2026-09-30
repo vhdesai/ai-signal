@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch · Read article →
 url_original: https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
 url_canonical: https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: b29e30ec2da01c057d0ce64e8fa371eab8ae9a0e5254d8702ed8a2325e6baa9a

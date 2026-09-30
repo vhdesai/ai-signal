@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/politics/policy/politicians-who-once-championed-data-centers-are-now-bashing-them-c172d4cb
 url_canonical: https://www.wsj.com/politics/policy/politicians-who-once-championed-data-centers-are-now-bashing-them-c172d4cb
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_065253_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 4a3a100581ab7c7754dee2db8b1d0832a36265939554bd119aede10634c36eed

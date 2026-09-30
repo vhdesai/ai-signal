@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Eastern Herald
 url_original: https://easternherald.com/2026/09/21/meta-iris-ai-chip-production-nvidia-tsmc-broadcom/
 url_canonical: https://easternherald.com/2026/09/21/meta-iris-ai-chip-production-nvidia-tsmc-broadcom/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: bce22d514b641ce8c5e7363b19cecb303b8660f28d7f2c60d43230229add7897

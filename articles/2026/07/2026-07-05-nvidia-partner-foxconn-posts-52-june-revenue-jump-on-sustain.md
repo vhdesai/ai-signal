@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: d681ea4a45bfa4fd7b82974fd10e0ade50672c4605ad29ceabf3ae7e0a6e0e7f

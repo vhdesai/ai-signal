@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
 url_canonical: https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: bd98317624cc2d9be67a81f002af97944282b7f75cdb432b6d3f3226715ffb4e

@@ -5,7 +5,7 @@ date: '2026-06-13'
 source: The Information; WSJ
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=amazon+jassy+anthropic+crackdown
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=amazon+jassy+anthropic+crackdown
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: 53b97374fae8d92af2769e3c6a724f070be6431b39a8d35f1a06f75aa688a901
 normalized_title_hash: 5bbd7037782b53b6

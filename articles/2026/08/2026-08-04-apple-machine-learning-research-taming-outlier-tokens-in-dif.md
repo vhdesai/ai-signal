@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/taming-outlier-tokens
 url_canonical: https://machinelearning.apple.com/research/taming-outlier-tokens
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 720e9e8b110254969417f858123578c4964388de206f230226bd63a0de84a73d

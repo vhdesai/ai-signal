@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/cards/xpost-01m3ag5kmzg00xn4jfv1faqsxa
 url_canonical: https://247wallst.com/cards/xpost-01m3ag5kmzg00xn4jfv1faqsxa
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 13db02916f18353b1ed02218374fa743c4b7e94c16f14cbc13af6b601eeee1e9

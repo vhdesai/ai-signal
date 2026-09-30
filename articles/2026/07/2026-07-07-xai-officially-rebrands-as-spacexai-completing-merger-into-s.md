@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: Engadget
 url_original: https://www.engadget.com/2209300/xai-now-officially-spacexai/
 url_canonical: https://www.engadget.com/2209300/xai-now-officially-spacexai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: c5965f70feba66ec1485f2638cb38f50a0833fa04369a162cbe850a04214da6f

@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Carnegie Mellon University / UC Berkeley CDSS
 url_original: https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-reaches-historic-high-at-no-14-in-us-news-rankings-takes-no-1-spot-for
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-reaches-historic-high-at-no-14-in-us-news-rankings-takes-no-1-spot-for
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: f692364b1499c82803e2979184ed7e5e4d31a12392d1e2823dee29ba721203e4

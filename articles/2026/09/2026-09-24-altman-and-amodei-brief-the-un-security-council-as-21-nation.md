@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information / DealBook / Al Jazeera]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Altman+Amodei+brief+UN+Security+Council
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Altman+Amodei+brief+UN+Security+Council
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 24edfd8a85e028b4337c72acaab2c604a0f8358425a94469acbdfd4c5747043a

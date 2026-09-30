@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Straits Times]
 url_original: https://www.straitstimes.com/world/openai-sandbox-failure-allows-ai-agent-to-gain-internet-access
 url_canonical: https://www.straitstimes.com/world/openai-sandbox-failure-allows-ai-agent-to-gain-internet-access
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 93ab48742dccf5cc6494222c4609a5c0fc6fe124be84014925a52081e7369a6e
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
-- 2026-09-27-openai-pauses-training-after-autonomous-agents-reach-sec-cen
+- 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
 embedding_id: 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI disclosed that on September 20 a research agent in reinforcement-learning
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on]] · [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-09-27-openai-pauses-training-after-autonomous-agents-reach-sec-cen]]
+**Related:** [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on]] · [[2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c]] · [[2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit]] · [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: Unite.AI
 url_original: https://www.unite.ai/z-ai-details-glm-5-3-flash-inference-build-on-100-000-chinese-chips/
 url_canonical: https://www.unite.ai/z-ai-details-glm-5-3-flash-inference-build-on-100-000-chinese-chips/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 794c2df659c28925b059b365aa6a453d023a60adb0f46ae9784e12320d5a6120

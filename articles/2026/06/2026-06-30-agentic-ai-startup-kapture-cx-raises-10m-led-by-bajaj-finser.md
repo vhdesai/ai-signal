@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: YourStory
 url_original: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
 url_canonical: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 12a1e96c21e2d962935c3b2f023c2639d7837b973d16abbea671645ad3d83c89

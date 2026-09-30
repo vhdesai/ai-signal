@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368774/xi-trump-dinner-puts-us-tech-titans-spotlight-what-does-it-mean-china-ties
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 45b8ecb1fc794f539bb46f69ea0df79e8bf2e0909f1c8ce59df1b38fa0944803

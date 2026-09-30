@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Anthropic
 url_original: https://claude.com/blog/auto-mode-default-in-claude-code
 url_canonical: https://claude.com/blog/auto-mode-default-in-claude-code
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 87a960345618af7867648c2d634da61ae983d53e39370f3a6b7b909da2108ff8

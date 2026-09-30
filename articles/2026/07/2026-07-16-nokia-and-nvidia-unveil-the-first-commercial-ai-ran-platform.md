@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Next Web**
 url_original: https://thenextweb.com/news/nokia-nvidia-ai-ran-platform-2027
 url_canonical: https://thenextweb.com/news/nokia-nvidia-ai-ran-platform-2027
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: 21193419fa55ef65a6b3777b664b1a02198942e6b977e1dacec6dc1d453af79a
 normalized_title_hash: f79cf3374239f790

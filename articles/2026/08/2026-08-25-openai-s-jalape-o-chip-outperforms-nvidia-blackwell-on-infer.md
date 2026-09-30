@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/
 url_canonical: https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061014_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: ff6e2873e7895aba64602c4470ff5ed8838dcae164f3ac280ae22edfcb09a969

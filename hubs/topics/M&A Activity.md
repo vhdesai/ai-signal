@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 497
+member_count: 499
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 497 connected article(s).
+> Auto-generated topic hub. 499 connected article(s).
 
+- `2026-09-30` [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul|PitchBook: Software Dealmaking Goes Underground — AI-Native Multiples 10–15× ARR vs 3–6× for Non-AI SaaS]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]
 - `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al|AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in all-stock deal]]
 - `2026-09-28` [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion|AMD to Acquire Fei-Fei Li’s World Labs for $8.2 Billion]]

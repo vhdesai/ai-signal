@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
 url_canonical: https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 5c39a80f175abfd1614412ccf69e41070ac35c32413c85c7391db27aed1420b9

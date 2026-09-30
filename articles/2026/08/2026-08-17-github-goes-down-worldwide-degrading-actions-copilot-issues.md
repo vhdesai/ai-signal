@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: BleepingComputer
 url_original: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/
 url_canonical: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 421a40481cddcfe4ca39c50f12c14f8f8e6cbbf9e2a31c821f880674e3646f95
 normalized_title_hash: b0eff9b6d3ebfa39

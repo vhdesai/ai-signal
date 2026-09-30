@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-expands-cloud-ai-platform-to-indonesia-marking-first-move-into-asia-pacific-region/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 68b8b99c67bd55180e93585c7111525e688c2960155e544b8a1132da6b7f7256

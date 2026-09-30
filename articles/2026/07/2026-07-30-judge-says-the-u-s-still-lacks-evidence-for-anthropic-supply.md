@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/
 url_canonical: https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 6481bad2a4cdbb5ad8321ad24f0a5e2e10296f0ae6237c9d7880b8faa8f830c1

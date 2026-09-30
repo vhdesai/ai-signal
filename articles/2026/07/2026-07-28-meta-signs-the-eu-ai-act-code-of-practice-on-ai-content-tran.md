@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Meta Newsroom
 url_original: https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content/
 url_canonical: https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 53056e7836cdaf5dddbbb395cfc30883fa79a82d1cab9240df267fb4e9ceddb0

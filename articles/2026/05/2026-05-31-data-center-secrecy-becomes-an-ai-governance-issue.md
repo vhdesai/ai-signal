@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
 url_canonical: https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 9e3b04eed94304495f570ad28d461b35e6920ad199d57b0fb1f9422c0aaf0cc8

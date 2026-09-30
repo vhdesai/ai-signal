@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: OfficeChai
 url_original: https://officechai.com/ai/25-fields-medal-winners-including-terence-tao-sign-declaration-saying-rapid-ai-proofs-are-harming-math-in-severe-misalignment/
 url_canonical: https://officechai.com/ai/25-fields-medal-winners-including-terence-tao-sign-declaration-saying-rapid-ai-proofs-are-harming-math-in-severe-misalignment/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061723_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 64dc39ed43fb3b1a9255b7da4cd0a6e37a7dd43d73d83758b16005159362691e

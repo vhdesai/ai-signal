@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/nscale-bytedance-ipo-filing/
 url_canonical: https://cryptobriefing.com/nscale-bytedance-ipo-filing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d8aaf0a2ae70a09ebaec8d64b7f68ee9ebe46f67a46a64b4a26581c36a758a52

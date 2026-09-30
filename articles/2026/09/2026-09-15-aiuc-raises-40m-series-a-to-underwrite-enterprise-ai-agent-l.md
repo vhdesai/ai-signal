@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
 url_canonical: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: b6d7ea35e772bacbe0ac11e60d4e6c7aa2e80be85592a4de14b1dc0d8dfe688e
 normalized_title_hash: d2b866702976590f

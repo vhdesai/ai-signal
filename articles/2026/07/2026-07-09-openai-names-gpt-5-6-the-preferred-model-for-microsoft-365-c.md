@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
 url_canonical: https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 272c4ade6e7c2efa82f7ea68d1d6c61137092c97443b7f2ba9722a346490097d

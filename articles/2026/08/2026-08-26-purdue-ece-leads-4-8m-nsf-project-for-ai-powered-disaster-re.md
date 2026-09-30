@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Purdue Engineering · Purdue · Auburn · Nokia Bell Labs · Saab
 url_original: https://engineering.purdue.edu/ECE/News/2026/purdue-ece-leads-nsf-project-to-bring-ai-powered-networks-to-disaster-response
 url_canonical: https://engineering.purdue.edu/ECE/News/2026/purdue-ece-leads-nsf-project-to-bring-ai-powered-networks-to-disaster-response
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: bf256ed8a7a0bd9d5a5e60a92de9718e2d9c9cdade6e55f816d6d0a433b016d4

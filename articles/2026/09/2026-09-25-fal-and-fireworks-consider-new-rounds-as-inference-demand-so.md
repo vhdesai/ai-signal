@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Fireworks+Fal+inference+funding+valuation
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Fireworks+Fal+inference+funding+valuation
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: aa39fb313629831e14e39632e178f12fb35301381175808285bb237173ec153c

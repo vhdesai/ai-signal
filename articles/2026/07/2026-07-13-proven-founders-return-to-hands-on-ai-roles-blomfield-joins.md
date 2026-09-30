@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
 url_canonical: https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 02cee086623348f963a1898b4cd6ac4a44d583d5ec269b7597f83ee06b6a1f71

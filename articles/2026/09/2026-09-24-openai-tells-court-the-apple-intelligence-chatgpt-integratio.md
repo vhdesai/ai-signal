@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: AppleInsider / MacDailyNews
 url_original: https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai
 url_canonical: https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 63463ea8d92fe1e1dfd18395e1d68fe5ee331460a1402d6952c0128945f2e896

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20revenue
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: c9524440bdac84476b99d42921735e65dc37bbf5ec4cc246e2ac91dc59a724af

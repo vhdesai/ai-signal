@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: Wired
 url_original: https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
 url_canonical: https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-12_070109_Final-Daily-AI-News-Digest.md
 content_hash: 3f30929325e79137141d5e798d499975746baef16fc5a4efe73b01514a3a1e28
 normalized_title_hash: 0b5de3ca84e1751f

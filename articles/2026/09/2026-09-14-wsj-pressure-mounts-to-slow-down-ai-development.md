@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: The Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/pressure-mounts-to-slow-down-ai-development
 url_canonical: https://www.wsj.com/tech/ai/pressure-mounts-to-slow-down-ai-development
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 4bbc1af60e5f788753e55352467d0a9acc8a412e7c0c96b4e0f9fae3e128331e
 normalized_title_hash: d3d3b5618921a409

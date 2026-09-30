@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
 url_canonical: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 88f542ef9e917e5cb1b97232fa727718d063356117e3a84cd744183e4dc03227

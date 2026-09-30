@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: Carnegie Mellon University
 url_original: https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-build-missing-infrastructure-to-move-ai-between-robots
 url_canonical: https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-build-missing-infrastructure-to-move-ai-between-robots
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 15353ffd210531ca5a8074114dcc0edfc7c3c16924d41bf2406c24f798528b47

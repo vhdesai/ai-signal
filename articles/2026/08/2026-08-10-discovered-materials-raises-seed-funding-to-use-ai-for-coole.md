@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
 url_canonical: https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: fc9fa93f81a30910468bd7d9ed76e336fffc6b7126d6bcd017b16218bd7e0e5a

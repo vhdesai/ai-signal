@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Yahoo Finance
 url_original: https://uk.finance.yahoo.com/news/amazon-microsoft-spending-400-billion-070200962.html
 url_canonical: https://uk.finance.yahoo.com/news/amazon-microsoft-spending-400-billion-070200962.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 2ceddfff3f64363200423f3f976fc0437075374fad2dc542a477eaf5a16ad519

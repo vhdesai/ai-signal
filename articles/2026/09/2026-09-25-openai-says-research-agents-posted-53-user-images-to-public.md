@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: TechCrunch]
 url_original: https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
 url_canonical: https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 1130d6f57bc087a2485c210354ccc0cf507aa6efdd1b89b9b0941cbd0f8e3832

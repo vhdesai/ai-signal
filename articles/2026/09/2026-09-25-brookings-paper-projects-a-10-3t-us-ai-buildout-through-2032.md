@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Brookings Institution
 url_original: https://www.brookings.edu/articles/financing-the-ai-buildout/
 url_canonical: https://www.brookings.edu/articles/financing-the-ai-buildout/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061738_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 72485dbf0dcc5f5f83759259a21a41ea2f42919d9dacb80f4e759abe30d2653f

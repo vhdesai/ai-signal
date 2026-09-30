@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/
 url_canonical: https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 91ef10c641b2aea4a8824d76139bd78cc21acc92413322a5ee002554632641b0

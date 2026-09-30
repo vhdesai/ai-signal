@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
 url_canonical: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: b3f7e557dcd4e4bb33f78032b9ef177cb44cc7bcdd8721671095ea4a434a8f76
 normalized_title_hash: 5e3c92fc4bbfc807

@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Information
 url_original: https://www.theinformation.com/articles/why-shortsellers-are-timid-on-ai
 url_canonical: https://www.theinformation.com/articles/why-shortsellers-are-timid-on-ai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 1d541dab43db092d418c74f51c64c962cb711cf5266ee03aea1ec6c49877394d

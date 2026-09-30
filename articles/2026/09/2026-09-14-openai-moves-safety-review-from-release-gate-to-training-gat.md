@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: explainx.ai
 url_original: https://www.explainx.ai/blog/sam-altman-safety-cases-openai-frontier-pacing-september-2026
 url_canonical: https://www.explainx.ai/blog/sam-altman-safety-cases-openai-frontier-pacing-september-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 77eb59846695f01d634a0932c0b445136af5d56da4c0837155c2b08198c39d0b

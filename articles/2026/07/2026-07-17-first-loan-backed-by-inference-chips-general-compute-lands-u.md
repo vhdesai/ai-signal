@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
 url_canonical: https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: f0f8113d16fe4ab7906ab0b7e0b489a83514dbbf68dc000e8f7caf81c455698b
 normalized_title_hash: a4a8654e33c16da3

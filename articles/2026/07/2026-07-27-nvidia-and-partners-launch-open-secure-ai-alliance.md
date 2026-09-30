@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/open-secure-ai-alliance/
 url_canonical: https://blogs.nvidia.com/blog/open-secure-ai-alliance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 70f1037d749e84c397f531f879c60bece682f1a3b554796f6ebd59ceeedaf1ce

@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: Yahoo News
 url_original: https://ca.news.yahoo.com/alibaba-unveils-qwen3-8-max-140932688.html
 url_canonical: https://ca.news.yahoo.com/alibaba-unveils-qwen3-8-max-140932688.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 795c957a655122373bd745a164c11b0b1fc95b9f55cbdcc713dbcabfbee264ca

@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.yahoo.com/news/politics/articles/us-wants-ai-era-red-054127792.html
 url_canonical: https://www.yahoo.com/news/politics/articles/us-wants-ai-era-red-054127792.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 75ce9b9dc9fa7fe2da3316ca0d8ab907e0b500c057b66a7ea3d767c25f4b3641

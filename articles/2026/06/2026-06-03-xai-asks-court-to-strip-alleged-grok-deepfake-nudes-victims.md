@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Wired
 url_original: https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/
 url_canonical: https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 943a80daf4f1927d6baf088920ba0c7ec17fc19b675cbf36726dca0ca54b1381
 normalized_title_hash: 5972ff9ab215a1c9

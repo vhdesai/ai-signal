@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: Meta Newsroom
 url_original: https://about.fb.com/news/2026/09/introducing-muse-small-business/
 url_canonical: https://about.fb.com/news/2026/09/introducing-muse-small-business/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 90c7186f8ae436226ad47a076c4b3eda07dc15863cc572b65d55cbe5c46c925d

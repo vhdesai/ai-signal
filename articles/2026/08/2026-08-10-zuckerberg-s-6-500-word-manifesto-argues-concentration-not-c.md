@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: '[CBS News]'
 url_original: https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/
 url_canonical: https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: e711cf09090cbea6d43166f0c2cc3b9cc4d031f0ccbe3f92213c3515757a83b0

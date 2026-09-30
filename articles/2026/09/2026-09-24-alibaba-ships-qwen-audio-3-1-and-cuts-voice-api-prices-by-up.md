@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: AlphaSignal
 url_original: https://alphasignal.ai/news/alibaba-s-qwen-audio-3-1-slashes-voice-api-prices-by-up-to-95
 url_canonical: https://alphasignal.ai/news/alibaba-s-qwen-audio-3-1-slashes-voice-api-prices-by-up-to-95
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061738_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: dadb72de2aff9e745e082d9904667a06e457ca4d43ab06b713c3d00bee3aa021

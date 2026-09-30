@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/
 url_canonical: https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: c871e072e64d09a0a014df48dfd2448a51687f72f280447f97edb14c2dd19456

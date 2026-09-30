@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
 url_canonical: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: dd69ec75dea5c3d864d7b98c3317433495e86e87bb9271ca1ec11714491e9a7f

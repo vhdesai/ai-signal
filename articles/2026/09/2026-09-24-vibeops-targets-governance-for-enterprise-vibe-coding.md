@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/vibeops-tackles-the-governance-challenge-of-enterprise-vibe-coding
 url_canonical: https://venturebeat.com/orchestration/vibeops-tackles-the-governance-challenge-of-enterprise-vibe-coding
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 10c9a7c8976e8faf0ed8c2f72d06a2b982755e9cc42c286467f633483cc0bfe5

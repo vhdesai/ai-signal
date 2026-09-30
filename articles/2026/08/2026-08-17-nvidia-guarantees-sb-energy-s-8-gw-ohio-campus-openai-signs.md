@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: NVIDIA Newsroom · OpenAI
 url_original: https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 09d4ed9b3b570a9b5d2819e48656a63f799752c6b7b4bebfd0ef60d4edd6020e
 normalized_title_hash: 3d49c1451c031f91

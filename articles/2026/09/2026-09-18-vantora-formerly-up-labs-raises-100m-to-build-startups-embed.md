@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
 url_canonical: https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6e71867efcb72e66e86dba0aad6b039874258efb05a2cdeb21b9bddaff9633ca

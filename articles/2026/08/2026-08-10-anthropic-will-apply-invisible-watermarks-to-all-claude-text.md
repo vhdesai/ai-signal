@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Business Standard]'
 url_original: https://www.business-standard.com/technology/tech-news/claude-invisible-watermark-ai-generated-text-how-it-works-126081100381_1.html
 url_canonical: https://www.business-standard.com/technology/tech-news/claude-invisible-watermark-ai-generated-text-how-it-works-126081100381_1.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: a40f4063720a7b6c6db3fb93d6267f2efa0600289de5db1daf99e30acd32e53c

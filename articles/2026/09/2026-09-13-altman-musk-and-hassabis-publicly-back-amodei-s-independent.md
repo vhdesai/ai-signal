@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Decoder
 url_original: https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/
 url_canonical: https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 58608c3537340ea633b08825704d6ddac5e55ed622c6fe8577938451a5adebe7

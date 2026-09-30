@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/08/09/3-artificial-intelligence-ai-stocks-to-load-up-on/
 url_canonical: https://www.fool.com/investing/2026/08/09/3-artificial-intelligence-ai-stocks-to-load-up-on/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 1f9971cb64586348dd1836a3f2209deda37a06632ed9a619615ec7e4ca12bfd0

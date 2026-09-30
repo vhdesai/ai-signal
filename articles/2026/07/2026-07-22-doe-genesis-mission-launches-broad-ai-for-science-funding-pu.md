@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: MIT News · Stanford Report · Princeton · Cornell · UT Austin · Google
 url_original: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
 url_canonical: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: b7c0517804e7c93eb5b772a4d2160e0bde3467867b905fdb58cb187b1be891a6
 normalized_title_hash: 8a756ceafe0e1bdb

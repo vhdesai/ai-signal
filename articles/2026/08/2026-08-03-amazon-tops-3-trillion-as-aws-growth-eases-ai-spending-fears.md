@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/
 url_canonical: https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 32e5fde89356cb503109459717b5626295b3123f25a1228df8c128c79a806d82

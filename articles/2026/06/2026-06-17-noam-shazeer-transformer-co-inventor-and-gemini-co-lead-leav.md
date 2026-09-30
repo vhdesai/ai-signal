@@ -6,7 +6,7 @@ date: '2026-06-17'
 source: Reuters / CNBC
 url_original: https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html
 url_canonical: https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 6a7e45162befe9940ec234b002d45997046726908d15d29dd1560ebe39efdf2e
 normalized_title_hash: 234ddd2e9ab28148

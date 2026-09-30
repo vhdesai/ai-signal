@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: e300ad81083b891fd979efb662c7ed5c02e3ddae181f4d31e44a4a07c613e8e2

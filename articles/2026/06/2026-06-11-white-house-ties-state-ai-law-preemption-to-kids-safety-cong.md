@@ -6,7 +6,7 @@ date: '2026-06-11'
 source: Politico; Axios
 url_original: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
 url_canonical: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 19152e98990eaba2acdbb8b52f429db8b3cf2b2ec550228f5934d067833e6843
 normalized_title_hash: 593f65ca9473d05f

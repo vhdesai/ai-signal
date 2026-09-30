@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_061248_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: b935c50d11140c001a14504718d2a3460cbbcd70cc31ffc40d9a271f9fa2a405

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Digital Applied
 url_original: https://www.digitalapplied.com/blog/claude-code-weekly-limit-reduction-september-14
 url_canonical: https://www.digitalapplied.com/blog/claude-code-weekly-limit-reduction-september-14
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 091b47ad9d7923ddc0d95b0c572ac57629e39d9b591d49ca907f10ae5889caa9

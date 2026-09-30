@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html
 url_canonical: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 20b5aee99e1e0095b788046923ab38ef487d917f174577d46541040a03024ae6

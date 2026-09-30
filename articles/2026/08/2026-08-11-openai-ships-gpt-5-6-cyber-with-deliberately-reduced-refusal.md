@@ -6,7 +6,7 @@ date: '2026-08-11'
 source: The Hacker News · VentureBeat
 url_original: https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html
 url_canonical: https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_065059_Final-Daily-AI-News-Digest.md
 content_hash: 2a82e9d54dc4517dfd00461dc89e47c640fab68634377bc141f0eacaa2909424
 normalized_title_hash: 25be51546319a5b8

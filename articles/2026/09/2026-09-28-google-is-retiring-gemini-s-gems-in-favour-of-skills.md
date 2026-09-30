@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/
 url_canonical: https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 02e0ea79bf1a67d8f911529e699e56481a41a13791bd72524725ef50693b929f

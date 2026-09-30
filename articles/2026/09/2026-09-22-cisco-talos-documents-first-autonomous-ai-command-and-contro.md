@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Register
 url_original: https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435
 url_canonical: https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: dec2fd42854505e7428289c06742055c884b09c546a550e1b5c1b57f0b1727b3

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: Nvidia Newsroom / CNBC
 url_original: https://www.cnbc.com/2026/09/28/nvidia-releases.html
 url_canonical: https://www.cnbc.com/2026/09/28/nvidia-releases.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 6f813435fa44eca24f1d864d7fb901a96c7e641b939451bc4bb0b37b881693ad

@@ -5,7 +5,7 @@ date: '2026-09-16'
 source: The Information
 url_original: https://www.theinformation.com/articles/two-google-deepmind-ai-researchers-resign-over-safety
 url_canonical: https://www.theinformation.com/articles/two-google-deepmind-ai-researchers-resign-over-safety
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 479d01f308c518a2c244aa86e724babfcc81800531898c2882a9cb9746dd5d99
 normalized_title_hash: 1ac06ccb9d659d3c

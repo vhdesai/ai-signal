@@ -6,7 +6,7 @@ source: arXiv (covered by TechTimes) · Princeton, Stanford, Georgetown CSET, Jo
   Hopkins, UK AISI
 url_original: https://arxiv.org/abs/2607.27191
 url_canonical: https://arxiv.org/abs/2607.27191
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: e3ddac28e8a4943f93a844b1702f2429ab9e564c3a46b521fc4823ace6f431f1

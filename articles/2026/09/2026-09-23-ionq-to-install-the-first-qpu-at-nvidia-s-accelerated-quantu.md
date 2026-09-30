@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: IonQ Investor Relations
 url_original: https://www.ionq.com/news/ionq-to-advance-quantum-supercomputing-by-bringing-first-qpu-to-nvidia-accelerated-quantum-research-center
 url_canonical: https://www.ionq.com/news/ionq-to-advance-quantum-supercomputing-by-bringing-first-qpu-to-nvidia-accelerated-quantum-research-center
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d0afcf0fd9e02249f393fdd5ed085655f72a187df5ebf6e9ef1ef657eab91a2c

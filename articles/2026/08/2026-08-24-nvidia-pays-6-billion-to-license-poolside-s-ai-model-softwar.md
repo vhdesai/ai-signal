@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-pays-6-billion-license-115520933.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-pays-6-billion-license-115520933.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 5f05be739c7c12ffacac928bdbb330d574bd7b342eceb1c346a9090855cc0e7b

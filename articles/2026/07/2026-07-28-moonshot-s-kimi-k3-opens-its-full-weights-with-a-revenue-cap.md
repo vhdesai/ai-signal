@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know
 url_canonical: https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 32bdee150cc5478b60e566cdd0a555ade5932129f895486f9b27c3fc6c1517c8

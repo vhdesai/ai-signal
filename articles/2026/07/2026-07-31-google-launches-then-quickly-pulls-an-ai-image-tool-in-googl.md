@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Engadget / The Next Web
 url_original: https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/
 url_canonical: https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 84aa06a6cc574af492a797956a6882fa0b5b83b2b463a67bd1da1130b0abc504

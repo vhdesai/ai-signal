@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 2acc957442353a91ea633795cb67d9c333a18e05dd8059a9d4529930e8a1f08b

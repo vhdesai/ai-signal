@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: TechBooky
 url_original: https://www.techbooky.com/fields-medalists-warn-ai-labs-hurting-real-mathematics/
 url_canonical: https://www.techbooky.com/fields-medalists-warn-ai-labs-hurting-real-mathematics/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 03ee85f67d7779508ad1479730448844999c26c813c85c628888473264e7d5de

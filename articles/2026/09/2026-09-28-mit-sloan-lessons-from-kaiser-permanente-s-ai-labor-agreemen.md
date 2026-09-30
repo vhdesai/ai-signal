@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: MIT Sloan
 url_original: https://mitsloan.mit.edu/ideas-made-to-matter/topics/artificial-intelligence
 url_canonical: https://mitsloan.mit.edu/ideas-made-to-matter/topics/artificial-intelligence
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: d04090d364dbd8eaf68be559105cc7d86a0026991fb16dec8deea69ea1434792

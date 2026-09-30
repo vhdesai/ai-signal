@@ -6,7 +6,7 @@ date: '2026-07-10'
 source: Machine Learning Mastery
 url_original: https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/
 url_canonical: https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 0c86f3da3ef0b8cf34325d5cfe30bc4c4b017dbee3a84994cc21cdb5c41c94d6

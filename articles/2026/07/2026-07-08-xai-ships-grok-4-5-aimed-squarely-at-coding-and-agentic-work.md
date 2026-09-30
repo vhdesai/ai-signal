@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-08/spacexai-launches-grok-4-5-model-for-coding-agentic-tasks
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 70e469c1e3277b4d71fc752d1ee457d19c045f90c1295c0a4dded566a0fe6f88

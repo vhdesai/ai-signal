@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Axios
 url_original: https://www.axios.com/2026/09/13/ai-labs-regulation-safety
 url_canonical: https://www.axios.com/2026/09/13/ai-labs-regulation-safety
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_060544_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 95f86000efc1db204d45a408a5d4fba70fea06917baf8eb2fac39210eaaaed4e

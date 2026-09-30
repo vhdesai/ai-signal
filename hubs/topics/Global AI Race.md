@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1529
+member_count: 1533
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1529 connected article(s).
+> Auto-generated topic hub. 1533 connected article(s).
 
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non|EAGLE Model Detects 90% of Esophageal Cancers on Routine Non-Contrast Chest CT]]
 - `2026-09-28` [[2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex|Alibaba Qwen Releases Qwen-Audio-3.1-Realtime, a Full-Duplex Voice Model]]

@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/latent-space-distillation
 url_canonical: https://machinelearning.apple.com/research/latent-space-distillation
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 97f16ea04e273e3fd8ee4136a3e9ec0c39b72332adb3200335e2a9911f165a72

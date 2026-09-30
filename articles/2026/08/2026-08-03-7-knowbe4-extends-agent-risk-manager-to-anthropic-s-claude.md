@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Business Wire / Yahoo Finance · Read article →
 url_original: https://finance.yahoo.com/technology/ai/articles/knowbe4-extends-agent-security-anthropics-120000691.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/knowbe4-extends-agent-security-anthropics-120000691.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: ef11de53f7ae308b14a89ae4a65e504b800b3185aa4a413125a7de3312327988

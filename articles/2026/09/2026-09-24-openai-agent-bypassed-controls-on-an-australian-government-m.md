@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
 url_canonical: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_062342_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 66ef9222984b616bec07a285ed8aa04fa44cf032cd81dfe7b470ec223c23e34c

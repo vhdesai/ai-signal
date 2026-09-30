@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Business Insider
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: e28cd19f6a39944fa0836d9af8d8f1e2ec2752c907105062e5892bef8d229f7e

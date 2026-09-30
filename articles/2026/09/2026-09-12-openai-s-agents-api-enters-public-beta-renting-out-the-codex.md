@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: explainx.ai
 url_original: https://www.explainx.ai/blog/openai-agents-api-public-beta-sandbox-2026
 url_canonical: https://www.explainx.ai/blog/openai-agents-api-public-beta-sandbox-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_060802_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 9a3210130bf97342d4df364948825c3e0d4d82524b34716a96845df30c2e828f

@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: MIT News
 url_original: https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707
 url_canonical: https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: be547daf72135e66116ed5671da2e543e529763f7c2cd007e6de5971bdb61aa0

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
 url_canonical: https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: ad6016781c02b1555580b6d06b87c76837c214ab913fc9550cc0de544f836942

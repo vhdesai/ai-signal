@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/ai-security-chiefs-scared-stiff-cybersecurity-budgets-2026
 url_canonical: https://pitchbook.com/news/articles/ai-security-chiefs-scared-stiff-cybersecurity-budgets-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6413a717b2e3ae8318f59d9799ff008039de46baaa4e53bf228436169a772c77

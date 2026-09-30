@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: MIT News
 url_original: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
 url_canonical: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: b33ca2dd5d33892260bca5d68e31e1e66087ed7abf1c2e54fbf6e769442073a0

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TestingCatalog AI News**
 url_original: https://www.testingcatalog.com/anthropic-claude-money-personal-finance/
 url_canonical: https://www.testingcatalog.com/anthropic-claude-money-personal-finance/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: dddaca85b83bcc2d9fb87039336dbd48204e8c5aa2ddacb68f2161d1e90f30fb
 normalized_title_hash: 86b1d8beb921e526

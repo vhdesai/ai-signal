@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Business Insider / TechRepublic**
 url_original: https://www.businessinsider.com/anthropic-picks-nasdaq-for-ipo-2026-9
 url_canonical: https://www.businessinsider.com/anthropic-picks-nasdaq-for-ipo-2026-9
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: a53c9339530e110a1a2a0eb53994fb326ee013b253b756eb089bc0b3388759c1
 normalized_title_hash: 32092377663c0bd9

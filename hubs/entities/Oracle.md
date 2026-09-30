@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 272
+member_count: 274
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 272 connected article(s).
+> Auto-generated entity hub. 274 connected article(s).
 
+- `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age|Nvidia launches an open agent-safety platform to stop AI agents going rogue]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]

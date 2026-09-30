@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/
 url_canonical: https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: cb1d08b3d1855225bb32467ad0d7b30525d07b4f7809effa860730da5cafd7a9
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 - 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
 - 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
-- 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
-- 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
+- 2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al
+- 2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion
 embedding_id: 2026-09-18-world-model-startups-stay-secretive-about-commercialization
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reporting from the All In conference found that leading world-model labs — Yan
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-world-model-companies-remain-secretive-about-paths-to-market]] · [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets]] · [[2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter]] · [[2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz]]
+**Related:** [[2026-09-18-world-model-companies-remain-secretive-about-paths-to-market]] · [[2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo]] · [[2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets]] · [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion-in-al]] · [[2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion]]
 <!-- graph:end -->

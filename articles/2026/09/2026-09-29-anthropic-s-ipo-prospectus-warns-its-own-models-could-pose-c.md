@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html
 url_canonical: https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_062410_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: f06696bc266785cd9bed595cfe275494540ed2e03a16f92369167bd957be40b8

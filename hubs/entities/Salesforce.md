@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 93
+member_count: 94
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 93 connected article(s).
+> Auto-generated entity hub. 94 connected article(s).
 
+- `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
 - `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag|Nvidia Moves Agent Enforcement Into Silicon With the Open Agent Safety Platform]]

@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
 url_canonical: https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 230e18a25a50c58ae4fb755c0969f7a981434782afef59ef675e96687db1986d

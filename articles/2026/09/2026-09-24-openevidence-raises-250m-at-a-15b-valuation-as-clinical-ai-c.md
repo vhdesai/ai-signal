@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Business Insider]
 url_original: https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9
 url_canonical: https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 26e6909e665d58bafe4be00047b915e90c62159e99e905a5b58629895ca8524c

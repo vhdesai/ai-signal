@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/
 url_canonical: https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061956_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: ff376cc421da3478047c83b3f084c256db52e97edec470d6c1915c09b01438bf

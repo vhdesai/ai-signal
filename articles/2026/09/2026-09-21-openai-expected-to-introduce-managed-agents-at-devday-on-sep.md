@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/09/21/openai-plans-to-introduce-managed-agents-at-devday-2026/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/09/21/openai-plans-to-introduce-managed-agents-at-devday-2026/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 29e039b3395944ddf47d782968fd87951ce2bd4c5b506faa4c5e5465f95f74e4
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu
 - 2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
-- 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
+- 2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5
 embedding_id: 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's annual developer conference lands September 29 at Fort Mason in San Fra
 
 **Entities:** [[OpenAI]] · [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny]] · [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu]] · [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]]
+**Related:** [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny]] · [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu]] · [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/ai-shifts-mainframe-modernization-strategy/825677/
 url_canonical: https://www.ciodive.com/news/ai-shifts-mainframe-modernization-strategy/825677/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_065704_Final-Daily-AI-News-Digest.md
 content_hash: 744281d5febfe26d627a9bbe49145831ee8573420bb3f207bc61f9d572398662
 normalized_title_hash: 3880dcd20e73af02

@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/
 url_canonical: https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: e948ce22a319efecfd11d5a40b7c8a675b435c6eda32967cd732cf2b37e97672

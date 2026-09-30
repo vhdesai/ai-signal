@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/
 url_canonical: https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: bac3d49b2569ca319a08d52b7c1046c3233ce880183501dcb3ee6b308e707c30

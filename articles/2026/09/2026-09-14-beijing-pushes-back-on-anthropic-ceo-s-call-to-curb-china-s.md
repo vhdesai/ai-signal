@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Associated Press
 url_original: https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8
 url_canonical: https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 279b2da275bcb47bb61ec099d01b18fdeed6f1a4a608c7f0bb1e761ea9ac5861

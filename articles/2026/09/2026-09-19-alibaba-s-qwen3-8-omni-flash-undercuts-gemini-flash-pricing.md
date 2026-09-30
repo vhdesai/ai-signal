@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: The Decoder
 url_original: https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/
 url_canonical: https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 80effb8de8dffd6f5691699b27af17f683a7db6805f0649d08236aa186d9458b

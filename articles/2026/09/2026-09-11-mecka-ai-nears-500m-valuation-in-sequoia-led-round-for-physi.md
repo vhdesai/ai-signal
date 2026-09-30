@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/11/mecka-ai-sequoia-500-million-humanoid-training-data/
 url_canonical: https://techcrunch.com/2026/09/11/mecka-ai-sequoia-500-million-humanoid-training-data/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 7d1c42cbf2b4897cee2c27e2ba9cdc903003935808d52286bf97c44206a2355b

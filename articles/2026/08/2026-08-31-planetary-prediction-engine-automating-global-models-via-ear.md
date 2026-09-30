@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: Google Research
 url_original: https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
 url_canonical: https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_060941_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: 224a27d048b48b16c6d1a57b6a05b73095f2e1d66f0d429c263717260399683e

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Moneycontrol
 url_original: https://www.moneycontrol.com/technology/google-rolls-out-new-personalization-features-for-search-discover-and-news-article-14012287.html
 url_canonical: https://www.moneycontrol.com/technology/google-rolls-out-new-personalization-features-for-search-discover-and-news-article-14012287.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: fba89a9b7d39fa0b0eeb92f77ff58b6b5bddfcc6866137cf5f711738c9703a88

@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/
 url_canonical: https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 0e66007876bc32e98bf11f98e2452e2ee7a1806caee45602b2f1a293b6aac8bc

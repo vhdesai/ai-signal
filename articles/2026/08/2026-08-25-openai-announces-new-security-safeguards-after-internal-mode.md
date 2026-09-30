@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: CPO Magazine
 url_original: https://www.cpomagazine.com/cyber-security/openai-announces-new-security-safeguards-after-internal-model-crosses-critical-threshold/
 url_canonical: https://www.cpomagazine.com/cyber-security/openai-announces-new-security-safeguards-after-internal-model-crosses-critical-threshold/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 01b7f50fb3a2648f90fc5646b1d7fa1e9e40ad003c73ecebd184e32e0d6fe393

@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
 url_canonical: https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 04a2a4bf7edbc27d6f34721c6ada04d0f673a732d22cacae42b14fce5cc09cef

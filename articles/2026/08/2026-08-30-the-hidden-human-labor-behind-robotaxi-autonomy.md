@@ -5,7 +5,7 @@ date: '2026-08-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
 url_canonical: https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 9f101eaaa8c549f0df2b293be25c5acf3a886f9b9bf6a3599ae317d84f151ed6
 normalized_title_hash: 97d4340a0e767f1b

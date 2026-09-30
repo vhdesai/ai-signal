@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4221098/openai-pauses-200-pro-tier-as-astra-demand-strains-capacity-2.html
 url_canonical: https://www.computerworld.com/article/4221098/openai-pauses-200-pro-tier-as-astra-demand-strains-capacity-2.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 93563f5e1df07706400c7558f8ce4ca8539252647e704bfcc28a9c624400bb8f

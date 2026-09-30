@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
 url_canonical: https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 092f1aea4968915be9891387174f7433affcebed9e0e2374400bdcdb60af4333

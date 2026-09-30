@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-05-eu-ai-indirectly-emerging-neurotechnologies.html
 url_canonical: https://techxplore.com/news/2026-05-eu-ai-indirectly-emerging-neurotechnologies.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 5bf327de81d990342e2d34d94a53f6247f5b52c7dce505504e277a107cc514e0

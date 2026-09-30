@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: CNBC / DataCenterDynamics
 url_original: https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html
 url_canonical: https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 7cab5c4340aabd2f4b0329b38b26202e84e339f647ca5043c53694e623a1a823

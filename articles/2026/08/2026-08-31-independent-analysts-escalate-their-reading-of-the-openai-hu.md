@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: Dwarkesh Patel / Planned Obsolescence
 url_original: https://www.dwarkesh.com/p/openai-huggingface
 url_canonical: https://www.dwarkesh.com/p/openai-huggingface
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 6e386422458ac91ee834e8aa6561a7b428fb473acd4e70a196467e513ce80329
 normalized_title_hash: 046a0b6a97398fb9

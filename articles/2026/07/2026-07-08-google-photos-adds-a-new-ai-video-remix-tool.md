@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/
 url_canonical: https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: d95684e29d8bb0d947d9368d594c9a11a294df535416dc82eed0fa4ffe128269

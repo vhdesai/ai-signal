@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
 url_canonical: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a5d22d0601e03a229499d3af2a271431ee60e6d35c9c184bff7dacf6f199b012

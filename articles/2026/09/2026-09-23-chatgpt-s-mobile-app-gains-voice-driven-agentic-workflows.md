@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/
 url_canonical: https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 3dec75bc78c86aa091595c46252a8f6c108ef87824f1c090590730c127e3d905

@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: Unite.AI / The Information
 url_original: https://www.unite.ai/amazon-brings-seller-assistant-to-claude-and-amazon-quick/
 url_canonical: https://www.unite.ai/amazon-brings-seller-assistant-to-claude-and-amazon-quick/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 294acfcb15e85e46e2c7f5a8857f1e62520858117225b197dcb445b2e4b55bc4

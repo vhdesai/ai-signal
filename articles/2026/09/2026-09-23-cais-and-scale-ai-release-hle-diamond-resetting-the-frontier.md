@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Scale AI
 url_original: https://labs.scale.com/leaderboard/hle-diamond
 url_canonical: https://labs.scale.com/leaderboard/hle-diamond
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: b3654e6a86be7bdddfa89a671fe07476f22865d9b8099a8100a6aad5e44768b8

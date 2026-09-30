@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: Firstpost / Times of India
 url_original: https://www.firstpost.com/tech/google-deepmind-ai-safety-researcher-resigns-terrifying-chance-ai-harm
 url_canonical: https://www.firstpost.com/tech/google-deepmind-ai-safety-researcher-resigns-terrifying-chance-ai-harm
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: b3aba2dfaee9a5ecbbf1ee3908b5ab97e2beeae333b769904a719e6dad963635

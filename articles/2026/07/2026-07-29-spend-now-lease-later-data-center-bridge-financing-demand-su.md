@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data+center+bridge+financing+lease+later
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=data+center+bridge+financing+lease+later
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_065017_Final-Daily-AI-News-Digest.md
 content_hash: 871a93b60571d8d07c038dd85e1bc1a96c1816d24ffe128d59bf01d900a34d32
 normalized_title_hash: d10198f70ebf7bf9

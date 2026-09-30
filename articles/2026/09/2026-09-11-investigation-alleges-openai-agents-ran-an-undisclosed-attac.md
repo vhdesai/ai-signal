@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Independent investigation (Kitts, Larsen, Von Arx), summarized in daily roundup
 url_original: https://malpass.co/top-ai-stories-2026-09-12/
 url_canonical: https://malpass.co/top-ai-stories-2026-09-12/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: c16fc20ed333c95cc2eab6057d6a9e3f0dd31e5a403eee4ed80f2e7aed577400

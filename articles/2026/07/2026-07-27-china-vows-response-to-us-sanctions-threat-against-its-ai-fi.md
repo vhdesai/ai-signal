@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/china-vows-response-us-sanctions-110229037.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/china-vows-response-us-sanctions-110229037.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: b977c5a32b7e8a2242da19dc3dc0bd6b948a75aa78f4312fd780a97357f9d1a3

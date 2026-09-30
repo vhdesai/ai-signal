@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: The Verge
 url_original: https://dailyaccra.com/2026/08/11/the-ai-takeover-of-mathematics-has-begun
 url_canonical: https://dailyaccra.com/2026/08/11/the-ai-takeover-of-mathematics-has-begun
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c59a0c23233e38f9f35e001e52022acfa0a2d68659254670b2064e9c7c2a3d8d

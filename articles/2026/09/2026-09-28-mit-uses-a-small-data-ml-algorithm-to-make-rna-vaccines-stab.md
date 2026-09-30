@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
 url_canonical: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8e5cee73396361e42aae6e1a92420e9ae09244bdc95ba2d0f89dbdda4317bf63

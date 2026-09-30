@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1751
+member_count: 1756
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1751 connected article(s).
+> Auto-generated topic hub. 1756 connected article(s).
 
+- `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
+- `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]

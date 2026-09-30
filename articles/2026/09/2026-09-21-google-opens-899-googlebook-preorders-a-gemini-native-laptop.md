@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
 url_canonical: https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 773aa28175d6a8e7335c2c1bf87249be913284c470a8c32fcaed36d275246ab1

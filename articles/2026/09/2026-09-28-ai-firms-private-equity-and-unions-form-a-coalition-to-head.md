@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: Axios
 url_original: https://www.axios.com/2026/09/28/ai-industry-unions-data-centers
 url_canonical: https://www.axios.com/2026/09/28/ai-industry-unions-data-centers
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 7d04e869704dcec749c29ad1defbf926b3567d98235132a93820bdfe24a223d7

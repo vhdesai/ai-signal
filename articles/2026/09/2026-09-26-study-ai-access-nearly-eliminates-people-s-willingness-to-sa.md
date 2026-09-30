@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Decoder
 url_original: https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/
 url_canonical: https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: cc4b20a789bb465f1186cc65b5c6ecc6d89f85d9bdf8bf05c6bd685c00a7b531

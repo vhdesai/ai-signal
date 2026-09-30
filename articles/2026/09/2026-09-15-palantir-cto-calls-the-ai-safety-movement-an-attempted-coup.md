@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai
 - 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
+- 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 - 2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom
-- 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 embedding_id: 2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In an essay for The Free Press, Palantir CTO Shyam Sankar argued that effective 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]] · [[2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl]]
+**Related:** [[2026-09-19-trump-calls-ai-safety-a-hoax-announces-an-ai-force-and-an-ai]] · [[2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin]] · [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf]] · [[2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom]]
 <!-- graph:end -->

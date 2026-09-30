@@ -6,7 +6,7 @@ date: '2026-05-14'
 source: CNBC
 url_original: https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html
 url_canonical: https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 50a5de4f99cce96687534762118685d84b1ab9501a970d284c9e33950164fd59

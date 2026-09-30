@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: The Motley Fool
 url_original: https://www.aol.com/finance/nvidia-bold-bet-ai-neoclouds-145617376.html
 url_canonical: https://www.aol.com/finance/nvidia-bold-bet-ai-neoclouds-145617376.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 81a9450edf0da71670f479304c38eaeb808f585b8885a5c19d6a77e8164ba6dd

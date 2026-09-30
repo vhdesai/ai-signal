@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Artificial Intelligence & Environment
 url_original: https://www.miragenews.com/ai-boosts-3d-mapping-of-groundwater-pollution-1749188/
 url_canonical: https://www.miragenews.com/ai-boosts-3d-mapping-of-groundwater-pollution-1749188/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: cfe9c29e87a93245a5ac889d83bdfbeff5866f6dbf9276b22d3b7ca6f8bbab75

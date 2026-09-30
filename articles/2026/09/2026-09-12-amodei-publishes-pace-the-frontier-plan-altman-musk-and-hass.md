@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
 url_canonical: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: debc8eda81618d3f0cc011ffa1a41acab32dae31361a3e49e2febf39a8d3e8ce

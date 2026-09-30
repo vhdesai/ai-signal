@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-targets-38gw-data-center-150904165.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-targets-38gw-data-center-150904165.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 7f683b70b2784e461b28146b48073b23db95bae2fa73bfd6065612e2ff588ef5

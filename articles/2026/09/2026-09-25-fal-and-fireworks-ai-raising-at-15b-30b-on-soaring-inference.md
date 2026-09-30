@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Information
 url_original: https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-as-inference-demand-soars
 url_canonical: https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-as-inference-demand-soars
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 3a71be69e9b5dc3c500c319074343125874c78a720d850a5cba5d5e43ece7cd0

@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: arXiv cs.AI · Pan, Arabzadeh, Jacob, Kazhamiaka, Choukse, Zaharia
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 35ba817804c74679e282ba2d8717c4e7ef1118617d0256fe8a00c5b7f9d7cbcc

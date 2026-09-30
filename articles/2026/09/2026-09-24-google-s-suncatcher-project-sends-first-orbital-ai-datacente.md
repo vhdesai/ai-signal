@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/
 url_canonical: https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6642d6608383d1429ab70c2fe7f042d69514db079e8442772122ae780d713a9d

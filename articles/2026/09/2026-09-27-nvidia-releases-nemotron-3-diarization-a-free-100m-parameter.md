@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: The Decoder
 url_original: https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/
 url_canonical: https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 526b51091a128d669259110072c3d84c74dfdbd6e3ffa532e2476621bd16c9e7

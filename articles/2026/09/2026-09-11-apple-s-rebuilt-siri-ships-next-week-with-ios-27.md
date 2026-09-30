@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/
 url_canonical: https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 2318fb2596915eedbda742281833c0c034e608279543dfbda41b5201b185c5c7

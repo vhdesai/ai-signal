@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Microsoft Blog
 url_original: https://blogs.microsoft.com/blog/2026/09/25/copilot-home-code-autopilot-launch/
 url_canonical: https://blogs.microsoft.com/blog/2026/09/25/copilot-home-code-autopilot-launch/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 6cc9b0a2f53d4043d6c731d1097e94568a125de7f2cc51948ebc846bd3b6ea64

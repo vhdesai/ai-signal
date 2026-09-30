@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: MIT News
 url_original: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
 url_canonical: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 38af1692cf3fef0ee579d2f13f726683a0f0ac03763e60651824c6d899d3401b

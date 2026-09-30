@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: DatacenterDynamics
 url_original: https://www.datacenterdynamics.com/en/news/google-chief-scientist-jeff-dean-departs-demis-hassabis-steps-down-as-deepmind-ceo/
 url_canonical: https://www.datacenterdynamics.com/en/news/google-chief-scientist-jeff-dean-departs-demis-hassabis-steps-down-as-deepmind-ceo/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: ef2d8dd542d75e9cf456f0fe5ad5237554882b9d01560db3e24607f591dbabcc

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
 url_canonical: https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-03_062808_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: 144228b2563f952c33bfd5fddd60adec5c374138cce7901eecd5a1150000b139

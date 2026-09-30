@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Google (The Keyword)]
 url_original: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 3ef541d42a7bebd0e4879e2f622974aefb142141b6d469540284b33df7aecc85

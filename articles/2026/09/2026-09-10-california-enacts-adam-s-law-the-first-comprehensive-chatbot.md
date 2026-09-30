@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: CalMatters
 url_original: https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/
 url_canonical: https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: d9e56c93ea3ca296fca346d15ddee2028ec9828b65b3a08554c447bf03a13880

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: NBC News
 url_original: https://www.nbcnews.com/world/asia/us-proposes-exchanging-ai-safety-alerts-china-bessent-says-rcna598923
 url_canonical: https://www.nbcnews.com/world/asia/us-proposes-exchanging-ai-safety-alerts-china-bessent-says-rcna598923
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: e025db7145df15aff620e6c1a5e9103e7e1199777efdef58172f9338b5574495

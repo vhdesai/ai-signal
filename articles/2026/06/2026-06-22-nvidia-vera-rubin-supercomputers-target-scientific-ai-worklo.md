@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
 content_hash: 0ea64f6c90423140d9dd8eefb2ffc5fa36aeea2788b3b37e376a89aecc9c2413
 normalized_title_hash: c5bb8e72a8473cf9

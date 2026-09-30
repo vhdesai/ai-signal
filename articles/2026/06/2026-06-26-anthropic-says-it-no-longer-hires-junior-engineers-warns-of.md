@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/
 url_canonical: https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 08b41196d8b1f78256b094183be7363340547dddc9408029be6048e083692842

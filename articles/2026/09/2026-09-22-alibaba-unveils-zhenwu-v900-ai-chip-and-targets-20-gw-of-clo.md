@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: TechNode
 url_original: https://technode.com/2026/09/22/alibaba-unveils-zhenwu-v900-ai-chip-as-it-targets-20gw-of-cloud-data-centers-by-2032/
 url_canonical: https://technode.com/2026/09/22/alibaba-unveils-zhenwu-v900-ai-chip-as-it-targets-20gw-of-cloud-data-centers-by-2032/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060610_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 537ce3c2b041613977c6d2381c9d655c9511d9d715a681e72177eb62ed8ed710

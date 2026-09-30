@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: CNBC / TrendForce
 url_original: https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html
 url_canonical: https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 3b9c12f2a1b9a2908994398233e6aab5323b8b60ad7f71d9430ccb3997b45064

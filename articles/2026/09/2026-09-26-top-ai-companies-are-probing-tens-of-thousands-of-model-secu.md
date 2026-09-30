@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: Axios
 url_original: https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents
 url_canonical: https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 4a365e82708b3343c4d2989c6e7886e7f4198fc0be2d9a47990411653d492914

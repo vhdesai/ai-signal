@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: SiliconANGLE / The Register]
 url_original: https://siliconangle.com/2026/09/21/aws-strands-harness-open-source-agent-runtime-any-cloud/
 url_canonical: https://siliconangle.com/2026/09/21/aws-strands-harness-open-source-agent-runtime-any-cloud/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: b50548e65cb50bbaffba2ace32b384ca23fba0e86e121448d114ce0573c2f7af

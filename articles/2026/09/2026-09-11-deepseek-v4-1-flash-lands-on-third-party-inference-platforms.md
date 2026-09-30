@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Unite.AI
 url_original: https://www.unite.ai/baseten-adds-deepseek-v4-1-flash-to-model-apis-with-1m-token-context/
 url_canonical: https://www.unite.ai/baseten-adds-deepseek-v4-1-flash-to-model-apis-with-1m-token-context/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: bcd6c58d456f7edeaaf1dcd9159b6d218987030e4627f7ebc85d460b72f2775d

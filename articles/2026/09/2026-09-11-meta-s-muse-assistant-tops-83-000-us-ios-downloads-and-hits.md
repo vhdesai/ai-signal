@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The American Bazaar
 url_original: https://americanbazaaronline.com/2026/09/11/metas-muse-ai-assistant-tops-83000-us-ios-downloads-after-launch/
 url_canonical: https://americanbazaaronline.com/2026/09/11/metas-muse-ai-assistant-tops-83000-us-ios-downloads-after-launch/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 84b9489f0ab12a51f204bc7c2f71531fd4ade39fadf48dac81ebdac13f93ff16

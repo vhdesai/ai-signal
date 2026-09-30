@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: arXiv (2609.30205) · Stanford Medicine / CBIR
 url_original: https://arxiv.org/abs/2609.30205
 url_canonical: https://arxiv.org/abs/2609.30205
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: ba0ef03c5563e9194cb9c3a4ebd23bb7760414a02d30ced5503168e36a878152

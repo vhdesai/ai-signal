@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SAFA+Google+OpenAI+Anthropic+safety+standards+body
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SAFA+Google+OpenAI+Anthropic+safety+standards+body
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: da27d11c0b2e267102d3114410de60da0082c7b72d81ca0b7e0246a93a5910c9

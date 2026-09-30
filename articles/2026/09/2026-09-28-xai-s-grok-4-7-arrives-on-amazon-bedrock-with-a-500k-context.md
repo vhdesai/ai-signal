@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: be0835ca6eef64d5cae920088375c58049c5b95fff1dd1e2a8ece0af24b9436a

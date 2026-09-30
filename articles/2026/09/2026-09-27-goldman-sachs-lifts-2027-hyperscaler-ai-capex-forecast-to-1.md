@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: THE DECODER (via Bloomberg)]
 url_original: https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/
 url_canonical: https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 2ab8f9d07a09d62bda07456c2f73340f348142f0af8d11a2caa50b2630bd3b89

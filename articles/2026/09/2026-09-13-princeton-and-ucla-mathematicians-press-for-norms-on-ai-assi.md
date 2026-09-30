@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Donga Science
 url_original: https://www.dongascience.com/en/news/79888
 url_canonical: https://www.dongascience.com/en/news/79888
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061723_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: ed23fd1538432ceb7d830395c073b752f50593d0ec3ed44c63d5c9ebc67a67cc

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: OpenAI release notes
 url_original: https://releasebot.io/updates/openai/chatgpt
 url_canonical: https://releasebot.io/updates/openai/chatgpt
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: d1595ce382edeea4f3637749192282908703cc33ac20e465506949fdebf4a535

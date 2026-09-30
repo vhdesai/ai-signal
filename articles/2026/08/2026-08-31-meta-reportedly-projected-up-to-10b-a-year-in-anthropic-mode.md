@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: The Next Web
 url_original: https://thenextweb.com/news/meta-anthropic-10bn-spending-projection
 url_canonical: https://thenextweb.com/news/meta-anthropic-10bn-spending-projection
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_060712_Inbox_Daily AI News Digest – August 31,
   2026.md
 content_hash: 090fa04fe9d3651c9ffeaa805deefa36700694787e651fb1c0989ec6ace2a929

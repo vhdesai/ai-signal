@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Straits Times (via The Information)]
 url_original: https://www.straitstimes.com/world/united-states/meta-bolsters-muse-safety-warning-after-security-vulnerability-found-the-information-reports
 url_canonical: https://www.straitstimes.com/world/united-states/meta-bolsters-muse-safety-warning-after-security-vulnerability-found-the-information-reports
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: c3b8677081c0e02b86983f9fd75b75eb27583ad50acba052e171f7485a18ff87

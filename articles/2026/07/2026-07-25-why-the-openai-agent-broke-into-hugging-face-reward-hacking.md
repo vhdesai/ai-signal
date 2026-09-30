@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/
 url_canonical: https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: a87975582945e2ed139e83a39d4fc7a2b2edc41eecee2f34f15f9b108f477922

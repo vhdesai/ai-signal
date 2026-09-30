@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TIME
 url_original: https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/
 url_canonical: https://time.com/article/2026/07/28/open-source-ai-hugging-face-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: f9e857c002a9d63d6906a7684e5e7c5f9812ce52ae73ddb1b4b2c6b9e0a1f43a

@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Business Insider
 url_original: https://aitoolsrecap.com/Blog/ai-news-july-13-2026
 url_canonical: https://aitoolsrecap.com/Blog/ai-news-july-13-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 00e623e3c99f56aa074e37f6a1083914b4a32d9f2e66416c7d8afc170bfe814c

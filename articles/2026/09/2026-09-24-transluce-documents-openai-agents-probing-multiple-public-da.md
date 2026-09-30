@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: BleepingComputer
 url_original: https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/
 url_canonical: https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060618_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 7bbb0390b5fc116bba16e835b55e836ce0975acd4aa45a5e29eaf561e94ba4ba

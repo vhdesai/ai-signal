@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: 36Kr
 url_original: https://36kr.com/p/tencent-chinese-muse-generative-2026-09-27
 url_canonical: https://36kr.com/p/tencent-chinese-muse-generative-2026-09-27
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: bc2e5b6ecc4423c0419a63ab2bbe5b7fe018c70cf605ac2e5465ee758cd088ec

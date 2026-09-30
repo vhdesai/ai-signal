@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: BeInCrypto
 url_original: https://beincrypto.com/ai-slowdown-dmitriev-altman-musk-amodei/
 url_canonical: https://beincrypto.com/ai-slowdown-dmitriev-altman-musk-amodei/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_060533_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 394de8f77ac1e715f02d690e8ff127866a862d275f8b4719ac443fa15bf87dfc

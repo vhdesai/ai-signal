@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
 url_canonical: https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: e39cad9be6b9ecf972f5b5e9e7d4a7ca8c2acff8791c19a61a8470abaca4afad
 normalized_title_hash: 91e579142b795440

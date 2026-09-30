@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Epium
 url_original: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
 url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: b32a4557d8583418c85165b2214777f4b45eeae7325c67a3c9f3e53290123d37

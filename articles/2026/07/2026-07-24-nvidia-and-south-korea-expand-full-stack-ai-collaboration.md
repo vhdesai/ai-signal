@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
 url_canonical: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c9372c7314dffb0ae1fb1d193f32582c4b547bcbdf24d48fc8cbe0afa9cd93a7

@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
 url_canonical: https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 93a2cce77d9459fd867d7a49ba1a05a20718c6d04f8a42ada1cd6447d54c8194

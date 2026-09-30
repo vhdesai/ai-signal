@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/deepseek-said-tell-backers-funding-144955175.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/deepseek-said-tell-backers-funding-144955175.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 26f6b2b7401206f50fec705cd65f760905bbf5596c588b775c8e5362a8901ff4

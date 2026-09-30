@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Fortune
 url_original: https://fortune.com/2026/09/12/ibm-us-open-limb-tracking-ai-tennis-serve
 url_canonical: https://fortune.com/2026/09/12/ibm-us-open-limb-tracking-ai-tennis-serve
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 5c624684f28e16accdb23b5767a16a83a873a905968259ee426476eec7531b46

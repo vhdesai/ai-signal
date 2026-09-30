@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: NVIDIA · Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/japan-government-industrial-leaders-and-nvidia-launch-the-world-s-first-national-ai-infrastructure-1036331572
 url_canonical: https://markets.businessinsider.com/news/stocks/japan-government-industrial-leaders-and-nvidia-launch-the-world-s-first-national-ai-infrastructure-1036331572
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: 3f4aa6ea37069b69b5c579131a85aa970f4c7bde1c414350d08e65eada35d742
 normalized_title_hash: 3113e612ac3bc0ae

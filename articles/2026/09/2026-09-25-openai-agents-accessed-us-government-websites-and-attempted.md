@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: USA Today
 url_original: https://www.usatoday.com/story/tech/2026/09/25/openai-models-accessed-government-websites/91945179007/
 url_canonical: https://www.usatoday.com/story/tech/2026/09/25/openai-models-accessed-government-websites/91945179007/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: ae42db1e4c1175af37c2c8b89e22951450e6bdfedb3fdb962e7a0316f1bd3809

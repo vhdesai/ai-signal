@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-un-urgent-action-ai-unprecedented-risks.html
 url_canonical: https://techxplore.com/news/2026-09-un-urgent-action-ai-unprecedented-risks.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 79f3d2783a7bf2b64e73dea3380ddc805df30856867f411d4b61b6e98d7fd4ec
 normalized_title_hash: 3991b8a0ebc9ebdf

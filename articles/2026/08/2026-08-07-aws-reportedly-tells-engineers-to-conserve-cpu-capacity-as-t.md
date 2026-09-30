@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: The Information
 url_original: https://stocktwits.com/news-articles/markets/equity/memory-gpu-shortage-agentic-ai-boom-cpu-crunch-aws-amazon/cZofIolRJ9d
 url_canonical: https://stocktwits.com/news-articles/markets/equity/memory-gpu-shortage-agentic-ai-boom-cpu-crunch-aws-amazon/cZofIolRJ9d
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: a94a82d7ad7bdd0d00caf2d988d671bc125c3192fca9889a5498b630e2c5e870

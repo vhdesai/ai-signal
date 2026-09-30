@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Forkast News · Read article →
 url_original: https://forkast.news/15-republican-state-attorneys-general-issue-preservation-demand-to-openai-over-hugging-face-breach/
 url_canonical: https://forkast.news/15-republican-state-attorneys-general-issue-preservation-demand-to-openai-over-hugging-face-breach/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 092bd576d6678e3f0b2f729ae64f92bfdd894d1f9975e7032b54cf63635f160c

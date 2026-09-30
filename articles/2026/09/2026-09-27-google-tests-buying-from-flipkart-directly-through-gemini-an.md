@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/27/google-gemini-flipkart-ai-mode-agentic-shopping-india
 url_canonical: https://techcrunch.com/2026/09/27/google-gemini-flipkart-ai-mode-agentic-shopping-india
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 56281a3d878bd8b42f6dfcd23f59462e2907aa830005c24337ee8b510800531e

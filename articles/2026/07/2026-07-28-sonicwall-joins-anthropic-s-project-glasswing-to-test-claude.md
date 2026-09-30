@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/sonicwall-joins-anthropics-project-glasswing-120000941.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/sonicwall-joins-anthropics-project-glasswing-120000941.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 23e285d30a07e6ef54e665da2bf5c46080cd813e6679525343b9196cdf2b0654

@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3367482/cloudy-chance-big-macs-mcdonalds-and-meituan-launch-drone-route-shanghai
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367482/cloudy-chance-big-macs-mcdonalds-and-meituan-launch-drone-route-shanghai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: afc2b38b39d540519f26b07a8d9e0fd6ff98dfe04fc1fdf7ef9497fd6282acc5

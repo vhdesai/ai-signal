@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
 url_canonical: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: ac6ca97ea5032d1309f419575a7071570fef961dc63be1919300b4a6ba2d0549
 normalized_title_hash: 10c13a830390ed90

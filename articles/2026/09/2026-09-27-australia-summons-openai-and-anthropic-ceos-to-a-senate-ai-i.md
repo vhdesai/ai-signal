@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: Reuters / Al Jazeera
 url_original: https://www.reuters.com/technology/australia-summons-openai-anthropic-ceos-senate-ai-inquiry-2026-09-27
 url_canonical: https://www.reuters.com/technology/australia-summons-openai-anthropic-ceos-senate-ai-inquiry-2026-09-27
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: c5842f028ae2ffef52c5d363f0652445594dcfdf7232431589b0f0b87e9467e1

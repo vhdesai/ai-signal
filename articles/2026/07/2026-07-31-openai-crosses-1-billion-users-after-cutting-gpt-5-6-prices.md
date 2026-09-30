@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/openai-surpasses-1-billion-users-172017666.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-surpasses-1-billion-users-172017666.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 851d5ce2e5f3d023049051c5e66b3a0b970dd066dd114c3043cacaa04da21200

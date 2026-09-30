@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=PC+makers+CXMT+memory+chips
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=PC+makers+CXMT+memory+chips
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_065014_Final-Daily-AI-News-Digest.md
 content_hash: 270793f31c34e6eb00e39bf1d782405dfffed39a108e3c41a7c4b1872dde2b27
 normalized_title_hash: 0cfbdbf795465724

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: MIT Technology Review
 url_original: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
 url_canonical: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060617_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: fa35b7fb413f5729718c1ae826e73417db11949e135d5dd761923440a3653590

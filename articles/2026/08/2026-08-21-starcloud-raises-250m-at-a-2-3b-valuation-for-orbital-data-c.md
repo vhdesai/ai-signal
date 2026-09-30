@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
 url_canonical: https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: e6941a6865a57b8ccc69a73eac3a4fa08d1d95640035bb065ec43a3e6c7e2766

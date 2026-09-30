@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: BankInfoSecurity / AP News / ABC
 url_original: https://www.bankinfosecurity.com/google-openai-anthropic-frontier-ai-standards-body-2026
 url_canonical: https://www.bankinfosecurity.com/google-openai-anthropic-frontier-ai-standards-body-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 1aeae496cf8584ef05fe2f41e2887eff1a6e5520b87925f2b983bc433b5293ab

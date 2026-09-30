@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Yahoo Finance / Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/softbank-secures-10-billion-loan-105715129.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/softbank-secures-10-billion-loan-105715129.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 0a5fabe57ca44d2308b3f6bccbfb3660f0bc10af2db6cb3e1e0f284b5e5e25ef

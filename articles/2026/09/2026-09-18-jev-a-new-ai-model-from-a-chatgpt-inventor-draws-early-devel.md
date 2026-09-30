@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
 url_canonical: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: a95bf179498f433e735025e17d89f61e40be3a85df31da32bfefd6b7f04ef054

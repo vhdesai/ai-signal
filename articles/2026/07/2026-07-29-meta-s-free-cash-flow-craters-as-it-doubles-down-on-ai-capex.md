@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Reuters / U.S. News
 url_original: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-29/meta-narrows-annual-capex-forecast-as-ai-buildout-grows
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 6647c3c8d434c054c2876af96a0e8c39a7b77833f22e97407c6c0f6e47023577

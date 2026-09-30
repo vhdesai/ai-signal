@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/
 url_canonical: https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: d9dda6d572f9357403443d23c4d7c9a751fd7ac1b7a8ded173cfdd5b13136b1f
 normalized_title_hash: 93d49b17a8dabd79

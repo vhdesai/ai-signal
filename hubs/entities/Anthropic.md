@@ -1,14 +1,23 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2295
+member_count: 2304
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2295 connected article(s).
+> Auto-generated entity hub. 2304 connected article(s).
 
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
+- `2026-09-30` [[2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede|Ted Cruz Blocks a Senate Bill That Would Have Created a Federal AI Safety Review Board and Mandated Incident Reporting]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
+- `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
+- `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
+- `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
 - `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]

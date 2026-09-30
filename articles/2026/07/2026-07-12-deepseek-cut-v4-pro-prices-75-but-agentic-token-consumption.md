@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
 url_canonical: https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: a6edf47a59afd5d20f501381bb5e5ed0a332ba0f9cad1a0df742c034ea44e7da

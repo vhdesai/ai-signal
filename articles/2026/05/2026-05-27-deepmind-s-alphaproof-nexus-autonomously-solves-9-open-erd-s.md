@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: The Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-ai-solves-erdos-math-problems-10708913/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-ai-solves-erdos-math-problems-10708913/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 5bbc7b2306647f26450fe8d9e083436676dd45bb3a5803a8b87c7ffb42cb8b1b

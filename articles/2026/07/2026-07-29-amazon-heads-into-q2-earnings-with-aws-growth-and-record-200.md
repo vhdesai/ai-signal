@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-earnings-preview-wall-street-looks-for-more-cloud-growth-as-ai-spending-hits-a-record/
 url_canonical: https://www.geekwire.com/2026/amazon-earnings-preview-wall-street-looks-for-more-cloud-growth-as-ai-spending-hits-a-record/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 2c72c0764eb1cb5daffb63e6cbc1f5ff9c8775915d94742f011e7ec331611bce

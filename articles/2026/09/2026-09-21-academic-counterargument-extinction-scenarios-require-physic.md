@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore / The Conversation
 url_original: https://techxplore.com/news/2026-09-ai-humans-scenarios-require-physical.html
 url_canonical: https://techxplore.com/news/2026-09-ai-humans-scenarios-require-physical.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 7dbc7c76c8598b9bf42aadce13b81781442d22c50f4d420567e557cdb8c77f81

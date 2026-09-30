@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: UC San Diego Today
 url_original: https://today.ucsd.edu/story/uc-san-diego-to-test-innovative-power-technology-for-ai-data-centers
 url_canonical: https://today.ucsd.edu/story/uc-san-diego-to-test-innovative-power-technology-for-ai-data-centers
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 251e56814fdd19df7e021bb03047b606534d4e6dffb1ffe029c104d0e1958295

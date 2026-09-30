@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Axios
 url_original: https://www.axios.com/2026/09/12/anthropic-report-claude-exploited-war-spying-repression
 url_canonical: https://www.axios.com/2026/09/12/anthropic-report-claude-exploited-war-spying-repression
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_065357_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 55a0f6a6c132d3f112b4aa0177e2b8ae8dce5f03e860aac31275921d92f041ae

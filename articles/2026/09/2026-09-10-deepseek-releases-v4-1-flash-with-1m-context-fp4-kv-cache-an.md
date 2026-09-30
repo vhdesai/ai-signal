@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/10/deepseek-v4-1-flash-1m-context-fp4-kv-cache-open-weights/
 url_canonical: https://www.marktechpost.com/2026/09/10/deepseek-v4-1-flash-1m-context-fp4-kv-cache-open-weights/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-10_065738_Final-Daily-AI-News-Digest.md
 content_hash: 038e7e51982aabed46eb008c3630eb1c969d6622a0521d5159ca9227486a5f7a
 normalized_title_hash: 8a350c0f311687a4

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Firstpost
 url_original: https://www.firstpost.com/tech/eu-ai-transparency-rules-take-effect-making-labels-mandatory-for-ai-generated-content-14035796.html
 url_canonical: https://www.firstpost.com/tech/eu-ai-transparency-rules-take-effect-making-labels-mandatory-for-ai-generated-content-14035796.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 68c62d17be5c597989f504910602e5ed34c4f7b06cbdc2cea589dcc4b0380423

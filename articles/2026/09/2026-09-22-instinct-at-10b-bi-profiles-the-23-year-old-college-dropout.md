@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-instinct-noah-shinn-meta-muse-ai-agents-2026-9
 url_canonical: https://www.businessinsider.com/todays-newsletter-instinct-noah-shinn-meta-muse-ai-agents-2026-9
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 036a854ef13dc2e804e237e5514522ca506e265f2778e467cd46039bd8f17f07

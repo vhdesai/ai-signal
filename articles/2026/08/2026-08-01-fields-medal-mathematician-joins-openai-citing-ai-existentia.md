@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79
 url_canonical: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-02_065015_Final-Daily-AI-News-Digest.md
 content_hash: 8fc9e5efe6fe2530086376dd0d4bf6bcc9bbf56493c2b5ee62818a827e981a2f
 normalized_title_hash: 086ba727a90847c6

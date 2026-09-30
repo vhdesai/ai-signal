@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Anthropic
 url_original: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 url_canonical: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: cf1063e3986b75afb8c9d4f094d09d2943af41c87bc19a2b8611f8b7e82332ab

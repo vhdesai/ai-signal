@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: AFP
 url_original: https://techxplore.com/news/2026-09-nyt-alleges-microsoft-openai-knew.html
 url_canonical: https://techxplore.com/news/2026-09-nyt-alleges-microsoft-openai-knew.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6e2467f99d87c1a8f22420981232ec7d271847ee7f1e532dc37424a512331c3e

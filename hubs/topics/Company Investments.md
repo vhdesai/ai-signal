@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1256
+member_count: 1260
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1256 connected article(s).
+> Auto-generated topic hub. 1260 connected article(s).
 
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
+- `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]

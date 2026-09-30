@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/
 url_canonical: https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6f199b5db545ea6456f00b929fb67f1d5f7e9036c7ff612770cc370067a7e431

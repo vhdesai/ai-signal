@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 414
+member_count: 416
 ---
 
 # xAI
 
-> Auto-generated entity hub. 414 connected article(s).
+> Auto-generated entity hub. 416 connected article(s).
 
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context|xAI’s Grok 4.7 arrives on Amazon Bedrock with a 500K context window]]
 - `2026-09-28` [[2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers|xAI Opens Public Beta of Team Bots — Shared Grok AI Coworkers]]

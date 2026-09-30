@@ -6,7 +6,7 @@ date: '2026-07-17'
 source: MarkTechPost**
 url_original: https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/
 url_canonical: https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: 02c64e5389a344a66cae938c967f3f2d440d537239cfef9b9ff8e55971c9e732
 normalized_title_hash: 34908db34052f88a

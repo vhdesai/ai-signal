@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Tech Startups
 url_original: https://techstartups.com/2026/09/11/top-tech-news-today-september-11-2026-anthropic-deepseek-google-pentagon-oracle-spacex-more/
 url_canonical: https://techstartups.com/2026/09/11/top-tech-news-today-september-11-2026-anthropic-deepseek-google-pentagon-oracle-spacex-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a42f6029fd0c1fb05850b2881128c5fdda49f279ffc57bc6c988dabee715c4ff

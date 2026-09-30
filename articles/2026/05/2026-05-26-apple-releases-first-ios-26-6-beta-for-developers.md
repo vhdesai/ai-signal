@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Apple / 9to5Mac
 url_original: https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/
 url_canonical: https://9to5mac.com/2026/05/26/apple-releases-first-ios-26-6-beta-for-iphone/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ca782d995d38e25880d34bffd1c73d3f2b5582710af687ad3e4d6445f4aa11a3

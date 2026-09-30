@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: The Information / CNBC
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+17+percent
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+17+percent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_065240_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 971c895dd635a5da6afdf0dce14ac9c8bde20b97600634f074dccaa6b20d2cd1

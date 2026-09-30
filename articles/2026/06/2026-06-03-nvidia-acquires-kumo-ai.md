@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Fortune
 url_original: https://fortune.com/2026/06/03/nvidia-snaps-up-kumo-ai-in-latest-acquisition/
 url_canonical: https://fortune.com/2026/06/03/nvidia-snaps-up-kumo-ai-in-latest-acquisition/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 7cb6d04dc2fd916a7c5a90e94fb4ff0acc2f3e1333efcb72a6cbb3b7ee926e0d
 normalized_title_hash: 94de3932b30ba1f4

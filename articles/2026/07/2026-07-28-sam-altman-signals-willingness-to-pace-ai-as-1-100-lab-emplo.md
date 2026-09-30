@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
 url_canonical: https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: ff445cda55faa0b0d8248a9a177d09da7d259c0c0510b349db8db8654781a623

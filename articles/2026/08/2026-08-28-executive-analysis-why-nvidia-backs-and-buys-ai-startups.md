@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Executive Analysis
 url_original: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
 url_canonical: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_Nvidia_Startup_Investment_Strategy.md
 content_hash: db8d9b85b62a99ab6b9d103133b9ca72a568a4545d5cc66ee6201c20503746fb
 normalized_title_hash: 6fa9e43e03cee1bd

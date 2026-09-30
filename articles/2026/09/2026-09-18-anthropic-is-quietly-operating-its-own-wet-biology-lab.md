@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
 url_canonical: https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 5a615dc3bf247f36184d57ddbe8778f129b5d4004c70cd544b40d5d1ec487301

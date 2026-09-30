@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: Meta Newsroom / SDxCentral
 url_original: https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/
 url_canonical: https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: bc73f289855970c2ab24070f6f59db044f06052de33ff530a38815dbe78676dc

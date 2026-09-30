@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Anthropic
 url_original: https://claude.com/blog/build-plugins-for-claude
 url_canonical: https://claude.com/blog/build-plugins-for-claude
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061738_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: a4abc673215147cc303d0868520f55b42ed83e807b45fb37604b240c7b0a507b

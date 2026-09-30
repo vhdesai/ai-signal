@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechNode / PYMNTS
 url_original: https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/
 url_canonical: https://technode.com/2026/08/06/deepseek-plans-significant-api-price-increases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: baace6c98c0c1b7ecb57a4dbf58ab922aafbe2ad5e50475cba5160a1734dbae9
 normalized_title_hash: d24e751b35d6d0a5

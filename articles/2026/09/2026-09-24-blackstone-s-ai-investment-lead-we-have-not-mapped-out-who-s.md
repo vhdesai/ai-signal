@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Blackstone+Khaira+AI+credit+demand+debt
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Blackstone+Khaira+AI+credit+demand+debt
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 147fdceed30469516fae4184d0afffdb25ec8a6419fcdceac327db6a6d16778d

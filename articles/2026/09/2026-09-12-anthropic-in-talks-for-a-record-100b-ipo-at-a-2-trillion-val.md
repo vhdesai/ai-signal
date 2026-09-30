@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: Reuters
 url_original: https://www.straitstimes.com/world/nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say
 url_canonical: https://www.straitstimes.com/world/nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_060802_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 7bd2cc7e6ce13aacf528fad39fc1527ff4f46c214017a8aac3df7098df6ef4a0

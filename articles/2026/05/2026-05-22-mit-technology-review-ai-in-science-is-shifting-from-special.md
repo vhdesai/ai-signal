@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: MIT Technology Review
 url_original: https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/
 url_canonical: https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 4a00d6d5d415108dcc1fd740f5e48599318939a0627ecc31a7e5caa8ec48b39e

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: CIO Dive / TechCrunch
 url_original: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
 url_canonical: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 512029c4eec76893464ba2e41c5f8247e24375eccb0e24725c4708260435504b

@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
 url_canonical: https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 4da1dffac06ff95757b0883e4af0330aaa00a1ce7844690dabc378ea5b06d3b0

@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: CNBC interview via Insider Monkey
 url_original: https://www.insidermonkey.com/blog/nvidia-nvda-the-best-high-growth-stock-to-buy-and-hold-for-the-next-decade-1768960/
 url_canonical: https://www.insidermonkey.com/blog/nvidia-nvda-the-best-high-growth-stock-to-buy-and-hold-for-the-next-decade-1768960/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 9b32d9d6c7e16b13127009667104ebdcbb9c3da6712d4e775775b680ba8f4034

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/
 url_canonical: https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6166af0f6144abcf1404863ee3a97637132f29c58666fb6d6e4ffca6c4658d7e

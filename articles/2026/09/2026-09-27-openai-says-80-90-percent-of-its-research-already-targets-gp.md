@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: THE DECODER
 url_original: https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/
 url_canonical: https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061919_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 536ea75f3157b000b216a589aad9284bfa7268697686213c764cea2f1ec3a239

@@ -6,7 +6,7 @@ date: '2026-06-28'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319248/20260628/coinbase-cuts-ai-spend-50-chinese-models-legal-risk-its-ceo-didnt-lead.htm
 url_canonical: https://www.techtimes.com/articles/319248/20260628/coinbase-cuts-ai-spend-50-chinese-models-legal-risk-its-ceo-didnt-lead.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: ba67b258f794d7c5b93da0a5e20d004b6a5ee840c36db186e0470b7b49c0d96c

@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: NBC News / Associated Press
 url_original: https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098
 url_canonical: https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: b6aa71c760a5655795d11035cb36ce3112d108818ac25c8d8867341059f3306c

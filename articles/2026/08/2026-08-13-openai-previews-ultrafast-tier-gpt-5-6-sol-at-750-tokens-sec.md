@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: OpenAI · Unite.AI
 url_original: https://openai.com/index/previewing-ultrafast/
 url_canonical: https://openai.com/index/previewing-ultrafast/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: f5e06df82a12a656fb411a192e9ccfb4d1d87eb9e77d909bafe22a48da153f67
 normalized_title_hash: 04a98cda23278b1c

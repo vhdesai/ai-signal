@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+revenue+150+million
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+revenue+150+million
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: 57415d73fb694121eea0e314dd821eb2ef8997d80d31d4ce3a74d8be46dff135
 normalized_title_hash: 2321cefc2ced2954

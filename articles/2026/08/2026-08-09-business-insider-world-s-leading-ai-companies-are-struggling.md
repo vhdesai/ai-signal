@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: Business Insider
 url_original: https://sg.news.yahoo.com/worlds-leading-ai-companies-struggling-152436499.html
 url_canonical: https://sg.news.yahoo.com/worlds-leading-ai-companies-struggling-152436499.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 0333d28bada9eb13d042ab78f70a0192ad49797f464ee999ff4621f7f5d25537

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: CyberScoop
 url_original: https://cyberscoop.com/nvidia-open-agent-safety-platform/
 url_canonical: https://cyberscoop.com/nvidia-open-agent-safety-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_062410_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 783f1a6b84a41754e98751cc33f2019feb4427f49ad4149f1d2c30ae9130fe91

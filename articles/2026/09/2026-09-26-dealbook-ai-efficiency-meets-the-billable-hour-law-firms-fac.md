@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The New York Times DealBook]
 url_original: https://www.nytimes.com/2026/09/26/business/dealbook/law-firms-ai-billable-hour.html
 url_canonical: https://www.nytimes.com/2026/09/26/business/dealbook/law-firms-ai-billable-hour.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: ca0d49e296ea320e087f306d31ceb8b5a7910b731fd764384b2bf82592d93225
@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
+- 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
-- 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 embedding_id: 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 event_name: ''
 ---
@@ -44,5 +44,5 @@ After OpenAI released a lawyer-specific version of its model last week, Sullivan
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]]
+**Related:** [[2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]]
 <!-- graph:end -->

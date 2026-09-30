@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/spacex-signs-1-1b-per-120459286.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/spacex-signs-1-1b-per-120459286.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: c55dc1189fb3313531821deae280de75547fd85dce64b42926db4aa6be22a485

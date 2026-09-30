@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale
 url_canonical: https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9506006755bf0c7f672705f60cb4fe71ac2531c3e1b9a05e27359406deacd2f1

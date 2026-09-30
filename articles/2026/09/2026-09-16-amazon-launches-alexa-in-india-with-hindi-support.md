@@ -5,7 +5,7 @@ date: '2026-09-16'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/16/amazon-alexa-plus-india-hindi-launch/
 url_canonical: https://techcrunch.com/2026/09/16/amazon-alexa-plus-india-hindi-launch/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-16_065920_Final-Daily-AI-News-Digest.md
 content_hash: 6cc036417ba8abcde3cb150bfcfccc2c4b0aaa0a820415b82ee7d175dd5ade15
 normalized_title_hash: 778d2191ca0a62f8

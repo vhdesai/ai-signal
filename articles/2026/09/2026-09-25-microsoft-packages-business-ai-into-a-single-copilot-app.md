@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html
 url_canonical: https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 724271a6e7a545764f15ed9579ba63bebee84e099351dce8a390f964a8248987

@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: Anthropic
 url_original: https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures
 url_canonical: https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: ed85efd8210cae9f7fdc560d43617d198c8b5f3be0aacd6bfb8b8d7c149139b0

@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: Channel News Asia
 url_original: https://www.channelnewsasia.com/business/blackrock-backed-group-commits-5-billion-aligned-data-centers-after-completing-acquisition-6268081
 url_canonical: https://www.channelnewsasia.com/business/blackrock-backed-group-commits-5-billion-aligned-data-centers-after-completing-acquisition-6268081
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 9cabadd3eeb218805284f1ff9944e70dd9417e9d098197ef324f2ef9c1fb8e87
 normalized_title_hash: 1f0ce847f6b7561a

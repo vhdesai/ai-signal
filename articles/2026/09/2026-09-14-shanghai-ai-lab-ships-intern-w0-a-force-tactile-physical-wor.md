@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Pandaily**
 url_original: https://en.pandaily.com/shanghai-ai-lab-intern-w0-physical-world-model/
 url_canonical: https://en.pandaily.com/shanghai-ai-lab-intern-w0-physical-world-model/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 6ee376d74ff4a1c818c702910004dc85d4fe0121971dcc04e5f0edd3d0f329c8
 normalized_title_hash: a86aceefb83cedd3

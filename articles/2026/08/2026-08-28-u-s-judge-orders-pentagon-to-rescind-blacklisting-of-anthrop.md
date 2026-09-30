@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: The Information · WSJ Pro CyberSecurity
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=judge+Pentagon+rescind+blacklist+Anthropic
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=judge+Pentagon+rescind+blacklist+Anthropic
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_065948_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 7bc73de62841ed3becc659bdce6e29cdbe7c06d43b493cad8f00dfbeb44e5fdb

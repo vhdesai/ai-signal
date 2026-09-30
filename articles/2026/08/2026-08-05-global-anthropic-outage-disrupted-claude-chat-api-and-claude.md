@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: Android Authority
 url_original: https://www.androidauthority.com/claude-outage-august-5-2026-3694847/
 url_canonical: https://www.androidauthority.com/claude-outage-august-5-2026-3694847/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_060330_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 68defba1c357be3754f5d549e1aade38b2f207690814d953cc1e719343ea56cb

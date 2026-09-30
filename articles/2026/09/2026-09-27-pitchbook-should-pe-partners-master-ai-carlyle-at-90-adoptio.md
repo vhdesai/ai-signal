@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/should-pe-partners-master-ai-carlyle-strattam-2026-09-27
 url_canonical: https://pitchbook.com/news/articles/should-pe-partners-master-ai-carlyle-strattam-2026-09-27
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 5e7f198c90f1dc6732b961a2c5f5432676fc645c309ca85e247c0da61637f78d

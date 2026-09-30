@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: OpenAI
 url_original: https://openai.com/index/introducing-ai-futures/
 url_canonical: https://openai.com/index/introducing-ai-futures/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 8481b5921ba8d1b406763a67cabf9a332005ef35b3f62878df992ff35bc381e3

@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Axios
 url_original: https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade
 url_canonical: https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 0e556aa9c8cf1f03dfb9d251fe5d0bcaa62049dccdf8c68955a77b1ecd91cb0e

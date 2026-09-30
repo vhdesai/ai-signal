@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: 9to5Mac / OpenAI Blog
 url_original: https://9to5mac.com/2026/05/14/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/
 url_canonical: https://9to5mac.com/2026/05/14/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: f66f752b92a854bdd4b57d0dee6ca939e949f38b31ab80f5e3507ab3f9fa227d

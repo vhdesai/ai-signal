@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/
 url_canonical: https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 3fcaaa78ef100e59421b306f6a6541b29acd4c4cafe38a66eb374dd3822c23f8

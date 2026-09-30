@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/
 url_canonical: https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 7a6053a71a0d535c0bc89ad1f58d29c4e9bd44195d7ffe82e6822ad17355badf

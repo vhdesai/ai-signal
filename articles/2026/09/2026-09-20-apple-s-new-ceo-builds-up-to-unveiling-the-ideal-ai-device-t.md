@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Next Web
 url_original: https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub
 url_canonical: https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 51256e747c377b2ca85cd3843dee2a72ebafbbb01600c0ac0f019307b01544d3

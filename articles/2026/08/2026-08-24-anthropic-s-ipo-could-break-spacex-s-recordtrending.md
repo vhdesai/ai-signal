@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Taipei Times
 url_original: https://www.taipeitimes.com/News/biz/archives/2026/08/24/2003863003
 url_canonical: https://www.taipeitimes.com/News/biz/archives/2026/08/24/2003863003
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 9645b67dae1e29808074950c2e2a7b1ede1d0a95d6686823efff15ea0d7ffd2e

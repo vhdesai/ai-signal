@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: OpenAI Blog
 url_original: https://openai.com/index/expanding-openai-academy-with-new-learning-paths/
 url_canonical: https://openai.com/index/expanding-openai-academy-with-new-learning-paths/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 4fec2c0ffdea68cca1574b9a0298a9bca19766c6184ea2b9ea656ddad07f586f

@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/
 url_canonical: https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_060153_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: c70bf66c91a2e721790cf6f7e2a518704feb55fda7c80e66416b3930ba37f95b

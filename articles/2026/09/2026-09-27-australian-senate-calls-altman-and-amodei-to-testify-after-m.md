@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: The Hindu
 url_original: https://www.thehindu.com/sci-tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece
 url_canonical: https://www.thehindu.com/sci-tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: bfd5d4040e8299bfafe42f13dde1895ccb6d28183ab4371e5a62ac10d51cab0c

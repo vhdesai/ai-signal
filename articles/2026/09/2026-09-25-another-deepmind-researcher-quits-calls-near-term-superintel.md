@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/
 url_canonical: https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e5e199a2261d31b114ac5fee0577c0d662a98af6a67f84ea8f477bcfd3736d72

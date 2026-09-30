@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
 url_canonical: https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 6bf40037379bbe35fe7af1989948e7bd03f912a942e90b8906e6832e80c4d8ab

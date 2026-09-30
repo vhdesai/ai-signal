@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
 url_canonical: https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: f7f5149ff0ab83dbd9b6e6bf13a6deb6a21a0009bb1630fbb6aba0d56e40ea03

@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: MarketingTech News
 url_original: https://www.marketingtechnews.net/news/google-ai-shopping-gemini-ai-mode-india/
 url_canonical: https://www.marketingtechnews.net/news/google-ai-shopping-gemini-ai-mode-india/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 08ea649f95005fcb7a7136d7ed5908a21beb4be64f6a6d1814fa05b217523eeb

@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: '[Intel / CNBC]'
 url_original: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
 url_canonical: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: b9bd3f55fe6445e6479c8c311d778b16b5a209332eaf9dcbc2ce283ac8ac36e9

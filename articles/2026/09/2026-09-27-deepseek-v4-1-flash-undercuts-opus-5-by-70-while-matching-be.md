@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: shattered.io
 url_original: https://shattered.io/deepseek-v4-1-flash-undercuts-opus-5-2026-09-27
 url_canonical: https://shattered.io/deepseek-v4-1-flash-undercuts-opus-5-2026-09-27
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: a2e57ffb5e736e9c2a25e45df869649570ba8498db46c185b07b2027ad336c43

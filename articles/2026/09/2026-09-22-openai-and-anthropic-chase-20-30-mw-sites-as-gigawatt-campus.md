@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Tom's Hardware
 url_original: https://finance.yahoo.com/technology/ai/articles/openai-anthropic-scramble-smaller-data-093000216.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/openai-anthropic-scramble-smaller-data-093000216.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062352_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 333e3ce5c9f5726e03c18913cd451e7505163af753b0e4be9559a246fa586184

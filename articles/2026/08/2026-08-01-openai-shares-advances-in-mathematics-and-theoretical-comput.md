@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: OpenAI Blog
 url_original: https://openai.com/index/ten-advances-in-mathematics/
 url_canonical: https://openai.com/index/ten-advances-in-mathematics/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_060602_Inbox_Daily AI News Digest - August 3,
   2026.md
 content_hash: e48b547389989471c5f9ceb1f2218803cf9035f5bd779a2a45569f6169ba2387

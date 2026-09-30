@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: OpenAI
 url_original: https://openai.com/index/cognition-devin-testing-with-astra
 url_canonical: https://openai.com/index/cognition-devin-testing-with-astra
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8eef0379f52781a9a13fe5bd68076e060fd5beb57f4949608bd74c8bb7cd38a4

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
 url_canonical: https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061956_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 2a559b6f2a2976a5b9098bc22d2309603a154ae43fc7242d9f54bd1c38185288

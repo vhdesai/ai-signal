@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: NVIDIA Newsroom**
 url_original: https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 1a37692da99116b1bab18f9a5a31e09c887bec662ec4252272a768b55c03d8d8
 normalized_title_hash: e63de598fb4c6c3a

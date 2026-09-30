@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/
 url_canonical: https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: ee49c842718f3d69c1c60ed875e2d333b80dfe716600bb4e994ec02569b55fc5

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
 url_canonical: https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: f3c216a3129ddc6ca9735c10fb82375fcc1e09ca5ad154a77a9c7f86717a578b

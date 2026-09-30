@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: Anthropic
 url_original: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders
 url_canonical: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: e6aef753ea28e17030997055902f52855e3903f949d36a2e3a80630e774a3d80

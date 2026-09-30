@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: OpenAI
 url_original: https://openai.com/index/australian-youth-safety-blueprint/
 url_canonical: https://openai.com/index/australian-youth-safety-blueprint/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: aed468fea4a6afa480b5968b79d1424a73cd64833f0ec8b0a544fb34cb5d893b

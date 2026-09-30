@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Engadget
 url_original: https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/
 url_canonical: https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 70ca189634238d7978479440bd935bca60b0461554d407d77790916cfb1c2efe

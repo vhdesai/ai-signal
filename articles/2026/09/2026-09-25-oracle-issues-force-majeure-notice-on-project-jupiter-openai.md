@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Reuters
 url_original: https://malpass.co/top-ai-stories-2026-09-25/
 url_canonical: https://malpass.co/top-ai-stories-2026-09-25/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 1272cb60a11b37cb1f09d852fb28b9fc3a5ba980dcab97d4b2772f9396e61c63

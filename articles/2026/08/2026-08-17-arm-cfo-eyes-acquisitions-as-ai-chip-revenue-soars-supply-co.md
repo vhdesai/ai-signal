@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Arm+CFO+acquisitions+AI+chip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Arm+CFO+acquisitions+AI+chip
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: cc73205ab976db03755c9dac9b10ade906404932775ff9e942c72e186fe51be6
 normalized_title_hash: 6a5e62a2c4e317a6

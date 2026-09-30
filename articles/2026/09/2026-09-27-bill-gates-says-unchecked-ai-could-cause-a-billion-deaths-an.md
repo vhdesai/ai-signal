@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: The Guardian
 url_original: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker
 url_canonical: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060626_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 2feb7949d4c593d2868e061c4792dde1a4b0a7b73767dbd2ddfb9fbd51d698fd

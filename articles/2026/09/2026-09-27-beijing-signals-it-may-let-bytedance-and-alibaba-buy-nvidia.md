@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: The Information
 url_original: https://www.theinformation.com/search?query=MIIT%20ByteDance%20Alibaba%20Nvidia%20RTX%20Pro%205500
 url_canonical: https://www.theinformation.com/search?query=MIIT%20ByteDance%20Alibaba%20Nvidia%20RTX%20Pro%205500
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 04f2fbfe0c5b6239d47c153a6b13a3966f5955dc20ff7ce6ff01dd279b8e607d

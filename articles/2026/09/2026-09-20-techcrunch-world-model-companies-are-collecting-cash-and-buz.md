@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/
 url_canonical: https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: af29b56a58341c8501de282af09d9484a05062c733293d64ae092f8fe02dc026

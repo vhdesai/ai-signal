@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Unite.AI
 url_original: https://www.unite.ai/blackrock-takes-majority-stake-in-metas-el-paso-ai-campus/
 url_canonical: https://www.unite.ai/blackrock-takes-majority-stake-in-metas-el-paso-ai-campus/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 8b9e5b9254ebc2bc4a43ae840448489c808b59248fc9eeaf09b34e20b2f0a09c

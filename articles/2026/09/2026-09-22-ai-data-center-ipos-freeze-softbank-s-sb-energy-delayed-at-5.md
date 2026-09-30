@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: The New York Times / DealBook]
 url_original: https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html
 url_canonical: https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: ae5bfb8fe16933d5cc415fa7a3cfcb88f06d4b5d934a765d140aa00b749a32ca

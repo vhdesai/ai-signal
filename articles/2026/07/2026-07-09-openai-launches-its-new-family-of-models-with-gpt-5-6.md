@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
 url_canonical: https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 5b8da0bedd80fdb359fde1a008a0b1c8758d2698c22aba1210d96d93b372831e

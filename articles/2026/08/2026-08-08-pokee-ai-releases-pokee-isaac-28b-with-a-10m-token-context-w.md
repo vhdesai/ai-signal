@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/
 url_canonical: https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_062204_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 134520839e5f2abd1d57229743ee53fdf9f8649918828b140922e97b2d80bcc4

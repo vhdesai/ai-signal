@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Decoder
 url_original: https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/
 url_canonical: https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 88d0b59cf5aac02d905008ea8a8377ac0ce0535c40d8e4862f9fa0767764f878

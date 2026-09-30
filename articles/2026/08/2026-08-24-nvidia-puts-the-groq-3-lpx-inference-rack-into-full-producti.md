@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: '[Firstpost]'
 url_original: https://www.firstpost.com/tech/nvidia-puts-groq-3-lpx-into-full-production-racks-set-to-go-online-this-year-14040482.html
 url_canonical: https://www.firstpost.com/tech/nvidia-puts-groq-3-lpx-into-full-production-racks-set-to-go-online-this-year-14040482.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 31520a242a493508644e1fe3122bd25fe3a2d528c03f035a33715e82dab78db0

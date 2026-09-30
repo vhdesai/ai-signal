@@ -6,7 +6,7 @@ date: '2026-08-31'
 source: European Commission
 url_original: https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act
 url_canonical: https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-01_081143_Final-Daily-AI-News-Digest.md
 content_hash: 416342cced4327e2852a4f14cd24d890679ed4af9a804beee0f3e1e8dded4938
 normalized_title_hash: 3fc9a29aa96655ec

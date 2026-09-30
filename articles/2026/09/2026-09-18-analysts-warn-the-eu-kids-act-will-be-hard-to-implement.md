@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Forbes
 url_original: https://www.forbes.com/sites/emmawoollacott/2026/09/18/rushed-eu-kids-act-may-be-a-nightmare-to-implement/
 url_canonical: https://www.forbes.com/sites/emmawoollacott/2026/09/18/rushed-eu-kids-act-may-be-a-nightmare-to-implement/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 5323fabbae5aed6debe125ec798289d8efb5e619f2c00ee1417bef3e68b3d784

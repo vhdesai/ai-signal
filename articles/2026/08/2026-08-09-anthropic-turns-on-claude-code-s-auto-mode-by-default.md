@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
 url_canonical: https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 85dbae805ee2a1cc55dfc5908edf3740b02cb63a6da14612d91ed1fbf19c0609

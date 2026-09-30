@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/
 url_canonical: https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
 content_hash: 2ddac2c51098267958826fe084de2411c052771f56ce5470a7aa44a35c7383dd

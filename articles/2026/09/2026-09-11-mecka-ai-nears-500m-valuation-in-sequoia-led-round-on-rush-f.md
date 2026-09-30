@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
 url_canonical: https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 9ce009f2ddfeaa4d82be477c48adc652dab24e97601063a929ed1d46f04027fc

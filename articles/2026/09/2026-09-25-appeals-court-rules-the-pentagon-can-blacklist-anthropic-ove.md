@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Ars Technica / CNBC
 url_original: https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
 url_canonical: https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: d9a32b7f10b98892f48a89b5670e80450fd348869c5b44e3f232860f7b692b4d

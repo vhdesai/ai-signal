@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: CNBC / WSJ Pro Cybersecurity
 url_original: https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html
 url_canonical: https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-29_065041_Final-Daily-AI-News-Digest.md
 content_hash: 112a847326c4c9a7f3041d59f97c1c27ecd9ad222601faf755dcc814199920dd
 normalized_title_hash: 5952713d5ebeb669

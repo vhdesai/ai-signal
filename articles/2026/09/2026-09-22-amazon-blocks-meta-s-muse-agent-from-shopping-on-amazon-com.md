@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-amazon-blocks-meta-muse/
 url_canonical: https://www.techrepublic.com/article/news-amazon-blocks-meta-muse/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 660e55d397bd82a6b6f42621251d01d6cb9bd1ba6c6cb77d15a685b67594ebff

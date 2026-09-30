@@ -6,7 +6,7 @@ date: '2026-08-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+rise+17+percent
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+AI+chip+prices+rise+17+percent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_065923_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: b7b9eadb8b1ab70fe2f651f18c1d538b24ab4480993a49a4303582f48aef2bca

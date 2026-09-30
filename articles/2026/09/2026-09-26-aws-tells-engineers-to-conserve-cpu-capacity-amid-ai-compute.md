@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Stocktwits / BigGo Finance
 url_original: https://stocktwits.com/news-articles/markets/equity/aws-cpu-conservation-oracle-nm-rent-delay-2026-09-26
 url_canonical: https://stocktwits.com/news-articles/markets/equity/aws-cpu-conservation-oracle-nm-rent-delay-2026-09-26
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 1ace9457d819f4fdb08f5717ff5005fbdc26ecf788ad4b873d04f8cc98fea798

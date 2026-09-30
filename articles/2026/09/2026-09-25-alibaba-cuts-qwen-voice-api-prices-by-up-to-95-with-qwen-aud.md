@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: AIToolsRecap]
 url_original: https://aitoolsrecap.com/Blog/ai-news-september-26-2026
 url_canonical: https://aitoolsrecap.com/Blog/ai-news-september-26-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: c3e05ee5cbf69187c33e463d94b63183f7791388227712f71da41d85773e1fc8

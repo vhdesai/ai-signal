@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Forbes]
 url_original: https://www.forbes.com/sites/jonmarkman/2026/09/25/anthropic-signs-116-billion-seven-year-cpu-deal-with-akamai/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/09/25/anthropic-signs-116-billion-seven-year-cpu-deal-with-akamai/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 103954772d5e6e1916cdaf1d1698defc7d529aac5fb7b1e40f23086c80dfd0c0

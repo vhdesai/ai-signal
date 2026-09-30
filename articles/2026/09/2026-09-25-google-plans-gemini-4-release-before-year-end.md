@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html
 url_canonical: https://www.computerworld.com/article/4226640/google-plans-gemini-4-release-before-year-end.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 2237d60172237123438c152a6d99ddfcae58f2826538c5ab76e48b63e5e5ec24

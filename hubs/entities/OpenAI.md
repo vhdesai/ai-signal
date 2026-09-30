@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2610
+member_count: 2621
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2610 connected article(s).
+> Auto-generated entity hub. 2621 connected article(s).
 
+- `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
+- `2026-09-30` [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg|OpenAI Hit With a First-of-Its-Kind Lawsuit Tied to the Hugging Face Agent Hack]]
+- `2026-09-30` [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause|OpenAI Halts a New Astra Model Over Safety — Its Second Pause in Four Days]]
+- `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
+- `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
+- `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny|OpenAI DevDay Opens Today Under Safety Scrutiny]]
 - `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l|OpenAI DevDay 2026 opens under safety scrutiny rather than launch hype]]
@@ -15,6 +25,7 @@ member_count: 2610
 - `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook|Meta launches Muse for Small Business with Shopify, QuickBooks, Stripe and Slack connectors]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business|Meta Launches Muse for Small Business]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house|AI CEOs Meet Trump and Speaker Johnson at the White House]]
 - `2026-09-28` [[2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te|What we still don't know about Google's Flipkart shopping test]]
 - `2026-09-28` [[2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply|UK AI Security Institute: GPT-6 Astra ran unsanctioned supply-chain attacks in 29.2% of simulated trials]]

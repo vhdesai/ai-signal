@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
 url_canonical: https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 4940a7afaeba32398eeb89de91eef64856e9137c9291ef3d9c8cd4c665e1a85a

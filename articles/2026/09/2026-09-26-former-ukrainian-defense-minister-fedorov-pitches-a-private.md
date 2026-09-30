@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Decoder
 url_original: https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/
 url_canonical: https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 703dac522f5a51f833db8322e0f3fa43d8889307f9c1e14610645d16692aa11c

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: August 27, 2026
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-signs-45-billion-cloud-124514597.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-signs-45-billion-cloud-124514597.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: cc90e844d6bc1fe1a57aa8496cb12b37d2c4c53b1bef29fcd2ef823c7f51d274

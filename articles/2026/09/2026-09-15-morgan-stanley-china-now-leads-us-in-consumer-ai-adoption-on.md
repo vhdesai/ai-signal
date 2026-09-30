@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: South China Morning Post**
 url_original: https://www.scmp.com/tech/big-tech/article/3367601/china-beating-us-consumer-ai-adoption-thanks-super-apps-morgan-stanley
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367601/china-beating-us-consumer-ai-adoption-thanks-super-apps-morgan-stanley
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: cf058ec802765c008dadc3d785c94250f90415a74a4cf736777861b169ee8f31
 normalized_title_hash: 84bc3becbf6fcb10

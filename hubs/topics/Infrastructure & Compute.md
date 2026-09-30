@@ -1,14 +1,15 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2073
+member_count: 2074
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2073 connected article(s).
+> Auto-generated topic hub. 2074 connected article(s).
 
 - `2026-09-29` [[2026-09-29-mit-the-harms-of-algorithmic-monoculture-depend-on-the-detai|MIT: The Harms of "Algorithmic Monoculture" Depend on the Details]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]
 - `2026-09-29` [[2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war|Anthropic IPO prospectus devotes ~80 of 261 pages to risk, warns of “existential risks to humanity”]]
 - `2026-09-28` [[2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ|Sakana AI and the University of Tokyo triple robot task success with test-time search]]

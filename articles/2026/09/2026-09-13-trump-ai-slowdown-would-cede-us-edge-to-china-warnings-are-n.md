@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china
 url_canonical: https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 5aa459c723070119f3ce372597cf8492d98c3d5a65773c9eec680a9d78b270c1

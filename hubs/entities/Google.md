@@ -1,16 +1,22 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1541
+member_count: 1547
 ---
 
 # Google
 
-> Auto-generated entity hub. 1541 connected article(s).
+> Auto-generated entity hub. 1547 connected article(s).
 
+- `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
+- `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
+- `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
+- `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]
 - `2026-09-29` [[2026-09-29-google-opens-gemini-skills-to-all-free-account-users|Google Opens Gemini Skills to All Free Account Users]]
 - `2026-09-29` [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se|Google Appeals EU DMA Orders on Android AI Assistants and Search Data Sharing]]
+- `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te|What we still don't know about Google's Flipkart shopping test]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]

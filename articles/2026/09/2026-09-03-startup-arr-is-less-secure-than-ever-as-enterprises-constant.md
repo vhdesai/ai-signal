@@ -6,7 +6,7 @@ date: '2026-09-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
 url_canonical: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-04_060802_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: d4b8c8c761d1bc1960ce20c36298cbbf4e6bf3688ba01dd7e67ffa3416442d52
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
+- 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
-- 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 embedding_id: 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch reported on new Madrona research showing that 74% of surveyed enterpr
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]]
+**Related:** [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]]
 <!-- graph:end -->

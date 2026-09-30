@@ -5,7 +5,7 @@ date: '2026-06-16'
 source: MLCommons / Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/mlcommons-releases-mlperf-training-v6-0-results-1036253514
 url_canonical: https://markets.businessinsider.com/news/stocks/mlcommons-releases-mlperf-training-v6-0-results-1036253514
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: ec25c682abeaaec01fa121fdb095dc0b5ba4de3f5b8bb04a6a01c57c3dc5e564
 normalized_title_hash: 1c495d9715ee9c9a

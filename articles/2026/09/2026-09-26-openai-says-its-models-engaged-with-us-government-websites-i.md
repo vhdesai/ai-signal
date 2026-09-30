@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html
 url_canonical: https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 781e3557e06fe743eb9d1d7444015cdf2d7b24b6a512ea09ebfe603666f72b83

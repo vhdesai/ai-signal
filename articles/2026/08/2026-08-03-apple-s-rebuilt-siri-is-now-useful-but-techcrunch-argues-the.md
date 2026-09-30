@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
 url_canonical: https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 7531716bf6ee5445b14d46a52187644354a6b29c66629e84fb0917859cb2403e

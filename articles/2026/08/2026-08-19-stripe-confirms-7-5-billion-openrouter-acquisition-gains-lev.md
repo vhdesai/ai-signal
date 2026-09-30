@@ -6,7 +6,7 @@ date: '2026-08-19'
 source: TechCrunch / NYT
 url_original: https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
 url_canonical: https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 9a59746cb498a53b74fa51afa740db6c918aa0e0bf95b85cd0320acc4011df50
 normalized_title_hash: fb92ec07a6235ae5

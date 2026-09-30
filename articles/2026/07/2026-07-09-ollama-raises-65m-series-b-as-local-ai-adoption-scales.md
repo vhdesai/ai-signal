@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
 url_canonical: https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: e0f2c6a483b5322c08b7501584709b7a861e29cefcf6d4e447a8cb456c104596

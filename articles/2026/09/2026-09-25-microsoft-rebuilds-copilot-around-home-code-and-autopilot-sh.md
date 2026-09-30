@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Microsoft / CNBC]
 url_original: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
 url_canonical: https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 000a198e98a3cf46a0a32cf1125eb1d814ff8a365cb7351a756682d27b046568

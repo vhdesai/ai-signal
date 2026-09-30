@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
+- 2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob
 - 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
-- 2026-05-18-anthropic-and-pwc-announced-an-expanded-strategic-alliance-i
 embedding_id: 2026-05-17-pwc-announced-a-major-deployment-of-claude-to-build-technolo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PwC announced a major deployment of Claude to build technology, execute deals, a
 ## Connections
 
 **Entities:** [[IBM]]
-**Related:** [[2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-05-18-anthropic-and-pwc-announced-an-expanded-strategic-alliance-i]]
+**Related:** [[2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]]
 <!-- graph:end -->

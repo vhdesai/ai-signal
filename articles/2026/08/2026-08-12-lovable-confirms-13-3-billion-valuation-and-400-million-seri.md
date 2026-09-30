@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/
 url_canonical: https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: a5c8e5d109ca9527d209a2b8acb42c6c05656e9ba7cccfebc7d7b66f6660cb49

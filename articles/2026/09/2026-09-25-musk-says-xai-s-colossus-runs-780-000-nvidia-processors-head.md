@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Blockonomi
 url_original: https://blockonomi.com/nvidia-nvda-stock-surges-as-elon-musk-reveals-massive-ai-chip-deployment/
 url_canonical: https://blockonomi.com/nvidia-nvda-stock-surges-as-elon-musk-reveals-massive-ai-chip-deployment/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: bc0e16ab4909545b54d3959a8a69b1fe006887fccea66b08256e3980cb2ed333

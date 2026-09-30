@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Chosun Ilbo
 url_original: https://www.chosun.com/english/industry-en/2026/09/22/3JM3NLWBWBDVZN3Z5T2L45U2ZI/
 url_canonical: https://www.chosun.com/english/industry-en/2026/09/22/3JM3NLWBWBDVZN3Z5T2L45U2ZI/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 357faab12ae0652b0247912900d17dba775ff72337b94c3cfc398ee972d22bf6

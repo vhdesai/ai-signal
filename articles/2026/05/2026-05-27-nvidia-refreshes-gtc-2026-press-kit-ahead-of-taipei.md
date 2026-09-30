@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: NVIDIA Newsroom
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e4a937ca6242328809b8561dac59d618ac7dfd587209171d21935e70113588c3

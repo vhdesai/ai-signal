@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
 url_canonical: https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 8a96b98767beb8b2dc6532227227f2ca9a147b2259f419896b3140791d141806
 normalized_title_hash: 3e4121c84cee2021

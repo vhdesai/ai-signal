@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc
 url_canonical: https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 3a226205b16414486db3016e3e2555e283d3d0e51c18437e59c997b509995fb3

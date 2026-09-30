@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+closes+up+2026
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+closes+up+2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-04_065014_Final-Daily-AI-News-Digest.md
 content_hash: e27fcc3139d6885fc3fa999fc0b725b510a47d551c530faad57b81e7b31e327a
 normalized_title_hash: 0e4bea4f34874648

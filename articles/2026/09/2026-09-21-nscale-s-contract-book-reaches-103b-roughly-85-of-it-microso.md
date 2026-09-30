@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/nscale-contracts-surge-microsoft-anthropic/
 url_canonical: https://cryptobriefing.com/nscale-contracts-surge-microsoft-anthropic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 58ad23f816a7ca0172b3adfbab05b8e58414cc2b9d273a77bef670e99e9bfa38

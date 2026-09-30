@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: Computerworld · TechBooky**
 url_original: https://www.computerworld.com/article/4197755/thinking-machines-lab-offers-enterprises-a-us-alternative-in-open-weight-ai.html
 url_canonical: https://www.computerworld.com/article/4197755/thinking-machines-lab-offers-enterprises-a-us-alternative-in-open-weight-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: ece76aaa796b8fa55c396499e411e0c5b3594ed05fa4c711341219b6b417e2c0
 normalized_title_hash: a0a679dbcf6afe6f

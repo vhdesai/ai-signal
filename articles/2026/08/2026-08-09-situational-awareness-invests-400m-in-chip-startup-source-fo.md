@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: '[TechCrunch]'
 url_original: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
 url_canonical: https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_062245_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 788a710c3131c88e3f861f451db9f9007e7b1287b61580540f1dc8a5b1f50050

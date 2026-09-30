@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: DeepSeek**
 url_original: https://www.deepseek.com/en/news/deepseek-v4-1-flash/
 url_canonical: https://www.deepseek.com/en/news/deepseek-v4-1-flash/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 9af5c81cfebb40ad8368f236d91b69075f3e76ae7e97cb329bedb314a9443233
 normalized_title_hash: c0d04c4301cf1c02

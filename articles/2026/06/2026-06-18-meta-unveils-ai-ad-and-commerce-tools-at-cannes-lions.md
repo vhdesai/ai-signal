@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Republic World
 url_original: https://www.republicworld.com/tech/meta-unveils-new-ai-powered-ad-tools-to-turn-product-discovery-into-purchases-2026-06-18-128912
 url_canonical: https://www.republicworld.com/tech/meta-unveils-new-ai-powered-ad-tools-to-turn-product-discovery-into-purchases-2026-06-18-128912
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-19_070001_Final-Daily-AI-News-Digest.md
 content_hash: fe57aab34243640b40c342e6a82dafe6aeac2c8ddd98b20039bbcae569010a20
 normalized_title_hash: 349d4cd71b925bdd

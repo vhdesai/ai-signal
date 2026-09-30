@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/06/29/coreweave-debuts-aria-agent-automate-ai-research-weights-biases/
 url_canonical: https://siliconangle.com/2026/06/29/coreweave-debuts-aria-agent-automate-ai-research-weights-biases/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 451a2af060b7c78a98fd68bb47ccdab7bf4eb6b3f5d073d336d6dba75c9d5e74
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search
 - 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
+- 2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale
 - 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
-- 2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia
 embedding_id: 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI-cloud operator CoreWeave debuted ARIA (AI Research and Iteration Agent), embe
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]]
+**Related:** [[2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search]] · [[2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]]
 <!-- graph:end -->

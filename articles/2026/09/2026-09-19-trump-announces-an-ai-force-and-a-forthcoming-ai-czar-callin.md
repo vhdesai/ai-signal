@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
 url_canonical: https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: d1251e64da5bb6bfa01d900da56644aad89c1ee820f58ac93e99a27fe6afe633

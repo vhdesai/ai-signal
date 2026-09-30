@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: MarkTechPost**
 url_original: https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/
 url_canonical: https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 02992a048ffcee1f1786c47a28f4bb9480133ecd7c374e7c958c5f04213e2880
 normalized_title_hash: 8d2d63eadf4ccb52

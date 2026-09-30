@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/
 url_canonical: https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: f4411371df3500f6be098c61317739dd01acf8d4c091f35ca03df5648c58c77f

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-meta-soar-muse-ai.html
 url_canonical: https://techxplore.com/news/2026-09-meta-soar-muse-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 635ae7c3132c0bbb31ef3aa4cbf6e054173876b3cfb48bdd6e9007fe5a967e23

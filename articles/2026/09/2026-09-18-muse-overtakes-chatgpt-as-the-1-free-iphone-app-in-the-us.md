@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/
 url_canonical: https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: cf2714f29b5e585851eca3294e826e79ee6ebf1a4d91fdde8b448ebd0f98ac6d

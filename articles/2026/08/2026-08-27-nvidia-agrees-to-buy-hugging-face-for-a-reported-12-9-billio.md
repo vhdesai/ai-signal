@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[CNBC]'
 url_original: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
 url_canonical: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 228c28a6f179590e3be972b07986b2fa1be43cd95296ceffa469474e0d985f7c

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-oracle-layoffs-2026-9
 url_canonical: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-oracle-layoffs-2026-9
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 30e3a67aeee981bd3a971b3fe3339bdf9439e72875fe178fd346b122c4b4f12c

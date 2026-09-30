@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: TechStartups
 url_original: https://techstartups.com/2026/09/22/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-safety-and-risks-amid-us-china-tensions/
 url_canonical: https://techstartups.com/2026/09/22/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-safety-and-risks-amid-us-china-tensions/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: b9fc24001d3a7aa91cf52aab573e9950a293e68ff0bd83f03e7731e7c7cfc3bd

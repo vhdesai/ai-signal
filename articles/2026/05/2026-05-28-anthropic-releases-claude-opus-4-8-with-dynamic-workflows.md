@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: TechCrunch; May 29, 2026 · DealBook; May 29, 2026 · The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 3f987cf030e26482e2daf28d7f1277c5bcf7cf95bc1d0cfa5c30a782b58187a6

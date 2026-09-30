@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/three-frontier-labs-building-finra-194134029.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/three-frontier-labs-building-finra-194134029.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 5392b9f85264ebed07951125316cceb5a87bec2928903af168b8231e2311c715

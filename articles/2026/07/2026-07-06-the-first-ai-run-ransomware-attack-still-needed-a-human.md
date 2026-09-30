@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
 url_canonical: https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 7d39bd82a0b06f1ddc4bf6cfe9356f74fed38ac691ead5747d4920707f1606c7

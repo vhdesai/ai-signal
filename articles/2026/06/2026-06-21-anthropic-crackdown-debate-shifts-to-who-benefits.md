@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
 url_canonical: https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 140d681ecac1efd16ffd46fb5869f4154c125d7eac4d548d26c35b7c1528edf0
 normalized_title_hash: 28d70fc984c11042

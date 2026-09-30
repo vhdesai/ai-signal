@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: VentureBeat
 url_original: https://venturebeat.com/security/why-ai-shouldnt-be-the-one-repairing-your-data-pipelines
 url_canonical: https://venturebeat.com/security/why-ai-shouldnt-be-the-one-repairing-your-data-pipelines
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 281127ddd9fa987e283b1b69ed7459977c8d26a30b6d31699ceeadcfd5983951

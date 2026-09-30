@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
+- 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
-- 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
 embedding_id: 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The UK’s Competition and Markets Authority ordered Google to provide publisher
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o]]
+**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: CNBC · METR
 url_original: https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html
 url_canonical: https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: f7774b7b1d7802cee6b5c33344ad492a5af0ab9db3bd3da29b222192bd115a35

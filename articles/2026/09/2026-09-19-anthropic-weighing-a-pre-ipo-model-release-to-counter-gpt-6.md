@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: Crypto Briefing / CoinCentral, citing Reuters
 url_original: https://cryptobriefing.com/anthropic-may-release-new-ai-model-before-ipo-to-boost-valuation-reuters/
 url_canonical: https://cryptobriefing.com/anthropic-may-release-new-ai-model-before-ipo-to-boost-valuation-reuters/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: e776ab9cfd2e5a95c07f1dcef7f9589a672b17c75965e81e3562409db1ffb8f2

@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Hindustan Times
 url_original: https://www.hindustantimes.com/business/anthropic-2-trillion-ipo-why-investors-think-it-could-be-worth-more-than-spacex-101787500019443.html
 url_canonical: https://www.hindustantimes.com/business/anthropic-2-trillion-ipo-why-investors-think-it-could-be-worth-more-than-spacex-101787500019443.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 77519d602eb6addc3caa3573647ee16c6b46ed2661a4e0d8ae327505d0bb97fc

@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: Reuters via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-deepseek-developing-own-103437335.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-deepseek-developing-own-103437335.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: ffed2c4f97313a0d6c8d6f3f6b2acd33a20259859507ec4eef5dc6e4d0f804c9

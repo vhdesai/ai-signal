@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/08/ai-plus-chemistry-can-expand-battery-electrolyte-design
 url_canonical: https://news.cornell.edu/stories/2026/08/ai-plus-chemistry-can-expand-battery-electrolyte-design
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 7681e450d571f1de1f01dfc91b3a168688e8ec90814579d42c76c8f3a3db2788

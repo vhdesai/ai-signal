@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.yahoo.com/news/us/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html
 url_canonical: https://www.yahoo.com/news/us/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 63a1285c30bedddd9456447fd38942d65db4d89763359afd0a08764635497e83

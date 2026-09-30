@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
 url_canonical: https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 398d69cb387cc6250009d5de6647e77d23cbb9b1a2c3ba237bcf908d79f74a1a

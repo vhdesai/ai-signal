@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
 url_canonical: https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 01d50cf741d34befbe7286d756133c3886962e28045093f126a8fa4e356fa7a8

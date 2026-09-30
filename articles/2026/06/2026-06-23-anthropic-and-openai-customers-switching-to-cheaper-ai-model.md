@@ -5,7 +5,7 @@ date: '2026-06-23'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic+costs+customers+cheaper
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic+costs+customers+cheaper
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: e8d51d41f62c17a7a860d523997aa222db45b55db9b249cdbe0ccd936db678d3
 normalized_title_hash: e4fe91c56771f182

@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/
 url_canonical: https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 801c1490a3d51991eb50f140fe3c005ba76d23dfb6cff59848f96b3a42c6210e

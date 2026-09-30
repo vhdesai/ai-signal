@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: 24/7 Wall St.
 url_original: https://247wallst.com/investing/2026/07/30/microsoft-surges-9-as-azure-tops-100b-and-q4-beat-lifts-most-price-targets/
 url_canonical: https://247wallst.com/investing/2026/07/30/microsoft-surges-9-as-azure-tops-100b-and-q4-beat-lifts-most-price-targets/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: d5421a2acd28ea90e6066f7101f026cd6429ac7004b881c0e9926becc9959567

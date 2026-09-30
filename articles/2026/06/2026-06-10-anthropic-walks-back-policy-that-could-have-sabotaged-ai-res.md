@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: Wired; TechCrunch
 url_original: https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
 url_canonical: https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 032c4a80d01029616b5eae6d45b41d73d9356ae108da62ff1fb80a1fee4a7c3b
 normalized_title_hash: 3b85133059d6a82f

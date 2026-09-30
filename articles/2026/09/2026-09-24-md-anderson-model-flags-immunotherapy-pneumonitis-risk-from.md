@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: UT MD Anderson Cancer Center
 url_original: https://www.miragenews.com/ai-flags-at-risk-patients-for-lung-treatment-1750054/
 url_canonical: https://www.miragenews.com/ai-flags-at-risk-patients-for-lung-treatment-1750054/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 1b0397b1bc81468c2bd1e65c8452cf13133d1800f1a48377175c48232df61e61

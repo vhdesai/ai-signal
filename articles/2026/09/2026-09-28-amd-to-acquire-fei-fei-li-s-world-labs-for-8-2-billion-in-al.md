@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/
 url_canonical: https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8c7892217c5eb26a8321acc2b57733c0a33c0798d65bdd61a54c96edd2768475

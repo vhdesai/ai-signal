@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: CNBC · The Wall Street Journal
 url_original: https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html
 url_canonical: https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 6372ea3f06957e91d8089fc2abeaca7f2f903594416d735b533a39709f3e8f34
 normalized_title_hash: 7bb7b5dfcdd7a998

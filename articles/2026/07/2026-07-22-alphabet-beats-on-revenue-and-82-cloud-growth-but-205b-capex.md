@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
 url_canonical: https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 74a6584071bbb5f4035807843db7f4063228e2597c7875f657df003c508646ac
 normalized_title_hash: 371c7326798ad392

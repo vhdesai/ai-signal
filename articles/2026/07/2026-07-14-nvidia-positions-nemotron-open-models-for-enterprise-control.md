@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
 url_canonical: https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 0f03dd13f1e7d31dee3d4271b30e20b18a331771c55eb95b58ae23a3cda00d7b
 normalized_title_hash: 166c2e6ef04de36f

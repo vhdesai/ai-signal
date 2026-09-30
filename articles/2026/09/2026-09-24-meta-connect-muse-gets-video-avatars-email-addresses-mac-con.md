@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/
 url_canonical: https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 2339c170d8e8cc33844daf9b42bfb88a13220502b307a330efe3c5182bb7d98c

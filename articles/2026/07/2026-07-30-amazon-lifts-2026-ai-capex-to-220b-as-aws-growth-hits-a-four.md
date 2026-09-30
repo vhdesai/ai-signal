@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
 url_canonical: https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: fdb94bf594b446ccf740c72695b31d4714abbba27fcab236727e9e33fcfe4465

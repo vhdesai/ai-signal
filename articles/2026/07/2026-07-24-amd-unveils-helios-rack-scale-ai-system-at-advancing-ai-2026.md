@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: Tech Wire Asia**
 url_original: https://techwireasia.com/2026/07/amd-advancing-ai-2026-helios-openai-meta-anthropic/
 url_canonical: https://techwireasia.com/2026/07/amd-advancing-ai-2026-helios-openai-meta-anthropic/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-25_065018_Final-Daily-AI-News-Digest.md
 content_hash: b8389b2229be342141a313602988d1d4b7b8da4773c8deb49dce60cb27478248
 normalized_title_hash: da1cd96585729da5

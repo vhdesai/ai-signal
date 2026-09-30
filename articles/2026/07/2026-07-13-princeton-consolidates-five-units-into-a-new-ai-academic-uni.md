@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Daily Princetonian
 url_original: https://www.dailyprincetonian.com/article/2026/07/princeton-news-adpol-dais-data-and-intelligent-systems-ai-unit-absorbs-merger-research-survey-director-layoff
 url_canonical: https://www.dailyprincetonian.com/article/2026/07/princeton-news-adpol-dais-data-and-intelligent-systems-ai-unit-absorbs-merger-research-survey-director-layoff
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 08dd9edbd10d4dd866e17fcf55708abe15d34a75d05430ad0031d9cd0eb03e89

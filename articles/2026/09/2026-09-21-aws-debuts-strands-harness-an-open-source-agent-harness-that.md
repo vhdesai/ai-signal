@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/
 url_canonical: https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 92158560da1863339c4663969ebde5b78839a013ada2a69e844b96733142d823

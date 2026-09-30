@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: OpenAI
 url_original: https://openai.com/index/introducing-the-agents-api/
 url_canonical: https://openai.com/index/introducing-the-agents-api/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8d098dcf9abc25079f7d059768f90ad9944a29003ef855235f75d9e339446353

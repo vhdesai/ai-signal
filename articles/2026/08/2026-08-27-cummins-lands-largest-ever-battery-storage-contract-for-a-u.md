@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: Yahoo Finance UK
 url_original: https://uk.finance.yahoo.com/news/cummins-cmi-lands-biggest-battery-110627193.html
 url_canonical: https://uk.finance.yahoo.com/news/cummins-cmi-lands-biggest-battery-110627193.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 00b730059c14079c6746463256721dbabd29759fe896cca29db8b6d8a2f04053

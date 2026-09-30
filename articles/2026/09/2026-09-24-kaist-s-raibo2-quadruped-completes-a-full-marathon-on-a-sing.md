@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: KAIST
 url_original: https://www.miragenews.com/kaist-robot-completes-full-marathon-makes-1749368/
 url_canonical: https://www.miragenews.com/kaist-robot-completes-full-marathon-makes-1749368/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 92a1e082046ac8a2784fe4d2a6e80044aeccda6786024f38e76050b807ef9643

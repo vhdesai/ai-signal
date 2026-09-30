@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: Bloomberg / Yahoo Finance
 url_original: https://www.bloomberg.com/news/articles/2026-09-10/huawei-raises-ascend-ai-chip-prices-60-percent
 url_canonical: https://www.bloomberg.com/news/articles/2026-09-10/huawei-raises-ascend-ai-chip-prices-60-percent
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 1b0bb15ef07f84dacaa652000d6ce69f7b8e8a72048e6010d79c18a5d0c863fa
 normalized_title_hash: 0a156f89c0d07460

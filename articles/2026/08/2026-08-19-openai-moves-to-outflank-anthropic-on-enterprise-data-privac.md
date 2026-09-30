@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: TechCrunch / Computerworld
 url_original: https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
 url_canonical: https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-20_065002_Final-Daily-AI-News-Digest.md
 content_hash: 8c0c9a304544592927e8a05460db1c45439c272b548dc4e9d9a5fa35c866624b
 normalized_title_hash: 8e4ba852c86bfa42

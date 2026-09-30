@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: Axios
 url_original: https://www.axios.com/2026/08/11/chips-memory-inflation-ai
 url_canonical: https://www.axios.com/2026/08/11/chips-memory-inflation-ai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: b92c1c40132db0ec93918e979b370689f39b7644c420eacb81e4cf05c28a33de

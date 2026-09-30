@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/apple-trains-china-specific-ai-140316517.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/apple-trains-china-specific-ai-140316517.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 5b74c0872880aa759be56fddd91df103007a23b5a3a3f40311c8b8818b7efeea
 normalized_title_hash: cc33cd4796e3590d

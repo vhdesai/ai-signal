@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/
 url_canonical: https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 9730e8ee391b235a44a37e55797a5ef99541c43c527dc55f86198f07d9320e6e

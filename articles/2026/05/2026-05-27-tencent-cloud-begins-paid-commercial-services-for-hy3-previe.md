@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: EconoTimes
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6be20a636a2f1d606cd452eb7bd74d650b31a095d83fb9ed4b0f4678382e0720

@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
 url_canonical: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 370b60c0276492b518527486ebaa94c405010130a9a672ce02eb48902abff7bd

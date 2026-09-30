@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Google
 url_original: https://arxiv.org/abs/2608.19880
 url_canonical: https://arxiv.org/abs/2608.19880
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: a77ba8446889fadd69253bb6a1c62fb217cbc4d894691f19d06a97153bdf81d7

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Unite.AI
 url_original: https://www.unite.ai/moonshot-ai-blows-past-its-funding-target-ahead-of-a-hong-kong-ipo/
 url_canonical: https://www.unite.ai/moonshot-ai-blows-past-its-funding-target-ahead-of-a-hong-kong-ipo/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: e49c009b25ee352d2ea2cb8dee8a145ad6576adec5fcb4c4c1c931f50f79cd2d

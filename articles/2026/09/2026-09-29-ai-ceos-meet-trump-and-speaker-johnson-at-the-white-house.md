@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: ABC News
 url_original: https://abcnews.com/Politics/top-ai-leaders-meet-trump-white-house-amid/story?id=136832988
 url_canonical: https://abcnews.com/Politics/top-ai-leaders-meet-trump-white-house-amid/story?id=136832988
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_062402_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 02e1960b206aa000573e38076b86f39abc50ed2462ebf3bca05fdd072f10d1b7

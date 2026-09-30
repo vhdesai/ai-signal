@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ai-begin-delivering-meaningful-earnings-140721856.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ai-begin-delivering-meaningful-earnings-140721856.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-23_060915_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 9f07bfcd6f999722a2e3b305b3dcb0738ff24a009b9f738480ddfa6e1da0ed60

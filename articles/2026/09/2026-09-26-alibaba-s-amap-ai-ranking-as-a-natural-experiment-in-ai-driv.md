@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 20fe176e20426b92c400d90355c93e87a8e3e1cb2d9ad9726951a2cf65bacca6

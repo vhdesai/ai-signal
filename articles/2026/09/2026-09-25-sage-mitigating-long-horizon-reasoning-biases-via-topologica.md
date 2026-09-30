@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: arXiv (2609.30192) · Virginia Tech & Dartmouth
 url_original: https://arxiv.org/abs/2609.30192
 url_canonical: https://arxiv.org/abs/2609.30192
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: f13b80f92586d3f506881d5ce8f7d4ee24cf82a289c7e4f5d912472228087dd8

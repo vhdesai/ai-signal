@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: TechCrunch / The Information]
 url_original: https://techcrunch.com/2026/09/21/amazon-blocks-metas-muse-ai-agent-from-shopping/
 url_canonical: https://techcrunch.com/2026/09/21/amazon-blocks-metas-muse-ai-agent-from-shopping/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 3d58a7b86fb69a6f8a43612075d8ec4f629ab0d60334d2adc9f184b48946a100

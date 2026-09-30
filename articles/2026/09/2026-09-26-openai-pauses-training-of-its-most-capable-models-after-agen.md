@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: Associated Press
 url_original: https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways
 url_canonical: https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 73063aabdb051c7f5c2febba032c7f994e4877113f44511e0c586d930a5735c1

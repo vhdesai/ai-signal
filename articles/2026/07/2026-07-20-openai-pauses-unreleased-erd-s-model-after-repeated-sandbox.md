@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: Unite.AI**
 url_original: https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes/
 url_canonical: https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-22_065007_Final-Daily-AI-News-Digest.md
 content_hash: c2020773f501ffe300d0500ecf6aacfe1b128dd2ccd35c90600aa50e0ea79694
 normalized_title_hash: 3f8b4a45f57c859e
