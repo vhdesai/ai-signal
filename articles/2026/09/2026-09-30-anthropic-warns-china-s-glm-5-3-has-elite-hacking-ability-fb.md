@@ -7,7 +7,7 @@ source: South China Morning Post]
 url_original: https://www.scmp.com/tech/tech-trends/article/3368788/anthropic-warns-china-glm-5-3-elite-hacking-ability
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368788/anthropic-warns-china-glm-5-3-elite-hacking-ability
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: b6be0de6315319bbf317594f85447b6ae2f0801e8bcf9be675d1dc627d897808
 normalized_title_hash: cf0b98dec51542bd

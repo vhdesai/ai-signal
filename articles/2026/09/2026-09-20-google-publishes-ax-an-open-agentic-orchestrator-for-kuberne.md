@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: GitHub
 url_original: https://github.com/google/ax
 url_canonical: https://github.com/google/ax
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 49701a287d3d9a6685b20d930dd6994b2a7f2b0331a7e0848711feaaa8dda6ec

@@ -6,7 +6,7 @@ source: Pluang / Proactive Investors]
 url_original: https://www.proactiveinvestors.com/companies/news/synopsys-amazon-1-billion-ai-silicon-deal
 url_canonical: https://www.proactiveinvestors.com/companies/news/synopsys-amazon-1-billion-ai-silicon-deal
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: fac896d7ac12ee87616a7593eaa16750363a4e9b3f83bf7cf608cba810dc5beb
 normalized_title_hash: cd7d04e3645c7627

@@ -6,7 +6,7 @@ source: The Wall Street Journal]
 url_original: https://www.wsj.com/tech/ai/openai-pauses-new-astra-model-safety-8e6a2f21
 url_canonical: https://www.wsj.com/tech/ai/openai-pauses-new-astra-model-safety-8e6a2f21
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 2416a08261d526e8a8cd8c784df920a82a3378b1e80bf390e2e0c24eea76b69e
 normalized_title_hash: 04a25040123eb0b1

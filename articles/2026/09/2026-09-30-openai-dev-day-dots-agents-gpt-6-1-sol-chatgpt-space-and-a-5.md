@@ -7,7 +7,7 @@ source: Business Insider / DealBook / Axios]
 url_original: https://www.businessinsider.com/openai-dev-day-dots-agent-gpt-astra-2026-9
 url_canonical: https://www.businessinsider.com/openai-dev-day-dots-agent-gpt-astra-2026-9
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 641e203fab6e9e329e02679696c610f126019e538c3361e4cf502e31ae50ee94
 normalized_title_hash: 47fcc13bdd6cb0c4

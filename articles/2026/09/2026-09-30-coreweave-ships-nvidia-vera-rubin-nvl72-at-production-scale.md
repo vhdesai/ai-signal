@@ -7,7 +7,7 @@ source: Morningstar / CoreWeave]
 url_original: https://www.morningstar.com/news/coreweave-vera-rubin-nvl72-cognition
 url_canonical: https://www.morningstar.com/news/coreweave-vera-rubin-nvl72-cognition
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 35be8429496a23061f9d33e391206f3f29e5864450323e3b92d0458976aeac03
 normalized_title_hash: ab92e3678e3cfbd7

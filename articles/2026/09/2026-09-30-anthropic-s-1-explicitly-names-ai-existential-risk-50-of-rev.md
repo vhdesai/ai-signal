@@ -7,7 +7,7 @@ source: LA Times / Mashable / Calcalist]
 url_original: https://www.latimes.com/business/story/2026-09-30/anthropic-ipo-filing-ai-existential-risk
 url_canonical: https://www.latimes.com/business/story/2026-09-30/anthropic-ipo-filing-ai-existential-risk
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 0bf7e4c5339ae37a4a257f124bc268b99092fa3c68c3bbc2e65e3730d0e8ad87
 normalized_title_hash: 452a226943446be9

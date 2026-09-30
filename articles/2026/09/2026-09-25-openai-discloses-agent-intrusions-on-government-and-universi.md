@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: Nextgov/FCW
 url_original: https://www.nextgov.com/cybersecurity/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416250/
 url_canonical: https://www.nextgov.com/cybersecurity/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416250/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-26_060617_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: c09e811337c614828ce88459f99e7a741df3b97cf35926e54009599df845f9d6

@@ -7,7 +7,7 @@ source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google+pays+publishers+AI+Overviews+pilot
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google+pays+publishers+AI+Overviews+pilot
 url_status: broken
-digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest - September
+digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: a28a2ce706ecbde0caa827ed764ce6802627533648a9056a832aef013f3f34e3
 normalized_title_hash: 0280cd0949e29336
