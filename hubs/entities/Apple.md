@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 445
+member_count: 447
 ---
 
 # Apple
 
-> Auto-generated entity hub. 445 connected article(s).
+> Auto-generated entity hub. 447 connected article(s).
 
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts|Micron Reports a 380% Revenue Jump as AI-Memory Demand Lifts Chip Peers]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-28` [[2026-09-28-nvidia-authorizes-an-additional-150-billion-in-buybacks-the|Nvidia Authorizes an Additional $150 Billion in Buybacks — the Largest Increase on Record]]

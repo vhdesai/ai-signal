@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 237
+member_count: 242
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 237 connected article(s).
+> Auto-generated entity hub. 242 connected article(s).
 
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
 - `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]

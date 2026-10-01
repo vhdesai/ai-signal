@@ -21,14 +21,9 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-- 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
-- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
-- 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
+dedupe_status: duplicate
+canonical_article_id: 2026-09-30-coreweave-introduces-limited-vera-rubin-availability
+related_article_ids: []
 embedding_id: 2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale
 event_name: ''
 ---
@@ -42,5 +37,5 @@ CoreWeave announced production-scale deployment of Nvidia’s Vera Rubin NVL72 s
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
+**Canonical:** [[2026-09-30-coreweave-introduces-limited-vera-rubin-availability]]
 <!-- graph:end -->

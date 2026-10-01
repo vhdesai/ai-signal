@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 116
+member_count: 117
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 116 connected article(s).
+> Auto-generated entity hub. 117 connected article(s).
 
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-26` [[2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v|How reliable are AI writing detectors? The same text scored “very likely human” and “100% AI”]]

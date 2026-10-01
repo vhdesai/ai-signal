@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
+- 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-05-07-
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
@@ -40,5 +41,5 @@ TechCrunch reports that SpaceX's first quarterly report after going public showe
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-07-]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
+**Related:** [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-05-07-]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

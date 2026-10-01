@@ -1,79 +1,89 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2499.09it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1362,
-      "digests_changed": 3,
+      "digests_total": 1369,
+      "digests_changed": 9,
       "changed": [
-        "news\\2026-09-30_000000_Publication-Sources.md",
-        "news\\2026-09-30_065011_Inbox_ClawPilot - Daily AI News Digest – September 30, 2026.md",
-        "news\\2026-09-30_070047_Inbox_Daily AI News Digest – September 30, 2026.md"
+        "news\\2026-10-01_000000_Publication-Sources.md",
+        "news\\2026-10-01_060348_Inbox_Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_061253_Inbox_Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_062333_Inbox_Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_062531_Inbox_Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_064915_Inbox_ClawPilot - Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_065100_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-01_071128_Inbox_Daily AI News Digest - October 1, 2026.md",
+        "news\\2026-10-01_071730_Inbox_Daily AI News Digest - October 1, 2026.md"
       ]
     },
     "split": {
-      "digests_parsed": 1364,
-      "articles_written": 13476,
+      "digests_parsed": 1373,
+      "articles_written": 13525,
       "events_parsed": 107,
       "event_articles_written": 78,
-      "skipped_publication_sources": 40,
-      "skipped_thin_articles": 4564
+      "skipped_publication_sources": 41,
+      "skipped_thin_articles": 4612
     },
     "index": {
-      "articles_indexed": 9869,
+      "articles_indexed": 9899,
       "embeddings": {
         "enabled": true,
-        "added": 0,
-        "total": 9869,
-        "md_rewritten": 9868
+        "added": 30,
+        "total": 9899,
+        "md_rewritten": 9898
       }
     },
     "dedupe": {
-      "articles": 9869,
+      "articles": 9899,
       "exact_duplicates": 6,
-      "canonical": 7230,
-      "semantic_duplicates": 2633,
-      "related_links": 29815
+      "canonical": 7259,
+      "semantic_duplicates": 2634,
+      "related_links": 29917
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 9869,
-      "wikilinks_emitted": 67429,
+      "articles_linked": 9899,
+      "wikilinks_emitted": 67676,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4686,
-      "ok": 3286,
-      "broken": 1400,
-      "missing": 5160,
+      "checked": 4714,
+      "ok": 3293,
+      "broken": 1421,
+      "missing": 5162,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 16,
-      "repaired": 0,
-      "unresolved": 16,
+      "attempted": 18,
+      "repaired": 1,
+      "unresolved": 17,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 149.7,
+      "elapsed_s": 265.6,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 284,
-      "articles": 9869,
-      "canonical": 7230,
+      "pages": 285,
+      "articles": 9899,
+      "canonical": 7259,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 36,
-      "written_files": 63,
-      "elapsed_s": 26.25
+      "changed_articles": 82,
+      "written_files": 78,
+      "elapsed_s": 15.92
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20260930T222852+0000-2522cc.json"
+  "run_log": "indexes\\runs\\run-20261001T210103+0000-486539.json"
 }

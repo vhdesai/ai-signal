@@ -1,16 +1,26 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1547
+member_count: 1557
 ---
 
 # Google
 
-> Auto-generated entity hub. 1547 connected article(s).
+> Auto-generated entity hub. 1557 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
+- `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
+- `2026-10-01` [[2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch|Google’s orbital AI-computing experiment approaches launch]]
+- `2026-10-01` [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp|Google's first Project Suncatcher TPUs set to launch on a SpaceX rideshare]]
+- `2026-10-01` [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec|Google DeepMind Releases Gemini 4 Argon — Only Vetted Cybersecurity Defenders Can Use It]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran|MIT Transit Lab to build an AI decision-support hub for transit agencies]]
 - `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
 - `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]

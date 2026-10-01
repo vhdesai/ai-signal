@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s
 - 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's chief AI scientist lays out the JEPA-plus-Tapestry roadmap as his answer 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]]
+**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

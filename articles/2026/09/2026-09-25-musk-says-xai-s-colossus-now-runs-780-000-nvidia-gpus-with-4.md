@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head
 - 2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f
+- 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 embedding_id: 2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4
@@ -41,5 +42,5 @@ Elon Musk disclosed that xAI's Memphis "Colossus" facility operates roughly 780,
 
 **Entities:** [[NVIDIA]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head]] · [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]]
+**Related:** [[2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head]] · [[2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f]] · [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as]]
 <!-- graph:end -->

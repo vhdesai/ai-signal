@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 176
+member_count: 178
 ---
 
 # IBM
 
-> Auto-generated entity hub. 176 connected article(s).
+> Auto-generated entity hub. 178 connected article(s).
 
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
 - `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

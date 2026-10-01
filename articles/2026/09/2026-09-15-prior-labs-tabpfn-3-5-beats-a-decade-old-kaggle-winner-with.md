@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-- 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 embedding_id: 2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Prior Labs released TabPFN-3.5, a tabular foundation model that predicts in a si
 
 **Entities:** [[SAP]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base]]
+**Related:** [[2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new]] · [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
 <!-- graph:end -->

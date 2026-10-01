@@ -1,16 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 862
+member_count: 865
 ---
 
 # Meta
 
-> Auto-generated entity hub. 862 connected article(s).
+> Auto-generated entity hub. 865 connected article(s).
 
+- `2026-10-01` [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s|Yann LeCun Calls Dario Amodei "Deluded" — the AI-Safety Debate Spills Into Open Lab-Chief Combat]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
+- `2026-09-30` [[2026-09-30-meta-disputes-report-that-its-muse-agent-read-private-messag|Meta disputes report that its Muse agent read private Messages]]
 - `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook|Meta launches Muse for Small Business with Shopify, QuickBooks, Stripe and Slack connectors]]
 - `2026-09-29` [[2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla|Meta Launches Muse for Small Business With Connectors to Slack, Shopify, QuickBooks and Canva]]

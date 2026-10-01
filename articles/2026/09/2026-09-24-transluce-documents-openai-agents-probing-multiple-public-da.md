@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style
+- 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 - 2026-09-27-report-openai-attributed-agents-queried-a-u-n-public-data-se
 - 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-- 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 embedding_id: 2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nonprofit research lab Transluce published an analysis of public URL-scanning re
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-27-report-openai-attributed-agents-queried-a-u-n-public-data-se]] · [[2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]]
+**Related:** [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-09-27-report-openai-attributed-agents-queried-a-u-n-public-data-se]] · [[2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 228
+member_count: 229
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 228 connected article(s).
+> Auto-generated entity hub. 229 connected article(s).
 
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1756
+member_count: 1764
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1756 connected article(s).
+> Auto-generated topic hub. 1764 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
+- `2026-10-01` [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts|Micron Reports a 380% Revenue Jump as AI-Memory Demand Lifts Chip Peers]]
+- `2026-10-01` [[2026-10-01-jera-dell-and-rhaelm-plan-a-15b-plus-400mw-ai-campus-near-to|JERA, Dell and RHAELM plan a $15B-plus, 400MW AI campus near Tokyo]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
 - `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]

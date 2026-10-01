@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
+- 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-- 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 embedding_id: 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ reports that SpaceX is in talks to provide computing power for the Pentagon'
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]] · [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]]
 <!-- graph:end -->

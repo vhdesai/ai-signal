@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1533
+member_count: 1542
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1533 connected article(s).
+> Auto-generated topic hub. 1542 connected article(s).
 
+- `2026-10-01` [[2026-10-01-xpeng-banma-run-a-30b-parameter-cockpit-ai-model-entirely-on|XPeng + Banma Run a 30B-Parameter Cockpit AI Model Entirely On-Device on a 750-TOPS Turing Chip]]
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut|OpenAI Disrupts a Reasoning-Extraction Campaign and Attributes It to Moonshot AI Associates]]
+- `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-china-linked-hackers-impersonated-a-specific-anthropic-emplo|China-Linked Hackers Impersonated a Specific Anthropic Employee to Phish AI Researchers]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
 - `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 - 2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s
-- 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
+- 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
 embedding_id: 2026-07-11-the-urgency-was-clear-or-at-least-clear-to-us-said-the-compa
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s]] · [[2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral]]
+**Related:** [[2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus]] · [[2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s]] · [[2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati]]
 <!-- graph:end -->

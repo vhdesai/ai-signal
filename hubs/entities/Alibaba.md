@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 422
+member_count: 426
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 422 connected article(s).
+> Auto-generated entity hub. 426 connected article(s).
 
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex|Alibaba Qwen Releases Qwen-Audio-3.1-Realtime, a Full-Duplex Voice Model]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

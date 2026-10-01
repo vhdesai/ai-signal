@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-daily-ai-news-digest-september-26-2026
 - 2026-09-26-daily-ai-news-digest-september-27-2026
+- 2026-10-01-daily-ai-news-digest-october-1-2026
 - 2026-09-23-daily-ai-news-digest-september-24-2026
 - 2026-08-12-daily-ai-news-digest-august-12-2026
-- 2026-09-24-daily-ai-news-digest-september-25-2026
 embedding_id: 2026-09-26-daily-ai-news-digest-september-26-2026
 event_name: ''
 ---
@@ -44,5 +44,5 @@ A heavy 24 hours across both the commercial and governance fronts. Google signal
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-25-daily-ai-news-digest-september-26-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]] · [[2026-09-24-daily-ai-news-digest-september-25-2026]]
+**Related:** [[2026-09-25-daily-ai-news-digest-september-26-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]] · [[2026-08-12-daily-ai-news-digest-august-12-2026]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
+- 2026-09-30-coreweave-introduces-limited-vera-rubin-availability
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 embedding_id: 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CoreWeave announced what it called an industry-first bring-up and validation of 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-09-30-coreweave-introduces-limited-vera-rubin-availability]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
 <!-- graph:end -->

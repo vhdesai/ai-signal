@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1606
+member_count: 1614
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1606 connected article(s).
+> Auto-generated entity hub. 1614 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
+- `2026-10-01` [[2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new|NVIDIA Kumo Tabular: Open Foundation Models That Predict New Rows in One Forward Pass]]
+- `2026-10-01` [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts|Micron Reports a 380% Revenue Jump as AI-Memory Demand Lifts Chip Peers]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-coreweave-introduces-limited-vera-rubin-availability|CoreWeave introduces limited Vera Rubin availability]]
 - `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
 - `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]

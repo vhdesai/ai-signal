@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
+- 2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 - 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
-- 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 embedding_id: 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research unveiled TabFM, a foundation model that brings zero-shot, in-con
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]] · [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]]
+**Related:** [[2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore]] · [[2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho]] · [[2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new]] · [[2026-04-03-google-research-released-timesfm-time-series-foundation-mode]] · [[2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas]]
 <!-- graph:end -->

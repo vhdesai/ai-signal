@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 499
+member_count: 501
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 499 connected article(s).
+> Auto-generated topic hub. 501 connected article(s).
 
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
 - `2026-09-30` [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul|PitchBook: Software Dealmaking Goes Underground — AI-Native Multiples 10–15× ARR vs 3–6× for Non-AI SaaS]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-28` [[2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s|OpenShell lands in robotics and coding agents: Figure, Gecko, Skild and SpaceXAI go first]]

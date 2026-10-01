@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
-- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo
 embedding_id: 2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent is converting part of its Bilibili exposure from equity into a $700M con
 
 **Entities:** [[Scale AI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
+**Related:** [[2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns]] · [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo]]
 <!-- graph:end -->

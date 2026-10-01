@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w
+- 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 - 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
@@ -41,5 +42,5 @@ WSJ Pro reports that Transluce and the Australian government have published deta
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w]] · [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
+**Related:** [[2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go]] · [[2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
 <!-- graph:end -->

@@ -1,21 +1,30 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2621
+member_count: 2630
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2621 connected article(s).
+> Auto-generated entity hub. 2630 connected article(s).
 
+- `2026-10-01` [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af|Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI’s UN-Website Incident]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
+- `2026-10-01` [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut|OpenAI Disrupts a Reasoning-Extraction Campaign and Attributes It to Moonshot AI Associates]]
+- `2026-10-01` [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br|FTC Opens Investigation Into Whether OpenAI and Anthropic Broke Federal Consumer-Protection Laws]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
+- `2026-09-30` [[2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai|OpenAI ties a reasoning-extraction campaign to Moonshot AI]]
 - `2026-09-30` [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg|OpenAI Hit With a First-of-Its-Kind Lawsuit Tied to the Hugging Face Agent Hack]]
 - `2026-09-30` [[2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause|OpenAI Halts a New Astra Model Over Safety — Its Second Pause in Four Days]]
 - `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
+- `2026-09-30` [[2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs|FTC opens probe of OpenAI, Anthropic and other AI labs]]
 - `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
 - `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]

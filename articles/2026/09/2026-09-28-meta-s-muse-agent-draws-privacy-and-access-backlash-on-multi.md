@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-meta-disputes-report-that-its-muse-agent-read-private-messag
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 - 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
 embedding_id: 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
@@ -36,5 +37,5 @@ Meta's Muse personal agent faced compounding trust problems: reporting that it r
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]] · [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co]]
+**Related:** [[2026-09-30-meta-disputes-report-that-its-muse-agent-read-private-messag]] · [[2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine]] · [[2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co]]
 <!-- graph:end -->

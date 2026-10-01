@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential
 - 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-- 2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a
+- 2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts
 embedding_id: 2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Micron’s catalog now lists both its 28 Gbps and 32 Gbps 2GB GDDR7 parts as end
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a]]
+**Related:** [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2074
+member_count: 2080
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2074 connected article(s).
+> Auto-generated topic hub. 2080 connected article(s).
 
+- `2026-10-01` [[2026-10-01-jera-dell-and-rhaelm-plan-a-15b-plus-400mw-ai-campus-near-to|JERA, Dell and RHAELM plan a $15B-plus, 400MW AI campus near Tokyo]]
+- `2026-10-01` [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp|Google's first Project Suncatcher TPUs set to launch on a SpaceX rideshare]]
+- `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
+- `2026-09-30` [[2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs|FTC opens probe of OpenAI, Anthropic and other AI labs]]
 - `2026-09-29` [[2026-09-29-mit-the-harms-of-algorithmic-monoculture-depend-on-the-detai|MIT: The Harms of "Algorithmic Monoculture" Depend on the Details]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent|Anthropic's IPO Prospectus Warns of "Catastrophic or Existential Risks to Humanity"]]

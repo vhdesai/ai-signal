@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 274
+member_count: 279
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 274 connected article(s).
+> Auto-generated entity hub. 279 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-09-30` [[2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu|Oracle Shares Slip on an Unconfirmed Wisconsin AI Mega-Campus Delay — Stargate Story Widens]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]

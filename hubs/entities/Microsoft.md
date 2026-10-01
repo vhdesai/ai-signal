@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 976
+member_count: 979
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 976 connected article(s).
+> Auto-generated entity hub. 979 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]

@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1260
+member_count: 1266
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1260 connected article(s).
+> Auto-generated topic hub. 1266 connected article(s).
 
+- `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from|Broadcom to Lend Anthropic Up to $42B to Lease Its Chips (From the S-1)]]
+- `2026-10-01` [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta|Barclays Materially Expands Enterprise Claude Deployment — Standardizes on Anthropic for Research, Legal, Operations]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
 - `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]

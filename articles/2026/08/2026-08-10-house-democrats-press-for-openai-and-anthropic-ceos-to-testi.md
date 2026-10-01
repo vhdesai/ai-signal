@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
-- 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
+- 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 embedding_id: 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A letter led by Rep. Greg Casar urges Speaker Mike Johnson to bring AI executive
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig]]
+**Related:** [[2026-08-10-house-democrats-press-speaker-johnson-to-compel-ai-ceo-testi]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]]
 <!-- graph:end -->

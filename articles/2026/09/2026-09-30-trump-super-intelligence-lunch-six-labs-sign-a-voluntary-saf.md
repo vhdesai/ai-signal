@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-29-daily-ai-news-digest-september-30-2026
 - 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
-- 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
+- 2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br
 embedding_id: 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 event_name: ''
 ---
@@ -47,5 +47,5 @@ At Trump’s AI safety lunch, executives from Google, Anthropic, Meta, Nvidia, O
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-29-daily-ai-news-digest-september-30-2026]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]]
+**Related:** [[2026-09-29-daily-ai-news-digest-september-30-2026]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br]]
 <!-- graph:end -->

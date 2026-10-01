@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-driven-rally
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
+- 2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-- 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
 embedding_id: 2026-06-19-investors-and-analysts-are-positioning-micron-technology-s-j
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Investors and analysts are positioning Micron Technology's June 24 earnings repo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-driven-rally]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]]
+**Related:** [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-driven-rally]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

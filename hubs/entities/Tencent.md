@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 214
+member_count: 218
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 214 connected article(s).
+> Auto-generated entity hub. 218 connected article(s).
 
+- `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
 - `2026-09-27` [[2026-09-27-tencent-quietly-built-a-chinese-version-of-muse|Tencent quietly built a "Chinese version of Muse"]]

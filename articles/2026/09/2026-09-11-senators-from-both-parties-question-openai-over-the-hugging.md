@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
-- 2026-09-26-australian-senate-inquiry-asks-altman-and-amodei-to-testify
 embedding_id: 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Senator Josh Hawley opened an investigation into the incident and into what he f
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-09-26-australian-senate-inquiry-asks-altman-and-amodei-to-testify]]
+**Related:** [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af]] · [[2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face]] · [[2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]]
 <!-- graph:end -->

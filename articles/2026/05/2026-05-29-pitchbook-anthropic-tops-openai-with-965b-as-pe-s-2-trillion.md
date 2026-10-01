@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 embedding_id: 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 event_name: ''
 ---
@@ -43,5 +43,5 @@ PitchBook's morning brief leads on Anthropic's $965B mark, situating it within a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
+**Related:** [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

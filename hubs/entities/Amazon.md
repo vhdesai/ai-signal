@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 668
+member_count: 672
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 668 connected article(s).
+> Auto-generated entity hub. 672 connected article(s).
 
+- `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
