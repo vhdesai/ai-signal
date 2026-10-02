@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv
 - 2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
+- 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-- 2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o
 embedding_id: 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Taiwanese authorities are seeking to detain three individuals accused of forging
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o]]
+**Related:** [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control
+- 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-- 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 embedding_id: 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS's latest Security Hub updates reposition it as an AI-aware, multicloud secur
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control]] · [[2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo]]
+**Related:** [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

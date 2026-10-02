@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp
+- 2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit
 embedding_id: 2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch
 event_name: ''
 ---
@@ -34,5 +35,5 @@ A Planet Labs satellite carrying Google TPUs is scheduled for launch October 1. 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp]]
+**Related:** [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp]] · [[2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit]]
 <!-- graph:end -->

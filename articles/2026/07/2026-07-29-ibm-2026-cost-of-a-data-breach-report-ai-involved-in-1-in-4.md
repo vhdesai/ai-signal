@@ -43,9 +43,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
+- 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 embedding_id: 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
 event_name: ''
 ---
@@ -59,5 +59,5 @@ IBM's annual report finds that attackers used AI in roughly 25% of malicious bre
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-08-27-100-companies-call-for-rogue-ai-defense-continued]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

@@ -1,24 +1,34 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2318
+member_count: 2330
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2318 connected article(s).
+> Auto-generated entity hub. 2330 connected article(s).
 
+- `2026-10-02` [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset|Trump orders US government to cut ties with Anthropic; Hegseth labels company a supply-chain risk]]
+- `2026-10-02` [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic|The Information: Chinese token resellers running an Anthropic Claude "gray market"]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov|PitchBook: Anthropic pre-IPO investor event scheduled — mid-November listing in sight]]
+- `2026-10-02` [[2026-10-02-mit-technology-review-don-t-be-fooled-llms-don-t-reason|MIT Technology Review: "Don't be fooled — LLMs don't reason"]]
+- `2026-10-02` [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses|Amazon seeks to offload $8B of Nvidia chips; Broadcom amasses $60B for Anthropic chip supply]]
 - `2026-10-01` [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s|Yann LeCun Calls Dario Amodei "Deluded" — the AI-Safety Debate Spills Into Open Lab-Chief Combat]]
 - `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-the-information-applied-ai-google-positions-robotics-as-the|The Information Applied AI: Google positions robotics as the "Android" play to Tesla's "Apple"]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
 - `2026-10-01` [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec|Google DeepMind Releases Gemini 4 Argon — Only Vetted Cybersecurity Defenders Can Use It]]
 - `2026-10-01` [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br|FTC Opens Investigation Into Whether OpenAI and Anthropic Broke Federal Consumer-Protection Laws]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-10-01` [[2026-10-01-china-linked-hackers-impersonated-a-specific-anthropic-emplo|China-Linked Hackers Impersonated a Specific Anthropic Employee to Phish AI Researchers]]
 - `2026-10-01` [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from|Broadcom to Lend Anthropic Up to $42B to Lease Its Chips (From the S-1)]]
+- `2026-10-01` [[2026-10-01-barclays-expands-claude-across-banking-operations|Barclays expands Claude across banking operations]]
 - `2026-10-01` [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta|Barclays Materially Expands Enterprise Claude Deployment — Standardizes on Anthropic for Research, Legal, Operations]]
+- `2026-10-01` [[2026-10-01-anthropic-launches-claude-for-government-on-fedramp-high-pen|Anthropic launches Claude for Government on FedRAMP High; Pentagon still excluded]]
 - `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
@@ -28,8 +38,10 @@ member_count: 2318
 - `2026-09-30` [[2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs|FTC opens probe of OpenAI, Anthropic and other AI labs]]
 - `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
 - `2026-09-30` [[2026-09-30-anthropic-robots-can-do-34-of-us-work-hours-but-are-cheaper|Anthropic: robots can do 34% of US work hours but are cheaper for only 0.3% of tasks]]
+- `2026-09-30` [[2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking|Anthropic flags Chinese Z.ai GLM-5.3 as having "elite" hacking capability with weak safeguards]]
 - `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
 - `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
+- `2026-09-29` [[2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric|OpenAI launches GPT-6.1 Sol at one-fifth of Astra's API price]]
 - `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-29` [[2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c|Anthropic’s IPO Prospectus Warns Its Own Models Could Pose “Catastrophic or Existential Risks to Humanity”]]

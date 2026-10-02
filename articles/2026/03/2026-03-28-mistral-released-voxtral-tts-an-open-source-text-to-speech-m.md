@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
-- 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
+- 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 embedding_id: 2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mistral released Voxtral TTS, an open-source text-to-speech model that the compa
 
 **Entities:** [[Cohere]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]]
+**Related:** [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts]]
 <!-- graph:end -->

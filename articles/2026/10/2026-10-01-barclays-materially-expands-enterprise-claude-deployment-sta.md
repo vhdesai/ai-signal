@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-01-barclays-expands-claude-across-banking-operations
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta
@@ -38,5 +39,5 @@ Bloomberg reports Barclays is materially expanding its enterprise use of Claude 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-10-01-barclays-expands-claude-across-banking-operations]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

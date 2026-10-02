@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 218
+member_count: 220
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 218 connected article(s).
+> Auto-generated entity hub. 220 connected article(s).
 
+- `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
 - `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 117
+member_count: 121
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 117 connected article(s).
+> Auto-generated entity hub. 121 connected article(s).
 
+- `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]

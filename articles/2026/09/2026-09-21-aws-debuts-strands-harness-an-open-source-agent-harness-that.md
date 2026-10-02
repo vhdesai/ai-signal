@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-- 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
+- 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
 embedding_id: 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AWS launched Strands Harness, a fully assembled open-source agent harness that r
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]]
+**Related:** [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that]] · [[2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme]] · [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents]]
 <!-- graph:end -->

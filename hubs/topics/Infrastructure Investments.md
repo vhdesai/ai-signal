@@ -1,19 +1,26 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1764
+member_count: 1771
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1764 connected article(s).
+> Auto-generated topic hub. 1771 connected article(s).
 
+- `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov|PitchBook: Anthropic pre-IPO investor event scheduled — mid-November listing in sight]]
+- `2026-10-02` [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste|China stockpiled an estimated 343 ASML DUV lithography systems, former US officials say]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
+- `2026-10-02` [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses|Amazon seeks to offload $8B of Nvidia chips; Broadcom amasses $60B for Anthropic chip supply]]
 - `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
 - `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
 - `2026-10-01` [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts|Micron Reports a 380% Revenue Jump as AI-Memory Demand Lifts Chip Peers]]
 - `2026-10-01` [[2026-10-01-jera-dell-and-rhaelm-plan-a-15b-plus-400mw-ai-campus-near-to|JERA, Dell and RHAELM plan a $15B-plus, 400MW AI campus near Tokyo]]
+- `2026-10-01` [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital|Google says Starship must launch 1,800 times before orbital AI data centers pencil out]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]

@@ -1,21 +1,29 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1266
+member_count: 1274
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1266 connected article(s).
+> Auto-generated topic hub. 1274 connected article(s).
 
+- `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
+- `2026-10-02` [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset|Trump orders US government to cut ties with Anthropic; Hegseth labels company a supply-chain risk]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov|PitchBook: Anthropic pre-IPO investor event scheduled — mid-November listing in sight]]
+- `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
 - `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie|Court dismisses publisher antitrust challenges to AI Overviews]]
 - `2026-10-01` [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from|Broadcom to Lend Anthropic Up to $42B to Lease Its Chips (From the S-1)]]
 - `2026-10-01` [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta|Barclays Materially Expands Enterprise Claude Deployment — Standardizes on Anthropic for Research, Legal, Operations]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
+- `2026-09-30` [[2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t|ElevenLabs doubles its valuation to $22B in a $300M employee tender]]
 - `2026-09-30` [[2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev|Anthropic S-1 Explicitly Names AI Existential Risk — ~50% of Revenue Flows Through Amazon and Google]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]

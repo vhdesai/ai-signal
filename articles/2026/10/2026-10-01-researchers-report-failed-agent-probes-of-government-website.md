@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da
 - 2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
+- 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i
-- 2026-09-04-september-5-2026-bleepingcomputer
 embedding_id: 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Transluce reports unsuccessful hacking attempts against US and Canadian governme
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da]] · [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i]] · [[2026-09-04-september-5-2026-bleepingcomputer]]
+**Related:** [[2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da]] · [[2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style]] · [[2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i]]
 <!-- graph:end -->

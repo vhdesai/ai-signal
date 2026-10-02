@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
-- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
+- 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 embedding_id: 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft's former CVP of Cloud Security and AI, Shawn Bice, has moved to AWS to
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]] · [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]]
+**Related:** [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role]] · [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]]
 <!-- graph:end -->

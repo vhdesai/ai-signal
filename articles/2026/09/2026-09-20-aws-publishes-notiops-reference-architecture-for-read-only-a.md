@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
+- 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
-- 2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents
 embedding_id: 2026-09-20-aws-publishes-notiops-reference-architecture-for-read-only-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS's Machine Learning Blog published NotiOps, a reference pattern for building 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents]]
+**Related:** [[2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory]] · [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]]
 <!-- graph:end -->

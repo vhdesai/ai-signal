@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
+- 2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t
 - 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
-- 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 embedding_id: 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ElevenLabs launched Eleven v4, built on a new architecture for expressive speech
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up]] · [[2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l]]
+**Related:** [[2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t]] · [[2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up]]
 <!-- graph:end -->

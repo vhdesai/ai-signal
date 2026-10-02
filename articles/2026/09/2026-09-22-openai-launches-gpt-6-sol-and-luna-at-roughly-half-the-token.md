@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts
+- 2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric
 - 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 embedding_id: 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 event_name: ''
@@ -37,5 +38,5 @@ OpenAI shipped two new GPT-6 models positioned "cut from the same cloth as Astra
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts]] · [[2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h]]
+**Related:** [[2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts]] · [[2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric]] · [[2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h]]
 <!-- graph:end -->

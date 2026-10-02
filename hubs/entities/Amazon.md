@@ -1,17 +1,26 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 672
+member_count: 681
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 672 connected article(s).
+> Auto-generated entity hub. 681 connected article(s).
 
+- `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses|Amazon seeks to offload $8B of Nvidia chips; Broadcom amasses $60B for Anthropic chip supply]]
+- `2026-10-02` [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud|AWS unveils "Well-Architected" AI agent that acts like a cloud architect]]
+- `2026-10-02` [[2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec|AWS Strands Labs releases "Decider 2B" — a 115ms open-source decision model]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-openai-parts-ways-with-three-safety-researchers|OpenAI parts ways with three safety researchers]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
+- `2026-10-01` [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents|AWS releases a self-hostable decision layer for agents]]
+- `2026-10-01` [[2026-10-01-aws-previews-an-agent-for-well-architected-reviews|AWS previews an agent for Well-Architected reviews]]
+- `2026-10-01` [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models|AWS and Cloudflare introduce compact decision models]]
 - `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]

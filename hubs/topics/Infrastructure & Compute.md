@@ -1,18 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2080
+member_count: 2086
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2080 connected article(s).
+> Auto-generated topic hub. 2086 connected article(s).
 
+- `2026-10-02` [[2026-10-02-mercor-study-ai-beats-licensed-cpas-on-structured-accounting|Mercor study: AI beats licensed CPAs on structured accounting tasks, still needs supervision]]
+- `2026-10-02` [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste|China stockpiled an estimated 343 ASML DUV lithography systems, former US officials say]]
+- `2026-10-02` [[2026-10-02-china-sets-a-2030-target-to-grow-intelligent-computing-capac|China sets a 2030 target to grow intelligent computing capacity more than 4×]]
 - `2026-10-01` [[2026-10-01-jera-dell-and-rhaelm-plan-a-15b-plus-400mw-ai-campus-near-to|JERA, Dell and RHAELM plan a $15B-plus, 400MW AI campus near Tokyo]]
+- `2026-10-01` [[2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit|Google’s Project Suncatcher takes AI chips into orbit]]
 - `2026-10-01` [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp|Google's first Project Suncatcher TPUs set to launch on a SpaceX rideshare]]
+- `2026-10-01` [[2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital|Google says Starship must launch 1,800 times before orbital AI data centers pencil out]]
 - `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
+- `2026-10-01` [[2026-10-01-ai-beats-stratego-s-greatest-player-on-an-8k-training-budget|AI beats Stratego's greatest player on an $8K training budget]]
 - `2026-09-30` [[2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs|FTC opens probe of OpenAI, Anthropic and other AI labs]]
 - `2026-09-29` [[2026-09-29-mit-the-harms-of-algorithmic-monoculture-depend-on-the-detai|MIT: The Harms of "Algorithmic Monoculture" Depend on the Details]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]

@@ -1,23 +1,47 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3282
+member_count: 3306
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3282 connected article(s).
+> Auto-generated topic hub. 3306 connected article(s).
 
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-orcasaq-2-compresses-qwen-3-8-27b-into-a-12-3gb-on-device-mo|OrcaSAQ-2 compresses Qwen 3.8 27B into a 12.3GB on-device model]]
+- `2026-10-02` [[2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts|Microsoft AI releases MAI-Transcribe-2-Streaming and new TTS models for voice agents]]
+- `2026-10-02` [[2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice|Microsoft AI debuts MAI-Transcribe-2-Streaming and MAI-Voice 2.1 — challenging ElevenLabs]]
+- `2026-10-02` [[2026-10-02-mit-profiles-ai-powered-youth-entrepreneurship-platform|MIT profiles AI-powered youth entrepreneurship platform]]
+- `2026-10-02` [[2026-10-02-mit-technology-review-don-t-be-fooled-llms-don-t-reason|MIT Technology Review: "Don't be fooled — LLMs don't reason"]]
+- `2026-10-02` [[2026-10-02-deepmind-protein-watermarks-survive-the-first-binders-still|DeepMind protein watermarks survive — the first binders still bind]]
+- `2026-10-02` [[2026-10-02-black-forest-labs-ships-flux-3-image-with-multi-step-localiz|Black Forest Labs ships FLUX 3 Image with multi-step localized editing, 4K output]]
+- `2026-10-02` [[2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec|AWS Strands Labs releases "Decider 2B" — a 115ms open-source decision model]]
+- `2026-10-01` [[2026-10-01-arxiv-limits-each-submitter-to-two-submissions-per-month|arXiv limits each submitter to two submissions per month]]
 - `2026-10-01` [[2026-10-01-xpeng-banma-run-a-30b-parameter-cockpit-ai-model-entirely-on|XPeng + Banma Run a 30B-Parameter Cockpit AI Model Entirely On-Device on a 750-TOPS Turing Chip]]
+- `2026-10-01` [[2026-10-01-shopify-debuts-canvas-letting-merchants-build-storefronts-by|Shopify debuts Canvas, letting merchants build storefronts by chatting with Sidekick]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
+- `2026-10-01` [[2026-10-01-openai-parts-ways-with-three-safety-researchers|OpenAI parts ways with three safety researchers]]
 - `2026-10-01` [[2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new|NVIDIA Kumo Tabular: Open Foundation Models That Predict New Rows in One Forward Pass]]
+- `2026-10-01` [[2026-10-01-microsoft-launches-streaming-transcription-and-multilingual|Microsoft launches streaming transcription and multilingual voice models]]
+- `2026-10-01` [[2026-10-01-microsoft-adds-streaming-transcription-and-two-speech-genera|Microsoft adds streaming transcription and two speech-generation models]]
+- `2026-10-01` [[2026-10-01-instructmesh-helps-users-repair-generated-designs-before-fab|InstructMesh helps users repair generated designs before fabrication]]
 - `2026-10-01` [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec|Google DeepMind Releases Gemini 4 Argon — Only Vetted Cybersecurity Defenders Can Use It]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie|Court dismisses publisher antitrust challenges to AI Overviews]]
+- `2026-10-01` [[2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models|Cloudflare adds hosted and downloadable decision models]]
+- `2026-10-01` [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa|ChatGPT adds virtual try-on and a Favorites library for apparel shopping]]
+- `2026-10-01` [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents|AWS releases a self-hostable decision layer for agents]]
+- `2026-10-01` [[2026-10-01-aws-previews-an-agent-for-well-architected-reviews|AWS previews an agent for Well-Architected reviews]]
+- `2026-10-01` [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models|AWS and Cloudflare introduce compact decision models]]
 - `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
 - `2026-09-30` [[2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai|OpenAI ties a reasoning-extraction campaign to Moonshot AI]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran|MIT Transit Lab to build an AI decision-support hub for transit agencies]]
+- `2026-09-30` [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful|Google releases Gemini 4 Argon, calling it its most powerful model]]
 - `2026-09-30` [[2026-09-30-anthropic-robots-can-do-34-of-us-work-hours-but-are-cheaper|Anthropic: robots can do 34% of US work hours but are cheaper for only 0.3% of tasks]]
+- `2026-09-29` [[2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric|OpenAI launches GPT-6.1 Sol at one-fifth of Astra's API price]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
 - `2026-09-29` [[2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe|MIT: Sherry Turkle’s “Artificial Intimacy” on Who We Become When We Talk to Machines]]
 - `2026-09-29` [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their|Google Research Open-Sources RRSI: Agents That Improve Their Own Harness Without Overfitting]]

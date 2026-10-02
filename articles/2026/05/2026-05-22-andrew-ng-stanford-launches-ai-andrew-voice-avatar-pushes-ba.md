@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
-- 2026-07-02-xai-launches-grok-voice-ai-agent-builder
+- 2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice
 embedding_id: 2026-05-22-andrew-ng-stanford-launches-ai-andrew-voice-avatar-pushes-ba
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In his weekly Batch column, Andrew Ng unveiled AI Andrew — a voice-to-voice ag
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]]
+**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha]] · [[2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice]]
 <!-- graph:end -->

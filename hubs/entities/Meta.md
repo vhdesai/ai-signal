@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 865
+member_count: 869
 ---
 
 # Meta
 
-> Auto-generated entity hub. 865 connected article(s).
+> Auto-generated entity hub. 869 connected article(s).
 
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-meta-muse-zero-day-attackers-can-inject-malware-through-the|Meta Muse zero-day: attackers can inject malware through the assistant]]
 - `2026-10-01` [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s|Yann LeCun Calls Dario Amodei "Deluded" — the AI-Safety Debate Spills Into Open Lab-Chief Combat]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
+- `2026-10-01` [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa|ChatGPT adds virtual try-on and a Favorites library for apparel shopping]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5|OpenAI Dev Day: "Dots" Agents, GPT-6.1 Sol, ChatGPT Space, and a $500/Month Top-Tier Plan]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]

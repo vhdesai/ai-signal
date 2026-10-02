@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-deepseek-tops-ramp-s-trending-vendors-as-u-s-companies-chase
+- 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 embedding_id: 2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek topped Ramp's list of trending software vendors for June 2026, signalin
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-07-deepseek-tops-ramp-s-trending-vendors-as-u-s-companies-chase]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor]]
+**Related:** [[2026-06-07-deepseek-tops-ramp-s-trending-vendors-as-u-s-companies-chase]] · [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

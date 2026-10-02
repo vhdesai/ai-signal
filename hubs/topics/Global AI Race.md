@@ -1,24 +1,35 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1542
+member_count: 1553
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1542 connected article(s).
+> Auto-generated topic hub. 1553 connected article(s).
 
+- `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
+- `2026-10-02` [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic|The Information: Chinese token resellers running an Anthropic Claude "gray market"]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
+- `2026-10-02` [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste|China stockpiled an estimated 343 ASML DUV lithography systems, former US officials say]]
+- `2026-10-02` [[2026-10-02-china-sets-a-2030-target-to-grow-intelligent-computing-capac|China sets a 2030 target to grow intelligent computing capacity more than 4×]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
 - `2026-10-01` [[2026-10-01-xpeng-banma-run-a-30b-parameter-cockpit-ai-model-entirely-on|XPeng + Banma Run a 30B-Parameter Cockpit AI Model Entirely On-Device on a 750-TOPS Turing Chip]]
 - `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-10-01` [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut|OpenAI Disrupts a Reasoning-Extraction Campaign and Attributes It to Moonshot AI Associates]]
+- `2026-10-01` [[2026-10-01-microsoft-launches-streaming-transcription-and-multilingual|Microsoft launches streaming transcription and multilingual voice models]]
 - `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
 - `2026-10-01` [[2026-10-01-china-linked-hackers-impersonated-a-specific-anthropic-emplo|China-Linked Hackers Impersonated a Specific Anthropic Employee to Phish AI Researchers]]
+- `2026-10-01` [[2026-10-01-barclays-expands-claude-across-banking-operations|Barclays expands Claude across banking operations]]
 - `2026-10-01` [[2026-10-01-alibaba-launches-the-zhenwu-v900-ai-chip-huawei-debuts-grid|Alibaba Launches the Zhenwu V900 AI Chip; Huawei Debuts Grid-Interactive AIDC 1.0; CoreWeave Adds the Nvidia Vera CPU]]
 - `2026-09-30` [[2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo|NVIDIA Physis-Lang: Self-Evolving Physical Language Beats Google Veo 3.1 on Physics Benchmarks]]
 - `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
+- `2026-09-30` [[2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking|Anthropic flags Chinese Z.ai GLM-5.3 as having "elite" hacking capability with weak safeguards]]
 - `2026-09-30` [[2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb|Anthropic Warns China’s GLM-5.3 Has "Elite Hacking Ability" — FBI and CISA Reportedly Review]]
 - `2026-09-29` [[2026-09-29-daily-ai-news-digest-september-30-2026|Daily AI News Digest – September 30, 2026]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]

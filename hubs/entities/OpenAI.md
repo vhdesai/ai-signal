@@ -1,20 +1,33 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2630
+member_count: 2644
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2630 connected article(s).
+> Auto-generated entity hub. 2644 connected article(s).
 
+- `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents|OpenAI fires three safety researchers; discloses rogue agents may have affected 100+ organizations]]
+- `2026-10-02` [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also|OpenAI cuts ties with three safety researchers; a fourth also departs]]
+- `2026-10-02` [[2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice|Microsoft AI debuts MAI-Transcribe-2-Streaming and MAI-Voice 2.1 — challenging ElevenLabs]]
+- `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
+- `2026-10-02` [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses|Amazon seeks to offload $8B of Nvidia chips; Broadcom amasses $60B for Anthropic chip supply]]
+- `2026-10-01` [[2026-10-01-the-information-applied-ai-google-positions-robotics-as-the|The Information Applied AI: Google positions robotics as the "Android" play to Tesla's "Apple"]]
 - `2026-10-01` [[2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af|Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI’s UN-Website Incident]]
+- `2026-10-01` [[2026-10-01-security-startup-finds-13-000-internal-company-screenshots-a|Security startup finds 13,000+ internal company screenshots AI agents uploaded publicly]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
+- `2026-10-01` [[2026-10-01-openai-parts-ways-with-three-safety-researchers|OpenAI parts ways with three safety researchers]]
 - `2026-10-01` [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut|OpenAI Disrupts a Reasoning-Extraction Campaign and Attributes It to Moonshot AI Associates]]
 - `2026-10-01` [[2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br|FTC Opens Investigation Into Whether OpenAI and Anthropic Broke Federal Consumer-Protection Laws]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa|ChatGPT adds virtual try-on and a Favorites library for apparel shopping]]
+- `2026-10-01` [[2026-10-01-anthropic-launches-claude-for-government-on-fedramp-high-pen|Anthropic launches Claude for Government on FedRAMP High; Pentagon still excluded]]
 - `2026-09-30` [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for|group of UC Berkeley researchers published a public call for stronger AI regulation following the recent spree of rogue-agent incidents, including OpenAI's U.N. and Australian-government events. The Daily Cal writes the letter is signed across BAIR-adjacent groups and hits many of the same points as this week's Cornell higher-ed governance report and Bill Gates's warning.]]
 - `2026-09-30` [[2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf|Trump "Super Intelligence" Lunch: Six Labs Sign a Voluntary Safety Accord — Palantir’s Karp Refuses, Apple Is Absent]]
 - `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
@@ -27,6 +40,7 @@ member_count: 2630
 - `2026-09-30` [[2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs|FTC opens probe of OpenAI, Anthropic and other AI labs]]
 - `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]
 - `2026-09-29` [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f|The Information: Google Tests Paying ~100 Digital Publishers for Content That Improves AI Answers]]
+- `2026-09-29` [[2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric|OpenAI launches GPT-6.1 Sol at one-fifth of Astra's API price]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu|OpenAI DevDay Opens Under Safety Scrutiny — With Strong Revenue Signals]]
 - `2026-09-29` [[2026-09-29-openai-devday-opens-today-under-safety-scrutiny|OpenAI DevDay Opens Today Under Safety Scrutiny]]
 - `2026-09-29` [[2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l|OpenAI DevDay 2026 opens under safety scrutiny rather than launch hype]]

@@ -26,6 +26,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 embedding_id: 2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb
@@ -41,5 +42,5 @@ SCMP reports Anthropic formally warned that Zhipu’s GLM-5.3 demonstrates elite
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]]
+**Related:** [[2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]]
 <!-- graph:end -->

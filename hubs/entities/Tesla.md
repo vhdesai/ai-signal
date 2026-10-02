@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 54
+member_count: 57
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 57 connected article(s).
 
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-grok-goes-live-in-xchat-tesla-pushes-staff-toward-grok-4-5-u|Grok goes live in XChat; Tesla pushes staff toward Grok 4.5 under new AI-spending cap]]
+- `2026-10-01` [[2026-10-01-the-information-applied-ai-google-positions-robotics-as-the|The Information Applied AI: Google positions robotics as the "Android" play to Tesla's "Apple"]]
 - `2026-09-25` [[2026-09-25-wsj-markets-a-m-ai-is-supercharging-stock-scams-as-sec-pulls|WSJ Markets A.M.: AI is supercharging stock scams as SEC pulls back]]
 - `2026-09-25` [[2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man|Tesla Optimus scales tenfold but hits hands, supplier, and manufacturing snags]]
 - `2026-09-25` [[2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua|DensityAI, one-year-old ex-Tesla-Dojo startup, nears $10B valuation with AWS purchase-commitment kicker]]

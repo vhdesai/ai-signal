@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv
 - 2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o
-- 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+- 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 embedding_id: 2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Taiwanese prosecutors searched Unimicron — a major PCB and substrate supplier 
 
 **Entities:** [[Amazon]] · [[Google]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
+**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv]] · [[2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o]] · [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg]]
 <!-- graph:end -->

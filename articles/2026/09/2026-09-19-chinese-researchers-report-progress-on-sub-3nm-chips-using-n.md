@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
+- 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
 - 2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea
-- 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 embedding_id: 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese researchers reported early progress producing sub-3nm semiconductor feat
 
 **Entities:** [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]] · [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea]] · [[2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools]]
+**Related:** [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste]] · [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate]] · [[2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea]]
 <!-- graph:end -->

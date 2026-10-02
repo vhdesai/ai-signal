@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 178
+member_count: 180
 ---
 
 # IBM
 
-> Auto-generated entity hub. 178 connected article(s).
+> Auto-generated entity hub. 180 connected article(s).
 
+- `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-10-01` [[2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o|Oregon Capital Chronicle reports Nvidia's partnership with Oregon to deliver AI education in schools and colleges has been paused one year in, with teachers and administrators citing unclear deliverables and curriculum alignment issues. It's a cautionary data point for corporate AI-education partnerships generally, especially as Carnegie Mellon's Wynwood campus and UC Berkeley's regulation letter land this week.]]
 - `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]

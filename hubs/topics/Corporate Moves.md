@@ -1,21 +1,37 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4725
+member_count: 4742
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4725 connected article(s).
+> Auto-generated topic hub. 4742 connected article(s).
 
+- `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
+- `2026-10-02` [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les|Ramp AI Index: US businesses are using more AI and paying less for it]]
+- `2026-10-02` [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov|PitchBook: Anthropic pre-IPO investor event scheduled — mid-November listing in sight]]
+- `2026-10-02` [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also|OpenAI cuts ties with three safety researchers; a fourth also departs]]
+- `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
+- `2026-10-02` [[2026-10-02-grok-goes-live-in-xchat-tesla-pushes-staff-toward-grok-4-5-u|Grok goes live in XChat; Tesla pushes staff toward Grok 4.5 under new AI-spending cap]]
+- `2026-10-02` [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains|CIO Dive: Dev speed up, but code reviews are eating the gains; skills gaps killing projects]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
+- `2026-10-02` [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses|Amazon seeks to offload $8B of Nvidia chips; Broadcom amasses $60B for Anthropic chip supply]]
+- `2026-10-02` [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud|AWS unveils "Well-Architected" AI agent that acts like a cloud architect]]
 - `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-the-information-briefing-microsoft-s-exodus-ryan-roslansky-a|The Information Briefing: Microsoft's exodus — Ryan Roslansky and Peter Lee out, following Rajesh Jha]]
+- `2026-10-01` [[2026-10-01-the-information-applied-ai-google-positions-robotics-as-the|The Information Applied AI: Google positions robotics as the "Android" play to Tesla's "Apple"]]
 - `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]
 - `2026-10-01` [[2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11|PitchBook: Anthropic Revenue Jumped From $4.73B (Q1 2026) to $11.5B (Q2 2026) — Against $518B in Contracted Compute Costs]]
 - `2026-10-01` [[2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts|Micron Reports a 380% Revenue Jump as AI-Memory Demand Lifts Chip Peers]]
 - `2026-10-01` [[2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch|Google’s orbital AI-computing experiment approaches launch]]
+- `2026-10-01` [[2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit|Google’s Project Suncatcher takes AI chips into orbit]]
 - `2026-10-01` [[2026-10-01-daily-ai-news-digest-october-1-2026|Daily AI News Digest – October 1, 2026]]
+- `2026-10-01` [[2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie|Court dismisses publisher antitrust challenges to AI Overviews]]
 - `2026-10-01` [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from|Broadcom to Lend Anthropic Up to $42B to Lease Its Chips (From the S-1)]]
+- `2026-10-01` [[2026-10-01-barclays-expands-claude-across-banking-operations|Barclays expands Claude across banking operations]]
 - `2026-10-01` [[2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta|Barclays Materially Expands Enterprise Claude Deployment — Standardizes on Anthropic for Research, Legal, Operations]]
+- `2026-10-01` [[2026-10-01-anthropic-launches-claude-for-government-on-fedramp-high-pen|Anthropic launches Claude for Government on FedRAMP High; Pentagon still excluded]]
 - `2026-09-30` [[2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i|The Information: Silicon Valley and Wall Street Split on AI IPOs — Public Investors Push Anthropic to $1.5T From $2T]]
 - `2026-09-30` [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal|Synopsys and Amazon Sign a $1B+ Multi-Year Custom Silicon Deal]]
 - `2026-09-30` [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul|PitchBook: Software Dealmaking Goes Underground — AI-Native Multiples 10–15× ARR vs 3–6× for Non-AI SaaS]]
@@ -25,6 +41,7 @@ member_count: 4725
 - `2026-09-30` [[2026-09-30-meta-disputes-report-that-its-muse-agent-read-private-messag|Meta disputes report that its Muse agent read private Messages]]
 - `2026-09-30` [[2026-09-30-jpmorganchase-citi-united-and-amazon-ceos-collaborate-on-a-c|JPMorganChase, Citi, United, and Amazon CEOs Collaborate on a Cross-Industry AI Cyber Crisis Playbook]]
 - `2026-09-30` [[2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob|IBM Adds Self-Hosted Deployment to Its Agentic Platform Bob]]
+- `2026-09-30` [[2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t|ElevenLabs doubles its valuation to $22B in a $300M employee tender]]
 - `2026-09-30` [[2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi|DeepSeek + Huawei Open-Source AI Chip Software to Attack Nvidia’s CUDA Moat]]
 - `2026-09-30` [[2026-09-30-coreweave-introduces-limited-vera-rubin-availability|CoreWeave introduces limited Vera Rubin availability]]
 - `2026-09-30` [[2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale|CoreWeave Ships Nvidia Vera Rubin NVL72 at Production Scale — Cognition Is the Launch Customer]]

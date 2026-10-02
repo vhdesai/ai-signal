@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
+- 2026-10-02-mercor-study-ai-beats-licensed-cpas-on-structured-accounting
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
-- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 embedding_id: 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Accounting programs at major US universities are rapidly rewriting curricula to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
+**Related:** [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]] · [[2026-10-02-mercor-study-ai-beats-licensed-cpas-on-structured-accounting]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous]]
 <!-- graph:end -->

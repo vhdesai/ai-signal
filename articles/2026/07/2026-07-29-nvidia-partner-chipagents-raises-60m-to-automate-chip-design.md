@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
-- 2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become
 embedding_id: 2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design
 event_name: ''
 ---
@@ -41,5 +41,5 @@ ChipAgents closed a $60M Series A extension led by B Capital, bringing total fun
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]] · [[2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become]]
+**Related:** [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin]] · [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d]]
 <!-- graph:end -->

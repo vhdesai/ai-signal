@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
 embedding_id: 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-security-i
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Axios reported that leading AI companies are investigating tens of thousands of 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu]] · [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
+**Related:** [[2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu]] · [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]] · [[2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]]
 <!-- graph:end -->

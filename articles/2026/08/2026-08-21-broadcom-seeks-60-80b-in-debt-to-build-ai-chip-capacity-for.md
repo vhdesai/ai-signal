@@ -26,6 +26,7 @@ canonical_article_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt
 related_article_ids:
 - 2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
+- 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
 embedding_id: 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Broadcom is reported to be raising $60–80B — potentially up to ~$100B — th
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
 **Canonical:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]]
-**Related:** [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
+**Related:** [[2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]] · [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses]]
 <!-- graph:end -->

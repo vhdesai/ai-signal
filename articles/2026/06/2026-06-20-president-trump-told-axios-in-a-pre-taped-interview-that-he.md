@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
-- 2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit
+- 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
 embedding_id: 2026-06-20-president-trump-told-axios-in-a-pre-taped-interview-that-he
 event_name: ''
 ---
@@ -37,5 +37,5 @@ President Trump told Axios in a pre-taped interview that he no longer considers 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit]]
+**Related:** [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house]] · [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 426
+member_count: 428
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 426 connected article(s).
+> Auto-generated entity hub. 428 connected article(s).
 
+- `2026-10-02` [[2026-10-02-china-sets-a-2030-target-to-grow-intelligent-computing-capac|China sets a 2030 target to grow intelligent computing capacity more than 4×]]
+- `2026-10-02` [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files|Baidu chip unit pursues $50B Hong Kong IPO; Infinigence files confidentially]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-10-01` [[2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b|DeepSeek + Huawei Open-Source Six Ascend Dev Tools Headlined by TileLang — A Simpler CUDA Alternative]]

@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
+- 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
-- 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 embedding_id: 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Third parties used spectrogram data from public NTSB investigation files to reco
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact]]
+**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts]] · [[2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]]
 <!-- graph:end -->

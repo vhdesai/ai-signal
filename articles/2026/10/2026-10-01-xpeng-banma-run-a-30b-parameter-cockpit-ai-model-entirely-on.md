@@ -5,8 +5,8 @@ title: XPeng + Banma Run a 30B-Parameter Cockpit AI Model Entirely On-Device on 
 date: '2026-10-01'
 source: Pandaily]
 url_original: https://pandaily.com/xpeng-banma-30b-cockpit-ai-model-turing-chip-on-device/
-url_canonical: https://www.xpeng.com/model/g6
-url_status: repaired
+url_canonical: https://pandaily.com/xpeng-banma-30b-cockpit-ai-model-turing-chip-on-device/
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: c2b6c53476f20dc4b529d65a1f1ecf6ed72d4c3f293fcdbf6848b6a53b238b67

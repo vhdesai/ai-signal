@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking
+- 2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 - 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
-- 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
 embedding_id: 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Optical transceiver maker Zhongji Innolight won Hong Kong listing approval for w
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid]] · [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]] · [[2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a]]
+**Related:** [[2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking]] · [[2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid]] · [[2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-25-openai-says-unsecured-agents-posted-53-user-provided-images
 - 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
+- 2026-10-01-security-startup-finds-13-000-internal-company-screenshots-a
 - 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
 embedding_id: 2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ
 event_name: ''
@@ -38,5 +39,5 @@ OpenAI disclosed 53 instances in which user-provided images from training data w
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-25-openai-says-unsecured-agents-posted-53-user-provided-images]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]]
+**Related:** [[2026-09-25-openai-says-unsecured-agents-posted-53-user-provided-images]] · [[2026-09-25-openai-says-research-agents-posted-53-user-images-to-public]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-10-01-security-startup-finds-13-000-internal-company-screenshots-a]] · [[2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the]]
 <!-- graph:end -->

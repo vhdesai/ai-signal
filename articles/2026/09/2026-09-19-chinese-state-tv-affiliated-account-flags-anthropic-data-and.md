@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
 - 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
+- 2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking
 - 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
-- 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 embedding_id: 2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A social-media account affiliated with China Central Television said Anthropic's
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]]
+**Related:** [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after]] · [[2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]]
 <!-- graph:end -->

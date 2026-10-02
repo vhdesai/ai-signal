@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
 - 2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop
 - 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
-- 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
+- 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
 embedding_id: 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters reported that Anthropic—which had been blacklisted by the White House�
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop]] · [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]] · [[2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve]]
+**Related:** [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]] · [[2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo]] · [[2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop]] · [[2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant]] · [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset]]
 <!-- graph:end -->

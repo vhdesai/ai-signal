@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke
-- 2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st
 embedding_id: 2026-05-05-newelevenlabs-adds-blackrock-jamie-foxx-and-eva-longoria-to
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Voice AI leader ElevenLabs disclosed BlackRock alongside celebrity investors Jam
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st]]
+**Related:** [[2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t]] · [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke]]
 <!-- graph:end -->

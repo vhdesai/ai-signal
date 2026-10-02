@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
 embedding_id: 2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Reuters’s exclusive from Anthropic’s leaked S-1 reveals Broadcom will extend
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
+**Related:** [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses]]
 <!-- graph:end -->

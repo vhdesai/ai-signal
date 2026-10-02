@@ -1,16 +1,24 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 979
+member_count: 987
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 979 connected article(s).
+> Auto-generated entity hub. 987 connected article(s).
 
+- `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
+- `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
+- `2026-10-02` [[2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts|Microsoft AI releases MAI-Transcribe-2-Streaming and new TTS models for voice agents]]
+- `2026-10-02` [[2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice|Microsoft AI debuts MAI-Transcribe-2-Streaming and MAI-Voice 2.1 — challenging ElevenLabs]]
 - `2026-10-01` [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m|The Information: SpaceX’s AI Unit Is Now Selling Compute to Microsoft — Billions a Month, 420,000 GPUs Coming Online in November]]
+- `2026-10-01` [[2026-10-01-the-information-briefing-microsoft-s-exodus-ryan-roslansky-a|The Information Briefing: Microsoft's exodus — Ryan Roslansky and Peter Lee out, following Rajesh Jha]]
 - `2026-10-01` [[2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu|STAT News: Claude Analyzed a Complete Human Genome in 30 Minutes — "Now We Need Standards for the Results"]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
+- `2026-10-01` [[2026-10-01-microsoft-launches-streaming-transcription-and-multilingual|Microsoft launches streaming transcription and multilingual voice models]]
+- `2026-10-01` [[2026-10-01-microsoft-adds-streaming-transcription-and-two-speech-genera|Microsoft adds streaming transcription and two speech-generation models]]
 - `2026-09-29` [[2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list|Fortune Unveils Expanded 2026 “Fortune AIQ 75” Power List]]
 - `2026-09-29` [[2026-09-29-anthropic-s-518b-buildout-rests-largely-on-non-cancelable-de|Anthropic’s $518B Buildout Rests Largely on Non-Cancelable Deals, IPO Filing Shows]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
-- 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
+- 2026-10-01-barclays-expands-claude-across-banking-operations
 embedding_id: 2026-09-04-brazil-s-picpay-deploys-claude-for-customer-banking-inquirie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Brazilian digital bank PicPay began rolling out an Anthropic Claude integration 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside]]
+**Related:** [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl]] · [[2026-09-14-anthropic-preparing-claude-money-for-personal-finance]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl]] · [[2026-10-01-barclays-expands-claude-across-banking-operations]]
 <!-- graph:end -->

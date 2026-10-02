@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
+- 2026-10-02-meta-muse-zero-day-attackers-can-inject-malware-through-the
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
 - 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
-- 2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner
 embedding_id: 2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Researcher Patrick Wardle disclosed that Muse, Meta's month-old macOS personal a
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi]] · [[2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v]] · [[2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner]]
+**Related:** [[2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash]] · [[2026-10-02-meta-muse-zero-day-attackers-can-inject-malware-through-the]] · [[2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions]] · [[2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi]] · [[2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v]]
 <!-- graph:end -->

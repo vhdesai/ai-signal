@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 187
+member_count: 188
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 188 connected article(s).
 
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
+- `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]
 - `2026-09-28` [[2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t|Cerebras and Gimlet Labs plan 100 MW of inference capacity targeting 3,000 tokens per second]]
 - `2026-09-27` [[2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model|Twenty agentic use cases for typed, calibrated decision models]]
