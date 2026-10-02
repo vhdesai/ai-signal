@@ -33,6 +33,15 @@ desktop.ini
 # that inflate the git delta with no long-term value.
 /indexes/runs/
 
+# Pipeline SQLite + ChromaDB stores. These are derived artifacts rebuilt by
+# the pipeline from /news/ markdowns and are synchronized between the
+# Obsidian authoring pipeline and ext-host via scripts/sync-data.ps1 (which
+# runs OUTSIDE git). They're individually >50 MB and grow with every rebuild,
+# so tracking them in git triggers GitHub's large-file warnings and bloats
+# the pack. The deployed site (/site/) is independent of these files.
+/indexes/*.db
+/indexes/chroma/
+
 # IDE / editor settings
 .vscode/
 .idea/

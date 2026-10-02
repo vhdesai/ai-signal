@@ -146,19 +146,45 @@ Get-ChildItem $ob -Filter *.md |
 `ingest` then picks up the newly copied files (hash-based, idempotent). Multiple
 digests per day are fine — `dedupe` collapses them.
 
+## Pipeline data stores (gitignored)
 
+The pipeline keeps all state in two **gitignored** binary stores:
 
-Copy pipeline data (SQLite DB + ChromaDB) from the internal Obsidian pipeline:
+- `indexes/news_trends.db` — SQLite database (articles, embeddings metadata,
+  URL status, run history). ~55-60 MB and growing.
+- `indexes/chroma/` — ChromaDB vector store for semantic search / dedupe.
+  ~65 MB total across several binary files.
 
-```pwsh
-pwsh ./scripts/sync-data.ps1                    # Obsidian → ext-host
-pwsh ./scripts/sync-data.ps1 -Reverse           # ext-host → Obsidian
-```
+These files are **derived artifacts** fully reconstructable from `news/` by
+running `pwsh ./scripts/run-pipeline.ps1 run-all`, so they are deliberately
+excluded from git (previously they tripped GitHub's 50 MB large-file warning
+on every push). Only the published `site/` directory is committed.
 
-```bash
-./scripts/sync-data.sh                          # Obsidian → ext-host
-./scripts/sync-data.sh --reverse                # ext-host → Obsidian
-```
+**On a fresh clone**, bootstrap the stores in one of two ways:
+
+1. **Sync from the Obsidian pipeline** (fastest — seconds):
+
+   ```pwsh
+   pwsh ./scripts/sync-data.ps1                    # Obsidian → ext-host
+   pwsh ./scripts/sync-data.ps1 -Reverse           # ext-host → Obsidian
+   ```
+
+   ```bash
+   ./scripts/sync-data.sh                          # Obsidian → ext-host
+   ./scripts/sync-data.sh --reverse                # ext-host → Obsidian
+   ```
+
+2. **Rebuild from scratch** (slow — ~90 min):
+
+   ```pwsh
+   pwsh ./scripts/run-pipeline.ps1 run-all
+   ```
+
+   Requires `news/` to be populated (via Obsidian sync; `news/` is also
+   gitignored).
+
+Daily/weekly rebuilds assume the stores already exist on disk from a prior
+run; the pipeline updates them in place.
 
 ## Deployment
 
