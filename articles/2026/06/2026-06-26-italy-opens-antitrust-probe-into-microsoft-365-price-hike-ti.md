@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: ANSA
 url_original: https://www.ansa.it/english/news/business/2026/06/26/antitrust-opens-probe-into-price-increase-for-microsoft-365-subscription_72a1090f-a6cd-465e-87ec-7a239a3d8fbf.html
 url_canonical: https://www.ansa.it/english/news/business/2026/06/26/antitrust-opens-probe-into-price-increase-for-microsoft-365-subscription_72a1090f-a6cd-465e-87ec-7a239a3d8fbf.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 6d91385b74e7e71a52f7d188d9e93bb310a6d71e0d9300225d78daf637c193c4

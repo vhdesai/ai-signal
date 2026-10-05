@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: OpenAI
 url_original: https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
 url_canonical: https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 7c2e3dbfaf7fe8d868988bad7a222f8395f2d74b85396bb16833cf8ea017c041

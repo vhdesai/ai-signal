@@ -6,7 +6,7 @@ date: '2026-09-05'
 source: BleepingComputer / TechCrunch
 url_original: https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/
 url_canonical: https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 139c772c72e6579ba5c0147351fd129fb475e05283ea702aebbfdb45ddb64ef3

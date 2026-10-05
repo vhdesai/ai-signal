@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
 url_canonical: https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060544_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: cd7e263aa917a646b20fbb17b7c28633d26af1aa3571e92efccda8d1d7aee671

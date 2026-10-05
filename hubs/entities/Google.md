@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1570
+member_count: 1584
 ---
 
 # Google
 
-> Auto-generated entity hub. 1570 connected article(s).
+> Auto-generated entity hub. 1584 connected article(s).
 
+- `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
+- `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked|Google tests orbital AI data centers as Amazon warns blocked US projects threaten AI leadership]]
+- `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
+- `2026-10-05` [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers|Gemini access narrows for free and lower-tier subscribers]]
+- `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
+- `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
+- `2026-10-04` [[2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug|New reporting highlights AI-generated burden on Google's bug-bounty intake]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-google-pauses-open-source-bug-bounty-program-after-surge-in|Google pauses open-source bug bounty program after surge in AI-generated submissions]]
+- `2026-10-04` [[2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln|Google pauses open-source bug bounty after AI-generated vulnerability slop overwhelms maintainers]]
+- `2026-10-04` [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise|Google pauses bounty intake amid automated report noise]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-mit-technology-review-don-t-be-fooled-llms-don-t-reason|MIT Technology Review: "Don't be fooled — LLMs don't reason"]]

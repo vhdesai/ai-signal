@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Microsoft On the Issues / Axios
 url_original: https://blogs.microsoft.com/on-the-issues/2026/09/22/disrupting-eviltokens-the-ai-chatbot-built-for-cybercrime/
 url_canonical: https://blogs.microsoft.com/on-the-issues/2026/09/22/disrupting-eviltokens-the-ai-chatbot-built-for-cybercrime/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 30908d698b423125bc1089fb8ab72cd227221fd3ff24b42eb9a725626a9958d9

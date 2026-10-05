@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Bloomberg; 9to5Mac; TechCrunch
 url_original: https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/
 url_canonical: https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 1ec834789478f3c53b159e6a3b109fa342ee319f164516abe0f7438985d608eb
 normalized_title_hash: d2e69281a3d03b7b

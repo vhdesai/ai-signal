@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 869
+member_count: 875
 ---
 
 # Meta
 
-> Auto-generated entity hub. 869 connected article(s).
+> Auto-generated entity hub. 875 connected article(s).
 
+- `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
+- `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-meta-muse-zero-day-attackers-can-inject-malware-through-the|Meta Muse zero-day: attackers can inject malware through the assistant]]
 - `2026-10-01` [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s|Yann LeCun Calls Dario Amodei "Deluded" — the AI-Safety Debate Spills Into Open Lab-Chief Combat]]

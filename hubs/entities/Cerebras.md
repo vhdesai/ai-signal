@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 188
+member_count: 192
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 188 connected article(s).
+> Auto-generated entity hub. 192 connected article(s).
 
+- `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
+- `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]
+- `2026-10-05` [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre|Altman reaffirms Cerebras relationship as shares recover premarket]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]
 - `2026-09-28` [[2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen|MIT Sloan: Lessons From Kaiser Permanente’s AI Labor Agreement]]

@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: Bloomberg
 url_original: https://www.bloomberg.com/deals
 url_canonical: https://www.bloomberg.com/deals
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: d50893577ce85d60d12bba4404f7d188a2ac4325e66136f5cc6bf72eff2daae1
 normalized_title_hash: 115dcd3fa3a01733

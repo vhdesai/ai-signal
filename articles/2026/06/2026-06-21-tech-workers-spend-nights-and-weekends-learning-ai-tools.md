@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Business Insider
 url_original: https://www.businessinsider.com/tech-workers-learning-ai-tools-after-work-productivity-jobs-amazon-2026-6
 url_canonical: https://www.businessinsider.com/tech-workers-learning-ai-tools-after-work-productivity-jobs-amazon-2026-6
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 751605bbefb935351776880dca0d3285878326da9d32498905f91696836685bf
 normalized_title_hash: 5b6479e1a0a59122

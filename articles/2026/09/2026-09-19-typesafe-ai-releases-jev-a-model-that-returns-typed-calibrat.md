@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
 url_canonical: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: ada0b9aae8133048aad2f96cbf114c037bfb6936a8346c37966fe3b8030d74de

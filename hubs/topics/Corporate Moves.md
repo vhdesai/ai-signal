@@ -1,13 +1,30 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4742
+member_count: 4759
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4742 connected article(s).
+> Auto-generated topic hub. 4759 connected article(s).
 
+- `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
+- `2026-10-05` [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern|Unauthorized agents create a healthcare governance concern]]
+- `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]
+- `2026-10-05` [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen|OpenAI introduces visual ChatGPT ads and expanded measurement tools]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
+- `2026-10-05` [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers|Gemini access narrows for free and lower-tier subscribers]]
+- `2026-10-05` [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi|ChatGPT adds visual advertising tests and measurement capabilities]]
+- `2026-10-05` [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre|Altman reaffirms Cerebras relationship as shares recover premarket]]
+- `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
+- `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
+- `2026-10-04` [[2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri|VentureBeat warns vibe-coded apps are a business security risk]]
+- `2026-10-04` [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea|Reflection’s open-weight plans remain unconfirmed as a release]]
+- `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
+- `2026-10-04` [[2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug|New reporting highlights AI-generated burden on Google's bug-bounty intake]]
+- `2026-10-04` [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise|Google pauses bounty intake amid automated report noise]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
 - `2026-10-02` [[2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les|Ramp AI Index: US businesses are using more AI and paying less for it]]
 - `2026-10-02` [[2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov|PitchBook: Anthropic pre-IPO investor event scheduled — mid-November listing in sight]]

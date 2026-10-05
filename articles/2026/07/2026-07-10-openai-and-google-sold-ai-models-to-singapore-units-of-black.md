@@ -6,7 +6,7 @@ date: '2026-07-10'
 source: Free Press Journal
 url_original: https://www.freepressjournal.in/tech/openai-google-sell-ai-models-to-singapore-based-subsidiaries-of-pentagon-blacklisted-chinese-firms-alibaba-baidu-tencent
 url_canonical: https://www.freepressjournal.in/tech/openai-google-sell-ai-models-to-singapore-based-subsidiaries-of-pentagon-blacklisted-chinese-firms-alibaba-baidu-tencent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 2b4c30dd3951303b464c591d5c77ba4eb67b5c0c76da176e8279ccc74c360bac

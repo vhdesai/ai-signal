@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: eWeek
 url_original: https://www.eweek.com/news/anthropic-reflect-claude-memory/
 url_canonical: https://www.eweek.com/news/anthropic-reflect-claude-memory/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 56c3a7fa873aecd62b1e4faaff5eddb599e5d95d7fc89c7b4be9863b91c9df1b

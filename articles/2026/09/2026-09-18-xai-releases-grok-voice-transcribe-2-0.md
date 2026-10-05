@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Unite.AI
 url_original: https://www.unite.ai/xai-releases-grok-voice-transcribe-2-0-speech-to-text-model/
 url_canonical: https://www.unite.ai/xai-releases-grok-voice-transcribe-2-0-speech-to-text-model/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d96bcaf2bdb200294189c43c85a2494797f9db88f11d9194fe36b7f53771737d

@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: OpenAI
 url_original: https://openai.com/collective-cyberdefense/
 url_canonical: https://openai.com/collective-cyberdefense/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: c0ecd9c2ccb3179105f9df2119b7327096523b9ee51a122b118cacf3c627a77a

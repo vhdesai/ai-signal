@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Decoder
 url_original: https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/
 url_canonical: https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 2bf1f1272328b0af9e63d086ae9793d9a06956f2e24a24e1844bfc6bad441ec6

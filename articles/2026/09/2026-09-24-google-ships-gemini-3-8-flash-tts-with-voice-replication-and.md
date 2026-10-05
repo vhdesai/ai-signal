@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Android Authority]
 url_original: https://www.androidauthority.com/gemini-3-8-flash-text-to-speech-rolling-out-3714915/
 url_canonical: https://www.androidauthority.com/gemini-3-8-flash-text-to-speech-rolling-out-3714915/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: ceeec91ce6476e054eade0f89d3aeb6a0dc4aeaf424c9e389f778bb398da7b6e

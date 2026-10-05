@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/fca-considers-regulating-ai-models
 url_canonical: https://thenextweb.com/news/fca-considers-regulating-ai-models
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 14875a42defb24c1cae9e8c681fa2639887501b919ddaeb4d83a26e2fbe7305c
 normalized_title_hash: 7fc28edfdda1f281

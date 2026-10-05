@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: The Hill
 url_original: https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/
 url_canonical: https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: a12a9fd6861c4dc9f4f6e41785a7f93fec725fcbdda3916dfdd4fea53ce093ed

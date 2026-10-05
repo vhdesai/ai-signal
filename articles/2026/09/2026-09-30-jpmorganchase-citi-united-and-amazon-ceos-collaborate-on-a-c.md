@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: The Wall Street Journal (WSJ Pro CyberSecurity)]
 url_original: https://www.wsj.com/pro/cybersecurity/ceos-worry-ai-cyber-failures-cascade-industries-a5f2b108
 url_canonical: https://www.wsj.com/pro/cybersecurity/ceos-worry-ai-cyber-failures-cascade-industries-a5f2b108
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: e3f183abe71a7ba4a9f638c359907193bd04eb7ce92350dc98ad49cd84896321

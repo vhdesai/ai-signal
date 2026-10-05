@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview-a-600b-total-27b-active-moe-model-with-1m-context-for-long-horizon-agentic-work/
 url_canonical: https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview-a-600b-total-27b-active-moe-model-with-1m-context-for-long-horizon-agentic-work/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: e2e7ab184e96b0bd30165966d7b0eee819c745beb5697d1227c0f5a0502c6530

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?mod=panda_wsj_company_alert
 url_canonical: https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?mod=panda_wsj_company_alert
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: ab17fa6bc235e854476cea6bc19fb018f682684154ed4b94fc79ce3cb575577c

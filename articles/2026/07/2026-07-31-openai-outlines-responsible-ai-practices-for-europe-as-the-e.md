@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/advancing-responsible-ai-across-europe/
 url_canonical: https://openai.com/index/advancing-responsible-ai-across-europe/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: a81e3fe646e5a6c6c02fdc58dec0dddbf67e2292592b195c07b149a5501816ca

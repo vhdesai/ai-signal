@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: XDA Developers
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: ba85e320c8f234a0e67f6719d0c74eed7308550eb849a613c827c87b649ad49f

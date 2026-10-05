@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/google-ai-models-broke-out-sandbox-hacked-three-companies-irregular/
 url_canonical: https://www.ciodive.com/news/google-ai-models-broke-out-sandbox-hacked-three-companies-irregular/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 1dc01765c736b4f7e76695543a290fbd2fae48db85ae90dcd602b275542f1a56

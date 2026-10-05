@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Decoder
 url_original: https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/
 url_canonical: https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: ca3dd0a7059d2459c72c3f5912d242814e988d91776a84818b17c115a24984ca

@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: ARC Prize
 url_original: https://arcprize.org/results/deepseek-v4-flash-0731
 url_canonical: https://arcprize.org/results/deepseek-v4-flash-0731
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-08_061253_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 51d98cbb7173ef3a6a187baf93b0731809f5a76a7aa0992a9eb9e2157e1c4e13

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
+- 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
-- 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 embedding_id: 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Financial Times reported that Google DeepMind, Anthropic, and Meta are expan
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after]]
+**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]] · [[2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal]] · [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]]
 <!-- graph:end -->

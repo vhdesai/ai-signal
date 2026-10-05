@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ChatGPT%201%20billion%20weekly%20active%20users
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ChatGPT%201%20billion%20weekly%20active%20users
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 1d78d019ed857da2a4263edf77d717cd7f7090d3d2d0a156de87efb2a159196c

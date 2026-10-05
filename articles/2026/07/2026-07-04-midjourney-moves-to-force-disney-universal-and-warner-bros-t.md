@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: Engadget
 url_original: https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/
 url_canonical: https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 8440d5b1e32b4bcfa58cf7d80b92e9cebc1a7ff00428bfee0e037363f9370b86

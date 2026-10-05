@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/327387/20260912/thune-cruz-klobuchar-move-ai-safety-voluntary-pledge-legal-duty.htm
 url_canonical: https://www.techtimes.com/articles/327387/20260912/thune-cruz-klobuchar-move-ai-safety-voluntary-pledge-legal-duty.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 1c1ccc86009f52b2e2688ed260e36888e6a6c5b8675d90672b53d5ba0d82ba7f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
-- 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
+- 2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s
 embedding_id: 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tech Times reported that Senate leaders are drafting bipartisan legislation that
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]] · [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]]
+**Related:** [[2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re]] · [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s]]
 <!-- graph:end -->

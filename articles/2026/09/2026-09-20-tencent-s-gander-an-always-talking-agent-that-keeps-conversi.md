@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/
 url_canonical: https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 35198eb100762c5b89f6ecd60480a5871bf0eb98c3333e8e837159c050ffc154

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Anthropic Newsroom
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 18cedbbcee2be651bb2b3ba223c52935d281ec1795c9f63ff30e275b4aa09285

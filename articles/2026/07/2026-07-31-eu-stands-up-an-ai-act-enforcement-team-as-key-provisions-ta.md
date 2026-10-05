@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Tech Policy Press
 url_original: https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/
 url_canonical: https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 33d87a4a74796f7988fac7cc4614cc8027d5c088d7782f1a1415392c68441f53

@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Stanford Institute for Human-Centered AI**
 url_original: https://hai.stanford.edu/ai-index/2026-ai-index-report
 url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 69cb09d182bb70539903355230c5db7f5b0ccf6623c4bd0c8674148ff82bc191
 normalized_title_hash: 2a8b07a6e936cd1b

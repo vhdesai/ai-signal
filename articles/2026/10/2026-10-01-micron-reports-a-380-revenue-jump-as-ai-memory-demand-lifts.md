@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: The New York Times DealBook / The Information]
 url_original: https://www.nytimes.com/2026/10/01/business/dealbook/micron-earnings-ai-memory.html
 url_canonical: https://www.nytimes.com/2026/10/01/business/dealbook/micron-earnings-ai-memory.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: a8664222ba38cbd7fbd870c9a602ee720db4b24d822db2479b221917d0d87377

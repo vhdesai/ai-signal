@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: The Next Web
 url_original: https://thenextweb.com/news/moore-threads-hong-kong-listing-ai-chip-nvidia-china
 url_canonical: https://thenextweb.com/news/moore-threads-hong-kong-listing-ai-chip-nvidia-china
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 82b5698699a60ce6ff3c3f97310ddc5f72a4896574a13550907c0f35f01f8523

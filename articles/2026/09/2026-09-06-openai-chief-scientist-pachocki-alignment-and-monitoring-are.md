@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI
 url_original: https://openai.com/index/an-alien-mind
 url_canonical: https://openai.com/index/an-alien-mind
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: f682c950fb97e36a3a6ade8a7714a4936c64313ad067a4561b611ecc33d6a435
 normalized_title_hash: 2e610f90ad159057

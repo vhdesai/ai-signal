@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Tech
 url_original: https://tech.yahoo.com/general/article/tech-layoffs-tracker-2026-all-the-job-losses-across-uber-apple-tiktok-meta-microsoft-oracle-and-others-144545528.html
 url_canonical: https://tech.yahoo.com/general/article/tech-layoffs-tracker-2026-all-the-job-losses-across-uber-apple-tiktok-meta-microsoft-oracle-and-others-144545528.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 86c15af011d2d267d4ed84e24cc22d8f39621e0394905aaaea0991a7125a40b5

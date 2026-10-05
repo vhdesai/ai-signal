@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html
 url_canonical: https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: b7d1ad108bfc23ba868e321c278a1549b4cfab73b8ecde9ee0242cce0508ae5c
 normalized_title_hash: 7104f8819dd201b6

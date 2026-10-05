@@ -29,7 +29,7 @@ related_article_ids:
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - 2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
-- 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec
+- 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 embedding_id: 2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI has partnered with Microsoft, AMD, Broadcom, Nvidia, and Intel researcher
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec]]
+**Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]]
 <!-- graph:end -->

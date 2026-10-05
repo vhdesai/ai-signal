@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/
 url_canonical: https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 8833d5fd34de89a68cc3e4fae678975a309114aa655a34727dfb228d882a6497

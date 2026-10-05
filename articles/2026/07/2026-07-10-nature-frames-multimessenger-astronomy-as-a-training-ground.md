@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Nature Astronomy
 url_original: https://www.nature.com/articles/s41550-026-02910-w
 url_canonical: https://www.nature.com/articles/s41550-026-02910-w
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 4615f3958386f19a10fe438f7b115770a4c61b3d92c0dbbf1061eef7f6818aa6

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
+- 2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 - 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
 - 2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
-- 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 embedding_id: 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Softr (1M+ builders including Netflix, Google, Stripe) launched an AI Co-Builder
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]] · [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar]]
+**Related:** [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]] · [[2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri]] · [[2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin]] · [[2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]]
 <!-- graph:end -->

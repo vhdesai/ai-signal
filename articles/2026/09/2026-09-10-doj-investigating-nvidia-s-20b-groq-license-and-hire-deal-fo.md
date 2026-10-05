@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: The New York Times
 url_original: https://www.theinformation.com/articles/the-doj-is-investigating-nvidias-licensing-deal-with-chip-startup-groq
 url_canonical: https://www.theinformation.com/articles/the-doj-is-investigating-nvidias-licensing-deal-with-chip-startup-groq
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a27f3af182ae33eba8b269166a73367b96ff6ee1f71cfd348f1896e437073f28

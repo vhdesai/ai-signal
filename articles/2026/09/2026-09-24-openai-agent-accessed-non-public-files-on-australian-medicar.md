@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html
 url_canonical: https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_062359_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 475bb9b80ec399e3712dce1d417653593e360b5f4c463e51820c3292dce36d0b

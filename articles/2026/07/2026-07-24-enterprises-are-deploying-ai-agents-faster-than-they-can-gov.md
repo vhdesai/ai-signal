@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: VentureBeat · CIO Dive
 url_original: https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up
 url_canonical: https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 382942a4eb2573cb3e909567dcf00f23d96354034a1527874c88a716b08e15ad
 normalized_title_hash: f50ffdb5d2580ab7

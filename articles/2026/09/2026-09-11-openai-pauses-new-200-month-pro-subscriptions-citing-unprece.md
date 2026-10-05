@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Information
 url_original: https://www.theinformation.com/articles/openai-to-pause-new-pro-subscriptions-cites-astra-demand
 url_canonical: https://www.theinformation.com/articles/openai-to-pause-new-pro-subscriptions-cites-astra-demand
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 19e8b8e29ebc15b392c9bf9178f9cd3bb27da0f809f4c3f06b485fbf0d54485e

@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/
 url_canonical: https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-26_065442_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 47a75d196a4f04841c276eb5ef1f07e2f090d8c640ff94ea2af9ee736e256247

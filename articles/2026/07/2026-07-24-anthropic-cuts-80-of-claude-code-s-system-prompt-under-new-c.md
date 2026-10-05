@@ -6,7 +6,7 @@ date: '2026-07-24'
 source: Anthropic (Claude Blog) · within 48h
 url_original: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 url_canonical: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 7b09708dfdba53eb4011e76f1502355f7dc3270eb50567cbf065f3875bfc3c80

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
 url_canonical: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 65702d5e878cef3a7627696fb81b4db2672d3b75be768e3b1e5f3f4cc4d6ced8

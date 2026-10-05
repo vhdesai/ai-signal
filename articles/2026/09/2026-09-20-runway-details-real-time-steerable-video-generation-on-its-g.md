@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: THE DECODER
 url_original: https://www.metaversemediagroup.co.uk/2026/09/20/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
 url_canonical: https://www.metaversemediagroup.co.uk/2026/09/20/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: df1dfe61e8bd7d80b91c67dbafb8da3ee21efa9990547c3493afffce57fb27f7

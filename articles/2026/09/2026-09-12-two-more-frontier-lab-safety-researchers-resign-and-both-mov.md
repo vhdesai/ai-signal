@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: explainx.ai
 url_original: https://www.explainx.ai/blog/joe-benton-josh-engels-anthropic-google-safety-resign-2026
 url_canonical: https://www.explainx.ai/blog/joe-benton-josh-engels-anthropic-google-safety-resign-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_060802_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: e8b5e1a3a9ebcc3d2f63f1d0cfce53b3b0aa088d1a5c0b155716e3137a9b288c

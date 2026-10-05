@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Cerebras / The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/
 url_canonical: https://www.fool.com/investing/2026/05/27/cerebras-surged-68-on-its-first-day-of-trading-her/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2a8c840c12f5989b18e0c4b95ff3ccc5ff5d22bcf5c781f379c665f16a568b43

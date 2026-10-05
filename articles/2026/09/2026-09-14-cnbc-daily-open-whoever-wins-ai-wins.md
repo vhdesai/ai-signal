@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/14/daily-open-ai-slowdown-trump-anthropic.html
 url_canonical: https://www.cnbc.com/2026/09/14/daily-open-ai-slowdown-trump-anthropic.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060553_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 4249b0612da141b7fd72f1a93be5fe155ed4005b7c8ab31f908b5fdd383d321f

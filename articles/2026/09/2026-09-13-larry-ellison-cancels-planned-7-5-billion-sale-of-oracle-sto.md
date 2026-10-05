@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/
 url_canonical: https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_062818_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 3f585f4115c9ece644f5694dfcdb15e443e2968e8a2dd8e56db4d019370f8ac7

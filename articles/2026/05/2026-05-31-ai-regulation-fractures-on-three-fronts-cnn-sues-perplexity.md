@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: Tech Times*
 url_original: https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm
 url_canonical: https://www.techtimes.com/articles/317461/20260531/ai-regulation-2026-opens-three-fronts-cnn-sues-perplexity-openai-aligns-eu-rules.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 80a166bcb8fd986eb7cb8b45789ef35fe670d15104801c1636215be7c69bf121
 normalized_title_hash: 9ac7f3bc982fb6df

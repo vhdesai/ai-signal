@@ -4,8 +4,8 @@ title: OrcaSAQ-2 compresses Qwen 3.8 27B into a 12.3GB on-device model
 date: '2026-10-02'
 source: Geeky Gadgets / Digital Today
 url_original: null
-url_canonical: https://www.mindstudio.ai/blog/orcasaq2-27b-quantized-qwen
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: d7ac9239e7cd10dc7b1aa538c7d626ca814a3d35b3c9644fe22afe35b5bc86be

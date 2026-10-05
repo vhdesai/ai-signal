@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/
 url_canonical: https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 258dae475e9b42b48f3bff9b09ee261d70b77a145818a0fd50520bfbc9a5e315

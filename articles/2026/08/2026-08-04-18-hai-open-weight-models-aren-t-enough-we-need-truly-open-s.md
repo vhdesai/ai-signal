@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Stanford HAI · Read article →
 url_original: https://hai.stanford.edu/news/open-weight-models-arent-enough-we-need-truly-open-source-ai-models-for-science-and-society
 url_canonical: https://hai.stanford.edu/news/open-weight-models-arent-enough-we-need-truly-open-source-ai-models-for-science-and-society
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: ae8409475b9abe54ac2190627e7fc2b34955d6f3f7a679bef355b267b8676204

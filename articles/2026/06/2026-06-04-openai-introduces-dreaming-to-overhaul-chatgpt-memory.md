@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: OpenAI; Engadget
 url_original: https://openai.com/index/dreaming-better-memory-for-a-more-helpful-chatgpt/
 url_canonical: https://openai.com/index/dreaming-better-memory-for-a-more-helpful-chatgpt/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 1194e7006f949215547ddf3f0223cc9a83bb46eaf48b0f3faab4f9311bed5f5f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
-- 2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre
+- 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit]] · [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre]]
+**Related:** [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit]] · [[2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti]] · [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]]
 <!-- graph:end -->

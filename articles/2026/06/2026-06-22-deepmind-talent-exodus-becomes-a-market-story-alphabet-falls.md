@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: The Motley Fool; 24/7 Wall St.
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 942e52b31d88384a2f6fe8ac0589fb4c86648d4d71b657d7c78520efdb0134f1
 normalized_title_hash: 229a32319cf3ffc1

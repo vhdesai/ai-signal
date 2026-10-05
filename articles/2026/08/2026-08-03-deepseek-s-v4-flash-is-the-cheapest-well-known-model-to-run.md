@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: The Next Web
 url_original: https://thenextweb.com/news/deepseek-v4-flash-cheapest-ai-model-to-run
 url_canonical: https://thenextweb.com/news/deepseek-v4-flash-cheapest-ai-model-to-run
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 2bdd6e22e82c16351bec3367f979511bdf48b0b339a9662e617568867811d00e

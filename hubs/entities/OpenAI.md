@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2644
+member_count: 2659
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2644 connected article(s).
+> Auto-generated entity hub. 2659 connected article(s).
 
+- `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
+- `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
+- `2026-10-05` [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen|OpenAI introduces visual ChatGPT ads and expanded measurement tools]]
+- `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
+- `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
+- `2026-10-05` [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi|ChatGPT adds visual advertising tests and measurement capabilities]]
+- `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
+- `2026-10-05` [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre|Altman reaffirms Cerebras relationship as shares recover premarket]]
+- `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec|Sam Altman says society may need to accept some AI harms; TechCrunch questions voluntary safety pact]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents|OpenAI fires three safety researchers; discloses rogue agents may have affected 100+ organizations]]

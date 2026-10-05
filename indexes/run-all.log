@@ -1,86 +1,65 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-
-Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights:  61%|██████▏   | 122/199 [00:00<00:00, 1219.21it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1317.34it/s]
 {
   "command": "run-all",
   "stages": {
     "ingest": {
-      "digests_total": 1321,
-      "digests_changed": 15,
-      "changed": [
-        "news\\2026-09-25_000000_Publication-Sources.md",
-        "news\\2026-09-25_060339_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_060708_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_060720_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_061227_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_062342_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_064828_Inbox_ClawPilot - Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_065721_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_071032_Inbox_Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-25_180915_Inbox_Your Daily AI News Digest.md",
-        "news\\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September 25, 2026.md",
-        "news\\2026-09-26_065100_Final-Daily-AI-News-Digest.md",
-        "news\\2026-09-26_065844_Final-Daily-AI-News-Digest.md",
-        "news\\Daily AI News Digest - 2026-09-26.md",
-        "news\\daily-ai-news-digest-2026-09-26.md"
-      ]
+      "digests_total": 1379,
+      "digests_changed": 0,
+      "changed": []
     },
     "split": {
-      "digests_parsed": 1323,
-      "articles_written": 13057,
-      "events_parsed": 105,
+      "digests_parsed": 1383,
+      "articles_written": 13599,
+      "events_parsed": 108,
       "event_articles_written": 78,
-      "skipped_publication_sources": 35,
-      "skipped_thin_articles": 4457
+      "skipped_publication_sources": 42,
+      "skipped_thin_articles": 4655
     },
     "index": {
-      "articles_indexed": 9567,
+      "articles_indexed": 9953,
       "embeddings": {
         "enabled": true,
-        "added": 28,
-        "total": 9567,
-        "md_rewritten": 9566
+        "added": 0,
+        "total": 9953,
+        "md_rewritten": 9952
       }
     },
     "dedupe": {
-      "articles": 9567,
+      "articles": 9953,
       "exact_duplicates": 6,
-      "canonical": 7029,
-      "semantic_duplicates": 2532,
-      "related_links": 29022
+      "canonical": 7313,
+      "semantic_duplicates": 2634,
+      "related_links": 30139
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 9567,
-      "wikilinks_emitted": 65346,
+      "articles_linked": 9953,
+      "wikilinks_emitted": 68080,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4447,
-      "ok": 3213,
-      "broken": 1234,
-      "missing": 5097,
+      "checked": 4744,
+      "ok": 3101,
+      "broken": 1643,
+      "missing": 5186,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 1537,
-      "repaired": 356,
-      "unresolved": 1181,
+      "attempted": 1561,
+      "repaired": 482,
+      "unresolved": 1079,
       "skipped": 89,
       "reverted": 0,
-      "deferred": 4705,
+      "deferred": 5179,
       "terminated": "timeout",
       "elapsed_s": 3626.7,
       "max_workers": 10
     },
     "build-site": {
-      "pages": 280,
-      "articles": 9567,
-      "canonical": 7029,
+      "pages": 286,
+      "articles": 9953,
+      "canonical": 7313,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
     },
     "publish": {
@@ -88,5 +67,5 @@ Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1317
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20260926T160026+0000-b69447.json"
+  "run_log": "indexes\\runs\\run-20261005T150430+0000-ff8c71.json"
 }

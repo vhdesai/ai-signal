@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/aws-cloud-migration-agent-ai-token-cost-cut-2026-09-23
 url_canonical: https://www.sdxcentral.com/aws-cloud-migration-agent-ai-token-cost-cut-2026-09-23
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 62304d6ed44ae5f048d5dd2c9dd5571392d63dc14824ff9fe64cb0ca773049ba

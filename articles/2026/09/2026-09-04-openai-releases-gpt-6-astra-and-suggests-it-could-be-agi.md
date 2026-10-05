@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20GPT-6%20Astra
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20GPT-6%20Astra
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 016842cf620642b76c1dec460ecf44baaf443a4c4e92e2d817c4203572f7411d

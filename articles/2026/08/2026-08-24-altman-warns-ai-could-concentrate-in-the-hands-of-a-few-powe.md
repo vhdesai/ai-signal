@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Business Insider
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 4d0a8a209b11a8189b92f85b02b2107e85d4350b07223ffb680dae58948b97e5
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
+- 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
-- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 embedding_id: 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CEO Sam Altman warned that AI could end up concentrated among a small num
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]]
+**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]]
 <!-- graph:end -->

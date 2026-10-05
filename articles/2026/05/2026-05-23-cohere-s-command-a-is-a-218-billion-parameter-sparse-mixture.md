@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
-- 2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination
+- 2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and
 embedding_id: 2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Cohere's Command A+ is a 218-billion-parameter Sparse Mixture-of-Experts model d
 
 **Entities:** [[Cohere]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]] · [[2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination]]
+**Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s]] · [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and]]
 <!-- graph:end -->

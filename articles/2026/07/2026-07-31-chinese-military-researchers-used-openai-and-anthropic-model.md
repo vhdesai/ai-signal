@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/
 url_canonical: https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 425ccbf883440fdd6e957b8459f59196766e653d29b83854c4c332888f8a7a28

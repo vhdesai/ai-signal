@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: AiThority / Nvidia Newsroom
 url_original: https://aithority.com/machine-learning/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem/
 url_canonical: https://aithority.com/machine-learning/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 2e831917d60bda996f83ad5e0bfe7f62c735eeae99554c03a3105e17bd1878ca
 normalized_title_hash: 2ec06f7e6877106e

@@ -1,13 +1,29 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3306
+member_count: 3322
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3306 connected article(s).
+> Auto-generated topic hub. 3322 connected article(s).
 
+- `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
+- `2026-10-05` [[2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta|UT Austin studies joint execution and verification of LLM task graphs]]
+- `2026-10-05` [[2026-10-05-preference-research-exposes-limits-of-automated-evaluation|Preference research exposes limits of automated evaluation]]
+- `2026-10-05` [[2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex|Playtag launches mono_xyz for video behavior analysis; Yandex Sona replaces the recommender cascade]]
+- `2026-10-05` [[2026-10-05-one-step-image-generation-uses-network-depth-as-denoising-ti|One-step image generation uses network depth as denoising time]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
+- `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
+- `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]
+- `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
+- `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-04` [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea|Reflection’s open-weight plans remain unconfirmed as a release]]
+- `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-orcasaq-2-compresses-qwen-3-8-27b-into-a-12-3gb-on-device-mo|OrcaSAQ-2 compresses Qwen 3.8 27B into a 12.3GB on-device model]]
 - `2026-10-02` [[2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts|Microsoft AI releases MAI-Transcribe-2-Streaming and new TTS models for voice agents]]

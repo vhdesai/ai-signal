@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/refactor-vla-motor-programs
 url_canonical: https://machinelearning.apple.com/research/refactor-vla-motor-programs
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_061026_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 0799c12151031620c9b508aa4707bb9dcf8e983720a2bd82df52c4fe47d76f29

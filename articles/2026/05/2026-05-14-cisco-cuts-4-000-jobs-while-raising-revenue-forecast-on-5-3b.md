@@ -6,7 +6,7 @@ date: '2026-05-14'
 source: Reuters via Tech Startups
 url_original: https://techstartups.com/2026/05/14/top-tech-news-today-may-14-2026
 url_canonical: https://techstartups.com/2026/05/14/top-tech-news-today-may-14-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 1ac4b934b5ac2ddcecbfd31658fb9625f294a6049c257026af229f7079949122

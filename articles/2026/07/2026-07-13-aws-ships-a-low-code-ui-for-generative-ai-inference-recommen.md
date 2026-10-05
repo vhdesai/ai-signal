@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/category/post-types/announcements/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: aa70dcb3bbe9724bbf52f8a8eb733798dd8cc858a19a23863cce24fdc2fd3fe0

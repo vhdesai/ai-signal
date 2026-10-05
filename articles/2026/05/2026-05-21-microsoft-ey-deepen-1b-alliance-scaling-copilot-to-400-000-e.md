@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Microsoft Official Blog'
 url_original: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
 url_canonical: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 24cbbf42fd2a1bcd108549318b644e55b83ccbda6666cb46652128471eb8733e

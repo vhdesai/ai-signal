@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0
 url_canonical: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 685dd6e39bbde21540ac493a6dc527586260931a07bc9adfad77c42c66b4a969

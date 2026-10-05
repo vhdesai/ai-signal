@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Reuters
 url_original: https://www.aol.com/articles/chatgpt-invented-fake-police-testimony-120706000.html
 url_canonical: https://www.aol.com/articles/chatgpt-invented-fake-police-testimony-120706000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 7b23ae1609ec1df4258b2fc5b315f226bd86c2628585efa3fea3d84916b877ad

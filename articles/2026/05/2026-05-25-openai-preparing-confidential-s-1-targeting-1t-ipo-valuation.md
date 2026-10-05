@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: buildfastwithai
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: b2bfd93a7d48e8d5e6d4da535f4bb00c1a2fee7cd1e8dbf83c5e368bcad5462f

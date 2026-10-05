@@ -5,8 +5,8 @@ title: Trump orders US government to cut ties with Anthropic; Hegseth labels com
 date: '2026-10-02'
 source: ABC News / Reuters / Qz
 url_original: null
-url_canonical: https://abcnews.com/Politics/anthropic-latest-pentagon-contract-bar-ai-autonomous-weapons/story?id=130558898
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 7ca8d425162f88501f4e25dafed4a1b026e34a300bf574dbbf1314144b91ae16

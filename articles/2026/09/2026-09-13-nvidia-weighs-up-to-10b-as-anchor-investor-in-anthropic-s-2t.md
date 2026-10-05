@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_061723_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: d96e0bc0c98c01b0df4e0c99f168763c85f3ae7595656dfd78c67d8eff54b997

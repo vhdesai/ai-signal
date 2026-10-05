@@ -6,7 +6,7 @@ date: '2026-06-22'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 89d60e1cbb854612335957dae04346817dffc170dc180ee50a4b99a63d8364a2
 normalized_title_hash: 3b0a3c4944a0b8f5

@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
 url_canonical: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_060553_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 8f9248b18f1ba6fa4d1a604e1b661732f3110706eec11d08bf24e430ffe2886d

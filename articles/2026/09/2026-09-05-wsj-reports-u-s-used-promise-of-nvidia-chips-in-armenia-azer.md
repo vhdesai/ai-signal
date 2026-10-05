@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-04-u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaija
 - 2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 - 2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
+- 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 embedding_id: 2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The Wall Street Journal reported that the U.S. used the promise of Nvidia chips 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-04-u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaija]] · [[2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]] · [[2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]]
+**Related:** [[2026-09-04-u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaija]] · [[2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]] · [[2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]]
 <!-- graph:end -->

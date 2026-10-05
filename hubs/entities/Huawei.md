@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 248
+member_count: 252
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 248 connected article(s).
+> Auto-generated entity hub. 252 connected article(s).
 
+- `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
+- `2026-10-05` [[2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu|Huawei and Qualcomm expand cross-licensing into AI and computing]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]
 - `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]
 - `2026-10-02` [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste|China stockpiled an estimated 343 ASML DUV lithography systems, former US officials say]]

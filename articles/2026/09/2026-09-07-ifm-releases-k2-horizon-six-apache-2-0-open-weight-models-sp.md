@@ -6,7 +6,7 @@ date: '2026-09-07'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/07/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/
 url_canonical: https://www.marktechpost.com/2026/09/07/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 4eca8b86ca7a52ab885fdf21aaa2b42282468bf60e3ec4e4ed80f41e29a328f5
 normalized_title_hash: 679e39a6e94a0fde

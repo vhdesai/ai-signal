@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/news/mit-scientists-crack-the-code-for-flexible-wafer-scale-photonics/
 url_canonical: https://www.sdxcentral.com/news/mit-scientists-crack-the-code-for-flexible-wafer-scale-photonics/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: c1ef05df4e92b39e023423ddadb923222e9c86089064072f9939d3e1a53af990

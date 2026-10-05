@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: CIO Dive**
 url_original: https://www.ciodive.com/news/chewy-ai-cost-savings-agentic-2026/
 url_canonical: https://www.ciodive.com/news/chewy-ai-cost-savings-agentic-2026/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 63c3a8128bf8dd53809e60a3e254ae0e058a8387a08fa6511cb2fbd623db736d
 normalized_title_hash: 5470a41f0a15d21d
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
+- 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
 - 2026-08-17-daily-ai-news-digest-august-18-2026
-- 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
 embedding_id: 2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chewy is deploying AI tools across customer care, pharmacy, and vet services to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]]
+**Related:** [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]] · [[2026-08-17-daily-ai-news-digest-august-18-2026]]
 <!-- graph:end -->

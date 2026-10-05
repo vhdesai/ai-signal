@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/machine-learning/smartbear-advances-testcomplete-with-vision-ai-enabling-automated-testing-for-highly-critical-visual-applications/
 url_canonical: https://aithority.com/machine-learning/smartbear-advances-testcomplete-with-vision-ai-enabling-automated-testing-for-highly-critical-visual-applications/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 3c81d65fedadbfc214d6f9175d432b23082c37753382c9ff11159929b7de6001
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
+- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda
-- 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
 embedding_id: 2026-06-01-smartbear-adds-vision-ai-to-testcomplete-for-visual-testing
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SmartBear advanced TestComplete with Vision AI for automated testing of visually
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang]]
+**Related:** [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda]]
 <!-- graph:end -->

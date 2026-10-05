@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai+balance+sheet+ipo
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openai+balance+sheet+ipo
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-23_065425_Final-Daily-AI-News-Digest.md
 content_hash: c917154c575526db7ec5a8957220f83b90a019d6d0c554350b4e4088a2604e39
 normalized_title_hash: 4efc9c58141596ba

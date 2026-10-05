@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AI News
 url_original: https://artificialintelligence-news.com/
 url_canonical: https://artificialintelligence-news.com/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 2062e696e120f9c8f62449c9503252650e5c49894491085408d14a851ad3c19d
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform
+- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
-- 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is consolidating its standalone Display Ads product into its AI-driven De
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
+**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re]] · [[2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions]] · [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]]
 <!-- graph:end -->

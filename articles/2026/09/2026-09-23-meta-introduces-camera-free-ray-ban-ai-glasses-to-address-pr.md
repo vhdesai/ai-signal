@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/
 url_canonical: https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 5c321b28677c1d016c53b9326e62bf2b5460b7e0b209632c1a3769fa41df5bb9

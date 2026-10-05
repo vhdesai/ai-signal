@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Nature Health**
 url_original: https://www.nature.com/articles/s44360-026-00174-2
 url_canonical: https://www.nature.com/articles/s44360-026-00174-2
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 04b81b8dde1575df921593a21ab930634971c387e887cd39317234d1fe691ffb
 normalized_title_hash: 237e70f522768205

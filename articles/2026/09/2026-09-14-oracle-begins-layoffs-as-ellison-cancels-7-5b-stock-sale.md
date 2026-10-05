@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Business Insider
 url_original: https://www.businessinsider.com/oracle-layoffs-2026-9
 url_canonical: https://www.businessinsider.com/oracle-layoffs-2026-9
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: b66b24f37ca73a55785d1e454f7f68aa57ae3dede46203a17d08bd63d1839640

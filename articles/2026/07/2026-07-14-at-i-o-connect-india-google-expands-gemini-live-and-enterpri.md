@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: Mashable India
 url_original: https://in.mashable.com/tech/111939/google-unveils-atl-saathi-expands-gemini-live-and-ai-tools-for-india-at-google-for-india-2026
 url_canonical: https://in.mashable.com/tech/111939/google-unveils-atl-saathi-expands-gemini-live-and-ai-tools-for-india-at-google-for-india-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 26fe69f159e8bde9a8013a7f5f7aa4c172529dc09451d950a569ee4a2d616655

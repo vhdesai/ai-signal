@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Forkast News · OpenAI
 url_original: https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/
 url_canonical: https://forkast.news/openai-retired-o3-from-chatgpt-today-the-real-cost-is-the-churn-it-forces-on-everyone-else/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 21f623d88754ae73bd075064c8ec49ac84cd9054915e1fda8f3f49b6e355840e

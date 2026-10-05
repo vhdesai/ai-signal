@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: MIT Sloan via GlobeNewswire / Markets Insider
 url_original: https://markets.businessinsider.com/news/stocks/mit-sloan-executive-education-expands-portfolio-of-ai-courses-and-certifications-1036193943
 url_canonical: https://markets.businessinsider.com/news/stocks/mit-sloan-executive-education-expands-portfolio-of-ai-courses-and-certifications-1036193943
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 6296584c806838156a5f1cf5eadf9d13615fa57f99541b064eec6d09b331c52b

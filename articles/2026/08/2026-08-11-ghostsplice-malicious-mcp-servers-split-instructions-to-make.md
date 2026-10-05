@@ -6,7 +6,7 @@ date: '2026-08-11'
 source: '[The Hacker News]'
 url_original: https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html
 url_canonical: https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 23594e8ae6e601706a40182ad6d5ccdec8aef54852af4c8c581c4fb27781fe82

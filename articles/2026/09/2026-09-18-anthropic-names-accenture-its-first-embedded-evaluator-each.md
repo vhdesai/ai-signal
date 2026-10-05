@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html
 url_canonical: https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 3b8913f21b788b474d3252bfae3f52a02711ae09f014afe1bce2a1da16b9b586

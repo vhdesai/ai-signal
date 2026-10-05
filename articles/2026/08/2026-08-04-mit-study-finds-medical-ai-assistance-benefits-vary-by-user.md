@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: MIT News
 url_original: https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804
 url_canonical: https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 1cc1c328259f7f4c45128d8aa55f6012a91dbbab2d9ab523c5d2ba995d531855

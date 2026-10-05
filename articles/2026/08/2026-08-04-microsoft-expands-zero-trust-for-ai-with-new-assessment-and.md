@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Microsoft Security Blog
 url_original: https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
 url_canonical: https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 106ccd7fb7f6e2afb9e75da0eb21aeac9c57cc1e2783acefe0268e3fab0ae52d
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
-- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
+- 2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst
 embedding_id: 2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft added a new AI-focused pillar to its Zero Trust Assessment tool and a 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst]]
 <!-- graph:end -->

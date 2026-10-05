@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/08/10/10427834.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/10/10427834.htm
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: db2b3ea320d52a6fc06bafd7069f678b9e882d418fd19c0f4f4623347e44fc27

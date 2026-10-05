@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/ai-robots-could-follow-dangerous-instructions-study-warns/
 url_canonical: https://www.digitaltrends.com/computing/ai-robots-could-follow-dangerous-instructions-study-warns/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: f6869408f63aff8907f9dec9286fdac1f26ada6723fb98741223584bc04b1349

@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/
 url_canonical: https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 4019ef3e038e6bd05023301fac3f9c91f075f060eddfa08bc3d3d597ca344e5f

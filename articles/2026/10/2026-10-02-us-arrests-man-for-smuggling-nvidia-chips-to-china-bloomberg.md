@@ -5,8 +5,8 @@ title: US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nv
 date: '2026-10-02'
 source: The Information / Bloomberg
 url_original: null
-url_canonical: https://www.businessinsider.com/us-man-charged-smuggling-300-million-nvidia-chips-china-2026-10
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 0d7d67185f45c70758a0f8ebbad2cbf621b070dde4deb239e3d12fbb127d2f14

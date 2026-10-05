@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web
 url_original: https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants
 url_canonical: https://thenextweb.com/news/google-gemma-one-billion-downloads-gemmaverse-variants
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060308_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: c4f62dda40b600747ca66ffcfd777a69b61feba3cbd52fd92e8b6d6703a41de3

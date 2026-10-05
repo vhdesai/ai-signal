@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system
 - 2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
+- 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-- 2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu
 embedding_id: 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reports that nobody is immune from the Nvidia GPU crunch. The it
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-08-29-nvidia-s-competitive-advantage-is-moving-beyond-the-gpu]]
+**Related:** [[2026-08-29-nvidia-s-ai-advantage-is-shifting-from-the-gpu-to-the-system]] · [[2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

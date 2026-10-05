@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html
 url_canonical: https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: f2c1514564b969562d73756b911589a6d37358c7695e273c3f61ee6ff8bce15c

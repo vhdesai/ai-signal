@@ -4,8 +4,8 @@ title: China sets a 2030 target to grow intelligent computing capacity more than
 date: '2026-10-02'
 source: South China Morning Post
 url_original: https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation
-url_canonical: https://theroboticsmedia.com/article/china-miit-9800-eflops-intelligent-computing-2026-2030-plan-september-8-2026
-url_status: repaired
+url_canonical: https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 1425514a0580010db60a8e93cf52a71dca00fe5eeb34496396494f6a9234febc

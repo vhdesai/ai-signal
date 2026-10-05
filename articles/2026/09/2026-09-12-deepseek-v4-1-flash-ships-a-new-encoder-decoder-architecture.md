@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: Martin Cid Magazine
 url_original: https://www.martincid.com/technology-sv/deepseek-v4-1-flash-new-architecture-8b-active-60-price-cut/
 url_canonical: https://www.martincid.com/technology-sv/deepseek-v4-1-flash-new-architecture-8b-active-60-price-cut/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 1f35ca5eccda7aae80cd99577e3789b83992b29b6450e08880b8e0af4aa9f2b4

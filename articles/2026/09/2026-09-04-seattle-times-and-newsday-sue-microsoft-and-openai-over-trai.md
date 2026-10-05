@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: '[September 4, 2026; updated September 5]'
 url_original: https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/
 url_canonical: https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070915_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: acc7a8d1c906242f51763d7c4b523756048894133e245e125199796de3de43c4

@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: October 1, 2026, 12:18 p.m. PDT
 url_original: https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
 url_canonical: https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_060413_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 272e9e0e38d15149c44eed5890cdad6baaefd74b2741489853d0a8a05cfc2f39
@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
 - 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
-- 2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp
-- 2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch
+- 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 embedding_id: 2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google launched AI chips aboard a satellite to test orbital computing. The exper
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]] · [[2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp]] · [[2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch]]
+**Related:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]] · [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked]]
 <!-- graph:end -->

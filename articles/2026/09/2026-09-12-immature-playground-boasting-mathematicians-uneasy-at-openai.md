@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Guardian
 url_original: https://www.aol.co.uk/articles/immature-playground-boasting-mathematicians-uneasy-080028000.html
 url_canonical: https://www.aol.co.uk/articles/immature-playground-boasting-mathematicians-uneasy-080028000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 2867fdee4e175e026ae90a105e0fc277d47da434b5c562fe4c0c912f74c03312

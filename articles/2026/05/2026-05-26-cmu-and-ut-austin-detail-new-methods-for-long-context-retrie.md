@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
+- 2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-- 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 embedding_id: 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers at Carnegie Mellon and UT Austin released a paper on hierarchical re
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
+**Related:** [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]]
 <!-- graph:end -->

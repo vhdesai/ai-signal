@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: Pandaily
 url_original: https://en.pandaily.com/alibaba-damo-radar-abdominal-ct-foundation-model-science/
 url_canonical: https://en.pandaily.com/alibaba-damo-radar-abdominal-ct-foundation-model-science/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 8a70609279cbbab5338523a3a9bf24284874105c8787aa5cff3d5192b2f09752

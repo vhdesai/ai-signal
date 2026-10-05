@@ -1,13 +1,28 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2141
+member_count: 2156
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2141 connected article(s).
+> Auto-generated topic hub. 2156 connected article(s).
 
+- `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
+- `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
+- `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
+- `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]
+- `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
+- `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]
+- `2026-10-04` [[2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s|TechCrunch questions whether a non-binding safety pact can solve AI's image problem]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec|Sam Altman says society may need to accept some AI harms; TechCrunch questions voluntary safety pact]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-google-pauses-open-source-bug-bounty-program-after-surge-in|Google pauses open-source bug bounty program after surge in AI-generated submissions]]
+- `2026-10-04` [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise|Google pauses bounty intake amid automated report noise]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
 - `2026-10-02` [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset|Trump orders US government to cut ties with Anthropic; Hegseth labels company a supply-chain risk]]
 - `2026-10-02` [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic|The Information: Chinese token resellers running an Anthropic Claude "gray market"]]

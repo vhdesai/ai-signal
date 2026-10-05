@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/325062/20260820/morgan-stanley-downgrades-baidu-ad-revenue-falls-8th-straight-quarter-ernie-lags.htm
 url_canonical: https://www.techtimes.com/articles/325062/20260820/morgan-stanley-downgrades-baidu-ad-revenue-falls-8th-straight-quarter-ernie-lags.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 55eba7a158dc7a91d0f1a68e9c4215942d19bd7cda97f1623894d5c71b119b69

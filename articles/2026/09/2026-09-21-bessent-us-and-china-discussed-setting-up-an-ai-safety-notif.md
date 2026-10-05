@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: The Information
 url_original: https://www.theinformation.com/articles/us-and-china-discussed-ai-safety-system-bessent-says
 url_canonical: https://www.theinformation.com/articles/us-and-china-discussed-ai-safety-system-bessent-says
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-21_070113_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: d2afc9cf0252a812bd76ecd17152d69ef858fb8874f4b3cb0f3004afeae63e16

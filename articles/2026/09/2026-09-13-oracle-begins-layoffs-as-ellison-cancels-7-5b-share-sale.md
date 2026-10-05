@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Information**
 url_original: https://www.theinformation.com/articles/the-briefings-ai-political-storm-ahead
 url_canonical: https://www.theinformation.com/articles/the-briefings-ai-political-storm-ahead
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
 content_hash: 85e0da97d99a2aec11bb91b3330d20d4fc1c5a7c1013b2c9b16b0961e564ab43
 normalized_title_hash: 3baaa4750f341fb9

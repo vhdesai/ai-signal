@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AiThority
 url_original: https://aithority.com/
 url_canonical: https://aithority.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 25df211eace1c91f722781306e03e6d92cee8b2427bd9a6ea5cc798c6c435328

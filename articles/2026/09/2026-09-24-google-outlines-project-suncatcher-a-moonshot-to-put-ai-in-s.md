@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
+- 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 - 2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit
 - 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 embedding_id: 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google published “Behind Project Suncatcher,” describing a moonshot effort t
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit]] · [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]]
+**Related:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit]] · [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked]] · [[2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit]] · [[2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente]]
 <!-- graph:end -->

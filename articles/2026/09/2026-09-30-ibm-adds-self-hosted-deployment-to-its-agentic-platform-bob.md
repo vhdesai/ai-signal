@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: CIO Dive]
 url_original: https://www.ciodive.com/news/ibm-bob-agentic-ai-self-hosted-deployment-2026-09/
 url_canonical: https://www.ciodive.com/news/ibm-bob-agentic-ai-self-hosted-deployment-2026-09/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 2290d3b6b394477234b57a3e93605ab39e6464354ea9ab73f1c9b362725608d1

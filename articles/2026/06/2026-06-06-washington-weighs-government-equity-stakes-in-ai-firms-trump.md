@@ -5,7 +5,7 @@ date: '2026-06-06'
 source: TechCrunch; Semafor; Fortune; NYT; Axios
 url_original: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
 url_canonical: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: b24d2e48833dba4eaa6257b3f66ed845a384672d75f5819001b4b9932b94d878
 normalized_title_hash: 4c1802e262befc89

@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute
 url_canonical: https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: a9cbeb9a91394b279d89b8ca1c8bcb3ef2096f073a6922189b3d9600ed07f7c3

@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Tech in Asia
 url_original: https://www.techinasia.com/huawei-cloud-connect-2026-10000-npu-developer-access
 url_canonical: https://www.techinasia.com/huawei-cloud-connect-2026-10000-npu-developer-access
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 62a34bf34fa3a94c2790c2acc80c6a0212803ff4f896afb941c6d865f8e2051b

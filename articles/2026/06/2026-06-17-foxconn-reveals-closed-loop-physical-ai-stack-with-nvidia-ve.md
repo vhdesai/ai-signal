@@ -5,7 +5,7 @@ date: '2026-06-17'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/318548/20260617/foxconn-debuts-humanoid-robots-europe-revealing-closed-loop-physical-ai-stack.htm
 url_canonical: https://www.techtimes.com/articles/318548/20260617/foxconn-debuts-humanoid-robots-europe-revealing-closed-loop-physical-ai-stack.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
 content_hash: eead10cf0a50f969bd893b3a57fa8b1e111ad515049dde6f42336df6c2e8d9ec
 normalized_title_hash: 72623bff5cfae293

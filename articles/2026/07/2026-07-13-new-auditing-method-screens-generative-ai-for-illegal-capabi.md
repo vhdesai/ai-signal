@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://techxplore.com/news/2026-07-method-aims-kids-safe-illegal.html
 url_canonical: https://techxplore.com/news/2026-07-method-aims-kids-safe-illegal.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 63d022c0185e1a6646d7e2ea9ea411a492cc2b6ba338d6c6803d7a824cd0820a

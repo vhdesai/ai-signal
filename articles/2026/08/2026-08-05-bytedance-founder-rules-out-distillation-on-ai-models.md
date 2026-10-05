@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ByteDance+distillation+AI+models
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=ByteDance+distillation+AI+models
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-05_065023_Final-Daily-AI-News-Digest.md
 content_hash: 306e069c8b1e692a9d3d7586da5f5706f5e2dd56c1159ed5a29b6931835d1a43
 normalized_title_hash: 15b800979eca0e57

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/14/superhuman-acquires-fathom-ai-notetaker/
 url_canonical: https://techcrunch.com/2026/09/14/superhuman-acquires-fathom-ai-notetaker/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: f30ce732019391f76856762c791d0e750af93939429f1f9aec438ae43da98e2f
 normalized_title_hash: aab4ead9dc266623

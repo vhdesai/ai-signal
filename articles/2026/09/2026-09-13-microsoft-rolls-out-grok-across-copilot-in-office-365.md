@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: NDTV Profit
 url_original: https://www.ndtvprofit.com/technology/microsoft-adds-grok-to-copilot-office-365
 url_canonical: https://www.ndtvprofit.com/technology/microsoft-adds-grok-to-copilot-office-365
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: f22d8bfb42e97cffb6fec637610a8f1a9ce8d20c0213c0974fee36070b03df37

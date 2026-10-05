@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: PR Newswire
 url_original: https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/relativity-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal/2411728
 url_canonical: https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/relativity-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal/2411728
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: cf68f544de0fceb6edb4673d2b8ba8505a234429c5f8a076439d0bff37e3456b

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 23
+member_count: 27
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 23 connected article(s).
+> Auto-generated entity hub. 27 connected article(s).
 
+- `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost controls]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
 - `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]
 - `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr|Frontier Labs' FINRA-Style Safety Body Draws "Cartel" Charge from Cohere]]

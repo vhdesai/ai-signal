@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/
 url_canonical: https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 0c092571757537e7a79b90af77ebba7c1a1f2b6dd7bd24459c26dcbe5e6c34fe

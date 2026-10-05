@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/
 url_canonical: https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4dbebb2a445bb820c266f92afa2c1cf1936f05883b8ad3f3415e324ec42cdd63

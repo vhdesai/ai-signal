@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Reuters**
 url_original: https://money.usnews.com/investing/news/articles/2026-07-13/over-200-experts-call-for-urgent-action-to-tackle-ais-economic-impact
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-13/over-200-experts-call-for-urgent-action-to-tackle-ais-economic-impact
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: 6a3bd0fd9946594d40a6598eaa585a39d1d80f4159489e3c4c010daeeb343989
 normalized_title_hash: cb23ccbe780a6bdb

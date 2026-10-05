@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2330
+member_count: 2337
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2330 connected article(s).
+> Auto-generated entity hub. 2337 connected article(s).
 
+- `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-04` [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec|Sam Altman says society may need to accept some AI harms; TechCrunch questions voluntary safety pact]]
+- `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset|Trump orders US government to cut ties with Anthropic; Hegseth labels company a supply-chain risk]]
 - `2026-10-02` [[2026-10-02-the-information-chinese-token-resellers-running-an-anthropic|The Information: Chinese token resellers running an Anthropic Claude "gray market"]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]

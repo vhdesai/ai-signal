@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
 url_canonical: https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: a8e5a699043026dd0bc7479fbc9e3ce2fc630e4516bc0c02139fd4c49bc3c6de
 normalized_title_hash: f31ecb26dbc14f8d

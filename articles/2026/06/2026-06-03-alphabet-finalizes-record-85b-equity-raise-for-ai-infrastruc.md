@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Barron’s; TechCrunch; blog.google
 url_original: https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
 url_canonical: https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: cff3963df08ad1dd92e697c066067a3729198f7a46e179e1f15493f71a58b9bc

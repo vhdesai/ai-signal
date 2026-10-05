@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev-a-system-one-model-that-returns-typed-calibrated-decisions-instead-of-text/
 url_canonical: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev-a-system-one-model-that-returns-typed-calibrated-decisions-instead-of-text/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060740_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 99cd0551c60aa628204545a22591360b775e0ece227b65462d4deb732f6a7d36

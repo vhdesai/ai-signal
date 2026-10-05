@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: the-decoder
 url_original: https://the-decoder.com/nvidia-palantir-launch-sovereign-supply-chain-ai/
 url_canonical: https://the-decoder.com/nvidia-palantir-launch-sovereign-supply-chain-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-10_065738_Final-Daily-AI-News-Digest.md
 content_hash: ecfb5ef011b3bea04f061dd339dde9848a4e57d6ffda1dc94d78278cda8bc2f2
 normalized_title_hash: db8ee72a00b0c421

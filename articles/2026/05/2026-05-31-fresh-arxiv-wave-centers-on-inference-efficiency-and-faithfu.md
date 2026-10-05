@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: arXiv
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 9d400c03213e8d95c1c7faddf2f1330215e427f81969b04ee1f64babcf2b8099
 normalized_title_hash: 988d0934f3197dc2

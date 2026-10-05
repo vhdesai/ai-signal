@@ -5,8 +5,8 @@ title: Microsoft AI debuts MAI-Transcribe-2-Streaming and MAI-Voice 2.1 — chal
 date: '2026-10-02'
 source: The Information / The Decoder / Times of India
 url_original: null
-url_canonical: https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-launches-mai-transcribe-2-streaming-alongside-multilingual-mai-voice-2-1-models/articleshow/134639014.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 609bd91a2d385fa52b406bbcdf715687d873a942ced11811eae08bc72acc04e2

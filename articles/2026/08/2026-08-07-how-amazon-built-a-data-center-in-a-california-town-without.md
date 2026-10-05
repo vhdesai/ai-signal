@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
+- 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 - 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-08-08-planned-amazon-data-center-could-become-the-largest-climate
 embedding_id: 2026-08-07-how-amazon-built-a-data-center-in-a-california-town-without
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The WSJ reports on Amazon's stealth construction of a data center facility in a 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate]]
+**Related:** [[2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d]] · [[2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe]] · [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked]] · [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

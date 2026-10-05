@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Anthropic
 url_original: https://www.anthropic.com/news/accenture-embedded-evaluation
 url_canonical: https://www.anthropic.com/news/accenture-embedded-evaluation
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: f49698c240262b93e05a454ed7573642049bc1151068dbb54b7546b0c2e58b51

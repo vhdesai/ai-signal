@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: The Next Web
 url_original: https://thenextweb.com/news/grok-imagine-image-2-editing-arena-ranking-spacexai
 url_canonical: https://thenextweb.com/news/grok-imagine-image-2-editing-arena-ranking-spacexai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 93b4b4e28b5cf97b9d883366e0e831fc079bc06a0c23240564a3aaebe20bbe29
@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi
 - 2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
-- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 embedding_id: 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
 event_name: ''
 ---
@@ -42,5 +42,5 @@ xAI’s updated image model claimed the number two spot on both the Arena text-t
 
 **Entities:** [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi]] · [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]]
+**Related:** [[2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi]] · [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
 <!-- graph:end -->

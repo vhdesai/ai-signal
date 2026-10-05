@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo
+- 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 - 2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl
-- 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 embedding_id: 2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Power delivery and heat rejection — not compute procurement — are the pacing
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]] · [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]]
+**Related:** [[2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl]]
 <!-- graph:end -->

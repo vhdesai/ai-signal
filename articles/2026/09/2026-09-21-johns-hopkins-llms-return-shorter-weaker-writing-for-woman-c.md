@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore (Johns Hopkins release)]
 url_original: https://techxplore.com/news/2026-09-llms-weaker-writing-woman-coded-prompts.html
 url_canonical: https://techxplore.com/news/2026-09-llms-weaker-writing-woman-coded-prompts.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: 48eb140c8ec2a93f6beac9f8b12dd5df8c6b98e12c630a3c818592e304695a4d

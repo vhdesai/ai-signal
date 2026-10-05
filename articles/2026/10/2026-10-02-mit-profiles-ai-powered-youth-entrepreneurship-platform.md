@@ -4,8 +4,8 @@ title: MIT profiles AI-powered youth entrepreneurship platform
 date: '2026-10-02'
 source: MIT News · Publication timing corroborated by a 2:02 p.m. AEST same-day repost
 url_original: https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002
-url_canonical: https://entrepreneurship.mit.edu/news/introducing-dear-dreamer-a-free-online-entrepreneurship-tool-for-young-people-everywhere/
-url_status: repaired
+url_canonical: https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002
+url_status: found
 digest_source: digests\raw\2026-10-02_060413_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: f35727ac6e933945ec0549987504dd7510643faa5f62fe82291d6e62955d321e

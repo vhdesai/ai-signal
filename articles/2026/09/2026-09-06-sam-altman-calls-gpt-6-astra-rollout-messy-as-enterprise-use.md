@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: Computerworld
 url_original: https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html
 url_canonical: https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_061000_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: dc9f2f556fa096642fa1aca9fa52b6211744e87edcdfe518c914a8d65728f5f5

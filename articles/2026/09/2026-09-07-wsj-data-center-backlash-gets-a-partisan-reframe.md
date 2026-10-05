@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: WSJ
 url_original: https://www.wsj.com/tech/ai/upset-about-data-centers-big-tech-and-trump-think-youre-a-socialist-dupe-1bb0ee55
 url_canonical: https://www.wsj.com/tech/ai/upset-about-data-centers-big-tech-and-trump-think-youre-a-socialist-dupe-1bb0ee55
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: c716f3a13beb552c9edb46032c76b245e18d903ca902b8fda8f2639d97188a58
 normalized_title_hash: e3213031a6808adf

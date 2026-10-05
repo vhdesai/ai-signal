@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Mobile World Live
 url_original: https://www.mobileworldlive.com/deepseek/deepseek-plots-major-huawei-ai-chip-order/
 url_canonical: https://www.mobileworldlive.com/deepseek/deepseek-plots-major-huawei-ai-chip-order/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 5de5f8f4b1ae61f62219384aa16282fcede1dd674ea986fb624e97b348e4d047

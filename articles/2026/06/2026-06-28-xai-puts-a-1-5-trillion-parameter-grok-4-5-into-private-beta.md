@@ -6,7 +6,7 @@ date: '2026-06-28'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/grok-4-5-private-beta-spacex-tesla/
 url_canonical: https://cryptobriefing.com/grok-4-5-private-beta-spacex-tesla/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 191a7df8c1bbf317a6af0b686ce9c3696c47a96a87b703993f89721e805d08b0

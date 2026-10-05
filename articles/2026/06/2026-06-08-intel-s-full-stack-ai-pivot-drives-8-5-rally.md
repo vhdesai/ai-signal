@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/318008/20260608/intel-stock-surges-analyst-targets-climb-sambanova-foxconn-deals-anchor-ai-pivot.htm
 url_canonical: https://www.techtimes.com/articles/318008/20260608/intel-stock-surges-analyst-targets-climb-sambanova-foxconn-deals-anchor-ai-pivot.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 48d8a26097023db456665c454896047f8fc9029c9c3cdbbbbb5541665fd1d9a6
 normalized_title_hash: 0be0543f1064bf7f

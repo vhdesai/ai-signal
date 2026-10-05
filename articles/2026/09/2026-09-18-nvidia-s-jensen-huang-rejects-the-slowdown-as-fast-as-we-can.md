@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: CBS News
 url_original: https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/
 url_canonical: https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_062057_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 3d2452cd21e476795689490290427744c2ccb587ecb759f9103ab8274ce51017

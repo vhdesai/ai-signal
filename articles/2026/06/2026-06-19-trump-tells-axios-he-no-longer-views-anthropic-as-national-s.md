@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: CNBC; Reuters
 url_original: https://www.cnbc.com/2026/06/19/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat.html
 url_canonical: https://www.cnbc.com/2026/06/19/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: 33947933e10f35a6bebf2a742b6c2d1db4a24c83ee76020b564a73473aed6bf9
 normalized_title_hash: 40734b2fa43f3d69

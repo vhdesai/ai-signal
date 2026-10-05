@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Blockonomi
 url_original: https://blockonomi.com/oracle-orcl-stock-surge-as-ai-infrastructure-deal-with-hpe-fuels-rally-ahead-of-earnings/
 url_canonical: https://blockonomi.com/oracle-orcl-stock-surge-as-ai-infrastructure-deal-with-hpe-fuels-rally-ahead-of-earnings/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 214a21fb0d916bc65d13feab907cf2d30162d7c88b79faf05b3a0c4bfedbb60f

@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Neuron
 url_original: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/
 url_canonical: https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 8cc287adffa420a7d0a2f5c6cd541f7e79ba5f9fb432146f52ebce6d820ea3a4

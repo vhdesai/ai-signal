@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: StepFun / MarkTechPost
 url_original: https://www.stepfun.com/step-5-preview
 url_canonical: https://www.stepfun.com/step-5-preview
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_000917_Inbox_Fw Daily AI News Digest - September
   21, 2026.md
 content_hash: 9950b72d263da9e29fcc68c16dc3526944166a6556a0326bc8637b690d51f709

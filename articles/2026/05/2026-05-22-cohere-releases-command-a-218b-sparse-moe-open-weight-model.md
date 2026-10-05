@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Let's Data Science  / Cohere Blog
 url_original: https://letsdatascience.com/news/
 url_canonical: https://letsdatascience.com/news/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: f2c0af1241fbb9fab5b4b40cd222d12f35d1d3010e43166c491df9043acc2e01

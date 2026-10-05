@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Gear Live
 url_original: https://www.gearlive.com/news/article/safari-27-mcp-server-ai-agents-browser
 url_canonical: https://www.gearlive.com/news/article/safari-27-mcp-server-ai-agents-browser
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_062203_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 557fb161bc8a19a246d4bc433d7ec2fb22d2836a7364ec5799cd639327ec62b8

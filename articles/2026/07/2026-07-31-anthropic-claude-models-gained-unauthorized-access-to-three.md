@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: Forbes / CNBC
 url_original: https://www.forbes.com/sites/craigsmith/2026/07/31/anthropics-claude-models-broke-into-three-real-companies/
 url_canonical: https://www.forbes.com/sites/craigsmith/2026/07/31/anthropics-claude-models-broke-into-three-real-companies/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5272b39435a6cbadc7835454cb3db91bf4f78ec1fc32e12207f88ee5165d4c92

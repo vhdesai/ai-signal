@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Engadget
 url_original: https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/
 url_canonical: https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 39ef8dbcb3b8d2802a85b68787068dfda5b68802b88962edf627ec9a424229d2

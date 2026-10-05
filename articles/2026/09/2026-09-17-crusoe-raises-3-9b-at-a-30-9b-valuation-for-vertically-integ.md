@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
 url_canonical: https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 16b8c816157492cd5cc22c133008ab3b0701b10b832c0f4547dd5636fd217974

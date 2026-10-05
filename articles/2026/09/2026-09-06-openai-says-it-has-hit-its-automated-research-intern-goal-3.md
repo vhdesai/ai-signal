@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/research-acceleration-view-inside-openai/
 url_canonical: https://openai.com/index/research-acceleration-view-inside-openai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 46211023916080ca13b9a25eb3bf63e2a914f4010b6b4b4617b2dd9e738b8a8d

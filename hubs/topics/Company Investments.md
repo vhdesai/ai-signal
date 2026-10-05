@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1274
+member_count: 1276
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1274 connected article(s).
+> Auto-generated topic hub. 1276 connected article(s).
 
+- `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]
+- `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]
 - `2026-10-02` [[2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset|Trump orders US government to cut ties with Anthropic; Hegseth labels company a supply-chain risk]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]

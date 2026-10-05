@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: xAI
 url_original: https://x.ai/news/grok-voice-transcribe-2
 url_canonical: https://x.ai/news/grok-voice-transcribe-2
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-19_060756_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 81588c7c7782c1bfb727810356a4e21a07d9327c5e698828c0141dcc3c755145

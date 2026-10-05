@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Decoder
 url_original: https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/
 url_canonical: https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: a8878be66a0bfb0f08de62d0ede6b5713150b58183834a6e65261f0c40e8ad33

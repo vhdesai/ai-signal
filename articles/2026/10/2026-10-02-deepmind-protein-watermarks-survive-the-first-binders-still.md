@@ -4,8 +4,8 @@ title: DeepMind protein watermarks survive — the first binders still bind
 date: '2026-10-02'
 source: Mixed Reality News / DeepMind
 url_original: null
-url_canonical: https://mixed-news.com/en/synthid-bio-watermarked-ai-designed-proteins-binders-still-bind/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 0638862a21f919e4ddbbb545cc01b378bf0b6173c490ac46d15b42316b07d8dc

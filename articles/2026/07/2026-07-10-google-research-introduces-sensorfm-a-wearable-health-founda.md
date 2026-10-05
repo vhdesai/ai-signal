@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Google Research
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: b944fb5703ccd007743ce3aba4ca46aebf96f0c3e338167c3e832a4492faabd5

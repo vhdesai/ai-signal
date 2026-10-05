@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568
 url_canonical: https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_062352_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: f4ff86bf19868d0c2bfeca2ca9eb0e3c1d17538bdbdb0d69827f1ee81eddac55

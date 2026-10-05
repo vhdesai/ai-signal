@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: Anthropic
 url_original: https://www.anthropic.com/research/economic-index-june-2026-report
 url_canonical: https://www.anthropic.com/research/economic-index-june-2026-report
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 433da41bf9b1029c139f1e65f116bf8f6dc697b3ac29087b970293114a22c35e

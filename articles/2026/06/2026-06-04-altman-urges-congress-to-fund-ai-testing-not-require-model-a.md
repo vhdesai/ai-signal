@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Next Web
 url_original: https://thenextweb.com/news/altman-congress-ai-model-approvals
 url_canonical: https://thenextweb.com/news/altman-congress-ai-model-approvals
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: bfac6881655dca925547f2404071f0e5c1d07550f41b426df692c471adb74754
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 - 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
 - 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 - 2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews
-- 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict]] · [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe]] · [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]]
+**Related:** [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict]] · [[2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe]] · [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]]
 <!-- graph:end -->
