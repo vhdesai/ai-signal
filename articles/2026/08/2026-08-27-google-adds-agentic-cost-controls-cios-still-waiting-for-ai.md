@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
+- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 embedding_id: 2026-08-27-google-adds-agentic-cost-controls-cios-still-waiting-for-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google adds cost controls for agentic AI workloads that generate unpredictable c
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise]]
+**Related:** [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]]
 <!-- graph:end -->

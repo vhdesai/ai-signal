@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 - 2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 embedding_id: 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters reported, via Morgan Stanley analysis, that Nvidia and Broadcom are rela
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru]] · [[2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

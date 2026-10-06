@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
 url_canonical: https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062818_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: bd94e1fd25899c444406ef3039e3e836c429436f837744ff6c8d37fb3d3ded42

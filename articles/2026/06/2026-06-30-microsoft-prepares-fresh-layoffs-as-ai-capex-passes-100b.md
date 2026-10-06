@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/microsoft-set-to-cut-thousands-of-jobs-next-week-spanning-xbox-sales-and-consulting/
 url_canonical: https://www.geekwire.com/2026/microsoft-set-to-cut-thousands-of-jobs-next-week-spanning-xbox-sales-and-consulting/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: e8379ee0711216773d881a0818737e2777462f40fc4ed889e94dca497ec4a7f7

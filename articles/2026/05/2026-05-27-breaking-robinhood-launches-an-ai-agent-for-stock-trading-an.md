@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: TechCrunch / Bloomberg
 url_original: https://techcrunch.com/
 url_canonical: https://techcrunch.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 5acd9fe1f6f6944e8fadbfb681a857708c19b82001ec73ba50ed479f85b8473c

@@ -26,10 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-- 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 embedding_id: 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
 event_name: ''
 ---
@@ -43,5 +43,5 @@ While OpenAI, Anthropic, Microsoft, and Amazon invest billions hiring "forward d
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread]]
+**Related:** [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]]
 <!-- graph:end -->

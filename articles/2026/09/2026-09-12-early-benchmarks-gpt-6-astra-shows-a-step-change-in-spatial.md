@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Decoder
 url_original: https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/
 url_canonical: https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 95ab6e8b7235392a5b5217de5cc2c475b3c283c677b2e6b9e76e0afa3ab32cf5

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: SCMP · Read article →
 url_original: https://www.secondtalent.com/news/ai/
 url_canonical: https://www.secondtalent.com/news/ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 9da0d27c9595cab1fd8149bf196c8eb8a0e2f01a3ad5a46646189e21db1c083c

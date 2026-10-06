@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Reuters
 url_original: https://www.usnews.com/news/top-news/articles/2026-08-04/exclusive-trump-administration-drafting-ban-on-chinese-data-center-devices-sources-say
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-08-04/exclusive-trump-administration-drafting-ban-on-chinese-data-center-devices-sources-say
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 9261ffb0ae59563a3fd62e3f36cebbbf923ea563e6721fe29da630cb8d86adb9

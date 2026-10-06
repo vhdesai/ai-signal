@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3322
+member_count: 3327
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3322 connected article(s).
+> Auto-generated topic hub. 3327 connected article(s).
 
+- `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model|Researchers extend LeCun's JEPA into a universal world model across physics, biology and more]]
+- `2026-10-06` [[2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text|OpenAI adds invisible watermarking to AI-generated text]]
+- `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
 - `2026-10-05` [[2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta|UT Austin studies joint execution and verification of LLM task graphs]]
 - `2026-10-05` [[2026-10-05-preference-research-exposes-limits-of-automated-evaluation|Preference research exposes limits of automated evaluation]]

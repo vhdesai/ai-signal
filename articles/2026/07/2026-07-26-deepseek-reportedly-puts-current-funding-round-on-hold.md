@@ -5,7 +5,7 @@ date: '2026-07-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round%20hold
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek%20funding%20round%20hold
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: d01512550d6c8d4e623e929880a0447a61a9d712e39264c753c19f99507bb70d

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 990
+member_count: 992
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 990 connected article(s).
+> Auto-generated entity hub. 992 connected article(s).
 
+- `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
 - `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
 - `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]

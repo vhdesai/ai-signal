@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: Unite.AI / Euractiv
 url_original: https://www.unite.ai/cloudera-and-mistral-ai-partner-to-deliver-sovereign-enterprise-ai/
 url_canonical: https://www.unite.ai/cloudera-and-mistral-ai-partner-to-deliver-sovereign-enterprise-ai/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 3673fca67abd5abd0c855e640f61a073bd26b877154990702fb3136f88aa9228
 normalized_title_hash: 27d2aee99295e307

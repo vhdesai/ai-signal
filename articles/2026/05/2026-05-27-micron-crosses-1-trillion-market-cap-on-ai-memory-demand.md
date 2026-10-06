@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Fortune / Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/05/27/stock-market-today-may-27-micron-extends-rally-on-ai-chip-momentum-u-s-markets-inch-higher/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/05/27/stock-market-today-may-27-micron-extends-rally-on-ai-chip-momentum-u-s-markets-inch-higher/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: e428986e79556886378c6c194c3b0e02bd684166531239acfb25aaaea6387d6f

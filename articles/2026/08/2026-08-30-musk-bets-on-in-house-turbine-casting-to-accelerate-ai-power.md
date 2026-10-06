@@ -6,7 +6,7 @@ date: '2026-08-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
 url_canonical: https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: a0014330a2157c005253b52096b32945bb688b9a6f346da71f72eb7db31564c8
 normalized_title_hash: 025763becb996fc2

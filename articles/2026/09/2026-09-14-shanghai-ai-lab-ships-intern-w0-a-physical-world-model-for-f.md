@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Pandaily
 url_original: https://pandaily.com/shanghai-ai-lab-ships-intern-physical-world-model-w0-force-tactile-robotics/
 url_canonical: https://pandaily.com/shanghai-ai-lab-ships-intern-physical-world-model-w0-force-tactile-robotics/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 34144159ab0ed544bfd36ebc28879fcf724b706784ee0d44301e05c9e1cd4d38

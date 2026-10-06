@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Decoder
 url_original: https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/
 url_canonical: https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 9795f9f702be6d9591c8d12e0ba5d7a144c007128b15f43bdbc81bd83b2d5319

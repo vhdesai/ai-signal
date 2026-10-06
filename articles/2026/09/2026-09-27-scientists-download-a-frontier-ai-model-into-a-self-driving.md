@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Futurism
 url_original: https://futurism.com/scientists-download-frontier-ai-self-driving-car-2026
 url_canonical: https://futurism.com/scientists-download-frontier-ai-self-driving-car-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: b5415526ffa20e9a9a403439b35f18a59d01143f907d34856745a720b78ef1e9

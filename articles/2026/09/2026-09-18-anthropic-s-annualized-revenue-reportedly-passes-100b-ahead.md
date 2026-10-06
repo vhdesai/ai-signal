@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Axios / The Information
 url_original: https://www.axios.com/2026/09/18/anthropic-100-billion-revenue
 url_canonical: https://www.axios.com/2026/09/18/anthropic-100-billion-revenue
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_065935_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: af4823abcf87f2fe681787f0d0ac45330b80e06cdc1716a55ccde36edff764a7

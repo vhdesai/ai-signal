@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Nextgov/FCW]
 url_original: https://www.nextgov.com/cybersecurity/2026/10/china-linked-hackers-impersonated-anthropic-employee-phish-ai-researchers
 url_canonical: https://www.nextgov.com/cybersecurity/2026/10/china-linked-hackers-impersonated-anthropic-employee-phish-ai-researchers
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: ac5a0cf133b6ac1b895c8a455fb70dfa99d8d10fc979f283e0fc474120810d84

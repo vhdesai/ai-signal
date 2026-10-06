@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TestingCatalog
 url_original: https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/
 url_canonical: https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 0b21e608859d0f41e6489838aca9bef78dedf6bda4ee237e9767d5363ef0133a

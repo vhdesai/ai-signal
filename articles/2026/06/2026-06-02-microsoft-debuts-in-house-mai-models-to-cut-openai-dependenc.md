@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: CNBC; Tech Times; Mashable
 url_original: https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
 url_canonical: https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 9d3a3688d2800ba0b3d5cd2d45ecb7f6c4172d10ccb7e95cc8bddef44afeda96

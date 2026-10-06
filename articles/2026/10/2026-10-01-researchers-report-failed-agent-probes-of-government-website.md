@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: 02:04 UTC · Reuters via US News; Transluce
 url_original: https://www.usnews.com/news/top-news/articles/2026-09-30/ai-agents-tried-to-hack-canadian-government-website-research-firm-says
 url_canonical: https://www.usnews.com/news/top-news/articles/2026-09-30/ai-agents-tried-to-hack-canadian-government-website-research-firm-says
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_060348_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 3675f8a0353a7de1fee64e802200e84ba262482ec367242e0c5a402c81f4ae65

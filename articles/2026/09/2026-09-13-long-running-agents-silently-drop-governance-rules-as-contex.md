@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/long-running-ai-agents-quietly-drop-compliance-rules-and-bigger-context-windows-wont-fix-it
 url_canonical: https://venturebeat.com/orchestration/long-running-ai-agents-quietly-drop-compliance-rules-and-bigger-context-windows-wont-fix-it
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_060544_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 308836c8678dde100da863225d8ebd4ad3a1c90772a4f3d72df3644f03c17ee9

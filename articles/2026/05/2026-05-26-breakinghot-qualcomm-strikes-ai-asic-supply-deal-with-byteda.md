@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Bloomberg (originating scoop) · Reuters via Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/qualcomm-strikes-ai-chip-deal-145541849.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/qualcomm-strikes-ai-chip-deal-145541849.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 834e87fef83d0c4668b44e1ed6d217df36b7a9874c653d008187d8ed380d2390

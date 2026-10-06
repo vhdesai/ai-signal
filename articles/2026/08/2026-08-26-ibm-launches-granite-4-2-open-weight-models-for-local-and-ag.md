@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Ars Technica · IBM
 url_original: https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/
 url_canonical: https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: f9dc6e0831a0438dfb2c665854d787b559be0b5c989caec7327f40d5ddf5e2d3

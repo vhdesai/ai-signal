@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
-- 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AWS confirmed that Ori Herrnstadt, an engineering veteran of Apple and Google, j
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate]]
+**Related:** [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

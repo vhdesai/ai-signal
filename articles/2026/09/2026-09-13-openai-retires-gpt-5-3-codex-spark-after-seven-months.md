@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: 36Kr / KuCoin
 url_original: https://36kr.com/p/openai-retires-gpt-5-3-codex-spark
 url_canonical: https://36kr.com/p/openai-retires-gpt-5-3-codex-spark
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 1b448dbaa3426dfae13fbbe7fa4113d203d90684a64b2811e649e6a4f9cc0a95

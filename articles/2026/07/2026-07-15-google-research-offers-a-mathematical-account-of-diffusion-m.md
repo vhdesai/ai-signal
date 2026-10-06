@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Google Research Blog**
 url_original: https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
 url_canonical: https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: cc41a3d0058d4f64e5b765d86fe7a26d7b731275a1b65f8b6d388bcd9032b083
 normalized_title_hash: 8d766b00bf33af00

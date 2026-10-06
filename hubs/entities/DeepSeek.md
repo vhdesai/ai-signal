@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 519
+member_count: 523
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 519 connected article(s).
+> Auto-generated entity hub. 523 connected article(s).
 
+- `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
 - `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
 - `2026-10-02` [[2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai|Huawei openJiuwen adds full-duplex voice + video; Rotating Chairman claims Ascend has surpassed Nvidia in China]]

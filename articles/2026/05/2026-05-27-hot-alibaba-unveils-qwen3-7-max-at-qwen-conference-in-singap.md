@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Alibaba / Fintech News SG
 url_original: https://fintechnews.sg/132087/ai/alibaba-cloud-ai-stack/
 url_canonical: https://fintechnews.sg/132087/ai/alibaba-cloud-ai-stack/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: bbd2b349b887940bf0a4aabcfac7511240ed660d3d1f249d56e62a5b88a217fb

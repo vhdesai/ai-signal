@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: Memeburn
 url_original: https://memeburn.com/deepseek-data-center-plan-reveals/
 url_canonical: https://memeburn.com/deepseek-data-center-plan-reveals/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-02_061105_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: 2bbecd704c30aab8245efaf9e80e61a596367c53f0531affd560f95ea8bd71f8

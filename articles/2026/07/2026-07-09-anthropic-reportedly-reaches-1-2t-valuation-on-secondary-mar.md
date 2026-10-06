@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Business Insider
 url_original: https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7
 url_canonical: https://www.businessinsider.com/anthropic-soared-1-2-trillion-valuation-on-secondary-markets-2026-7
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 92cf0064c5708543150486afa548b7a0b92a84af962c97ef7041762e70a69fed

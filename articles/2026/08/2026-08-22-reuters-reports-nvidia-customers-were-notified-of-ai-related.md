@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
-- 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 embedding_id: 2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reported, citing Bloomberg News, that Nvidia customers were notified abo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn]]
+**Related:** [[2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: MIT News
 url_original: https://techxplore.com/news/2026-06-plain-language-ai-workflow-tool.html
 url_canonical: https://techxplore.com/news/2026-06-plain-language-ai-workflow-tool.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 6113c5ec2c4bd009299f2d1dd52852a548799e2b174a9c2d75670613db53b9f3
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
-- 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from MIT and Microsoft developed a system that lets developers descr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a]]
+**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

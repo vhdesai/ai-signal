@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: Cohere
 url_original: https://cohere.com/blog/introducing-north-2
 url_canonical: https://cohere.com/blog/introducing-north-2
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: f1e0363aef8c296e3b30b1eebe54554172be8add1a823a78ad134c3623e5a16a

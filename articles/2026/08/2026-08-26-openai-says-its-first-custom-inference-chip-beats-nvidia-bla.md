@@ -6,7 +6,7 @@ date: '2026-08-26'
 source: 24/7 Wall St. · OpenAI · Nvidia
 url_original: https://247wallst.com/investing/2026/08/26/openais-custom-chip-embarrasses-nvidia-while-company-vows-to-keep-buying-from-it/
 url_canonical: https://247wallst.com/investing/2026/08/26/openais-custom-chip-embarrasses-nvidia-while-company-vows-to-keep-buying-from-it/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 5d245fb713b8a86a61d908c7ffbae1751bf1334896005a40c75db8ceae59bd05

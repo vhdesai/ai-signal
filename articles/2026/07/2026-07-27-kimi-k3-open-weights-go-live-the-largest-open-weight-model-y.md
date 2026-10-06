@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechNode
 url_original: https://technode.com/2026/07/27/moonshot-ai-to-make-kimi-k3-available-for-public-download/
 url_canonical: https://technode.com/2026/07/27/moonshot-ai-to-make-kimi-k3-available-for-public-download/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: f0b314d9a9206cb2103c88241c06f89661337e354972a4ab48a2bf621ca140ff

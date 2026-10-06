@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: LatestLY / CNBC]
 url_original: https://www.latestly.com/technology/microsoft-unveils-biggest-copilot-overhaul-with-home-code-and-autopilot-features-7620519.html
 url_canonical: https://www.latestly.com/technology/microsoft-unveils-biggest-copilot-overhaul-with-home-code-and-autopilot-features-7620519.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_065801_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 4d3ac4b960fdfa1ee8d8d416148be958e0ff4ddc6b74785e256b3991fb2c5064

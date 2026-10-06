@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
 url_canonical: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 09b60265bcbea51c11a39d392ed1b0b4ff887888645e628b82f2817693bb678d

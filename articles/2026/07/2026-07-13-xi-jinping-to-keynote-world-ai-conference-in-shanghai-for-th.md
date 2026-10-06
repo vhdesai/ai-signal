@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Xinhua · The Next Web
 url_original: https://english.news.cn/20260713/8a9fb9c2919a476b8a67f819ea896c4c/c.html
 url_canonical: https://english.news.cn/20260713/8a9fb9c2919a476b8a67f819ea896c4c/c.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: ad10ed00e74a23f5f10995e8ee2cff43f2e62b6ad4a9f22ecb02ea484c7897f9

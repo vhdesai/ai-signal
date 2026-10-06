@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1276
+member_count: 1277
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1276 connected article(s).
+> Auto-generated topic hub. 1277 connected article(s).
 
+- `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
 - `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]
 - `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]

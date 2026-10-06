@@ -6,7 +6,7 @@ date: '2026-08-17'
 source: Forbes
 url_original: https://www.forbes.com/sites/alisondurkee/2026/08/17/doj-investigating-billionaire-led-andreessen-horowitz-despite-its-trump-ties-report-says/
 url_canonical: https://www.forbes.com/sites/alisondurkee/2026/08/17/doj-investigating-billionaire-led-andreessen-horowitz-despite-its-trump-ties-report-says/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 4fda498b6e4313e0898515af3a5b1f839c7fb3e455613c62f3fd7ba56d42a512
 normalized_title_hash: 87707d851dd2c499

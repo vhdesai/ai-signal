@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
 url_canonical: https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: ef34641239fa4a59d01a632ce24eeba07bf1209aa6fc3b0b1e2f3025c5b848be

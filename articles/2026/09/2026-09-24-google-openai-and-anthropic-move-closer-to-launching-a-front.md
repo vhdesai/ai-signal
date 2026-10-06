@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: PA / BankInfoSecurity
 url_original: https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926
 url_canonical: https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 08e2d1c5901891e9cd29ff49892a69d8372add4d5b88d1c916bd34d0bcde2802

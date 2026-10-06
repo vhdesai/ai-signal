@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/liner-secures-36-1-million-154800511.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/liner-secures-36-1-million-154800511.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061318_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: b36c572299b219be765e53b0b61a2ce9ea1947f9e56f13769cdba7df05b07f56

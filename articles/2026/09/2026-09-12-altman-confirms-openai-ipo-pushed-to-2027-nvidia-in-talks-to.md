@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: TechCrunch / The Decoder
 url_original: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
 url_canonical: https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 26a024c1506c5feb0ad30fc305777f0d896bb62cc7c0fc50b1c65f8d6a69a078

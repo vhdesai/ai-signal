@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2337
+member_count: 2342
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2337 connected article(s).
+> Auto-generated entity hub. 2342 connected article(s).
 
+- `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]

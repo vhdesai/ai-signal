@@ -6,7 +6,7 @@ date: '2026-06-29'
 source: PR Newswire
 url_original: https://uk.finance.yahoo.com/news/x-square-robot-secures-four-110000322.html
 url_canonical: https://uk.finance.yahoo.com/news/x-square-robot-secures-four-110000322.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: a6ba3180797ad3dc0db470bac8cec7fe3e601dc187f7a6517497c1dc422148b0

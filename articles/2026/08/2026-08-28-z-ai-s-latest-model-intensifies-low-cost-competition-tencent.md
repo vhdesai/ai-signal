@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Z.ai+model+Tencent+flagship+progress
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Z.ai+model+Tencent+flagship+progress
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-28_065948_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 7ccbe248c0fda4dd0c4db2ce386f0bc1e8ce7065642aa775475d57425568c83c

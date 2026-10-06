@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-- 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 embedding_id: 2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Publication window: items published Oct 4 – Oct 5, 2026 (last 24 hours). Compi
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]]
+**Related:** [[2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]]
 <!-- graph:end -->

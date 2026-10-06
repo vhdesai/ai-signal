@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: The Information
 url_original: https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-under-control
 url_canonical: https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-under-control
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 7fece05a1f63626c1c1ab8d976971e5c687baa684621720e628e76bb2074ece4

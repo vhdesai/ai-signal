@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
 url_canonical: https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 79856ede349e767f9e64d496394c73814f03fa04bc053882efeb343fe847dc41

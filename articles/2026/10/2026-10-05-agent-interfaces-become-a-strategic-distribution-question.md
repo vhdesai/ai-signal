@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-10-05-agent-interfaces-become-a-strategic-distribution-question
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Axios examines Meta Muse and Microsoft's Copilot for Business as agent-led alter
 
 **Entities:** [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]]
+**Related:** [[2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

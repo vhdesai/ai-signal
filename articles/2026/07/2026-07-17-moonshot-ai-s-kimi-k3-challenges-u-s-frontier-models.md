@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: The Information · DealBook
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Kimi%20K3
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Kimi%20K3
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: b61399c52d878de48b1b8bbb1d66e876c2f62a5449c277e46a7b148d4a62b240
 normalized_title_hash: 7b91312e0dcba713

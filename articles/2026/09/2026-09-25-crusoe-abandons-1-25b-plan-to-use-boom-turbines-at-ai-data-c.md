@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
 url_canonical: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: d465ce556765045e584479a630115c30c45033102fd8ed2a16f9e76c63529547

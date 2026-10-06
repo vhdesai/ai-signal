@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: iThinkDifferent
 url_original: https://www.ithinkdiff.com/chatgpt-work-gpt-5-6-rollout-july-2026/
 url_canonical: https://www.ithinkdiff.com/chatgpt-work-gpt-5-6-rollout-july-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: c6787ba7c290c593de752b57cf08833eff41e171a5fcc19a4278b0c645570bea

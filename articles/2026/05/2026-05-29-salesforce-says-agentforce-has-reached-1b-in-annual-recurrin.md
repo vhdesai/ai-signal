@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/salesforce-agentforce-earnings-saas-pocalypse/821413/
 url_canonical: https://www.ciodive.com/news/salesforce-agentforce-earnings-saas-pocalypse/821413/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: c8513115d0acf362c2d8121c65deeaa823b023f6f69bdc152bcf5b7ed93b9d64

@@ -27,9 +27,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 embedding_id: 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Reuters and the Financial Times report Amazon is seeking to offload approximatel
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure]]
 <!-- graph:end -->

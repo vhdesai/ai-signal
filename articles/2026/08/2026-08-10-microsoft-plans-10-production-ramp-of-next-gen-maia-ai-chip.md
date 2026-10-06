@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+Maia+chip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft+Maia+chip
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: ebfb0dff518bda21a328a4fbfe4703b814a01efe366b871ff07f5900995ae0c1

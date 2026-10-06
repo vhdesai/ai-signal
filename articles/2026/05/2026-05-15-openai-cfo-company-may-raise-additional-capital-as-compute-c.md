@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
+- 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
 - 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 - 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
-- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 embedding_id: 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI CFO Sarah Friar told Bloomberg that the company is actively evaluating ad
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
+**Related:** [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa]] · [[2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-09-29/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows
 url_canonical: https://money.usnews.com/investing/news/articles/2026-09-29/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: e4c408af249088a482b7346a2ec00f19ec04d14626d8471cf55a90cb85847e6f

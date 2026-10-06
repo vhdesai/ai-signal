@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: WION
 url_original: https://www.wionews.com/world/alibaba-cut-the-price-of-ai-voice-tools-by-up-to-95-in-a-single-release-1790428228997
 url_canonical: https://www.wionews.com/world/alibaba-cut-the-price-of-ai-voice-tools-by-up-to-95-in-a-single-release-1790428228997
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060536_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 9a618fc776eb5f2a20fe3b859959f8aa60e5856788ee97177eb69a9a89739668

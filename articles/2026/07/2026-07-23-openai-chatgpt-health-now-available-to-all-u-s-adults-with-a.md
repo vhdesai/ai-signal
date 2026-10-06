@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
 url_canonical: https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-25_065018_Final-Daily-AI-News-Digest.md
 content_hash: 243457072d2ccba835e30b0cadbdef2060fe8f369ef45cd45bdd26f52631522a
 normalized_title_hash: 219ed91a4600a44a

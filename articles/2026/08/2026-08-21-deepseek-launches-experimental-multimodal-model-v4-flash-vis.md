@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Next Web
 url_original: https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks
 url_canonical: https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 0f5a428a14b630e019354d386b9aa12497f8b3a0f0252382138a9cc27276aca5

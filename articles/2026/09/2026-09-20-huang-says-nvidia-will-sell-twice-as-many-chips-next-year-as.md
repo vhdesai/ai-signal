@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-expects-213034571.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-expects-213034571.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_062410_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 6f3c260d7874e941c40bc04fd56cc4975bb5acb2c10608bccb68584c55211c5f

@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Axios
 url_original: https://www.axios.com/2026/09/21/us-china-ai-risks-bessent-trump
 url_canonical: https://www.axios.com/2026/09/21/us-china-ai-risks-bessent-trump
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: f3bc9a70a581f2d15d5357b6e7445fdba3bf4c968699cb121f4af75975e22ce2

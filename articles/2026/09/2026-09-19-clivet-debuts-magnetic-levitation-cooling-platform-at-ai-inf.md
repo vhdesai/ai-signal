@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/duo-power-boost-clivet-debuts-030600164.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/duo-power-boost-clivet-debuts-030600164.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 82194bd54a62546dd095b2d524ee0bc2465443d53d00f33f7d64ce6a7980ada7

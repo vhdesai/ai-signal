@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: July 29, 2026
 url_original: https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/
 url_canonical: https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: e3b269bb28e73a0b1c605612741bb3592d473c0a013a85ccf839db40c32d1e84

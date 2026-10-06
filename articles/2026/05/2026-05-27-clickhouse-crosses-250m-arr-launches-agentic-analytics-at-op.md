@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: HPCwire
 url_original: https://www.hpcwire.com/aiwire/
 url_canonical: https://www.hpcwire.com/aiwire/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: b5d63c84152c75d49c2c9affe816c58cda14cd8884926bbade9b1f11f7f616eb

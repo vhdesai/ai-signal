@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
-- 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
+- 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
 embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic has begun requiring government ID verification (via Persona) before al
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude]] · [[2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use]]
+**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p]] · [[2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp]] · [[2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude]] · [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law]]
 <!-- graph:end -->

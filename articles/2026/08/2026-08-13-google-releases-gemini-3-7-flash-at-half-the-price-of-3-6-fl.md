@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: Google Blog · MarkTechPost
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 58132063d5ccc5e5fe51210ffc2c515af589d941eba70c5a5860d90830ddefac
 normalized_title_hash: d5730819ee242e48

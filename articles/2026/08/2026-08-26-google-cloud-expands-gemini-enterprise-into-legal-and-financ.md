@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-enterprise-legal-ai-tools-plug-ins-10849919/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-enterprise-legal-ai-tools-plug-ins-10849919/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 09741de1061d3cf1b3bab4a87ea84d3e2b40e4c1ebd2d58ee3d1c0a76cde9b3a

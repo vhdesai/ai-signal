@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/anthropic-wants-ai-slow-down-072927342.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-wants-ai-slow-down-072927342.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 99564537910142eae5675ecb5674659685424a0aacee822c32c2dc3376bfab5b

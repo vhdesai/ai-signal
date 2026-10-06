@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: BetaNews
 url_original: https://betanews.com/article/anthropic-new-ai-model-openai-astra/
 url_canonical: https://betanews.com/article/anthropic-new-ai-model-openai-astra/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9d8e29ce554b9af513dbaeb3823dc1f67d44377ccae5cb527a1fefb9ea794a5e

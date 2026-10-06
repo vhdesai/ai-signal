@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/open-protein-dataset/
 url_canonical: https://blogs.nvidia.com/blog/open-protein-dataset/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 5e960a3749ea399906fdad414c162d72901ac455704e53031a0603263025947a

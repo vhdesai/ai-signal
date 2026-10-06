@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3367973/chip-foundries-better-insulated-ai-slowdown-asia-pacific-tech-peers-sp-says
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367973/chip-foundries-better-insulated-ai-slowdown-asia-pacific-tech-peers-sp-says
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 02b73d4ab765b995f6cdb7f7f4b0ef1d19748792476f6cb737af668a25ba63c0

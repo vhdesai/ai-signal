@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: LLM Reference
 url_original: https://www.llmreference.com/changelog/2026-09
 url_canonical: https://www.llmreference.com/changelog/2026-09
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: b5acb7979d3df1bdc2f1882377c7ed396957550a05e54c1a3d60b2f9fca672a4

@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: DataCenterDynamics / Crypto Briefing
 url_original: https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/
 url_canonical: https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: b9f1868cf771b4660da9ac544e4d79fd3a490d59cb34a2f3841fb071f451041f

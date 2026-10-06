@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Next Web
 url_original: https://thenextweb.com/news/google-india-ai-datacentre-andhra-pradesh-land
 url_canonical: https://thenextweb.com/news/google-india-ai-datacentre-andhra-pradesh-land
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060536_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 0a18f5d4f503a6d6e7d77443474815957df4c82e1c1a3b69deb1bafa4cf5c473

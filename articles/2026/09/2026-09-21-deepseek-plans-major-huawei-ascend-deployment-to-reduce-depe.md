@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/deepseek-huawei-ai-training-chips/
 url_canonical: https://cryptobriefing.com/deepseek-huawei-ai-training-chips/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: ae082cee4ae07a264d2261b0c924ae91220a700dcf718a14fd5dee1ea6ae617a

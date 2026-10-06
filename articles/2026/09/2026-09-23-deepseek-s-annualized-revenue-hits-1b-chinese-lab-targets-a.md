@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+annualized+revenue+1+billion+funding
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=DeepSeek+annualized+revenue+1+billion+funding
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_070124_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 6f1816572e278b8f746a3bd107c3647c81bd8271240ecb3935eb04b372916565

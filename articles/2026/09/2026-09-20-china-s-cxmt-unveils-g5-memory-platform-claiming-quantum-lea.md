@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced
 url_canonical: https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: fa0ba867c3f9c7916257e8012fd9c2d92baa745104d8942dbf6d3c76f624d386

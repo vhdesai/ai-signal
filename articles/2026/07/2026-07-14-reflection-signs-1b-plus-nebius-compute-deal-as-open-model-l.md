@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/news/ai-startup-reflection-signs-over-110942457.html
 url_canonical: https://finance.yahoo.com/news/ai-startup-reflection-signs-over-110942457.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 8491795bc0429070262fb0e54374b7f43d4f2556ca89f4a7f25b3fd961b22373

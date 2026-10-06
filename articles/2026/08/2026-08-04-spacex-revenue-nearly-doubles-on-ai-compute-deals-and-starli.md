@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/
 url_canonical: https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 790353780649476e5a6c9b2c6666ee60ea78fa3eded8aae0269db09032bcadad

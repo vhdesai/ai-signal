@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: The Decoder**
 url_original: https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/
 url_canonical: https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 045776fb7452eb55c7b4f67bfd8a4f833ad481f072d2c6fb62585171c645af3c
 normalized_title_hash: 2293122461b44518

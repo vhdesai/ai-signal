@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Eastern Herald
 url_original: https://easternherald.com/2026/09/20/altman-huang-cook-musk-trump-xi-white-house-ai-summit/
 url_canonical: https://easternherald.com/2026/09/20/altman-huang-cook-musk-trump-xi-white-house-ai-summit/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: f738ac2560f0476f6bd8cbabaf4b1627c5fbac9243a62c140be16f6413331713

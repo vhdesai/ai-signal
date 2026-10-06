@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/
 url_canonical: https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: a31f24156d2b5d9e138e8c46c39aa006c4f660ec05c2517990a001c9ae4b3d4f
 normalized_title_hash: fdf954fb0db19daa

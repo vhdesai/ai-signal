@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: MIT News
 url_original: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
 url_canonical: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: b415fa2aad6d9155065234a3a7d7a578b2779c296e6bd67cacaf5d8cb57800ae

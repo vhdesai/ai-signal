@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 5b20d4b8d91c0ab01ea0c3f5baee1f3f3d33e1021c63e9323e1ad4756639fe2b

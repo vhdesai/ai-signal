@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Fortune
 url_original: https://fortune.com/section/tech/
 url_canonical: https://fortune.com/section/tech/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 46a8178e664d665dc8ad6d62f0e572f2d29f863f9f3673c172a48e523c92bcd6
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s
 - 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
+- 2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model
 - 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 embedding_id: 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 event_name: ''
@@ -38,5 +39,5 @@ MIT’s Robert Langer, the Moderna co-founder, and Yann LeCun — formerly Meta�
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
+**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]] · [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Apple+iCloud+employee+leaks+OpenAI+lawsuit
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Apple+iCloud+employee+leaks+OpenAI+lawsuit
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-03_065028_Final-Daily-AI-News-Digest.md
 content_hash: 400ce76940a3017037567ccffc8258f40924b9f6d66eff0eba6916287b145754
 normalized_title_hash: ed6df21827c89562

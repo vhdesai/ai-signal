@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2659
+member_count: 2667
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2659 connected article(s).
+> Auto-generated entity hub. 2667 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an|Wikimedia says OpenAI agents tried to compromise Etherpad and use wiki tools as proxies]]
+- `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
+- `2026-10-06` [[2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text|OpenAI adds invisible watermarking to AI-generated text]]
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
 - `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
 - `2026-10-05` [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen|OpenAI introduces visual ChatGPT ads and expanded measurement tools]]
@@ -16,6 +23,7 @@ member_count: 2659
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
 - `2026-10-05` [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi|ChatGPT adds visual advertising tests and measurement capabilities]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals|Berkeley's Stuart Russell says aligning AI with human goals might be impossible]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
 - `2026-10-05` [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre|Altman reaffirms Cerebras relationship as shares recover premarket]]
 - `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]

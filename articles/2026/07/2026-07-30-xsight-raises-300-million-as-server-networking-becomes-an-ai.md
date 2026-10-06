@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Xsight%20server%20networking%20300%20million
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Xsight%20server%20networking%20300%20million
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 11b8fb8b7bb44fdba0861c3c16514cb53587c0148e75c8ca061e2346ff3e48aa

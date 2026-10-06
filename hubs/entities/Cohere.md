@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cohere
-member_count: 27
+member_count: 28
 ---
 
 # Cohere
 
-> Auto-generated entity hub. 27 connected article(s).
+> Auto-generated entity hub. 28 connected article(s).
 
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost controls]]

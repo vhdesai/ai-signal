@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: UK AI Security Institute
 url_original: https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations
 url_canonical: https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 78062187e222e831690f917aa2a386a636da2020f17240ad7691398d0a7feb4c

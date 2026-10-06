@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Axios
 url_original: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech
 url_canonical: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-23_062157_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 20d0d19bc4f5f02c8726d72636cd9e6c7607f00f2c32a68e333f5ad2307f6d7c

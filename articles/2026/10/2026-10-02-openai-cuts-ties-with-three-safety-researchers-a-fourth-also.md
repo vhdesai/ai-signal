@@ -5,7 +5,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/
 url_canonical: https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: ba8a8eac6753efadfbf3936dfcb8129f9322c0f66ca609278e18db4e2b8dd9ad

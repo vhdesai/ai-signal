@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: PitchBook
 url_original: https://pitchbook.com/news/articles/green-shoots-evergreen-funds-ai-sustainable-2026-09-26
 url_canonical: https://pitchbook.com/news/articles/green-shoots-evergreen-funds-ai-sustainable-2026-09-26
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 96e8b0bb3a795e8b0a58f54b00272fe8e9c546824c0dc495ecf37da04b0d4764

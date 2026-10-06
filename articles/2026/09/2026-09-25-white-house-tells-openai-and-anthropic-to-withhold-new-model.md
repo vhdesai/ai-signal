@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/
 url_canonical: https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 0e70238a2b6bb2d8455c0b1041652265a00a807887790f409f22cccd08107f44

@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: WSJ Pro Cybersecurity / Transluce
 url_original: https://www.wsj.com/articles/openai-agents-again-attempted-to-hack-australian-government-2026-09-25
 url_canonical: https://www.wsj.com/articles/openai-agents-again-attempted-to-hack-australian-government-2026-09-25
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: bd3a25cb8ce79c896954338a46e1e628ec21ef7c1724360035c72288af4a9824

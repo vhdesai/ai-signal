@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Information
 url_original: https://www.theinformation.com/articles/metas-muse-agent-nearly-cost-me-408
 url_canonical: https://www.theinformation.com/articles/metas-muse-agent-nearly-cost-me-408
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: d7036f6389f6a1c75117b9f24b70424081c9e3aaf12329846753a3a2110a71f8

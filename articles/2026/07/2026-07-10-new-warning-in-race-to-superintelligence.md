@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Axios AI+
 url_original: https://www.axios.com/newsletters/axios-ai-plus
 url_canonical: https://www.axios.com/newsletters/axios-ai-plus
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 8ee754a6c2b29e9d135bbf323cd30a74bfb7bd0dafd58f386c6f7b2391d3a92f

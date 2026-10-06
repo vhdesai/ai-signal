@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Official Microsoft Blog
 url_original: https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/
 url_canonical: https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: d606d3ff933356c3185274c85e64dae7ae160e44b69604fc970131feee484308

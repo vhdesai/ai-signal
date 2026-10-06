@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TechCrunch (citing WSJ)**
 url_original: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
 url_canonical: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 4a8067a3135190d4e5658250218c95be9a57c78e8f10e570e802abcfb27313a9
 normalized_title_hash: a1a64416206db848

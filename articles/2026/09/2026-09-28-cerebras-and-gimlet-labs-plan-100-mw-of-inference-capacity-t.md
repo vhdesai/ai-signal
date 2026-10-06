@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: Cerebras Systems
 url_original: https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment
 url_canonical: https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 898db94ecd89d1bad19e81eb36e228e9c1fd15dae6afaaf43d0ee35fee48eb82

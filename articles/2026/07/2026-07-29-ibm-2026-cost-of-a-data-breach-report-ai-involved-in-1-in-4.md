@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Unite.AI
 url_original: https://www.unite.ai/ibm-study-puts-ai-inside-one-in-four-malicious-breaches/
 url_canonical: https://www.unite.ai/ibm-study-puts-ai-inside-one-in-four-malicious-breaches/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 3897e0ca4f70a5076ae32eee3e64e5faab123cca92fb8885ba942ce45586cb1c

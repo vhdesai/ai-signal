@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Cognition
 url_original: https://cognition.com/blog/1b-run-rate
 url_canonical: https://cognition.com/blog/1b-run-rate
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060617_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 47ec415ce8d71a83c7aeb69ab0b58cbfe0c6e6fbdd68ee8d5535201d26bbb55d

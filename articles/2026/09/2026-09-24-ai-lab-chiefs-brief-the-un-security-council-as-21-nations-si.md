@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Al Jazeera
 url_original: https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal
 url_canonical: https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062359_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: b7f58afa9aa95429eae068f07820084ed4a570806c33bdac53d337a31977dcde

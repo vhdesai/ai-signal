@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
+- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 embedding_id: 2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Citi unveiled Arc, an internal platform designed to deploy and govern AI agents 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy]] · [[2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1631
+member_count: 1634
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1631 connected article(s).
+> Auto-generated entity hub. 1634 connected article(s).
 
+- `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]

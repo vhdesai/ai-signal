@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-750-billion-deals-revive-102003935.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: d953802cad106f68df7fc55ea3474aae29d810fc53feb15f8cd32b88b5b32b37

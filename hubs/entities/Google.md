@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1584
+member_count: 1587
 ---
 
 # Google
 
-> Auto-generated entity hub. 1584 connected article(s).
+> Auto-generated entity hub. 1587 connected article(s).
 
+- `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked|Google tests orbital AI data centers as Amazon warns blocked US projects threaten AI leadership]]

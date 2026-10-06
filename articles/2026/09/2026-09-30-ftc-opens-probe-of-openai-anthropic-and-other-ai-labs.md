@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
 url_canonical: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 76a3a22af2c289f25e6b41afb7c38a2436c6f0f7ce4e7b12d47afa61ae27f2d4

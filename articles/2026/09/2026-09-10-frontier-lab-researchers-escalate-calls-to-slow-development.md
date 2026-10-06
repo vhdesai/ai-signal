@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html
 url_canonical: https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 313c0fb9303c581f5b9fa1ba6f2b105481bf1126be35247e3f2477c11acb4b2c

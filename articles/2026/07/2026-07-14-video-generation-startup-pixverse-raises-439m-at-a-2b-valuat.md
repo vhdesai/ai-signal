@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://standarity.com/ai-news/2026-07-14
 url_canonical: https://standarity.com/ai-news/2026-07-14
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 9f79f575d640cda887563bbf9aed18d468a75ec394db5e8f8e62ea5d03d16c67

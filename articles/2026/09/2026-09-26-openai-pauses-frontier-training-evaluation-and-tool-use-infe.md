@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Straits Times]
 url_original: https://www.straitstimes.com/world/openai-sandbox-failure-allows-ai-agent-to-gain-internet-access
 url_canonical: https://www.straitstimes.com/world/openai-sandbox-failure-allows-ai-agent-to-gain-internet-access
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 93ab48742dccf5cc6494222c4609a5c0fc6fe124be84014925a52081e7369a6e

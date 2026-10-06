@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: European Commission
 url_original: https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en
 url_canonical: https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_062203_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: a173112de5330538c4c67f82502aef15c1d9bf95134605a0781e5c4f7575e1c2

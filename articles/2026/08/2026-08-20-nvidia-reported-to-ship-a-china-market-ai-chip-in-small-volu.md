@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+China+chip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+China+chip
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-21_062036_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 6d0e1e4806193d7c8dbdfb27314754c742b219681e64f05581136b7f18a4d6cd

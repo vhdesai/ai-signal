@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Financial Times
 url_original: https://www.ft.com/content/openai-280-billion-cash-burn-2030-forecast
 url_canonical: https://www.ft.com/content/openai-280-billion-cash-burn-2030-forecast
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d3e2713589bc2a4a7e71a46e1b06c596d95629d99f832b2fec8e3374d1823f52

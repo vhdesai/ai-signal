@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 embedding_id: 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The chief executive of Iren, a data center operator supplying Nvidia-based capac
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

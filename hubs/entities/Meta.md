@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 875
+member_count: 877
 ---
 
 # Meta
 
-> Auto-generated entity hub. 875 connected article(s).
+> Auto-generated entity hub. 877 connected article(s).
 
+- `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]

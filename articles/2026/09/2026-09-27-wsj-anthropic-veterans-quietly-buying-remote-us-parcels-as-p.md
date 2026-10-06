@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: WSJ / The Decoder
 url_original: https://the-decoder.com/anthropic-employees-remote-land-ai-contingency-wsj-2026
 url_canonical: https://the-decoder.com/anthropic-employees-remote-land-ai-contingency-wsj-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 605201eb5b06614bc41c0a712ec9b6d4af55c379f2baa194e86898069bb1b78f

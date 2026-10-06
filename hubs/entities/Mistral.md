@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 231
+member_count: 235
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 231 connected article(s).
+> Auto-generated entity hub. 235 connected article(s).
 
+- `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
 - `2026-10-01` [[2026-10-01-researchers-report-failed-agent-probes-of-government-website|Researchers report failed agent probes of government websites]]
 - `2026-10-01` [[2026-10-01-reports-cover-openai-departures-over-information-handling-al|Reports cover OpenAI departures over information-handling allegations]]

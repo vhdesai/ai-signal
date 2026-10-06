@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/
 url_canonical: https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 0d1c8a717783177c671f72ec16e11e78349f70a27dfee601660267737e34537f

@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: Engadget · Google
 url_original: https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/
 url_canonical: https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 7e1b1ce9651ce32f1d6fc1cd02f3a4125052921e555922d9316be4480f392210

@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/
 url_canonical: https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9a1cdb948f13c80f86bf1da087dfdf5b14233c137c1c72264e6aa829d77a1897

@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm
 url_canonical: https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 91f30cf0976f5ecaf825ef335a7cffceb13b63baeaf77b8b52090b979102b9be

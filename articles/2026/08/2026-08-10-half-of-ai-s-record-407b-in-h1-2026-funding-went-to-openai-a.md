@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/half-ais-record-407b-went-213446785.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/half-ais-record-407b-went-213446785.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_062021_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: bba072050c39c17b0a8a9114d1818c35c0b4ffc2d661780a31d5bbd96dd47f5e

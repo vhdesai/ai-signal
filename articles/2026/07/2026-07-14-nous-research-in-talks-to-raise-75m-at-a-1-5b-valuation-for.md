@@ -6,7 +6,7 @@ date: '2026-07-14'
 source: The Eastern Herald
 url_original: https://easternherald.com/2026/07/14/nous-research-hermes-ai-agent-funding-valuation/
 url_canonical: https://easternherald.com/2026/07/14/nous-research-hermes-ai-agent-funding-valuation/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 7860fc606073512834ed44651228b27b438cb8c3e1bb8db9a8d7721dc99ef636

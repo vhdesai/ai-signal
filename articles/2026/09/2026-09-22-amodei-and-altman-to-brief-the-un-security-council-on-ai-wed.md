@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Next Web
 url_original: https://thenextweb.com/news/dario-amodei-sam-altman-un-security-council-ai
 url_canonical: https://thenextweb.com/news/dario-amodei-sam-altman-un-security-council-ai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: c4de1aaa1b2dd12710a79803775af400b5f6fb2c4eae5384053caab3ef742b34

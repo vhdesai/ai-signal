@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Amazon
 url_original: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
 url_canonical: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 7f2fe3d7374f3158d1584425e6a878993f70ea67808dc4e8c9b8d844fcd0f533

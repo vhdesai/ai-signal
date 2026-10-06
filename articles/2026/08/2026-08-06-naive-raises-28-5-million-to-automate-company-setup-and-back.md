@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 url_canonical: https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: c992aeed30ec248bbc7eefcd3ff791d3f886d1116ddce2fd3990a1ee8bb6b443

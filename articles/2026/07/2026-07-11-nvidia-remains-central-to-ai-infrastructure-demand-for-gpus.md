@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-08-11-daily-ai-news-digest-august-12-2026
-- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 embedding_id: 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Nvidia: Remains central to AI infrastructure; demand for GPUs is high. - Google/
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
+**Related:** [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

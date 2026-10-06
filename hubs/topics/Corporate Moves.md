@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4759
+member_count: 4764
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4759 connected article(s).
+> Auto-generated topic hub. 4764 connected article(s).
 
+- `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden|Managing AI agents is becoming a new labor burden]]
+- `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
 - `2026-10-05` [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern|Unauthorized agents create a healthcare governance concern]]
 - `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]

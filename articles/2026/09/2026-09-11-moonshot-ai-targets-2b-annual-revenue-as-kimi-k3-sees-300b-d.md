@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
 url_canonical: https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8e2ded5d0a2edb555c1b2b7b7ff67eebea60c3ba2cee4334a263175faf019aae

@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: ServeTheHome
 url_original: https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/
 url_canonical: https://www.servethehome.com/d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6f5b80f6d513021ad5c18ad2890b1d0adeb5c3a54ceda13994dfe185c40c11d2

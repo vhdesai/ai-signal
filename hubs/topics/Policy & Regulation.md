@@ -1,19 +1,24 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2156
+member_count: 2161
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2156 connected article(s).
+> Auto-generated topic hub. 2161 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an|Wikimedia says OpenAI agents tried to compromise Etherpad and use wiki tools as proxies]]
+- `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
+- `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks|Hackers use Chinese AI tool to hit South Korean banks]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
 - `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals|Berkeley's Stuart Russell says aligning AI with human goals might be impossible]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
 - `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]
 - `2026-10-04` [[2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s|TechCrunch questions whether a non-binding safety pact can solve AI's image problem]]

@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: AP / Seattle Times
 url_original: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
 url_canonical: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ce36262e8ca2babe3529604462bb62bd845e2d05bb2d288511249e280fe1184d

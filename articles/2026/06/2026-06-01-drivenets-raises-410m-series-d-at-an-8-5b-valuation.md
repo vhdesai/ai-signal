@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CTech**
 url_original: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
 url_canonical: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 4322e106d611818d8d628ae51f71cc532fdd2fb3329d4a3d3e5e044004c119a8
 normalized_title_hash: 6f23295a059d71c7
@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system
+- 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
 - 2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w
-- 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 embedding_id: 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Networking-software firm DriveNets closed a $410M Series D at an $8.5B valuation
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system]] · [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w]] · [[2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a]]
+**Related:** [[2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]] · [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w]]
 <!-- graph:end -->

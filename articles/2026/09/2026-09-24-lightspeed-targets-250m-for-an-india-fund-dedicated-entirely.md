@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/
 url_canonical: https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: dd510744936e2dee5f75229e51cb6a62ecb489d87b5cdca588f3df283668ceba

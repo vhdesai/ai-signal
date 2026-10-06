@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: University of Cincinnati
 url_original: https://www.miragenews.com/kids-embrace-ai-fearlessly-unlike-parents-1749794/
 url_canonical: https://www.miragenews.com/kids-embrace-ai-fearlessly-unlike-parents-1749794/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: ac7f9681c01db4dba571048dfa3ae1fce895fba19fc8f1d5fbe73a8a4d32424f

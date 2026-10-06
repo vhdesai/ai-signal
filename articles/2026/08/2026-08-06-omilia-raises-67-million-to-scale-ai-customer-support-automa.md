@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
 url_canonical: https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 66e0b4222694ca1e460c9ff7f0a6859061aad4bab96d2d22b9232a23dbfb80c9

@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: UC Berkeley AI Research announcement
 url_original: https://abc.bot/
 url_canonical: https://abc.bot/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: b38cf2940cb2248155562a74c43c2e9290a88bdd27caed87b0d3d8d983e5e21f

@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: TIME
 url_original: https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/
 url_canonical: https://time.com/article/2026/07/07/china-ai-models-alibaba-bytedance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 4163aeb3b8e854a2dea95c1a7ca3303e114dc6cfd069c568474c92f9e03f3459

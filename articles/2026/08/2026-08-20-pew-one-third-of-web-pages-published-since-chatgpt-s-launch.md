@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: TechCrunch / Pew Research
 url_original: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
 url_canonical: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_065332_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 71961d3aae5eb686740a2be78836f42daef5de3e3b612be83575807e5cdceaef

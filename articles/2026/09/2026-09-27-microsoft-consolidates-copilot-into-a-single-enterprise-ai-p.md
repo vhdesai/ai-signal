@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Chosun / Foreign Policy Journal
 url_original: https://biz.chosun.com/en/2026/09/27/microsoft-consolidates-copilot-enterprise-ai-platform-2026
 url_canonical: https://biz.chosun.com/en/2026/09/27/microsoft-consolidates-copilot-enterprise-ai-platform-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: e58a586e4d6b879244156fbeca531fa8901a238ca048634ed93538c144478c27
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
-- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
+- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft unified its fragmented Copilot SKUs into one enterprise AI platform th
 
 **Entities:** [[Google]] · [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
+**Related:** [[2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
 <!-- graph:end -->

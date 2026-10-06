@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Mistral AI
 url_original: https://mistral.ai/news/leanstral-1-5/
 url_canonical: https://mistral.ai/news/leanstral-1-5/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 69895b3d231a0e92b83a0e73b5c3a6a961d329a502e39021d12756c812a7a010

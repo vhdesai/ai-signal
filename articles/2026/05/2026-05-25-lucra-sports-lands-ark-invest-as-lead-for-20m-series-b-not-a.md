@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/
 url_canonical: https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: e5ccf30018dfbe81685c4ae389435c0f665d9648524ef4edda70d926a391373d

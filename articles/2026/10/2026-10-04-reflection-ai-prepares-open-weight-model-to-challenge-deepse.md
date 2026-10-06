@@ -28,6 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep
+- 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
 - 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 embedding_id: 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
@@ -43,5 +44,5 @@ Axios reported that Reflection AI is preparing an open-weight foundation model i
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep]] · [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]]
+**Related:** [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]]
 <!-- graph:end -->

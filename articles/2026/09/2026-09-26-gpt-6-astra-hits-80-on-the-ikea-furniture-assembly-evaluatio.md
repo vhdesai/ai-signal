@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: The Decoder
 url_original: https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/
 url_canonical: https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e8b29069bc788d2a60417d64c91f6eb1ea98e9e1d279c3c2a28744fa294be2b7

@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: Stanford HAI · Read article →
 url_original: https://hai.stanford.edu/news/why-governing-world-models-is-ais-next-big-policy-challenge
 url_canonical: https://hai.stanford.edu/news/why-governing-world-models-is-ais-next-big-policy-challenge
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: d22be449bca960c1bc491ad2ae6aecc5111e274e89398946c2426073155ec1fa

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Unite.AI**
 url_original: https://www.unite.ai/microsoft-ai-publishes-first-humanist-ai-code-of-conduct-for-mai-models/
 url_canonical: https://www.unite.ai/microsoft-ai-publishes-first-humanist-ai-code-of-conduct-for-mai-models/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_172400_Final-Daily-AI-News-Digest.md
 content_hash: 19224cc69d70b5589e8f50ab041a3b5824a6873ef8cc2ceed7f2811988afc113
 normalized_title_hash: d821f11612ec1451

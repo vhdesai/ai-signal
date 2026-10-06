@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-mulls-10-billion-anthropic-233517609.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-mulls-10-billion-anthropic-233517609.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: cea3397c567bdef0f5a2652791efcfbe45741ce7745f273217e71a96a3bc4a25

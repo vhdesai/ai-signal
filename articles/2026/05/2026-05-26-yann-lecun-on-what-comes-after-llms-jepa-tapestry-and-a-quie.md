@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Lifeboat Foundation Podcast
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: af3784ee2db2d60eb74015d7340b11f58c8699fec3858cb2d94ea08e916d0a38
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model
 - 2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s
 - 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-04-08-source-forbes-msn-the-neuron
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's chief AI scientist lays out the JEPA-plus-Tapestry roadmap as his answer 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]] · [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-04-08-source-forbes-msn-the-neuron]]
 <!-- graph:end -->

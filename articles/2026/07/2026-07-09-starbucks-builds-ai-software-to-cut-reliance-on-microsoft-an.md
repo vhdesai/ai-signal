@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/starbucks-working-ai-tools-replace-105954159.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/starbucks-working-ai-tools-replace-105954159.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 8271c37f5f02035ac9a57c17b4e74c10a90f78f436dfe2c4cb0fd97e3472050f

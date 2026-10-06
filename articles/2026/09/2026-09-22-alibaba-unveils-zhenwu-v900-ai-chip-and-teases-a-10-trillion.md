@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post]
 url_original: https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_090723_Inbox_Fw Daily AI News Digest - September
   22, 2026.md
 content_hash: d631fb3431207e011cdf6337f1dc39eb3c878f534eca789edb90c7125a307564

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Reuters
 url_original: https://www.aol.com/articles/exclusive-anthropic-considers-releasing-ai-000506000.html
 url_canonical: https://www.aol.com/articles/exclusive-anthropic-considers-releasing-ai-000506000.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 482a15904bc096691e5dfb7a565c47a9b0f3ae025aa53545bab4ff8d8c9c267d

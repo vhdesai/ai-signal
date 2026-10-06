@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Yahoo Finance / Bloomberg
 url_original: https://finance.yahoo.com/technology/ai/articles/huawei-lifted-prices-best-ai-074158350.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/huawei-lifted-prices-best-ai-074158350.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 343610931383909b12e39db15eae0fc1de7b77ed3ff407cab53013929b533763
 normalized_title_hash: d33ab0ca73b8eaad

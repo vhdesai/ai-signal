@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai
 url_canonical: https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 24c8672dee460a22b7d8e8ee5a0507f3f05c760e0b7603b5674beb62fa155e7f

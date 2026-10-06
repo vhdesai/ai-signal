@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/locking-pretrained-weights
 url_canonical: https://machinelearning.apple.com/research/locking-pretrained-weights
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: f6c4865cc5b99c1717cabec4678986c6c8973b5f8a7483c961d3dd66a406fa2a

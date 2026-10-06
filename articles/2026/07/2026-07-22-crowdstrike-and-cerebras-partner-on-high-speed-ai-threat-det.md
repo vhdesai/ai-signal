@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/crowdstrike-and-cerebras-partner-to-power-ai-detection-and-response-on-the-world-s-fastest-inference-1036351457
 url_canonical: https://markets.businessinsider.com/news/stocks/crowdstrike-and-cerebras-partner-to-power-ai-detection-and-response-on-the-world-s-fastest-inference-1036351457
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_090927_Final-Daily-AI-News-Digest.md
 content_hash: 81b89b0d5c08e677fdcc5ba16b6c5008e4cc40681dc9fa2b5760b353a0c9ee0c
 normalized_title_hash: 5aff3c0c59e93d78

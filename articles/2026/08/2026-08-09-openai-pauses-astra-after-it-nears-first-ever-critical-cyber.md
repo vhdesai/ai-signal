@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/09/openai-pauses-astra-after-it-nears-first-ever-critical-cyber-risk/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/09/openai-pauses-astra-after-it-nears-first-ever-critical-cyber-risk/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 0269b2271635a41d4683fe50c39efb969aab643442b1b4e2354c369ec518afb9

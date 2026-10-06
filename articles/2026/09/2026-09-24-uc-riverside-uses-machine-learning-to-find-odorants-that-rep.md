@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: University of California, Riverside
 url_original: https://www.miragenews.com/ai-unmasks-pesticide-chemicals-repelling-honey-1749974/
 url_canonical: https://www.miragenews.com/ai-unmasks-pesticide-chemicals-repelling-honey-1749974/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 48e2be6e198df1d112df4035a9bdf61f258078c388efecf1b206d0b2301d39ce

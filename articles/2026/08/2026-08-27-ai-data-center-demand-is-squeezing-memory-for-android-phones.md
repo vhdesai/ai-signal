@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/
 url_canonical: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_061348_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 640785fb1ab8801ced8284c8abca318d24d26341b2f53b11be2e2221193e1b12

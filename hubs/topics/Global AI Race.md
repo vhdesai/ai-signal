@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1561
+member_count: 1566
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1561 connected article(s).
+> Auto-generated topic hub. 1566 connected article(s).
 
+- `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks|Hackers use Chinese AI tool to hit South Korean banks]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
 - `2026-10-05` [[2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu|Huawei and Qualcomm expand cross-licensing into AI and computing]]

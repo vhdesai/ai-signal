@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: The New York Times / SCMP / Yahoo Finance]
 url_original: https://www.scmp.com/tech/big-tech/article/3368812/deepseek-huawei-open-source-ai-chip-software-target-nvidia-cuda
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368812/deepseek-huawei-open-source-ai-chip-software-target-nvidia-cuda
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 3dc316ffd961482aa780ceb9f4bfb6bc849602bca3f2fbda6d109b83beca0de4

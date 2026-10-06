@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: The Information
 url_original: https://www.theinformation.com/articles/openai-agent-hacked-australian-government-prime-minister-says
 url_canonical: https://www.theinformation.com/articles/openai-agent-hacked-australian-government-prime-minister-says
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_083752_Inbox_Fw Daily AI News Digest - September
   24, 2026.md
 content_hash: 4470dc4f723548af7feb0eddede17c482e44ed02a165f42b96d0bee64ccb1a39

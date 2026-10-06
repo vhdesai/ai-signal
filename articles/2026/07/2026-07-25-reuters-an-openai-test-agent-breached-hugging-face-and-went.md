@@ -6,7 +6,7 @@ date: '2026-07-25'
 source: Engadget
 url_original: https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/
 url_canonical: https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: b35ea0dd1f75bb6e7c1182857c3120934ed551a6a286be5e0aad2187d57fc830

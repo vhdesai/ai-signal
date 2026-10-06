@@ -5,7 +5,7 @@ date: '2026-10-04'
 source: Business Insider
 url_original: https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10
 url_canonical: https://www.businessinsider.com/sam-altman-says-ai-benefits-outweigh-some-bad-things-happening-2026-10
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: c1bd6988f852e7489ee8f8d51d4c434d5f9f1f972eea52bd9755af9518898b59

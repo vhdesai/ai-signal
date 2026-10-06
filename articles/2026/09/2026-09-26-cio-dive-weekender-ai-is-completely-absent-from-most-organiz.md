@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/weekender-ai-absent-ethics-codes-lrn-survey-2026-09-26/
 url_canonical: https://www.ciodive.com/news/weekender-ai-absent-ethics-codes-lrn-survey-2026-09-26/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: cd7fb5da0f052705b8e58089eeef020d570cb79ec31c643d4cd0f9ba91095efa
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 - 2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains
-- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 embedding_id: 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive's weekend edition leads with an LRN survey finding AI is completely abs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
+**Related:** [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]]
 <!-- graph:end -->

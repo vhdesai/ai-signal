@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: The Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 2125ad95bbabfef6dcb978f92da107f12e24dc92d71aece81b335b8da34fcc30

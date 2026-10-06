@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: The Next Web
 url_original: https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo
 url_canonical: https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: 10ac1f03c2e01dc34d374c66fe03bc0812bdfba1f975007bd62166a8a04a0ec4
 normalized_title_hash: fa2c07c9c51d394e

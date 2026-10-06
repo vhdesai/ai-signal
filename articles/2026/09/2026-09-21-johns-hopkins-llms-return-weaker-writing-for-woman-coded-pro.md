@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-ai-women-bad.html
 url_canonical: https://techxplore.com/news/2026-09-ai-women-bad.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 2a755b8174e0007db9c479bdc7102535ce711cfd70630d91756f4f3e85069104

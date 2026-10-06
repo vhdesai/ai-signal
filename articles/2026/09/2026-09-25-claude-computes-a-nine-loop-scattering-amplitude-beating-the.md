@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Anthropic
 url_original: https://www.anthropic.com/research/yes-claude-can-do-nine-loops
 url_canonical: https://www.anthropic.com/research/yes-claude-can-do-nine-loops
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060617_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 59c74ce131e667abebc8f968f7024f4cae07fd3ced3c28edd1fe47c4de4f295f

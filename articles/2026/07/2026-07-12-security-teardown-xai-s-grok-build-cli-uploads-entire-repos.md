@@ -6,7 +6,7 @@ date: '2026-07-12'
 source: byteiota**
 url_original: https://byteiota.com/grok-build-cli-uploads-repo-xai-servers/
 url_canonical: https://byteiota.com/grok-build-cli-uploads-repo-xai-servers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-13_065032_Final-Daily-AI-News-Digest.md
 content_hash: 703fb4ea26944e374c279f79ac369f1a5dee149eecd24c5e244639a1c1be290e
 normalized_title_hash: 1db02ed636d5be3f

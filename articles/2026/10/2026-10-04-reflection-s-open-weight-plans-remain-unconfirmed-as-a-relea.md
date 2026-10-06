@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
+- 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 - 2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race
 - 2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep
-- 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
 embedding_id: 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Axios reports Reflection preparing an open-weight system backed by Nvidia. No la
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race]] · [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep]] · [[2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a]]
+**Related:** [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race]] · [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep]]
 <!-- graph:end -->

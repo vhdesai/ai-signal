@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: TechCrunch AI
 url_original: https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
 url_canonical: https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 30114e01ad8e213b60868c8ad394dc7b328e7c6c3bc03d294695190c25790232

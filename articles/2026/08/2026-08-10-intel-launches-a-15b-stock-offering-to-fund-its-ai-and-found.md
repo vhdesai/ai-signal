@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Next Web / Reuters
 url_original: https://thenextweb.com/news/intel-15-billion-stock-offering-14a-external-wafers
 url_canonical: https://thenextweb.com/news/intel-15-billion-stock-offering-14a-external-wafers
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 12c3e99fbc0bdfe7feff66f782dd4733842686b0ff5a0baf2c4c1d272799437f

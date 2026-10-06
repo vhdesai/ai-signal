@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: TrendForce
 url_original: https://www.trendforce.com/news/2026/09/24/news-micron-reportedly-ends-2gb-gddr7-narrowing-supply-options-for-nvidias-rtx-50-series/
 url_canonical: https://www.trendforce.com/news/2026/09/24/news-micron-reportedly-ends-2gb-gddr7-narrowing-supply-options-for-nvidias-rtx-50-series/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060618_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: b17bf6357c6422cf590ba9148bc47e2b4e9fcbe9310884ed31c75d1a1596fd79

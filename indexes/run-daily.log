@@ -1,4 +1,83 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2066.90it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2146.81it/s]
+{
+  "command": "run-daily",
+  "stages": {
+    "ingest": {
+      "digests_total": 1391,
+      "digests_changed": 3,
+      "changed": [
+        "news\\2026-10-06_065734_Final-Daily-AI-News-Digest.md",
+        "news\\Daily AI News Digest - 2026-10-06.md",
+        "news\\daily-ai-news-digest-2026-10-06.md"
+      ]
+    },
+    "split": {
+      "digests_parsed": 1395,
+      "articles_written": 13674,
+      "events_parsed": 111,
+      "event_articles_written": 78,
+      "skipped_publication_sources": 43,
+      "skipped_thin_articles": 4691
+    },
+    "index": {
+      "articles_indexed": 10011,
+      "embeddings": {
+        "enabled": true,
+        "added": 15,
+        "total": 10011,
+        "md_rewritten": 10010
+      }
+    },
+    "dedupe": {
+      "articles": 10011,
+      "exact_duplicates": 6,
+      "canonical": 7366,
+      "semantic_duplicates": 2639,
+      "related_links": 30346
+    },
+    "build-graph": {
+      "status": "ok",
+      "articles_linked": 10011,
+      "wikilinks_emitted": 68513,
+      "entity_hubs": 34,
+      "topic_hubs": 8,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    },
+    "validate-urls": {
+      "checked": 4755,
+      "ok": 3114,
+      "broken": 1641,
+      "missing": 5233,
+      "skipped": 23
+    },
+    "repair-urls": {
+      "attempted": 14,
+      "repaired": 5,
+      "unresolved": 9,
+      "skipped": 0,
+      "reverted": 0,
+      "deferred": 0,
+      "terminated": "completed",
+      "elapsed_s": 299.3,
+      "max_workers": 10
+    },
+    "build-site-daily": {
+      "pages": 289,
+      "articles": 10011,
+      "canonical": 7366,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+      "mode": "incremental",
+      "changed_articles": 4791,
+      "written_files": 234,
+      "elapsed_s": 15.67
+    },
+    "publish": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  },
+  "run_log": "indexes\\runs\\run-20261006T173019+0000-f8bbc6.json"
+}

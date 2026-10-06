@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
 url_canonical: https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 9a6516a7e2fa0cd27899626934a804ed9cbe3fe1ec67d61b2b3b5e620055e104

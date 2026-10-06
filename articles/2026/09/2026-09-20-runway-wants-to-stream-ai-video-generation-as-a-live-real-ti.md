@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: The Decoder
 url_original: https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
 url_canonical: https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: c10c5636e22a29bf6c4e2686bfdadf2cdb958f069aa6209613bd2d62b5e3b7e5

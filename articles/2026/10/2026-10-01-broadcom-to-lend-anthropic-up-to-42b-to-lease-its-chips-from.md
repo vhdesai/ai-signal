@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: Reuters / Barron’s]
 url_original: https://www.reuters.com/technology/artificial-intelligence/broadcom-lend-anthropic-up-to-42-billion-chips-2026-10-01/
 url_canonical: https://www.reuters.com/technology/artificial-intelligence/broadcom-lend-anthropic-up-to-42-billion-chips-2026-10-01/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 96ca14b87b02a28ace2444dc9e12b33f212da7f5ae88fcc12479b74334a03313

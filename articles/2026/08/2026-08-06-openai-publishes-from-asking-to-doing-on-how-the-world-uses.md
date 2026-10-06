@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/
 url_canonical: https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 67932667d9869c7dbe6059ef84bec847afe5ca5f63ea3cb72a3a3973b36e5242

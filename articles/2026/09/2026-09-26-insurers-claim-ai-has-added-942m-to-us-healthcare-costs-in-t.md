@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
 url_canonical: https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 5278903770e3dfd0fe0d344b9042400ebc6b36f04a38eecfa914bc89794dfa1c

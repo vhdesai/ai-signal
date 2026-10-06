@@ -6,7 +6,7 @@ date: '2026-08-04'
 source: International Business Times
 url_original: https://www.ibtimes.sg/amazon-joins-3-trillion-club-ai-aws-posts-fastest-revenue-growth-more-4-years-91477
 url_canonical: https://www.ibtimes.sg/amazon-joins-3-trillion-club-ai-aws-posts-fastest-revenue-growth-more-4-years-91477
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 71c2961bdb61e5fd3079c53285103b758e805de6c5202cac1ef982d2a799c4ee

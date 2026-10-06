@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: October 1, 2026, 12:18 p.m. PDT
 url_original: https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
 url_canonical: https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_060413_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 272e9e0e38d15149c44eed5890cdad6baaefd74b2741489853d0a8a05cfc2f39

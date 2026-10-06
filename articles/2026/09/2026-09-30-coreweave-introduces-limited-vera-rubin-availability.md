@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: 13:00 UTC · Business Wire / CoreWeave; NVIDIA
 url_original: https://www.businesswire.com/news/home/20260930041932/en/CoreWeave-Delivers-NVIDIA-Vera-Rubin-NVL72-Performance-at-Production-Scale-Starting-With-Cognition
 url_canonical: https://www.businesswire.com/news/home/20260930041932/en/CoreWeave-Delivers-NVIDIA-Vera-Rubin-NVL72-Performance-at-Production-Scale-Starting-With-Cognition
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_060348_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 1e5d4c11ae79b37e84480637949e1a4f689c0cf536ae7f73608540c738e3b78d

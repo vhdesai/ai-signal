@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/
 url_canonical: https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: a8db1edea2dfdff1c4b51b616e765b6734664fa26ee4f69a0ee61e296975e0a7
 normalized_title_hash: 8d2d09d2e6b56220

@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: The Financial Express
 url_original: https://www.financialexpress.com/world-news/us-news/stop-ai-race-workers-students-protest-at-openai-anthropic-googles-us-offices-as-layoffs-surge/4289945/
 url_canonical: https://www.financialexpress.com/world-news/us-news/stop-ai-race-workers-students-protest-at-openai-anthropic-googles-us-offices-as-layoffs-surge/4289945/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 10a9b908551560db512d25aea28288dbebdf86b0edde96e27bba53afcde69ed6

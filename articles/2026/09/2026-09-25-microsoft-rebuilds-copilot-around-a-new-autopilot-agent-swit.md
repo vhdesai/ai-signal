@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/
 url_canonical: https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 95c4420c8254021f580f3608835fd44729cf28dd2979a2792f3387724e89e748

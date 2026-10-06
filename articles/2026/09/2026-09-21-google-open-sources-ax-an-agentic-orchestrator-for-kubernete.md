@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: explainx.ai
 url_original: https://explainx.ai/blog/google-ax-agentic-orchestrator-kubernetes-2026
 url_canonical: https://explainx.ai/blog/google-ax-agentic-orchestrator-kubernetes-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 85170ffe8bb4d5343a5da808e07502c4c6c85457e30df4d5f879f3d440556bf7

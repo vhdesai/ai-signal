@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Business Insider / The Information**
 url_original: https://finance.yahoo.com/technology/ai/articles/oracle-begins-layoff-round-ai-140036838.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/oracle-begins-layoff-round-ai-140036838.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 5d4807303e3eecbb47b6ffa20a7d9aceadb26d21672cd3bf34e6eebad34afae7
 normalized_title_hash: e2dd3eadcd4b52f0

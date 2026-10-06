@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/
 url_canonical: https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_062410_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 16967050518732e665803b5a98e2cfc6d19900060e702a9dc602f56854e30938

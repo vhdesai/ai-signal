@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: The Decoder
 url_original: https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/
 url_canonical: https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 28d46b3dda8a06bb1f2adb978fc9d1ba17b59018d403bc9802c9a1ba6f4783b1

@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/
 url_canonical: https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 1ef961d93471b90611eb67e71b3861cca90c5791c330674ef42b319d208d4e07

@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: International Business Times
 url_original: https://www.ibtimes.sg/tsmc-earnings-beat-expectations-how-ai-boom-powered-record-profit-89907
 url_canonical: https://www.ibtimes.sg/tsmc-earnings-beat-expectations-how-ai-boom-powered-record-profit-89907
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: f102353a2f9201203d2364b89bef2054c3a892a0a2e6d67c0456a7d32a65345c
 normalized_title_hash: f051928651be17a4

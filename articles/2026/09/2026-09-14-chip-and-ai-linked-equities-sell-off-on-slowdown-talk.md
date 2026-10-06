@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/global-chip-stocks-dive-on-talk-of-ai-slowdown-OMTEKaX4c8hfzar8CAXZ
 url_canonical: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/global-chip-stocks-dive-on-talk-of-ai-slowdown-OMTEKaX4c8hfzar8CAXZ
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 15fb9b08b8a69166b2d5cbe4d40fa5183140e1e68f65abcf083ff0aaabed2e4d

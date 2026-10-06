@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: The Decoder
 url_original: https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/
 url_canonical: https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: aa05a77fa01f30564a2a8fc9fa654e93dcfb93a0e455263d29eb68aa05248007

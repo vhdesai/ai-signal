@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
+- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
-- 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 embedding_id: 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reports emerged of Amazon employees under management pressure to increase their 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-08-03-this-study-is-important-because-it-examines-real-world-usage]]
+**Related:** [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]]
 <!-- graph:end -->
