@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s
+- 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 - 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 - 2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model
-- 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 embedding_id: 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT’s Robert Langer, the Moderna co-founder, and Yann LeCun — formerly Meta�
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]] · [[2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli]]
+**Related:** [[2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]]
 <!-- graph:end -->

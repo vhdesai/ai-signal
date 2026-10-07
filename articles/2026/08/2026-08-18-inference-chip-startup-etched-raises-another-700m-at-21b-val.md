@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
 - 2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un
+- 2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v
 - 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
-- 2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused
 embedding_id: 2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Etched announced a $700 million round only weeks after closing a $300 million Nv
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]]
+**Related:** [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]]
 <!-- graph:end -->

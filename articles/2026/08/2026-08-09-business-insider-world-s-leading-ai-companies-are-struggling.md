@@ -45,8 +45,8 @@ related_article_ids:
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-08-08-daily-ai-news-digest-august-8-2026
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
-- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 embedding_id: 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Business Insider reports that leading AI companies are struggling to contain the
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
+**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]]
 <!-- graph:end -->

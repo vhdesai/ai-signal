@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor
+- 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 - 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ KwaiKAT (Kuaishou) released KAT-Coder-V2.5, an agentic coding model trained insi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor]] · [[2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents]]
 <!-- graph:end -->

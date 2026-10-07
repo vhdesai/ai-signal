@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
-- 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
+- 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 embedding_id: 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moonshot AI open-sourced MoonEP, an expert-parallelism communication library for
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops]]
+**Related:** [[2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model]] · [[2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]]
 <!-- graph:end -->

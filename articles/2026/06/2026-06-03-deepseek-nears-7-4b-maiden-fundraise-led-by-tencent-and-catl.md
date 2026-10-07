@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
+- 2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek is close to finalizing ~50 billion yuan (~$7.4B) in one of China's larg
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
+**Related:** [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]] · [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
 <!-- graph:end -->

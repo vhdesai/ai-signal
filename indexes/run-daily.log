@@ -1,83 +1,89 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2146.81it/s]
+Loading weights:  53%|█████▎    | 106/199 [00:00<00:00, 1054.92it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1521.28it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1391,
-      "digests_changed": 3,
+      "digests_total": 1399,
+      "digests_changed": 8,
       "changed": [
-        "news\\2026-10-06_065734_Final-Daily-AI-News-Digest.md",
-        "news\\Daily AI News Digest - 2026-10-06.md",
-        "news\\daily-ai-news-digest-2026-10-06.md"
+        "news\\2026-10-06_000000_Publication-Sources.md",
+        "news\\2026-10-06_060331_Inbox_Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_060540_Inbox_Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_061014_Inbox_Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_062127_Inbox_Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_064746_Inbox_ClawPilot - Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_065933_Inbox_Daily AI News Digest - October 6, 2026.md",
+        "news\\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October 6, 2026.md"
       ]
     },
     "split": {
-      "digests_parsed": 1395,
-      "articles_written": 13674,
+      "digests_parsed": 1403,
+      "articles_written": 13752,
       "events_parsed": 111,
       "event_articles_written": 78,
-      "skipped_publication_sources": 43,
-      "skipped_thin_articles": 4691
+      "skipped_publication_sources": 44,
+      "skipped_thin_articles": 4724
     },
     "index": {
-      "articles_indexed": 10011,
+      "articles_indexed": 10056,
       "embeddings": {
         "enabled": true,
-        "added": 15,
-        "total": 10011,
-        "md_rewritten": 10010
+        "added": 45,
+        "total": 10056,
+        "md_rewritten": 10055
       }
     },
     "dedupe": {
-      "articles": 10011,
+      "articles": 10056,
       "exact_duplicates": 6,
-      "canonical": 7366,
-      "semantic_duplicates": 2639,
-      "related_links": 30346
+      "canonical": 7397,
+      "semantic_duplicates": 2653,
+      "related_links": 30484
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 10011,
-      "wikilinks_emitted": 68513,
+      "articles_linked": 10056,
+      "wikilinks_emitted": 68818,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4755,
-      "ok": 3114,
-      "broken": 1641,
-      "missing": 5233,
+      "checked": 4764,
+      "ok": 3076,
+      "broken": 1688,
+      "missing": 5269,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 14,
-      "repaired": 5,
-      "unresolved": 9,
+      "attempted": 27,
+      "repaired": 19,
+      "unresolved": 8,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 299.3,
+      "elapsed_s": 262.4,
       "max_workers": 10
     },
     "build-site-daily": {
       "pages": 289,
-      "articles": 10011,
-      "canonical": 7366,
+      "articles": 10056,
+      "canonical": 7397,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 4791,
-      "written_files": 234,
-      "elapsed_s": 15.67
+      "changed_articles": 118,
+      "written_files": 87,
+      "elapsed_s": 14.01
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261006T173019+0000-f8bbc6.json"
+  "run_log": "indexes\\runs\\run-20261006T220752+0000-7fb178.json"
 }

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c
 - 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 embedding_id: 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
 event_name: ''
 ---
@@ -36,5 +36,5 @@ VB Pulse data indicates that 85% of organizations that experienced an AI evaluat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe]] · [[2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o]]
 <!-- graph:end -->

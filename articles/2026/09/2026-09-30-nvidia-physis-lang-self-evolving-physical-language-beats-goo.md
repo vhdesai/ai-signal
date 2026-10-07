@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-09-04-daily-ai-news-digest-september-5-2026
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo
 event_name: ''
 ---
@@ -51,5 +51,5 @@ NVIDIA Research introduced Physis-Lang, a self-evolving symbolic language for ph
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-09-04-daily-ai-news-digest-september-5-2026]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
 <!-- graph:end -->

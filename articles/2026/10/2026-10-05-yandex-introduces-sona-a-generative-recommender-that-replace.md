@@ -19,10 +19,9 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex
+dedupe_status: duplicate
+canonical_article_id: 2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu
+related_article_ids: []
 embedding_id: 2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Yandex introduced Sona, a generative recommender that replaces candidate generat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex]]
+**Canonical:** [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu]]
 <!-- graph:end -->

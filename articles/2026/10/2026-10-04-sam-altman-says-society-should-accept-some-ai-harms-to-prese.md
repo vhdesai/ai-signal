@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 - 2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
-- 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 embedding_id: 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sam Altman told POLITICO's Decoded that OpenAI differs from Anthropic in believi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]] · [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]]
+**Related:** [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon]]
 <!-- graph:end -->

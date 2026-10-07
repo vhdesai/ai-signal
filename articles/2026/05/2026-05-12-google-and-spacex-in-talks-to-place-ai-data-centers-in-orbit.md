@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
 - 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
-- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
+- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 embedding_id: 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 event_name: ''
 ---
@@ -42,5 +42,5 @@ TechCrunch reported Google and SpaceX are exploring orbital data centers for AI 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]]
+**Related:** [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers]] · [[2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co]]
 <!-- graph:end -->

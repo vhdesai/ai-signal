@@ -1,20 +1,24 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2342
+member_count: 2346
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2342 connected article(s).
+> Auto-generated entity hub. 2346 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
-- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
+- `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
+- `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y|Anthropic, OpenAI, Google, and Meta testify under oath at New York City AI risk hearing]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
 - `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
 - `2026-10-04` [[2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec|Sam Altman says society may need to accept some AI harms; TechCrunch questions voluntary safety pact]]

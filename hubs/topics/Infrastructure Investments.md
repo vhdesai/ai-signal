@@ -1,16 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1777
+member_count: 1780
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1777 connected article(s).
+> Auto-generated topic hub. 1780 connected article(s).
 
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]
 - `2026-10-05` [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked|Google tests orbital AI data centers as Amazon warns blocked US projects threaten AI leadership]]
+- `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co|Google puts AI chips in space to test orbital data-center concepts]]
 - `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
 - `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
 - `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]

@@ -11,7 +11,7 @@ member_count: 28
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
-- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost controls]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost governance]]
 - `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-09-19` [[2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c|Three Frontier Labs Are Building a FINRA-Style Safety Body — Cohere Calls It a Cartel]]
 - `2026-09-19` [[2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge|Frontier labs' FINRA-style safety body draws a "cartel" charge from Cohere]]

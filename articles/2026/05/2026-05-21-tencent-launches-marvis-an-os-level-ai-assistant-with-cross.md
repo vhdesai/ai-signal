@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
-- 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 embedding_id: 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AIbase reports that Tencent launched Marvis, an AI assistant operating at the OS
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]] · [[2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use]]
+**Related:** [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill]]
 <!-- graph:end -->

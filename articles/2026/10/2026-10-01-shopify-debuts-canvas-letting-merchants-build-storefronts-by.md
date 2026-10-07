@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
+- 2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check
 - 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
@@ -38,5 +39,5 @@ Shopify's new Canvas site builder lets merchants describe the storefront they wa
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]]
+**Related:** [[2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a]] · [[2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check]] · [[2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am]]
 <!-- graph:end -->

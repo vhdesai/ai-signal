@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
-- 2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent
+- 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 embedding_id: 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cohere consolidated four prior Command A variants into a single 218B Sparse Mixt
 
 **Entities:** [[Cohere]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent]]
+**Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]]
 <!-- graph:end -->

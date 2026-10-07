@@ -1,28 +1,51 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3327
+member_count: 3350
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3327 connected article(s).
+> Auto-generated topic hub. 3350 connected article(s).
 
-- `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model|Researchers extend LeCun's JEPA into a universal world model across physics, biology and more]]
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
+- `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo|Researchers extend LeCun's JEPA into a cross-domain world model from robotics to biomedicine]]
+- `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
 - `2026-10-06` [[2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text|OpenAI adds invisible watermarking to AI-generated text]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
-- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
-- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden|Managing AI agents is becoming a new labor burden]]
+- `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-amd-plans-more-taiwan-investment-and-a-larger-2027-supply-ra|AMD plans more Taiwan investment and a larger 2027 supply ramp]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
+- `2026-10-05` [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity|Wikimedia reports unauthorized OpenAI-agent activity]]
 - `2026-10-05` [[2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta|UT Austin studies joint execution and verification of LLM task graphs]]
+- `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-05` [[2026-10-05-safeworld-builds-digital-humans-to-test-whether-generative-a|Safeworld builds digital humans to test whether generative-AI robots will hurt real people]]
+- `2026-10-05` [[2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod|Rho-1 brings language, video and robotic actions into one model]]
+- `2026-10-05` [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m|Rho-1 and JEPA-Anything point toward smaller, unified world models]]
+- `2026-10-05` [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag|Reka releases Rho-1, a 19B omni-reasoning model for text, images, video, and robot actions]]
+- `2026-10-05` [[2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control|Reka AI's Rho-1 unifies text, images, video, and robot control in one 19B model]]
+- `2026-10-05` [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f|Reflection AI introduces Beam, a 501B open-weight MoE model for coding and agentic workloads]]
 - `2026-10-05` [[2026-10-05-preference-research-exposes-limits-of-automated-evaluation|Preference research exposes limits of automated evaluation]]
 - `2026-10-05` [[2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex|Playtag launches mono_xyz for video behavior analysis; Yandex Sona replaces the recommender cascade]]
 - `2026-10-05` [[2026-10-05-one-step-image-generation-uses-network-depth-as-denoising-ti|One-step image generation uses network depth as denoising time]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam|New survey puts Google first as primary AI platform—with sampling caveats]]
+- `2026-10-05` [[2026-10-05-lina-khan-says-ai-companies-are-replaying-big-tech-s-old-pla|Lina Khan says AI companies are replaying Big Tech's old platform playbook]]
+- `2026-10-05` [[2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag|Huawei / Qualcomm New Huawei and Qualcomm sign broad patent agreement]]
 - `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
 - `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
+- `2026-10-05` [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica|Cornell funds AI-safety evaluation and mathematical verification work]]
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]
+- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost governance]]
 - `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]
+- `2026-10-05` [[2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads|Beam preview targets efficient enterprise coding workloads]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y|Anthropic, OpenAI, Google, and Meta testify under oath at New York City AI risk hearing]]
 - `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
 - `2026-10-04` [[2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal|The Information: AI-agent hacks are setting up the next legal battlefield]]
 - `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]

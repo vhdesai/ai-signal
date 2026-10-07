@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
+- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 embedding_id: 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
 event_name: ''
 ---
@@ -42,5 +42,5 @@ xAI’s updated image model claimed the number two spot on both the Arena text-t
 
 **Entities:** [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi]] · [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Related:** [[2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi]] · [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]]
 <!-- graph:end -->

@@ -1,18 +1,21 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1634
+member_count: 1637
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1634 connected article(s).
+> Auto-generated entity hub. 1637 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
-- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
 - `2026-10-05` [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p|Morgan Stanley says Nvidia and Broadcom are shielded as AI power crunch hits chip supply chain]]
 - `2026-10-04` [[2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea|Reflection’s open-weight plans remain unconfirmed as a release]]

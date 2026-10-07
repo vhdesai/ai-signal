@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag
+- 2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across
 - 2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei
 - 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
-- 2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The companies announced cross-licenses spanning AI, computing, networking, and 5
 
 **Entities:** [[Huawei]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei]] · [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us]] · [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]] · [[2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag]] · [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across]] · [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei]] · [[2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us]] · [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]]
 <!-- graph:end -->

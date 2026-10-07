@@ -6,12 +6,12 @@ source: WSJ / Technology.org
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-06_065734_Final-Daily-AI-News-Digest.md
-content_hash: f4bc4aa04f177803776a5aaf18c10eead74757cc4d8da3acdac44910ed069ef6
+digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
+  6, 2026.md
+content_hash: 3b5d5e3e19e1d8f7d926c7b715fd2d313351d7811e57ea9319582ff88de2aa16
 normalized_title_hash: 22562d0e9e899458
 canonical_url_hash: ''
 tags:
-- Security
 - Trending
 entities: []
 themes:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Hackers use Chinese AI tool to hit South Korean banks
 
-WSJ reports hackers used a Chinese AI tool to target South Korean banks, opening a new cyber-risk category around model-enabled intrusion workflows. South Korea's president also said AI tools likely aided recent bank data breaches. The incident reinforces why controlled-access cyber-defense models like Gemini 4 Argon are being gated and why regulators increasingly view AI agent security as financial-infrastructure risk.
+WSJ reports hackers used a Chinese AI tool to target South Korean banks, opening a new cyber-risk category around model-enabled intrusion workflows. South Korea’s president also said AI tools likely aided recent bank data breaches. The incident reinforces why controlled-access cyber-defense models like Gemini 4 Argon are being gated and why regulators increasingly view AI agent security as financial-infrastructure risk.
 
 <!-- graph:start -->
 ## Connections

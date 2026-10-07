@@ -6,13 +6,12 @@ source: Bloomberg / Barron's / TradingView
 url_original: null
 url_canonical: https://www.bloomberg.com/news/newsletters/2026-10-06/openai-and-anthropic-face-rising-price-pressure-from-big-ai-users
 url_status: repaired
-digest_source: digests\raw\2026-10-06_065734_Final-Daily-AI-News-Digest.md
-content_hash: afccb90d58afd3c0c536d0f166cf950a6ddbf164869997667bc15f87e03345c8
+digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
+  6, 2026.md
+content_hash: bd3cc34aeea5d4d44c7d59c0b878efb5e5c0cb4f3dc0c32b76fe64190f054d7e
 normalized_title_hash: 107c5da642d7183b
 canonical_url_hash: ''
-tags:
-- Hot
-- Markets
+tags: []
 entities:
 - Anthropic
 - Cohere
@@ -35,7 +34,7 @@ event_name: ''
 
 # Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure
 
-Nvidia is back at record levels and heading toward a $6T valuation scenario as analysts raise targets on booming AI demand. Morgan Stanley says Nvidia and Broadcom are relatively shielded from the data-center power crunch, strengthening the AI-infrastructure bull case. At the same time, Bloomberg reports OpenAI and Anthropic are facing rising price pressure from large AI customers, sharpening the buyer playbook: benchmark frontier APIs, but keep leverage through Qwen, Mistral, Reflection, Cohere and local deployments.
+Nvidia is back at record levels and heading toward a $6T valuation scenario as analysts raise targets on booming AI demand. Morgan Stanley says Nvidia and Broadcom are relatively shielded from the data-center power crunch, strengthening the AI-infrastructure bull case. At the same time, Bloomberg reports OpenAI and Anthropic are facing rising price pressure from large AI customers, sharpening the buyer playbook: benchmark frontier APIs, but keep leverage through Qwen, Mistral, Reflection, Cohere and local deployments. Research Breakthroughs NEW RESEARCH
 
 <!-- graph:start -->
 ## Connections

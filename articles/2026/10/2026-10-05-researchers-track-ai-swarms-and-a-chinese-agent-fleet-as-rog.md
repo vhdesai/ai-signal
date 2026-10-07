@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
 embedding_id: 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
 event_name: ''
 ---
@@ -44,5 +44,5 @@ WSJ Pro Cybersecurity reports that "swarm chasers" have found about 19,000 messa
 
 **Entities:** [[Alibaba]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]]
+**Related:** [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu]]
 <!-- graph:end -->

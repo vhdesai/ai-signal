@@ -1,43 +1,37 @@
 ---
 article_id: 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-title: OpenAI introduces visual ChatGPT ads and expanded measurement tools
+title: OpenAI introduces visual ChatGPT ads and expanded measurement tooling
 date: '2026-10-05'
-source: OpenAI / The Verge
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-10-05_081312_Inbox_Daily AI News Digest – October
-  5, 2026.md
-content_hash: 9963f1017ec36b4b7c79339ed6904eb1772c33826daeef85e929b14aaefab70a
-normalized_title_hash: 2dc42cadde3ad204
-canonical_url_hash: ''
-tags:
-- Breaking
+source: OpenAI
+url_original: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
+url_canonical: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
+url_status: broken
+digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
+  6, 2026.md
+content_hash: ed1c98c9be895be9c6c2d953f8582ec3a4badf240e7ad84f41a95bb611ce99d9
+normalized_title_hash: ac7e83627d7d6025
+canonical_url_hash: cb9690275b928c90
+tags: []
 entities:
 - OpenAI
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
-- 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
-- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
-- 2026-08-12-openai-begins-testing-ads-in-chatgpt
-- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
+dedupe_status: duplicate
+canonical_article_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
+related_article_ids: []
 embedding_id: 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 event_name: ''
 ---
 
-# OpenAI introduces visual ChatGPT ads and expanded measurement tools
+# OpenAI introduces visual ChatGPT ads and expanded measurement tooling
 
-OpenAI introduced a visual ad format for ChatGPT, initially testing image-based placements in US image-generation workflows with clear ad labels and separation from generated content. The company also expanded measurement through pixel, Conversions API, attribution, incrementality, brand measurement and third-party partners, while citing 1.2 billion weekly ChatGPT users. The strategic significance is straightforward: OpenAI is accelerating consumer monetization beyond subscriptions while trying to preserve user trust in conversational contexts.
+OpenAI introduced a visual ad format for ChatGPT and expanded its ads measurement stack with conversion APIs, attribution partners, incrementality tools, brand measurement, and early brand-suitability pilots. The initial test will place clearly labeled ads in image-generation workflows in the U.S. with selected advertisers. This marks another step in monetizing consumer AI at scale, with OpenAI balancing ad revenue against the trust expectations of conversational interfaces. HEALTH AIBREAST CANCER
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]] · [[2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]]
+**Canonical:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]]
 <!-- graph:end -->

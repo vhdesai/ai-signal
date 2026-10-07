@@ -1,22 +1,33 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2100
+member_count: 2111
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2100 connected article(s).
+> Auto-generated topic hub. 2111 connected article(s).
 
+- `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
+- `2026-10-06` [[2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition|China says "model fatigue" is becoming the next AI competition challenge]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
+- `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu|Yandex introduces Sona, a generative recommender replacing multi-stage recommendation stacks]]
+- `2026-10-05` [[2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri|VentureBeat warns vibe-coded apps are a business security risk]]
+- `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
+- `2026-10-05` [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f|Reflection AI introduces Beam, a 501B open-weight MoE model for coding and agentic workloads]]
 - `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
 - `2026-10-05` [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p|Morgan Stanley says Nvidia and Broadcom are shielded as AI power crunch hits chip supply chain]]
+- `2026-10-05` [[2026-10-05-lina-khan-says-ai-companies-are-replaying-big-tech-s-old-pla|Lina Khan says AI companies are replaying Big Tech's old platform playbook]]
+- `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]
+- `2026-10-05` [[2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag|Huawei / Qualcomm New Huawei and Qualcomm sign broad patent agreement]]
 - `2026-10-05` [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked|Google tests orbital AI data centers as Amazon warns blocked US projects threaten AI leadership]]
+- `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co|Google puts AI chips in space to test orbital data-center concepts]]
 - `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
-- `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and|Cohere launches North 2 with agent memory, orchestration, and cost controls]]
+- `2026-10-05` [[2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v|Etched receives funding offers at a reported $40–50 billion valuation]]
 - `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
 - `2026-10-04` [[2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri|VentureBeat warns vibe-coded apps are a business security risk]]
 - `2026-10-04` [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]

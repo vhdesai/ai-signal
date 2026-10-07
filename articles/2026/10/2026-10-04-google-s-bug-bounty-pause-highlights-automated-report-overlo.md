@@ -30,8 +30,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
+- 2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in
 - 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
-- 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 embedding_id: 2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Google paused open-source bug-bounty submissions amid mostly invalid automated r
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]]
+**Related:** [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise]] · [[2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]]
 <!-- graph:end -->

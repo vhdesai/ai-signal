@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month
+- 2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v
 - 2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused
 - 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
 - 2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val
-- 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
 embedding_id: 2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Etched raised $700M at a $21 billion valuation—roughly double its mark from on
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]]
+**Related:** [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v]] · [[2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val]]
 <!-- graph:end -->

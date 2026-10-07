@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 992
+member_count: 996
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 992 connected article(s).
+> Auto-generated entity hub. 996 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-05` [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac|Microsoft trims internal Claude spending; Meta also pulls back]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
+- `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]
 - `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
 - `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
 - `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]

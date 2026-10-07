@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 embedding_id: 2026-10-02-wikimedia-presses-ai-companies-to-pay-for-data-access
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wikimedia's CEO says some AI companies use Wikipedia data without paying. The di
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
 <!-- graph:end -->

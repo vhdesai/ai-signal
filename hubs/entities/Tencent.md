@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 222
+member_count: 225
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 222 connected article(s).
+> Auto-generated entity hub. 225 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
+- `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
 - `2026-10-04` [[2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity|Anthropic's IPO could generate a multibillion-dollar charity bill for shareholders]]
 - `2026-10-02` [[2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg|US arrests man for smuggling Nvidia chips to China — Bloomberg flags Nvidia's export-control "blind spots"]]

@@ -34,6 +34,7 @@ related_article_ids:
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 event_name: ''
 ---
@@ -47,5 +48,5 @@ Amazon is promising to cut AI token costs by 30% with a new cloud-migration agen
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
+**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
 <!-- graph:end -->

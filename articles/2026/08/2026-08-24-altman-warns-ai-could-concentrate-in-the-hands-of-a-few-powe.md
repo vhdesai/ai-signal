@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
+- 2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 - 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
-- 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 embedding_id: 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CEO Sam Altman warned that AI could end up concentrated among a small num
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an]]
+**Related:** [[2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a]] · [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]]
 <!-- graph:end -->

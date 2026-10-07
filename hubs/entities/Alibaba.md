@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 431
+member_count: 433
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 431 connected article(s).
+> Auto-generated entity hub. 433 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
 - `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
 - `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]

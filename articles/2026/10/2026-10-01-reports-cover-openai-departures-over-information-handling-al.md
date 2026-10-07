@@ -36,9 +36,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
+- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
 - 2026-09-27-daily-ai-news-digest-september-27-2026
-- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 embedding_id: 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 event_name: ''
 ---
@@ -52,5 +52,5 @@ OpenAI confirmed three departures linked to alleged sensitive-information policy
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]]
+**Related:** [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]]
 <!-- graph:end -->

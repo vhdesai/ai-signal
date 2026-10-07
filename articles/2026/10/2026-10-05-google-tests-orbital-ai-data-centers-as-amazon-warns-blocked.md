@@ -22,7 +22,7 @@ themes:
 - infrastructure-investments
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
+canonical_article_id: 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 related_article_ids: []
 embedding_id: 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 event_name: ''
@@ -37,5 +37,5 @@ Tech Wire Asia reports Google is sending AI chips into space under Project Sunca
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Canonical:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]]
+**Canonical:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co]]
 <!-- graph:end -->

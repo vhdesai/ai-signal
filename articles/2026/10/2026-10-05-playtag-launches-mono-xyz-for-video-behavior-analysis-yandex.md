@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu
 - 2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace
 - 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
@@ -37,5 +38,5 @@ Playtag launched mono_xyz, a foundation model designed to analyze behavior in vi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]]
+**Related:** [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu]] · [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace]] · [[2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]] · [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]]
 <!-- graph:end -->

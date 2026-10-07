@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin
 - 2026-09-18-ant-international-embeds-ai-agents-across-all-its-global-fin
 - 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
-- 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
+- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 embedding_id: 2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ant Group merged its Digital Payment, Alipay, and Zhima Credit business groups i
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin]] · [[2026-09-18-ant-international-embeds-ai-agents-across-all-its-global-fin]] · [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending]]
+**Related:** [[2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin]] · [[2026-09-18-ant-international-embeds-ai-agents-across-all-its-global-fin]] · [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]]
 <!-- graph:end -->

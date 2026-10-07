@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
+- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 - 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
-- 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 embedding_id: 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported today that Google and SpaceX are in early talks to co-develo
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]] · [[2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co]] · [[2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a]]
 <!-- graph:end -->

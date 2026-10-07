@@ -4,10 +4,11 @@ title: OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital
 date: '2026-10-06'
 source: Bloomberg / CNBC / Yahoo Finance / Euronews
 url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-10-06_065734_Final-Daily-AI-News-Digest.md
-content_hash: 8b48cdee23f75d9f65e9a7baf708d0037c3dfc57f91b8157a506bfc3000fa625
+url_canonical: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value
+url_status: repaired
+digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
+  6, 2026.md
+content_hash: 3556d7fad5481d676109cad68eb7cf03e0feb2e9aabbe7487f4c77f5795938d8
 normalized_title_hash: 69b9c523a1593391
 canonical_url_hash: ''
 tags:
@@ -33,7 +34,7 @@ event_name: ''
 
 # OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital
 
-Bloomberg reports OpenAI is seeking $30B as the rush to raise AI capital quickens, while Yahoo Finance says US and Chinese leaders including DeepSeek, Moonshot and OpenAI are raising billions in fresh capital. DeepSeek is reportedly considering doubling its latest round to as much as $15B and targeting a 2027 IPO, while Moonshot AI is eyeing a Hong Kong IPO at a reported $50B valuation. The financing race is now global, and capital formation is becoming as important as model benchmarks.
+Bloomberg reports OpenAI is seeking $30B as the rush to raise AI capital quickens, while Yahoo Finance says US and Chinese leaders including DeepSeek, Moonshot and OpenAI are raising billions in fresh capital. DeepSeek is reportedly considering doubling its latest round to as much as $15B and targeting a 2027 IPO, while Moonshot AI is eyeing a Hong Kong IPO at a reported $50B valuation. The financing race is now global, and capital formation is becoming as important as model benchmarks. HOT MARKETS
 
 <!-- graph:start -->
 ## Connections

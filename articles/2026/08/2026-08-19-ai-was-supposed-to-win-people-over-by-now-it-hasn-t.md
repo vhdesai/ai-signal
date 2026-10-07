@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
 - 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 - 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
+- 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
-- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 embedding_id: 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Pew finds 52% of Americans are "more concerned than excited" about AI, up from 3
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]]
+**Related:** [[2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no]] · [[2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]]
 <!-- graph:end -->

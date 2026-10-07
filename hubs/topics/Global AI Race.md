@@ -1,21 +1,34 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1566
+member_count: 1579
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1566 connected article(s).
+> Auto-generated topic hub. 1579 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode|South Korea commits $3.49B to build a homegrown frontier model]]
+- `2026-10-06` [[2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w|SCMP: asking whether China would slow AI development is the wrong question]]
+- `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
-- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-hong-kong-s-hermitage-capital-keeps-1-5b-frontier-tech-war-c|Hong Kong's Hermitage Capital keeps $1.5B frontier-tech war chest pointed at AI, semis, robotics]]
 - `2026-10-06` [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks|Hackers use Chinese AI tool to hit South Korean banks]]
+- `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
+- `2026-10-06` [[2026-10-06-deepseek-approaches-another-major-funding-round-ahead-of-pos|DeepSeek approaches another major funding round ahead of possible IPO]]
 - `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
+- `2026-10-06` [[2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition|China says "model fatigue" is becoming the next AI competition challenge]]
+- `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]
+- `2026-10-05` [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f|Reflection AI introduces Beam, a 501B open-weight MoE model for coding and agentic workloads]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
+- `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]
 - `2026-10-05` [[2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu|Huawei and Qualcomm expand cross-licensing into AI and computing]]
+- `2026-10-05` [[2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag|Huawei / Qualcomm New Huawei and Qualcomm sign broad patent agreement]]
 - `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
 - `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
 - `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]

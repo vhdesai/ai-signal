@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 - 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 embedding_id: 2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 event_name: ''
 ---
@@ -37,5 +37,5 @@ VentureBeat argued that vibe-coded applications can become ticking time bombs fo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]]
+**Related:** [[2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri]] · [[2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding]] · [[2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]]
 <!-- graph:end -->

@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-- 2026-08-12-openai-begins-testing-ads-in-chatgpt
-- 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
-- 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
+dedupe_status: duplicate
+canonical_article_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
+related_article_ids: []
 embedding_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 event_name: ''
 ---
@@ -39,5 +34,5 @@ OpenAI plans U.S. visual-ad tests during image generation later this month. Attr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]] · [[2026-08-12-openai-begins-testing-ads-in-chatgpt]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]]
+**Canonical:** [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme]]
 <!-- graph:end -->

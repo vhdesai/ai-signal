@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
+- 2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-- 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 embedding_id: 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
 event_name: ''
 ---
@@ -36,5 +36,5 @@ VentureBeat reported that VibeOps is tackling the governance challenge of enterp
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
+**Related:** [[2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri]] · [[2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto]]
 <!-- graph:end -->

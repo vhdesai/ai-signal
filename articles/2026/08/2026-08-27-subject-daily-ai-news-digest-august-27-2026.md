@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-26-daily-ai-news-digest-august-27-2026
 - 2026-08-15-daily-ai-news-digest-august-16-2026
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Executive Takeaways Nvidia beat on Q2 but the real signal is FY2028 guidance. Re
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-26-daily-ai-news-digest-august-27-2026]] · [[2026-08-15-daily-ai-news-digest-august-16-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
 <!-- graph:end -->

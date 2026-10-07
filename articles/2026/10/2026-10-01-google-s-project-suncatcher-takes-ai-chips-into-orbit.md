@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
 - 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
 - 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
@@ -37,5 +38,5 @@ Google launched AI chips aboard a satellite to test orbital computing. The exper
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]] · [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked]]
+**Related:** [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co]] · [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers]] · [[2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s]] · [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked]]
 <!-- graph:end -->

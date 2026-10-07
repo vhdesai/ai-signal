@@ -32,6 +32,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 embedding_id: 2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s
@@ -47,5 +48,5 @@ Researchers from ByteDance, Tsinghua University, and the Shanghai AI Laboratory 
 
 **Entities:** [[Anthropic]] · [[ByteDance]] · [[Cohere]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
 <!-- graph:end -->

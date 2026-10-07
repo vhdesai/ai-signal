@@ -30,7 +30,6 @@ related_article_ids:
 - 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 embedding_id: 2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei
 event_name: ''
 ---
@@ -44,5 +43,5 @@ Barron's and CNBC report Nvidia shares are chasing records, with options traders
 
 **Entities:** [[Cerebras]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
+**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
 <!-- graph:end -->

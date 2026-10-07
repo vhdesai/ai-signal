@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-11-mit-lincoln-laboratory-s-ai-guided-catheterization-device-wi
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
+- 2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho
 embedding_id: 2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ARPA-H awarded Stanford professor Renee Zhao's lab a multi-year grant of up to $
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-11-mit-lincoln-laboratory-s-ai-guide-wins-2026-excellence-in-te]] · [[2026-09-11-mit-lincoln-laboratory-s-ai-guided-catheterization-device-wi]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]] · [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
+**Related:** [[2026-09-11-mit-lincoln-laboratory-s-ai-guide-wins-2026-excellence-in-te]] · [[2026-09-11-mit-lincoln-laboratory-s-ai-guided-catheterization-device-wi]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]] · [[2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch]] · [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho]]
 <!-- graph:end -->

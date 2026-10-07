@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv
 - 2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
+- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
-- 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 embedding_id: 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's Amap mapping app has quietly rolled out Street Stars, an AI-driven loc
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv]] · [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]] · [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]]
+**Related:** [[2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv]] · [[2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai]]
 <!-- graph:end -->

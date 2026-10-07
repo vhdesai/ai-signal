@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
 - 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
-- 2026-08-06-openai-launches-codex-security-in-research-preview
 embedding_id: 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Codex now encrypts parent-to-sub-agent instructions, and the change is mandatory
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]]
+**Related:** [[2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]]
 <!-- graph:end -->

@@ -21,14 +21,9 @@ themes:
 - company-storylines
 - infrastructure-investments
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-- 2026-06-21-former-nvidia-leaders-build-evergreen-to-back-ai-startups
-- 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
+dedupe_status: duplicate
+canonical_article_id: 2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin
+related_article_ids: []
 embedding_id: 2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen
 event_name: ''
 ---
@@ -42,5 +37,5 @@ Nvidia profiled startups using its AI infrastructure to address breast-cancer wo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-06-21-former-nvidia-leaders-build-evergreen-to-back-ai-startups]] · [[2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a]]
+**Canonical:** [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin]]
 <!-- graph:end -->

@@ -33,10 +33,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
+- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 embedding_id: 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Republican Sen. Josh Hawley sent a letter to Sam Altman announcing that his Sena
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]] · [[2026-09-11-senators-from-both-parties-question-openai-over-the-hugging]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]]
+**Related:** [[2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-11-senators-from-both-parties-question-openai-over-the-hugging]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

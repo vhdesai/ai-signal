@@ -1,13 +1,14 @@
 ---
 article_id: 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
-title: Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model
+title: Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model
 date: '2026-10-06'
 source: Reuters / CNBC / VentureBeat / Wired
 url_original: null
-url_canonical: https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/
-url_status: repaired
-digest_source: digests\raw\2026-10-06_065734_Final-Daily-AI-News-Digest.md
-content_hash: 6166f6c0cf4a292b9883e6953efdfaa5223d8fb0aae79fac84be03a40b7be238
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
+  6, 2026.md
+content_hash: db67689442abecbdc700ed0519557e7935cb407158ec6dbe81b8d292d48fae33
 normalized_title_hash: 379c73e2f03148a4
 canonical_url_hash: ''
 tags:
@@ -32,9 +33,9 @@ embedding_id: 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-wei
 event_name: ''
 ---
 
-# Mistral debuts Large 4 "Le Chonk," a 1T-parameter open-weight frontier model
+# Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model
 
-Mistral unveiled Large 4, nicknamed "Le Chonk," a one-trillion-parameter text-output model it plans to release as open weights. Mistral says the model rivals the best Chinese open systems and is the leading open-weight offering outside China, with early coverage emphasizing cybersecurity controls and enterprise self-hosting. The launch reframes Europe's AI posture from regulation-first to capability-first and lands directly against DeepSeek, Qwen and Reflection AI.
+Mistral unveiled Large 4, nicknamed “Le Chonk,” a one-trillion-parameter text-output model it plans to release as open weights. Mistral says the model rivals the best Chinese open systems and is the leading open-weight offering outside China, with early coverage emphasizing cybersecurity controls and enterprise self-hosting. The launch reframes Europe’s AI posture from regulation-first to capability-first and lands directly against DeepSeek, Qwen and Reflection AI.
 
 <!-- graph:start -->
 ## Connections

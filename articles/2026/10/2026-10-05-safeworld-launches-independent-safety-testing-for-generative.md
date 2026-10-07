@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-safeworld-builds-digital-humans-to-test-whether-generative-a
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-- 2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a
 embedding_id: 2026-10-05-safeworld-launches-independent-safety-testing-for-generative
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon researcher Ding Zhao's Safeworld emerged with over $12 million i
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a]]
+**Related:** [[2026-10-05-safeworld-builds-digital-humans-to-test-whether-generative-a]] · [[2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
 <!-- graph:end -->

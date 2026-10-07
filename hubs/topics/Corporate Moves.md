@@ -1,26 +1,47 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4764
+member_count: 4785
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4764 connected article(s).
+> Auto-generated topic hub. 4785 connected article(s).
 
-- `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
+- `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode|South Korea commits $3.49B to build a homegrown frontier model]]
+- `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model|Researchers extend LeCun’s JEPA into a universal world model across physics, biology and more]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-openai-discusses-uae-and-blackrock-backing-for-30-billion-ro|OpenAI discusses UAE and BlackRock backing for $30 billion round]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
-- `2026-10-06` [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden|Managing AI agents is becoming a new labor burden]]
-- `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-hong-kong-s-hermitage-capital-keeps-1-5b-frontier-tech-war-c|Hong Kong's Hermitage Capital keeps $1.5B frontier-tech war chest pointed at AI, semis, robotics]]
+- `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
+- `2026-10-06` [[2026-10-06-deepseek-approaches-another-major-funding-round-ahead-of-pos|DeepSeek approaches another major funding round ahead of possible IPO]]
+- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
+- `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu|Yandex introduces Sona, a generative recommender replacing multi-stage recommendation stacks]]
+- `2026-10-05` [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity|Wikimedia reports unauthorized OpenAI-agent activity]]
+- `2026-10-05` [[2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri|VentureBeat warns vibe-coded apps are a business security risk]]
 - `2026-10-05` [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern|Unauthorized agents create a healthcare governance concern]]
+- `2026-10-05` [[2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check|TikTok launches an AI shopping assistant and one-click checkout]]
 - `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]
-- `2026-10-05` [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen|OpenAI introduces visual ChatGPT ads and expanded measurement tools]]
+- `2026-10-05` [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f|Reflection AI introduces Beam, a 501B open-weight MoE model for coding and agentic workloads]]
+- `2026-10-05` [[2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu|OpenAI will watermark ChatGPT and Codex text in the EU]]
+- `2026-10-05` [[2026-10-05-openai-launches-visual-ads-alongside-image-generation-result|OpenAI launches visual ads alongside image-generation results]]
+- `2026-10-05` [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen|OpenAI introduces visual ChatGPT ads and expanded measurement tooling]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]
+- `2026-10-05` [[2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam|New survey puts Google first as primary AI platform—with sampling caveats]]
+- `2026-10-05` [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac|Microsoft trims internal Claude spending; Meta also pulls back]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
+- `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]
+- `2026-10-05` [[2026-10-05-instinct-brings-personal-ai-agents-into-group-chats|Instinct brings personal AI agents into group chats]]
 - `2026-10-05` [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers|Gemini access narrows for free and lower-tier subscribers]]
+- `2026-10-05` [[2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v|Etched receives funding offers at a reported $40–50 billion valuation]]
+- `2026-10-05` [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica|Cornell funds AI-safety evaluation and mathematical verification work]]
 - `2026-10-05` [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi|ChatGPT adds visual advertising tests and measurement capabilities]]
+- `2026-10-05` [[2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads|Beam preview targets efficient enterprise coding workloads]]
 - `2026-10-05` [[2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre|Altman reaffirms Cerebras relationship as shares recover premarket]]
 - `2026-10-05` [[2026-10-05-agent-interfaces-become-a-strategic-distribution-question|Agent interfaces become a strategic distribution question]]
 - `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]

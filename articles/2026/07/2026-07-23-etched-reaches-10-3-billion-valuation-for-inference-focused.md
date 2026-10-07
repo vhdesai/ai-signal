@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month
 - 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
+- 2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v
 - 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
-- 2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st
 embedding_id: 2026-07-23-etched-reaches-10-3-billion-valuation-for-inference-focused
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Etched raised a $300 million Series C at a $10.3 billion valuation, led by Sequo
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st]]
+**Related:** [[2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un]] · [[2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month]] · [[2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati]] · [[2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v]] · [[2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val]]
 <!-- graph:end -->

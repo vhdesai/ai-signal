@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in
 - 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
 - 2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo
 embedding_id: 2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln
@@ -34,5 +35,5 @@ Google paused its Open Source Software Vulnerability Rewards Program until early
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise]] · [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo]]
+**Related:** [[2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in]] · [[2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise]] · [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo]]
 <!-- graph:end -->

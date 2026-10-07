@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: PetaPixel; Business Insider
 url_original: https://petapixel.com/2026/06/22/getty-images-strikes-deal-with-openai-sending-gettys-stock-soaring/
 url_canonical: https://petapixel.com/2026/06/22/getty-images-strikes-deal-with-openai-sending-gettys-stock-soaring/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 9f6d3c717ad3de805b34e110d794b6298faa9557a1f1abf3be288faa57c11eb0
 normalized_title_hash: 0eb7a7a1f7c1f93b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-- 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
+- 2026-10-05-openai-launches-visual-ads-alongside-image-generation-result
 embedding_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Getty Images and OpenAI announced a multi-year agreement to surface Getty's lice
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]] · [[2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi]]
+**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing]] · [[2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen]] · [[2026-10-05-openai-launches-visual-ads-alongside-image-generation-result]]
 <!-- graph:end -->

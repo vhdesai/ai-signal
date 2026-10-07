@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug
+- 2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in
 - 2026-10-04-google-pauses-open-source-bug-bounty-program-after-surge-in
 - 2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo
 - 2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln
-- 2026-10-01-openai-parts-ways-with-three-safety-researchers
 embedding_id: 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports Google paused open-source bounty submissions October 1 amid m
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug]] · [[2026-10-04-google-pauses-open-source-bug-bounty-program-after-surge-in]] · [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo]] · [[2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]]
+**Related:** [[2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug]] · [[2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in]] · [[2026-10-04-google-pauses-open-source-bug-bounty-program-after-surge-in]] · [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo]] · [[2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln]]
 <!-- graph:end -->

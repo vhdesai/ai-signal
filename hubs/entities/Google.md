@@ -1,22 +1,29 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1587
+member_count: 1594
 ---
 
 # Google
 
-> Auto-generated entity hub. 1587 connected article(s).
+> Auto-generated entity hub. 1594 connected article(s).
 
+- `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
+- `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
-- `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
+- `2026-10-05` [[2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check|TikTok launches an AI shopping assistant and one-click checkout]]
 - `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
+- `2026-10-05` [[2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam|New survey puts Google first as primary AI platform—with sampling caveats]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked|Google tests orbital AI data centers as Amazon warns blocked US projects threaten AI leadership]]
+- `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co|Google puts AI chips in space to test orbital data-center concepts]]
 - `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
+- `2026-10-05` [[2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in|Google pauses open-source bug bounty program after surge in AI-generated reports]]
 - `2026-10-05` [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers|Gemini access narrows for free and lower-tier subscribers]]
 - `2026-10-05` [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp|COVERAGE New York City prepares to question frontier AI companies]]
+- `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y|Anthropic, OpenAI, Google, and Meta testify under oath at New York City AI risk hearing]]
 - `2026-10-05` [[2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u|Anthropic, OpenAI, Google and Meta executives set to testify under oath in New York AI hearing]]
 - `2026-10-04` [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse|Reflection AI prepares open-weight model to challenge DeepSeek and Qwen]]
 - `2026-10-04` [[2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug|New reporting highlights AI-generated burden on Google's bug-bounty intake]]

@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
+- 2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
+- 2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w
 embedding_id: 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 event_name: ''
 ---
@@ -40,5 +41,5 @@ SCMP's sixth installment in its US–China AI stability series concludes that th
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
+**Related:** [[2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition]] · [[2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an]] · [[2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w]]
 <!-- graph:end -->

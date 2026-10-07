@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y
 - 2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp
 - 2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath
-- 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 embedding_id: 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Senior policy and safety leaders from Anthropic, OpenAI, Google and Meta are sla
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp]] · [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]]
+**Related:** [[2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y]] · [[2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp]] · [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath]]
 <!-- graph:end -->

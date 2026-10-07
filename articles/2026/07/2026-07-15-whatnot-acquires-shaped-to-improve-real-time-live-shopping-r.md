@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-16-whatnot-acquires-ai-recommendation-startup-shaped
 - 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
+- 2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check
 - 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
-- 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 embedding_id: 2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Livestream shopping platform Whatnot acquired Shaped, an AI startup focused on r
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-16-whatnot-acquires-ai-recommendation-startup-shaped]] · [[2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]]
+**Related:** [[2026-07-16-whatnot-acquires-ai-recommendation-startup-shaped]] · [[2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]]
 <!-- graph:end -->
