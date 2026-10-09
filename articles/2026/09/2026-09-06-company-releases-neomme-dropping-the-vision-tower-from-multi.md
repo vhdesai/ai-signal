@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-company-releases-neomme-single-tower-multimodal-encoders-tha
+- 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
-- 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 embedding_id: 2026-09-06-company-releases-neomme-dropping-the-vision-tower-from-multi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NeoMME is a family of 260M and 800M-parameter bidirectional encoders that proces
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-06-company-releases-neomme-single-tower-multimodal-encoders-tha]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]]
+**Related:** [[2026-09-06-company-releases-neomme-single-tower-multimodal-encoders-tha]] · [[2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]]
 <!-- graph:end -->

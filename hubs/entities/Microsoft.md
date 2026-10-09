@@ -1,17 +1,24 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 996
+member_count: 1003
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 996 connected article(s).
+> Auto-generated entity hub. 1003 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto|Microsoft and Nvidia CEOs to unveil AI-powered Surface Laptop Ultra]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o|Microsoft’s Claude optimization illustrates the next phase of model routing economics]]
+- `2026-10-06` [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs|Microsoft tries to help Copilot customers cut Claude costs]]
+- `2026-10-06` [[2026-10-06-microsoft-publishes-daron-acemoglu-s-bearish-ai-forecast-1-5|Microsoft publishes Daron Acemoglu's bearish AI forecast: 1.5% GDP lift over a decade]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00|Anthropic gives startups a free year of Claude Team and $1,000 in credits]]
 - `2026-10-05` [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac|Microsoft trims internal Claude spending; Meta also pulls back]]
 - `2026-10-05` [[2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst|Microsoft Copilot in Word adds answer provenance; AWS demonstrates "trust-earned autonomy" in banking]]
 - `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]

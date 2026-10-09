@@ -24,6 +24,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
@@ -41,5 +42,5 @@ OpenAI disclosed it disrupted a reasoning-extraction campaign targeting its mode
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]]
+**Related:** [[2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg]]
 <!-- graph:end -->

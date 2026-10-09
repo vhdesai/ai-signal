@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
 - 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
+- 2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
-- 2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts
 embedding_id: 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI attributed a coordinated reasoning-extraction campaign to people associat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut]] · [[2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts]]
+**Related:** [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut]] · [[2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis]] · [[2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]]
 <!-- graph:end -->

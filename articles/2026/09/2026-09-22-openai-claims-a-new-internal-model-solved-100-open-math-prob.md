@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m
 - 2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on
 - 2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai
+- 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
-- 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 embedding_id: 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced that a new internal model — whose training began August 28 �
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m]] · [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on]] · [[2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
+**Related:** [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m]] · [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on]] · [[2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai]] · [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]]
 <!-- graph:end -->

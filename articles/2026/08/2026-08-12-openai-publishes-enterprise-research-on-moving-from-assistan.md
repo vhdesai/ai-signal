@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
+- 2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 embedding_id: 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published research on how enterprises are adopting agentic AI, focusing o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
+**Related:** [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

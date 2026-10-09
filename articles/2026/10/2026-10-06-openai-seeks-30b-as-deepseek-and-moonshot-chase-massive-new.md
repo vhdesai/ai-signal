@@ -4,8 +4,8 @@ title: OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital
 date: '2026-10-06'
 source: Bloomberg / CNBC / Yahoo Finance / Euronews
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 3556d7fad5481d676109cad68eb7cf03e0feb2e9aabbe7487f4c77f5795938d8
@@ -25,9 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-- 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
 embedding_id: 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Bloomberg reports OpenAI is seeking $30B as the rush to raise AI capital quicken
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]] · [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation]]
+**Related:** [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-06-03-deepseek-prepares-7-billion-maiden-fundraise]]
 <!-- graph:end -->

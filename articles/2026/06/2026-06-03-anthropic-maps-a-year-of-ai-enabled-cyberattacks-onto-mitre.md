@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
+- 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla
-- 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 embedding_id: 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's Frontier Red Team analyzed 832 accounts banned for malicious cyber a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]]
+**Related:** [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai]] · [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla]]
 <!-- graph:end -->

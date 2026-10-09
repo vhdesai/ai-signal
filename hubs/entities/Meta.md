@@ -1,16 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 881
+member_count: 884
 ---
 
 # Meta
 
-> Auto-generated entity hub. 881 connected article(s).
+> Auto-generated entity hub. 884 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-military-ai-worries-and-self-built-watchdogs-keep-frontier-g|Military AI worries and self-built watchdogs keep frontier governance under pressure]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00|Anthropic gives startups a free year of Claude Team and $1,000 in credits]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac|Microsoft trims internal Claude spending; Meta also pulls back]]
 - `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]

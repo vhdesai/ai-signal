@@ -4,8 +4,8 @@ title: DeepSeek approaches another major funding round ahead of possible IPO
 date: '2026-10-06'
 source: 3:51 a.m. PDT · Reuters
 url_original: null
-url_canonical: https://www.cnbc.com/2026/10/06/deepseek-funding-round.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_062127_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: d2bcb9d93b0e136e77417c9c641fd5541b1d0efe2ede3255612944b8a0e6c7e2

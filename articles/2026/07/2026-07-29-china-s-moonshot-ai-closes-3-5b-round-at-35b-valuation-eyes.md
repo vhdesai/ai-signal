@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
-- 2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d
 embedding_id: 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moonshot AI has closed a $3.5B financing round valuing the Beijing lab at about 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]] · [[2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d]]
+**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va]]
 <!-- graph:end -->

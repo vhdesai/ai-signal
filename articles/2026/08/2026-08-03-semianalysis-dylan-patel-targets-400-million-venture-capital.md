@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-dylan-patel-s-move-from-analyst-to-fund-manager-reflects-the
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
 embedding_id: 2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Dylan Patel, the semiconductor analyst who built SemiAnalysis into one of the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-dylan-patel-s-move-from-analyst-to-fund-manager-reflects-the]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]]
+**Related:** [[2026-08-03-dylan-patel-s-move-from-analyst-to-fund-manager-reflects-the]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

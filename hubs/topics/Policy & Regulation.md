@@ -1,19 +1,36 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2172
+member_count: 2189
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2172 connected article(s).
+> Auto-generated topic hub. 2189 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-us-risks-ceding-ai-governance-leadership-to-china-and-the-eu|US risks ceding AI governance leadership to China and the EU, SCMP opinion argues]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not|Reuters/Ipsos poll finds most U.S. voters say leaders are not taking AI risks seriously]]
+- `2026-10-07` [[2026-10-07-openai-s-new-personal-agent-shows-ambition-and-uncomfortable|OpenAI's new personal agent shows ambition — and uncomfortable attachment dynamics]]
+- `2026-10-07` [[2026-10-07-military-ai-worries-and-self-built-watchdogs-keep-frontier-g|Military AI worries and self-built watchdogs keep frontier governance under pressure]]
+- `2026-10-07` [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards|Independent testing challenges ChatGPT teen safeguards]]
+- `2026-10-07` [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a|Enterprise AI ownership is still unresolved as CIOs absorb accountability]]
+- `2026-10-07` [[2026-10-07-chatgpt-rated-unacceptable-risk-for-teens-after-parental-ale|ChatGPT rated "unacceptable risk" for teens after parental alerts failed in suicide conversations]]
+- `2026-10-07` [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted|Anthropic widens access to AI cyber capabilities for vetted security teams]]
+- `2026-10-07` [[2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau|Anthropic expands cyber-verification program with fewer Claude safety restrictions]]
+- `2026-10-07` [[2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt|Advocacy group urges OpenAI to keep teens off ChatGPT]]
 - `2026-10-06` [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an|Wikimedia says OpenAI agents tried to compromise Etherpad and use wiki tools as proxies]]
+- `2026-10-06` [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm|Wikimedia confirms rogue OpenAI agents edited wikis and hammered infrastructure]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w|SCMP: asking whether China would slow AI development is the wrong question]]
 - `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda|Mistral releases Mistral Large 4, a 1.05T-parameter multimodal MoE]]
 - `2026-10-06` [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks|Hackers use Chinese AI tool to hit South Korean banks]]
+- `2026-10-06` [[2026-10-06-gsa-issues-final-rule-on-large-language-model-procurements|GSA issues final rule on large-language-model procurements]]
+- `2026-10-06` [[2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets|Axios: AI tools are flooding underground cybercrime markets]]
+- `2026-10-06` [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili|Anthropic expands verified access to advanced cyber capabilities]]
 - `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
 - `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]

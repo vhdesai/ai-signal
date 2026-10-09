@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful
+- 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
-- 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
 embedding_id: 2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Google DeepMind released Gemini 4 Argon — which it calls its most powerful fro
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]]
+**Related:** [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]]
 <!-- graph:end -->

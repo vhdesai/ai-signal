@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
 - 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 embedding_id: 2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Reka previewed one 19B model spanning text, visuals and robotic actions. It rema
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]]
+**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]]
 <!-- graph:end -->

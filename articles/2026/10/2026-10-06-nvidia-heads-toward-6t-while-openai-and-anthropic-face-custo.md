@@ -4,8 +4,8 @@ title: Nvidia heads toward $6T while OpenAI and Anthropic face customer price pr
 date: '2026-10-06'
 source: Bloomberg / Barron's / TradingView
 url_original: null
-url_canonical: https://www.bloomberg.com/news/newsletters/2026-10-06/openai-and-anthropic-face-rising-price-pressure-from-big-ai-users
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: bd3cc34aeea5d4d44c7d59c0b878efb5e5c0cb4f3dc0c32b76fe64190f054d7e

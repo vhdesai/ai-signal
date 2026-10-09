@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1279
+member_count: 1283
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1279 connected article(s).
+> Auto-generated topic hub. 1283 connected article(s).
 
+- `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-melius-raises-25-million-for-ai-creative-workflows|Melius raises $25 million for AI creative workflows]]
+- `2026-10-06` [[2026-10-06-lambda-seeks-up-to-4b-ahead-of-planned-2027-ipo|Lambda seeks up to $4B ahead of planned 2027 IPO]]
+- `2026-10-06` [[2026-10-06-lambda-seeks-a-4b-round-before-a-planned-ipo-keeping-neoclou|Lambda seeks a $4B round before a planned IPO, keeping neocloud financing in focus]]
 - `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
 - `2026-10-06` [[2026-10-06-deepseek-approaches-another-major-funding-round-ahead-of-pos|DeepSeek approaches another major funding round ahead of possible IPO]]
 - `2026-10-05` [[2026-10-05-safeworld-launches-independent-safety-testing-for-generative|Safeworld launches independent safety testing for generative-AI robots]]

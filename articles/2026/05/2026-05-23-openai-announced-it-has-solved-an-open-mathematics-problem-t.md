@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
+- 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-- 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 embedding_id: 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced it has solved an open mathematics problem that has stood for ap
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]]
+**Related:** [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]]
 <!-- graph:end -->

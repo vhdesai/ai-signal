@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
-- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill
 embedding_id: 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is pitching private equity firms including TPG and Bain Capital on joint 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]]
-**Related:** [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]]
+**Related:** [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
 <!-- graph:end -->

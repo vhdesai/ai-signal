@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
 embedding_id: 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
@@ -36,5 +37,5 @@ A mathematician-authored analysis of how generative models are being absorbed in
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research]]
+**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research]]
 <!-- graph:end -->

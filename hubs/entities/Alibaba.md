@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 433
+member_count: 436
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 433 connected article(s).
+> Auto-generated entity hub. 436 connected article(s).
 
+- `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir|China's open-weight models are winning global users — but third parties may capture the value]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol
 - 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
+- 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
-- 2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow
 embedding_id: 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT reported that 25 students and postdocs met with 62 congressional offices to 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol]] · [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow]]
+**Related:** [[2026-07-30-mit-students-connect-research-priorities-to-capitol-hill-pol]] · [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
+- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
-- 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
 embedding_id: 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI's teen-focused ChatGPT tier includes a “Study Mode” that offers guidi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]]
+**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]]
 <!-- graph:end -->

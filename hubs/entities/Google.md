@@ -1,18 +1,33 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1594
+member_count: 1609
 ---
 
 # Google
 
-> Auto-generated entity hub. 1594 connected article(s).
+> Auto-generated entity hub. 1609 connected article(s).
 
+- `2026-10-07` [[2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel|Zuckerberg Biohub, US partners and Google build a virtual cell]]
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]
+- `2026-10-07` [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i|Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence era]]
+- `2026-10-07` [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted|Anthropic widens access to AI cyber capabilities for vetted security teams]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-libreoffice-says-no-ai-is-now-a-product-feature|LibreOffice says “no AI” is now a product feature]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-google-s-nano-banana-2-1-improves-image-generation-economics|Google's Nano Banana 2.1 improves image generation economics]]
+- `2026-10-06` [[2026-10-06-google-releases-embeddinggemma-2-a-lightweight-multimodal-em|Google releases EmbeddingGemma 2, a lightweight multimodal embedding model]]
+- `2026-10-06` [[2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval|Google expands Gemma into multimodal on-device retrieval]]
+- `2026-10-06` [[2026-10-06-google-deepmind-releases-embeddinggemma-2-a-740m-multimodal|Google DeepMind releases EmbeddingGemma 2, a 740M multimodal embedding model]]
+- `2026-10-06` [[2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices|EmbeddingGemma 2 brings multimodal retrieval to devices]]
+- `2026-10-06` [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on|Claude moves into Google Workspace as assistants converge on the work surface]]
+- `2026-10-06` [[2026-10-06-claude-enters-google-docs-sheets-and-slides|Claude enters Google Docs, Sheets and Slides]]
+- `2026-10-06` [[2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides|Claude can now open and edit Google Docs, Sheets, and Slides]]
 - `2026-10-05` [[2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check|TikTok launches an AI shopping assistant and one-click checkout]]
 - `2026-10-05` [[2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub|Planetizen reports MIT is creating an AI-powered hub for public transportation companies. The initiative aims to help agencies use AI for planning, operations, predictive maintenance and rider-experience improvements while avoiding vendor-specific lock-in. It is a practical public-sector counterpoint to the private-sector agent rush dominating this week's news.]]
 - `2026-10-05` [[2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam|New survey puts Google first as primary AI platform—with sampling caveats]]

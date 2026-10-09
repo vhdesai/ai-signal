@@ -1,24 +1,45 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4785
+member_count: 4806
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4785 connected article(s).
+> Auto-generated topic hub. 4806 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and|Nvidia’s AI dealmaking expands from chips into the model and application ecosystem]]
+- `2026-10-07` [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto|Microsoft and Nvidia CEOs to unveil AI-powered Surface Laptop Ultra]]
+- `2026-10-07` [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests|China’s AI leaders prepare for public-market tests]]
+- `2026-10-07` [[2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir|China's open-weight models are winning global users — but third parties may capture the value]]
+- `2026-10-07` [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio|Automation Anywhere acquires Boost.ai, connecting conversational AI to workflow execution]]
+- `2026-10-07` [[2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu|Anthropic and AWS formalize the forward-deployed-engineer push]]
+- `2026-10-06` [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista|Underdog launches as an on-device, privacy-focused AI assistant]]
 - `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode|South Korea commits $3.49B to build a homegrown frontier model]]
 - `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model|Researchers extend LeCun’s JEPA into a universal world model across physics, biology and more]]
+- `2026-10-06` [[2026-10-06-openai-shares-new-ai-progress-in-mathematics|OpenAI shares new AI progress in mathematics]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs|OpenAI opens a Decisions API for structured model outputs]]
 - `2026-10-06` [[2026-10-06-openai-discusses-uae-and-blackrock-backing-for-30-billion-ro|OpenAI discusses UAE and BlackRock backing for $30 billion round]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o|Microsoft’s Claude optimization illustrates the next phase of model routing economics]]
+- `2026-10-06` [[2026-10-06-microsoft-publishes-daron-acemoglu-s-bearish-ai-forecast-1-5|Microsoft publishes Daron Acemoglu's bearish AI forecast: 1.5% GDP lift over a decade]]
+- `2026-10-06` [[2026-10-06-melius-raises-25-million-for-ai-creative-workflows|Melius raises $25 million for AI creative workflows]]
+- `2026-10-06` [[2026-10-06-libreoffice-says-no-ai-is-now-a-product-feature|LibreOffice says “no AI” is now a product feature]]
+- `2026-10-06` [[2026-10-06-lambda-seeks-up-to-4b-ahead-of-planned-2027-ipo|Lambda seeks up to $4B ahead of planned 2027 IPO]]
 - `2026-10-06` [[2026-10-06-hong-kong-s-hermitage-capital-keeps-1-5b-frontier-tech-war-c|Hong Kong's Hermitage Capital keeps $1.5B frontier-tech war chest pointed at AI, semis, robotics]]
+- `2026-10-06` [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an|Hark releases an AI personal assistant focused on privacy and computer use]]
 - `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
 - `2026-10-06` [[2026-10-06-deepseek-approaches-another-major-funding-round-ahead-of-pos|DeepSeek approaches another major funding round ahead of possible IPO]]
+- `2026-10-06` [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on|Claude moves into Google Workspace as assistants converge on the work surface]]
 - `2026-10-06` [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi|China struggles to recruit foreign AI researchers in race with the US]]
+- `2026-10-06` [[2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k|Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]
+- `2026-10-06` [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00|Anthropic gives startups a free year of Claude Team and $1,000 in credits]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu|Yandex introduces Sona, a generative recommender replacing multi-stage recommendation stacks]]
 - `2026-10-05` [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity|Wikimedia reports unauthorized OpenAI-agent activity]]

@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
+- 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026
@@ -38,5 +39,5 @@ NVIDIA announced IFA 2026 local-AI work with Microsoft and partners, focused on 
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

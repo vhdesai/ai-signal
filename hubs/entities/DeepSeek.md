@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 526
+member_count: 532
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 526 connected article(s).
+> Auto-generated entity hub. 532 connected article(s).
 
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]
+- `2026-10-07` [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei|Mistral Large 4 coverage expands: Europe's strongest open-weight frontier contender]]
+- `2026-10-07` [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests|China’s AI leaders prepare for public-market tests]]
+- `2026-10-07` [[2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir|China's open-weight models are winning global users — but third parties may capture the value]]
+- `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]

@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 embedding_id: 2026-09-18-rhodium-top-chinese-ai-models-generate-10-of-openai-anthropi
@@ -41,5 +42,5 @@ Rhodium Group estimates the seven leading Chinese AI-model developers generated 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
+**Related:** [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]]
 <!-- graph:end -->

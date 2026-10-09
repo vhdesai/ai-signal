@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+- 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 - 2026-09-22-wednesday-september-23-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 embedding_id: 2026-04-23-the-most-important-ai-developments-across-industry-research
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Today's big picture: April 23, 2026 finds AI at a genuine inflection point — n
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and]]
+**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users]] · [[2026-09-22-wednesday-september-23-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
 <!-- graph:end -->

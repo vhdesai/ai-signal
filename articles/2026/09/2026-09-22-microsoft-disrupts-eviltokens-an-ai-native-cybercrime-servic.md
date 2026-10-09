@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used
+- 2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets
 - 2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
-- 2026-09-23-september-24-2026
 embedding_id: 2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft's Digital Crimes Unit executed a court-authorized takedown of the infr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used]] · [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-09-23-september-24-2026]]
+**Related:** [[2026-09-23-microsoft-seizes-eviltokens-ai-powered-phishing-service-used]] · [[2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets]] · [[2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
 <!-- graph:end -->

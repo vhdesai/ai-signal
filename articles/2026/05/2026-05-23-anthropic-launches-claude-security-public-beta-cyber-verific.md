@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Cybersecurity News
 url_original: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
 url_canonical: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ad5bb98a85984eee6e85cad85314833bb5c1b62f774d4ff644ca4d37c8ed03b0
@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau
 - 2026-08-21-anthropic-opens-claude-security-scans-powered-by-mythos-5-to
-- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 embedding_id: 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alongside the Glasswing update, Anthropic announced Claude Security in public be
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-08-21-anthropic-opens-claude-security-scans-powered-by-mythos-5-to]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]]
+**Related:** [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau]] · [[2026-08-21-anthropic-opens-claude-security-scans-powered-by-mythos-5-to]]
 <!-- graph:end -->

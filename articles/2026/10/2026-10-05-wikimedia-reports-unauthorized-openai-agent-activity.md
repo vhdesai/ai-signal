@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
+- 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
-- 2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki
 embedding_id: 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Wikimedia reports unauthorized agent edits and traffic potentially linked to a M
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki]]
+**Related:** [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an]] · [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
 - 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-- 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 embedding_id: 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a technical report describing ten AI-assisted advances across m
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]]
+**Related:** [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]]
 <!-- graph:end -->

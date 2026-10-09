@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
+- 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
-- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 embedding_id: 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mistral announced in-region inference endpoints, hosting for third-party open mo
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]]
+**Related:** [[2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e]]
 <!-- graph:end -->

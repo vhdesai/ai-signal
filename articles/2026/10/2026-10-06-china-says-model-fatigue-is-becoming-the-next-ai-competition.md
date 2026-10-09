@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace
+- 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 - 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SCMP frames China's rapid release cycle as creating "model fatigue" for enterpri
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace]] · [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace]] · [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users]] · [[2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call]] · [[2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai]] · [[2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic]]
 <!-- graph:end -->

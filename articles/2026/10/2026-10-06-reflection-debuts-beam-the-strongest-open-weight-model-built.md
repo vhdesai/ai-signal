@@ -4,8 +4,8 @@ title: Reflection debuts Beam, the strongest open-weight model built outside Chi
 date: '2026-10-06'
 source: The Decoder
 url_original: null
-url_canonical: https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_061014_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: 94abacf1b3085f3c3049fb1329b9711de5c2f0b3a56e82f052e4432e21ce32ae

@@ -4,8 +4,8 @@ title: OpenAI discusses UAE and BlackRock backing for $30 billion round
 date: '2026-10-06'
 source: Bloomberg Television
 url_original: null
-url_canonical: https://www.bloomberg.com/news/videos/2026-10-06/openai-in-30b-round-talks-with-blackrock-uae-funds-video
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_062127_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: 2e871e253d2107d23fa1293dbc3e693af54e5631cd9be25f33736f69e1244d1b

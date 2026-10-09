@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-- 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 embedding_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 24-author study led by Princeton (Kirgis, Kapoor, Narayanan) introduces “sha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]]
+**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]]
 <!-- graph:end -->

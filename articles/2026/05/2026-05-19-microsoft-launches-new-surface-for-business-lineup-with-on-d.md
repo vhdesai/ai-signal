@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Microsoft Windows Blog
 url_original: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
 url_canonical: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d80aa3c1cc9ed4c4437b1dccd90fb4b4034bddbb5540588da455834417cf7a6a
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 - 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
 - 2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto
-- 2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop
 embedding_id: 2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft launched the Surface Pro for Business 13-inch ($1,949) and Surface Lap
 
 **Entities:** [[Intel]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto]] · [[2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop]]
+**Related:** [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto]]
 <!-- graph:end -->

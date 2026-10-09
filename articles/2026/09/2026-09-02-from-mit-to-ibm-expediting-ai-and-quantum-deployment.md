@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 embedding_id: 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT News covered work connecting MIT research and IBM deployment around AI and q
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]]
+**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]]
 <!-- graph:end -->

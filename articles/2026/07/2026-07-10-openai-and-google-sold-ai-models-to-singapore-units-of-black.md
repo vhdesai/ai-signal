@@ -30,6 +30,7 @@ related_article_ids:
 - 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
 - 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
 - 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
+- 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 embedding_id: 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
 event_name: ''
 ---
@@ -43,5 +44,5 @@ OpenAI and Google were reported to have supplied advanced AI services to Singapo
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Google]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re]] · [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]]
+**Related:** [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese]] · [[2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re]] · [[2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo]] · [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users]]
 <!-- graph:end -->

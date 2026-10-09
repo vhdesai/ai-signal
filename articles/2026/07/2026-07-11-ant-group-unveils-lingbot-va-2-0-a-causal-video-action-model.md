@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
+- 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 embedding_id: 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ant Group's Robbyant team introduced LingBot-VA 2.0, a causal video-action model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model
+- 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 - 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
-- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 embedding_id: 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Rho-1 and PhAI Labs' JEPA extension both challenge the assumption that generalit
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo]] · [[2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
+**Related:** [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model]] · [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo]] · [[2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control]]
 <!-- graph:end -->

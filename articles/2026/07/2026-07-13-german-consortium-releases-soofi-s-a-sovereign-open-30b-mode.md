@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-launch-open-source
+- 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r
 - 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
-- 2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch
 embedding_id: 2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Soofi S 30B-A3B activates 3.2B of 31.6B parameters per token and tops fully open
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-launch-open-source]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r]] · [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter]] · [[2026-09-04-saudi-arabia-s-humain-launches-428b-arabic-model-built-on-ch]]
+**Related:** [[2026-07-13-launch-open-source]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r]] · [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter]]
 <!-- graph:end -->

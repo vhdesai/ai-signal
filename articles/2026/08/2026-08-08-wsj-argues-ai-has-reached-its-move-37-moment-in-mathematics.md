@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
+- 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
-- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 embedding_id: 2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ben Cohen’s column contends that AI has crossed an AlphaGo-style watershed in 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]]
+**Related:** [[2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]]
 <!-- graph:end -->

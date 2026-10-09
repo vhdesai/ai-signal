@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 255
+member_count: 256
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 255 connected article(s).
+> Auto-generated entity hub. 256 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
 - `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]

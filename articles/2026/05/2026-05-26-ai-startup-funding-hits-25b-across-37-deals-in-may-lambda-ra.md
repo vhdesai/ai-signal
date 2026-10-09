@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c
 - 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
-- 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 embedding_id: 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 event_name: ''
 ---
@@ -41,5 +41,5 @@ May's AI funding tally jumped to roughly $25B across 37 disclosed deals, with GP
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]]
+**Related:** [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]]
 <!-- graph:end -->

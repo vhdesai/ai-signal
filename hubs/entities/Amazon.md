@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 688
+member_count: 690
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 688 connected article(s).
+> Auto-generated entity hub. 690 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu|Anthropic and AWS formalize the forward-deployed-engineer push]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]

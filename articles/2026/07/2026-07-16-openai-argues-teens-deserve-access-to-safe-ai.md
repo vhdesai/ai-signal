@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
+- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
-- 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
 embedding_id: 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a safety-focused post arguing that teens should have access to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-18-openai-publishes-an-australian-youth-safety-blueprint]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]]
+**Related:** [[2026-09-18-openai-publishes-an-australian-youth-safety-blueprint]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi]]
 <!-- graph:end -->

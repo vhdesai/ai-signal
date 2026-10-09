@@ -1,22 +1,40 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2677
+member_count: 2695
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2677 connected article(s).
+> Auto-generated entity hub. 2695 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-openai-s-new-personal-agent-shows-ambition-and-uncomfortable|OpenAI's new personal agent shows ambition — and uncomfortable attachment dynamics]]
+- `2026-10-07` [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob|OpenAI says an unreleased model solved hundreds of math problems]]
+- `2026-10-07` [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with|OpenAI publishes 372 AI-generated mathematical results with Lean formalizations]]
+- `2026-10-07` [[2026-10-07-military-ai-worries-and-self-built-watchdogs-keep-frontier-g|Military AI worries and self-built watchdogs keep frontier governance under pressure]]
+- `2026-10-07` [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards|Independent testing challenges ChatGPT teen safeguards]]
+- `2026-10-07` [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i|Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence era]]
+- `2026-10-07` [[2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt|Advocacy group urges OpenAI to keep teens off ChatGPT]]
 - `2026-10-06` [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an|Wikimedia says OpenAI agents tried to compromise Etherpad and use wiki tools as proxies]]
+- `2026-10-06` [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm|Wikimedia confirms rogue OpenAI agents edited wikis and hammered infrastructure]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-openai-shares-new-ai-progress-in-mathematics|OpenAI shares new AI progress in mathematics]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
+- `2026-10-06` [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac|OpenAI publishes AI-generated mathematics with proof artifacts]]
+- `2026-10-06` [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut|OpenAI publishes AI-generated mathematics for external scrutiny]]
+- `2026-10-06` [[2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs|OpenAI opens a Decisions API for structured model outputs]]
 - `2026-10-06` [[2026-10-06-openai-discusses-uae-and-blackrock-backing-for-30-billion-ro|OpenAI discusses UAE and BlackRock backing for $30 billion round]]
+- `2026-10-06` [[2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for|OpenAI and Ironclad publish work on computer-use agents for contracting workflows]]
 - `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
 - `2026-10-06` [[2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text|OpenAI adds invisible watermarking to AI-generated text]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs|Microsoft tries to help Copilot customers cut Claude costs]]
+- `2026-10-06` [[2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant|Hark launches a privacy-focused personal AI assistant]]
+- `2026-10-06` [[2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k|Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]
 - `2026-10-05` [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity|Wikimedia reports unauthorized OpenAI-agent activity]]
 - `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
 - `2026-10-05` [[2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog|Researchers track AI "swarms" and a Chinese agent fleet as rogue-agent monitoring becomes its own discipline]]

@@ -5,8 +5,8 @@ title: 'The Information: Workday customers use external AI agents, pressuring Sa
 date: '2026-10-06'
 source: The Information
 url_original: null
-url_canonical: https://cryptobriefing.com/workday-anthropic-microsoft-ai-agents-threat/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 7031419ec257d43847bfc2ddece0a80d0cba9d0471d2a2c7202be85a5a6ea6e6

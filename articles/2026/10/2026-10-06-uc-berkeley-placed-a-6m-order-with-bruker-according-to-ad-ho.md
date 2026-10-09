@@ -9,8 +9,8 @@ title: 'UC Berkeley placed a $6M order with Bruker, according to AD HOC News, ad
 date: '2026-10-06'
 source: 'Source: AD HOC News'
 url_original: null
-url_canonical: https://finance.yahoo.com/healthcare/articles/bruker-receives-order-high-field-110000137.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_064746_Inbox_ClawPilot - Daily AI News Digest
   - October 6, 2026.md
 content_hash: a0a2c27783a07be307c8447af5549e1e1a63d8e852d5c4f8c6285cda911e5d27

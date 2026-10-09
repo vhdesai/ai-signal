@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
+- 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
 - 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-- 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
 embedding_id: 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
 event_name: ''
 ---
@@ -43,5 +43,5 @@ TechCrunch analyzes $26B+ in open-weight deals in three weeks: Nvidia–Hugging 
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]] · [[2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a]]
+**Related:** [[2026-08-28-open-weight-ai-companies-become-major-acquisition-targets]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and]] · [[2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls]] · [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo]]
 <!-- graph:end -->

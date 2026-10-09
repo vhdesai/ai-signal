@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an
+- 2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 - 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
 - 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
-- 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI startup Hark launched its first product, Handoff, a computer-use agent positi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
+**Related:** [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an]] · [[2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant]] · [[2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp]] · [[2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]]
 <!-- graph:end -->

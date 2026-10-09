@@ -4,8 +4,8 @@ title: Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Ki
 date: '2026-10-06'
 source: TIKR / NYT / AI Magazine
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-backed-reflection-ai-launches-132327179.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: a970cc37f1c58ef9df23df7a1accc9b5635d6ff08b40f06c8cad54da7d006e58

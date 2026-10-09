@@ -4,8 +4,8 @@ title: Managing AI agents is becoming a new labor burden
 date: '2026-10-06'
 source: Business Insider / CIO Dive
 url_original: null
-url_canonical: https://www.businessinsider.com/ai-agents-managing-more-annoying-managing-people-2026-10
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 7f96f156045d64f284230cedd7fd15be5bc446cec97cc497b7c116f1cef9312c

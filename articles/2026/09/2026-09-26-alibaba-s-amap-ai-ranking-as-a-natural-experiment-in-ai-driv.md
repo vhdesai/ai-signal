@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
+- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
-- 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 embedding_id: 2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Amap case is also being read academically as one of the first at-scale natur
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in]] · [[2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]]
+**Related:** [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]]
 <!-- graph:end -->

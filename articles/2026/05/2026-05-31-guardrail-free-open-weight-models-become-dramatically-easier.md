@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
+- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Open-weight models with capabilities close to proprietary frontier systems — f
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
+- 2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
-- 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 embedding_id: 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A technical walkthrough of the Massive Sound Embedding Benchmark released by Goo
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific]]
+**Related:** [[2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
 <!-- graph:end -->

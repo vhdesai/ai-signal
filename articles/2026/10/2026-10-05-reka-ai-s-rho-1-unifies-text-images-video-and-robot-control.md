@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 - 2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod
 - 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
-- 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 embedding_id: 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Reka introduced Rho-1, a 19B-parameter omni-model that processes and generates t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]] · [[2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f]]
+**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]]
 <!-- graph:end -->

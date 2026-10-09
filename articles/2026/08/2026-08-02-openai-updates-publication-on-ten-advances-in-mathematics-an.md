@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
-- 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
+- 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 embedding_id: 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's publication on ten advances in mathematics and theoretical computer sci
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research]]
+**Related:** [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]]
 <!-- graph:end -->

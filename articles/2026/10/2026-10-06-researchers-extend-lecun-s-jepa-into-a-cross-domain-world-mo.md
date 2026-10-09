@@ -5,8 +5,8 @@ title: Researchers extend LeCun's JEPA into a cross-domain world model from robo
 date: '2026-10-06'
 source: The Decoder
 url_original: null
-url_canonical: https://qevos.ai/blog/en/2026-05-14-lecun-world-model-lewm.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_061014_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: df33726c773f1754350ea8189020ab4c3c006d2294ff7b945bf5a2c87a6e6a42

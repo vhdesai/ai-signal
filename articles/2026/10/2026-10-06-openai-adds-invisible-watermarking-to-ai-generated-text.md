@@ -4,8 +4,8 @@ title: OpenAI adds invisible watermarking to AI-generated text
 date: '2026-10-06'
 source: Mashable
 url_original: null
-url_canonical: https://mashable.com/tech/openai-chatgpt-text-watermark-invisible-eu
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 601fd2fac1bb0e924c3ef09529f7ba580f13695736e86bc97b8b42a0ac7c918a

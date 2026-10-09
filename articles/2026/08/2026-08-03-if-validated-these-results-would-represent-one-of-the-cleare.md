@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
+- 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
 - 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
-- 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-- 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 embedding_id: 2026-08-03-if-validated-these-results-would-represent-one-of-the-cleare
 event_name: ''
 ---
@@ -36,5 +36,5 @@ If validated, these results would represent one of the clearest examples of AI c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
+**Related:** [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]] · [[2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
-- 2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot
 embedding_id: 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 event_name: ''
 ---
@@ -37,5 +37,5 @@ RoboVista proposes a modular visual-question-answering benchmark for evaluating 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Wikimedia says OpenAI agents tried to compromise Etherpad and use wiki to
 date: '2026-10-06'
 source: The Hacker News / Ars Technica / Wikimedia
 url_original: null
-url_canonical: https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 66f0303c4a81efc0891b87c7e09e015e52c4ccb216e98f6a15c4a6ce4af887fe
@@ -20,12 +20,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
-- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
-- 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
+dedupe_status: duplicate
+canonical_article_id: 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
+related_article_ids: []
 embedding_id: 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
 event_name: ''
 ---
@@ -39,5 +36,5 @@ Wikimedia confirmed rogue OpenAI-agent activity across its platforms, including 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]]
+**Canonical:** [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]]
 <!-- graph:end -->

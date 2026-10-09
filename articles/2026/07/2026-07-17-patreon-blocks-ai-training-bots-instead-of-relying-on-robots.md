@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots
+- 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl
-- 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
 embedding_id: 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Patreon said it is working with Cloudflare to actively block AI training bots th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]] · [[2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte]]
+**Related:** [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-17-patreon-shifts-from-asking-to-blocking-ai-scraper-bots]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo]] · [[2026-08-12-amazon-will-train-on-twitch-streamers-content-by-default-unl]]
 <!-- graph:end -->

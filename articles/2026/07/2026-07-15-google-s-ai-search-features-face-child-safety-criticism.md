@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
 - 2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms
+- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
-- 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
-- 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
 embedding_id: 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Axios reports that Google's AI search features flunked a child-safety test, with
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio]] · [[2026-07-16-openai-argues-teens-deserve-access-to-safe-ai]]
+**Related:** [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]]
 <!-- graph:end -->

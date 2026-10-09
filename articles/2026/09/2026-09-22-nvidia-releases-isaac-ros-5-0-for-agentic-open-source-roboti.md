@@ -38,6 +38,7 @@ related_article_ids:
 - 2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
+- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 embedding_id: 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
 event_name: ''
 ---
@@ -51,5 +52,5 @@ NVIDIA released Isaac ROS 5.0, advancing agentic capabilities in its open-source
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]]
+**Related:** [[2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra]] · [[2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
 <!-- graph:end -->

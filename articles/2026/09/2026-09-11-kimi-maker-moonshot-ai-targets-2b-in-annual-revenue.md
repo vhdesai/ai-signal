@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 embedding_id: 2026-09-11-kimi-maker-moonshot-ai-targets-2b-in-annual-revenue
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Moonshot is guiding to roughly $2 billion in annualized sales for 2026 on the ba
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]]
+**Related:** [[2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months]] · [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]]
 <!-- graph:end -->

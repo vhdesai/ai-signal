@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-- 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
 embedding_id: 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published an explainer on the design philosophy behind its Model Spec, th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]] · [[2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz]]
+**Related:** [[2026-09-04-techcrunch-reports-that-independent-researchers-found-agents]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy]] · [[2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six]]
 <!-- graph:end -->

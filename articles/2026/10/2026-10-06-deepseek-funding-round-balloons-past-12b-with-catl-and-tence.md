@@ -4,8 +4,8 @@ title: DeepSeek funding round balloons past $12B with CATL and Tencent backing
 date: '2026-10-06'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_061014_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: 07d5bedf1f2d81d8ea4e281d5ec712cb303594deda8cf9b4d1550295fbaaeb78

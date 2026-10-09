@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
+- 2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 embedding_id: 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Binance launched Agent OS, allowing AI agents built with ChatGPT, Claude Code, a
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
+**Related:** [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
 <!-- graph:end -->

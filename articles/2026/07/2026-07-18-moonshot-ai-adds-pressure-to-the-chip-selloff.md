@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-- 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 embedding_id: 2026-07-18-moonshot-ai-adds-pressure-to-the-chip-selloff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports that Moonshot AI's model release added fuel to Wall Street's chip se
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-26-making-sense-of-the-panic-over-chinese-ai]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
+**Related:** [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests]] · [[2026-07-26-making-sense-of-the-panic-over-chinese-ai]] · [[2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk]] · [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]]
 <!-- graph:end -->

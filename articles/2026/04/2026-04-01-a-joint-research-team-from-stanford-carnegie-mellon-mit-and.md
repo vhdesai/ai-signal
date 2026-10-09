@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 - 2026-04-02-research-breakthroughs
+- 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 embedding_id: 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A joint research team from Stanford, Carnegie Mellon, MIT, and the University of
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
+**Related:** [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]] · [[2026-04-02-research-breakthroughs]] · [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

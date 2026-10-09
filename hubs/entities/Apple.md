@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 452
+member_count: 453
 ---
 
 # Apple
 
-> Auto-generated entity hub. 452 connected article(s).
+> Auto-generated entity hub. 453 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-04` [[2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo|Google's bug-bounty pause highlights automated-report overload]]
 - `2026-10-02` [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us|Stanford: China's AI talent pipeline may eclipse the US]]

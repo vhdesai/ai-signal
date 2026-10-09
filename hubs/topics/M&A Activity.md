@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 503
+member_count: 505
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 503 connected article(s).
+> Auto-generated topic hub. 505 connected article(s).
 
+- `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
+- `2026-10-07` [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio|Automation Anywhere acquires Boost.ai, connecting conversational AI to workflow execution]]
 - `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]
 - `2026-10-05` [[2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen|AMD's $8.2B World Labs deal puts a price on world-model talent]]
 - `2026-10-01` [[2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo|Tencent Leases 100,000 AI Chips From Oracle in a $7B Deal — Reopens the "China Buys US Compute via Lease" Workaround]]

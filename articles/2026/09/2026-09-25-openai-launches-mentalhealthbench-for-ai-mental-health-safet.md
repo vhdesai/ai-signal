@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
+- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 embedding_id: 2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet
 event_name: ''
 ---
@@ -38,5 +38,5 @@ EdTech Innovation Hub reports OpenAI launched MentalHealthBench, a benchmark spe
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]]
 <!-- graph:end -->

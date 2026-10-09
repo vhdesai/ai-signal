@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
+- 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards
-- 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic delivered a closed-door briefing to a G20 working group on frontier-mo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]]
+**Related:** [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards]]
 <!-- graph:end -->

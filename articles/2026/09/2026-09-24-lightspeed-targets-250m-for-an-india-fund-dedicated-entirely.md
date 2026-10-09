@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
-- 2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure
 embedding_id: 2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Lightspeed is raising Lightspeed India Partners V at a $250 million target — h
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]]
 <!-- graph:end -->

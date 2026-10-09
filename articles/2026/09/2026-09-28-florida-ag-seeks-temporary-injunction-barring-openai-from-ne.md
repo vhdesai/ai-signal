@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model
 - 2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
+- 2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
-- 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 embedding_id: 2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Attorney General James Uthmeier filed a motion for temporary injunction in Flori
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
+**Related:** [[2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]]
 <!-- graph:end -->

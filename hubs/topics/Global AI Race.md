@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1579
+member_count: 1591
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1579 connected article(s).
+> Auto-generated topic hub. 1591 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-us-risks-ceding-ai-governance-leadership-to-china-and-the-eu|US risks ceding AI governance leadership to China and the EU, SCMP opinion argues]]
+- `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]
+- `2026-10-07` [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei|Mistral Large 4 coverage expands: Europe's strongest open-weight frontier contender]]
+- `2026-10-07` [[2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests|China’s AI leaders prepare for public-market tests]]
+- `2026-10-07` [[2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir|China's open-weight models are winning global users — but third parties may capture the value]]
+- `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode|South Korea commits $3.49B to build a homegrown frontier model]]
@@ -15,7 +24,10 @@ member_count: 1579
 - `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda|Mistral releases Mistral Large 4, a 1.05T-parameter multimodal MoE]]
+- `2026-10-06` [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight|Mistral previews Large 4, adding pressure to the open-weight frontier race]]
 - `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us|Mistral Large 4 is Europe's trillion-parameter answer to US and Chinese models]]
 - `2026-10-06` [[2026-10-06-hong-kong-s-hermitage-capital-keeps-1-5b-frontier-tech-war-c|Hong Kong's Hermitage Capital keeps $1.5B frontier-tech war chest pointed at AI, semis, robotics]]
 - `2026-10-06` [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks|Hackers use Chinese AI tool to hit South Korean banks]]
 - `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai
+- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m
-- 2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on
 embedding_id: 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced the formation of an independent Advisory Group on Mathematics a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m]] · [[2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on]]
+**Related:** [[2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]] · [[2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m]]
 <!-- graph:end -->

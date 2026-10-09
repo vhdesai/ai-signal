@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age
+- 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 embedding_id: 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Vint Cerf is advising Innovation Labs, an Identity Digital subsidiary proposing 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]]
+**Related:** [[2026-07-15-vint-cerf-backs-identity-standards-for-internet-scale-ai-age]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

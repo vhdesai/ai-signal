@@ -4,8 +4,8 @@ title: China struggles to recruit foreign AI researchers in race with the US
 date: '2026-10-06'
 source: York Times
 url_original: null
-url_canonical: https://cryptobriefing.com/china-struggles-recruit-foreign-ai-researchers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 3530b1dc0cc5aadf9b0fad2feeae9b0dd7717e25073f433679e04aeb0a94f9a9

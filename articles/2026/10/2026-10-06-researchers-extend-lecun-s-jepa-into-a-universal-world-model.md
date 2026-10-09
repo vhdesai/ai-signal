@@ -5,8 +5,8 @@ title: Researchers extend LeCun’s JEPA into a universal world model across phy
 date: '2026-10-06'
 source: The Decoder
 url_original: null
-url_canonical: https://aicassindra.com/research/2026/09/22/trend-watch-jepa-world-models-lecun-leworldmodel.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 303dc76bbc10051fd8263baa7ad0a59635f1e2a9ae58dc95858d1c0a6f46e047

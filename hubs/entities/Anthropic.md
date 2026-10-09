@@ -1,19 +1,28 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2346
+member_count: 2355
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2346 connected article(s).
+> Auto-generated entity hub. 2355 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i|Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence era]]
+- `2026-10-07` [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted|Anthropic widens access to AI cyber capabilities for vetted security teams]]
+- `2026-10-07` [[2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau|Anthropic expands cyber-verification program with fewer Claude safety restrictions]]
+- `2026-10-07` [[2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu|Anthropic and AWS formalize the forward-deployed-engineer push]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law|OpenAI and Anthropic back mandatory AI breach-disclosure laws in Australia]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
 - `2026-10-06` [[2026-10-06-new-york-lawmakers-grill-openai-anthropic-google-and-meta-ex|New York lawmakers grill OpenAI, Anthropic, Google and Meta executives over AI safety]]
+- `2026-10-06` [[2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on|Claude moves into Google Workspace as assistants converge on the work surface]]
+- `2026-10-06` [[2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00|Anthropic gives startups a free year of Claude Team and $1,000 in credits]]
+- `2026-10-06` [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili|Anthropic expands verified access to advanced cyber capabilities]]
 - `2026-10-05` [[2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese|Sam Altman says society should accept some AI harms to preserve broad access]]
 - `2026-10-05` [[2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath|NYC Council puts Anthropic, OpenAI, Google, and Meta under oath on AI risks]]
 - `2026-10-05` [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become|Meta and Microsoft pull back from Claude as Anthropic becomes a competitor]]

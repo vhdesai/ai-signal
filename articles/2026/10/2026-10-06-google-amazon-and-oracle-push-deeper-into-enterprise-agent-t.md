@@ -4,8 +4,8 @@ title: Google, Amazon and Oracle push deeper into enterprise-agent tooling
 date: '2026-10-06'
 source: Network World / Techloy / Oracle Blogs
 url_original: null
-url_canonical: https://cloud.google.com/blog/topics/partners/the-foundation-for-the-agentic-enterprise-built-with-oracle-database-at-google-cloud
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_081006_Inbox_Fw Daily AI News Digest - October
   6, 2026.md
 content_hash: 241a2a0ff5b7d34c7ec8b1eb55246e635c6d422b10c66986a3c78822461ddf39

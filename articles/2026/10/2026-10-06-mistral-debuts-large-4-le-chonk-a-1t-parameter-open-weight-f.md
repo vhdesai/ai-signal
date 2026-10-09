@@ -25,10 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
+- 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
+- 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
+- 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
-- 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-- 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-- 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 embedding_id: 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Mistral unveiled Large 4, nicknamed “Le Chonk,” a one-trillion-parameter tex
 
 **Entities:** [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]]
+**Related:** [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]] · [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]]
 <!-- graph:end -->

@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 embedding_id: 2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr
 event_name: ''
 ---
@@ -39,5 +40,5 @@ CEO Daisuke Okanohara said the Japanese AI startup is pursuing a public listing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail]]
+**Related:** [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]]
 <!-- graph:end -->

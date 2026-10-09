@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
-- 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 embedding_id: 2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX shares dropped 13% after earnings disclosed AI-related capital spending r
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]]
+**Related:** [[2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m]] · [[2026-08-14-nvidia-s-13f-reveals-21b-spacex-and-30b-intel-equity-positio]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]]
 <!-- graph:end -->

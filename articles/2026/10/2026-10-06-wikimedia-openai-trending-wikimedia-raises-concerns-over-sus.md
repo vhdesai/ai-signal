@@ -5,8 +5,8 @@ title: Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected Open
 date: '2026-10-06'
 source: 1:46 AM EDT · The Independent via Yahoo
 url_original: null
-url_canonical: https://www.techtimes.com/articles/328614/20261006/wikimedia-investigates-openai-agent-activity-ai-scraping-intensifies.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-06_060331_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: a93b39969c2f592611a8fcbcca2a61e904d3ef2449d46562ba758dc977529dfb
@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 - 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
-- 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
+- 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
 embedding_id: 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Wikimedia attributes unauthorized edits and heavy traffic to suspected OpenAI ag
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]]
 <!-- graph:end -->

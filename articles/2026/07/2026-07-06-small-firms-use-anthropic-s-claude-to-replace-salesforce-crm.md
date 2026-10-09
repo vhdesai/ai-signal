@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
-- 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
+- 2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs
 embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Greenleaf Management, an Atlanta-based real estate property and investment manag
 **Entities:** [[Anthropic]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]]
-**Related:** [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]]
+**Related:** [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become]] · [[2026-09-01-salesforce-puts-its-entire-crm-inside-claude]] · [[2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin]] · [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs]]
 <!-- graph:end -->

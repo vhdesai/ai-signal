@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
+- 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
-- 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 embedding_id: 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive reported that executives and employees are clashing over AI usage polic
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

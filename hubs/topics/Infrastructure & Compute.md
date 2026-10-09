@@ -1,14 +1,29 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2111
+member_count: 2126
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2111 connected article(s).
+> Auto-generated topic hub. 2126 connected article(s).
 
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
+- `2026-10-07` [[2026-10-07-national-compute-grid-proposal-targets-idle-ai-capacity|National Compute Grid proposal targets idle AI capacity]]
+- `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
+- `2026-10-06` [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa|Websites are starting to block AI agents; a new access standard is emerging]]
+- `2026-10-06` [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista|Underdog launches as an on-device, privacy-focused AI assistant]]
 - `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
+- `2026-10-06` [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on|Nvidia says telecom operators are building AI strategies on open models]]
+- `2026-10-06` [[2026-10-06-nokia-ceo-says-data-centers-would-be-built-twice-as-fast-wit|Nokia CEO says data centers would be built twice as fast without supply constraints]]
+- `2026-10-06` [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda|Mistral releases Mistral Large 4, a 1.05T-parameter multimodal MoE]]
+- `2026-10-06` [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs|Microsoft tries to help Copilot customers cut Claude costs]]
+- `2026-10-06` [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca|MIT researchers document the evolving AI accelerator landscape]]
+- `2026-10-06` [[2026-10-06-libreoffice-says-no-ai-is-now-a-software-feature|LibreOffice says "no AI" is now a software feature]]
+- `2026-10-06` [[2026-10-06-lambda-seeks-a-4b-round-before-a-planned-ipo-keeping-neoclou|Lambda seeks a $4B round before a planned IPO, keeping neocloud financing in focus]]
+- `2026-10-06` [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an|Hark releases an AI personal assistant focused on privacy and computer use]]
+- `2026-10-06` [[2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides|Claude can now open and edit Google Docs, Sheets, and Slides]]
 - `2026-10-06` [[2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition|China says "model fatigue" is becoming the next AI competition challenge]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu|Yandex introduces Sona, a generative recommender replacing multi-stage recommendation stacks]]

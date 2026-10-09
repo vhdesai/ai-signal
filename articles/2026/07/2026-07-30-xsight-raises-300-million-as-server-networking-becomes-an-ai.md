@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
 - 2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
+- 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
-- 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 embedding_id: 2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reported that the server-networking boom drove a $300 million fu
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
+**Related:** [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-08-22-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
 <!-- graph:end -->

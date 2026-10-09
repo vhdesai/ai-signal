@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-- 2026-07-13-launch-open-source
 embedding_id: 2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a Deutsche Telekom case study showing how a large telecommunica
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-07-13-launch-open-source]]
+**Related:** [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-nokia-and-nvidia-unveil-the-first-commercial-ai-ran-platform
+- 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
-- 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 embedding_id: 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nokia and NVIDIA unveiled a commercial AI-RAN platform that runs radio-access ne
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-16-nokia-and-nvidia-unveil-the-first-commercial-ai-ran-platform]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]]
+**Related:** [[2026-07-16-nokia-and-nvidia-unveil-the-first-commercial-ai-ran-platform]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus]]
 <!-- graph:end -->

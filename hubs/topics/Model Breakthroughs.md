@@ -1,24 +1,59 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3350
+member_count: 3386
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3350 connected article(s).
+> Auto-generated topic hub. 3386 connected article(s).
 
+- `2026-10-07` [[2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel|Zuckerberg Biohub, US partners and Google build a virtual cell]]
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]
+- `2026-10-07` [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob|OpenAI says an unreleased model solved hundreds of math problems]]
+- `2026-10-07` [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with|OpenAI publishes 372 AI-generated mathematical results with Lean formalizations]]
+- `2026-10-07` [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei|Mistral Large 4 coverage expands: Europe's strongest open-weight frontier contender]]
+- `2026-10-07` [[2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty|MIT advances collision-free drone planning under uncertainty]]
+- `2026-10-07` [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i|Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence era]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
+- `2026-10-06` [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista|Underdog launches as an on-device, privacy-focused AI assistant]]
 - `2026-10-06` [[2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho|UC Berkeley placed a $6M order with Bruker, according to AD HOC News, adding advanced instrumentation capacity for university research. While the item is not an AI model announcement, the equipment layer matters for AI-assisted science workflows: better experimental data pipelines directly improve model-grounded discovery. It also reflects continued investment in university research infrastructure even as AI funding skews toward industry labs.]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
+- `2026-10-06` [[2026-10-06-stanford-highlights-reasoning-memory-and-coding-research-at|Stanford highlights reasoning, memory and coding research at COLM]]
 - `2026-10-06` [[2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo|Researchers extend LeCun's JEPA into a cross-domain world model from robotics to biomedicine]]
+- `2026-10-06` [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima|Reka releases Rho-1, a 19B omni-reasoning model for video, images, text, and robot actions]]
 - `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
+- `2026-10-06` [[2026-10-06-pinterest-turns-beauty-pins-into-action-plans|Pinterest turns beauty Pins into action plans]]
+- `2026-10-06` [[2026-10-06-openai-shares-new-ai-progress-in-mathematics|OpenAI shares new AI progress in mathematics]]
+- `2026-10-06` [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac|OpenAI publishes AI-generated mathematics with proof artifacts]]
+- `2026-10-06` [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut|OpenAI publishes AI-generated mathematics for external scrutiny]]
+- `2026-10-06` [[2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for|OpenAI and Ironclad publish work on computer-use agents for contracting workflows]]
 - `2026-10-06` [[2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text|OpenAI adds invisible watermarking to AI-generated text]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on|Nvidia says telecom operators are building AI strategies on open models]]
+- `2026-10-06` [[2026-10-06-musubi-releases-policylm-1-7b-for-real-time-content-moderati|Musubi releases PolicyLM-1.7B for real-time content moderation]]
+- `2026-10-06` [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda|Mistral releases Mistral Large 4, a 1.05T-parameter multimodal MoE]]
+- `2026-10-06` [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight|Mistral previews Large 4, adding pressure to the open-weight frontier race]]
 - `2026-10-06` [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f|Mistral debuts Large 4 “Le Chonk,” a 1T-parameter open-weight frontier model]]
+- `2026-10-06` [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us|Mistral Large 4 is Europe's trillion-parameter answer to US and Chinese models]]
+- `2026-10-06` [[2026-10-06-mirror-particle-is-building-a-world-model-of-human-behavior|Mirror Particle is building a world model of human behavior]]
 - `2026-10-06` [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden|Managing AI agents is becoming a new labor burden]]
+- `2026-10-06` [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape|MIT updates its view of the AI accelerator landscape]]
+- `2026-10-06` [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca|MIT researchers document the evolving AI accelerator landscape]]
+- `2026-10-06` [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an|Hark releases an AI personal assistant focused on privacy and computer use]]
+- `2026-10-06` [[2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant|Hark launches a privacy-focused personal AI assistant]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]
+- `2026-10-06` [[2026-10-06-google-s-nano-banana-2-1-improves-image-generation-economics|Google's Nano Banana 2.1 improves image generation economics]]
+- `2026-10-06` [[2026-10-06-google-releases-embeddinggemma-2-a-lightweight-multimodal-em|Google releases EmbeddingGemma 2, a lightweight multimodal embedding model]]
+- `2026-10-06` [[2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval|Google expands Gemma into multimodal on-device retrieval]]
+- `2026-10-06` [[2026-10-06-google-deepmind-releases-embeddinggemma-2-a-740m-multimodal|Google DeepMind releases EmbeddingGemma 2, a 740M multimodal embedding model]]
+- `2026-10-06` [[2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices|EmbeddingGemma 2 brings multimodal retrieval to devices]]
+- `2026-10-06` [[2026-10-06-claude-enters-google-docs-sheets-and-slides|Claude enters Google Docs, Sheets and Slides]]
+- `2026-10-06` [[2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides|Claude can now open and edit Google Docs, Sheets, and Slides]]
+- `2026-10-06` [[2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k|Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]
 - `2026-10-06` [[2026-10-06-amd-plans-more-taiwan-investment-and-a-larger-2027-supply-ra|AMD plans more Taiwan investment and a larger 2027 supply ramp]]
 - `2026-10-05` [[2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace|Yandex introduces Sona, a generative recommender that replaces the recommendation cascade]]
 - `2026-10-05` [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity|Wikimedia reports unauthorized OpenAI-agent activity]]
@@ -39,6 +74,7 @@ member_count: 3350
 - `2026-10-05` [[2026-10-05-lina-khan-says-ai-companies-are-replaying-big-tech-s-old-pla|Lina Khan says AI companies are replaying Big Tech's old platform playbook]]
 - `2026-10-05` [[2026-10-05-huawei-qualcomm-new-huawei-and-qualcomm-sign-broad-patent-ag|Huawei / Qualcomm New Huawei and Qualcomm sign broad patent agreement]]
 - `2026-10-05` [[2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep|Hirundo releases a "westernized Qwen" while Reflection AI prepares a US open-weight challenger]]
+- `2026-10-05` [[2026-10-05-hackerrank-s-ai-interviewer-has-conducted-more-than-500-000|HackerRank's AI interviewer has conducted more than 500,000 interviews]]
 - `2026-10-05` [[2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers|Google puts AI chips in space to test orbital data centers]]
 - `2026-10-05` [[2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica|Cornell funds AI-safety evaluation and mathematical verification work]]
 - `2026-10-05` [[2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c|Cohere launches North 2 with memory, orchestration and cost controls for enterprise agents]]

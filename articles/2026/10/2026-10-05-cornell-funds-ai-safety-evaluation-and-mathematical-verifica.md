@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
-- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 embedding_id: 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cornell announced grants for evaluating model values and improving AI-assisted m
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]]
+**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh]]
 <!-- graph:end -->

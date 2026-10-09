@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 - 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 - 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
+- 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-- 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 embedding_id: 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mistral AI released Mistral Medium 3.5 on April 29 as an open-source model with 
 
 **Entities:** [[Alibaba]] · [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]] · [[2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]]
+**Related:** [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]] · [[2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
 <!-- graph:end -->

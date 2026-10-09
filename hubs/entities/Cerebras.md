@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 193
+member_count: 194
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 193 connected article(s).
+> Auto-generated entity hub. 194 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-05` [[2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei|Nvidia chases records, Cerebras rebounds and Qualcomm-Huawei patent deal keeps AI hardware geopolitics tangled]]
 - `2026-10-05` [[2026-10-05-cerebras-gains-after-renewed-partnership-endorsement|Cerebras gains after renewed partnership endorsement]]

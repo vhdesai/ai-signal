@@ -1,18 +1,27 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1637
+member_count: 1646
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1637 connected article(s).
+> Auto-generated entity hub. 1646 connected article(s).
 
+- `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
+- `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and|Nvidia’s AI dealmaking expands from chips into the model and application ecosystem]]
+- `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
+- `2026-10-07` [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto|Microsoft and Nvidia CEOs to unveil AI-powered Surface Laptop Ultra]]
+- `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built|Reflection debuts Beam, the strongest open-weight model built outside China]]
 - `2026-10-06` [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de|Nvidia-backed Reflection AI launches Beam to compete with DeepSeek and Kimi]]
+- `2026-10-06` [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on|Nvidia says telecom operators are building AI strategies on open models]]
 - `2026-10-06` [[2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo|Nvidia heads toward $6T while OpenAI and Anthropic face customer price pressure]]
+- `2026-10-06` [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda|Mistral releases Mistral Large 4, a 1.05T-parameter multimodal MoE]]
+- `2026-10-06` [[2026-10-06-lambda-seeks-up-to-4b-ahead-of-planned-2027-ipo|Lambda seeks up to $4B ahead of planned 2027 IPO]]
 - `2026-10-05` [[2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua|Nvidia's neocloud financing strategy runs through Jensen Huang's son-in-law]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen|Nvidia highlights AI startups targeting breast-cancer screening and treatment gaps]]
 - `2026-10-05` [[2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin|Nvidia highlights AI startups closing breast-cancer screening and treatment gaps]]

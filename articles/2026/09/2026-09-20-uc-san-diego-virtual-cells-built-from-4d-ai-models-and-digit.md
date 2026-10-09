@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel
 - 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
 - 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
-- 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
 embedding_id: 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Schöneberg lab published two companion papers in Cell describing “virtual
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and]]
+**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel]] · [[2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]]
 <!-- graph:end -->

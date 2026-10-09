@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it
+- 2026-10-07-chatgpt-rated-unacceptable-risk-for-teens-after-parental-ale
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
 - 2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r
-- 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 embedding_id: 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta announced parental notifications for cases where teens show signs of distre
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]]
+**Related:** [[2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it]] · [[2026-10-07-chatgpt-rated-unacceptable-risk-for-teens-after-parental-ale]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]]
 <!-- graph:end -->
