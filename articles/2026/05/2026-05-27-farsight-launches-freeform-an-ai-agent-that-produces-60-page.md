@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
+- 2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp
 embedding_id: 2026-05-27-farsight-launches-freeform-an-ai-agent-that-produces-60-page
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Investment-banking-tooling vendor Farsight launched Freeform, an autonomous agen
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]]
+**Related:** [[2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp]]
 <!-- graph:end -->

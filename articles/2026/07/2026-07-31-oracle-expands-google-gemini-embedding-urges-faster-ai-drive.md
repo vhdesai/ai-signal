@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
-- 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
+- 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 embedding_id: 2026-07-31-oracle-expands-google-gemini-embedding-urges-faster-ai-drive
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysts detailed Oracle's expanded deal to embed Google's Gemini across Fusion 
 
 **Entities:** [[Google]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash]]
+**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]]
 <!-- graph:end -->

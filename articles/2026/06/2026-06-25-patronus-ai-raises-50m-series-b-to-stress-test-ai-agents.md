@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 - 2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in
+- 2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta
 - 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
-- 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
 embedding_id: 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Patronus AI, founded by former Meta researchers Anand Kannappan and Rebecca Qian
 
 **Entities:** [[Meta]] · [[Samsung]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]]
+**Related:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta]] · [[2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]]
 <!-- graph:end -->

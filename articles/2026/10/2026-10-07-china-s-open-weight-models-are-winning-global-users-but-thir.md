@@ -5,8 +5,8 @@ title: China's open-weight models are winning global users — but third parties
 date: '2026-10-07'
 source: South China Morning Post
 url_original: null
-url_canonical: https://www.msn.com/en-xl/money/general/china-s-open-weight-ai-models-are-winning-global-users-who-is-capturing-the-value/ar-AA2dJZaz
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_060910_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 38d5e121c2fcb27f7669ae595fb908cb822736af9c5049b09ebb4c231ecc7671

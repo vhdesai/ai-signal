@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-tests-letting-gemini-call-businesses-for-users
 - 2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on
+- 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
+- 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 - 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
-- 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
-- 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 embedding_id: 2026-09-25-google-tests-letting-gemini-call-businesses-for-users
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported that Google is testing a Gemini feature that can call busine
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on]] · [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]] · [[2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe]]
+**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]] · [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h]]
 <!-- graph:end -->

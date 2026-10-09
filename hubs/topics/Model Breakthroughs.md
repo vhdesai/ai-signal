@@ -1,13 +1,26 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3386
+member_count: 3399
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3386 connected article(s).
+> Auto-generated topic hub. 3399 connected article(s).
 
+- `2026-10-09` [[2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x|The Information: China's AI model race gets more crowded as Xiaomi, Meituan and miHoYo build LLMs]]
+- `2026-10-09` [[2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie|Stanford opened predoctoral research fellowship opportunities across economics, AI, health and climate. The announcement is another indicator that top universities are expanding structured predoctoral pipelines in AI-adjacent fields. Talent formation remains one of the most important long-term constraints in the AI ecosystem.]]
+- `2026-10-09` [[2026-10-09-microsoft-turns-dynamics-365-into-ambient-crm-and-adds-stron|Microsoft turns Dynamics 365 into ambient CRM and adds stronger Windows agent guardrails]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
+- `2026-10-09` [[2026-10-09-claude-science-creates-first-complete-ultraviolet-map-of-the|Claude Science creates first complete ultraviolet map of the sky]]
+- `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr|Mathematicians call for OpenAI boycott after AI-generated proof flood]]
+- `2026-10-08` [[2026-10-08-google-releases-a-new-local-first-granola-competitor|Google releases a new local-first Granola competitor]]
+- `2026-10-08` [[2026-10-08-georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-st|Georgia Tech and Emory Invest More Than $1B in AI to Drive State’s Jobs, Economic Growth]]
+- `2026-10-08` [[2026-10-08-claude-haiku-5-5-launches-with-up-to-90-token-price-cuts|Claude Haiku 5.5 launches with up to 90% token-price cuts]]
 - `2026-10-07` [[2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel|Zuckerberg Biohub, US partners and Google build a virtual cell]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]

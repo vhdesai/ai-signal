@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
 - 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
-- 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
 embedding_id: 2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft and Nvidia are reportedly teaming up for an AI-powered Surface Laptop 
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]] · [[2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager]]
+**Related:** [[2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]]
 <!-- graph:end -->

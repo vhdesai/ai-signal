@@ -4,8 +4,8 @@ title: Anthropic expands cyber-verification program with fewer Claude safety res
 date: '2026-10-07'
 source: The Decoder
 url_original: null
-url_canonical: https://www.anthropic.com/news/cyber-verification-program
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_060910_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 4d11950b78bda03654635fe5bf57c2bcf71ea2ad395e9b550072bc398f9044ce

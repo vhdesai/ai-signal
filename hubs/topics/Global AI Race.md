@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1591
+member_count: 1599
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1591 connected article(s).
+> Auto-generated topic hub. 1599 connected article(s).
 
+- `2026-10-09` [[2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x|The Information: China's AI model race gets more crowded as Xiaomi, Meituan and miHoYo build LLMs]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
+- `2026-10-09` [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us|Chinese optical-chip stocks sell off on fears of possible US curbs]]
+- `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
+- `2026-10-08` [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50|Alibaba's AI cloud revenue set to surge more than 50%]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-us-risks-ceding-ai-governance-leadership-to-china-and-the-eu|US risks ceding AI governance leadership to China and the EU, SCMP opinion argues]]
 - `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]

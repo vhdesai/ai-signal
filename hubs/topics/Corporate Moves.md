@@ -1,13 +1,37 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4806
+member_count: 4830
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4806 connected article(s).
+> Auto-generated topic hub. 4830 connected article(s).
 
+- `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
+- `2026-10-09` [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation|Isomorphic Labs reportedly seeks funding at a $40B valuation]]
+- `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project|OpenAI's revenue reportedly comes in $20B below prior projection]]
+- `2026-10-08` [[2026-10-08-openai-s-math-solutions-aren-t-meeting-the-field-s-standards|OpenAI's math solutions aren't meeting the field's standards yet]]
+- `2026-10-08` [[2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report]]
+- `2026-10-08` [[2026-10-08-nvidia-commits-1-billion-to-advance-us-science-over-the-next|NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years]]
+- `2026-10-08` [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp|Google releases local-first AI Edge Foresight, a Granola competitor]]
+- `2026-10-08` [[2026-10-08-google-releases-a-new-local-first-granola-competitor|Google releases a new local-first Granola competitor]]
+- `2026-10-08` [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses|Google brings agentic AI to Gemini, starting with businesses]]
+- `2026-10-08` [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses|Google brings agentic AI to Gemini for businesses]]
+- `2026-10-08` [[2026-10-08-goodfire-launches-model-internal-safety-monitors-through-bas|Goodfire launches model-internal safety monitors through Baseten]]
+- `2026-10-08` [[2026-10-08-georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-st|Georgia Tech and Emory Invest More Than $1B in AI to Drive State’s Jobs, Economic Growth]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-wa|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect]]
+- `2026-10-08` [[2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature|Claude adds text-to-dashboard and text-to-video beta features]]
+- `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
+- `2026-10-08` [[2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation|Arena raises $200 million at a $3.1 billion valuation]]
+- `2026-10-08` [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50|Alibaba's AI cloud revenue set to surge more than 50%]]
+- `2026-10-08` [[2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation|AI leaderboard Arena nearly doubles to $3.1B valuation]]
+- `2026-10-08` [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-2026-usage-policy-update|2026 Usage Policy update]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ
 - 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
+- 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-- 2026-07-31-oracle-expands-google-gemini-embedding-urges-faster-ai-drive
 embedding_id: 2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet expanded Gemini Enterprise on Tuesday with new tooling aimed specifical
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-07-31-oracle-expands-google-gemini-embedding-urges-faster-ai-drive]]
+**Related:** [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]]
 <!-- graph:end -->

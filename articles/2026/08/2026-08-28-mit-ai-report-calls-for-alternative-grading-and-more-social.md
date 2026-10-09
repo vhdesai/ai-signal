@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
+- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 event_name: ''
 ---
@@ -59,5 +59,5 @@ An MIT student, faculty, and staff committee released a report concluding that A
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research]]
 <!-- graph:end -->

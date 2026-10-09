@@ -5,8 +5,8 @@ title: Military AI worries and self-built watchdogs keep frontier governance und
 date: '2026-10-07'
 source: Fortune / NBC News
 url_original: null
-url_canonical: https://uk.news.yahoo.com/assault-oversight-hegseth-overhaul-military-101449168.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: 5d4f11a8ddd6ab651d72b0d7feeafd80aaa01cbb9be19e2890c729b63d9adc07

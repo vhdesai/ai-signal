@@ -1,15 +1,22 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1003
+member_count: 1010
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1003 connected article(s).
+> Auto-generated entity hub. 1010 connected article(s).
 
+- `2026-10-09` [[2026-10-09-microsoft-turns-dynamics-365-into-ambient-crm-and-adds-stron|Microsoft turns Dynamics 365 into ambient CRM and adds stronger Windows agent guardrails]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-wa|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
+- `2026-10-07` [[2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows|Microsoft releases Nvidia-chip AI PCs with revamped Windows 11]]
 - `2026-10-07` [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto|Microsoft and Nvidia CEOs to unveil AI-powered Surface Laptop Ultra]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre|The Information: Workday customers use external AI agents, pressuring SaaS growth]]

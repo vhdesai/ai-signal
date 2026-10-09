@@ -4,8 +4,8 @@ title: Zuckerberg Biohub, US partners and Google build a virtual cell
 date: '2026-10-07'
 source: Axios
 url_original: null
-url_canonical: https://cryptobriefing.com/biohub-google-us-universal-virtual-cell/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: d48d1f1168b579904d14b97fcfef6ccd6abb261017c5d1d58f6d924707f0a794

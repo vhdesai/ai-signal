@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1786
+member_count: 1792
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1786 connected article(s).
+> Auto-generated topic hub. 1792 connected article(s).
 
+- `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-08` [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project|OpenAI's revenue reportedly comes in $20B below prior projection]]
+- `2026-10-08` [[2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation|AI leaderboard Arena nearly doubles to $3.1B valuation]]
 - `2026-10-07` [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and|Nvidia’s AI dealmaking expands from chips into the model and application ecosystem]]
 - `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on|Nvidia says telecom operators are building AI strategies on open models]]

@@ -4,8 +4,8 @@ title: OpenAI's new personal agent shows ambition — and uncomfortable attachme
 date: '2026-10-07'
 source: WIRED / Business Insider
 url_original: null
-url_canonical: https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: 6493adc7ed80101344ac797f897e707f2894e8d6a07a2e0f30ff95db331f8e50

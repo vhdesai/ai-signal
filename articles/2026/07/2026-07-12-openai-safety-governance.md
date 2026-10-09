@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
-- 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement
+- 2026-10-09-openai-fires-three-safety-researchers-former-employees-press
 embedding_id: 2026-07-12-openai-safety-governance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Business Insider reports that leaders responsible for AI safety at OpenAI contin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement]]
+**Related:** [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining]] · [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]]
 <!-- graph:end -->

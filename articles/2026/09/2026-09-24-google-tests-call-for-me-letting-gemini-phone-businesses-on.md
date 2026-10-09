@@ -23,7 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-google-tests-letting-gemini-call-businesses-for-users
 - 2026-09-25-google-tests-letting-gemini-call-businesses-for-users
-- 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
+- 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
+- 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 embedding_id: 2026-09-24-google-tests-call-for-me-letting-gemini-phone-businesses-on
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google is piloting an outbound-phone agent that has Gemini dial local businesses
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-25-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice]]
+**Related:** [[2026-09-24-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-09-25-google-tests-letting-gemini-call-businesses-for-users]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]]
 <!-- graph:end -->

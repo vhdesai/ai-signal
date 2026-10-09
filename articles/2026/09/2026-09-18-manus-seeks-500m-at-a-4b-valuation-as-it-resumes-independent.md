@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep
+- 2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
 - 2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-- 2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m
 embedding_id: 2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Agent startup Manus is in discussions to raise $500 million at a $4 billion valu
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m]]
+**Related:** [[2026-09-18-manus-targets-500m-raise-at-4b-valuation-as-it-resumes-indep]] · [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
 <!-- graph:end -->

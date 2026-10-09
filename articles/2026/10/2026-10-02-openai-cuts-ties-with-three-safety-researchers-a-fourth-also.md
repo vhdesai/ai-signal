@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-openai-fires-three-safety-researchers-former-employees-press
 - 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
+- 2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
-- 2026-07-12-openai-safety-governance
-- 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
 embedding_id: 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reports OpenAI fired three safety researchers after an i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-07-12-openai-safety-governance]] · [[2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov]]
+**Related:** [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]]
 <!-- graph:end -->

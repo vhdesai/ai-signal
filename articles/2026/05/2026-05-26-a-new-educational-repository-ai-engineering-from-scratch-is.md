@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 - 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
+- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences
-- 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 embedding_id: 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A new educational repository, "ai-engineering-from-scratch," is climbing GitHub 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]]
+**Related:** [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences]]
 <!-- graph:end -->

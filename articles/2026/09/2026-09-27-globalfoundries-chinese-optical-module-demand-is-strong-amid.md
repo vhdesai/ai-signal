@@ -23,10 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-- 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 embedding_id: 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 event_name: ''
 ---
@@ -39,5 +39,5 @@ GlobalFoundries' SVP of photonics and RF Shankaran Janardhanan told SCMP demand 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]]
+**Related:** [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]] · [[2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]]
 <!-- graph:end -->

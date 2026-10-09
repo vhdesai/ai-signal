@@ -4,8 +4,8 @@ title: Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence e
 date: '2026-10-07'
 source: Google Blog
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: 14468bff944538a087091f58d598994da6a2fddfa3409d285fbfc1efa0ca3817

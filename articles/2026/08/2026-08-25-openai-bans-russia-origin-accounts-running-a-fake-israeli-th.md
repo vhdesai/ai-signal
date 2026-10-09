@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
+- 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
@@ -38,5 +39,5 @@ OpenAI disclosed that it banned a cluster of ChatGPT accounts it assesses as ver
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]]
+**Related:** [[2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i]] · [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating]]
 <!-- graph:end -->

@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2355
+member_count: 2362
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2355 connected article(s).
+> Auto-generated entity hub. 2362 connected article(s).
 
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open|Anthropic offers free vulnerability-finding service for open-source software]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature|Claude adds text-to-dashboard and text-to-video beta features]]
+- `2026-10-08` [[2026-10-08-claude-haiku-5-5-launches-with-up-to-90-token-price-cuts|Claude Haiku 5.5 launches with up to 90% token-price cuts]]
+- `2026-10-08` [[2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i|Anthropic updates usage policy to ban model abuse, election interference, weapons software, and surveillance]]
+- `2026-10-08` [[2026-10-08-2026-usage-policy-update|2026 Usage Policy update]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i|Google DeepMind frames Gemini 4 Argon as its next frontier-intelligence era]]

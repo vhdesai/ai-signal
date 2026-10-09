@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 243
+member_count: 247
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 243 connected article(s).
+> Auto-generated entity hub. 247 connected article(s).
 
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-wa|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei|Mistral Large 4 coverage expands: Europe's strongest open-weight frontier contender]]

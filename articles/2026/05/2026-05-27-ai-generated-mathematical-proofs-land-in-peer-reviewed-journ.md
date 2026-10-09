@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
+- 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
-- 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 embedding_id: 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Axios reports that proofs produced by an AI math startup are now appearing in pe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]]
+**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]]
 <!-- graph:end -->

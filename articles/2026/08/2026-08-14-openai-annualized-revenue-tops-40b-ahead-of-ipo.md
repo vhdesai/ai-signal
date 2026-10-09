@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-openai-passes-40b-run-rate-as-revenue-chief-exits-ahead-of-e
 - 2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits
 - 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
-- 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
+- 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 embedding_id: 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI's annualized revenue run rate has passed $40B, roughly doubling since the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-passes-40b-run-rate-as-revenue-chief-exits-ahead-of-e]] · [[2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]] · [[2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum]]
+**Related:** [[2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o]] · [[2026-08-14-openai-passes-40b-run-rate-as-revenue-chief-exits-ahead-of-e]] · [[2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits]] · [[2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive]] · [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project]]
 <!-- graph:end -->

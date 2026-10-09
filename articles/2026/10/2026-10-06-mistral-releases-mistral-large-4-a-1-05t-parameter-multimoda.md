@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 - 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
+- 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 embedding_id: 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 event_name: ''
@@ -41,5 +42,5 @@ Mistral released Mistral Large 4, nicknamed "Le Chonk," as a public preview with
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]]
+**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]]
 <!-- graph:end -->

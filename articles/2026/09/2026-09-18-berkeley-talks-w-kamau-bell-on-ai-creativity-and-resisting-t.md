@@ -6,7 +6,7 @@ date: '2026-09-18'
 source: Berkeley News
 url_original: https://news.berkeley.edu/2026/09/18/berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-the-pull-of-automation/
 url_canonical: https://news.berkeley.edu/2026/09/18/berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-the-pull-of-automation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 71c1995ac5f9b320ce96aec01ef2cc4460b95dd7f31db229b1cafaccba700fc1

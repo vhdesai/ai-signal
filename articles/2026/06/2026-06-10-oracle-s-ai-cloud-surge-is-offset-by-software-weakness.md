@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl
+- 2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-- 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 embedding_id: 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Oracle reported May-quarter revenue growth of 21%, one percentage point slower t
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow]] · [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo]]
+**Related:** [[2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a]] · [[2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow]] · [[2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl]] · [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]]
 <!-- graph:end -->

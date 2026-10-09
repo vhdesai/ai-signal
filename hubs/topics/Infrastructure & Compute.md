@@ -1,16 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2126
+member_count: 2134
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2126 connected article(s).
+> Auto-generated topic hub. 2134 connected article(s).
 
+- `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
+- `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
+- `2026-10-09` [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us|Chinese optical-chip stocks sell off on fears of possible US curbs]]
+- `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-nvidia-plans-to-invest-in-chip-rival-d-matrix-as-challengers|Nvidia plans to invest in chip rival d-Matrix as challengers choose partnership]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
 - `2026-10-07` [[2026-10-07-national-compute-grid-proposal-targets-idle-ai-capacity|National Compute Grid proposal targets idle AI capacity]]
+- `2026-10-07` [[2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows|Microsoft releases Nvidia-chip AI PCs with revamped Windows 11]]
 - `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa|Websites are starting to block AI agents; a new access standard is emerging]]
 - `2026-10-06` [[2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista|Underdog launches as an on-device, privacy-focused AI assistant]]

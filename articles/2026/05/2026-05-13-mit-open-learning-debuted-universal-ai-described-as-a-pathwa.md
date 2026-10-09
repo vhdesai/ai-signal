@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
-- 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
+- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 embedding_id: 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT Open Learning debuted Universal AI, described as "a pathway to AI fluency th
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]]
+**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]]
 <!-- graph:end -->

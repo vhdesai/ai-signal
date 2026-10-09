@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1609
+member_count: 1617
 ---
 
 # Google
 
-> Auto-generated entity hub. 1609 connected article(s).
+> Auto-generated entity hub. 1617 connected article(s).
 
+- `2026-10-09` [[2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie|Stanford opened predoctoral research fellowship opportunities across economics, AI, health and climate. The announcement is another indicator that top universities are expanding structured predoctoral pipelines in AI-adjacent fields. Talent formation remains one of the most important long-term constraints in the AI ecosystem.]]
+- `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
+- `2026-10-08` [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp|Google releases local-first AI Edge Foresight, a Granola competitor]]
+- `2026-10-08` [[2026-10-08-google-releases-a-new-local-first-granola-competitor|Google releases a new local-first Granola competitor]]
+- `2026-10-08` [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses|Google brings agentic AI to Gemini, starting with businesses]]
+- `2026-10-08` [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses|Google brings agentic AI to Gemini for businesses]]
 - `2026-10-07` [[2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel|Zuckerberg Biohub, US partners and Google build a virtual cell]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]

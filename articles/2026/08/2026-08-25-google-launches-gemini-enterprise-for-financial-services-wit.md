@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ
+- 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
-- 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
 embedding_id: 2026-08-25-google-launches-gemini-enterprise-for-financial-services-wit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Cloud launched Gemini Enterprise for Financial Services on August 25, wit
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l]]
+**Related:** [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]]
 <!-- graph:end -->

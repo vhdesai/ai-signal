@@ -1,17 +1,26 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1646
+member_count: 1655
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1646 connected article(s).
+> Auto-generated entity hub. 1655 connected article(s).
 
+- `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report]]
+- `2026-10-08` [[2026-10-08-nvidia-plans-to-invest-in-chip-rival-d-matrix-as-challengers|Nvidia plans to invest in chip rival d-Matrix as challengers choose partnership]]
+- `2026-10-08` [[2026-10-08-nvidia-commits-1-billion-to-advance-us-science-over-the-next|NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years]]
+- `2026-10-08` [[2026-10-08-goodfire-launches-model-internal-safety-monitors-through-bas|Goodfire launches model-internal safety monitors through Baseten]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and|Nvidia’s AI dealmaking expands from chips into the model and application ecosystem]]
 - `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
+- `2026-10-07` [[2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows|Microsoft releases Nvidia-chip AI PCs with revamped Windows 11]]
 - `2026-10-07` [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto|Microsoft and Nvidia CEOs to unveil AI-powered Surface Laptop Ultra]]
 - `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
-- 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 embedding_id: 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The UK's tax authority HMRC announced a 10-year, £175M contract with London-bas
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal]] · [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat]]
+**Related:** [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l]] · [[2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research]] · [[2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal]]
 <!-- graph:end -->

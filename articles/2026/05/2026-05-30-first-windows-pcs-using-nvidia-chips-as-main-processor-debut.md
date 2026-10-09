@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
+- 2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
-- 2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto
 embedding_id: 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia and Microsoft are set to introduce the first Windows PCs that use an Nvid
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto]]
+**Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge
 - 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
+- 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 - 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
-- 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 embedding_id: 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PYMNTS reported that insurers and reinsurers are deploying AI agents for documen
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]]
+**Related:** [[2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge]] · [[2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant]] · [[2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca]] · [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c]] · [[2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv]]
 <!-- graph:end -->

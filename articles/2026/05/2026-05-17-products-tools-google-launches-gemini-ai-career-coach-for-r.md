@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
-- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 embedding_id: 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 event_name: ''
 ---
@@ -49,5 +49,5 @@ event_name: ''
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Databricks]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]] · [[Snowflake]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-06-]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]]
+**Related:** [[2026-05-06-]] · [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]]
 <!-- graph:end -->

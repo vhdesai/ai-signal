@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 283
+member_count: 291
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 283 connected article(s).
+> Auto-generated entity hub. 291 connected article(s).
 
+- `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
+- `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report]]
+- `2026-10-08` [[2026-10-08-georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-st|Georgia Tech and Emory Invest More Than $1B in AI to Drive State’s Jobs, Economic Growth]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-subject-daily-ai-news-digest-october-6-2026|Subject: Daily AI News Digest – October 6, 2026]]
 - `2026-10-06` [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t|Google, Amazon and Oracle push deeper into enterprise-agent tooling]]

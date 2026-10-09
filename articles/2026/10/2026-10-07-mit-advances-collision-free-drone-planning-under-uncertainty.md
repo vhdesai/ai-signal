@@ -4,8 +4,8 @@ title: MIT advances collision-free drone planning under uncertainty
 date: '2026-10-07'
 source: MIT News
 url_original: null
-url_canonical: https://interestingengineering.com/innovation/mit-drone-planner-flight
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_065046_Final-Daily-AI-News-Digest.md
 content_hash: 00358a7117bba78c8564c1aa8feddeecbb2f07297d679ed77bc765094e8ee6ea
 normalized_title_hash: ca9af5baa6ab10d6

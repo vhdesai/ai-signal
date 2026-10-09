@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Infleqtion
 url_original: https://infleqtion.com/infleqtion-advances-fault-tolerant-quantum-computing-software-with-nvidia-cuda-q-logical/
 url_canonical: https://infleqtion.com/infleqtion-advances-fault-tolerant-quantum-computing-software-with-nvidia-cuda-q-logical/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-14_062355_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 7aea8f2e354baf1284f096f02e2052dba1c66069902d241c7e5d6a4d77e84eb5

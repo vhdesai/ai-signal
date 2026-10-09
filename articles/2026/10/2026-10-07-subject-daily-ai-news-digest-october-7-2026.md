@@ -5,8 +5,8 @@ date: '2026-10-07'
 source: 15 items across AI Safety & Policy, Model Releases, Products & Tools, Infrastructure,
   Industry News, Research, and Academic Research
 url_original: null
-url_canonical: https://cubbbix.com/blog/ai-regulation-october-2026-global-update/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: 3d407df36a9d65115c190ee591a88e9acba135d2b3177a13b0fda779abff4ddd

@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
@@ -40,5 +41,5 @@ Google's new Managed Agents API in the Gemini platform provisions an autonomous 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
 <!-- graph:end -->

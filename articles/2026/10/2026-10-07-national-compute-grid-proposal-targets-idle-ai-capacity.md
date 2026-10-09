@@ -4,8 +4,8 @@ title: National Compute Grid proposal targets idle AI capacity
 date: '2026-10-07'
 source: Axios
 url_original: null
-url_canonical: https://mezha.net/eng/news/ac57bb6c_ai_consortium_builds/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_065046_Final-Daily-AI-News-Digest.md
 content_hash: 569ab5210e5ace7210373766d4591a9f5a305cd8731bbf5f412a5aab3ef42991
 normalized_title_hash: 6c6bd70996dc874c

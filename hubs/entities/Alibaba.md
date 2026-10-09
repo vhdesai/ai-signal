@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 436
+member_count: 438
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 436 connected article(s).
+> Auto-generated entity hub. 438 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50|Alibaba's AI cloud revenue set to surge more than 50%]]
 - `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir|China's open-weight models are winning global users — but third parties may capture the value]]

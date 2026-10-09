@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
+- 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-- 2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout
 embedding_id: 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI banned a cluster of ChatGPT accounts originating in Russia that used VPNs
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout]]
+**Related:** [[2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th]] · [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]] · [[2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
+- 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api
 - 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
-- 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 embedding_id: 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Coverage of Mistral Large 4, nicknamed “Le Chonk,” expanded across enterpris
 
 **Entities:** [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]]
+**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]]
 <!-- graph:end -->

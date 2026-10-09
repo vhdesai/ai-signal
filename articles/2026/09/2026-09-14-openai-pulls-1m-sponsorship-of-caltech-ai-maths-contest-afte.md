@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
+- 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
-- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 embedding_id: 2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI withdrew its $1 million sponsorship of a student-run AI mathematics event
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]]
+**Related:** [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]]
 <!-- graph:end -->

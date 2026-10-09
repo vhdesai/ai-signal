@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
+- 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-- 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 embedding_id: 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published 372 AI-generated mathematical results on GitHub, including Lean
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]]
+**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]]
 <!-- graph:end -->

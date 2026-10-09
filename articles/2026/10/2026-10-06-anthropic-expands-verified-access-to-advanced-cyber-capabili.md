@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
+- 2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-- 2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau
 embedding_id: 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic expanded its Cyber Verification Program, creating access paths for vet
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau]]
+**Related:** [[2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted]] · [[2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open]] · [[2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
 <!-- graph:end -->

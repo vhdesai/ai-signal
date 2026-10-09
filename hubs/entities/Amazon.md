@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 690
+member_count: 692
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 690 connected article(s).
+> Auto-generated entity hub. 692 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack|AWS patches AgentCore flaw that let one public agent hijack every agent in an account-region]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu|Anthropic and AWS formalize the forward-deployed-engineer push]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]

@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2189
+member_count: 2198
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2189 connected article(s).
+> Auto-generated topic hub. 2198 connected article(s).
 
+- `2026-10-09` [[2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data|Warden Stealer targets Claude, Codex, Grok and Cursor data]]
+- `2026-10-09` [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c|UK regulators push agentic AI evidence and data-protection commitments]]
+- `2026-10-09` [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i|OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations]]
+- `2026-10-09` [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press|OpenAI fires three safety researchers; former employees press for outside auditors]]
+- `2026-10-09` [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe|Autonomous AI defenders are not ready for full autonomy, cyber chiefs say]]
+- `2026-10-09` [[2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open|Anthropic offers free vulnerability-finding service for open-source software]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an|Fired OpenAI safety researchers dispute misconduct claims and warn of chilling effect]]
+- `2026-10-08` [[2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i|Anthropic updates usage policy to ban model abuse, election interference, weapons software, and surveillance]]
+- `2026-10-08` [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack|AWS patches AgentCore flaw that let one public agent hijack every agent in an account-region]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-us-risks-ceding-ai-governance-leadership-to-china-and-the-eu|US risks ceding AI governance leadership to China and the EU, SCMP opinion argues]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]

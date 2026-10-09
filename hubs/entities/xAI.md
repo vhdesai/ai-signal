@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 421
+member_count: 422
 ---
 
 # xAI
 
-> Auto-generated entity hub. 421 connected article(s).
+> Auto-generated entity hub. 422 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]

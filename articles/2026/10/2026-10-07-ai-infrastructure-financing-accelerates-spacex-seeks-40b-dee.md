@@ -5,8 +5,8 @@ title: 'AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eye
 date: '2026-10-07'
 source: Reuters / Quartz / WSJ / PitchBook
 url_original: null
-url_canonical: https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: 88de49c3003c535ae7e680106adb760343a53df7f509ba5c32af2621376f05df

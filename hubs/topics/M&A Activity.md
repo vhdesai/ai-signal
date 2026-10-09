@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 505
+member_count: 506
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 505 connected article(s).
+> Auto-generated topic hub. 506 connected article(s).
 
+- `2026-10-09` [[2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x|The Information: China's AI model race gets more crowded as Xiaomi, Meituan and miHoYo build LLMs]]
 - `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
 - `2026-10-07` [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio|Automation Anywhere acquires Boost.ai, connecting conversational AI to workflow execution]]
 - `2026-10-05` [[2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across|Huawei and Qualcomm sign multi-year patent agreement across 5G, compute, and AI]]

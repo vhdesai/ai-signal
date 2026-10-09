@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
-- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
+- 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 embedding_id: 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT described an ongoing survey comparing accelerator performance and power from
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
+**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]]
 <!-- graph:end -->

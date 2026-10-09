@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
+- 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 embedding_id: 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 event_name: ''
 ---
@@ -41,5 +42,5 @@ A new Microsoft filing, reported by Bloomberg, disclosed that Microsoft booked $
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]]
+**Related:** [[2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce]] · [[2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]]
 <!-- graph:end -->

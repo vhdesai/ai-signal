@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 182
+member_count: 183
 ---
 
 # IBM
 
-> Auto-generated entity hub. 182 connected article(s).
+> Auto-generated entity hub. 183 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-02` [[2026-10-02-the-university-of-washington-opened-a-new-global-innovation|The University of Washington opened a new Global Innovation Exchange (GIX) location on Microsoft's campus with a $42 million Microsoft contribution. Pulse 2.0 flags it as a deliberate counterweight to the "corporate-partnership-paused" narrative (see today's Nvidia-Oregon education halt), reaffirming industry-university AI pipelines in the Pacific Northwest. Expect similar announcements out of Google-Stanford and Amazon-UVA this quarter.]]

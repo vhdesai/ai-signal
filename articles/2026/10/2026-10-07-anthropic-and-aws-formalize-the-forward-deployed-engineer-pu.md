@@ -4,8 +4,8 @@ title: Anthropic and AWS formalize the forward-deployed-engineer push
 date: '2026-10-07'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.channeldive.com/news/anthropic-aws-forward-deployed-engineer-certifications/832157/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_065046_Final-Daily-AI-News-Digest.md
 content_hash: b2887a7198cfdaa231db6bd20486c9e8c35d9603736d4631ac101bfc6e5b158c
 normalized_title_hash: 686971ef709c4785

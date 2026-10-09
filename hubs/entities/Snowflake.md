@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 35
+member_count: 36
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 35 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-10-08` [[2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature|Claude adds text-to-dashboard and text-to-video beta features]]
 - `2026-10-05` [[2026-10-05-hackerrank-s-ai-interviewer-has-conducted-more-than-500-000|HackerRank's AI interviewer has conducted more than 500,000 interviews]]
 - `2026-09-27` [[2026-09-27-databricks-acquires-row-zero-replit-acquires-atta|Databricks acquires Row Zero; Replit acquires Atta]]
 - `2026-09-24` [[2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex|Texas Teachers CIO and NYC pension chief warn on $3T AI capex boom]]

@@ -4,8 +4,8 @@ title: Advocacy group urges OpenAI to keep teens off ChatGPT
 date: '2026-10-07'
 source: Axios / Mashable
 url_original: null
-url_canonical: https://mashable.com/tech/chatgpt-for-teens-not-safe-for-teens
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_083306_Inbox_Fw Daily AI News Digest - October
   7, 2026.md
 content_hash: d6479fe0f9c0240abc42b2cff0d3e5d285ceebaf29b0fc50e2dfcd8a41dc9d65

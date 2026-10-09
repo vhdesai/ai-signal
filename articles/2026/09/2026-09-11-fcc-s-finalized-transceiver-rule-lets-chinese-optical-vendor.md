@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
+- 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
-- 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 embedding_id: 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The FCC finalized its updated equipment-authorization rules, tightening scrutiny
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]]
+**Related:** [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us]] · [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device]] · [[2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo]]
 <!-- graph:end -->

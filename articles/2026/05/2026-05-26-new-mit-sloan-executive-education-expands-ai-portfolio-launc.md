@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
-- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
+- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 embedding_id: 2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Sloan announced new and refreshed AI executive programs — including a new 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
+**Related:** [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]]
 <!-- graph:end -->

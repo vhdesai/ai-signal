@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 225
+member_count: 226
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 225 connected article(s).
+> Auto-generated entity hub. 226 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]
 - `2026-10-06` [[2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence|DeepSeek funding round balloons past $12B with CATL and Tencent backing]]
 - `2026-10-05` [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru|Researchers track a Chinese agent fleet on Tencent infrastructure targeting Alibaba's Amap]]

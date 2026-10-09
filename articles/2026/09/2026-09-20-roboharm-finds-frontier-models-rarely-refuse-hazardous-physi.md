@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p
 - 2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
+- 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
-- 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 embedding_id: 2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Robocurve’s RoboHarm benchmark ran three robot policies through five plainly h
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p]] · [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]] · [[2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial]]
+**Related:** [[2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p]] · [[2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero]] · [[2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b]] · [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability]] · [[2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Enterprise AI ownership is still unresolved as CIOs absorb accountability
 date: '2026-10-07'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.ciodive.com/news/who-owns-ai-governance/832306/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-07_065046_Final-Daily-AI-News-Digest.md
 content_hash: 31c9732574494bab2564172eda40e5fc6eca895dd3edd81a8e2e7ef46c7de791
 normalized_title_hash: 344827f27f55ee17

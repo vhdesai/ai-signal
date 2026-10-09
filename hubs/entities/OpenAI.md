@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2695
+member_count: 2710
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2695 connected article(s).
+> Auto-generated entity hub. 2710 connected article(s).
 
+- `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
+- `2026-10-09` [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i|OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations]]
+- `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
+- `2026-10-09` [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press|OpenAI fires three safety researchers; former employees press for outside auditors]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
+- `2026-10-08` [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project|OpenAI's revenue reportedly comes in $20B below prior projection]]
+- `2026-10-08` [[2026-10-08-openai-s-math-solutions-aren-t-meeting-the-field-s-standards|OpenAI's math solutions aren't meeting the field's standards yet]]
+- `2026-10-08` [[2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report]]
+- `2026-10-08` [[2026-10-08-nvidia-commits-1-billion-to-advance-us-science-over-the-next|NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years]]
+- `2026-10-08` [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr|Mathematicians call for OpenAI boycott after AI-generated proof flood]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-wa|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect]]
+- `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an|Fired OpenAI safety researchers dispute misconduct claims and warn of chilling effect]]
+- `2026-10-08` [[2026-10-08-2026-usage-policy-update|2026 Usage Policy update]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-openai-s-new-personal-agent-shows-ambition-and-uncomfortable|OpenAI's new personal agent shows ambition — and uncomfortable attachment dynamics]]

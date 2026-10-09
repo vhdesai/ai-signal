@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 532
+member_count: 533
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 532 connected article(s).
+> Auto-generated entity hub. 533 connected article(s).
 
+- `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]
 - `2026-10-07` [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei|Mistral Large 4 coverage expands: Europe's strongest open-weight frontier contender]]

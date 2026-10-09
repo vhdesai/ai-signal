@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
+- 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-- 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
-- 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 embedding_id: 2026-10-02-mit-profiles-ai-powered-youth-entrepreneurship-platform
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT’s new Q&A profiles Dear Dreamer, an AI-supported youth entrepreneurship pl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]] · [[2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
+**Related:** [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea]]
 <!-- graph:end -->

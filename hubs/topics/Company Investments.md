@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1283
+member_count: 1287
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1283 connected article(s).
+> Auto-generated topic hub. 1287 connected article(s).
 
+- `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
+- `2026-10-08` [[2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation|Arena raises $200 million at a $3.1 billion valuation]]
+- `2026-10-08` [[2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation|AI leaderboard Arena nearly doubles to $3.1B valuation]]
 - `2026-10-07` [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee|AI infrastructure financing accelerates: SpaceX seeks $40B, DeepSeek eyes $15B, Groq backer targets $10B]]
 - `2026-10-06` [[2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new|OpenAI seeks $30B as DeepSeek and Moonshot chase massive new capital]]
 - `2026-10-06` [[2026-10-06-melius-raises-25-million-for-ai-creative-workflows|Melius raises $25 million for AI creative workflows]]
