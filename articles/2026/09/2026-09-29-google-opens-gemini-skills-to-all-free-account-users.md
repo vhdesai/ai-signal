@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: Neowin
 url_original: https://www.neowin.net/news/google-opens-gemini-skills-to-all-free-account-users/
 url_canonical: https://www.neowin.net/news/google-opens-gemini-skills-to-all-free-account-users/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 213990cb44b06eaebe33ecb9c5032a36485c2bc397b1a1f1c40a274712e08db0
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills
+- 2026-10-09-gemini-shifts-free-users-to-automatic-model-selection
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers
 - 2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u
@@ -38,5 +39,5 @@ Following confusion over the Gems sunset, Google dropped the AI Pro/Ultra paywal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers]] · [[2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u]]
+**Related:** [[2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills]] · [[2026-10-09-gemini-shifts-free-users-to-automatic-model-selection]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers]] · [[2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u]]
 <!-- graph:end -->

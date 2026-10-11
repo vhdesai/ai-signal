@@ -6,7 +6,7 @@ date: '2026-07-06'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html
 url_canonical: https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 1cf950e6f3cd07ecab7c52bf7fb9407a432793a91a79c089fd0a2bdb2b930249
 normalized_title_hash: 3f16e7bf3d1c7f71
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
-- 2026-09-20-accomplish-ai-discloses-two-openai-codex-sandbox-escapes-hea
 embedding_id: 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers at HKUST released "Cloak and Detonate," showing that malicious add-o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]] · [[2026-09-20-accomplish-ai-discloses-two-openai-codex-sandbox-escapes-hea]]
+**Related:** [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl]] · [[2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in]]
 <!-- graph:end -->

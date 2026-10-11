@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
 - 2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
-- 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
+- 2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of
 embedding_id: 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI terminated three safety researchers for alleged misconduct, including sha
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt]]
+**Related:** [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]] · [[2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also]] · [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Axios
 url_original: https://www.yahoo.com/news/politics/articles/inside-europes-lessons-ai-safety-090504170.html
 url_canonical: https://www.yahoo.com/news/politics/articles/inside-europes-lessons-ai-safety-090504170.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-31_060925_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 5962dd643190f0a24754b3a4536a496df826308f1f7a1d503ed3c4be888f0f74

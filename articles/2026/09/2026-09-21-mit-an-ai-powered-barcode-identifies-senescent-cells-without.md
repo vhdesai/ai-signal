@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: MIT News
 url_original: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921
 url_canonical: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ec222e4dc23742db0dea6b613cf5b94874e7967fce4fb09ae40e39f9601f787a
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 - 2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab
-- 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 embedding_id: 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers combined Raman microscopy with single-cell spatial RNA sequencin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]] · [[2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab]] · [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]]
+**Related:** [[2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]] · [[2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]]
 <!-- graph:end -->

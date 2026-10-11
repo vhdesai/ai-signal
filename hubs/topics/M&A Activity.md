@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 506
+member_count: 511
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 506 connected article(s).
+> Auto-generated topic hub. 511 connected article(s).
 
+- `2026-10-11` [[2026-10-11-infrastructure-ai-adjacent-m-a-cloudflare-acquires-deno-to-i|INFRASTRUCTURE AI-ADJACENT M&A Cloudflare acquires Deno to improve its Workers programming model October 10, 2026, 9:25…]]
+- `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]
+- `2026-10-10` [[2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover|Apple–Huxe talent and licensing agreement receives new coverage]]
+- `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-person|Apple discloses deal to hire Huxe AI team and license personalized-audio technology]]
+- `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe|Apple discloses deal to hire Huxe AI team and license its personalized-audio technology]]
 - `2026-10-09` [[2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x|The Information: China's AI model race gets more crowded as Xiaomi, Meituan and miHoYo build LLMs]]
 - `2026-10-07` [[2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri|Nvidia's $100B dealmaking engine moves toward robots, self-driving cars and local AI]]
 - `2026-10-07` [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio|Automation Anywhere acquires Boost.ai, connecting conversational AI to workflow execution]]

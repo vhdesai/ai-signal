@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
+- 2026-10-09-daily-ai-news-digest-october-10-2026
 - 2026-09-23-daily-ai-news-digest-september-24-2026
-- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-09-27-daily-ai-news-digest-september-27-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The last 24 hours were dominated by a single story with compounding consequences
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
+**Related:** [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]]
 <!-- graph:end -->

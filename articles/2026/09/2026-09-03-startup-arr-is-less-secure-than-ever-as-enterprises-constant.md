@@ -6,7 +6,7 @@ date: '2026-09-03'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
 url_canonical: https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-04_060802_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: d4b8c8c761d1bc1960ce20c36298cbbf4e6bf3688ba01dd7e67ffa3416442d52

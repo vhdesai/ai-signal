@@ -6,7 +6,7 @@ date: '2026-09-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
 url_canonical: https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_060409_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 123186b6750a35dd7751c18328bb4356a2e25c0486aeebfce4d799eae1eb24b3

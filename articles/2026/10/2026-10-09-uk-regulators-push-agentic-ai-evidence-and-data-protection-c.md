@@ -4,11 +4,11 @@ title: UK regulators push agentic AI evidence and data-protection commitments
 date: '2026-10-09'
 source: Shattered.io / Infosecurity Magazine
 url_original: null
-url_canonical: https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/
-url_status: repaired
-digest_source: digests\raw\2026-10-09_065945_Inbox_Daily AI News Digest - October
-  9, 2026.md
-content_hash: 57384a5b76c36f7a16cc35479c51fa186d278c5a5e20e07697c1646ca60b303c
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
+  10, 2026.md
+content_hash: 0f6a4318f8eaf8ff433c1115afeed6f04dd8c899c1a4934e17c5a8c1f7207920
 normalized_title_hash: 1514d8b87354f317
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # UK regulators push agentic AI evidence and data-protection commitments
 
-The UK Information Commissioner's Office opened a six-week call for evidence on agentic AI, likely focused on data protection, autonomous decisions, accountability, and user consent. Infosecurity Magazine separately reports major AI firms pledged data-protection changes after pressure from the UK privacy watchdog. Data protection is becoming a core competitive feature for AI agents, not just a compliance checkbox. SECURITY DUAL-USE
+The UK Information Commissioner's Office opened a six-week call for evidence on agentic AI, likely focused on data protection, autonomous decision-making, accountability, and user consent in agent workflows. Infosecurity Magazine separately reports major AI firms pledged data-protection changes after pressure from the UK privacy watchdog. Data protection is becoming a core competitive feature for AI agents, not just a compliance checkbox.
 
 <!-- graph:start -->
 ## Connections

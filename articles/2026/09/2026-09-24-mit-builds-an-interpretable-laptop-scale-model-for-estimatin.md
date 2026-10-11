@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
 url_canonical: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: f8d3ce14abee95e8c192d60b5cc0bdea356f53707d7e633f07d98d148af600ce

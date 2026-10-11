@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/
 url_canonical: https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 6c4f96588814ba0125c8ad33790304cc8c972e71a1f434a327ee667a8688c915

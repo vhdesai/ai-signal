@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/
 url_canonical: https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 269aff09105a981978804cad1fd167e108a679c4b033edb80fc00aec1828d5a0

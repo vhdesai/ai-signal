@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-stubbornness-problem-ai-agents.html
 url_canonical: https://techxplore.com/news/2026-09-stubbornness-problem-ai-agents.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ce945e52a9fd6b40de8a2639f9abcdf971095e6c8988a7ff141f759431be64a1
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
+- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 embedding_id: 2026-09-21-cispa-a-single-stubborn-agent-can-steer-a-multi-agent-networ
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CISPA researcher Samira Abedini and colleagues adapted the Friedkin-Johnsen opin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
+**Related:** [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
-- 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 embedding_id: 2026-05-23-researchers-from-northwestern-and-american-university-tested
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Researchers from Northwestern and American University tested ChatGPT-5, Gemini 2
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]]
+**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-supercharging-stock-scams-2026
 url_canonical: https://www.wsj.com/finance/investing/markets-a-m-newsletter-ai-supercharging-stock-scams-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 8f5e8b7c14341d69d78c938a1da559308545a8ba957a4b7194b4a95695ba7c89

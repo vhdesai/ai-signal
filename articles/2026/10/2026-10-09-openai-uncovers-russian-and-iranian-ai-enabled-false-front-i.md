@@ -2,15 +2,15 @@
 article_id: 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
 title: OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations
 date: '2026-10-09'
-source: The Decoder
-url_original: https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/
-url_canonical: https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/
-url_status: ok
-digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
-  9, 2026.md
-content_hash: 200a93c065eef9baece0f10c178c9542362652ffedef7fd2972c17d59ab91d43
+source: OpenAI / The Decoder
+url_original: https://openai.com/index/disrupting-ai-enabled-false-front-operations
+url_canonical: https://openai.com/index/disrupting-ai-enabled-false-front-operations
+url_status: found
+digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
+  10, 2026.md
+content_hash: bc5adaad85ac738a346d029d38dc45afaeb51464f504043930eee628d2e39a02
 normalized_title_hash: 0dc9becb3dc79755
-canonical_url_hash: c2d9d015622ec756
+canonical_url_hash: d9e485b409fe8517
 tags: []
 entities:
 - OpenAI
@@ -30,7 +30,7 @@ event_name: ''
 
 # OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations
 
-OpenAI disrupted two AI-enabled influence operations: a Russian "Dark Clark" campaign that spread disinformation across Latin America and an Iranian "Bogus Bylines" operation that used fake journalists to place nearly 100 articles in online outlets. POLICY
+OpenAI exposed and banned accounts tied to Russia's "Dark Clark" campaign and Iran's "Bogus Bylines" operation. The Russian operation received OpenAI's first category 5-of-6 influence rating, showing influence ops moving from social spam into media placement and synthetic institutions. POLICY
 
 <!-- graph:start -->
 ## Connections

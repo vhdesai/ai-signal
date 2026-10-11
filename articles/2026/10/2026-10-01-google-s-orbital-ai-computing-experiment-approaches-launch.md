@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: 11:20 UTC · CNBC
 url_original: https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html
 url_canonical: https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-01_060348_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: e07fdb3d41d8587e751619d363b0ddec0b461db0b19e2d9e374a89db0b02dc1f

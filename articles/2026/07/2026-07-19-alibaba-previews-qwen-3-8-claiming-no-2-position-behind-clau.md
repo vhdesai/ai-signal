@@ -5,7 +5,7 @@ date: '2026-07-19'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/
 url_canonical: https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-20_065739_Final-Daily-AI-News-Digest.md
 content_hash: 8aa7d6cc9f07fcb479ae186cd5b72bffdc02f717718976fc1981000f65cf6a14
 normalized_title_hash: df5be02b4903f9dd

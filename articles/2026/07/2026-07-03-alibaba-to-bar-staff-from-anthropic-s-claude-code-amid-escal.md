@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: The Next Web
 url_original: https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk
 url_canonical: https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: b4a3b8e13e61ead4b5415f82085e4d08471eb69de2b978cb14973211a19d7efe

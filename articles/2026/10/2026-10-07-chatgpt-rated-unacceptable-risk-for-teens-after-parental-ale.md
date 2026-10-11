@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
-- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 embedding_id: 2026-10-07-chatgpt-rated-unacceptable-risk-for-teens-after-parental-ale
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Common Sense Media's Youth AI Safety Institute rated ChatGPT an "unacceptable ri
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
+**Related:** [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]]
 <!-- graph:end -->

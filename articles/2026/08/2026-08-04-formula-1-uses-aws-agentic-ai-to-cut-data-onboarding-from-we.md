@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-05_061724_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: d12f38edd5fc98d1ecdd3220c963b7ae4da4704e0068111b8db212d36820cab3

@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
 url_canonical: https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-06_060715_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 4850ac2c1faada742e1e06abccc55ee0377fcbf19097ebe9ea5c6dada5218002

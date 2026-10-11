@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: Unite.AI
 url_original: https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/
 url_canonical: https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 93925e3d4324fb4e18a97c0597385c2e8d8a0b522fd4f3dbc05ed6467f551c1b

@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Hugging Face / NVIDIA
 url_original: https://huggingface.co/blog/nvidia/cosmos-h-dreams
 url_canonical: https://huggingface.co/blog/nvidia/cosmos-h-dreams
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 20495a2561b4bcc840c6c3bb9f71db81e55c745487fbc454f2cd574c9af8cb51

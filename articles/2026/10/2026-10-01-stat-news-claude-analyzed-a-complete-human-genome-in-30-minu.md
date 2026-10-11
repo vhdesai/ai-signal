@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: STAT News]
 url_original: https://www.statnews.com/2026/10/01/ai-genome-analysis-claude-standards/
 url_canonical: https://www.statnews.com/2026/10/01/ai-genome-analysis-claude-standards/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: c01b0d2e3b8b93d4e98966e484400aa14aae8b95b5acd64b6779829acf043655

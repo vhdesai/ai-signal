@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-- 2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats
+- 2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e
 embedding_id: 2026-10-05-instinct-brings-personal-ai-agents-into-group-chats
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Instinct launched group chats where friends can use an AI agent together for tra
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats]]
+**Related:** [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e]]
 <!-- graph:end -->

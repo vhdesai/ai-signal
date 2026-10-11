@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Unite.AI
 url_original: https://www.unite.ai/google-brings-lyria-3-5-music-generation-to-the-gemini-app-and-api/
 url_canonical: https://www.unite.ai/google-brings-lyria-3-5-music-generation-to-the-gemini-app-and-api/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_062136_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 9d6d0cc881b2a033abab87e150cdaed962d2bf5782f07b62544e50643b47438a

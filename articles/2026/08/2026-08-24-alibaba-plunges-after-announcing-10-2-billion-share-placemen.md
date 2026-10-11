@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
 url_canonical: https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: f7801021eeaf592ace8afc97dbf4527bbfb4d9d42ac03f9fe3fb6485c9b95132
 normalized_title_hash: 86bdaeb808c084c2

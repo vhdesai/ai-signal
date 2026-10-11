@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: arXiv
 url_original: https://arxiv.org/abs/2609.28470
 url_canonical: https://arxiv.org/abs/2609.28470
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060618_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 80936c87cd7ae819e9efcd8ee28b32c20cf6f9417664380a6c9ec0cfdaf091db

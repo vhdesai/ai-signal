@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Reuters
 url_original: https://www.thestar.com.my/tech/tech-news/2026/07/28/tech-giants-launch-open-source-ai-security-alliance-after-attack
 url_canonical: https://www.thestar.com.my/tech/tech-news/2026/07/28/tech-giants-launch-open-source-ai-security-alliance-after-attack
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 3c38967ca0a32a8ac86a27e5dabbbf48f0d73622751c4b3bc73c4c45ca6edb22

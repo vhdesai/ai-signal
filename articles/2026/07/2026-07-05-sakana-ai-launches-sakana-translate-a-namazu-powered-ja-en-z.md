@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
+- 2026-10-10-sakana-ai-reports-llm-peer-review-system-that-catches-73-of
 - 2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration
-- 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 embedding_id: 2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sakana AI released Sakana Translate, a Japanese–English–Chinese translation 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]]
+**Related:** [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-10-10-sakana-ai-reports-llm-peer-review-system-that-catches-73-of]] · [[2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/telecom-operators-open-models/
 url_canonical: https://blogs.nvidia.com/blog/telecom-operators-open-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: c556ef5b78f6e36d414563830b071722535d884ba9af8ad9795d01dae2b0005c

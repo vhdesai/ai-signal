@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 - 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-- 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 embedding_id: 2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PE firms are deploying dedicated AI specialists directly into portfolio companie
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]]
+**Related:** [[2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult]] · [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Decoder
 url_original: https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/
 url_canonical: https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 325c05a1d25305fe4373488c774f8ed30c64a269295f07963d75b15eb12fc252

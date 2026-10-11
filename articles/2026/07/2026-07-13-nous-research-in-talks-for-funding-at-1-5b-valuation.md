@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
 url_canonical: https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 76be4d201575c8f550580fbddc88b6e3ed302a83aa9a4a856b7ea0ff46dfdb54

@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cognition+revenues+boom+compute+costs+cash+burn
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Cognition+revenues+boom+compute+costs+cash+burn
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-28_065740_Final-Daily-AI-News-Digest.md
 content_hash: 148bbc9cee460342f9f112b56698cbc43ea8951b223fa7006b15ae0c0e3e0fa9
 normalized_title_hash: 028c66d9e965501e

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b
-- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
+- 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 embedding_id: 2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg
 event_name: ''
 ---
@@ -35,5 +35,5 @@ DealBook examines how AI usage costs are becoming a significant, often unpredict
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]]
+**Related:** [[2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]]
 <!-- graph:end -->

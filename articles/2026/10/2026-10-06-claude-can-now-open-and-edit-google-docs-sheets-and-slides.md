@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: VentureBeat
 url_original: https://venturebeat.com/ai/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude/
 url_canonical: https://venturebeat.com/ai/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: e718e0d0780ce5e72b998e98ef0348e10089bd657a5cabc7c207743f448181f2

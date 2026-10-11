@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Business Insider
 url_original: https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6
 url_canonical: https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 32806b0d8ea46377afad5a308d953f4b1637d894864ff8552149e349ba57337f
 normalized_title_hash: acf2ee73c0604820

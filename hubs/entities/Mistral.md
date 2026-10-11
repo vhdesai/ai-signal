@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 247
+member_count: 249
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 247 connected article(s).
+> Auto-generated entity hub. 249 connected article(s).
 
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
 - `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-wa|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect]]

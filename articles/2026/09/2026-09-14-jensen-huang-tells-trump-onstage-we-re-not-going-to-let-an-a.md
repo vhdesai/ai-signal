@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
 url_canonical: https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: aa551ff24aab99d32194f3dd37fef792030110e59b77ca2c2b82e7d24ede78bf
 normalized_title_hash: 9eec052b9861de57

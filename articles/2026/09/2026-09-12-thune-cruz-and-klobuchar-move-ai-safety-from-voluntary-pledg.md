@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/327387/20260912/thune-cruz-klobuchar-move-ai-safety-voluntary-pledge-legal-duty.htm
 url_canonical: https://www.techtimes.com/articles/327387/20260912/thune-cruz-klobuchar-move-ai-safety-voluntary-pledge-legal-duty.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 1c1ccc86009f52b2e2688ed260e36888e6a6c5b8675d90672b53d5ba0d82ba7f

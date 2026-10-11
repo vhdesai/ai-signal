@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: The Decoder
 url_original: https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/
 url_canonical: https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: d16f61e3785f8534f9fa25297b272ca80f44f789312cf326ee1dac40e4a81f40
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
 - 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
-- 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 embedding_id: 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Association for Human Mathematics is calling for an OpenAI boycott after the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]] · [[2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]]
+**Related:** [[2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]] · [[2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ]]
 <!-- graph:end -->

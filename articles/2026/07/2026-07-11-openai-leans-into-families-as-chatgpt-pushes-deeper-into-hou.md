@@ -24,7 +24,7 @@ canonical_article_id: 2026-07-11-openai-creates-a-dedicated-product-role-for-fam
 related_article_ids:
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
-- 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 embedding_id: 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is hiring a dedicated product manager to build ChatGPT experiences for fa
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat]]
-**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a]]
+**Related:** [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]]
 <!-- graph:end -->

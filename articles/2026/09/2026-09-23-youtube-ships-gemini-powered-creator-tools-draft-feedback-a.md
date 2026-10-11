@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/
 url_canonical: https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d3cdd41c6b7c42ae4bb3fd6909226d26003136d90c4e11124799e75acbcb6f27

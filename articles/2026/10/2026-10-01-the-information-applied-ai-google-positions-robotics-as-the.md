@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The Information
 url_original: https://www.theinformation.com/articles/in-robotics-google-goes-android-to-teslas-apple
 url_canonical: https://www.theinformation.com/articles/in-robotics-google-goes-android-to-teslas-apple
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 4c29ea2c86e29ea8777fbce1dbb401cbda991c40740d0d9303d255fbd7964764

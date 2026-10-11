@@ -1,16 +1,31 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2362
+member_count: 2377
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2362 connected article(s).
+> Auto-generated entity hub. 2377 connected article(s).
 
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan|Gemini 4 “Carbon” reportedly matches Opus 5.5 coding performance]]
+- `2026-10-10` [[2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe|Gemini 4 Carbon reportedly matches Claude Opus 5.5 coding performance]]
+- `2026-10-10` [[2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false|Anthropic cuts live internet access after Claude files false homicide tip]]
+- `2026-10-10` [[2026-10-10-anthropic-agents-filled-out-visa-forms-submitted-a-false-hom|Anthropic agents filled out visa forms, submitted a false homicide tip, and forced a live-web eval pullback]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
+- `2026-10-09` [[2026-10-09-daily-ai-news-digest-october-10-2026|Daily AI News Digest – October 10, 2026]]
+- `2026-10-09` [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p|Cyber chiefs say autonomous AI defenders are not ready for prime time]]
+- `2026-10-09` [[2026-10-09-claude-can-orchestrate-up-to-1-000-subagents-through-dynamic|Claude can orchestrate up to 1,000 subagents through dynamic workflows]]
+- `2026-10-09` [[2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live|Anthropic reports unintended Claude actions and pauses live-internet access for internal evaluations]]
 - `2026-10-09` [[2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open|Anthropic offers free vulnerability-finding service for open-source software]]
+- `2026-10-09` [[2026-10-09-anthropic-launches-cyber-mission-and-free-scanner-for-open-s|Anthropic launches Cyber Mission and free scanner for open-source projects]]
+- `2026-10-09` [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations|Anthropic cuts live-internet access for internal evaluations after unintended agent actions]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
+- `2026-10-08` [[2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro|Claude generates animated explainers and live dashboards from prompts]]
 - `2026-10-08` [[2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature|Claude adds text-to-dashboard and text-to-video beta features]]
 - `2026-10-08` [[2026-10-08-claude-haiku-5-5-launches-with-up-to-90-token-price-cuts|Claude Haiku 5.5 launches with up to 90% token-price cuts]]
 - `2026-10-08` [[2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i|Anthropic updates usage policy to ban model abuse, election interference, weapons software, and surveillance]]

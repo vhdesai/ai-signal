@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
 url_canonical: https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 2c5ad6d6323881e1f88a3a0943d1352f79fdeb16a9d1c3994fde41913d716c65
@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
-- 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 embedding_id: 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reports that Microsoft CEO Satya Nadella warned companies that fully 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]]
+**Related:** [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]] · [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]]
 <!-- graph:end -->

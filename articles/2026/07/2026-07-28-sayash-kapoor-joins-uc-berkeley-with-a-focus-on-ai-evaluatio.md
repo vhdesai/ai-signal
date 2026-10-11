@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: UC Berkeley School of Information
 url_original: https://www.ischool.berkeley.edu/news/2026/sayash-kapoor-joins-uc-berkeley-focus-artificial-intelligence
 url_canonical: https://www.ischool.berkeley.edu/news/2026/sayash-kapoor-joins-uc-berkeley-focus-artificial-intelligence
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 60b181acb3d5c4c27cc758cbeebc007b12f2de4b1505e120ad8dcada299d2414

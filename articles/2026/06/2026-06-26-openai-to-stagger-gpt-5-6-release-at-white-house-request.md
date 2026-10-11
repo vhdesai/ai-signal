@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
 url_canonical: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: c74c12fcce7c882028a97aa46c543d437339b5fff34f542810adecc929223345

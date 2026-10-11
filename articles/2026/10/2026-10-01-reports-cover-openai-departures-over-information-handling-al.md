@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: October 1, 2026, 1:07 p.m. EDT
 url_original: https://www.forbes.com/sites/fionariley/2026/10/01/openai-reportedly-fires-3-researches-over-allegedly-mishandling-confidential-information/
 url_canonical: https://www.forbes.com/sites/fionariley/2026/10/01/openai-reportedly-fires-3-researches-over-allegedly-mishandling-confidential-information/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-02_060413_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 9a2c70b037968394ee48965179a30b0a2024993cceb1b7616de7e420ea5fbf47
@@ -36,9 +36,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
-- 2026-09-27-daily-ai-news-digest-september-27-2026
 embedding_id: 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 event_name: ''
 ---
@@ -52,5 +52,5 @@ OpenAI confirmed three departures linked to alleged sensitive-information policy
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]] · [[2026-09-27-daily-ai-news-digest-september-27-2026]]
+**Related:** [[2026-10-01-openai-parts-ways-with-three-safety-researchers]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]] · [[2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op]]
 <!-- graph:end -->

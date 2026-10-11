@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: Bloomberg / Straits Times'
 url_original: https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-preparing-to-file-for-listing-in-coming-weeks
 url_canonical: https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-preparing-to-file-for-listing-in-coming-weeks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 3b40e36ae9bcd66fcf5aed322f825194892c016ac992a1894eaa3c567c1211f4

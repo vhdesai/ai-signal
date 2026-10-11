@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Georgia Tech, Center for 21st Century Universities
 url_original: https://www.c21u.gatech.edu/news/2026/08/Georgia_Tech_Visiting_Scholars_Lens
 url_canonical: https://www.c21u.gatech.edu/news/2026/08/Georgia_Tech_Visiting_Scholars_Lens
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: a389e0bb125993a2dae10db0515faae152106378a938a1a2d6b805030e694c47

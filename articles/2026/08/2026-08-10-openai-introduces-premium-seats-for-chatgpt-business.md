@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/premium-seats-chatgpt-business/
 url_canonical: https://openai.com/index/premium-seats-chatgpt-business/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c2a7c33882880233d76ad6a2ad29cfd9ca644bca27f0d448c2a1fcc18fa05f43

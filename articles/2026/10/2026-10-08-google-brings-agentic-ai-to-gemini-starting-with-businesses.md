@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: 11:18 a.m. PDT · TechCrunch
 url_original: https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/
 url_canonical: https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060344_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: d0799752406dc9eb74ae23148ae13af95701f6334f56b0f325d8910da4be72db

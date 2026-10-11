@@ -5,7 +5,7 @@ date: '2026-09-08'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html
 url_canonical: https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: c0d68fddf1d0f256236532eeadfe1e9ae3cd837318f87f599c548ed7430be0b7
 normalized_title_hash: 3899fc867dc0acbe

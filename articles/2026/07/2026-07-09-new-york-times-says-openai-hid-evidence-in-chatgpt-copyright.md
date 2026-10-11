@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
 url_canonical: https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 2a3d5b39b1d4da93119a651b61a5f8734725f2fc90b770288182e48a2b37b6e9

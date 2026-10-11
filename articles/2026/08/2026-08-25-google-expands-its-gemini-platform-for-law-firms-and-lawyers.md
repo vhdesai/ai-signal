@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-08-25/google-expands-gemini-ai-platform-for-law-firms-lawyers
 url_canonical: https://money.usnews.com/investing/news/articles/2026-08-25/google-expands-gemini-ai-platform-for-law-firms-lawyers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 4afb38a2de8f40d0f4cdb62c018bf128a5bfcfd2eeacacdad9430e7e5a59e9d5

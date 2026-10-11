@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
 url_canonical: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 40d4a01682ac8e95e0c90f35450fdb138abe24abbe6389b7f1dffcffe9b67c0e

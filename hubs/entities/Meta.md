@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 886
+member_count: 888
 ---
 
 # Meta
 
-> Auto-generated entity hub. 886 connected article(s).
+> Auto-generated entity hub. 888 connected article(s).
 
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]

@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: CBS News
 url_original: https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/
 url_canonical: https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_062401_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 7a707b965fd062bde49a31c6014dcb49d34f2b5b12b887ded9502cbd27d63243

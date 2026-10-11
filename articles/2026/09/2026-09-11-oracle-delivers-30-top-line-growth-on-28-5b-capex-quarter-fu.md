@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Information
 url_original: https://www.theinformation.com/articles/oracles-solid-quarter
 url_canonical: https://www.theinformation.com/articles/oracles-solid-quarter
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f3db0b4d3f86f659c03a32eb85f2e7aafb59abb496630c4330833729f14f5971

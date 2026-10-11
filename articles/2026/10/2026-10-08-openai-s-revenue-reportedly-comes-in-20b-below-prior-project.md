@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
 url_canonical: https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 63be87f0befde1532c4241caeef1396469b8da56c714fccfabfb82edc779257f
@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
+- 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 embedding_id: 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI's annualized revenue is reportedly far below earlier expectations — clo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]]
+**Related:** [[2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo]] · [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch]] · [[2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]]
 <!-- graph:end -->

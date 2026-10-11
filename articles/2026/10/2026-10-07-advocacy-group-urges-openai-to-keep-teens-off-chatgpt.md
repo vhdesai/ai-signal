@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
-- 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 embedding_id: 2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt
 event_name: ''
 ---
@@ -36,5 +36,5 @@ An advocacy group is urging OpenAI to pause or restrict ChatGPT for teens, argui
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
+**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]] · [[2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards]]
 <!-- graph:end -->

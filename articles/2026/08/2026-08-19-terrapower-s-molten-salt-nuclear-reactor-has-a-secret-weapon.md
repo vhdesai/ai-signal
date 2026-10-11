@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
+- 2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
-- 2026-06-10-china-opens-world-s-first-wind-powered-underwater-data-cente
 embedding_id: 2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bill Gates–founded TerraPower plans to announce its first data center project 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-06-10-china-opens-world-s-first-wind-powered-underwater-data-cente]]
+**Related:** [[2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac]] · [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]] · [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]]
 <!-- graph:end -->

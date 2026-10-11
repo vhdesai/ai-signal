@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
 - 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 embedding_id: 2026-10-07-military-ai-worries-and-self-built-watchdogs-keep-frontier-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Fortune reports an OpenAI executive said what militaries could do with AI “kee
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
+**Related:** [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode]]
 <!-- graph:end -->

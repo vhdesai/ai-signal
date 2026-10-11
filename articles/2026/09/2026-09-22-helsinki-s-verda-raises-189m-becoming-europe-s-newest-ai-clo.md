@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Tech.eu
 url_original: https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity/
 url_canonical: https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: c50ce73275d459536e8b8e0eb8b513066bcbd6aa0e96ebb52fed2140439c6303

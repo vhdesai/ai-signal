@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Anthropic
 url_original: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
 url_canonical: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: b255b038bcf0b85700cdd8e408f4372a44e4a7a04edbd9d737b611d3f42f56bf

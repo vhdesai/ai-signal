@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+customer+concentration+top+buyers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Nvidia+customer+concentration+top+buyers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-14_065405_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 003071e44cbe9d64471bc9060246005f60f8c1383b3e1dfe24934b3ecd6fab32
@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers
+- 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 embedding_id: 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
 event_name: ''
 ---
@@ -36,5 +37,5 @@ NVIDIA's own disclosures now show three customers accounted for 44% of first-hal
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers]]
+**Related:** [[2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Decoder
 url_original: https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/
 url_canonical: https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: e0f499a1b4a4874e316ed4c94ba710ad0800ec2dd666a758ee3632e6bb456055
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 - 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
-- 2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t
-- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
+- 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 embedding_id: 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Biological Computing Co. is teaming with AWS to sell a text-to-video model c
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-04-03-researchers-at-tohoku-university-and-future-university-hakod]] · [[2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r]] · [[2026-04-03-researchers-at-tohoku-university-and-future-university-hakod]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models
 - 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
 - 2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec
-- 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
+- 2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec
 embedding_id: 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AWS released Strands Decider 2B; Cloudflare introduced Clef models. They select 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models]] · [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents]] · [[2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that]]
+**Related:** [[2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models]] · [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents]] · [[2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec]] · [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]]
 <!-- graph:end -->

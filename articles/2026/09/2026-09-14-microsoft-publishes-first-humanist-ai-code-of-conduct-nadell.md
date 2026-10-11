@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Microsoft AI / TechCrunch / Unite.AI**
 url_original: https://microsoft.ai/news/mai-code-of-conduct/
 url_canonical: https://microsoft.ai/news/mai-code-of-conduct/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 41a6ab8e99acc4553e0123ff7f8d9ac00c19a24ff3359049283f978b1b13c87d
 normalized_title_hash: c9837dfe46f29811
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma
 - 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 - 2026-09-14-monday-september-14-2026
-- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
+- 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
+- 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
 embedding_id: 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft AI opened a six-week public consultation on a draft Humanist AI Code o
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-09-14-monday-september-14-2026]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]]
+**Related:** [[2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-09-14-monday-september-14-2026]] · [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne]]
 <!-- graph:end -->

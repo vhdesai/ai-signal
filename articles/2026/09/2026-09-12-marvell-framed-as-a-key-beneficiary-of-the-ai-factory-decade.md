@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
+- 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 embedding_id: 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Seeking Alpha highlighted Marvell as a potentially important AI infrastructure s
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-09-21-marvell-rallies-after-unveiling-1-6t-optical-technology-for]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]]
 <!-- graph:end -->

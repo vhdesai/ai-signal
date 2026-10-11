@@ -6,7 +6,7 @@ date: '2026-10-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/
 url_canonical: https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 053d5e0281ca7aa6103eb09e85188b32fb28515695c9335c99a142ccbbf7e342

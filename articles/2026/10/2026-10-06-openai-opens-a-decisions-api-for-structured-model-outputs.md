@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc
+- 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
+- 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 embedding_id: 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI opened a public beta API aimed at fixed choices, probability-like outputs
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]]
+**Related:** [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc]] · [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-09-10-openai-opens-the-agents-api-in-public-beta]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: June 30 – July 1, 2026
 url_original: https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html
 url_canonical: https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 8662507924afc190a85a03a50e308e612376457b33d4beb13de60b83a0cc8813

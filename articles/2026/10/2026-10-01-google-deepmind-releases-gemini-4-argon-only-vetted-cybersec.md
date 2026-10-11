@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Axios / Gulf Business / The Information (DealBook)]
 url_original: https://gulfbusiness.com/google-deepmind-gemini-4-argon-cybersecurity-defenders-only/
 url_canonical: https://gulfbusiness.com/google-deepmind-gemini-4-argon-cybersecurity-defenders-only/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 6c72dad59ef8ec55a784143202d7248fb1ede9f3483e96686fd1468bcd8d34b0

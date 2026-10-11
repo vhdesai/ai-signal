@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: Global Times
 url_original: https://www.globaltimes.cn/page/202609/1348820.shtml
 url_canonical: https://www.globaltimes.cn/page/202609/1348820.shtml
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: c768261054a4dec353b111e980c05fc481688076798dc28d9534dec7f94489d0

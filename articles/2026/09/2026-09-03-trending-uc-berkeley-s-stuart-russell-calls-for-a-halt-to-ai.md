@@ -44,8 +44,8 @@ related_article_ids:
 - 2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for
 - 2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
+- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-09-23-daily-ai-news-digest-september-24-2026
-- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 embedding_id: 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 event_name: ''
 ---
@@ -59,5 +59,5 @@ In a Berkeley News interview, Stuart Russell argued that governments should regu
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for]] · [[2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
+**Related:** [[2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for]] · [[2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-09-23-daily-ai-news-digest-september-24-2026]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: UC San Diego Today
 url_original: https://today.ucsd.edu/story/from-code-to-care-how-uc-san-diego-is-leading-the-way-in-ai-for-health-care
 url_canonical: https://today.ucsd.edu/story/from-code-to-care-how-uc-san-diego-is-leading-the-way-in-ai-for-health-care
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 9ff485b470301ef5e2ed0af417169a85c6ec552c78b3701e0ce7a0c241269861

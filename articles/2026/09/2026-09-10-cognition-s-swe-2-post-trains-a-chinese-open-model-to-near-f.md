@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Cognition**
 url_original: https://cognition.com/blog/swe-2
 url_canonical: https://cognition.com/blog/swe-2
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 0f214762cc762b543cec613b8d3bf2ac720cb7a1ac991d3d7e95c398ac2dff1d
 normalized_title_hash: 96966278e4682725

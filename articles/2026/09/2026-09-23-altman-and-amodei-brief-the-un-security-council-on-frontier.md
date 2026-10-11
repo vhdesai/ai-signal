@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Information / WSJ Pro Cybersecurity
 url_original: https://www.theinformation.com/articles/sam-altman-dario-amodei-brief-un-security-council
 url_canonical: https://www.theinformation.com/articles/sam-altman-dario-amodei-brief-un-security-council
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 21cc9df908a95944a1ec77ae96e5fc00e7a0fd8a63631d118398d0ac0f806555

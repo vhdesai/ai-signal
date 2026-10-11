@@ -6,7 +6,7 @@ source: arXiv (covered by TechTimes) · Princeton, Stanford, Georgetown CSET, Jo
   Hopkins, UK AISI
 url_original: https://arxiv.org/abs/2607.27191
 url_canonical: https://arxiv.org/abs/2607.27191
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: e3ddac28e8a4943f93a844b1702f2429ab9e564c3a46b521fc4823ace6f431f1
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
+- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-- 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 embedding_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 24-author study led by Princeton (Kirgis, Kapoor, Narayanan) introduces “sha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]]
+**Related:** [[2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]]
 <!-- graph:end -->

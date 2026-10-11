@@ -4,8 +4,8 @@ title: Chinese optical-chip stocks sell off on fears of possible US curbs
 date: '2026-10-09'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs
-url_canonical: https://www.electronicsforyou.biz/industry-buzz/potential-us-curbs-bears-down-on-chinese-optical-chip-stocks/
-url_status: repaired
+url_canonical: https://www.scmp.com/tech/tech-war/article/3370305/chinese-optical-chip-stocks-extend-rout-amid-fears-potential-us-curbs
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 268c4a3b41bb68f8fcc03e4215d7d9684db77ea05b3686ad55c02c06fa3d5c9f

@@ -5,23 +5,23 @@ title: Microsoft turns Dynamics 365 into ambient CRM and adds stronger Windows a
 date: '2026-10-09'
 source: The Futurum Group / Computer Weekly
 url_original: null
-url_canonical: https://futurumgroup.com/insights/microsoft-turns-dynamics-365-into-an-ambient-crm-layer/
-url_status: repaired
-digest_source: digests\raw\2026-10-09_065945_Inbox_Daily AI News Digest - October
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-09_141517_Inbox_Fw Daily AI News Digest - October
   9, 2026.md
 content_hash: 8d903e563e8eae8f15133084acfcd0df550d19ef0fbbfe97a483848257ebc266
 normalized_title_hash: e92ebb9dadd94793
 canonical_url_hash: ''
-tags:
-- Hot
+tags: []
 entities:
 - Microsoft
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
@@ -37,6 +37,6 @@ Microsoft is turning Dynamics 365 into an ambient CRM layer, embedding AI into r
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]]
+**Topics:** [[Policy & Regulation]]
+**Related:** [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]]
 <!-- graph:end -->

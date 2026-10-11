@@ -6,7 +6,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
 url_canonical: https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_060357_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 6cc064e85c25ae953726b5d16ba93f4e4ed259ffabfdd533a8a10180a03b304c

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: WinBuzzer
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 82df46c21e74efc7c99d0d6d4c477936590433ee94b41db1159e41cf8fd41b27
@@ -44,10 +44,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-04-02-academic-research
-- 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
-- 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A reported case of romantic ChatGPT obsession has sharpened concerns over AI com
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-04-02-academic-research]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]]
+**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]] · [[2026-04-02-academic-research]]
 <!-- graph:end -->

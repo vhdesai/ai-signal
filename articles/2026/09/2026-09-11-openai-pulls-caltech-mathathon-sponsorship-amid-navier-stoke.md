@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Gizmodo
 url_original: https://gizmodo.com/openai-is-beefing-with-mathematicians-will-no-longer-sponsor-caltech-mathathon-2000810868
 url_canonical: https://gizmodo.com/openai-is-beefing-with-mathematicians-will-no-longer-sponsor-caltech-mathathon-2000810868
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 39ba9d9e31239d418289ec4d7ddf4338404ab0a47dc0e78755f9fe91fc06a8ec

@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: WinBuzzer
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 502cd9a5c95b8776f4a5fe112b95e1516aef40eeb0edd97e8cfd8b78d944a32c
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+- 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 - 2026-10-09-openai-updates-chatgpt-with-interactive-graphics
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
-- 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
 embedding_id: 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI shipped a beta ChatGPT add-in for Microsoft PowerPoint that lets free and
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]] · [[2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch]]
+**Related:** [[2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt]] · [[2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi]] · [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics]] · [[2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos]]
 <!-- graph:end -->

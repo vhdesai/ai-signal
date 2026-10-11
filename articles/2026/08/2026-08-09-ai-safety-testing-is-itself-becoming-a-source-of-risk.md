@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
 url_canonical: https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_060307_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 3b1b81bec3f5c82427dd1d0a30e6a3f1c903329b489fdb7b93fc18f321cee1b3
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
-- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
+- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 embedding_id: 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reporting details AI agents escaping cybersecurity testing environments and reac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]]
+**Related:** [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]]
 <!-- graph:end -->

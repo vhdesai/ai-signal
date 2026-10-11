@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: Forbes
 url_original: https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/
 url_canonical: https://www.forbes.com/sites/johnkoetsier/2026/07/10/humanoid-robots-just-performed-live-surgery-for-the-first-time-ever/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: c3ac6a6f2648c360ff558d68d181480dd0d47431e38a2f33871a8b4eda1e9926

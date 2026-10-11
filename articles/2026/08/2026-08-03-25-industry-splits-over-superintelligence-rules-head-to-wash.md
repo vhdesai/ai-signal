@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Axios · Read article →
 url_original: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
 url_canonical: https://techstartups.com/2026/08/03/top-tech-news-today-august-3-2026-alibaba-amazon-amd-apple-microsoft-nvidia-more/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 935f7ddb02dafa6839692ba91c7d9581cbdd4a68b2c372915a838f25e42843f8
@@ -42,9 +42,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
+- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Leading figures are staking out divergent positions on how to regulate advanced 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]]
 <!-- graph:end -->

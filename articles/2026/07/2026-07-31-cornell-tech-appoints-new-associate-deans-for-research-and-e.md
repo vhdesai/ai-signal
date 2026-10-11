@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/stories/2026/07/cornell-tech-appoints-new-associate-deans-research-and-education
 url_canonical: https://news.cornell.edu/stories/2026/07/cornell-tech-appoints-new-associate-deans-research-and-education
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 0c82b9e3f273a3630a0f784c2a80afbc7ee9b011c2ac97bcdfc625791fd963d2

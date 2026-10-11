@@ -5,7 +5,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/
 url_canonical: https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: ba8a8eac6753efadfbf3936dfcb8129f9322c0f66ca609278e18db4e2b8dd9ad
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-10-09-openai-fires-three-safety-researchers-former-employees-press
 - 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
 - 2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an
+- 2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
 embedding_id: 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
 event_name: ''
@@ -38,5 +39,5 @@ The Wall Street Journal reports OpenAI fired three safety researchers after an i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]]
+**Related:** [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press]] · [[2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents]] · [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an]] · [[2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of]] · [[2026-10-01-openai-parts-ways-with-three-safety-researchers]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-08-09'
 source: Business Insider
 url_original: https://sg.news.yahoo.com/worlds-leading-ai-companies-struggling-152436499.html
 url_canonical: https://sg.news.yahoo.com/worlds-leading-ai-companies-struggling-152436499.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 0333d28bada9eb13d042ab78f70a0192ad49797f464ee999ff4621f7f5d25537
@@ -43,10 +43,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
+- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-- 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 embedding_id: 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Business Insider reports that leading AI companies are struggling to contain the
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]]
+**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
 <!-- graph:end -->

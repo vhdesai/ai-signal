@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1792
+member_count: 1802
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1792 connected article(s).
+> Auto-generated topic hub. 1802 connected article(s).
 
+- `2026-10-11` [[2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has|INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more reliant than ever on foreign…]]
+- `2026-10-11` [[2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f|INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and defense vehicles October 10, 2026,…]]
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c|Petra Power pitches solid-oxide fuel cells for future data-center energy needs]]
+- `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
+- `2026-10-10` [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n|GPU access becomes a fragmented market across hyperscalers, neoclouds and direct suppliers]]
+- `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]
+- `2026-10-10` [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import|AI data-center buildout is increasing U.S. reliance on imported semiconductors]]
 - `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund|Oracle, Broadcom and SpaceX seek large debt packages to fund AI chips]]
 - `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
 - `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc|Amazon drops local-government data-center NDAs as infrastructure scrutiny rises]]
 - `2026-10-08` [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project|OpenAI's revenue reportedly comes in $20B below prior projection]]
 - `2026-10-08` [[2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation|AI leaderboard Arena nearly doubles to $3.1B valuation]]
 - `2026-10-07` [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and|Nvidia’s AI dealmaking expands from chips into the model and application ecosystem]]

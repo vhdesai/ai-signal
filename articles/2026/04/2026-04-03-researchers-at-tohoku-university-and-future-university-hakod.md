@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew
-- 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 embedding_id: 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at Tohoku University and Future University Hakodate demonstrated tha
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]]
+**Related:** [[2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew]]
 <!-- graph:end -->

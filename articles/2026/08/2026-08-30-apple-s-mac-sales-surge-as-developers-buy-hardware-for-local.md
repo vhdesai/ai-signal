@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-10-tech-workers-are-bringing-ai-compute-into-the-home-signaling
 - 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una
-- 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
 embedding_id: 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information reported that Apple's hottest products are increasingly Mac mode
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]] · [[2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent]]
+**Related:** [[2026-10-10-tech-workers-are-bringing-ai-compute-into-the-home-signaling]] · [[2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une]] · [[2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo]] · [[2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t]] · [[2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una]]
 <!-- graph:end -->

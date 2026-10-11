@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
 url_canonical: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-20_060546_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: ada0b9aae8133048aad2f96cbf114c037bfb6936a8346c37966fe3b8030d74de
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed
 - 2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib
 - 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
+- 2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text
 - 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
-- 2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel
 embedding_id: 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TypeSafe AI, founded by a former ChatGPT engineer, launched Jev — transformer-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed]] · [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib]] · [[2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft]] · [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model]] · [[2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel]]
+**Related:** [[2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed]] · [[2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib]] · [[2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft]] · [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text]] · [[2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model]]
 <!-- graph:end -->

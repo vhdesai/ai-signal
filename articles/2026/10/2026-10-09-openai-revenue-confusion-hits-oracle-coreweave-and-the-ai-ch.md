@@ -5,9 +5,9 @@ date: '2026-10-09'
 source: The Information / The Guardian / PitchBook
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20revenue%2050%20billion%2070%20billion
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20revenue%2050%20billion%2070%20billion
-url_status: broken
-digest_source: digests\raw\2026-10-09_065945_Inbox_Daily AI News Digest - October
-  9, 2026.md
+url_status: found
+digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
+  10, 2026.md
 content_hash: a93243af0d7d241468c77f895ef4d26d21b932866123f4de7859167fb8b2fa71
 normalized_title_hash: b55254e8a06fbc59
 canonical_url_hash: 73aa894b4d305c9a

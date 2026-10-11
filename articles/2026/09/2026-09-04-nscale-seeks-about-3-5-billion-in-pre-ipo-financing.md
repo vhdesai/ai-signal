@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
 url_canonical: https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_060624_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 6ee231081ad6e2ed683bdec69db594b9809cdc535a0f17a6112587193e0a132d

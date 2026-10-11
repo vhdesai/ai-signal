@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Engadget
 url_original: https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/
 url_canonical: https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 4998e317311a262f1e283488d41bbe209aba9e2d626ec8b4a21806c2760bb5d1

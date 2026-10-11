@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Reuters · Stanford Digital Economy Lab
 url_original: https://digitaleconomy.stanford.edu/news/wemustactnow/
 url_canonical: https://digitaleconomy.stanford.edu/news/wemustactnow/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 0a34ea89bc75fe2a0c309ae82c2003f4e6742b2ad3fd32b5c1f0aaf5f2ef4c89

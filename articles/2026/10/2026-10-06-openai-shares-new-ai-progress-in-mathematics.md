@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: OpenAI
 url_original: https://openai.com/index/sharing-ai-progress-in-mathematics/
 url_canonical: https://openai.com/index/sharing-ai-progress-in-mathematics/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: ac6a4c93a7b5128e8c61f96593976889fe017862c71b72a0f8a6d8f3820080c7

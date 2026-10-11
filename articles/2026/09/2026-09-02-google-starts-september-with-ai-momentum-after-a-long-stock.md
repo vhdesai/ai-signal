@@ -5,7 +5,7 @@ date: '2026-09-02'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html
 url_canonical: https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-03_060703_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 21da049487bdf57f8b4c2b98c42ef2966a67f51b5ffef3fdea7892868a6fe606

@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
 url_canonical: https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-02_060559_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: f79970c9cde8420f41f4cda2436e23d92a2182d4eb7c2f0df6c667c8559ebd99
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 - 2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 embedding_id: 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 event_name: ''
 ---
@@ -37,5 +38,5 @@ TechCrunch reported that Sam Altman promoted a use case in which ChatGPT Work co
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator]]
+**Related:** [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]] · [[2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol]] · [[2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]]
 <!-- graph:end -->

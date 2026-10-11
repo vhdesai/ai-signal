@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The Motley Fool**
 url_original: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
 url_canonical: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 52ff51c5f443445a28fa8bd87e58e2633d58a3bc9ecd15ffd4eb3716e0d6835c
 normalized_title_hash: 9afc4cf7d3335321

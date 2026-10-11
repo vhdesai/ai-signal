@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 embedding_id: 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon University's Center for AI-Driven Biomedical Research (AI4BIO) s
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa]]
+**Related:** [[2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
 <!-- graph:end -->

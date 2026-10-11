@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: PPC Land
 url_original: https://ppc.land/googles-lyria-3-5-puts-full-length-ai-songs-in-gemini-and-the-api/
 url_canonical: https://ppc.land/googles-lyria-3-5-puts-full-length-ai-songs-in-gemini-and-the-api/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: de9f72286deb91859d585dc20714d7ef6debd85eb0c1482fe7ea40d4f50ae86a

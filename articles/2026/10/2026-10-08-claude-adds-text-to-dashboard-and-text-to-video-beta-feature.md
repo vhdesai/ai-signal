@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: The Decoder
 url_original: https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/
 url_canonical: https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 2168509dbe9fa1e8ee3135e00a2944657549a83f6c1a783376bc7e1086fc8bb7
@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
 embedding_id: 2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature
@@ -36,5 +37,5 @@ Anthropic launched Claude Dashboards, which turns BigQuery and Snowflake data in
 
 **Entities:** [[Anthropic]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]]
+**Related:** [[2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro]] · [[2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]]
 <!-- graph:end -->

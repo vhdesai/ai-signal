@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: The American Bazaar
 url_original: https://americanbazaaronline.com/2026/08/14/deepseek-launches-v4-pro-at-prices-up-to-14-times-higher-than-v4-flash/
 url_canonical: https://americanbazaaronline.com/2026/08/14/deepseek-launches-v4-pro-at-prices-up-to-14-times-higher-than-v4-flash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 36e33c62cf2bab39da71f0342e3c7b7e555bd3ab1427022dd64cef617e5ad082
 normalized_title_hash: ee90d49d986253a1

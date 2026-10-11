@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Fortune
 url_original: https://fortune.com/section/tech/
 url_canonical: https://fortune.com/section/tech/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 46a8178e664d665dc8ad6d62f0e572f2d29f863f9f3673c172a48e523c92bcd6

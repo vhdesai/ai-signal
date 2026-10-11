@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
 url_canonical: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 6027fc0644d858f6b8e77227f875288ef6456e6d722fe470de64f6c843b0aaa2
 normalized_title_hash: 8dbfaae6b8fd36ec

@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
 url_canonical: https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-10_082903_Inbox_Fw Daily AI News Digest - August
   10, 2026.md
 content_hash: ea3181e21d93e2a175251fad1b17f2177ce1a48b752233e7ea2ec81f24b4006c

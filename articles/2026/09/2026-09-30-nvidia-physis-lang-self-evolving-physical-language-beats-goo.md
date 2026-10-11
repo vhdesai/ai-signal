@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: MarkTechPost]
 url_original: https://www.marktechpost.com/2026/09/30/nvidia-physis-lang-physics-reasoning-cosmos-3/
 url_canonical: https://www.marktechpost.com/2026/09/30/nvidia-physis-lang-physics-reasoning-cosmos-3/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 378a3c3d4050aca563a796e73b07d2015d23aab3a4f47e94a04607c8ad74f039

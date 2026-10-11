@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
 - 2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
-- 2026-08-27-subject-daily-ai-news-digest-august-27-2026
+- 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 embedding_id: 2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DealBook's Sarah Kessler examines how AI usage costs are becoming a significant 
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Global AI Race]]
-**Related:** [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]] · [[2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]]
+**Related:** [[2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg]] · [[2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris]] · [[2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]]
 <!-- graph:end -->

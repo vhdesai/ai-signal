@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore / The Conversation
 url_original: https://techxplore.com/news/2026-09-ai-humans-scenarios-require-physical.html
 url_canonical: https://techxplore.com/news/2026-09-ai-humans-scenarios-require-physical.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 7dbc7c76c8598b9bf42aadce13b81781442d22c50f4d420567e557cdb8c77f81
@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
+- 2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no
-- 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 embedding_id: 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Alessandro Di Nuovo and Samuele Vinanzi argue that canonical AI-extinction scena
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]]
+**Related:** [[2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet]] · [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no]]
 <!-- graph:end -->

@@ -1,15 +1,31 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1010
+member_count: 1026
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1010 connected article(s).
+> Auto-generated entity hub. 1026 connected article(s).
 
+- `2026-10-11` [[2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne|POLICY MICROSOFT Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ October 10, 2026, 2:47 PM PDT ·…]]
+- `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and|Satya Nadella argues AI systems need an emergency brake and tamper-proof action evidence]]
+- `2026-10-10` [[2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73|Sakana AI reports an LLM peer-review system that catches 73% of core-claim errors]]
+- `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than|Nace AI open-sources Drex 1.5 for option scoring rather than prose generation]]
+- `2026-10-10` [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring|Microsoft releases Decision-1, a Qwen3.5-9B decision-scoring model]]
+- `2026-10-10` [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec|Microsoft releases Decision-1 as decision-scoring models become an agent-routing category]]
+- `2026-10-10` [[2026-10-10-microsoft-introduces-microsoft-decision-1-for-fast-structure|Microsoft introduces Microsoft-Decision-1 for fast structured decision-scoring]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
 - `2026-10-09` [[2026-10-09-microsoft-turns-dynamics-365-into-ambient-crm-and-adds-stron|Microsoft turns Dynamics 365 into ambient CRM and adds stronger Windows agent guardrails]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo|Google unifies fragmented agents while Microsoft turns Windows and Dynamics into controlled agent surfaces]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc|Amazon drops local-government data-center NDAs as infrastructure scrutiny rises]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast|Amazon drops local-government data-center NDAs as AI infrastructure faces community scrutiny]]
+- `2026-10-09` [[2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows|Amazon drops data-center NDAs as community backlash grows]]
 - `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]

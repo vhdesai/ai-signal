@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 533
+member_count: 535
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 533 connected article(s).
+> Auto-generated entity hub. 535 connected article(s).
 
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]
 - `2026-10-07` [[2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users|SCMP reports China’s open AI models are winning global users, but the business question is who captures the value: model labs, cloud providers, app builders or hardware vendors. The piece lands amid DeepSeek’s fundraising surge, Qwen’s adoption and Westernized Qwen efforts. It is one of the clearer strategic questions facing open-weight AI in 2027.]]

@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: AWS Machine Learning Blog
 url_original: https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/
 url_canonical: https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: ef30ba435260b8d76a13778db336d2469ee7e9ea9c0cdc35101f0160ead124e6

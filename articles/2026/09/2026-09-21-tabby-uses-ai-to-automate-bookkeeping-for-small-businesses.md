@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/
 url_canonical: https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_060610_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: acbdbe6cb5d889c1451a229e4d43b1adb971fd1a4ceb4c66a3a30db6301fa0a5
@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
+- 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 embedding_id: 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
@@ -35,5 +36,5 @@ TechCrunch profiled Tabby, an AI bookkeeping startup built by a former accountan
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
 <!-- graph:end -->

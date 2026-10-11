@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: explainX
 url_original: https://www.explainx.ai/blog/openai-gpt-5-6-sol-api-price-cut-20-percent-august-2026
 url_canonical: https://www.explainx.ai/blog/openai-gpt-5-6-sol-api-price-cut-20-percent-august-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 3f3f648a35ea0d2b43381d08c362746fcab7606e520c57c10c540e09afb580bf

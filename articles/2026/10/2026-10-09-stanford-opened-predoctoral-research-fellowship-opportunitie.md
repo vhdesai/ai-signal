@@ -7,8 +7,8 @@ title: Stanford opened predoctoral research fellowship opportunities across econ
 date: '2026-10-09'
 source: 'Source: Global South Opportunities / Stanford'
 url_original: null
-url_canonical: https://siepr.stanford.edu/programs/siepr-predoctoral-research-fellows-program
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-09_064735_Inbox_ClawPilot - Daily AI News Digest
   - October 9, 2026.md
 content_hash: 32c46146b1b20be4ca636ee0799225b38bfbd206a87fa3226024d4dac74b4918
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
+- 2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Publication window: items published Oct 8 – Oct 9, 2026 (last 24 hours). Compi
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]]
 <!-- graph:end -->

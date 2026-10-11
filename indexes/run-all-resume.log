@@ -1,0 +1,44 @@
+{
+  "command": "validate-urls",
+  "result": {
+    "checked": 4838,
+    "ok": 3126,
+    "broken": 1712,
+    "missing": 5368,
+    "skipped": 23
+  },
+  "run_log": "indexes\\runs\\run-20261011T180541+0000-2cd06e.json"
+}
+{
+  "command": "repair-urls",
+  "result": {
+    "attempted": 1514,
+    "repaired": 117,
+    "unresolved": 1397,
+    "skipped": 91,
+    "reverted": 0,
+    "deferred": 5475,
+    "terminated": "timeout",
+    "elapsed_s": 3626.2,
+    "max_workers": 10
+  },
+  "run_log": "indexes\\runs\\run-20261011T185226+0000-19ab84.json"
+}
+{
+  "command": "build-site",
+  "result": {
+    "pages": 293,
+    "articles": 10229,
+    "canonical": 7549,
+    "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+  },
+  "run_log": "indexes\\runs\\run-20261011T195254+0000-4d05c1.json"
+}
+{
+  "command": "publish",
+  "result": {
+    "status": "dry-run",
+    "note": "site/ generated locally; no remote publish configured"
+  },
+  "run_log": "indexes\\runs\\run-20261011T195308+0000-7f804b.json"
+}

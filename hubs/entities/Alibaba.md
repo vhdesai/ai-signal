@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 438
+member_count: 442
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 438 connected article(s).
+> Auto-generated entity hub. 442 connected article(s).
 
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents|Nace.AI open-sources Drex 1.5, a 9B decision model for agents and backend workflows]]
+- `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]
+- `2026-10-09` [[2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima|Alibaba Qwen releases Qwen-Image-2.1-Turbo for faster 2K image generation and editing]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50|Alibaba's AI cloud revenue set to surge more than 50%]]
 - `2026-10-07` [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma|Sui and Alibaba let AI agents spend stablecoins without human approval]]

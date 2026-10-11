@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Visual Studio Magazine
 url_original: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
 url_canonical: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-14_062633_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 58593155b483b9298eb8225846233f4c57d865ce55973ed661e697267937387b

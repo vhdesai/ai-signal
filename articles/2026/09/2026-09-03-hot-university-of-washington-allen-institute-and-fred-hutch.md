@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun
 - 2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch
 - 2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu
-- 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 embedding_id: 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The three institutions announced $95 million in funding to jointly pursue AI mod
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-university-of-washington-allen-institute-and-fred-hutch-laun]] · [[2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun]] · [[2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch]] · [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a]]
+**Related:** [[2026-09-03-university-of-washington-allen-institute-and-fred-hutch-laun]] · [[2026-09-04-university-of-washington-allen-institute-and-fred-hutch-laun]] · [[2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch]] · [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]]
 <!-- graph:end -->

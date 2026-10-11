@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 embedding_id: 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Documents reviewed by *The Wall Street Journal* show Chinese cyber-mercenaries a
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
+**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi]]
 <!-- graph:end -->

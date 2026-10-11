@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Money Morning
 url_original: https://moneymorning.com/2026/06/05/nvidia-nvda-80-billion-buyback-dividend-june-2026
 url_canonical: https://moneymorning.com/2026/06/05/nvidia-nvda-80-billion-buyback-dividend-june-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: d2040e948a142972c8e60da515c52eb699d90d249831685a26d0bbc052345acb

@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Google
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 5cb41c71a28cf3ba0165ef7e96105c99478a0f763f97dcc9450cd8b3838104ca

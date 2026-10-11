@@ -25,6 +25,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 embedding_id: 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
@@ -40,5 +41,5 @@ The WSJ explores how clergy members are increasingly using ChatGPT and other AI 
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[Palantir]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
+**Related:** [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
 <!-- graph:end -->

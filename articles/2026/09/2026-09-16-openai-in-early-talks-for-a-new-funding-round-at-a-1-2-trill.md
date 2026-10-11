@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
+- 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-- 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 embedding_id: 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information, CNBC, and Fortune report OpenAI has held early conversations wi
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
 <!-- graph:end -->

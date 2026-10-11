@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Intel%20AI%20customers
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 7643026e82361f62333c655ae0d100cf06345afdbbfdcd6f06abdef5ad050a32
 normalized_title_hash: f4ab60feb5718342
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
+- 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
-- 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 embedding_id: 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Intel shares rose after the company reported strong second-quarter results, incl
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]] · [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]]
+**Related:** [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: Anthropic
 url_original: https://www.anthropic.com/claude-opus-5-5
 url_canonical: https://www.anthropic.com/claude-opus-5-5
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 82e701575b72a45141c756de11231c777fcc977c33dc06ab6cc90675872b30d1

@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
 url_canonical: https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 5c7c1ba99639ebd111681009bd59c911a21c6c248bd897853da84daf316f1930

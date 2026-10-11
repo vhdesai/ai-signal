@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video
 url_canonical: https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: e73e2e34e09aed5979968d94145bba5664274634fb83e9b10af7b85a89f5708d

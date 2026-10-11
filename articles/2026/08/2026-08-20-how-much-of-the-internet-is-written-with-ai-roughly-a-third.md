@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: Pew Research Center
 url_original: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
 url_canonical: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 6d23ef5474bcec272331e7171e870652df345afe7fa6441ccb98d5f18e9a0a61
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-08-20-pew-one-third-of-web-pages-published-since-chatgpt-s-launch
 - 2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pew found that about 35% of web pages published after ChatGPT's release show sig
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-20-pew-one-third-of-web-pages-published-since-chatgpt-s-launch]] · [[2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-08-20-pew-one-third-of-web-pages-published-since-chatgpt-s-launch]] · [[2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
 <!-- graph:end -->

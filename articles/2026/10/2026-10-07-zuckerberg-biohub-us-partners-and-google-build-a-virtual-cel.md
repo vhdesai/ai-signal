@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
+- 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-- 2026-07-20-ai-is-supercharging-drug-development
-- 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 embedding_id: 2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Axios reports Zuckerberg's Biohub, US partners and Google are building a virtual
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-07-20-ai-is-supercharging-drug-development]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]]
+**Related:** [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
 <!-- graph:end -->

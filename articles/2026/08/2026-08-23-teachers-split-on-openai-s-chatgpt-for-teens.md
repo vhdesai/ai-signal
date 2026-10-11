@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: Northeastern University / Knowridge Science Report
 url_original: https://knowridge.com/2026/08/openai-introduces-chatgpt-for-teens-what-do-teachers-think/
 url_canonical: https://knowridge.com/2026/08/openai-introduces-chatgpt-for-teens-what-do-teachers-think/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-23_060400_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: eba834c6c8cf80a583cb105b52c9568d4cd3792a9d256ae4ed73f851727b82ba
@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
-- 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 embedding_id: 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI's teen-focused ChatGPT tier includes a “Study Mode” that offers guidi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]]
+**Related:** [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
 <!-- graph:end -->

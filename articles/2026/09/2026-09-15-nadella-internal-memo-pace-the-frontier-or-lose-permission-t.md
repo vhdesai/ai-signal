@@ -5,7 +5,7 @@ date: '2026-09-15'
 source: Business Insider
 url_original: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-2026-9
 url_canonical: https://www.businessinsider.com/todays-newsletter-ai-slowdown-convenient-timing-2026-9
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: a94117f10d1e0fdeb6759206bba83d1c5b2c4682c2181a35bb98267bccd3cc9d
 normalized_title_hash: 299af8056d797ed7
@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-09-14-monday-september-14-2026
 - 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
 - 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-- 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 embedding_id: 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Satya Nadella sent an internal note urging AI firms to prioritize safety, embrac
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-monday-september-14-2026]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]] · [[2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al]]
+**Related:** [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-09-14-monday-september-14-2026]] · [[2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa]] · [[2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]]
 <!-- graph:end -->

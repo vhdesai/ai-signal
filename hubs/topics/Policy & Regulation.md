@@ -1,19 +1,43 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2198
+member_count: 2222
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2198 connected article(s).
+> Auto-generated topic hub. 2222 connected article(s).
 
+- `2026-10-11` [[2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr|POLICY RETAIL AI may change the price of your Big Mac and groceries — what this means for shoppers October 11, 2026,…]]
+- `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
+- `2026-10-11` [[2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne|POLICY MICROSOFT Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ October 10, 2026, 2:47 PM PDT ·…]]
+- `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th|ChatGPT for Teens puts OpenAI's age-aware safeguards into the consumer spotlight]]
+- `2026-10-11` [[2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight|AI’s quiet safety gatekeepers step into the spotlight]]
+- `2026-10-11` [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use|AI-driven dynamic pricing raises consumer trust and data-use questions]]
+- `2026-10-10` [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and|Satya Nadella argues AI systems need an emergency brake and tamper-proof action evidence]]
+- `2026-10-10` [[2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73|Sakana AI reports an LLM peer-review system that catches 73% of core-claim errors]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck|DealBook frames AI’s “verification tax” as a human bottleneck on efficiency]]
+- `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]
+- `2026-10-10` [[2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false|Anthropic cuts live internet access after Claude files false homicide tip]]
+- `2026-10-10` [[2026-10-10-anthropic-agents-filled-out-visa-forms-submitted-a-false-hom|Anthropic agents filled out visa forms, submitted a false homicide tip, and forced a live-web eval pullback]]
 - `2026-10-09` [[2026-10-09-warden-stealer-targets-claude-codex-grok-and-cursor-data|Warden Stealer targets Claude, Codex, Grok and Cursor data]]
 - `2026-10-09` [[2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c|UK regulators push agentic AI evidence and data-protection commitments]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
 - `2026-10-09` [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i|OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations]]
+- `2026-10-09` [[2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of|OpenAI safety crisis deepens after fired researchers warn of chilling effect]]
 - `2026-10-09` [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press|OpenAI fires three safety researchers; former employees press for outside auditors]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
+- `2026-10-09` [[2026-10-09-microsoft-turns-dynamics-365-into-ambient-crm-and-adds-stron|Microsoft turns Dynamics 365 into ambient CRM and adds stronger Windows agent guardrails]]
+- `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
+- `2026-10-09` [[2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla|Google turns Gemini Enterprise into a single hub for workplace agents]]
+- `2026-10-09` [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p|Cyber chiefs say autonomous AI defenders are not ready for prime time]]
 - `2026-10-09` [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe|Autonomous AI defenders are not ready for full autonomy, cyber chiefs say]]
 - `2026-10-09` [[2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open|Anthropic offers free vulnerability-finding service for open-source software]]
+- `2026-10-09` [[2026-10-09-anthropic-launches-cyber-mission-and-free-scanner-for-open-s|Anthropic launches Cyber Mission and free scanner for open-source projects]]
+- `2026-10-09` [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations|Anthropic cuts live-internet access for internal evaluations after unintended agent actions]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc|Amazon drops local-government data-center NDAs as infrastructure scrutiny rises]]
 - `2026-10-08` [[2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an|Fired OpenAI safety researchers dispute misconduct claims and warn of chilling effect]]
 - `2026-10-08` [[2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i|Anthropic updates usage policy to ban model abuse, election interference, weapons software, and surveillance]]
 - `2026-10-08` [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack|AWS patches AgentCore flaw that let one public agent hijack every agent in an account-region]]

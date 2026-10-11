@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: the-decoder
 url_original: https://the-decoder.com/openai-claims-internal-model-solved-100-open-math-problems-in-one-month-2026
 url_canonical: https://the-decoder.com/openai-claims-internal-model-solved-100-open-math-problems-in-one-month-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9114e702d370187b268b98fc60ed0825fb229e330fe4e14739a2541dd475a63c

@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/
 url_canonical: https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: e1f8fea986423c89f951f9b0c8e59d228187c7a51a46692e5d2dea4303b37a4c

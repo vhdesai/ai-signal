@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
-- 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 embedding_id: 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Weave unveiled an enterprise-grade omnichannel AI receptionist for healthcare fr
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
+**Related:** [[2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent]]
 <!-- graph:end -->

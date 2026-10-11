@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Artificial Lawyer
 url_original: https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/
 url_canonical: https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: dd774080e5dc64ce88aab8f42cde6639e04393352e399943f1e1f2189634cefe

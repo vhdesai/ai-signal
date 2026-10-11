@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319678/20260704/ai-data-centers-trigger-third-federal-grid-emergency-sending-bills-air-quality-down.htm
 url_canonical: https://www.techtimes.com/articles/319678/20260704/ai-data-centers-trigger-third-federal-grid-emergency-sending-bills-air-quality-down.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 93146d1f880fa6bee3bf205740d653f9662f1903aa67d8425e452a5b556a70ce

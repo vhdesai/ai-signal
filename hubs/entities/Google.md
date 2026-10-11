@@ -1,15 +1,27 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1617
+member_count: 1629
 ---
 
 # Google
 
-> Auto-generated entity hub. 1617 connected article(s).
+> Auto-generated entity hub. 1629 connected article(s).
 
+- `2026-10-11` [[2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven|36Kr covered MIT research exploring how far interview-driven training can simulate real humans with AI. The work touches digital twins, social simulation and human-behavior modeling. It is scientifically intriguing and ethically sensitive because more realistic simulations could improve planning and research while also enabling manipulation or impersonation.]]
+- `2026-10-10` [[2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued|The Stanford-Elsevier world top-2% scientists list continued drawing coverage, including India-focused and university-specific reports. The list matters because AI competition is increasingly constrained by elite research talent, not only compute and capital. The ongoing attention also shows how rankings and talent pipelines are becoming part of national AI strategy.]]
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan|Gemini 4 “Carbon” reportedly matches Opus 5.5 coding performance]]
+- `2026-10-10` [[2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe|Gemini 4 Carbon reportedly matches Claude Opus 5.5 coding performance]]
 - `2026-10-09` [[2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie|Stanford opened predoctoral research fellowship opportunities across economics, AI, health and climate. The announcement is another indicator that top universities are expanding structured predoctoral pipelines in AI-adjacent fields. Talent formation remains one of the most important long-term constraints in the AI ecosystem.]]
 - `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
+- `2026-10-09` [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt|OpenAI adds interactive graphics to ChatGPT]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
+- `2026-10-09` [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo|Google unifies fragmented agents while Microsoft turns Windows and Dynamics into controlled agent surfaces]]
+- `2026-10-09` [[2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla|Google turns Gemini Enterprise into a single hub for workplace agents]]
+- `2026-10-09` [[2026-10-09-gemini-shifts-free-users-to-automatic-model-selection|Gemini shifts free users to automatic model selection]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]
 - `2026-10-08` [[2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp|Google releases local-first AI Edge Foresight, a Granola competitor]]

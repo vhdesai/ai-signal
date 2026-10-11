@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv
+- 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
 - 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
 - 2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
-- 2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops
 embedding_id: 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bloomberg argues the AI buildout has been quietly insulated from Trump-era prote
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]] · [[2026-08-28-semiconductor-tariff-phase-2-weighed-for-servers-and-laptops]]
+**Related:** [[2026-08-27-u-s-weighs-broader-semiconductor-tariff-regime-covering-serv]] · [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import]] · [[2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se]] · [[2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini]] · [[2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of]]
 <!-- graph:end -->

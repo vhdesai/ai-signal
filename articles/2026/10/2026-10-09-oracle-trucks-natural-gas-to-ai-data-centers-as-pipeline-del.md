@@ -4,10 +4,10 @@ title: Oracle trucks natural gas to AI data centers as pipeline delays threaten 
 date: '2026-10-09'
 source: Quartz / Techzine
 url_original: null
-url_canonical: https://www.supplychainbrain.com/articles/44999-oracle-moves-gas-by-trucks-to-avoid-data-center-power-delays
-url_status: repaired
-digest_source: digests\raw\2026-10-09_065945_Inbox_Daily AI News Digest - October
-  9, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
+  10, 2026.md
 content_hash: 903b8a0cbc1c5aa5441c380f0e28a29250cdd2722ea0e743b9afe6490b2d2039
 normalized_title_hash: 0a39b5748056d62f
 canonical_url_hash: ''

@@ -4,10 +4,10 @@ title: Wall Street builds a new financial system around Nvidia chips
 date: '2026-10-09'
 source: Business Insider / PitchBook
 url_original: null
-url_canonical: https://www.businessinsider.com/wall-street-wants-nvidia-gpus-to-be-next-asset-class-2026-10
-url_status: repaired
-digest_source: digests\raw\2026-10-09_065945_Inbox_Daily AI News Digest - October
-  9, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
+  10, 2026.md
 content_hash: 5adb5c71bd03fb3f8dd3dc780fc1b79c99831bfb7f705f6f6dac00a6354cfbe6
 normalized_title_hash: 615679fc022b6aed
 canonical_url_hash: ''

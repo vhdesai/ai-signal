@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: Ars Technica
 url_original: https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
 url_canonical: https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-23_062154_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 5cd86fc417d2e32591e1e86d396fd0588b650301b76925d92952d0d56fdda7ac
@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 embedding_id: 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 event_name: ''
@@ -39,5 +40,5 @@ British Columbia and the Peace River South School District filed suit in the Nor
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
+**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
 <!-- graph:end -->

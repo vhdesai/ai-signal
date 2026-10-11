@@ -5,7 +5,7 @@ date: '2026-08-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
 url_canonical: https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 1827b479503b063592acf6a2e8cc2875c90e606be07ac6b4b4551571e1a76c8a
 normalized_title_hash: 51008849d3aa5463

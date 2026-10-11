@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Google I/O 2026
 url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\google-io-2026.md
 content_hash: 60ba24a3a2e614914129c2cddce31409a56f41188c906b8c8abdeb1619e6914f
 normalized_title_hash: 9d5ba9627d196001

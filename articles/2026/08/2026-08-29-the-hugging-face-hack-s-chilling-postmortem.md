@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+hack+chilling+postmortem
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Hugging+Face+hack+chilling+postmortem
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-30_065742_Final-Daily-AI-News-Digest.md
 content_hash: 2a379c30e467d2d873be1abf220aab0d6c8c41a98b87ded6cb63894709b57f31
 normalized_title_hash: 74fa3738cb06deeb

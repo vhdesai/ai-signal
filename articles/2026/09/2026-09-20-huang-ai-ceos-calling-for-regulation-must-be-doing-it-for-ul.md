@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://africa.businessinsider.com/news/nvidias-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning-about-doomsday/wd46e4m
 url_canonical: https://africa.businessinsider.com/news/nvidias-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning-about-doomsday/wd46e4m
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: cae01835ed1febc6f36a721d19701c58fbe5edb9744429c15403a90982c842c5

@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
 url_canonical: https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 0aadcb978b4aa5d597f81f9de894a7fa75a4b24ef333b4dda56336978d08ab6d

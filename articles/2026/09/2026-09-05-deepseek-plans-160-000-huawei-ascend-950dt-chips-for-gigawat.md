@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/326755/20260905/deepseeks-160000-chip-huawei-order-puts-prc-law-over-every-api-query.htm
 url_canonical: https://www.techtimes.com/articles/326755/20260905/deepseeks-160000-chip-huawei-order-puts-prc-law-over-every-api-query.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_142255_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: b95a4f07768962d3652a928bd212f238fd8d7e63deb8e15999bb1bcccd71a1fc

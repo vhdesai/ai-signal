@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: FOX 13 (KSTU) via CNN Newsource
 url_original: https://localnews8.com/news/top-stories/2026/07/02/a-waterless-ai-data-center-a-big-experiment-is-under-way-in-rural-utah/
 url_canonical: https://localnews8.com/news/top-stories/2026/07/02/a-waterless-ai-data-center-a-big-experiment-is-under-way-in-rural-utah/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_062557_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 8e964d3c86b6996745ec2b186460888941522a2d7785b77000ba23560147aa99

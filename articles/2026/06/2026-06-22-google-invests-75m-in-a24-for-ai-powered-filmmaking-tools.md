@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: Variety / blog.google
 url_original: https://variety.com/2026/digital/news/google-invests-a24-ai-powered-filmmaking-tools-1236444444/
 url_canonical: https://variety.com/2026/digital/news/google-invests-a24-ai-powered-filmmaking-tools-1236444444/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 92cd8559f1224daa3874a63a717c639c4f7e666fbdfb6e3a1b5850cc9e5cdc8a
 normalized_title_hash: 5cf6606e18de29fb

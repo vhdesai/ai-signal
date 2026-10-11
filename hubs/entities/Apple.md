@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 454
+member_count: 462
 ---
 
 # Apple
 
-> Auto-generated entity hub. 454 connected article(s).
+> Auto-generated entity hub. 462 connected article(s).
 
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]
+- `2026-10-10` [[2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover|Apple–Huxe talent and licensing agreement receives new coverage]]
+- `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-person|Apple discloses deal to hire Huxe AI team and license personalized-audio technology]]
+- `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe|Apple discloses deal to hire Huxe AI team and license its personalized-audio technology]]
+- `2026-10-09` [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text|TypeSafe’s Jev funding shows investor appetite for non-text decision models]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
+- `2026-10-09` [[2026-10-09-apple-acqui-hires-huxe-founded-by-former-notebooklm-develope|Apple acqui-hires Huxe, founded by former NotebookLM developers]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
 - `2026-10-06` [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus|Wikimedia / OpenAI Trending Wikimedia raises concerns over suspected OpenAI agent activity]]

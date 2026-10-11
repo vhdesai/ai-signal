@@ -18,10 +18,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-11-the-digest-prioritizes-original-date-verified-publications-a
 - 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 embedding_id: 2026-06-21-end-of-digest-8-items-selected-for-signal-quality-and-verifi
 event_name: ''
 ---
@@ -34,5 +34,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-sources-monitored-30-company-blogs-university-research-feeds]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-03-28-about-this-digest-compiled-from-public-sources-including-tec]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]]
+**Related:** [[2026-10-11-the-digest-prioritizes-original-date-verified-publications-a]] · [[2026-05-27-sources-monitored-30-company-blogs-university-research-feeds]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-03-28-about-this-digest-compiled-from-public-sources-including-tec]]
 <!-- graph:end -->

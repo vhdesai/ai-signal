@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: TechXplore
 url_original: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
 url_canonical: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 471ae7590175021624247da16b81ca47ce11899b01a1da1ed5bb535dc5144c84
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
+- 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 embedding_id: 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Facing mounting local opposition over water and power draw in the US, major oper
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-08-22-the-information-reports-that-america-increasingly-dislikes-d]]
+**Related:** [[2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur]] · [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u]] · [[2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

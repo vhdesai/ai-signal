@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks
 url_canonical: https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 4fbd3927edd7c289a7c12a25618bd1b64a1102335740cc538c9091c14b22380b

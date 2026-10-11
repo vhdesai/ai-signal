@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: Google DeepMind
 url_original: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
 url_canonical: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 7d92119b6ee0c04d290c29ccd04c57e3e456873ba9225a08b10be6abd8bfc93b

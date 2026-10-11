@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/
 url_canonical: https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: f4f07f2887755ed5a2cdbdada71dbbbfe832101556c1ae3275724f231ce52f41

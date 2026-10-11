@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
+- 2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
-- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 embedding_id: 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Spencer Jakab argues that the AI-driven concentration in U.S. mega-caps has now 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]]
+**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat]]
 <!-- graph:end -->

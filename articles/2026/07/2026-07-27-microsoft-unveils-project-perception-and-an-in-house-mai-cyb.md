@@ -6,7 +6,7 @@ date: '2026-07-27'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/
 url_canonical: https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: a8c04f3239e77d8213571518b74a3785f08278c40ae5b700c9e8204b4046f660

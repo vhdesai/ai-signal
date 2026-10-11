@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: '[CNBC]'
 url_original: https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html
 url_canonical: https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 6c897d9d6b359096889d6902cddb54fe9f11c6b038b31282ee5519c1ecaad665

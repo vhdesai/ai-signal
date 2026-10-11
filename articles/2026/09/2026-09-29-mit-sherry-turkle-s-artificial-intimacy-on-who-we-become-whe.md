@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: MIT News
 url_original: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
 url_canonical: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8796a60c1c021f8858b28524aa633e356e2070dcf1c7e39cc03f1ae07b75b0ba
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
+- 2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven
 - 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
-- 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 embedding_id: 2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT STS professor Sherry Turkle’s book, published the same day, draws on inter
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]]
+**Related:** [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]]
 <!-- graph:end -->

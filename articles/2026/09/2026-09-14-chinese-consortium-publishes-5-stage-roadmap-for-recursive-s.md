@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post**
 url_original: https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 2345db06de26b0941bebca7c84b69f95d9a1898542a65582565f44e2f2781ec5
 normalized_title_hash: 99b57055362a8f2d
@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-- 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 embedding_id: 2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Researchers from ByteDance, Tsinghua University, and the Shanghai AI Laboratory 
 
 **Entities:** [[Anthropic]] · [[ByteDance]] · [[Cohere]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
+**Related:** [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
 <!-- graph:end -->

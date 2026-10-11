@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: IEEE Spectrum
 url_original: https://www.aol.com/news/ai-safety-regulations-advance-springfield-215600930.html
 url_canonical: https://www.aol.com/news/ai-safety-regulations-advance-springfield-215600930.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: d01f2cd50cfc84fa8833d4aa81e2a88235a509fc08673fe1651f4909fff3efa3

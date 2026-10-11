@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Memeburn
 url_original: https://memeburn.com/deepseek-v4-pro-vs-qwen-3-8-max-pricing-and-open-weight-changes-shift-the-comparison/
 url_canonical: https://memeburn.com/deepseek-v4-pro-vs-qwen-3-8-max-pricing-and-open-weight-changes-shift-the-comparison/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-21_061353_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 3547d553b1d7f0d5e84b8866f5b619e0dd789c09de1d381d3ddb878f7b490312

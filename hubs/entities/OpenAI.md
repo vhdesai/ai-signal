@@ -1,18 +1,36 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2710
+member_count: 2728
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2710 connected article(s).
+> Auto-generated entity hub. 2728 connected article(s).
 
+- `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
+- `2026-10-11` [[2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind|MODEL OPENAI 24–48H EXCEPTION OpenAI lists new gpt-rosalind-discovery model in docs October 10, 2026 — publication time…]]
+- `2026-10-11` [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th|ChatGPT for Teens puts OpenAI's age-aware safeguards into the consumer spotlight]]
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-openai-docs-list-a-gpt-rosalind-discovery-model-but-launch-d|OpenAI docs list a gpt-rosalind-discovery model, but launch details remain sparse]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than|Nace AI open-sources Drex 1.5 for option scoring rather than prose generation]]
+- `2026-10-10` [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring|Microsoft releases Decision-1, a Qwen3.5-9B decision-scoring model]]
+- `2026-10-10` [[2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof|Mathematicians react with shock and grief to OpenAI's proof flood]]
+- `2026-10-10` [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan|Gemini 4 “Carbon” reportedly matches Opus 5.5 coding performance]]
+- `2026-10-10` [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono|Agent sandbox-escape narratives intensify scrutiny of autonomous cyber evaluations]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco|OpenAI’s revenue reset sharpens scrutiny on frontier-lab economics]]
+- `2026-10-09` [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l|OpenAI’s Decisions API points model platforms toward typed, low-latency workflow control]]
 - `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
 - `2026-10-09` [[2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i|OpenAI uncovers Russian and Iranian AI-enabled false-front influence operations]]
+- `2026-10-09` [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re|OpenAI seeks $30B in fresh capital at $1.4T valuation after revenue correction]]
+- `2026-10-09` [[2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of|OpenAI safety crisis deepens after fired researchers warn of chilling effect]]
 - `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
 - `2026-10-09` [[2026-10-09-openai-fires-three-safety-researchers-former-employees-press|OpenAI fires three safety researchers; former employees press for outside auditors]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt|OpenAI adds interactive graphics to ChatGPT]]
+- `2026-10-09` [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc|OpenAI Decisions API enters public beta for typed, low-latency answers]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
 - `2026-10-08` [[2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project|OpenAI's revenue reportedly comes in $20B below prior projection]]

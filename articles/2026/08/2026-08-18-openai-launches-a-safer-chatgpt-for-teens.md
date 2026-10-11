@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
+- 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
-- 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 embedding_id: 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI released ChatGPT for Teens, adding age-appropriate safety measures, paren
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens]]
+**Related:** [[2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent]] · [[2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and]] · [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th]] · [[2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
 <!-- graph:end -->

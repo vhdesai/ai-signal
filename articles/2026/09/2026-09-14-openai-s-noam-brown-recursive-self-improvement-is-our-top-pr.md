@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: The Information
 url_original: https://www.theinformation.com/articles/openais-top-priority-for-ai-agents-is-automating-ai-research-noam-brown
 url_canonical: https://www.theinformation.com/articles/openais-top-priority-for-ai-agents-is-automating-ai-research-noam-brown
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: d5dd43524b473332039f88acbf1824c8b2ea2dbf23693c8ab3609217a268034f
 normalized_title_hash: 7ca218590030e102

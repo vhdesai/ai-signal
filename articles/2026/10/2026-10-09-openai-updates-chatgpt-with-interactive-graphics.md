@@ -19,12 +19,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
-- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-- 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+dedupe_status: duplicate
+canonical_article_id: 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
+related_article_ids: []
 embedding_id: 2026-10-09-openai-updates-chatgpt-with-interactive-graphics
 event_name: ''
 ---
@@ -38,5 +35,5 @@ OpenAI updated ChatGPT with interactive graphics, expanding the assistant beyond
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
+**Canonical:** [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt]]
 <!-- graph:end -->

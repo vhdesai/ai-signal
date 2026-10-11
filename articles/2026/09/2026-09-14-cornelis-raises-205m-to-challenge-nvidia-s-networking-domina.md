@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/14/cornelis-205-million-nvidia-networking/
 url_canonical: https://techcrunch.com/2026/09/14/cornelis-205-million-nvidia-networking/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 636b2cc1674432923f49442929fed540c4e4f85043b3694fe2396ac3dcac40f4
 normalized_title_hash: 2ec0826dd4419146

@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1287
+member_count: 1290
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1287 connected article(s).
+> Auto-generated topic hub. 1290 connected article(s).
 
 - `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text|TypeSafe’s Jev funding shows investor appetite for non-text decision models]]
+- `2026-10-09` [[2026-10-09-typesafe-ai-raises-870-million-as-non-text-decision-model-je|TypeSafe AI raises $870 million as non-text decision model Jev gains enterprise traction]]
+- `2026-10-09` [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re|OpenAI seeks $30B in fresh capital at $1.4T valuation after revenue correction]]
 - `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
 - `2026-10-08` [[2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation|Arena raises $200 million at a $3.1 billion valuation]]
 - `2026-10-08` [[2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation|AI leaderboard Arena nearly doubles to $3.1B valuation]]

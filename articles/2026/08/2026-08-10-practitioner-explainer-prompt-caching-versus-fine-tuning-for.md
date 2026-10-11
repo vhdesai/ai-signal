@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: Machine Learning Mastery
 url_original: https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/
 url_canonical: https://machinelearningmastery.com/prompt-caching-vs-fine-tuning-a-cost-and-latency-decision-framework/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 9fd94499e8b46016e3e989590088bd25aad0212dff70d298b5b05d034ceae977

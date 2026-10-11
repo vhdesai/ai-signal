@@ -1,16 +1,19 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 291
+member_count: 294
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 291 connected article(s).
+> Auto-generated entity hub. 294 connected article(s).
 
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund|Oracle, Broadcom and SpaceX seek large debt packages to fund AI chips]]
 - `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
 - `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
 - `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]

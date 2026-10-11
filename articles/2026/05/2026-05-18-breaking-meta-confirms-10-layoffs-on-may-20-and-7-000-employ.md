@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: Reuters / Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/meta-lays-out-plans-for-may-20-layoffs-restructuring-internal-document-says-191547511.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/meta-lays-out-plans-for-may-20-layoffs-restructuring-internal-document-says-191547511.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 294b301ff5322b98ee80f58102fce664cd17ffb67fcf0e2ab3f89decd1244b87

@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: EdTech Innovation Hub
 url_original: https://www.edtechinnovationhub.com/news/openai-launches-mentalhealthbench-safety-benchmark-2026
 url_canonical: https://www.edtechinnovationhub.com/news/openai-launches-mentalhealthbench-safety-benchmark-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 29ed773e731ac4fe9b65e1f5c5731bb56adce549532743be10f08c2ab62b9970
@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
+- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
-- 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 embedding_id: 2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet
 event_name: ''
 ---
@@ -38,5 +38,5 @@ EdTech Innovation Hub reports OpenAI launched MentalHealthBench, a benchmark spe
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]] · [[2026-08-18-openai-launches-a-safer-chatgpt-for-teens]]
+**Related:** [[2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens]]
 <!-- graph:end -->

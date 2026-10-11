@@ -1,18 +1,44 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2134
+member_count: 2160
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2134 connected article(s).
+> Auto-generated topic hub. 2160 connected article(s).
 
+- `2026-10-11` [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag|Today's verified reporting centers on human control of AI agents, independent evaluation, and the supply chains…]]
+- `2026-10-11` [[2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has|INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more reliant than ever on foreign…]]
+- `2026-10-11` [[2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f|INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and defense vehicles October 10, 2026,…]]
+- `2026-10-11` [[2026-10-11-infrastructure-ai-adjacent-m-a-cloudflare-acquires-deno-to-i|INFRASTRUCTURE AI-ADJACENT M&A Cloudflare acquires Deno to improve its Workers programming model October 10, 2026, 9:25…]]
+- `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th|ChatGPT for Teens puts OpenAI's age-aware safeguards into the consumer spotlight]]
+- `2026-10-10` [[2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued|The Stanford-Elsevier world top-2% scientists list continued drawing coverage, including India-focused and university-specific reports. The list matters because AI competition is increasingly constrained by elite research talent, not only compute and capital. The ongoing attention also shows how rankings and talent pipelines are becoming part of national AI strategy.]]
+- `2026-10-10` [[2026-10-10-tech-workers-are-bringing-ai-compute-into-the-home-signaling|Tech workers are bringing AI compute into the home, signaling demand for local control]]
+- `2026-10-10` [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c|Petra Power pitches solid-oxide fuel cells for future data-center energy needs]]
+- `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than|Nace AI open-sources Drex 1.5 for option scoring rather than prose generation]]
+- `2026-10-10` [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n|GPU access becomes a fragmented market across hyperscalers, neoclouds and direct suppliers]]
+- `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]
+- `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]
+- `2026-10-10` [[2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import|AI data-center buildout is increasing U.S. reliance on imported semiconductors]]
+- `2026-10-09` [[2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p|Wall Street investors warn about AI concentration risk and private-equity exit pressure]]
 - `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text|TypeSafe’s Jev funding shows investor appetite for non-text decision models]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund|Oracle, Broadcom and SpaceX seek large debt packages to fund AI chips]]
 - `2026-10-09` [[2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del|Oracle trucks natural gas to AI data centers as pipeline delays threaten projects]]
+- `2026-10-09` [[2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco|OpenAI’s revenue reset sharpens scrutiny on frontier-lab economics]]
 - `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
+- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-laptop-makers-rethink-shift-away-from-china-as-component-cos|Laptop makers rethink shift away from China as component costs surge]]
+- `2026-10-09` [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation|Isomorphic Labs reportedly seeks funding at a $40B valuation]]
+- `2026-10-09` [[2026-10-09-daily-ai-news-digest-october-10-2026|Daily AI News Digest – October 10, 2026]]
 - `2026-10-09` [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us|Chinese optical-chip stocks sell off on fears of possible US curbs]]
 - `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-09` [[2026-10-09-apple-acqui-hires-huxe-founded-by-former-notebooklm-develope|Apple acqui-hires Huxe, founded by former NotebookLM developers]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc|Amazon drops local-government data-center NDAs as infrastructure scrutiny rises]]
+- `2026-10-09` [[2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows|Amazon drops data-center NDAs as community backlash grows]]
 - `2026-10-08` [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena|Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure]]
 - `2026-10-08` [[2026-10-08-nvidia-plans-to-invest-in-chip-rival-d-matrix-as-challengers|Nvidia plans to invest in chip rival d-Matrix as challengers choose partnership]]
 - `2026-10-07` [[2026-10-07-subject-daily-ai-news-digest-october-7-2026|Subject: Daily AI News Digest – October 7, 2026]]

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/articles/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai
 url_canonical: https://www.wsj.com/articles/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d15b54f0e97bde511edbe84542e336e66ed984388597376e4598f73a0074c6f2

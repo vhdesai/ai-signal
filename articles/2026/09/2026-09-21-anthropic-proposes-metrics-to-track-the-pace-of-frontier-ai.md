@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Anthropic
 url_original: https://www.anthropic.com/institute/measuring-pace-of-ai-development
 url_canonical: https://www.anthropic.com/institute/measuring-pace-of-ai-development
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060714_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 555f89d90d51232fc63c6366813c997dbd994bc54bcdac1e5c6b20212849f889

@@ -1,15 +1,37 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4830
+member_count: 4852
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4830 connected article(s).
+> Auto-generated topic hub. 4852 connected article(s).
 
+- `2026-10-11` [[2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e|Voice AI still lacks a clear ChatGPT-style adoption moment, executives say]]
+- `2026-10-11` [[2026-10-11-the-digest-prioritizes-original-date-verified-publications-a|The digest prioritizes original, date-verified publications and deduplicates overlapping coverage]]
+- `2026-10-11` [[2026-10-11-grok-shopping-claim-raises-payment-data-concerns|Grok shopping claim raises payment-data concerns]]
+- `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-10` [[2026-10-10-a16z-few-consumers-pay-for-ai-but-top-payers-spend-heavily|a16z: few consumers pay for AI, but top payers spend heavily]]
+- `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]
+- `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]
+- `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]
+- `2026-10-10` [[2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover|Apple–Huxe talent and licensing agreement receives new coverage]]
+- `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-person|Apple discloses deal to hire Huxe AI team and license personalized-audio technology]]
+- `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]
+- `2026-10-10` [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono|Agent sandbox-escape narratives intensify scrutiny of autonomous cyber evaluations]]
+- `2026-10-09` [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text|TypeSafe’s Jev funding shows investor appetite for non-text decision models]]
+- `2026-10-09` [[2026-10-09-typesafe-s-jev-reaches-7-5b-valuation-weeks-after-launch|TypeSafe's Jev reaches $7.5B valuation weeks after launch]]
+- `2026-10-09` [[2026-10-09-typesafe-ai-raises-870-million-as-non-text-decision-model-je|TypeSafe AI raises $870 million as non-text decision model Jev gains enterprise traction]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco|OpenAI’s revenue reset sharpens scrutiny on frontier-lab economics]]
+- `2026-10-09` [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l|OpenAI’s Decisions API points model platforms toward typed, low-latency workflow control]]
 - `2026-10-09` [[2026-10-09-openai-updates-chatgpt-with-interactive-graphics|OpenAI updates ChatGPT with interactive graphics]]
-- `2026-10-09` [[2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation|Isomorphic Labs reportedly seeks funding at a $40B valuation]]
+- `2026-10-09` [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re|OpenAI seeks $30B in fresh capital at $1.4T valuation after revenue correction]]
+- `2026-10-09` [[2026-10-09-openai-adds-interactive-graphics-to-chatgpt|OpenAI adds interactive graphics to ChatGPT]]
+- `2026-10-09` [[2026-10-09-gemini-shifts-free-users-to-automatic-model-selection|Gemini shifts free users to automatic model selection]]
+- `2026-10-09` [[2026-10-09-daily-ai-news-digest-october-10-2026|Daily AI News Digest – October 10, 2026]]
+- `2026-10-09` [[2026-10-09-apple-acqui-hires-huxe-founded-by-former-notebooklm-develope|Apple acqui-hires Huxe, founded by former NotebookLM developers]]
 - `2026-10-09` [[2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in|AI tool makes culturally appropriate lessons for teachers in India]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent|Welcome to Gemini at Work 2026: Introducing the Gemini agent]]

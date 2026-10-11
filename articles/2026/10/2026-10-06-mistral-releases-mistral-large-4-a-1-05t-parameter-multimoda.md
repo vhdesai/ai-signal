@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/
 url_canonical: https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 4e199b1af5ef649b66258a1db79ac53e81c84408aeb345bc72acb77eea2a0824

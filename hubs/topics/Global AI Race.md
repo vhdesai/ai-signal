@@ -1,18 +1,25 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1599
+member_count: 1606
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1599 connected article(s).
+> Auto-generated topic hub. 1606 connected article(s).
 
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents|Nace.AI open-sources Drex 1.5, a 9B decision model for agents and backend workflows]]
+- `2026-10-10` [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec|Microsoft releases Decision-1 as decision-scoring models become an agent-routing category]]
+- `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]
 - `2026-10-09` [[2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x|The Information: China's AI model race gets more crowded as Xiaomi, Meituan and miHoYo build LLMs]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
+- `2026-10-09` [[2026-10-09-laptop-makers-rethink-shift-away-from-china-as-component-cos|Laptop makers rethink shift away from China as component costs surge]]
 - `2026-10-09` [[2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin|Independent tests say Mistral Large 4 still trails some Chinese open models]]
 - `2026-10-09` [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us|Chinese optical-chip stocks sell off on fears of possible US curbs]]
 - `2026-10-09` [[2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus|China state funds double down on Hua Hong in legacy-chip push]]
+- `2026-10-09` [[2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima|Alibaba Qwen releases Qwen-Image-2.1-Turbo for faster 2K image generation and editing]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-china-s-manus-raises-more-than-500m-after-split-with-meta|China's Manus raises more than $500M after split with Meta]]
 - `2026-10-08` [[2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50|Alibaba's AI cloud revenue set to surge more than 50%]]

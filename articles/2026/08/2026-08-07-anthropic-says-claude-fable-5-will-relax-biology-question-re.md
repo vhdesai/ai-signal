@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: Times Now
 url_original: https://www.timesnownews.com/technology-science/anthropic-says-claude-fable-5-will-stop-rejecting-biology-questions-warns-of-bioweapon-risks-article-155361466
 url_canonical: https://www.timesnownews.com/technology-science/anthropic-says-claude-fable-5-will-stop-rejecting-biology-questions-warns-of-bioweapon-risks-article-155361466
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 750480b4b99a0d67557f23a00874faa77d742aee2111bc5ab756facdf26c5b0b

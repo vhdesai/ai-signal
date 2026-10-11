@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Business Insider
 url_original: https://www.businessinsider.com/meta-tried-to-grab-employee-data-for-ai-training
 url_canonical: https://www.businessinsider.com/meta-tried-to-grab-employee-data-for-ai-training
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: c7ad979e373c070203f6a71cb269d9312b8732b1d38e1f65931f6e69195c0cf2

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: The Wall Street Journal
 url_original: https://techcrunch.com/2026/09/14/openai-glass-imaging-acquisition-camera-ai/
 url_canonical: https://techcrunch.com/2026/09/14/openai-glass-imaging-acquisition-camera-ai/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: b2c655cb7a3fc0a2981374eb9cebdc5ad2eb1374e61bc60a659d3ae8990e4cb1
 normalized_title_hash: d4f7dbe4fd6400ae

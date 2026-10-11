@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
 - 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
-- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 embedding_id: 2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DW framed the central AI risk question as whether the bigger danger is rapid cap
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
+**Related:** [[2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p]] · [[2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]]
 <!-- graph:end -->

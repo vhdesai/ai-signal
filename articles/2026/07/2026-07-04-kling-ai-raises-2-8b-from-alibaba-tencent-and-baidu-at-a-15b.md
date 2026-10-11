@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: Analytics Insight
 url_original: https://www.analyticsinsight.net/news/alibaba-tencent-and-baidu-join-28-billion-funding-round-for-kling-ai
 url_canonical: https://www.analyticsinsight.net/news/alibaba-tencent-and-baidu-join-28-billion-funding-round-for-kling-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 2799d1d7f245cb1c053be999d9d15004be06a4a595de77f8a2a0de266826f420

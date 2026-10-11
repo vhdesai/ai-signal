@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: UC San Diego (Ideker lab), Cancer Discovery
 url_original: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response
 url_canonical: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 7b2ed8b8a9b3bb2d059ff38e138a579d6d8fd6ccf574ff583481b5d1039ce387
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-- 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 embedding_id: 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UCSD researchers published MutationProjector in Cancer Discovery — an AI model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th]]
+**Related:** [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: PR Newswire
 url_original: https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/relativity-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal/2411728
 url_canonical: https://www.manilatimes.net/2026/08/25/tmt-newswire/pr-newswire/relativity-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-enterprise-for-legal/2411728
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: cf68f544de0fceb6edb4673d2b8ba8505a234429c5f8a076439d0bff37e3456b
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers
 - 2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
-- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
+- 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 embedding_id: 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Relativity’s RelativityOne now integrates with Google Cloud’s Gemini Enterpr
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers]] · [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
+**Related:** [[2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers]] · [[2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]] · [[2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/09/24/nvidia-backed-firmus-plans-5-billion-ipo-despite-77-million-loss-forecast/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/09/24/nvidia-backed-firmus-plans-5-billion-ipo-despite-77-million-loss-forecast/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 699f14c4fd697dbbcf33b5fc68cb8108e0de6cfc72493c1965ace42fee897bfd

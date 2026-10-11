@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/chinas-zhipu-ai-shares-surge-on-4-0-billion-fundraising-00c6abc7
 url_canonical: https://www.wsj.com/tech/ai/chinas-zhipu-ai-shares-surge-on-4-0-billion-fundraising-00c6abc7
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 2fe4a7d9bdc512b17e1f861b7a0296c3e62f1cdec03c68ad5d29e58f4fe8289e

@@ -5,10 +5,10 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/
 url_canonical: https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/
-url_status: ok
-digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
-  9, 2026.md
-content_hash: 782d6bc174434f21074f3f10ab87073c1e0a686f4b207a13a8b25d8edb354fbc
+url_status: found
+digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
+  10, 2026.md
+content_hash: b426fbf71145a20a7719bfbb50e8518b9ddfbb1dad8d629c41002412593dadab
 normalized_title_hash: 92d84c1ddb39c21f
 canonical_url_hash: 3933d67d5d04ace7
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Claude Science creates first complete ultraviolet map of the sky
 
-Johns Hopkins astrophysicist Brice Menard used Claude Science to build the first complete ultraviolet map of the sky. AI agents pulled data from multiple space missions, calibrated it, and filled gaps with inpainting; predictions averaged about 10% deviation from actual measurements. Academic Research RESEARCH POLICY
+Johns Hopkins astrophysicist Brice Menard used Claude Science to build the first complete ultraviolet map of the sky. AI agents downloaded data from multiple space missions, calibrated it, and filled gaps with inpainting; predictions averaged about 10% deviation from actual measurements. RESEARCH
 
 <!-- graph:start -->
 ## Connections

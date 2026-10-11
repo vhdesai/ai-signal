@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Forbes
 url_original: https://www.forbes.com/sites/gabrielalinzainescu/2026/09/09/meta-launches-muse-personal-ai-agent-as-staff-flag-security-flaws/
 url_canonical: https://www.forbes.com/sites/gabrielalinzainescu/2026/09/09/meta-launches-muse-personal-ai-agent-as-staff-flag-security-flaws/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-09_073521_Final-Daily-AI-News-Digest.md
 content_hash: 7d8055efc0ee4cfa7db8e22e19da39b87ca842d9683e3b13e550d2a2dd94faae
 normalized_title_hash: 96bf218d2684994f

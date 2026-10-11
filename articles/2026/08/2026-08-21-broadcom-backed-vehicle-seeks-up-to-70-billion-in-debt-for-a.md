@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: CNBC
 url_original: https://www.cnbc.com/video/2026/08/21/broadcom-backed-spv-tapping-debt-market-for-70-billion-to-support-ai-buildout-sources.html
 url_canonical: https://www.cnbc.com/video/2026/08/21/broadcom-backed-spv-tapping-debt-market-for-70-billion-to-support-ai-buildout-sources.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 7782981e79fada0eb81fc15a1df19fc2340ebe950ee920fb7300f3ca15e0a79c
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370
-- 2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus
+- 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
 embedding_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A Broadcom-backed SPV is in talks to raise $60–70B in senior secured debt plus
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370]] · [[2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus]]
+**Related:** [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip]] · [[2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan]] · [[2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for]] · [[2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370]] · [[2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund]]
 <!-- graph:end -->

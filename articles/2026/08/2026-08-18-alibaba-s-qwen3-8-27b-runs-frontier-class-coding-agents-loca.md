@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required
 url_canonical: https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 3fc0c71d3bb72f93a08ed38dc383c671f65ece74ee1da76b0042b7d40632a5ef
 normalized_title_hash: ad18fd8138f3ceda

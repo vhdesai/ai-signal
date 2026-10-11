@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: 404 Media
 url_original: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
 url_canonical: https://www.404media.co/city-that-arrested-person-for-clapping-at-data-center-meeting-moves-to-virtual-townhalls-for-public-safety/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-08-09_060558_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 9d0cf50dfadda34016356b3e27cc183783627a4fdfea3d1b1b00ffb5cfcf6b2f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
-- 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
+- 2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast
 embedding_id: 2026-08-07-city-that-arrested-a-person-for-clapping-at-a-data-center-me
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Emporia, Kansas held its city commission meeting virtually with no public commen
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo]]
+**Related:** [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col]] · [[2026-09-04-september-5-2026-bleepingcomputer]] · [[2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats]] · [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast]]
 <!-- graph:end -->

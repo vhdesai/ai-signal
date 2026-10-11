@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
+- 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
-- 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 embedding_id: 2026-04-16-microsoft-released-gigatime-an-open-source-cancer-cell-imagi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft released GigaTIME, an open-source cancer cell imaging model trained on
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon]]
+**Related:** [[2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di]] · [[2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf]] · [[2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit]] · [[2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]]
 <!-- graph:end -->

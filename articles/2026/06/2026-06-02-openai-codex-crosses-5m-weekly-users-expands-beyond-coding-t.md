@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: OpenAI; Axios
 url_original: https://openai.com/index/codex-for-knowledge-work/
 url_canonical: https://openai.com/index/codex-for-knowledge-work/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: c096f136a39de1ca664cb09b630f3abf526aaee29da52a2654ec3bdd0c9fb278

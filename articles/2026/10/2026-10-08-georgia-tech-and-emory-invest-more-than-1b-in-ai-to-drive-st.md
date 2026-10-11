@@ -6,7 +6,7 @@ date: '2026-10-08'
 source: 5:50 p.m. EDT · Newswise repost of Georgia Tech News Center
 url_original: https://www.newswise.com/articles/georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-state-s-jobs-economic-growth
 url_canonical: https://www.newswise.com/articles/georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-state-s-jobs-economic-growth
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-10-09_060344_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 4f89d905d4c8a6301106df28cfcc2baeb355132f2341b1511ecebd77e467a6c6

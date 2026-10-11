@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: PYMNTS
 url_original: https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/
 url_canonical: https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 5a4299fea7e8c180f552a3c69513ef96a683758c35162a2ad0b9e67053561c0d
 normalized_title_hash: 1170fe86e7c00d85

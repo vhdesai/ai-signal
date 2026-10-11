@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: Futurism
 url_original: https://futurism.com/scientists-download-frontier-ai-self-driving-car-2026
 url_canonical: https://futurism.com/scientists-download-frontier-ai-self-driving-car-2026
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-27_070337_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: b5415526ffa20e9a9a403439b35f18a59d01143f907d34856745a720b78ef1e9
@@ -36,10 +36,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
-- 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 embedding_id: 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
 event_name: ''
 ---
@@ -53,5 +53,5 @@ Futurism reports a research team embedded a frontier LLM directly onto a self-dr
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[M&A Activity]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]]
+**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
 <!-- graph:end -->

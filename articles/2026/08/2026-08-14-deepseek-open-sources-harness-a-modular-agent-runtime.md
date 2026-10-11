@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api
 url_canonical: https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 84189ef500bb3d1e06084941f23bfc497205aa1ec0046a93ff20243e98a0dec6
 normalized_title_hash: 3123524fd80172bc

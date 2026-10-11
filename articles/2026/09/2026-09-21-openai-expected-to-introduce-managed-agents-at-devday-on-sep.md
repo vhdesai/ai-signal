@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/09/21/openai-plans-to-introduce-managed-agents-at-devday-2026/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/09/21/openai-plans-to-introduce-managed-agents-at-devday-2026/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 29e039b3395944ddf47d782968fd87951ce2bd4c5b506faa4c5e5465f95f74e4

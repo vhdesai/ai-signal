@@ -34,10 +34,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-26-daily-ai-news-digest-september-27-2026
-- 2026-09-29-daily-ai-news-digest-september-30-2026
 embedding_id: 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 event_name: ''
 ---
@@ -51,5 +51,5 @@ Key themes this edition: AI Safety & Policy (5): Wikimedia says OpenAI agents tr
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-29-daily-ai-news-digest-september-30-2026]]
+**Related:** [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]]
 <!-- graph:end -->

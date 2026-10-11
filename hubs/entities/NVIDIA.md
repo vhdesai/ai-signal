@@ -1,16 +1,24 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1655
+member_count: 1663
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1655 connected article(s).
+> Auto-generated entity hub. 1663 connected article(s).
 
+- `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
+- `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]
+- `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n|GPU access becomes a fragmented market across hyperscalers, neoclouds and direct suppliers]]
+- `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]
 - `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
+- `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]
 - `2026-10-09` [[2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch|OpenAI revenue confusion hits Oracle, CoreWeave and the AI chip stack]]
-- `2026-10-09` [[2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability|MIT Technology Review: We put too much faith in AI's ability to say no]]
+- `2026-10-09` [[2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc|OpenAI Decisions API enters public beta for typed, low-latency answers]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r|Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report]]
 - `2026-10-08` [[2026-10-08-nvidia-plans-to-invest-in-chip-rival-d-matrix-as-challengers|Nvidia plans to invest in chip rival d-Matrix as challengers choose partnership]]

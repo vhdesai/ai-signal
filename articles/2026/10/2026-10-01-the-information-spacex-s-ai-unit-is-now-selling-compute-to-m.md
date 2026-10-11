@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The Information (Exclusive)]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+AI+unit+cloud+Microsoft+Anthropic
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+AI+unit+cloud+Microsoft+Anthropic
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: e1c5eb5cc359d35508ced12b752b3b67bea3fa8fb26b35d211a39519e8ea2db1

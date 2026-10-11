@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
 url_canonical: https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_070034_Final-Daily-AI-News-Digest.md
 content_hash: 16641b76f5974097f4a2843f9611a0f1a73b4e1b4e88cca94999a5b28e9f656a
 normalized_title_hash: 100a00d0fa014b69
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 embedding_id: 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Notion temporarily disabled Anthropic model access after service disruptions. Th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
+**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
 <!-- graph:end -->

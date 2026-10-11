@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-new-equinix-nvidia-and-together-ai-launch-a-distributed-infe
 - 2026-09-02-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc
+- 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Equinix is positioning its colocation and interconnection footprint as the neutr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-03-new-equinix-nvidia-and-together-ai-launch-a-distributed-infe]] · [[2026-09-02-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]] · [[2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-09-03-new-equinix-nvidia-and-together-ai-launch-a-distributed-infe]] · [[2026-09-02-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]] · [[2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n]] · [[2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: The Next Web
 url_original: https://thenextweb.com/news/openai-confirms-wiki-incident-misalignment-disclosure-framework-reuters-kept-hidden-gpai-code-of-practice-gap-ai-office
 url_canonical: https://thenextweb.com/news/openai-confirms-wiki-incident-misalignment-disclosure-framework-reuters-kept-hidden-gpai-code-of-practice-gap-ai-office
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-06_063137_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 9eef8971d8f4a3d9df756f4ad81812eaa473f0aadd0aaa463fbf61aa7e0fe05e

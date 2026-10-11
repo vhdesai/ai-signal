@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-daily-ai-news-digest
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 - 2026-04-23-the-most-important-ai-developments-across-industry-research
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 embedding_id: 2026-05-18-model-releases-technical-milestones-research-breakthroughs-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-daily-ai-news-digest]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-10-07-subject-daily-ai-news-digest-october-7-2026]]
+**Related:** [[2026-04-02-daily-ai-news-digest]] · [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

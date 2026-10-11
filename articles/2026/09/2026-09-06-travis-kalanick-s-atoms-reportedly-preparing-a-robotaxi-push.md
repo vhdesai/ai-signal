@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
 url_canonical: https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-07_062259_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 83d1f352dc251a66f026387f77243d06c6f5c441766e7d048c454a93b034d176

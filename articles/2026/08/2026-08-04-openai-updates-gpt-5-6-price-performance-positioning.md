@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: OpenAI Blog
 url_original: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
 url_canonical: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: e87492d88e110a1d3f541b36584c4715e20adf930a6e8432f339bd1b9cffec59

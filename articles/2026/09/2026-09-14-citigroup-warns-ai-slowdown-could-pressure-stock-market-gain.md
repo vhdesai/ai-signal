@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/citigroup-warns-ai-slowdown-stock-market/
 url_canonical: https://cryptobriefing.com/citigroup-warns-ai-slowdown-stock-market/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 7e55afb51b1f78fe7cc5764060b01c9560e04654ed061e7e7f17e4c7c8ce4b72

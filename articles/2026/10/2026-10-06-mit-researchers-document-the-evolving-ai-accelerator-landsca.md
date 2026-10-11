@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: MIT News
 url_original: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
 url_canonical: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 26dd04e6bc9127e562001c5c01b37f8db4c8cf818cd3073584a5075562f37210

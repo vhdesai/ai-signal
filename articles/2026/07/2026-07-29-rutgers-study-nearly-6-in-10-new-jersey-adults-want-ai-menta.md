@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: Medical Xpress
 url_original: https://medicalxpress.com/news/2026-07-jerseyans-ai-mental-health.html
 url_canonical: https://medicalxpress.com/news/2026-07-jerseyans-ai-mental-health.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 00746ac3403bc2bf75827f76276ca2e8398a3d7b5a103ee47410ddca3fd27bc7

@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
 - 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
+- 2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
 embedding_id: 2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec
 event_name: ''
@@ -37,5 +38,5 @@ AWS's Strands Labs quietly open-sourced "Strands Decider 2B," a two-billion-para
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents]] · [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that]]
+**Related:** [[2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents]] · [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]] · [[2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that]]
 <!-- graph:end -->

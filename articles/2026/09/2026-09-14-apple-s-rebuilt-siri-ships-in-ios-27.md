@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/14/apple-siri-ios-27-hands-on-review/
 url_canonical: https://techcrunch.com/2026/09/14/apple-siri-ios-27-hands-on-review/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 4a0ac811057441ebed9af77e4491264c8ff10b93f6a6b201dc9a2eccb41da687
 normalized_title_hash: 8dfeaddd171548ff

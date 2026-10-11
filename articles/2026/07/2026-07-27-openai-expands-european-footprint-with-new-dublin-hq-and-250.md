@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: IDA Ireland
 url_original: https://www.idaireland.com/latest-news/press-release/openai-announces-new-eu-hq-and-250-additional-jobs
 url_canonical: https://www.idaireland.com/latest-news/press-release/openai-announces-new-eu-hq-and-250-additional-jobs
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 3cd0e9b28d1eb1879b1fe4f5bf5d442dd58cb350f7625b37dc55e2606563abc6

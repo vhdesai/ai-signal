@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi
 url_canonical: https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: efe82a20e9957aa03c988cd7a7510ed4b1c77e02510fd4cea06c581c9c84a010

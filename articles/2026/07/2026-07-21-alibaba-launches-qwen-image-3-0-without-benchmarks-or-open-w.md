@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: Unite.AI**
 url_original: https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/
 url_canonical: https://www.unite.ai/alibaba-launches-qwen-image-3-0-without-benchmarks-or-weights/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 36f139fccb87ae876e9840e9e2cd32f7ad94c48381a62e7cc6fef03d04a0017e
 normalized_title_hash: ef12b5b1018fbd2b
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
+- 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-- 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 embedding_id: 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba released its newest image-generation model but departed from its open-we
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]] · [[2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge]]
+**Related:** [[2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial]] · [[2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache]] · [[2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima]] · [[2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl]]
 <!-- graph:end -->

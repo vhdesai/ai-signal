@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Forbes
 url_original: https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses/
 url_canonical: https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 7cf474d1800b53b9b08a9b76843d3f308efc9d2fb8abccec40c6fd4e7021e078

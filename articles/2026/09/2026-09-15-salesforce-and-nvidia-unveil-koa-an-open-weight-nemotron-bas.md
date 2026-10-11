@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
 url_canonical: https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: fc7d07257630a711d4a29da366e5b68810d237e7b8a2503008df8b2731bad477
 normalized_title_hash: 440e822bc766a900

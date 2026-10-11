@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
 url_canonical: https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 25a29121767ccbbb9349b8aa2ed5c3fb9c2b51541da3ae582aa9a9630b161f7f

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
 - 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
 - 2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built
+- 2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
-- 2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race
 embedding_id: 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Axios reports Reflection preparing an open-weight system backed by Nvidia. No la
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race]]
+**Related:** [[2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse]] · [[2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de]] · [[2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built]] · [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]]
 <!-- graph:end -->

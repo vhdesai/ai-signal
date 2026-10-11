@@ -32,11 +32,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-01-daily-ai-news-digest-october-1-2026
-- 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
 embedding_id: 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Key themes this edition: - AI Safety & Policy (4): Anthropic widens vetted cyber
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]] · [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving]]
+**Related:** [[2026-10-09-subject-daily-ai-news-digest-october-9-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]] · [[2026-08-27-subject-daily-ai-news-digest-august-27-2026]] · [[2026-10-01-daily-ai-news-digest-october-1-2026]]
 <!-- graph:end -->

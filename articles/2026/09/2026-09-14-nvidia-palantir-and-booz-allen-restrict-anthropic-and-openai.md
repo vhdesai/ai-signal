@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: The Information**
 url_original: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
 url_canonical: https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-and-booz-allen-to-restrict-model-use
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 46961992e35bcbab6b9cda700b90234e31b1f4c10457a22aee3803e66dfc711d
 normalized_title_hash: f176dbf5dc3e7b00

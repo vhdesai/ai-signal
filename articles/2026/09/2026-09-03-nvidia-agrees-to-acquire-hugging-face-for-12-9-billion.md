@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-hugging-face-12-174600890.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-hugging-face-12-174600890.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-05_062136_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 9ec8124bb55d0dee2a30d7b8b4376e3021e7be02265da103a23b7cb65e9d11ea

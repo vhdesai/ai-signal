@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: The Information
 url_original: https://www.theinformation.com/articles/microsoft-hurt-by-server-shortage-aims-to-triple-cloud-capacity-by-2032
 url_canonical: https://www.theinformation.com/articles/microsoft-hurt-by-server-shortage-aims-to-triple-cloud-capacity-by-2032
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-09-12_070058_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 0a59656614199b14b967c90f6fc1149f704aeae2f1c3c08506aff4d5d7604980

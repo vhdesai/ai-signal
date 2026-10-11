@@ -7,7 +7,7 @@ source: arXiv:2609.30266 (ELLIS Institute Tübingen / Max Planck Institute for I
   Systems / University of Tübingen), via Enterprise DNA
 url_original: https://arxiv.org/abs/2609.30266
 url_canonical: https://arxiv.org/abs/2609.30266
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: e2e9f1b48a59f104e3c849a5587764e397cbd9cccbe1ee70f6ea3d8128f17b5e
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
+- 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 embedding_id: 2026-09-26-llm-agents-can-easily-tamper-with-their-own-traces-coding-ag
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers led by Jeremy Qin, with Ameya Prabhu and Maksym Andriushchenko super
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a]]
+**Related:** [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]]
 <!-- graph:end -->

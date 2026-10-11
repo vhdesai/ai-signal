@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/
 url_canonical: https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 3f7f3d3cb9f6c3d937a19b9198608871e5dbbb5a89375e3963d4d2344f70047d

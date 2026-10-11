@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 692
+member_count: 702
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 692 connected article(s).
+> Auto-generated entity hub. 702 connected article(s).
 
+- `2026-10-11` [[2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr|POLICY RETAIL AI may change the price of your Big Mac and groceries — what this means for shoppers October 11, 2026,…]]
+- `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use|AI-driven dynamic pricing raises consumer trust and data-use questions]]
+- `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
+- `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
+- `2026-10-10` [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec|Microsoft releases Decision-1 as decision-scoring models become an agent-routing category]]
+- `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc|Amazon drops local-government data-center NDAs as infrastructure scrutiny rises]]
+- `2026-10-09` [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast|Amazon drops local-government data-center NDAs as AI infrastructure faces community scrutiny]]
+- `2026-10-09` [[2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows|Amazon drops data-center NDAs as community backlash grows]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-08` [[2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack|AWS patches AgentCore flaw that let one public agent hijack every agent in an account-region]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]
