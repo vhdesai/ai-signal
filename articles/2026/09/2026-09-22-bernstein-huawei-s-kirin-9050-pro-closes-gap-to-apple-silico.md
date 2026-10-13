@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
-- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
+- 2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er
 embedding_id: 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Equity-research firm Bernstein estimates Huawei's Kirin 9050 Pro (the Tau Scalin
 
 **Entities:** [[Apple]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er]]
 <!-- graph:end -->

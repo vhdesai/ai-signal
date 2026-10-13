@@ -1,19 +1,37 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2166
+member_count: 2184
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2166 connected article(s).
+> Auto-generated topic hub. 2184 connected article(s).
 
+- `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
+- `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
+- `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
+- `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet|Iluvatar CoreX unveils 144-GPU AI supernode in one cabinet]]
+- `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
+- `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
+- `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h|China Mobile triples capacity at Inner Mongolia AI compute hub]]
+- `2026-10-13` [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand|Asian memory-chip stocks sell off despite AI demand]]
+- `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]
 - `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]
+- `2026-10-12` [[2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus|Nvidia and Cisco propose denser pluggable optics for AI clusters]]
+- `2026-10-12` [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and|NVIDIA contributes Vera Rubin AI-factory designs to OCP and expands DSX open components]]
 - `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
 - `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier|Meta introduces Muse Wonder and Muse Wonder Full as frontier agent models]]
 - `2026-10-12` [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot|Intel and Broadcom warn capital costs could become an AI bottleneck]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
 - `2026-10-12` [[2026-10-12-bain-s-bridge-data-centres-seeks-upsized-6-6b-loan-for-malay|Bain's Bridge Data Centres seeks upsized $6.6B loan for Malaysia operations]]
+- `2026-10-12` [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw|Anthropic examines replication risks beyond datacenter hardware]]
+- `2026-10-12` [[2026-10-12-andreessen-horowitz-and-general-catalyst-race-to-secure-chip|Andreessen Horowitz and General Catalyst race to secure chips for startups]]
+- `2026-10-12` [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag|Alibaba Qwen introduces QwenGyre for extreme-long-horizon agent training]]
 - `2026-10-11` [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag|Today's verified reporting centers on human control of AI agents, independent evaluation, and the supply chains…]]
 - `2026-10-11` [[2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has|INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more reliant than ever on foreign…]]
 - `2026-10-11` [[2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f|INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and defense vehicles October 10, 2026,…]]

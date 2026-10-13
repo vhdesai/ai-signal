@@ -20,6 +20,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 - 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
 embedding_id: 2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo
@@ -34,5 +35,5 @@ China's CXMT sought to reassure investors that it is gaining share in higher-end
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo]]
+**Related:** [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe]] · [[2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo]]
 <!-- graph:end -->

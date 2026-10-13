@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-- 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 embedding_id: 2026-08-14-workday-potential-43b-take-private-highlights-ai-proof-verti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Workday is in discussions for a potential $43B take-private. Combined with Thoma
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]]
+**Related:** [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]]
 <!-- graph:end -->

@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
-- 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-- 2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia
+- 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 embedding_id: 2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA used AI Day Singapore to showcase regional work across public-sector AI, 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia]]
+**Related:** [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]]
 <!-- graph:end -->

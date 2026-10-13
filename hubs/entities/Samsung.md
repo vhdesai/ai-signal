@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 96
+member_count: 97
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 96 connected article(s).
+> Auto-generated entity hub. 97 connected article(s).
 
+- `2026-10-13` [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand|Asian memory-chip stocks sell off despite AI demand]]
 - `2026-09-29` [[2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen|Mistral CEO: U.S. AI Safety Debate Is “a Cover for the Negligence of Some of Our Competitors”]]
 - `2026-09-24` [[2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight|Micron ends 2GB GDDR7 production, narrowing an already tight memory market]]
 - `2026-09-21` [[2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir|Kairos Power Secures up to $100M from Samsung C&T for Its First Reactor, with Google as Offtaker]]

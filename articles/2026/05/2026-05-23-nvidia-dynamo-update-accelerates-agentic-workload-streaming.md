@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
-- 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
 embedding_id: 2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA's Dynamo platform received new enhancements aimed at multi-step "agentic"
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]]
+**Related:** [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

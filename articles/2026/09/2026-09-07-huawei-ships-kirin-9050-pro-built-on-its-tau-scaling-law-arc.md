@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
+- 2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er
 embedding_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Huawei unveiled the Kirin 9050 Pro, its first mobile processor built on the comp
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]] · [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]]
+**Related:** [[2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi]] · [[2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er]]
 <!-- graph:end -->

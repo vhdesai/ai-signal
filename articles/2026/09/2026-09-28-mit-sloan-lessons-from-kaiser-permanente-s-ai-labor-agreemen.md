@@ -42,7 +42,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
-- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+- 2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with
 embedding_id: 2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen
 event_name: ''
 ---
@@ -56,5 +56,5 @@ An MIT report details how Kaiser Permanente and the Alliance of Health Care Unio
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]]
+**Related:** [[2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with]]
 <!-- graph:end -->

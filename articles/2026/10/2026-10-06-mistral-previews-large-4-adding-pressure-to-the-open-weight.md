@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
+- 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 - 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
 - 2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api
-- 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 embedding_id: 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral opened an API preview of Large 4, a trillion-parameter model, with open 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]]
+**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api]]
 <!-- graph:end -->

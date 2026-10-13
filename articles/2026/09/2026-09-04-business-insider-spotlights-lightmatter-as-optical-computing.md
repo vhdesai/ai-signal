@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
@@ -39,5 +40,5 @@ Business Insider's AI Insider newsletter focused on Lightmatter and the case for
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]]
+**Related:** [[2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]]
 <!-- graph:end -->

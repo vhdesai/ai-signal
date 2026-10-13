@@ -1,19 +1,25 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1035
+member_count: 1041
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1035 connected article(s).
+> Auto-generated entity hub. 1041 connected article(s).
 
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le|Microsoft's split-personality retrosynthetic AI is a fast learner]]
+- `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
 - `2026-10-12` [[2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution|Microsoft’s Office Copilot turnaround puts product execution back in focus]]
 - `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
 - `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g|Microsoft president says the UK is best positioned to lead global AI safety regulation]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul|Microsoft president says UK is best placed to drive AI regulation]]
 - `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
 - `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-12` [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than|Brad Smith says washing machines face more safety rules than AI]]
 - `2026-10-12` [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls|Brad Smith calls for binding AI safety controls]]
 - `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]

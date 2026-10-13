@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
+- 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 embedding_id: 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA is working with Noetra and Japan's Ministry of Economy, Trade and Industr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-16-nvidia-and-japan-launch-world-s-first-national-ai-infrastruc]] · [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
+**Related:** [[2026-07-16-nvidia-and-japan-launch-world-s-first-national-ai-infrastruc]] · [[2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and]]
 <!-- graph:end -->

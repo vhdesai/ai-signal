@@ -30,6 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+- 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 embedding_id: 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
@@ -45,5 +46,5 @@ Federal law enforcement arrested an individual for smuggling Nvidia chips to Chi
 
 **Entities:** [[Baidu]] · [[NVIDIA]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
+**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

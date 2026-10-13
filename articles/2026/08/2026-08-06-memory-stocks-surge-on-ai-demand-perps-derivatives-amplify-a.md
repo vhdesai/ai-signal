@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
+- 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-- 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
 embedding_id: 2026-08-06-memory-stocks-surge-on-ai-demand-perps-derivatives-amplify-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The WSJ Markets A.M. newsletter highlights two converging forces in AI-related f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
+**Related:** [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris]]
 <!-- graph:end -->

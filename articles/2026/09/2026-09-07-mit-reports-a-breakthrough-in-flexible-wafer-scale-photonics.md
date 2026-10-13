@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
+- 2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 embedding_id: 2026-09-07-mit-reports-a-breakthrough-in-flexible-wafer-scale-photonics
 event_name: ''
@@ -34,5 +35,5 @@ MIT researchers reported progress on flexible wafer-scale photonics, a foundatio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]]
+**Related:** [[2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo]] · [[2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers]] · [[2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]]
 <!-- graph:end -->

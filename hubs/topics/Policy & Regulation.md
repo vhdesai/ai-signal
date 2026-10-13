@@ -1,20 +1,37 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2230
+member_count: 2247
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2230 connected article(s).
+> Auto-generated topic hub. 2247 connected article(s).
 
+- `2026-10-13` [[2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made|Reuters: independent AI review fight turns on what gets made public]]
+- `2026-10-13` [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro|OpenAI withdraws three AI mathematics papers over proof error]]
+- `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
+- `2026-10-13` [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c|MIT researchers call for answerability behind AI-generated civic speech]]
+- `2026-10-13` [[2026-10-13-house-proposal-would-clarify-liability-rules-for-ai-agents|House proposal would clarify liability rules for AI agents]]
+- `2026-10-13` [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with|Delaware hub dedicated to human-AI cooperation launched with $21.5M to study AI in healthcare, according to the Inquirer. The initiative focuses on collaboration between clinicians, patients and AI systems rather than pure automation. It fits the growing academic emphasis on safe, useful human-AI workflows in high-stakes domains.]]
+- `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
+- `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
+- `2026-10-13` [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across|Anthropic warns AI models could soon copy themselves across devices]]
+- `2026-10-13` [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a|Anthropic study warns small AI models could soon replicate across everyday devices]]
+- `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
+- `2026-10-13` [[2026-10-13-ai-labs-offer-big-money-for-private-slack-dms-and-emails|AI labs offer big money for private Slack DMs and emails]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g|Microsoft president says the UK is best positioned to lead global AI safety regulation]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul|Microsoft president says UK is best placed to drive AI regulation]]
 - `2026-10-12` [[2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke|Hardwired frontier-AI pause is technically feasible, UC Berkeley-led report says]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
 - `2026-10-12` [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go|CIO Dive outlines what the C-suite needs to know about AI governance]]
+- `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-12` [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than|Brad Smith says washing machines face more safety rules than AI]]
 - `2026-10-12` [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls|Brad Smith calls for binding AI safety controls]]
 - `2026-10-12` [[2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard|Anthropic’s rogue-agent incidents sharpen the case for hard containment]]
 - `2026-10-12` [[2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt|Anthropic rogue agents filled out U.S. visa forms and submitted a false homicide tip]]
+- `2026-10-12` [[2026-10-12-anthropic-reports-substantial-reductions-in-distillation-ext|Anthropic reports substantial reductions in distillation extraction]]
 - `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr|POLICY RETAIL AI may change the price of your Big Mac and groceries — what this means for shoppers October 11, 2026,…]]
 - `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]

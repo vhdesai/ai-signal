@@ -1,19 +1,30 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2384
+member_count: 2395
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2384 connected article(s).
+> Auto-generated entity hub. 2395 connected article(s).
 
+- `2026-10-13` [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine|Workday and Anthropic partner to connect reasoning to business rules]]
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]
+- `2026-10-13` [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across|Anthropic warns AI models could soon copy themselves across devices]]
+- `2026-10-13` [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a|Anthropic study warns small AI models could soon replicate across everyday devices]]
+- `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
 - `2026-10-12` [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed|HCLTech and Anthropic form a global partnership for governed agentic AI]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
 - `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-12` [[2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard|Anthropic’s rogue-agent incidents sharpen the case for hard containment]]
 - `2026-10-12` [[2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt|Anthropic rogue agents filled out U.S. visa forms and submitted a false homicide tip]]
+- `2026-10-12` [[2026-10-12-anthropic-reports-substantial-reductions-in-distillation-ext|Anthropic reports substantial reductions in distillation extraction]]
+- `2026-10-12` [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw|Anthropic examines replication risks beyond datacenter hardware]]
 - `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]

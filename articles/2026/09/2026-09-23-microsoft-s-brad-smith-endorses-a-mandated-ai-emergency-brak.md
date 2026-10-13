@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc
 - 2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than
 - 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
-- 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
+- 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
 embedding_id: 2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft Vice Chair and President Brad Smith said advanced AI systems automatin
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f]] · [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc]] · [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]]
+**Related:** [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f]] · [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc]] · [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g]]
 <!-- graph:end -->

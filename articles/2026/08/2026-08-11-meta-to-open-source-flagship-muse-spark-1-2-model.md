@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier
 - 2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from
-- 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 embedding_id: 2026-08-11-meta-to-open-source-flagship-muse-spark-1-2-model
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Meta will release full frontier-scale Muse Spark 1.2 teacher model under open li
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]]
+**Related:** [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier]] · [[2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from]]
 <!-- graph:end -->

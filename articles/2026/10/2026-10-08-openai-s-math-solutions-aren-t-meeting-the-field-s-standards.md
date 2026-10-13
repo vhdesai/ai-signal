@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
+- 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
 embedding_id: 2026-10-08-openai-s-math-solutions-aren-t-meeting-the-field-s-standards
@@ -36,5 +37,5 @@ TechCrunch reports gaps in OpenAI's released mathematical proofs and compliance 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob]]
+**Related:** [[2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac]] · [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro]] · [[2026-10-06-openai-shares-new-ai-progress-in-mathematics]] · [[2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob]]
 <!-- graph:end -->

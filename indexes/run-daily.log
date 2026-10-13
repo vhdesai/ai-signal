@@ -1,83 +1,158 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2387.05it/s]
+Loading weights:  76%|███████▋  | 152/199 [00:00<00:00, 1510.47it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1588.91it/s]
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
+Retrying in 1s [Retry 1/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
+Retrying in 2s [Retry 2/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
+Retrying in 4s [Retry 3/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
+Retrying in 8s [Retry 4/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
+Retrying in 8s [Retry 5/5].
+HTTP Error 500 thrown while requesting HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/2_Normalize/config.json
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1440,
-      "digests_changed": 3,
+      "digests_total": 1452,
+      "digests_changed": 12,
       "changed": [
-        "news\\2026-10-12_065013_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-12_065713_Final-Daily-AI-News-Digest.md",
-        "news\\daily-ai-news-digest-2026-10-12.md"
+        "news\\2026-10-13_000000_Publication-Sources.md",
+        "news\\2026-10-13_060534_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_060853_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_061330_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_062649_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_064815_Inbox_ClawPilot - Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_065023_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-13_065254_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_065723_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-13_065915_Inbox_Daily AI News Digest - October 13, 2026.md",
+        "news\\2026-10-13_074821_Inbox_Fw Daily AI News Digest - October 13, 2026.md",
+        "news\\daily-ai-news-digest-2026-10-13.md"
       ]
     },
     "split": {
-      "digests_parsed": 1444,
-      "articles_written": 14094,
-      "events_parsed": 117,
+      "digests_parsed": 1456,
+      "articles_written": 14187,
+      "events_parsed": 118,
       "event_articles_written": 78,
-      "skipped_publication_sources": 48,
-      "skipped_thin_articles": 4834
+      "skipped_publication_sources": 49,
+      "skipped_thin_articles": 4889
     },
     "index": {
-      "articles_indexed": 10291,
+      "articles_indexed": 10350,
       "embeddings": {
         "enabled": true,
-        "added": 29,
-        "total": 10291,
-        "md_rewritten": 10290
+        "added": 59,
+        "total": 10350,
+        "md_rewritten": 10349
       }
     },
     "dedupe": {
-      "articles": 10291,
+      "articles": 10350,
       "exact_duplicates": 6,
-      "canonical": 7604,
-      "semantic_duplicates": 2681,
-      "related_links": 31349
+      "canonical": 7659,
+      "semantic_duplicates": 2685,
+      "related_links": 31563
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 10291,
-      "wikilinks_emitted": 70434,
+      "articles_linked": 10350,
+      "wikilinks_emitted": 70835,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4848,
-      "ok": 3116,
-      "broken": 1732,
-      "missing": 5420,
+      "checked": 4885,
+      "ok": 3130,
+      "broken": 1755,
+      "missing": 5442,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 0,
-      "repaired": 0,
-      "unresolved": 0,
+      "attempted": 27,
+      "repaired": 14,
+      "unresolved": 13,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 272.5,
+      "elapsed_s": 296.6,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 295,
-      "articles": 10291,
-      "canonical": 7604,
+      "pages": 296,
+      "articles": 10350,
+      "canonical": 7659,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 4898,
-      "written_files": 240,
-      "elapsed_s": 21.89
+      "changed_articles": 95,
+      "written_files": 72,
+      "elapsed_s": 17.23
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261012T224638+0000-d08ddf.json"
+  "run_log": "indexes\\runs\\run-20261013T210709+0000-2a9a5a.json"
 }

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte
+- 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
 - 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
-- 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
 embedding_id: 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Twenty-five mathematicians, each a Fields Medal recipient, signed an open letter
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte]] · [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai]]
+**Related:** [[2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte]] · [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro]] · [[2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals]] · [[2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]]
 <!-- graph:end -->

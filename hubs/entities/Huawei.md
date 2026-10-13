@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 258
+member_count: 262
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 258 connected article(s).
+> Auto-generated entity hub. 262 connected article(s).
 
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
+- `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
+- `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]

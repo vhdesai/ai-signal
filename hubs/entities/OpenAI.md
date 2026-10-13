@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2734
+member_count: 2742
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2734 connected article(s).
+> Auto-generated entity hub. 2742 connected article(s).
 
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
+- `2026-10-13` [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro|OpenAI withdraws three AI mathematics papers over proof error]]
+- `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-12` [[2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough|Unitree founder says GPT-6 may trigger robotics breakthrough as soon as next year]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
 - `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
 - `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]
 - `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]

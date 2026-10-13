@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
+- 2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-- 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 embedding_id: 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A UT Austin College of Education feature profiles assistant professor Jason Rose
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more]]
+**Related:** [[2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio]] · [[2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]]
 <!-- graph:end -->

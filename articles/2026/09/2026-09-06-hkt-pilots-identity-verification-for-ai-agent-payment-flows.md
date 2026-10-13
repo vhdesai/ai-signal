@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 - 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
-- 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
+- 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 embedding_id: 2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Markets Insider reported that HKT Payment was selected for Hong Kong's GenA.I. S
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte]] · [[2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production]]
+**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte]] · [[2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p]]
 <!-- graph:end -->

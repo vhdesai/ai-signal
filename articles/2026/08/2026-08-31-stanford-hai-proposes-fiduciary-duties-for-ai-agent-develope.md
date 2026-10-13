@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-house-proposal-would-clarify-liability-rules-for-ai-agents
+- 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-08-31-stanford-hai-proposes-fiduciary-duties-for-ai-agent-develope
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford HAI published a proposal arguing that transparency alone is insufficien
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-10-13-house-proposal-would-clarify-liability-rules-for-ai-agents]] · [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

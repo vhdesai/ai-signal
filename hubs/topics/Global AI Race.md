@@ -1,17 +1,29 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1610
+member_count: 1622
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1610 connected article(s).
+> Auto-generated topic hub. 1622 connected article(s).
 
+- `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
+- `2026-10-13` [[2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet|Iluvatar CoreX unveils 144-GPU AI supernode in one cabinet]]
+- `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
+- `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
+- `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
+- `2026-10-13` [[2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h|China Mobile triples capacity at Inner Mongolia AI compute hub]]
+- `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
 - `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r|DeepSeek's memory-saving technique may hurt model accuracy, researchers find]]
 - `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]
+- `2026-10-12` [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag|Alibaba Qwen introduces QwenGyre for extreme-long-horizon agent training]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents|Nace.AI open-sources Drex 1.5, a 9B decision model for agents and backend workflows]]

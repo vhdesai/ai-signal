@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
-- 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 embedding_id: 2026-09-16-chinese-ai-chip-stocks-brace-for-metax-lockup-expiry-after-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur]] · [[2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us]]
+**Related:** [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-20-bristol-myers-squibb-to-build-one-of-the-largest-private-nvi
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 embedding_id: 2026-07-20-bristol-myers-squibb-builds-life-sciences-ai-factory-on-nvid
 event_name: ''
@@ -40,5 +41,5 @@ NVIDIA says Bristol Myers Squibb is deploying a second DGX SuperPOD built on eig
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-20-bristol-myers-squibb-to-build-one-of-the-largest-private-nvi]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
+**Related:** [[2026-07-20-bristol-myers-squibb-to-build-one-of-the-largest-private-nvi]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and]] · [[2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project]]
 <!-- graph:end -->

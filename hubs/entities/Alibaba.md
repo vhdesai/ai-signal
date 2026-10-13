@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 443
+member_count: 446
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 443 connected article(s).
+> Auto-generated entity hub. 446 connected article(s).
 
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag|Alibaba Qwen introduces QwenGyre for extreme-long-horizon agent training]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents|Nace.AI open-sources Drex 1.5, a 9B decision model for agents and backend workflows]]
 - `2026-10-10` [[2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path|Alibaba's Joe Tsai says open-source AI is Europe's only path to tech independence]]

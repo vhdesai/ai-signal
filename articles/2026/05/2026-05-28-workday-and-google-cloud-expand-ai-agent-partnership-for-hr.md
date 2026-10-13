@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-06-the-information-workday-customers-use-external-ai-agents-pre
+- 2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
-- 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
 embedding_id: 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Workday and Google Cloud expanded their strategic partnership to bring AI agents
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]] · [[2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t]]
+**Related:** [[2026-10-06-the-information-workday-customers-use-external-ai-agents-pre]] · [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w]]
 <!-- graph:end -->

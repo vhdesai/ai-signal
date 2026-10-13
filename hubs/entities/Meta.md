@@ -1,13 +1,24 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 888
+member_count: 899
 ---
 
 # Meta
 
-> Auto-generated entity hub. 888 connected article(s).
+> Auto-generated entity hub. 899 connected article(s).
 
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
+- `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model|Meta releases Muse Wonder, its first frontier model]]
+- `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model|Meta releases Muse Wonder, its first declared frontier-model push]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier|Meta introduces Muse Wonder and Muse Wonder Full as frontier agent models]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full|Meta introduces Muse Wonder and Muse Wonder Full]]
+- `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment|New reporting examines ChatGPT for Teens safety assessment]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]

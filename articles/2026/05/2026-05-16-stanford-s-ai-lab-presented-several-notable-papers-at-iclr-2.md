@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-22-academic-research
 - 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 embedding_id: 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Stanford's AI Lab presented several notable papers at ICLR 2026. Highlights: Acc
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-22-academic-research]] · [[2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-22-academic-research]] · [[2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio]]
 <!-- graph:end -->

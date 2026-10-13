@@ -1,16 +1,43 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3446
+member_count: 3473
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3446 connected article(s).
+> Auto-generated topic hub. 3473 connected article(s).
 
+- `2026-10-13` [[2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work|Z.ai releases GLM-Legal for agentic legal work]]
+- `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
+- `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open|Mistral Large 4 vs. Claude Opus 5.5 benchmarks keep the open-weight debate alive]]
+- `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le|Microsoft's split-personality retrosynthetic AI is a fast learner]]
+- `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c|MIT researchers call for answerability behind AI-generated civic speech]]
+- `2026-10-13` [[2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste|MIT interview emphasizes human accountability for AI-assisted civic speech]]
+- `2026-10-13` [[2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount|Executives doubt readiness as AI cyber risks mount]]
+- `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
+- `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
+- `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]
+- `2026-10-12` [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub|xAI and Cursor bundle Grok, Cursor and X Premium into one subscription]]
+- `2026-10-12` [[2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough|Unitree founder says GPT-6 may trigger robotics breakthrough as soon as next year]]
 - `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]
 - `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g|Microsoft president says the UK is best positioned to lead global AI safety regulation]]
+- `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model|Meta releases Muse Wonder, its first frontier model]]
+- `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model|Meta releases Muse Wonder, its first declared frontier-model push]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier|Meta introduces Muse Wonder and Muse Wonder Full as frontier agent models]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full|Meta introduces Muse Wonder and Muse Wonder Full]]
+- `2026-10-12` [[2026-10-12-honeyjar-offers-ai-tools-for-pr-and-corporate-communications|Honeyjar offers AI tools for PR and corporate communications workflows]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r|DeepSeek's memory-saving technique may hurt model accuracy, researchers find]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
+- `2026-10-12` [[2026-10-12-blueprint-ai-says-it-can-generate-permit-ready-construction|Blueprint AI says it can generate permit-ready construction blueprints in minutes]]
+- `2026-10-12` [[2026-10-12-anthropic-reports-substantial-reductions-in-distillation-ext|Anthropic reports substantial reductions in distillation extraction]]
+- `2026-10-12` [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw|Anthropic examines replication risks beyond datacenter hardware]]
+- `2026-10-12` [[2026-10-12-amazon-science-reports-priming-method-to-alter-model-archite|Amazon Science reports priming method to alter model architecture without full retraining]]
 - `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]
 - `2026-10-11` [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system|RESEARCH 24–48H EXCEPTION Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors October 10, 2026 —…]]
 - `2026-10-11` [[2026-10-11-orcarouter-releases-orcacyber-zero-1-5-with-1m-token-context|OrcaRouter releases OrcaCyber Zero 1.5 with 1M-token context for authorized security work]]

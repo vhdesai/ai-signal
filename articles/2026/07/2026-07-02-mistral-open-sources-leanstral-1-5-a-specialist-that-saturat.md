@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c
 - 2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
+- 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
-- 2026-08-04-mistral-releases-shieldstral-for-policy-adaptive-safety-scre
 embedding_id: 2026-07-02-mistral-open-sources-leanstral-1-5-a-specialist-that-saturat
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral released Leanstral 1.5, an Apache-2.0-licensed Lean 4 proof-engineering 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c]] · [[2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]] · [[2026-08-04-mistral-releases-shieldstral-for-policy-adaptive-safety-scre]]
+**Related:** [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c]] · [[2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof]] · [[2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti]] · [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]]
 <!-- graph:end -->

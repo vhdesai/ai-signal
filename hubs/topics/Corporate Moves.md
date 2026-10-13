@@ -1,20 +1,42 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4862
+member_count: 4884
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4862 connected article(s).
+> Auto-generated topic hub. 4884 connected article(s).
 
+- `2026-10-13` [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine|Workday and Anthropic partner to connect reasoning to business rules]]
+- `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
+- `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
+- `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
+- `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
+- `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
+- `2026-10-13` [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch|Character.AI files for bankruptcy five years after launch]]
+- `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
+- `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
+- `2026-10-13` [[2026-10-13-amex-introduces-intent-framework-to-prevent-unauthorized-ai|Amex introduces intent framework to prevent unauthorized AI-agent purchases]]
+- `2026-10-13` [[2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p|Amex introduces framework to prevent unauthorized AI-agent purchases]]
+- `2026-10-13` [[2026-10-13-american-express-introduces-an-intent-framework-for-agentic|American Express introduces an intent framework for agentic commerce]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-12` [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub|xAI and Cursor bundle Grok, Cursor and X Premium into one subscription]]
+- `2026-10-12` [[2026-10-12-windborne-wins-nearly-50m-us-air-force-contract-for-ai-weath|WindBorne wins nearly $50M US Air Force contract for AI weather-balloon data]]
 - `2026-10-12` [[2026-10-12-palantir-and-ondas-launch-regna-ai-for-sovereign-defense-ope|Palantir and Ondas launch Regna AI for sovereign defense operations]]
 - `2026-10-12` [[2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution|Microsoft’s Office Copilot turnaround puts product execution back in focus]]
+- `2026-10-12` [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g|Microsoft president says the UK is best positioned to lead global AI safety regulation]]
+- `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier|Meta introduces Muse Wonder and Muse Wonder Full as frontier agent models]]
 - `2026-10-12` [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed|HCLTech and Anthropic form a global partnership for governed agentic AI]]
+- `2026-10-12` [[2026-10-12-grok-cursor-and-x-premium-converge-into-one-subscription|Grok, Cursor and X Premium converge into one subscription]]
 - `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
 - `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]
+- `2026-10-12` [[2026-10-12-daily-ai-news-digest-october-13-2026|Daily AI News Digest – October 13, 2026]]
 - `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-anthropic-reports-substantial-reductions-in-distillation-ext|Anthropic reports substantial reductions in distillation extraction]]
 - `2026-10-12` [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant|Ambi raises $26M for an always-listening AI assistant]]
+- `2026-10-12` [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag|Alibaba Qwen introduces QwenGyre for extreme-long-horizon agent training]]
 - `2026-10-11` [[2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e|Voice AI still lacks a clear ChatGPT-style adoption moment, executives say]]
 - `2026-10-11` [[2026-10-11-the-digest-prioritizes-original-date-verified-publications-a|The digest prioritizes original, date-verified publications and deduplicates overlapping coverage]]
 - `2026-10-11` [[2026-10-11-grok-shopping-claim-raises-payment-data-concerns|Grok shopping claim raises payment-data concerns]]

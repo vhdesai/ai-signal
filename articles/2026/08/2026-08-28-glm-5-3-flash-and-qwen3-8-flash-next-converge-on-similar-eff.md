@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
+- 2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work
 embedding_id: 2026-08-28-glm-5-3-flash-and-qwen3-8-flash-next-converge-on-similar-eff
 event_name: ''
 ---
@@ -37,5 +38,5 @@ MarkTechPost compared Z.ai's GLM-5.3-Flash and Alibaba Qwen's Qwen3.8-Flash-Next
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]]
+**Related:** [[2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0]] · [[2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese]] · [[2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai]] · [[2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work]]
 <!-- graph:end -->

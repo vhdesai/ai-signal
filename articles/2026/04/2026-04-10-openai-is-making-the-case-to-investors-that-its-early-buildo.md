@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
+- 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 embedding_id: 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI is making the case to investors that its early buildout of AI infrastruct
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
+**Related:** [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat]] · [[2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill]] · [[2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]]
 <!-- graph:end -->

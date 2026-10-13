@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+- 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 embedding_id: 2026-09-24-bank-of-america-to-double-its-ai-budget-mcdonald-s-commits-8
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Bank of America's co-president pointed to "clearly identifiable" gains in justif
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]]
+**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]]
 <!-- graph:end -->

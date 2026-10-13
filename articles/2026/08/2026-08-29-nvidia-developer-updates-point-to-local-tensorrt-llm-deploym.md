@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson
+- 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-- 2026-08-18-nvidia-releases-tensorrt-model-connect-in-public-preview
 embedding_id: 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA documentation updates surfaced around TensorRT-LLM local deployment examp
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-18-nvidia-releases-tensorrt-model-connect-in-public-preview]]
+**Related:** [[2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme]] · [[2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson]] · [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
 <!-- graph:end -->

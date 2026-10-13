@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: MIT CSAIL Alliances
 url_original: https://cap.csail.mit.edu/
 url_canonical: https://cap.csail.mit.edu/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 6e8991bba00bcbb1ba1dbf12586d6670f78b81c14a837fb67a2e2925d435a316
@@ -45,8 +45,8 @@ related_article_ids:
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
+- 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
-- 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 embedding_id: 2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro
 event_name: ''
 ---
@@ -60,5 +60,5 @@ MIT CSAIL Professor Armando Solar-Lezama argues in a published Q&A that the most
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]] · [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia]]
+**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio]] · [[2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien]]
 <!-- graph:end -->

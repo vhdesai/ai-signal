@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in
+- 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
 - 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
 - 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-- 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
 embedding_id: 2026-09-14-king-charles-to-host-ai-executives-as-safety-fears-mount
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Reuters reported that King Charles will host leaders of major AI companies this 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]] · [[2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks]]
+**Related:** [[2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in]] · [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]]
 <!-- graph:end -->

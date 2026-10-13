@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma
+- 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 - 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 - 2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows
 embedding_id: 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
@@ -35,5 +36,5 @@ Autonomous agents are increasingly transacting using stablecoin-based payment pr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows]]
+**Related:** [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma]] · [[2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p]] · [[2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via]] · [[2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows]]
 <!-- graph:end -->

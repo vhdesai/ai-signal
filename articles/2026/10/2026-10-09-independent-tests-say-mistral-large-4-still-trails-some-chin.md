@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
 - 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
-- 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
+- 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 embedding_id: 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tom's Hardware reports Mistral's new Large 4 trails some Chinese open models in 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight]]
+**Related:** [[2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f]] · [[2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei]] · [[2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us]] · [[2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda]] · [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open]]
 <!-- graph:end -->

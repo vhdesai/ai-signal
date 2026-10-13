@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 706
+member_count: 708
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 706 connected article(s).
+> Auto-generated entity hub. 708 connected article(s).
 
+- `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-amazon-science-reports-priming-method-to-alter-model-archite|Amazon Science reports priming method to alter model architecture without full retraining]]
 - `2026-10-11` [[2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr|POLICY RETAIL AI may change the price of your Big Mac and groceries — what this means for shoppers October 11, 2026,…]]
 - `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
 - `2026-10-11` [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou|Amazon reportedly in talks to buy AI startup Decart for around $7B]]

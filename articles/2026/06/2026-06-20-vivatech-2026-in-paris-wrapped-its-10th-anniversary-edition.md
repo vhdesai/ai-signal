@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 - 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
+- 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 embedding_id: 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
 event_name: ''
 ---
@@ -39,5 +40,5 @@ VivaTech 2026 in Paris wrapped its 10th-anniversary edition with significant AI 
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]]
+**Related:** [[2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove]]
 <!-- graph:end -->

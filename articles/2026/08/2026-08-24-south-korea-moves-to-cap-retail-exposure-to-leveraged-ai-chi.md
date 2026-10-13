@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
+- 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
-- 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 embedding_id: 2026-08-24-south-korea-moves-to-cap-retail-exposure-to-leveraged-ai-chi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ South Korean regulators are moving to cap individual exposure to leveraged semic
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin]] · [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

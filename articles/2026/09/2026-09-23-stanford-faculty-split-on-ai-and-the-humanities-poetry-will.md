@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-10-ucsd-aer-ai-optimized-summaries-reduce-reader-knowledge-rete
 - 2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 embedding_id: 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
 event_name: ''
 ---
@@ -36,5 +36,5 @@ An op-ed built on interviews with HAI senior fellow Prof. Michele Elam and journ
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-05-10-ucsd-aer-ai-optimized-summaries-reduce-reader-knowledge-rete]] · [[2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]] · [[2026-05-10-ucsd-aer-ai-optimized-summaries-reduce-reader-knowledge-rete]] · [[2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio]]
 <!-- graph:end -->

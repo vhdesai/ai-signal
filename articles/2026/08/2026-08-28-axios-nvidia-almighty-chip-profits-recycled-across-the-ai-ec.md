@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+- 2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-- 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 embedding_id: 2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Axios frames Nvidia as simultaneously the AI industry’s supplier, banker, and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]] · [[2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital]]
+**Related:** [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor]] · [[2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups]]
 <!-- graph:end -->

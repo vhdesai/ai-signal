@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
+- 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
-- 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 embedding_id: 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 event_name: ''
 ---
@@ -37,5 +37,5 @@ This investment highlights how AI infrastructure demand is now radiating upstrea
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]]
+**Related:** [[2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica]] · [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai]] · [[2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin]]
 <!-- graph:end -->

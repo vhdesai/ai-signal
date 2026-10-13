@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
 - 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
-- 2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m
+- 2026-10-12-windborne-wins-nearly-50m-us-air-force-contract-for-ai-weath
 embedding_id: 2026-08-04-11-bending-spoons-to-acquire-airtable-for-1-28b
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In its first acquisition since going public, Bending Spoons agreed to buy Airtab
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m]]
+**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-10-12-windborne-wins-nearly-50m-us-air-force-contract-for-ai-weath]]
 <!-- graph:end -->

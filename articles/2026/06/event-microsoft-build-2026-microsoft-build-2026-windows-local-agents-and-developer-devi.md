@@ -28,6 +28,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
@@ -43,5 +44,5 @@ Surface RTX Spark Dev Box: New compact AI developer box powered by NVIDIA RTX Sp
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
+**Related:** [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
 <!-- graph:end -->

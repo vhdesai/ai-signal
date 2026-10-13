@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
-- 2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code
 embedding_id: 2026-08-13-anthropic-finds-ai-agents-launch-turf-wars-when-given-compet
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic’s Frontier Red Team found that when multiple Claude agents accessed 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]] · [[2026-08-20-anthropic-incident-spreads-across-claude-ai-api-claude-code]]
+**Related:** [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations]] · [[2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we]]
 <!-- graph:end -->

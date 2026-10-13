@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
-- 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
+- 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 embedding_id: 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
 event_name: ''
 ---
@@ -36,5 +36,5 @@ For all Helsing's whiz-bang A.I., it is possible that the proliferation of defen
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b]]
+**Related:** [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending]]
 <!-- graph:end -->
