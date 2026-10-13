@@ -5,7 +5,7 @@ date: '2026-07-23'
 source: Yahoo Finance (Reuters)**
 url_original: https://finance.yahoo.com/technology/ai/articles/databricks-extends-microsoft-azure-partnership-175238933.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/databricks-extends-microsoft-azure-partnership-175238933.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065052_Final-Daily-AI-News-Digest.md
 content_hash: 7feda5715b9a6d6de0565c82ae0a9df0ea3f490955dd035db8e4023c008ab8de
 normalized_title_hash: f9da6e1788b2cb6c

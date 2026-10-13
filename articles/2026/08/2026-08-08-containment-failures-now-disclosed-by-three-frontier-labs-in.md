@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20agent%20containment
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AI%20agent%20containment
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 713f59becc9cc8c94c960b7419e2ed0e20b3242827cb46e7315f31b7a185ea79

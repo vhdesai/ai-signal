@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Bloomberg]
 url_original: https://www.bloomberg.com/news/articles/2026-10-01/barclays-expands-claude-anthropic-enterprise-deployment
 url_canonical: https://www.bloomberg.com/news/articles/2026-10-01/barclays-expands-claude-anthropic-enterprise-deployment
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 0e4f09ef24140583fb81db82c70b1b5f6c48eb241f05306ae660d493067cbbc7

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
-- 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
+- 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 embedding_id: 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Three of the largest frontier labs have agreed to provide the U.S. government pr
 
 **Entities:** [[Google]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]]
+**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety]]
 <!-- graph:end -->

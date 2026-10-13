@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/softbank-launches-11-billion-junk-115346334.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/softbank-launches-11-billion-junk-115346334.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 4df5a8037bec22551f45c87ad42b179a432e7cb35096084c61062a3659e97be0

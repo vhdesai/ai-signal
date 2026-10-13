@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
 url_canonical: https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-09_060921_Inbox_Daily AI News Digest - October
   9, 2026.md
 content_hash: 63be87f0befde1532c4241caeef1396469b8da56c714fccfabfb82edc779257f

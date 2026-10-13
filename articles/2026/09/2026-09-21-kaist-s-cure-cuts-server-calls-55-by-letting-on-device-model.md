@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-09-smartphone-ai-solutions-tackle-similar.html
 url_canonical: https://techxplore.com/news/2026-09-smartphone-ai-solutions-tackle-similar.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: a88e6eb0c95e2638db9a7c42146b9cc4a59e7f8e2cb7bb4339e8afa6a3641ec2

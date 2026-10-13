@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/artificial-intelligence-news/
 url_canonical: https://www.artificialintelligence-news.com/artificial-intelligence-news/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 80b36df2dfc9e01b87f9a61eecb7230b35ebec5546ccde67169b9c4ac3488a92

@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: AFP
 url_original: https://techxplore.com/news/2026-09-anthropic-accenture-house-ai-safety.html
 url_canonical: https://techxplore.com/news/2026-09-anthropic-accenture-house-ai-safety.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_061751_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: e787bb0c75c3a92acbc0b579a6f344229e360d97b3612b494f14c38ea6001c0e

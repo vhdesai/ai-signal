@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: OpenAI
 url_original: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/
 url_canonical: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 9a7534c1613d2d772a998cc32469e729af961d98505a3d2779eac53146f3343f

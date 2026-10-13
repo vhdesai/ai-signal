@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html
 url_canonical: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: e69a2b36384126d75253dbc338c7957f67d484b261d320460d49ffa3287752a1
 normalized_title_hash: d7c912d6e89c5be0

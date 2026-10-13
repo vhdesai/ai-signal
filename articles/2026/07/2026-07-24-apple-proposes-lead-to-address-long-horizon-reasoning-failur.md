@@ -5,7 +5,7 @@ date: '2026-07-24'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/research/lead-no-recovery-bottleneck
 url_canonical: https://machinelearning.apple.com/research/lead-no-recovery-bottleneck
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: aca6ff318b3fe9e4b41569bf0d98f51d5e1074e6ba39682fca931e97d70c18e0

@@ -5,7 +5,7 @@ date: '2026-10-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/
 url_canonical: https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 3623c1599d2e99549ce28047c1a72967fd466f73c35b59e6c0c8e62516df78e5

@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: The Decoder
 url_original: https://the-decoder.com/alibaba-qwen-audio-3-1-price-cut-2026-09-22
 url_canonical: https://the-decoder.com/alibaba-qwen-audio-3-1-price-cut-2026-09-22
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-23_070112_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: b626a3c7df9fbb19a6402e5f70b99e314d5699ad807f70bf136e9cccf38b75a9

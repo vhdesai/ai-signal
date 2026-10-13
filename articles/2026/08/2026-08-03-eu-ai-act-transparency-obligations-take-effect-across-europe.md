@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Open Access Government
 url_original: https://www.openaccessgovernment.org/eu-artificial-intelligence-act-transparency-rules-now-in-place-across-europe/212738/
 url_canonical: https://www.openaccessgovernment.org/eu-artificial-intelligence-act-transparency-rules-now-in-place-across-europe/212738/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: d755b2738b9ebe5da873a3d86e289b7996d1db6622514d44c1d9219da1c56266

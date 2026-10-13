@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Level1Techs
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 23ad836091cffdb43eb3ba0478e876c34b7fe705a9b64244ee5d5c062d125f74

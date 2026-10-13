@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-- 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 embedding_id: 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive profiles how Headspace is tackling AI governance as employees across th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]]
+**Related:** [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
 <!-- graph:end -->

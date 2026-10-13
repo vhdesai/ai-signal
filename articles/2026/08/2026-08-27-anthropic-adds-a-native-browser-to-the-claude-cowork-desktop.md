@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: heise online
 url_original: https://www.heise.de/en/news/Anthropic-is-giving-its-AI-Claude-its-own-browser-11431857.html
 url_canonical: https://www.heise.de/en/news/Anthropic-is-giving-its-AI-Claude-its-own-browser-11431857.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_062110_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 72dd306ac49c9ab30f66839660b78f9ed82ccd99e2577d00be635dac3fc749a8

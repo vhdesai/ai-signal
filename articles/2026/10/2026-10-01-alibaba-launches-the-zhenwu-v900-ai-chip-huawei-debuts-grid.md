@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Pluang / Seeking Alpha / Pandaily / Engineering.com]
 url_original: https://seekingalpha.com/news/alibaba-zhenwu-v900-ai-chip-launch-2026-10-01
 url_canonical: https://seekingalpha.com/news/alibaba-zhenwu-v900-ai-chip-launch-2026-10-01
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: ffe65d638e29b81b38679c601da4b89c2074b03faafd7978d44caf8690d6a273

@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/
 url_canonical: https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 8d32983ebdffb3b2915f594b1eae6e01308acbd933a5cc7b59f0f3be3302f21f

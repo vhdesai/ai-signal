@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1606
+member_count: 1610
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1606 connected article(s).
+> Auto-generated topic hub. 1610 connected article(s).
 
+- `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]
+- `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents|Nace.AI open-sources Drex 1.5, a 9B decision model for agents and backend workflows]]

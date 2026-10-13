@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: Android Headlines
 url_original: https://www.androidheadlines.com/2026/08/anthropic-just-gave-claude-the-power-to-send-your-emails-automatically.html
 url_canonical: https://www.androidheadlines.com/2026/08/anthropic-just-gave-claude-the-power-to-send-your-emails-automatically.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 63acabfd0b716c829e84a9f4c43caab35fce432bca27d8c000f20b4ac17873a7
 normalized_title_hash: 59625e228d10db7f

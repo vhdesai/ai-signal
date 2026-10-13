@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1026
+member_count: 1035
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1026 connected article(s).
+> Auto-generated entity hub. 1035 connected article(s).
 
+- `2026-10-12` [[2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution|Microsoft’s Office Copilot turnaround puts product execution back in focus]]
+- `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
+- `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than|Brad Smith says washing machines face more safety rules than AI]]
+- `2026-10-12` [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls|Brad Smith calls for binding AI safety controls]]
+- `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]
 - `2026-10-11` [[2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne|POLICY MICROSOFT Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ October 10, 2026, 2:47 PM PDT ·…]]
 - `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]

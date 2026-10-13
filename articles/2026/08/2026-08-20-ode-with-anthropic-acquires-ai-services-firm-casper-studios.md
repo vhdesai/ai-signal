@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: Business Wire via Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/ode-anthropic-acquires-casper-studios-150000200.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/ode-anthropic-acquires-casper-studios-150000200.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 59adf62f9973393314462b9c778f1aab4fa5b9916ab5173edbcc29747e3f0383

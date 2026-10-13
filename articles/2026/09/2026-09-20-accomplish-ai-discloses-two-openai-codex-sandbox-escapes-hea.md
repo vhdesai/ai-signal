@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: BleepingComputer
 url_original: https://www.bleepingcomputer.com/news/security/openai-codex-heapjack-overpatch-sandbox-escapes-2026
 url_canonical: https://www.bleepingcomputer.com/news/security/openai-codex-heapjack-overpatch-sandbox-escapes-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: de1a710eeea1fde49b391dcdb1400cc260360461ce85c7005070867f185bfb3e
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
-- 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
+- 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
 embedding_id: 2026-09-20-accomplish-ai-discloses-two-openai-codex-sandbox-escapes-hea
 event_name: ''
 ---
@@ -38,5 +38,5 @@ BleepingComputer details a technical writeup from Oren Yomtov of Accomplish AI o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
+**Related:** [[2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=twilios-ai-boost-double-edged-sword
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=twilios-ai-boost-double-edged-sword
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-26_080127_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: 8a91b0d20aa3a3477ab5398b9e6888c6e543b8a4d2ca1bc2287cc4349ecfa129

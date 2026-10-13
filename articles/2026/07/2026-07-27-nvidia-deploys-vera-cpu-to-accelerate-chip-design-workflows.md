@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/vera-cpu-eda/
 url_canonical: https://blogs.nvidia.com/blog/vera-cpu-eda/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 5e8da9a7f8e308b0982601a70a9f7c7be4a185acd62a5ae60c763741e5044e05

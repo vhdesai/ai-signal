@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_061515_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 65bc8c0723fbd6aa671a059f04ae155a13f5122f9fabb1d5bc15f891541cc299

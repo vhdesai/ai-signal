@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 9ccbdcbb1ee63bd4db48b5987deb417fc5ea49870d3718bdf9ce78c6f59dae82

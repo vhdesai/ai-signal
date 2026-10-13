@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
 url_canonical: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 4e6e9a9771785ea659d26e5c23786ec252aad922fb6a91d3cc5ee16b66854ace

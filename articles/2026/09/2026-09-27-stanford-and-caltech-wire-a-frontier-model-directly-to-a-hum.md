@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: THE DECODER
 url_original: https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/
 url_canonical: https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060701_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 8640a6a81356c74f258705147957e64a856ce69a4f22f6b0f8321a3d214a8dc7

@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: CBS News
 url_original: https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/
 url_canonical: https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_084748_Final-Daily-AI-News-Digest.md
 content_hash: 34a791255218d5a7a11dfb97f6a5e7e9dcd26b2656fe6eb5b74da669b1eb7442
 normalized_title_hash: 4ddc25b3ff2cb21a

@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: The Decoder · InfoWorld
 url_original: https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/
 url_canonical: https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 25ccbcca654350161c71fd9eebccac5af5e4ca450e47331d599184cbc44b1507
 normalized_title_hash: 993f4081a816b547

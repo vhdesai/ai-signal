@@ -1,88 +1,83 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2264.40it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2387.05it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1419,
-      "digests_changed": 8,
+      "digests_total": 1440,
+      "digests_changed": 3,
       "changed": [
-        "news\\2026-10-09_000000_Publication-Sources.md",
-        "news\\2026-10-09_060344_Inbox_Daily AI News Digest - October 9, 2026.md",
-        "news\\2026-10-09_060921_Inbox_Daily AI News Digest - October 9, 2026.md",
-        "news\\2026-10-09_062314_Inbox_Daily AI News Digest - October 9, 2026.md",
-        "news\\2026-10-09_064735_Inbox_ClawPilot - Daily AI News Digest - October 9, 2026.md",
-        "news\\2026-10-09_065730_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-09_065945_Inbox_Daily AI News Digest - October 9, 2026.md",
-        "news\\daily-ai-news-digest-2026-10-09.md"
+        "news\\2026-10-12_065013_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-12_065713_Final-Daily-AI-News-Digest.md",
+        "news\\daily-ai-news-digest-2026-10-12.md"
       ]
     },
     "split": {
-      "digests_parsed": 1423,
-      "articles_written": 13920,
-      "events_parsed": 114,
+      "digests_parsed": 1444,
+      "articles_written": 14094,
+      "events_parsed": 117,
       "event_articles_written": 78,
-      "skipped_publication_sources": 46,
-      "skipped_thin_articles": 4787
+      "skipped_publication_sources": 48,
+      "skipped_thin_articles": 4834
     },
     "index": {
-      "articles_indexed": 10178,
+      "articles_indexed": 10291,
       "embeddings": {
         "enabled": true,
-        "added": 48,
-        "total": 10178,
-        "md_rewritten": 10177
+        "added": 29,
+        "total": 10291,
+        "md_rewritten": 10290
       }
     },
     "dedupe": {
-      "articles": 10178,
+      "articles": 10291,
       "exact_duplicates": 6,
-      "canonical": 7508,
-      "semantic_duplicates": 2664,
-      "related_links": 30937
+      "canonical": 7604,
+      "semantic_duplicates": 2681,
+      "related_links": 31349
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 10178,
-      "wikilinks_emitted": 69642,
+      "articles_linked": 10291,
+      "wikilinks_emitted": 70434,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4801,
-      "ok": 3114,
-      "broken": 1687,
-      "missing": 5354,
+      "checked": 4848,
+      "ok": 3116,
+      "broken": 1732,
+      "missing": 5420,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 16,
-      "repaired": 12,
-      "unresolved": 4,
-      "skipped": 1,
+      "attempted": 0,
+      "repaired": 0,
+      "unresolved": 0,
+      "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 255.2,
+      "elapsed_s": 272.5,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 292,
-      "articles": 10178,
-      "canonical": 7508,
+      "pages": 295,
+      "articles": 10291,
+      "canonical": 7604,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 137,
-      "written_files": 101,
-      "elapsed_s": 13.7
+      "changed_articles": 4898,
+      "written_files": 240,
+      "elapsed_s": 21.89
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261009T161345+0000-c351e4.json"
+  "run_log": "indexes\\runs\\run-20261012T224638+0000-d08ddf.json"
 }

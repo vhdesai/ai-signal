@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 embedding_id: 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive reported that there is no dominant model for who controls enterprise AI
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]]
+**Related:** [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]]
 <!-- graph:end -->

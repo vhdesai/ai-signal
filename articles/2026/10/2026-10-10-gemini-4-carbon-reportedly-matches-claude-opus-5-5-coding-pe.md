@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: The Decoder
 url_original: https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/
 url_canonical: https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: a74866bd11f139c5086e2aadbfc229e48e8821a303b76d0229726710fcb1bd11

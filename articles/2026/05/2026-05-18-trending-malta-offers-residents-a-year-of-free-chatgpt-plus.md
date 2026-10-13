@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: heise online
 url_original: https://www.heise.de/en/news/Malta-s-residents-can-use-OpenAI-or-Microsoft-AI-for-free-for-a-year-11296692.html
 url_canonical: https://www.heise.de/en/news/Malta-s-residents-can-use-OpenAI-or-Microsoft-AI-for-free-for-a-year-11296692.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 805ec58fabbf4ba77c00894b8e34f0db543ace7d4c4107d623c8f62037c19131

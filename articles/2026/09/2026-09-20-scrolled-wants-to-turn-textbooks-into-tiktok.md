@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/
 url_canonical: https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 9bbdd4a11c47d7c05dd28f5a1f9681d2837f54663c48e6f2dcde76080f55d0ea

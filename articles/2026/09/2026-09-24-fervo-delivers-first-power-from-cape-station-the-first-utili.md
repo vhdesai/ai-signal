@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Bloomberg
 url_original: https://www.energyconnects.com/news/utilities/2026/september/fervo-achieves-first-power-from-utah-geothermal-installation/
 url_canonical: https://www.energyconnects.com/news/utilities/2026/september/fervo-achieves-first-power-from-utah-geothermal-installation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 2a41e72e93ace6f45807ef983b5b730ffb1dd3412f1583770c1b1f2c395c7337

@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Decoder
 url_original: https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/
 url_canonical: https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 0e70238a2b6bb2d8455c0b1041652265a00a807887790f409f22cccd08107f44
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
-- 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
+- 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
 embedding_id: 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The White House has instructed OpenAI and Anthropic to hold new frontier models 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]]
+**Related:** [[2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]] · [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/
 url_canonical: https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: f517742fe760845c02fcbf74ed4f59c349c175effc1fdd1d0fa5f7ea2365e197

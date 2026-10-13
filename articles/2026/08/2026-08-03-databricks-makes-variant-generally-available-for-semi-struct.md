@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Databricks Blog
 url_original: https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available
 url_canonical: https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: f2eb2b4cf64ae9d06ff142610cd82e932ad587e3ff21d29da771968d215d9fab

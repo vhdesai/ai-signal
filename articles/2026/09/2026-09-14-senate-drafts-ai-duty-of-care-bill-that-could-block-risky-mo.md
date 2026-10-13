@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Techlicious
 url_original: https://www.yahoo.com/tech/senate-ai-duty-of-care-bill-slowdown-2026
 url_canonical: https://www.yahoo.com/tech/senate-ai-duty-of-care-bill-slowdown-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 0e02991c41148b696e6099befbfd7362aa15b52826e4afd3fc2351a3b65af6ef
 normalized_title_hash: 142e98da622586b2

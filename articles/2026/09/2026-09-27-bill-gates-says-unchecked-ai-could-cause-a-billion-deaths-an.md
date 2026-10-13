@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: The Guardian
 url_original: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker
 url_canonical: https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060626_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 2feb7949d4c593d2868e061c4792dde1a4b0a7b73767dbd2ddfb9fbd51d698fd
@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
+- 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
 - 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
-- 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 embedding_id: 2026-09-27-bill-gates-says-unchecked-ai-could-cause-a-billion-deaths-an
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bill Gates called for U.S. lawmakers and law enforcement to regulate AI developm
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]] · [[2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with]]
+**Related:** [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]] · [[2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-10-09'
 source: Anthropic; TechCrunch
 url_original: https://www.anthropic.com/research/investigating-unintended-model-actions
 url_canonical: https://www.anthropic.com/research/investigating-unintended-model-actions
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 49476b0bcc6659162d1bacf1d6acab92c3adc14224ba000b6f1102ccb29f828f

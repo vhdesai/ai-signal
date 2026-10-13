@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: NewsBytes
 url_original: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
 url_canonical: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 950df0a1deb38077caf3fd84ae43def595b87c98c144262589185c12747b30b9
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 - 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
+- 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
-- 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 embedding_id: 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind’s AlphaProof Nexus reportedly solved nine open Erdős problems
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]] · [[2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst]]
+**Related:** [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]]
 <!-- graph:end -->

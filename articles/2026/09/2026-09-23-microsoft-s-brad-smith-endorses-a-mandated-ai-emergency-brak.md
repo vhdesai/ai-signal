@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e
 url_canonical: https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 2667a4ba646609e062cf10ee6576642a8c2afd487381adc44a1dfa7b3cee358c
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f
 - 2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc
+- 2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than
+- 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
 - 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
-- 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
-- 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 embedding_id: 2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft Vice Chair and President Brad Smith said advanced AI systems automatin
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f]] · [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]] · [[2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne]] · [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]]
+**Related:** [[2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-emergency-brake-f]] · [[2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc]] · [[2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than]] · [[2026-10-12-brad-smith-calls-for-binding-ai-safety-controls]] · [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com]]
 <!-- graph:end -->

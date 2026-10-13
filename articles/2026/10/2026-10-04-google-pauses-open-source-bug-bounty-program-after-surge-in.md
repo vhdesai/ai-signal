@@ -5,7 +5,7 @@ date: '2026-10-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/
 url_canonical: https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 3b769db3925660cba96fd0eaa9d75986d36169a06080041db1a734099289d22b

@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazons-fight-with-meta-who-owns-the-customer-relationship-when-an-agent-does-the-buying/
 url_canonical: https://www.geekwire.com/2026/amazons-fight-with-meta-who-owns-the-customer-relationship-when-an-agent-does-the-buying/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 1e37b51254d70d0ea717631cd2ae9858612d4bd75d6d675e47c9b6657d229edf

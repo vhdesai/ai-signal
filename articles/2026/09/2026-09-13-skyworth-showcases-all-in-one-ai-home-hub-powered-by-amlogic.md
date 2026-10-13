@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: The Columbus Dispatch
 url_original: https://www.dispatch.com/press-release/story/237839/skyworth-digital-showcased-new-all-in-one-ai-home-hub-powered-by-amlogic-s905d5-at-ibc-2026/
 url_canonical: https://www.dispatch.com/press-release/story/237839/skyworth-digital-showcased-new-all-in-one-ai-home-hub-powered-by-amlogic-s905d5-at-ibc-2026/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_060533_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 79a4074b86811d20aa4b85083f30ea10ce273697a9b10387847c522dead38358
@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination
+- 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 - 2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
@@ -36,5 +37,5 @@ Skyworth Digital announced an all-in-one AI Home Hub built on Amlogic's S905D5 S
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination]] · [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]]
+**Related:** [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]] · [[2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio]] · [[2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]]
 <!-- graph:end -->

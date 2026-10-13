@@ -6,7 +6,7 @@ date: '2026-08-15'
 source: The Next Web
 url_original: https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap
 url_canonical: https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-16_065100_Final-Daily-AI-News-Digest.md
 content_hash: 804409fef2b952735c949e35fa95d03f0a9963b0de9bb575c62c4cd61a01f388
 normalized_title_hash: 8f6828802e9278de

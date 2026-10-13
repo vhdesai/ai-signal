@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: CRN
 url_original: https://www.crn.com/news/components-peripherals/2026/analysis-what-nvidia-s-massive-supply-demand-gap-says-about-ai-mania
 url_canonical: https://www.crn.com/news/components-peripherals/2026/analysis-what-nvidia-s-massive-supply-demand-gap-says-about-ai-mania
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_061956_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: ffd9d6fbd3fed74351b63aecb6efe06dacaabd749862267878719b0285f3b08a

@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Business Insider
 url_original: https://www.businessinsider.com/ex-nvidia-leaders-launch-evergreen-to-back-ai-startups-2026-6
 url_canonical: https://www.businessinsider.com/ex-nvidia-leaders-launch-evergreen-to-back-ai-startups-2026-6
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 63168feb096af37346c2c04bc4bc65b4122f22315f632ac69f7ef5ff81822471
 normalized_title_hash: 9290e7d26d80d373

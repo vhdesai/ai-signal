@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
 url_canonical: https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_060802_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: f36f371fab5a707b24d921e00634cf3221d05b0a0db952bc674a1140bedfd9e3

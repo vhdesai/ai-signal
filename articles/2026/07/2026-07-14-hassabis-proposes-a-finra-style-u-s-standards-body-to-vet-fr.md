@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: OfficeChai
 url_original: https://officechai.com/ai/demis-hassabis-moots-new-standards-body-like-finra-to-vet-ai-models-before-release/
 url_canonical: https://officechai.com/ai/demis-hassabis-moots-new-standards-body-like-finra-to-vet-ai-models-before-release/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: cf3afe8590114bea9e32b855bb3cea191da2713092a2e28e38e7b761ea8fcc4a

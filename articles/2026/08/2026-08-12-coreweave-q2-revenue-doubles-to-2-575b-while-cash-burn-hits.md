@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: The Information · [August 12, 2026] · The Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00
 url_canonical: https://www.wsj.com/tech/ai/coreweave-earnings-q2-2026-crwv-stock-50f6fb00
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-12_065755_Final-Daily-AI-News-Digest.md
 content_hash: 44b7c75c8f1a56a4bf3d9d1751f38dab9eb1dbf70b2e7d1315ab8c1a39ee0ce4
 normalized_title_hash: ced3adbc6a43aad2

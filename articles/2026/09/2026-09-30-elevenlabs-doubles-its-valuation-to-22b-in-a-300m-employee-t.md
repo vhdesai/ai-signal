@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/
 url_canonical: https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 4551921e141d0dd1c3c488fd298be58d579116d066c9652430dff5196f29bce8

@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: CNBC · Pony.ai
 url_original: https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html
 url_canonical: https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 6e9a391bd5eaa19b990c70eff2a8e6bae6244736e789ab1e3906a76e3d3cab86
 normalized_title_hash: cc7b4bd9c5c1ab5e

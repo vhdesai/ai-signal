@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1290
+member_count: 1294
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1290 connected article(s).
+> Auto-generated topic hub. 1294 connected article(s).
 
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
+- `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]
+- `2026-10-12` [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant|Ambi raises $26M for an always-listening AI assistant]]
 - `2026-10-09` [[2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip|Wall Street builds a new financial system around Nvidia chips]]
 - `2026-10-09` [[2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text|TypeSafe’s Jev funding shows investor appetite for non-text decision models]]
 - `2026-10-09` [[2026-10-09-typesafe-ai-raises-870-million-as-non-text-decision-model-je|TypeSafe AI raises $870 million as non-text decision model Jev gains enterprise traction]]

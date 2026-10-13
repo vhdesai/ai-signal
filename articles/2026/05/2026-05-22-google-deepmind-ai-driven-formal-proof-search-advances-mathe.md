@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: arXiv cs.AI'
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 99c0d424d53f7a4d4b2aac1183732f9c65a230fa6c2758f8a069557a6ff362e1
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t
+- 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-- 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 embedding_id: 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 20-author Google DeepMind preprint introduces a system advancing mathematics r
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]]
+**Related:** [[2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t]] · [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]]
 <!-- graph:end -->

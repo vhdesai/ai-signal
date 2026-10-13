@@ -6,7 +6,7 @@ date: '2026-07-09'
 source: VentureBeat
 url_original: https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research
 url_canonical: https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 035a11db14faf82d19c76b666f2e27ba81e7e976866561275bb1652dda90c66d

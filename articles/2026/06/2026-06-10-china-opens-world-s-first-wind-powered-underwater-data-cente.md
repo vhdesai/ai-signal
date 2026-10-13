@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: Wired
 url_original: https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/
 url_canonical: https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 5852b3a131282d8061dcd141f7fda0cdea10cf10f1b5a3ffb3360095b026eba8
 normalized_title_hash: 97200d18caaeb1e0

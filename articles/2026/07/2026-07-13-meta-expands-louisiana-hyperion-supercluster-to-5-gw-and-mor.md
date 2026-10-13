@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Benzinga (Reuters) · The Wall Street Journal
 url_original: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
 url_canonical: https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: f6ee935a7189f7777e645ef93e2f4f509cd7860474aad4f842cd0647c664f18c

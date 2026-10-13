@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: MIT News
 url_original: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
 url_canonical: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8796a60c1c021f8858b28524aa633e356e2070dcf1c7e39cc03f1ae07b75b0ba

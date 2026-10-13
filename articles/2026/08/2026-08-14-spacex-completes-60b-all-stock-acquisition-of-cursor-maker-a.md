@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/
 url_canonical: https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: 088325bd8f5c80b74cf846da622524f009cefc9ea4e3d8d3e220a8e13a6c7f12
 normalized_title_hash: ac975cd6df533d04

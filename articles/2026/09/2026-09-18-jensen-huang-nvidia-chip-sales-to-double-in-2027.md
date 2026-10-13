@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Quartz
 url_original: https://qz.com/nvidia-chip-sales-double-2027-jensen-huang-forecast-2026
 url_canonical: https://qz.com/nvidia-chip-sales-double-2027-jensen-huang-forecast-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 265cb8a757a0baf2582f1fd0d3b241cad973b4b8b461c3d456ae92a38d4bca2f

@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/
 url_canonical: https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 7c21ea856400af8944235989a9b1a174a0179cd4f2586fa77ae6720531fb820a

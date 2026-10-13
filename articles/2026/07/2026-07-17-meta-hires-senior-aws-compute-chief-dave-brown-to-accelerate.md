@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
 url_canonical: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: f123eb13cb017f1192fedeef047cff2a8ce49273be817af00679706ae9363a92
 normalized_title_hash: 9a888b2527787f2f

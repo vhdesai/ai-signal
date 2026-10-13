@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: NPR; Los Angeles Times; Fortune; Barron's; NYT; TechCrunch
 url_original: https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/
 url_canonical: https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 5dd7c343f83618d0043df3d2e6d678873d479d8ab973fad2bbfac8f632db8aad
 normalized_title_hash: 750c551f603f25bb

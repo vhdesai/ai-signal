@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
 url_canonical: https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: f52218b0d1dba296f5c012274eaaf7e8f968dd8e5c2457f253bc7b9438d9dc47
 normalized_title_hash: a78fb8f68947a33b

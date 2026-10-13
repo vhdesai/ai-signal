@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Unite.AI
 url_original: https://www.unite.ai/bain-joins-anthropics-claude-partner-network-at-global-premier-tier/
 url_canonical: https://www.unite.ai/bain-joins-anthropics-claude-partner-network-at-global-premier-tier/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-26_062133_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 052bac049e682ba8991fffff5428ebfa55db56f7311aa6626e4c449e02812b67
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier
+- 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
 embedding_id: 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-global-prem
@@ -37,5 +38,5 @@ Bain & Company and Anthropic announced a global partnership placing Bain at Glob
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic]]
+**Related:** [[2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic]]
 <!-- graph:end -->

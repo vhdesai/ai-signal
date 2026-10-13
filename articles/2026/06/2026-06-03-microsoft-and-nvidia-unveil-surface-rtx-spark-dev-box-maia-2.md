@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Gizbot; Microsoft
 url_original: https://www.gizbot.com/features/microsoft-build-2026-highlights-the-biggest-announcements-you-need-to-know-126021.html
 url_canonical: https://www.gizbot.com/features/microsoft-build-2026-highlights-the-biggest-announcements-you-need-to-know-126021.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_071040_Final-Daily-AI-News-Digest.md
 content_hash: 82e355cdd047d616efdae2fbee2d5bb6e7c7c8485386289b9fe02468e3d6162a
 normalized_title_hash: 0fa48468ae08b240

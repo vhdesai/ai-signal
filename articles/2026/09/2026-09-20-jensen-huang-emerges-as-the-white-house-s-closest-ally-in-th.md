@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html
 url_canonical: https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6e2d6d8eb708db584764719391746ad8b81a31abd26ac7c9ed75677009f6f773

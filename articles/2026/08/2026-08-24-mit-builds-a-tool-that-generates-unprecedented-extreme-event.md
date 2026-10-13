@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
 url_canonical: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 2ce061479ed7199e91d7f52419b5f02cc38d38d98a650feece4125cf4d4bca77

@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
 url_canonical: https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: a58bbeb5408ecd61995d62f0918218437bb6eb70252d329fffbc0ad8cc3a9fba

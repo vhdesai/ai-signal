@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: Microsoft Command Line
 url_original: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
 url_canonical: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: c4b3bf8fc37fd08420494d656b503471c4469c659f05acdb4e86df3ec69c9061
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
+- 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
-- 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
 embedding_id: 2026-10-10-microsoft-introduces-microsoft-decision-1-for-fast-structure
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft introduced Microsoft-Decision-1, a decision-scoring model available th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l]]
+**Related:** [[2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec]] · [[2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: NDTV
 url_original: https://www.ndtv.com/education/mit-cognitive-surrender-student-ai-dependence-study
 url_canonical: https://www.ndtv.com/education/mit-cognitive-surrender-student-ai-dependence-study
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_065352_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 60edd3083fd0c48a9b7c86e18b6a1905fa18242ebf588a6d457a1783e1af6870

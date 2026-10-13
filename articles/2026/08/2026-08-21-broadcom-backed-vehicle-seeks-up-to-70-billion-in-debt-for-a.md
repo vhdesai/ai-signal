@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: CNBC
 url_original: https://www.cnbc.com/video/2026/08/21/broadcom-backed-spv-tapping-debt-market-for-70-billion-to-support-ai-buildout-sources.html
 url_canonical: https://www.cnbc.com/video/2026/08/21/broadcom-backed-spv-tapping-debt-market-for-70-billion-to-support-ai-buildout-sources.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 7782981e79fada0eb81fc15a1df19fc2340ebe950ee920fb7300f3ca15e0a79c

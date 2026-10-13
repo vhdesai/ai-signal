@@ -5,7 +5,7 @@ date: '2026-08-08'
 source: NVIDIA Newsroom / Unite.AI
 url_original: https://nvidianews.nvidia.com/news/latest
 url_canonical: https://nvidianews.nvidia.com/news/latest
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 711e6fd579bafdb88b129e8bff19acea5006545d2ab02d6a336c6e0054501fee

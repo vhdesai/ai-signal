@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: The Neuron / Replit Docs
 url_original: https://docs.replit.com/platforms/mcp-server
 url_canonical: https://docs.replit.com/platforms/mcp-server
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 7763145e769db1c8a2f838cbaa29060278f0081a3903f381da31d6d6ef3fb922

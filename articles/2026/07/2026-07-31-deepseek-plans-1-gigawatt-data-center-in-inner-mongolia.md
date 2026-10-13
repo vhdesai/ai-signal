@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: DataCenterDynamics · DeepSeek
 url_original: https://www.datacenterdynamics.com/en/news/deepseek-planning-1gw-data-center-in-inner-mongolia-china-report/
 url_canonical: https://www.datacenterdynamics.com/en/news/deepseek-planning-1gw-data-center-in-inner-mongolia-china-report/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: afc8c3387dce2d90da292aa17eb129d1e708c160bb29a9ebd12ac3cec5e502cd

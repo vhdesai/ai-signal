@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: OpenAI / The Decoder
 url_original: https://openai.com/index/disrupting-ai-enabled-false-front-operations
 url_canonical: https://openai.com/index/disrupting-ai-enabled-false-front-operations
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: bc5adaad85ac738a346d029d38dc45afaeb51464f504043930eee628d2e39a02

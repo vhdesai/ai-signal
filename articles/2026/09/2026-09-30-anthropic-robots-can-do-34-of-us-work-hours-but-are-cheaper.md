@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: Anthropic
 url_original: https://www.anthropic.com/research/what-work-can-robots-do
 url_canonical: https://www.anthropic.com/research/what-work-can-robots-do
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 442ab206f66b466eaf1c458e8a80d973fb0d2c6b09cf508a73101e8304332346

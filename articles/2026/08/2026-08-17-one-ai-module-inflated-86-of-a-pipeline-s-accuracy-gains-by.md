@@ -6,7 +6,7 @@ date: '2026-08-17'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers
 url_canonical: https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 416c5d16543ddeeb8b642f164f47a3bf5e19a73edba6715ec1565c35b1958c7d
 normalized_title_hash: 488138b5052d23a2

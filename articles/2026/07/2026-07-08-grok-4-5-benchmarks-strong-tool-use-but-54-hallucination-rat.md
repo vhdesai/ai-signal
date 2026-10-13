@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: TechCrunch · VentureBeat
 url_original: https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
 url_canonical: https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_065220_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 6bade547f3486b133cf2a0b074827eeb9e297d5e7fa56545d14e0b0dfc34293a

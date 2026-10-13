@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Reuters / Benzinga / Quartz]
 url_original: https://www.reuters.com/technology/tencent-oracle-100000-ai-chips-7-billion-lease-2026-10-01/
 url_canonical: https://www.reuters.com/technology/tencent-oracle-100000-ai-chips-7-billion-lease-2026-10-01/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 0d36c05d36a8df098a0444a6741f80d4bee8df035b1210f4596a8d5e9c2a6bb5
@@ -30,7 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
-- 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
+- 2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and
 embedding_id: 2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Benzinga, Reuters, and Quartz confirm Tencent has signed a $7B lease with Oracle
 
 **Entities:** [[NVIDIA]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
+**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch]] · [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and]]
 <!-- graph:end -->

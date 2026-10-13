@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Cornell Chronicle / Science'
 url_original: https://news.cornell.edu/stories/2026/05/widespread-ai-misuse-means-higher-ed-must-rethink-assessment
 url_canonical: https://news.cornell.edu/stories/2026/05/widespread-ai-misuse-means-higher-ed-must-rethink-assessment
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: de2d962f6a443029af209e13dd5c79bb0392a6549a57e223e53bea913e6dc678

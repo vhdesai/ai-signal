@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Phys.org
 url_original: https://phys.org/news/2026-09-young-users-ditch-google-ai.html
 url_canonical: https://phys.org/news/2026-09-young-users-ditch-google-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: edff0168c1a01565bb83de37ae5895da6bd21dff3e0bb79786628c7f948fd27c

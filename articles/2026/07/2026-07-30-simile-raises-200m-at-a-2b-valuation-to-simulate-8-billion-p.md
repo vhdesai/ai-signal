@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: TechCrunch · Simile
 url_original: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
 url_canonical: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-31_061058_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 68235847275911d62f6f2dc9d5a9d018f94047935dbc04b0957a22430eeb318e

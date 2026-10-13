@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
 url_canonical: https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060336_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 6aee0091f65abb7c1b925bf0bf247824ad03d52bb4d1df329e5491b48c323104

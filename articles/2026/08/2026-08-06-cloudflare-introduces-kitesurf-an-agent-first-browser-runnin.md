@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/
 url_canonical: https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-07_060636_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: d06a135fff08d807f52cd18b4623b400922fa472145e63b74cde56deacd60e8c
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-specifically-fo
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-- 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
+- 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
 embedding_id: 2026-08-06-cloudflare-introduces-kitesurf-an-agent-first-browser-runnin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cloudflare introduced Kitesurf, a stateless browser built for AI agents that run
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-cloudflare-introduces-kitesurf-an-agent-first-web-browser-ru]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-specifically-fo]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]]
+**Related:** [[2026-08-06-cloudflare-introduces-kitesurf-an-agent-first-web-browser-ru]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-specifically-fo]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-the-ai-assistant-running-my-life-first-person-account
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
-- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
+- 2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant
 embedding_id: 2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ BI's Tech Memo features a first-person account of living with a comprehensive AI
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-28-the-ai-assistant-running-my-life-first-person-account]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]]
+**Related:** [[2026-08-28-the-ai-assistant-running-my-life-first-person-account]] · [[2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots]] · [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant]]
 <!-- graph:end -->

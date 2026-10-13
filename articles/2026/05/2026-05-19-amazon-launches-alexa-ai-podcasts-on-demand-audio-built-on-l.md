@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: TheWrap
 url_original: https://www.thewrap.com/industry-news/tech/amazon-ai-podcasts-alexa-plus-on-demand/
 url_canonical: https://www.thewrap.com/industry-news/tech/amazon-ai-podcasts-alexa-plus-on-demand/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 75242b3996d6b30d6c0efbc386e0594e4abf2788d9087ad49cbc01a9938c7d0f

@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: Times Now
 url_original: https://www.timesnownews.com/technology-science/how-to-access-anthropics-claude-fable-5-free-offer-check-eligibility-deadline-and-more-article-154982333
 url_canonical: https://www.timesnownews.com/technology-science/how-to-access-anthropics-claude-fable-5-free-offer-check-eligibility-deadline-and-more-article-154982333
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 71a692dd3f41bc3ba326ec49e9952ef60864e6dc2966d5c4742af0787e5eba2b

@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/
 url_canonical: https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 1ddf62b5655c3796b6b8f4b1f0b3517c5b79bd9f97fdb110c6af33afcb7d52e3
 normalized_title_hash: 40c5e9201f96b1c6

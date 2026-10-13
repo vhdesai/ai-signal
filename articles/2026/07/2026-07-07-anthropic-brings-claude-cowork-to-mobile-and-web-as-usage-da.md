@@ -6,7 +6,7 @@ date: '2026-07-07'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding
 url_canonical: https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: a7fac7bcc5f47a8845e99892b0f1315e085845e5823e5d2d9615ab6940b421a7

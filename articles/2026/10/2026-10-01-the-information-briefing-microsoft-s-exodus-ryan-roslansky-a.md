@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The Information
 url_original: https://www.theinformation.com/articles/the-briefing-microsofts-exodus
 url_canonical: https://www.theinformation.com/articles/the-briefing-microsofts-exodus
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-02_070130_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: c92fab8409b1cecc290649f2fcb339181d1068efc6e7fe9f7b681f46b579a7a8

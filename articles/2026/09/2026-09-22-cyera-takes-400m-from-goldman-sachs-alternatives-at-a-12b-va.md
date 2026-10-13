@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: SecurityWeek
 url_original: https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/
 url_canonical: https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: c00216514d9e2779f40dd42721c4e77915b2b1e8cb2e7da5dc8d719a87da355f

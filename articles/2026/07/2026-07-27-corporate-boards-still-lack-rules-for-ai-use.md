@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/corporate-boards-lack-rules-ai-use-deloitte-survey-artificial-intelligence/826117/
 url_canonical: https://www.ciodive.com/news/corporate-boards-lack-rules-ai-use-deloitte-survey-artificial-intelligence/826117/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 359060fd2964feeb225bbcb060f6f7755b1224c3e06da31e087b7bbcebc1925f
 normalized_title_hash: b173c9d8119e4a55
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
-- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 embedding_id: 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Deloitte survey cited by CIO Dive found that many corporate boards still lack 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
+**Related:** [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]]
 <!-- graph:end -->

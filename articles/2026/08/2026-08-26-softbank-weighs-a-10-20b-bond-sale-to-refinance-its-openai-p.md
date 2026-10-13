@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: The Straits Times (via TechStartups) · SoftBank · OpenAI
 url_original: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
 url_canonical: https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: e46e01260f320658b6cac0f57f8236188326cf6c70f0ae4825378eeb2c338f17

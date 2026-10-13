@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: PYMNTS
 url_original: https://www.pymnts.com/news/artificial-intelligence/2026/sam-altman-floats-industrywide-pause-as-frontier-ai-safety-concerns-grow/
 url_canonical: https://www.pymnts.com/news/artificial-intelligence/2026/sam-altman-floats-industrywide-pause-as-frontier-ai-safety-concerns-grow/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 9ed2a62e4092c0ed994c3f32953895749c150324af8c5a5efa6aea699cb11091

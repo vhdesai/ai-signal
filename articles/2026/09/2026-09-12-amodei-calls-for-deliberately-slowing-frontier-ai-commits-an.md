@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: darioamodei.com
 url_original: https://darioamodei.com/post/we-must-pace-the-frontier
 url_canonical: https://darioamodei.com/post/we-must-pace-the-frontier
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 2b9fbce7edcbf28be1836c0d531c74f56fe4e8b2e0bac47430a36631480f80ae

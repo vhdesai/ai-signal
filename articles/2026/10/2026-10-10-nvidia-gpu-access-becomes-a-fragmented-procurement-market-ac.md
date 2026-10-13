@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: CNBC
 url_original: https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
 url_canonical: https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: c1cf7d581da48f7fbff6542616c03476be6683b6ebfe6ad36085757a827cbc08

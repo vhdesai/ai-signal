@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Dataconomy / The Next Web
 url_original: https://dataconomy.com/2026/08/21/nvidia-explores-potential-partnership-or-acquisition-with/
 url_canonical: https://dataconomy.com/2026/08/21/nvidia-explores-potential-partnership-or-acquisition-with/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 94c8162e734df070f04e1b3ec78be319d5b402029f38052799e327d965cdfd47

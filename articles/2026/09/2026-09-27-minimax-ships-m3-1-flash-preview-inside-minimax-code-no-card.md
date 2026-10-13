@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: AlphaSignal]
 url_original: https://alphasignal.ai/news/minimax-quietly-slips-m3-1-flash-preview-into-its-coding-tool
 url_canonical: https://alphasignal.ai/news/minimax-quietly-slips-m3-1-flash-preview-into-its-coding-tool
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 54086868828640dcbd2a2eaf9622da40ea7313198fc5b5b24eb5d4890fbd8022

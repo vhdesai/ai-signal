@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: Ars Technica
 url_original: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
 url_canonical: https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_062423_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 47ab118ba84767b3738ab45d261d69c04f1b682cb8f13e81eba361a1ff8e4732

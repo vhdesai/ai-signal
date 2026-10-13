@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: THE DECODER (via Axios / NYT)]
 url_original: https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/
 url_canonical: https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: ee45b1a94937d11f095cb0273abbf656882ac3482461e9a694c1fd20353c5a0e

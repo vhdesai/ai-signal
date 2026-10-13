@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: MIT News
 url_original: https://news.mit.edu/2026/hardflow-deployment-time-constraints-generative-models-0914
 url_canonical: https://news.mit.edu/2026/hardflow-deployment-time-constraints-generative-models-0914
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 6961dd2a57a89c5bb5cd3c31cb799a5c5e64f619d4e005d2e2f0bd55a344df3f
 normalized_title_hash: 0e298a4eae030891

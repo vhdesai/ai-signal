@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Crypto Briefing]
 url_original: https://cryptobriefing.com/goldman-sachs-ai-capex-1-2-trillion-2027/
 url_canonical: https://cryptobriefing.com/goldman-sachs-ai-capex-1-2-trillion-2027/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-25_065721_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 72911647c7a742ea5a398a93087234f991d78753a2ea1a2522d5627b60c4f908

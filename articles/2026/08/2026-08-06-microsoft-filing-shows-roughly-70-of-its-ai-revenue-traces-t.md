@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: The Next Web
 url_original: https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence
 url_canonical: https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061807_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: dce4e606d1c30980da9e9e91b79c05c9dfc6933905aba873751c766c0968fffb

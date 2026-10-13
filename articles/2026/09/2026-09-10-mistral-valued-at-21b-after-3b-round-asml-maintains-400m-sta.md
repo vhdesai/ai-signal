@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: Euractiv
 url_original: https://www.euractiv.com/section/tech/news/french-ai-firm-mistral-valued-at-21-billion-after-latest-funding/
 url_canonical: https://www.euractiv.com/section/tech/news/french-ai-firm-mistral-valued-at-21-billion-after-latest-funding/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 285c6fec7c77d407085842515a72e326bfae53cb4517df9036570ad2c1aa3af5
 normalized_title_hash: 9c886b83470742c6

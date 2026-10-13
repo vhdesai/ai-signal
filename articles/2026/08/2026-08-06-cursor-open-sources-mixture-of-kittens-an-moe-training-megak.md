@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Cursor Blog
 url_original: https://cursor.com/blog/mixture-of-kittens
 url_canonical: https://cursor.com/blog/mixture-of-kittens
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6f4de1b9724e24c6732dc9560b6424e726970365669685d3136e7224930fdd0a

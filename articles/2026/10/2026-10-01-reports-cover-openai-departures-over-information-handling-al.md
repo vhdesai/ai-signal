@@ -5,7 +5,7 @@ date: '2026-10-01'
 source: October 1, 2026, 1:07 p.m. EDT
 url_original: https://www.forbes.com/sites/fionariley/2026/10/01/openai-reportedly-fires-3-researches-over-allegedly-mishandling-confidential-information/
 url_canonical: https://www.forbes.com/sites/fionariley/2026/10/01/openai-reportedly-fires-3-researches-over-allegedly-mishandling-confidential-information/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-02_060413_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 9a2c70b037968394ee48965179a30b0a2024993cceb1b7616de7e420ea5fbf47

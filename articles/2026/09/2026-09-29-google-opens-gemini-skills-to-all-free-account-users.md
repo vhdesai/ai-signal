@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: Neowin
 url_original: https://www.neowin.net/news/google-opens-gemini-skills-to-all-free-account-users/
 url_canonical: https://www.neowin.net/news/google-opens-gemini-skills-to-all-free-account-users/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 213990cb44b06eaebe33ecb9c5032a36485c2bc397b1a1f1c40a274712e08db0

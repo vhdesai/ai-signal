@@ -5,7 +5,7 @@ date: '2026-07-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
 url_canonical: https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 399580facd02834414bdb575d725454c57751ed3740af5b68b221f8c37761667

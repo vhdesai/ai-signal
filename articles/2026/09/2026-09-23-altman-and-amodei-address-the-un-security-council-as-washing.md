@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: ABC News
 url_original: https://abcnews.com/Politics/openai-anthropic-ceos-call-global-cooperation-ai-crossroads/story?id=136697471
 url_canonical: https://abcnews.com/Politics/openai-anthropic-ceos-call-global-cooperation-ai-crossroads/story?id=136697471
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_062226_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: ea049945288f0d1a57dfe974a743c13a1079ae552ca6e2b93ba1e6068dbad501

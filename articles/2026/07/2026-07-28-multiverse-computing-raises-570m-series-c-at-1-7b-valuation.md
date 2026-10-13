@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: SiliconANGLE
 url_original: https://siliconangle.com/2026/07/28/ai-model-compression-startup-multiverse-raises-570m-1-7b-valuation/
 url_canonical: https://siliconangle.com/2026/07/28/ai-model-compression-startup-multiverse-raises-570m-1-7b-valuation/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 854f8b77c2580fa4256d2397013cb00344a3e11bbe0613b1ba3ecf169ebc173e

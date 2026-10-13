@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs
 - 2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or
-- 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
+- 2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution
 embedding_id: 2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported that Microsoft reduced internal Claude spending from a 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs]] · [[2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or]] · [[2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become]]
+**Related:** [[2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs]] · [[2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or]] · [[2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution]]
 <!-- graph:end -->

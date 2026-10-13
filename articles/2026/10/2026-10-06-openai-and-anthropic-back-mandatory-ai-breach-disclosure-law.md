@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
+- 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
@@ -37,5 +38,5 @@ OpenAI and Anthropic are backing mandatory AI breach-disclosure laws in Australi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
+**Related:** [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models]] · [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

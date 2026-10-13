@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: Fortune]
 url_original: https://fortune.com/2026/10/01/yann-lecun-dario-amodei-deluded-ai-safety-anthropic-meta/
 url_canonical: https://fortune.com/2026/10/01/yann-lecun-dario-amodei-deluded-ai-safety-anthropic-meta/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 9d0a006fa2f424aef00c4c540cb0ab36f790278a10aa023870ad5cd152cc2237

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: Anthropic
 url_original: https://www.anthropic.com/claude-sonnet-5-5
 url_canonical: https://www.anthropic.com/claude-sonnet-5-5
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 81725afdb4d1f5a8c9a1c3694bd1ffca97897eaa7efd33558f76b6b26adb921e

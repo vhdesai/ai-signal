@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: 2:47 PM PDT · TechCrunch
 url_original: https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
 url_canonical: https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-11_060102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: b3caa2837ee17696691cdbd13bd29ae73e366a768ca0055094181370a42be899

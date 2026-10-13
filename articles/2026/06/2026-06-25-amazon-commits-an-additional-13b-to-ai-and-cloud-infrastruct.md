@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
 url_canonical: https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 469d2cf12b987b46343d1563746456e03b7095d298e537cb47832cfca8313186

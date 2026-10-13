@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: WinBuzzer
 url_original: https://winbuzzer.com/2026/05/26/google-deepmind-says-alphaproof-nexus-is-still-not-agi-xcxwbn/
 url_canonical: https://winbuzzer.com/2026/05/26/google-deepmind-says-alphaproof-nexus-is-still-not-agi-xcxwbn/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 709bb63c0cacf918d761150b9bc4c6b46f346465c4019d64dc8c7babd1bb9861
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
+- 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
 - 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
-- 2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c
 embedding_id: 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DeepMind's AlphaProof Nexus, pairing Gemini 3.1 Pro with the Lean proof assistan
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c]]
+**Related:** [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]]
 <!-- graph:end -->

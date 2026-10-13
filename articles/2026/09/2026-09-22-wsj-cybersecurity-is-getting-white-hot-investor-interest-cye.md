@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: WSJ Pro Cybersecurity
 url_original: https://www.wsj.com/articles/cyera-400-million-extension-goldman-sachs-cybersecurity-investors-2026
 url_canonical: https://www.wsj.com/articles/cyera-400-million-extension-goldman-sachs-cybersecurity-investors-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 95a290d4ccf2ded813f296625b89d239e7b79a673e2234a7897394f7be6ee3d5

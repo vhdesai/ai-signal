@@ -6,7 +6,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/
 url_canonical: https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: cc0de94f9385a565e29d61e92e27e4ac42509f3166b5be650dfa6c096ab91ee6

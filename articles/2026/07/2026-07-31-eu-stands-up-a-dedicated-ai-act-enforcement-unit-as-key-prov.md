@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: Fast Company
 url_original: https://www.fastcompany.com/91583269/eu-cracking-down-hacking-ai-deepfakes-new-team-brussels
 url_canonical: https://www.fastcompany.com/91583269/eu-cracking-down-hacking-ai-deepfakes-new-team-brussels
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-01_062620_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: e7ccde981e521246e513fbb92feb17c05b2edc211d32f1fe0d1c1b599186323b

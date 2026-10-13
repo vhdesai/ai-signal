@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: Politico
 url_original: https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376
 url_canonical: https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: d360f0cfed42d67d80e62ad4e86503d8fc610390c1dd0e192a807bb359f2bc37
 normalized_title_hash: 43a60cbf78c850f0

@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html
 url_canonical: https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-29_062410_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 1f6d66e086aff023e230c70fde2eeaf4e6db1d8ff021f7d421d8e92a6c8107a6

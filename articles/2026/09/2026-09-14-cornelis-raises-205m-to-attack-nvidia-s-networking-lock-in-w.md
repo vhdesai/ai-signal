@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
 url_canonical: https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 47a552744c7e107b579195ed6a052bf36570b000c8769e584025cd8a55fc60d6
 normalized_title_hash: 623c3c5a023ffa81

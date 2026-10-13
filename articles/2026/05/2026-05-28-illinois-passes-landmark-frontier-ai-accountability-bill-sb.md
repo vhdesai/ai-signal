@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: WGLT / Capitol News Illinois
 url_original: https://www.wglt.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
 url_canonical: https://www.wglt.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 44543cbc6bafce4455592939d8e8d5bf125528bd1904e1cd5024ee593bcf000e

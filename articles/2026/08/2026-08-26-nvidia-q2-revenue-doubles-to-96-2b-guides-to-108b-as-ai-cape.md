@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: Associated Press
 url_original: https://www.usnews.com/news/business/articles/2026-08-26/strong-ai-chip-demand-fuels-nvidias-q2-results-well-beyond-wall-streets-expectations
 url_canonical: https://www.usnews.com/news/business/articles/2026-08-26/strong-ai-chip-demand-fuels-nvidias-q2-results-well-beyond-wall-streets-expectations
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-27_061503_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: bfb9259f859b0cff2f213e48f6ced55aeae36b0df8b9950094f49d0d3ff0d96f

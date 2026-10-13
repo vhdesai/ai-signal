@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Decoder
 url_original: https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/
 url_canonical: https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 27e6c8e73d179db6a63e9d2a1cd5f649a910707fc2dfac96cfdcaa90552b18f6

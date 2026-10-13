@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: NBC News
 url_original: https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993
 url_canonical: https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 81c74df86890e700a8db83b1d8f81de6d22bcf07a212e4bf5d660a947c9aeb21

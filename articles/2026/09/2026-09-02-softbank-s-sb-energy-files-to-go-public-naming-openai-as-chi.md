@@ -6,7 +6,7 @@ date: '2026-09-02'
 source: The Information; Business Insider
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SB+Energy+IPO+OpenAI
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SB+Energy+IPO+OpenAI
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-02_065546_Final-Daily-AI-News-Digest.md
 content_hash: fb1297ca7acbd0d18c02f97c214983cec1da78417131c7ac0bc39dc5a13c053c
 normalized_title_hash: cfb61902bc8fb1b3

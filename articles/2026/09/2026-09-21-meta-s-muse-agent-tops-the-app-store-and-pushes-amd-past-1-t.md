@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_062352_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 23a10d199bbc497d1b17b1dde02f6995c9fd3cef96bad04fb46e3aa371aac52a

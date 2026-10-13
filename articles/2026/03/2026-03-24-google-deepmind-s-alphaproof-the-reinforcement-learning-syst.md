@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
+- 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
-- 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 embedding_id: 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind's AlphaProof — the reinforcement learning system that achieved
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]]
+**Related:** [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]] · [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]]
 <!-- graph:end -->

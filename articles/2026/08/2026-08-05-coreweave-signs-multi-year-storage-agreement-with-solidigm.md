@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: AiThority
 url_original: https://aithority.com/it-and-devops/cloud/coreweave-signs-multi-year-agreement-with-solidigm-to-strengthen-its-integrated-ai-cloud-platform/
 url_canonical: https://aithority.com/it-and-devops/cloud/coreweave-signs-multi-year-agreement-with-solidigm-to-strengthen-its-integrated-ai-cloud-platform/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 5f8f7335eb6ff621fa0fffd0ab4b0a847a882a1b3fac353f03646eeed10b42ce

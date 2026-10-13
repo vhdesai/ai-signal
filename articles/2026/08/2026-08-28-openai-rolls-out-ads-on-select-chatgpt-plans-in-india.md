@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: CNBC · OpenAI
 url_original: https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
 url_canonical: https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_060640_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 84656658775cb73ead4463829f0f2e4dc4f8ef83e0d321ed521bc4196d32ef3b

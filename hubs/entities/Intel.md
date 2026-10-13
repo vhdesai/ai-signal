@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 119
+member_count: 120
 ---
 
 # Intel
 
-> Auto-generated entity hub. 119 connected article(s).
+> Auto-generated entity hub. 120 connected article(s).
 
+- `2026-10-12` [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot|Intel and Broadcom warn capital costs could become an AI bottleneck]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl|Nvidia ships an open agent-safety stack: OpenShell runtime plus in-silicon Sentry watchdog]]
 - `2026-09-28` [[2026-09-28-nvidia-launches-open-agent-safety-platform-to-contain-agents|Nvidia launches Open Agent Safety Platform to contain agents in silicon]]
 - `2026-09-28` [[2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl|Nvidia Ships Open Agent Safety Platform: OpenShell Runtime Plus Sentry Silicon Watchdog]]

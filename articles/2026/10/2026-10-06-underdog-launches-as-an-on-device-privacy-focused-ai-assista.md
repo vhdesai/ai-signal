@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/
 url_canonical: https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 74721eb2af16e478ec2c86ffad0292535c93bda3c79a0ba1b918e0cb5510097a

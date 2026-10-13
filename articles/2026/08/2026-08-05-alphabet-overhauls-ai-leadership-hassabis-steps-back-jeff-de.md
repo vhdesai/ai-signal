@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: Gizmodo
 url_original: https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979
 url_canonical: https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-06_062205_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: bcc66f18d4a2f7cb85b907451523dbe50fc043371b36b854ffbcc7ae3f064b8d

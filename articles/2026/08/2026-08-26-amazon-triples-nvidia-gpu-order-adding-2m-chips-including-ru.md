@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 url_canonical: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-27_061021_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 8be21185a709d82ad55d8c42c641625769cdf6d0c427cf2364132f99593c0695

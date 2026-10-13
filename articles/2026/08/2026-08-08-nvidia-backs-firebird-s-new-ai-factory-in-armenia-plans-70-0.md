@@ -6,7 +6,7 @@ date: '2026-08-08'
 source: Nvidia
 url_original: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
 url_canonical: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: f6cca115b3b907b53660fea831961550a261159dcafff81ac33f4f2b88df01cb

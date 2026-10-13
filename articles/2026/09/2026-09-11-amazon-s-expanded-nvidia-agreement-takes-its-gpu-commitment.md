@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 5886b4221a60b29b2075c2b65977f08db6409e0cffe303c923cb5d26cc0b7bd2

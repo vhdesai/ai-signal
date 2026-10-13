@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: CBS News
 url_original: https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/
 url_canonical: https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060618_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e2d2559cc401dca611da3136c3d4cd0bd91c2f764c193282c68c09041537a5aa

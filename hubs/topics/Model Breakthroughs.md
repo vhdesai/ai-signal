@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3441
+member_count: 3446
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3441 connected article(s).
+> Auto-generated topic hub. 3446 connected article(s).
 
+- `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]
+- `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]
 - `2026-10-11` [[2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system|RESEARCH 24–48H EXCEPTION Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors October 10, 2026 —…]]
 - `2026-10-11` [[2026-10-11-orcarouter-releases-orcacyber-zero-1-5-with-1m-token-context|OrcaRouter releases OrcaCyber Zero 1.5 with 1M-token context for authorized security work]]
 - `2026-10-11` [[2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind|MODEL OPENAI 24–48H EXCEPTION OpenAI lists new gpt-rosalind-discovery model in docs October 10, 2026 — publication time…]]
 - `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images|Cloudflare Clef-omni brings decision scoring to text, images, audio and video]]
 - `2026-10-11` [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th|ChatGPT for Teens puts OpenAI's age-aware safeguards into the consumer spotlight]]
 - `2026-10-11` [[2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven|36Kr covered MIT research exploring how far interview-driven training can simulate real humans with AI. The work touches digital twins, social simulation and human-behavior modeling. It is scientifically intriguing and ethically sensitive because more realistic simulations could improve planning and research while also enabling manipulation or impersonation.]]
 - `2026-10-10` [[2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued|The Stanford-Elsevier world top-2% scientists list continued drawing coverage, including India-focused and university-specific reports. The list matters because AI competition is increasingly constrained by elite research talent, not only compute and capital. The ongoing attention also shows how rankings and talent pipelines are becoming part of national AI strategy.]]

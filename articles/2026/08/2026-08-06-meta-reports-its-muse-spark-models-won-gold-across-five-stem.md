@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Digg
 url_original: https://digg.com/tech/p8jwwuy5
 url_canonical: https://digg.com/tech/p8jwwuy5
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 5742570ae65aede5ffaaf98d5b3de4d0266ed55da677a71baba0d8ced1260cd7

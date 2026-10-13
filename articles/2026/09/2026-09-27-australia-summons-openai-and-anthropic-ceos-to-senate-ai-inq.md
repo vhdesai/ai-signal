@@ -5,7 +5,7 @@ date: '2026-09-27'
 source: Al Jazeera
 url_original: https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry
 url_canonical: https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_060626_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 2346c4d471d60b7e7cc4ee39d30eebd9c8f1b4f862b7c3d75cda51fd55067387

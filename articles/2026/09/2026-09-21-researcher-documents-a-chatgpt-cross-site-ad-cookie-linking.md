@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Notebookcheck
 url_original: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
 url_canonical: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 4ef2cdf49727bbae942014a8e8650a2bbc8c9cc3a45287296b7792eff8ba50de

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: The Hacker News
 url_original: https://thehackernews.com/2026/09/microsoft-patch-tuesday-azure-ai-foundry-cvss-10.html
 url_canonical: https://thehackernews.com/2026/09/microsoft-patch-tuesday-azure-ai-foundry-cvss-10.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: d9ccb8a14dcdc0cd66f15c9bd11ee6f3e0a9e3ecccc0e96cba75b61b0c3d3335

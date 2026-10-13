@@ -6,7 +6,7 @@ date: '2026-10-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/
 url_canonical: https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 6cafc5ad1e4d40b5ae279a6921d6db781099a4c42ac82f0edcda5b1bdc43bbdb

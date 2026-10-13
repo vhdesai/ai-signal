@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/
 url_canonical: https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: af3fb01ce2eb9ca8f8e6aeec772d8a52630f2d5e05c0cf29668c8b0063636caf

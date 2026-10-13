@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1663
+member_count: 1667
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1663 connected article(s).
+> Auto-generated entity hub. 1667 connected article(s).
 
+- `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
+- `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]
 - `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]

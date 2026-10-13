@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Next Web
 url_original: https://thenextweb.com/news/data-centre-bans-500-us-towns-new-york-texas-statewide
 url_canonical: https://thenextweb.com/news/data-centre-bans-500-us-towns-new-york-texas-statewide
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: e347eb0b0d7d50e4ec3931fbf3bd14d303a5bbcb7229f6f11a5fe840e1ec8532

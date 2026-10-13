@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: AiThority
 url_original: https://aithority.com/machine-learning/nvidia-drives-2gw-sovereign-ai-buildout-in-australia-with-eight-partners/
 url_canonical: https://aithority.com/machine-learning/nvidia-drives-2gw-sovereign-ai-buildout-in-australia-with-eight-partners/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 8fec0065f41b912a1463287a060739dd857498a22e021393bd29db5a9bae0d70
 normalized_title_hash: 1809bf13635acf8f

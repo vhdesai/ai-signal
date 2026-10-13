@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4852
+member_count: 4862
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4852 connected article(s).
+> Auto-generated topic hub. 4862 connected article(s).
 
+- `2026-10-12` [[2026-10-12-palantir-and-ondas-launch-regna-ai-for-sovereign-defense-ope|Palantir and Ondas launch Regna AI for sovereign defense operations]]
+- `2026-10-12` [[2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution|Microsoft’s Office Copilot turnaround puts product execution back in focus]]
+- `2026-10-12` [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed|HCLTech and Anthropic form a global partnership for governed agentic AI]]
+- `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
+- `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]
+- `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant|Ambi raises $26M for an always-listening AI assistant]]
 - `2026-10-11` [[2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e|Voice AI still lacks a clear ChatGPT-style adoption moment, executives say]]
 - `2026-10-11` [[2026-10-11-the-digest-prioritizes-original-date-verified-publications-a|The digest prioritizes original, date-verified publications and deduplicates overlapping coverage]]
 - `2026-10-11` [[2026-10-11-grok-shopping-claim-raises-payment-data-concerns|Grok shopping claim raises payment-data concerns]]
 - `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen|Apple’s reported HomeView hub would put Siri back at the center of the smart home]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou|Amazon reportedly in talks to buy AI startup Decart for around $7B]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition|Amazon reportedly discusses a roughly $7B Decart acquisition]]
 - `2026-10-10` [[2026-10-10-a16z-few-consumers-pay-for-ai-but-top-payers-spend-heavily|a16z: few consumers pay for AI, but top payers spend heavily]]
 - `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]
 - `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]

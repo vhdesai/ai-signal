@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Bloomberg; 9to5Mac; TechCrunch; VentureBeat
 url_original: https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic
 url_canonical: https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 353c11c2f9a4c4350dae5ce636d3d6aebdca487f2b804fb7f755fdde7d79a80f

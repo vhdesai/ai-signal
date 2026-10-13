@@ -5,7 +5,7 @@ date: '2026-07-16'
 source: The Motley Fool**
 url_original: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/07/16/stock-market-today-july-16-micron-plunges-as-tech-stocks-extend-sell-off/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-17_065015_Final-Daily-AI-News-Digest.md
 content_hash: 5e1946a13dbb43bc2bd61632c1da27f647a4152c323cac558b2d5cb90c0571f3
 normalized_title_hash: 750f7cee1a3aaccd

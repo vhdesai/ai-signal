@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/
 url_canonical: https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 6de007ee1e3c53369622f037d2e391ea6618e132e26d56cd5c0864e26bc1b8c9
 normalized_title_hash: fa408a72b119751d

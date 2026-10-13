@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: Reuters
 url_original: https://whbl.com/2026/06/25/italys-domyn-to-launch-open-source-frontier-ai-model-within-a-year-ceo-says/
 url_canonical: https://whbl.com/2026/06/25/italys-domyn-to-launch-open-source-frontier-ai-model-within-a-year-ceo-says/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 0e3d346212e7186579b265503bae698e60f4193b76f82ee11cbc9d0b11deb969

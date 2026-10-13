@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 462
+member_count: 465
 ---
 
 # Apple
 
-> Auto-generated entity hub. 462 connected article(s).
+> Auto-generated entity hub. 465 connected article(s).
 
+- `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
+- `2026-10-12` [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant|Ambi raises $26M for an always-listening AI assistant]]
+- `2026-10-11` [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen|Apple’s reported HomeView hub would put Siri back at the center of the smart home]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-daily-ai-news-digest-october-11-2026|Daily AI News Digest – October 11, 2026]]
 - `2026-10-10` [[2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover|Apple–Huxe talent and licensing agreement receives new coverage]]

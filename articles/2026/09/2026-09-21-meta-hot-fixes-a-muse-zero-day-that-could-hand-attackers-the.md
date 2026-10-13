@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Ars Technica
 url_original: https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
 url_canonical: https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-22_060727_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 8ab05f98251f093e66d2000d3ab6e6cd78a752c69300fb44168cefe885200fc0

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: South China Morning Post / The Decoder
 url_original: https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead
 url_canonical: https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: aab5c91ae05f41421b89dce3e3ce00cd5d1283ebcd973bc4e32a01d07cd5e2c9

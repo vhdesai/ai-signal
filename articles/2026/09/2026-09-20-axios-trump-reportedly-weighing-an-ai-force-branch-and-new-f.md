@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Axios
 url_original: https://www.axios.com/2026/09/20/trump-ai-force-czar-federal-policy
 url_canonical: https://www.axios.com/2026/09/20/trump-ai-force-czar-federal-policy
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6f035283d5e73cbd8d8b808af622df800705df0d3d74219316bb4dd08101e351

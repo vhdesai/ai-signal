@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: Business Insider
 url_original: https://www.businessinsider.com/sergey-brin-gemini-google-ai-influence-2026-9
 url_canonical: https://www.businessinsider.com/sergey-brin-gemini-google-ai-influence-2026-9
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: 4bf1137c1017829603d355f6576a5974915517ef50a7f7a21102285003995a61
 normalized_title_hash: 5fe3b6c8e1b8b2a3

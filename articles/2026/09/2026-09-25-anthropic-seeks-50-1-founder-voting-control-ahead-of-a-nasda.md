@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: The Next Web]
 url_original: https://thenextweb.com/news/anthropic-founders-voting-control-ipo
 url_canonical: https://thenextweb.com/news/anthropic-founders-voting-control-ipo
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-27_065921_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: f5d27a7b8c87f7915398fb2dcc871607117041f6717c8ef7244e6d90b2074bec

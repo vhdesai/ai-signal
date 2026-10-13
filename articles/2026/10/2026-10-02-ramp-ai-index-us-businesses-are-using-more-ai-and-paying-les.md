@@ -5,7 +5,7 @@ date: '2026-10-02'
 source: The Decoder
 url_original: https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/
 url_canonical: https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 75f792299da57e0c8f664d7cb6653477ceeed04da79a345de1debe80a77d9a07

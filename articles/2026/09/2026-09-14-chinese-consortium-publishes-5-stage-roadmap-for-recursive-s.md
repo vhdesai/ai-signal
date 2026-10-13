@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post**
 url_original: https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 2345db06de26b0941bebca7c84b69f95d9a1898542a65582565f44e2f2781ec5
 normalized_title_hash: 99b57055362a8f2d

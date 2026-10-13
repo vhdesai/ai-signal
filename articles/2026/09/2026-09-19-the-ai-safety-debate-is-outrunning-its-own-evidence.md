@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/
 url_canonical: https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 8834f420298e49cae32d06e4322cd94cba2cebc12a49fa4bc8fa86109414d2a9

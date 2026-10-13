@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: TechCrunch
 url_original: https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/
 url_canonical: https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_060854_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: cde77c27cca3088497052c0f19213462917b5ee6c449a8a30a7bd8942604b01e

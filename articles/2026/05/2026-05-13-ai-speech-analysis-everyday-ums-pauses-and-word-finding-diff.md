@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: ScienceDaily
 url_original: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
 url_canonical: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b45dca7a3acc585e404dc77b60d4d962420977a330fee3244ac98b890f88beb3

@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: Visual Studio Magazine
 url_original: https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx
 url_canonical: https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 068e148613060890f49bdb59f5ce79a559117a88e5f4c177a71cb71faebedbdd
 normalized_title_hash: 630a8c94eebb8e4b

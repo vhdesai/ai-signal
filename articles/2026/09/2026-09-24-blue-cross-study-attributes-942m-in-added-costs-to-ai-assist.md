@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: Fierce Healthcare
 url_original: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
 url_canonical: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_061738_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: c69ab97458b45ab8d7959e3a25368953ad4f8ecb6691907e494db1c56798da25

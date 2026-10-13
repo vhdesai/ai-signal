@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more
 url_canonical: https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-23_062038_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 679b5bf354de7ad3ce66f1039de75595cc81a5b75143a633150e1a880f4f59d9

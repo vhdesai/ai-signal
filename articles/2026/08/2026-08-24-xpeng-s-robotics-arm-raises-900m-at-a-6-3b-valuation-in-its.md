@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: Reuters
 url_original: https://aiweekly.co/ai-news-today
 url_canonical: https://aiweekly.co/ai-news-today
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: b6c93abbbcde7e1c55a8ba5f078a08d44ba9c345b00a380a02a53fa5ea8e937e

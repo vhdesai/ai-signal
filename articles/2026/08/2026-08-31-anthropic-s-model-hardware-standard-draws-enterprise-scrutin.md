@@ -5,7 +5,7 @@ date: '2026-08-31'
 source: Fortune India
 url_original: https://www.fortuneindia.com/technology/explained-what-is-anthropics-model-hardware-standard-and-how-ai-agents-could-start-controlling-real-world-machines/156613
 url_canonical: https://www.fortuneindia.com/technology/explained-what-is-anthropics-model-hardware-standard-and-how-ai-agents-could-start-controlling-real-world-machines/156613
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-31_180713_Final-Daily-AI-News-Digest.md
 content_hash: 8c4e15c68e9901113beddf68a6bb2f6976d896d8a29de43e5d995684d4448e07
 normalized_title_hash: ac9428a73aa5a195

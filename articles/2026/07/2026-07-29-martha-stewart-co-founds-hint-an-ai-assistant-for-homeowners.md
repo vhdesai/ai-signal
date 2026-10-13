@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
 url_canonical: https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 9007852f539a827d2b1b9d678c41595d023be00075dab4a7e0bb12a4466ba2ee
@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
+- 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 embedding_id: 2026-07-29-martha-stewart-co-founds-hint-an-ai-assistant-for-homeowners
 event_name: ''
@@ -34,5 +35,5 @@ Hint launched as an AI home-management app co-founded by Martha Stewart, combini
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
+**Related:** [[2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]]
 <!-- graph:end -->

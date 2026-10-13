@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 702
+member_count: 706
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 702 connected article(s).
+> Auto-generated entity hub. 706 connected article(s).
 
+- `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
 - `2026-10-11` [[2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr|POLICY RETAIL AI may change the price of your Big Mac and groceries — what this means for shoppers October 11, 2026,…]]
 - `2026-10-11` [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op|Data-center NDA retreat may not be enough to defuse local opposition to AI infrastructure]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou|Amazon reportedly in talks to buy AI startup Decart for around $7B]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition|Amazon reportedly discusses a roughly $7B Decart acquisition]]
 - `2026-10-11` [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use|AI-driven dynamic pricing raises consumer trust and data-use questions]]
 - `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

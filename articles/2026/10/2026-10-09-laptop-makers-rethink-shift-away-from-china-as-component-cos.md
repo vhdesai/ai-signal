@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370341/soaring-component-costs-force-laptop-makers-rethink-shift-away-china-report
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370341/soaring-component-costs-force-laptop-makers-rethink-shift-away-china-report
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 31d1a5b0c21d454ac5da23da1eb08d52f905fe8d0f2b1b965c8cdc397000f497

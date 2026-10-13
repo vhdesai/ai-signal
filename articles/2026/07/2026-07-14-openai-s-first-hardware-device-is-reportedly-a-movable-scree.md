@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
 url_canonical: https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: 0ab8126516067ee90fa7bf54f0e3b52f7f62e633c9ffc8a45127f58abb7e3f3d
 normalized_title_hash: df00cc9ed894bc34

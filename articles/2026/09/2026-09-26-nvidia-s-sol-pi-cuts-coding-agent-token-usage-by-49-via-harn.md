@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: The Decoder
 url_original: https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/
 url_canonical: https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: d49448ce11f875f47965626c8c786c047c0890d07714d2a62740bd2ac9878587

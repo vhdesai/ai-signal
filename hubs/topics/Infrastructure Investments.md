@@ -1,15 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1802
+member_count: 1811
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1802 connected article(s).
+> Auto-generated topic hub. 1811 connected article(s).
 
+- `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
+- `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
+- `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
+- `2026-10-12` [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot|Intel and Broadcom warn capital costs could become an AI bottleneck]]
+- `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-bain-s-bridge-data-centres-seeks-upsized-6-6b-loan-for-malay|Bain's Bridge Data Centres seeks upsized $6.6B loan for Malaysia operations]]
 - `2026-10-11` [[2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has|INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more reliant than ever on foreign…]]
 - `2026-10-11` [[2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f|INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and defense vehicles October 10, 2026,…]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou|Amazon reportedly in talks to buy AI startup Decart for around $7B]]
+- `2026-10-11` [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition|Amazon reportedly discusses a roughly $7B Decart acquisition]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c|Petra Power pitches solid-oxide fuel cells for future data-center energy needs]]
 - `2026-10-10` [[2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac|Nvidia GPU access becomes a fragmented procurement market across hyperscalers and neoclouds]]

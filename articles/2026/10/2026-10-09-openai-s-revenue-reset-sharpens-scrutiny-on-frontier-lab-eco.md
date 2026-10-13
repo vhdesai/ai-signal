@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: DealBook; The Information; PitchBook
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20annualized%20revenue%20near%2050%20billion
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=OpenAI%20annualized%20revenue%20near%2050%20billion
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: dfd8f5709c85e20bfbd476cd755bdeba40c5f489c4679394678bc4ed236c8d50

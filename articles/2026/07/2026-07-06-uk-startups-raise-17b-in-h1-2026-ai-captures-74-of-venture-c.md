@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Tech Funding News**
 url_original: https://www.londondaily.news/uk-startups-secure-17-billion-in-first-half-of-2026-with-ai-drawing-74-of-venture-capital/
 url_canonical: https://www.londondaily.news/uk-startups-secure-17-billion-in-first-half-of-2026-with-ai-drawing-74-of-venture-capital/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-06_084325_Final-Daily-AI-News-Digest.md
 content_hash: dc9a905c4f7e9e9419f1089a7d001242c48e34ba19fe2cd98edcb75b73c40227
 normalized_title_hash: 33508fd45da5c3cb

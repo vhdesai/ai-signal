@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: CIO Dive**
 url_original: https://www.ciodive.com/news/chewy-ai-cost-savings-agentic-2026/
 url_canonical: https://www.ciodive.com/news/chewy-ai-cost-savings-agentic-2026/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 63c3a8128bf8dd53809e60a3e254ae0e058a8387a08fa6511cb2fbd623db736d
 normalized_title_hash: 5470a41f0a15d21d

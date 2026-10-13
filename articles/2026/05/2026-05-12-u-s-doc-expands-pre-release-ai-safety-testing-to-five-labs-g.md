@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
+- 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-- 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 embedding_id: 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The U.S. Department of Commerce expanded its pre-release AI safety testing acces
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model]]
+**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]]
 <!-- graph:end -->

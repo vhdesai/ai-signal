@@ -6,7 +6,7 @@ date: '2026-10-02'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban
 url_canonical: https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: f6f75c4e4299fc7187a5ffbd98026c0668104162cf4efbc3153b19c0dc4453f7

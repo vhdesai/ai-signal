@@ -5,7 +5,7 @@ date: '2026-07-21'
 source: CNBC**
 url_original: https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html
 url_canonical: https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-23_065018_Final-Daily-AI-News-Digest.md
 content_hash: 5ebacdd214203b191ded6e6221cb6b82cb00d4b4c586bccd61f287e20bb74c15
 normalized_title_hash: 6167ad2b96147d46

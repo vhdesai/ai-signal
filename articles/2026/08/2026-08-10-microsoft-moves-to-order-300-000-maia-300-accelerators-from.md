@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: The Next Web
 url_original: https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia
 url_canonical: https://thenextweb.com/news/microsoft-maia-300-chip-tsmc-production-boost-nvidia
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-11_060300_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 821221d940a862f09d09b6e7e1d035ba3db979ba0acd1edc3174409752389392
@@ -25,9 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr
+- 2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip
 - 2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip
+- 2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a
 - event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
-- 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
 embedding_id: 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Microsoft is reported to be in talks with TSMC to produce more than 300,000 Maia
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]]
+**Related:** [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr]] · [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip]] · [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip]] · [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/
 url_canonical: https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-11_060053_Daily-AI-News-Digest.md
 content_hash: 80135392bdd745a1dfe4f026abbc79a65d4bc92b5496dd3d0ae0acbfe48e4c4c
 normalized_title_hash: 2e6a463720c315a1

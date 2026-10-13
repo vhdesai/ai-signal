@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
 url_canonical: https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: d591330a93ffe283c5bc516407e4cdfb87bfc3af31ecc6131e64ac5704e5b988

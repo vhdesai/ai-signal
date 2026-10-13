@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/
 url_canonical: https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-28_065040_Final-Daily-AI-News-Digest.md
 content_hash: f9425c52371b86747ec0f725b1adc99e79e6ad36fed7b44ac281279506fa558b
 normalized_title_hash: ca6fdf6e6cac85f6

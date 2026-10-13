@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: TechCrunch · DealBook
 url_original: https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
 url_canonical: https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: b281ec4e1c462a5c3e13ff3d9738613733e8719fda86253d1d70fd24d494ec97
 normalized_title_hash: b88299f963086a5e

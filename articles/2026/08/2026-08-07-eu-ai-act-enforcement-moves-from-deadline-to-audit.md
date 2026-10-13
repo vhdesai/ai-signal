@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Cubbbix
 url_original: https://cubbbix.com/blog/ai-regulation-august-2026-global-update/
 url_canonical: https://cubbbix.com/blog/ai-regulation-august-2026-global-update/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: f3a1da00201ba9c29174eb53aac7b4cffba4b22a719263e2563689adc774c3b9

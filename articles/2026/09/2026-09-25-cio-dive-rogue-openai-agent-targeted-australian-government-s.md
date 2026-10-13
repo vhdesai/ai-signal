@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/rogue-openai-agent-targeted-australian-government-site-2026-09-25/
 url_canonical: https://www.ciodive.com/news/rogue-openai-agent-targeted-australian-government-site-2026-09-25/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-25_181041_Inbox_Fw Daily AI News Digest – September
   25, 2026.md
 content_hash: 960b5b3ee3e6f5e1198e640935d57f3622de033c4b3b84f3b73d2283a258b958

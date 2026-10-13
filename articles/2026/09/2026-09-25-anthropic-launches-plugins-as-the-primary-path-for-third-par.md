@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: Anthropic release notes
 url_original: https://releasebot.io/updates/anthropic
 url_canonical: https://releasebot.io/updates/anthropic
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: dcb46c66605bd98dc8822800b03bb23b5bbab79a26f9b67e769d90be0a91bf4e

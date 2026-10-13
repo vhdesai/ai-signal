@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Epoch AI
 url_original: https://epoch.ai/MirrorCode
 url_canonical: https://epoch.ai/MirrorCode
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e9e60176c31c20b8b8983825ec7bcd6272dc87bd4e3c2ae6b67af881d3af11cc

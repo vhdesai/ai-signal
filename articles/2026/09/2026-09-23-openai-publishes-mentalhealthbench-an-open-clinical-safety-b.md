@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: OpenAI Blog
 url_original: https://openai.com/index/introducing-mentalhealthbench/
 url_canonical: https://openai.com/index/introducing-mentalhealthbench/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 54510bd90f51cc6bf27540d8311750226c34901c3695987f7ac3f4f0af3dbb61

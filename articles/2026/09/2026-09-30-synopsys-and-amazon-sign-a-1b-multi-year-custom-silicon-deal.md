@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: Pluang / Proactive Investors]
 url_original: https://www.proactiveinvestors.com/companies/news/synopsys-amazon-1-billion-ai-silicon-deal
 url_canonical: https://www.proactiveinvestors.com/companies/news/synopsys-amazon-1-billion-ai-silicon-deal
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: fac896d7ac12ee87616a7593eaa16750363a4e9b3f83bf7cf608cba810dc5beb
@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
+- 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
 - 2026-04-09-products-tools
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
-- 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 embedding_id: 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Synopsys and Amazon inked a multi-year, $1B+ agreement centered on custom AI sil
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-04-09-products-tools]] · [[2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus]] · [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]]
+**Related:** [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o]] · [[2026-04-09-products-tools]] · [[2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-09-17'
 source: Anthropic
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_065935_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: b9706037becd3cf45a9e4c92114162d7be3b1c7303ef5ba13749abf022a1c70b

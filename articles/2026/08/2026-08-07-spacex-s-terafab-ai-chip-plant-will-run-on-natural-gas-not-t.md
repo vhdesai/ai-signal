@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/
 url_canonical: https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-08_061755_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: a3ff9f031bb8fedf1ba93066b0c1822135b85edc4cdf3452d4c5390be6a36bbf

@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: The Information
 url_original: https://www.theinformation.com/articles/defense-startup-shield-ai-in-talks-for-valuation-of-at-least-20-billion
 url_canonical: https://www.theinformation.com/articles/defense-startup-shield-ai-in-talks-for-valuation-of-at-least-20-billion
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-15_065723_Final-Daily-AI-News-Digest.md
 content_hash: 7bad8f83efa5262e52a4140eb3317081cba1915b64ed695ab3a9e51d3f5294cb
 normalized_title_hash: ca59abf822da5f46

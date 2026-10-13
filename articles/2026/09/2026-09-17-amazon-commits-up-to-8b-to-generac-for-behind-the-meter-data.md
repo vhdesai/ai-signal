@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
+- 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
 - 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-- 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 embedding_id: 2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Generac disclosed in an SEC filing a long-term agreement to supply industrial ba
 
 **Entities:** [[Amazon]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
+**Related:** [[2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal]] · [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o]] · [[2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex]] · [[2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment]]
 <!-- graph:end -->

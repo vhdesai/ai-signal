@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 64
+member_count: 65
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 64 connected article(s).
+> Auto-generated entity hub. 65 connected article(s).
 
+- `2026-10-12` [[2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip|Microsoft unveils Maia 300, its latest custom AI chip]]
 - `2026-09-21` [[2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm|Meta's Iris AI Chip Enters Mass Production at TSMC 3nm]]
 - `2026-09-21` [[2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production|Meta's Iris AI Accelerator (MTIA Gen 3) Enters Mass Production at TSMC 3nm]]
 - `2026-09-18` [[2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme|S&P: Asia-Pacific chip foundries are the most insulated segment against an AI-spend slowdown]]

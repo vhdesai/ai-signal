@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
+- 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 embedding_id: 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive reported that enterprise data is increasingly leaking into shadow-AI to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]]
 <!-- graph:end -->

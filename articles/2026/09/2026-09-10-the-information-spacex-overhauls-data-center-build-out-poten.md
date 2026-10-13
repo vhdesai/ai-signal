@@ -6,7 +6,7 @@ date: '2026-09-10'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+data+center+build-out+overhaul
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+data+center+build-out+overhaul
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-10_065512_Final-Daily-AI-News-Digest.md
 content_hash: 13764517a9096c1d13734cfca7d96c9e6a6c9d93ed6e0819767c5a3f285d88fc
 normalized_title_hash: e0c2a430ebdcc645

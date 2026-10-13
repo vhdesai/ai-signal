@@ -5,7 +5,7 @@ date: '2026-09-12'
 source: Scientific American
 url_original: https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/
 url_canonical: https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060641_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 46b5f7c8ec4b9735f1a0a206f8ed54178b623cc611069f39693bdebc0fa7b394

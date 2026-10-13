@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Tech in Asia
 url_original: https://www.techinasia.com/news/chinas-zai-faces-scrutiny-coding-tool-uploads-local-data
 url_canonical: https://www.techinasia.com/news/chinas-zai-faces-scrutiny-coding-tool-uploads-local-data
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 29875fc0f69c407b5169ed84ff4ee2249e5cddfb90a818701b7def9033f39d6b

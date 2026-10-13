@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: The New York Times / The Information]
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=FTC+investigation+OpenAI+Anthropic+consumer+protection
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=FTC+investigation+OpenAI+Anthropic+consumer+protection
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 8bfb63b8e325268237a87b8fd0f286426fc04d00bfa11e7b33c4c33d0c856169

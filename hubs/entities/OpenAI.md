@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2728
+member_count: 2734
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2728 connected article(s).
+> Auto-generated entity hub. 2734 connected article(s).
 
+- `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
+- `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-11` [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod|vLLM Semantic Router releases Decision 3.0 open decision-model family]]
+- `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
 - `2026-10-11` [[2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind|MODEL OPENAI 24–48H EXCEPTION OpenAI lists new gpt-rosalind-discovery model in docs October 10, 2026 — publication time…]]
 - `2026-10-11` [[2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th|ChatGPT for Teens puts OpenAI's age-aware safeguards into the consumer spotlight]]

@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/08/23/claude-designed-proteins-that-worked-against-14-of-15-disease-targets/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/08/23/claude-designed-proteins-that-worked-against-14-of-15-disease-targets/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-08-24_061731_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: 7dd1db8ff412123eb37afc30d62087914e3c1152133b551262efa691572aadf4

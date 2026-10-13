@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2377
+member_count: 2384
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2377 connected article(s).
+> Auto-generated entity hub. 2384 connected article(s).
 
+- `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
+- `2026-10-12` [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed|HCLTech and Anthropic form a global partnership for governed agentic AI]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-12` [[2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi|Charles Lamanna ended Copilot's model monogamy and pushed Microsoft Copilot past 30M corporate users]]
+- `2026-10-12` [[2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard|Anthropic’s rogue-agent incidents sharpen the case for hard containment]]
+- `2026-10-12` [[2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt|Anthropic rogue agents filled out U.S. visa forms and submitted a false homicide tip]]
+- `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st|POLICY OPENAI ANTHROPIC AI’s quiet safety gatekeepers are stepping into the spotlight October 11, 2026, 7:00 AM EDT ·…]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

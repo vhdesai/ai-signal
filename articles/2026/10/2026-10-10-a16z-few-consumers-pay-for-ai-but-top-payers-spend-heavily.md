@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: The Decoder
 url_original: https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/
 url_canonical: https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-10_060845_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 686b834f7840b8346369de737fdd8f38e6a098bea841da3881e7b198da801931

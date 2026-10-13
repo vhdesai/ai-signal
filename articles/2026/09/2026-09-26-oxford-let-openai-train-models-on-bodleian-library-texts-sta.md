@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: The Guardian
 url_original: https://www.thenews.com.pk/latest/1417727-oxford-gives-openai-access-to-bodleian-library-for-ai-training
 url_canonical: https://www.thenews.com.pk/latest/1417727-oxford-gives-openai-access-to-bodleian-library-for-ai-training
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 92747839975aff4d61e8f3bbbdec3d43070add86869a86d27b4014bd923b432c

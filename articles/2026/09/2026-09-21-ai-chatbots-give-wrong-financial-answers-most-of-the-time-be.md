@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: InvestmentNews
 url_original: https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267
 url_canonical: https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 5c5283a7a99779ddf3538646f674d8f23cad6c991eef077b13ee2243aa4d4165

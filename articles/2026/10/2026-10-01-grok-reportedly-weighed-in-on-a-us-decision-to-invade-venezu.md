@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/
 url_canonical: https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 0e4ea574120d6b74ed4edc11382cab7a5bc9e6d2b1be228e2ea25d6bda78f463

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: CryptoRank / Gadgets 360
 url_original: https://cryptorank.io/news/xai-grokbot-enterprise-launch-2026
 url_canonical: https://cryptorank.io/news/xai-grokbot-enterprise-launch-2026
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 5ff9356f50a955e4affce936065da6f1a50d728e68f97a374dc0adb303b53c56

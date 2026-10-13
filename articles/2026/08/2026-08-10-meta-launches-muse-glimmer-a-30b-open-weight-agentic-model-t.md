@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: CNBC / Axios
 url_original: https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html
 url_canonical: https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-10_070022_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 940c82c242824bdc6e0717658b9f665e443093ed7d7f034d739a21f944069e16

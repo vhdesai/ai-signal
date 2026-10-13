@@ -6,7 +6,7 @@ date: '2026-09-13'
 source: CBS News / Business Insider
 url_original: https://www.businessinsider.com/ai-doomsday-debate-amodei-altman-musk-slowdown-2026-9
 url_canonical: https://www.businessinsider.com/ai-doomsday-debate-amodei-altman-musk-slowdown-2026-9
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: b7e9e2fd739659959b13a6d8ed589334600c15a871c26861bf9ab284f104895b

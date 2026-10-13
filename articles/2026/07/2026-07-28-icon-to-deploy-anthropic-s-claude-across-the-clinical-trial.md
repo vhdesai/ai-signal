@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: ICON plc
 url_original: https://finance.yahoo.com/healthcare/articles/icon-announces-multi-collaboration-anthropic-110000228.html
 url_canonical: https://finance.yahoo.com/healthcare/articles/icon-announces-multi-collaboration-anthropic-110000228.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: c6e7dabe3eb49359f86701bed6b56d32368f98490a676729d32eb817746492f8
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 embedding_id: 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Contract research organization ICON plc (NASDAQ: ICLR) announced a multi-year co
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]]
+**Related:** [[2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
 <!-- graph:end -->

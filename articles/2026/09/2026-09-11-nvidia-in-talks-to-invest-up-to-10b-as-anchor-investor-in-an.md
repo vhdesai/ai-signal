@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Reuters
 url_original: https://www.thestar.com.my/tech/tech-news/2026/09/12/exclusive-nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say
 url_canonical: https://www.thestar.com.my/tech/tech-news/2026/09/12/exclusive-nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 975834658ecfe0a3e2f1e52e9536246e78f1f095945d2bf9a1986b51ead751f5

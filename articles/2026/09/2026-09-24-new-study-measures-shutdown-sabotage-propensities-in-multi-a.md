@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: arXiv (cs.AI) — Knecht, Schaller, Summerfield, Hagendorff
 url_original: https://arxiv.org/abs/2609.28274
 url_canonical: https://arxiv.org/abs/2609.28274
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d5af9bd625bb67ba8be0172eaea1a43086b13a7985e655d0d2b489feeb671cc8

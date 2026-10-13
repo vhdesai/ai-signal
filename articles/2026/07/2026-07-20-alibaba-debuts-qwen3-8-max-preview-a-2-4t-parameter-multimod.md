@@ -5,7 +5,7 @@ date: '2026-07-20'
 source: eWeek**
 url_original: https://www.eweek.com/news/alibaba-qwen3-8-max-preview-china-apac/
 url_canonical: https://www.eweek.com/news/alibaba-qwen3-8-max-preview-china-apac/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-21_065051_Final-Daily-AI-News-Digest.md
 content_hash: 19f1d412201201bd52355797a424f2c3e8c8bab0fecd47d5ffeff2ade7fd002f
 normalized_title_hash: fa0cd7b8edaf2b02

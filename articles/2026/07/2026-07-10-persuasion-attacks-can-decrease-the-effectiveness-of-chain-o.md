@@ -5,7 +5,7 @@ date: '2026-07-10'
 source: arXiv, announced July 10, 2026
 url_original: https://arxiv.org/abs/2607.08066
 url_canonical: https://arxiv.org/abs/2607.08066
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 41ed797e4a2a87c96f6f3c839b441b549db692488a89f5a45bc9a787e70e7856
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
-- 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
 embedding_id: 2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new preprint co-authored by DeepMind's Victoria Krakovna finds that giving a s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]]
+**Related:** [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
 <!-- graph:end -->

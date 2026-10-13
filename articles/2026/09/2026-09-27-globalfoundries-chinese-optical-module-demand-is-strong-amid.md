@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 540d67fe700d42de1168df4ecf47b4aa1edd8e639480e468acf1922c847793f9

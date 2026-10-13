@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: MediaNama
 url_original: https://www.medianama.com/2026/09/223-google-ai-shopping-flipkart-gemini/
 url_canonical: https://www.medianama.com/2026/09/223-google-ai-shopping-flipkart-gemini/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 853e357fa431b101eba6baddd1fc7630f914a030101e67394c9aabeb629439bf

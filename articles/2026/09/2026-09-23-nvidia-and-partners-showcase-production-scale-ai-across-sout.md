@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/ai-day-singapore/
 url_canonical: https://blogs.nvidia.com/blog/ai-day-singapore/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-24_061044_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 2f3d8fb6589fe28d9f866b66a909f534eba7d4dd262254cf6ff65f5af110e677

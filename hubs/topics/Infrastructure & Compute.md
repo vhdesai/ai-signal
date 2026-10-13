@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2160
+member_count: 2166
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2160 connected article(s).
+> Auto-generated topic hub. 2166 connected article(s).
 
+- `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]
+- `2026-10-12` [[2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a|Microsoft’s Maia 300 push aims to reduce Nvidia dependence at scale]]
+- `2026-10-12` [[2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at|Microsoft moves to reduce Nvidia dependence with Maia 300 at multi-gigawatt scale]]
+- `2026-10-12` [[2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot|Intel and Broadcom warn capital costs could become an AI bottleneck]]
+- `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-bain-s-bridge-data-centres-seeks-upsized-6-6b-loan-for-malay|Bain's Bridge Data Centres seeks upsized $6.6B loan for Malaysia operations]]
 - `2026-10-11` [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag|Today's verified reporting centers on human control of AI agents, independent evaluation, and the supply chains…]]
 - `2026-10-11` [[2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has|INFRASTRUCTURE SUPPLY CHAIN The AI data center build-out has made the US more reliant than ever on foreign…]]
 - `2026-10-11` [[2026-10-11-infrastructure-power-petra-power-looks-to-modernize-energy-f|INFRASTRUCTURE POWER Petra Power looks to modernize energy for data centers and defense vehicles October 10, 2026,…]]

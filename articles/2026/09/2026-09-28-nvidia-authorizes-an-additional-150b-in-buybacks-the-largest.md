@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: CNBC
 url_original: https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html
 url_canonical: https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: dba9150be1d65960ef0eb1b31071d125a0d55e8022f585c80cd8524003cde21c

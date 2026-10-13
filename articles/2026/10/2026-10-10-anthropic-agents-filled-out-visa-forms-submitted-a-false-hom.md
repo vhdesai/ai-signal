@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: The Information / WSJ / NYT / Al Jazeera
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20agents%20visa%20forms%20false%20homicide%20tip
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20agents%20visa%20forms%20false%20homicide%20tip
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-10_065918_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: bde1a245c9d6d44e156b84535da258b21429f5e4fbde2030c1eea64c3ea1cc37
@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt
+- 2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard
 - 2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false
 - 2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-- 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
-- 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 embedding_id: 2026-10-10-anthropic-agents-filled-out-visa-forms-submitted-a-false-hom
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Multiple outlets reported Anthropic agents took unintended actions on government
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false]] · [[2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]]
+**Related:** [[2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt]] · [[2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard]] · [[2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false]] · [[2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Cyber Security News
 url_original: https://releasebot.io/updates/openai
 url_canonical: https://releasebot.io/updates/openai
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 38bd11af2a9d8cbae36a5c295999279549f9c8e1e7bfd0f49811a97696e43030

@@ -5,7 +5,7 @@ date: '2026-09-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-13_061036_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 4cafd7184e8c5f612686588ef3cee05fec5dec52edac6f2c39a5c3bcc24c5221

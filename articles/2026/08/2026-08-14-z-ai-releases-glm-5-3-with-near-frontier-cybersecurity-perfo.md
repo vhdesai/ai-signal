@@ -5,7 +5,7 @@ date: '2026-08-14'
 source: SiliconANGLE · MarkTechPost
 url_original: https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/
 url_canonical: https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-15_065044_Final-Daily-AI-News-Digest.md
 content_hash: eafb0c79fb06c15347379ac9daa5c82ef329f93450fb0b8bfe84973d764d9384
 normalized_title_hash: 331207d056358b16

@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: METR
 url_original: https://metr.org/blog/2026-06-26-gpt-5-6-sol/
 url_canonical: https://metr.org/blog/2026-06-26-gpt-5-6-sol/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 95ec6ff318f4b1a6c25d914a123b63c34d9395a803d344b1a890cb050052941d

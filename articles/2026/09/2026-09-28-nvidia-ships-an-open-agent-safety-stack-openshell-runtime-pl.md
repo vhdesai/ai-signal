@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/open-agent-safety-platform
 url_canonical: https://nvidianews.nvidia.com/news/open-agent-safety-platform
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-28_063052_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: ab409ad4b0587f7c98161e31364c8ba43bbb4eb12f465ed863773baabd58b0ea

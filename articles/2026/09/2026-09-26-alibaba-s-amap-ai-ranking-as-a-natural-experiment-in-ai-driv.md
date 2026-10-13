@@ -6,7 +6,7 @@ date: '2026-09-26'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 20fe176e20426b92c400d90355c93e87a8e3e1cb2d9ad9726951a2cf65bacca6
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
 - 2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use
-- 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
+- 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 embedding_id: 2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Amap case is also being read academically as one of the first at-scale natur
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in]] · [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use]] · [[2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru]] · [[2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]]
+**Related:** [[2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in]] · [[2026-10-11-ai-driven-dynamic-pricing-raises-consumer-trust-and-data-use]] · [[2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-08-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
 url_canonical: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: cea46bd6965a91f4621f7fd78a4b8141d55a9b771742f89fe3e0e35269bc0287

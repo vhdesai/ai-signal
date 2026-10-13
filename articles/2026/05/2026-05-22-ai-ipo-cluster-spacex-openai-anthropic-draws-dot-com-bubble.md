@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: CNBC
 url_original: https://www.cnbc.com/
 url_canonical: https://www.cnbc.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 77a0c52988b8a63d8817949f35e900888c20819479f5e6af1f5fe224de0fd0b2

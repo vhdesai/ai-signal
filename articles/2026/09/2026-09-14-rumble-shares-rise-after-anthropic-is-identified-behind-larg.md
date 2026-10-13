@@ -5,7 +5,7 @@ date: '2026-09-14'
 source: Blockonomi
 url_original: https://blockonomi.com/rumble-rum-stock-climbs-20-as-anthropic-revealed-behind-massive-13-7b-ai-deal/
 url_canonical: https://blockonomi.com/rumble-rum-stock-climbs-20-as-anthropic-revealed-behind-massive-13-7b-ai-deal/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-14_060731_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9d7b393c9c2843d92917941dcc02a620600961d7c4e06f2239f0c9be06f80951

@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 embedding_id: 2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals
 event_name: ''
@@ -37,5 +38,5 @@ Berkeley professor Stuart Russell told The Information that OpenAI was right to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]]
+**Related:** [[2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke]] · [[2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki]]
 <!-- graph:end -->

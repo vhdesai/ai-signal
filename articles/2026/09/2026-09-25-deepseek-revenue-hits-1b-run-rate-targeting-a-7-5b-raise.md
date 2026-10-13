@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: The Information
 url_original: https://aiweekly.co/ai-news-today/edition/2026-09-25
 url_canonical: https://aiweekly.co/ai-news-today/edition/2026-09-25
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 07611f5c8122fdd4f36d8d0a80c12f480a94828e7c4719aab1c2095a097a876b

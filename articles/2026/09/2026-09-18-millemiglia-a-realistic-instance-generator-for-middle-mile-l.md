@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: Google Research Blog
 url_original: https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/
 url_canonical: https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 6699ea9af53190d80e1a2dcb7a4a370fa662663799ced53aaf5226f08015d5c9

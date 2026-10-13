@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: Crunchbase News**
 url_original: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
 url_canonical: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: fdfd0adeb363831551ca062402fd7898994fa72eb0088ed75c78754504ca67a2
 normalized_title_hash: 95c0de5707ad0621

@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: UC San Diego (Ideker lab), Cancer Discovery
 url_original: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response
 url_canonical: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 7b2ed8b8a9b3bb2d059ff38e138a579d6d8fd6ccf574ff583481b5d1039ce387

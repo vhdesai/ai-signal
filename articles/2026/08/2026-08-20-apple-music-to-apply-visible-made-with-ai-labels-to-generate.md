@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/
 url_canonical: https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 1011c0fa7564a8e21a1c9bb4c374a87811c884d1e9ad36b82f2bb20ad14de48f

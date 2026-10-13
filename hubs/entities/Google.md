@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1629
+member_count: 1632
 ---
 
 # Google
 
-> Auto-generated entity hub. 1629 connected article(s).
+> Auto-generated entity hub. 1632 connected article(s).
 
+- `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
+- `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
+- `2026-10-11` [[2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety|UK regains pre-release access to frontier models for safety testing]]
 - `2026-10-11` [[2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven|36Kr covered MIT research exploring how far interview-driven training can simulate real humans with AI. The work touches digital twins, social simulation and human-behavior modeling. It is scientifically intriguing and ethically sensitive because more realistic simulations could improve planning and research while also enabling manipulation or impersonation.]]
 - `2026-10-10` [[2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued|The Stanford-Elsevier world top-2% scientists list continued drawing coverage, including India-focused and university-specific reports. The list matters because AI competition is increasingly constrained by elite research talent, not only compute and capital. The ongoing attention also shows how rankings and talent pipelines are becoming part of national AI strategy.]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]

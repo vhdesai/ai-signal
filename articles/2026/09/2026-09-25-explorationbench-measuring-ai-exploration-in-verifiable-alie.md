@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: arXiv (2609.30199) · Fudan University NLP group
 url_original: https://arxiv.org/abs/2609.30199
 url_canonical: https://arxiv.org/abs/2609.30199
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: d66127ae1aa04a3297954d90973e9286323e445edd7fcd4420a7480eee7ffe1c

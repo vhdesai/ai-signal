@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=djemCIO
 url_canonical: https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=djemCIO
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 6a5bf7e2b223610caff2ae74200e588e073998a44ef4a093687404f5aa479bbe
