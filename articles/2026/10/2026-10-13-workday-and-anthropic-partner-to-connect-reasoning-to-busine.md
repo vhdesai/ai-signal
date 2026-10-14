@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-- 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
-- 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
+dedupe_status: duplicate
+canonical_article_id: 2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as
+related_article_ids: []
 embedding_id: 2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Workday and Anthropic announced a partnership to connect Claude-style reasoning 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta]] · [[2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic]]
+**Canonical:** [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as]]
 <!-- graph:end -->

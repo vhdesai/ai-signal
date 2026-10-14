@@ -7,8 +7,8 @@ source: Dealroom
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 00a4855d524ad0508c0ca1445583ba2d5cb71165ca948ecc038ecceeada078b9
 normalized_title_hash: 7623df6bcc0c00ce
 canonical_url_hash: ''

@@ -1,18 +1,25 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2742
+member_count: 2749
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2742 connected article(s).
+> Auto-generated entity hub. 2749 connected article(s).
 
+- `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
+- `2026-10-14` [[2026-10-14-alleged-openai-spy-vibe-coded-surveillance-device-using-wife|Alleged OpenAI spy vibe-coded surveillance device using wife's chatbot account]]
+- `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro|OpenAI withdraws three AI mathematics papers over proof error]]
+- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns; eyes Trail of Bits]]
+- `2026-10-13` [[2026-10-13-openai-employee-charged-over-alleged-conference-room-surveil|OpenAI employee charged over alleged conference-room surveillance]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-12` [[2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough|Unitree founder says GPT-6 may trigger robotics breakthrough as soon as next year]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
 - `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]

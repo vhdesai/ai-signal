@@ -6,8 +6,8 @@ source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Andreessen%20Horowitz%20General%20Catalyst%20secure%20chips%20startups
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Andreessen%20Horowitz%20General%20Catalyst%20secure%20chips%20startups
 url_status: broken
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 0ed030c572e5d4d2f06032e10f08b1c8436591752772950b642a2a6b63c6acfd
 normalized_title_hash: 80b7c8f85bd486bb
 canonical_url_hash: 4ca2c333715cd43b

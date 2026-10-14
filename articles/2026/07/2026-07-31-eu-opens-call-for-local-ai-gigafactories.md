@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
-- 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 embedding_id: 2026-07-31-eu-opens-call-for-local-ai-gigafactories
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Wall Street Journal reported that the EU opened a call for the creation of l
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera]]
+**Related:** [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
 <!-- graph:end -->

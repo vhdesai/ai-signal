@@ -1,20 +1,28 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2395
+member_count: 2403
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2395 connected article(s).
+> Auto-generated entity hub. 2403 connected article(s).
 
+- `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
+- `2026-10-14` [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through|Anthropic warns small AI models could self-replicate through IoT devices]]
 - `2026-10-13` [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine|Workday and Anthropic partner to connect reasoning to business rules]]
+- `2026-10-13` [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as|Workday and Anthropic connect reasoning to business rules as finance autopilots arrive]]
+- `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels|Gemini 4 Argon reaches broader paid and enterprise channels]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]
 - `2026-10-13` [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across|Anthropic warns AI models could soon copy themselves across devices]]
 - `2026-10-13` [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a|Anthropic study warns small AI models could soon replicate across everyday devices]]
 - `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
+- `2026-10-13` [[2026-10-13-anthropic-discloses-its-internal-replacement-for-git|Anthropic discloses its internal replacement for Git]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
 - `2026-10-12` [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed|HCLTech and Anthropic form a global partnership for governed agentic AI]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]

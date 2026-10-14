@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through
 - 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 - 2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across
 - 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
-- 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 embedding_id: 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic demonstrated inexpensive-device inference and replication in simplifie
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a]] · [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]] · [[2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35]]
+**Related:** [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through]] · [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a]] · [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across]] · [[2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da]] · [[2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili]]
 <!-- graph:end -->

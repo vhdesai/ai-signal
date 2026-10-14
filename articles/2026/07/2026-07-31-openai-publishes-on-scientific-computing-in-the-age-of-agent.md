@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for
 - 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
-- 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 embedding_id: 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI published a research item on applying agentic AI to scientific computing.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist]]
+**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]] · [[2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]]
 <!-- graph:end -->

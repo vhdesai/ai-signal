@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
+- 2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-- 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 embedding_id: 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Follow-on coverage details the academic side of the declaration: Princeton's Jun
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet]] · [[2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]]
 <!-- graph:end -->

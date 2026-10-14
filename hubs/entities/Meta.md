@@ -1,19 +1,25 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 899
+member_count: 905
 ---
 
 # Meta
 
-> Auto-generated entity hub. 899 connected article(s).
+> Auto-generated entity hub. 905 connected article(s).
 
+- `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c|Gemini 4 Argon becomes globally available as Google's most capable frontier model]]
+- `2026-10-13` [[2026-10-13-facebook-gives-users-more-ai-powered-control-over-their-algo|Facebook gives users more AI-powered control over their algorithm]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
 - `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
 - `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha|Alibaba launches $450 Qwen AI glasses and always-on vision hardware]]
 - `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-frontier-model|Meta releases Muse Wonder, its first frontier model]]
 - `2026-10-12` [[2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model|Meta releases Muse Wonder, its first declared frontier-model push]]
 - `2026-10-12` [[2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full-as-frontier|Meta introduces Muse Wonder and Muse Wonder Full as frontier agent models]]

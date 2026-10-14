@@ -4,10 +4,10 @@ title: Microsoft's split-personality retrosynthetic AI is a fast learner
 date: '2026-10-13'
 source: Chemistry World
 url_original: null
-url_canonical: https://www.chemistryworld.com/news/microsofts-split-personality-retrosynthetic-ai-is-a-fast-learner/4024309.article
-url_status: repaired
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 0d069ab4847fcd54ebe5125c0b93ce6d7363d2344263b2d05d6addc88324ece7
 normalized_title_hash: 5473cecd781d1a00
 canonical_url_hash: ''

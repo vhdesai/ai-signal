@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through
 - 2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 embedding_id: 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic researchers warn that small models may be months away from self-replic
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]]
+**Related:** [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through]] · [[2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
 <!-- graph:end -->

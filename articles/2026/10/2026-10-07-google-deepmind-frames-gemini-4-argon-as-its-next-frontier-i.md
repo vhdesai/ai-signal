@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful
 - 2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
-- 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
+- 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
 embedding_id: 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Google DeepMind published its Gemini 4 Argon framing, calling it the next era of
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli]]
+**Related:** [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]]
 <!-- graph:end -->

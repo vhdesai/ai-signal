@@ -4,8 +4,8 @@ title: MIT researchers call for answerability behind AI-generated civic speech
 date: '2026-10-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013
-url_canonical: https://sap.mit.edu/news/qa-building-accountability-behind-our-words-and-ais-civic-conversations
-url_status: repaired
+url_canonical: https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013
+url_status: broken
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 9e2c028fee186662d87bb7b34683dc314b2b6d17e897ffd9a8e928777866ae9d

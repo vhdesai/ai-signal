@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase
 - 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
+- 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
-- 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
 embedding_id: 2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The claims website went live for Apple's $250 million settlement of a US class a
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase]] · [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]]
+**Related:** [[2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase]] · [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon]] · [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]]
 <!-- graph:end -->

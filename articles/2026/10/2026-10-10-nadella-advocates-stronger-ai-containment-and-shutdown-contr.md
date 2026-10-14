@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
-- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
+- 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 embedding_id: 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Nadella advocates external safeguards, auditable actions and authorized shutdown
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
+**Related:** [[2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t]] · [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]]
 <!-- graph:end -->

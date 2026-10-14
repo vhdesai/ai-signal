@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
 - 2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction
-- 2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 embedding_id: 2026-09-19-imf-tells-eu-ministers-ai-could-lift-growth-while-increasing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters reported that the IMF told European Union finance ministers AI could imp
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction]] · [[2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv]]
+**Related:** [[2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]]
 <!-- graph:end -->

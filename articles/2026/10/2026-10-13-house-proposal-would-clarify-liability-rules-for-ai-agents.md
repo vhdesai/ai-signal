@@ -4,8 +4,8 @@ title: House proposal would clarify liability rules for AI agents
 date: '2026-10-13'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.europesays.com/ai/198875/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: eb884003be8a5f81026e947edf0e3b515368338d5bdb9c49de987e000514cd86

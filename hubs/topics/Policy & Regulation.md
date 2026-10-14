@@ -1,16 +1,20 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2247
+member_count: 2252
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2247 connected article(s).
+> Auto-generated topic hub. 2252 connected article(s).
 
+- `2026-10-14` [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through|Anthropic warns small AI models could self-replicate through IoT devices]]
+- `2026-10-14` [[2026-10-14-alleged-openai-spy-vibe-coded-surveillance-device-using-wife|Alleged OpenAI spy vibe-coded surveillance device using wife's chatbot account]]
 - `2026-10-13` [[2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made|Reuters: independent AI review fight turns on what gets made public]]
 - `2026-10-13` [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro|OpenAI withdraws three AI mathematics papers over proof error]]
+- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns; eyes Trail of Bits]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
+- `2026-10-13` [[2026-10-13-michael-i-jordan-rejects-ai-doom-rhetoric-as-science-fiction|Michael I. Jordan rejects AI doom rhetoric as "science fiction"]]
 - `2026-10-13` [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c|MIT researchers call for answerability behind AI-generated civic speech]]
 - `2026-10-13` [[2026-10-13-house-proposal-would-clarify-liability-rules-for-ai-agents|House proposal would clarify liability rules for AI agents]]
 - `2026-10-13` [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with|Delaware hub dedicated to human-AI cooperation launched with $21.5M to study AI in healthcare, according to the Inquirer. The initiative focuses on collaboration between clinicians, patients and AI systems rather than pure automation. It fits the growing academic emphasis on safe, useful human-AI workflows in high-stakes domains.]]
@@ -20,6 +24,7 @@ member_count: 2247
 - `2026-10-13` [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a|Anthropic study warns small AI models could soon replicate across everyday devices]]
 - `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
 - `2026-10-13` [[2026-10-13-ai-labs-offer-big-money-for-private-slack-dms-and-emails|AI labs offer big money for private Slack DMs and emails]]
+- `2026-10-13` [[2026-10-13-406-scientists-call-for-ai-models-to-be-cut-off-from-the-int|406 scientists call for AI models to be cut off from the internet immediately]]
 - `2026-10-12` [[2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models|UK regains pre-release access to OpenAI and Anthropic models as self-governance pressure mounts]]
 - `2026-10-12` [[2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g|Microsoft president says the UK is best positioned to lead global AI safety regulation]]
 - `2026-10-12` [[2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul|Microsoft president says UK is best placed to drive AI regulation]]

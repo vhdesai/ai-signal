@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250
 - 2026-07-27-openai-to-triple-its-dublin-european-hq-to-350-staff
 - 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
-- 2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 embedding_id: 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI announced a new EU headquarters in Dublin and 250 additional jobs, deepen
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250]] · [[2026-07-27-openai-to-triple-its-dublin-european-hq-to-350-staff]] · [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov]]
+**Related:** [[2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250]] · [[2026-07-27-openai-to-triple-its-dublin-european-hq-to-350-staff]] · [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]]
 <!-- graph:end -->

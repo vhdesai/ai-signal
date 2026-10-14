@@ -1,26 +1,39 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3473
+member_count: 3486
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3473 connected article(s).
+> Auto-generated topic hub. 3486 connected article(s).
 
+- `2026-10-14` [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan|Nature covered research finding that AI writing support changes petition style but does not improve real-world outcomes. The result echoes earlier Cornell reporting: AI can make civic text longer or more polished without making it more effective. It is a valuable reminder that persuasion, trust, and authenticity are not solved by fluent generation alone.]]
+- `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
+- `2026-10-14` [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand|ASML signals persistent capacity pressure from AI demand]]
 - `2026-10-13` [[2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work|Z.ai releases GLM-Legal for agentic legal work]]
+- `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-openai-employee-charged-over-alleged-conference-room-surveil|OpenAI employee charged over alleged conference-room surveillance]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-nvidia-details-european-municipal-agent-and-digital-twin-pro|NVIDIA details European municipal agent and digital-twin projects]]
 - `2026-10-13` [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open|Mistral Large 4 vs. Claude Opus 5.5 benchmarks keep the open-weight debate alive]]
 - `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le|Microsoft's split-personality retrosynthetic AI is a fast learner]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
 - `2026-10-13` [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c|MIT researchers call for answerability behind AI-generated civic speech]]
 - `2026-10-13` [[2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste|MIT interview emphasizes human accountability for AI-assisted civic speech]]
+- `2026-10-13` [[2026-10-13-mit-explores-how-networks-develop-their-own-learning-machine|MIT explores how networks develop their own learning machinery]]
+- `2026-10-13` [[2026-10-13-jpmorgan-limits-third-party-agents-direct-account-access|JPMorgan limits third-party agents' direct account access]]
+- `2026-10-13` [[2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps|Google Play opens a private route for AI-built Android apps]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels|Gemini 4 Argon reaches broader paid and enterprise channels]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c|Gemini 4 Argon becomes globally available as Google's most capable frontier model]]
 - `2026-10-13` [[2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount|Executives doubt readiness as AI cyber risks mount]]
 - `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
 - `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
 - `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]
+- `2026-10-13` [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen|Apple brings Siri AI to the shared household screen]]
+- `2026-10-13` [[2026-10-13-anthropic-discloses-its-internal-replacement-for-git|Anthropic discloses its internal replacement for Git]]
 - `2026-10-12` [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub|xAI and Cursor bundle Grok, Cursor and X Premium into one subscription]]
 - `2026-10-12` [[2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough|Unitree founder says GPT-6 may trigger robotics breakthrough as soon as next year]]
 - `2026-10-12` [[2026-10-12-openai-makes-progress-reducing-chatgpt-delusions|OpenAI makes progress reducing ChatGPT delusions]]

@@ -37,8 +37,8 @@ related_article_ids:
 - 2026-09-24-thursday-september-24-2026
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 embedding_id: 2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu
 event_name: ''
 ---
@@ -52,5 +52,5 @@ STAT News documented a reporter using Claude to analyze a complete human genome 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-24-thursday-september-24-2026]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-09-24-thursday-september-24-2026]] · [[2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n]] · [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening]]
 <!-- graph:end -->

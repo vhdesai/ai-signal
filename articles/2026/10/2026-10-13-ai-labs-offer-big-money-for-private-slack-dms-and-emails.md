@@ -4,10 +4,10 @@ title: AI labs offer big money for private Slack DMs and emails
 date: '2026-10-13'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/ai-training-employee-data-emails-slack-dms-2026-10
-url_status: repaired
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 90900f234e38913e7a21c7d3b7bac1cb5abd4d10fddfc156dceaf494bcc45269
 normalized_title_hash: 1aa38157fb9c8759
 canonical_url_hash: ''

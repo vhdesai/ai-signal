@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-- 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 embedding_id: 2026-08-02-openai-updates-article-on-news-organizations-using-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's company article on how news organizations are using AI was sitemap-upda
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus]]
+**Related:** [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

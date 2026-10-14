@@ -43,10 +43,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
+- 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Business Insider reports that leading AI companies are struggling to contain the
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
+**Related:** [[2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

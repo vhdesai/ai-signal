@@ -6,8 +6,8 @@ source: KuCoin / Tom's Hardware
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: a21309a5ec09e0ff0604ea5ee46f71c3fe92c3dac760917aa219c54a8aea9d91
 normalized_title_hash: 4952fc2574dd5fe2
 canonical_url_hash: ''

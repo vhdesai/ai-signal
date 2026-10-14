@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
+- 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
-- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 embedding_id: 2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and
 event_name: ''
 ---
@@ -41,5 +41,5 @@ China approved Apple Intelligence for launch using Alibaba's Qwen and Baidu serv
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]]
+**Related:** [[2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen]] · [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]]
 <!-- graph:end -->

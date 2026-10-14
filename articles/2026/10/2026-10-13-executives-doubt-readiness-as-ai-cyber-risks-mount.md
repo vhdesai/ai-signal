@@ -4,8 +4,8 @@ title: Executives doubt readiness as AI cyber risks mount
 date: '2026-10-13'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.ciodive.com/news/executives-cyber-threats-protiviti-security/832769/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-13_065254_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 0e9f7991e545e601799d4057c5c89b63e39a4f28a94350de3a1a5647af90dfb4

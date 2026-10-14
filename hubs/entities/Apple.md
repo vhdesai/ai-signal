@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 467
+member_count: 472
 ---
 
 # Apple
 
-> Auto-generated entity hub. 467 connected article(s).
+> Auto-generated entity hub. 472 connected article(s).
 
+- `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
+- `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
+- `2026-10-13` [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen|Apple brings Siri AI to the shared household screen]]
 - `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha|Alibaba launches $450 Qwen AI glasses and always-on vision hardware]]
 - `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
 - `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-12` [[2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant|Ambi raises $26M for an always-listening AI assistant]]

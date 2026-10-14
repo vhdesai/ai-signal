@@ -26,8 +26,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
-- 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 embedding_id: 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 event_name: ''
 ---
@@ -41,5 +41,5 @@ An analysis piece walks through the still-unresolved legal position on training 
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]] · [[2026-08-28-subject-daily-ai-news-digest-august-28-2026]]
+**Related:** [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper]]
 <!-- graph:end -->

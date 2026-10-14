@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
+- 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
-- 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 embedding_id: 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The AI industry is focused on agentic AI, AI-native software development, and a 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]] · [[2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur]]
+**Related:** [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
 <!-- graph:end -->

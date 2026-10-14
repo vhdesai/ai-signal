@@ -6,8 +6,8 @@ source: Benzinga / ITP.net / Techi
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: c499aee53e5c86542042f486e46988b9cfadc917b80e6b40b2232e44c3656bd4
 normalized_title_hash: 6171c2ec61e7cc1f
 canonical_url_hash: ''

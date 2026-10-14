@@ -4,10 +4,10 @@ title: Every major Nvidia customer is becoming a competitor
 date: '2026-10-13'
 source: Axios / Barron's
 url_original: null
-url_canonical: https://onairtoday.com/article/every-major-nvidia-customer-now-competitor-as-microsoft-reveals-new-maia-6go46z
-url_status: repaired
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 548756737d87ed0b4bcdbbafbf25b3d3c153d37c269f0de5a978116aae109130
 normalized_title_hash: c833d129fb3f0aa1
 canonical_url_hash: ''

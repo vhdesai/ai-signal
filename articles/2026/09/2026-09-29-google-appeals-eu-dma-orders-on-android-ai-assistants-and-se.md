@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
-- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
+- 2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps
 embedding_id: 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google filed two appeals at the EU General Court against July Digital Markets Ac
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
+**Related:** [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps]]
 <!-- graph:end -->

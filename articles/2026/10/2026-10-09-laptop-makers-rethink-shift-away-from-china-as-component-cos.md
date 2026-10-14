@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold
+- 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
 - 2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an
-- 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
 embedding_id: 2026-10-09-laptop-makers-rethink-shift-away-from-china-as-component-cos
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TrendForce projects global notebook production outside mainland China will fall 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold]] · [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global]] · [[2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an]] · [[2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste]]
+**Related:** [[2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold]] · [[2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices]] · [[2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global]] · [[2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an]]
 <!-- graph:end -->

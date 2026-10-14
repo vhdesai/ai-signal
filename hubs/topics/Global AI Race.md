@@ -1,23 +1,32 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1622
+member_count: 1631
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1622 connected article(s).
+> Auto-generated topic hub. 1631 connected article(s).
 
+- `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
+- `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
+- `2026-10-14` [[2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices|China chip exports jump 136% to $45B as AI demand lifts prices]]
+- `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
+- `2026-10-13` [[2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a|Western mathematicians resist AI proofs as China builds an AI-for-math alliance]]
 - `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
 - `2026-10-13` [[2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet|Iluvatar CoreX unveils 144-GPU AI supernode in one cabinet]]
+- `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-powered-device-milestone|Huawei passes 100M Kirin-powered device milestone]]
 - `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
 - `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
 - `2026-10-13` [[2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h|China Mobile triples capacity at Inner Mongolia AI compute hub]]
 - `2026-10-13` [[2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to|Anthropic says it cut Claude reasoning-token theft by up to 99%]]
 - `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha|Alibaba launches $450 Qwen AI glasses and always-on vision hardware]]
 - `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]

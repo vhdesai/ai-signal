@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: Microsoft Command Line
 url_original: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
 url_canonical: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: c4b3bf8fc37fd08420494d656b503471c4469c659f05acdb4e86df3ec69c9061

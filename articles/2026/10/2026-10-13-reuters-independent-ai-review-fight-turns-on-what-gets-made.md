@@ -6,8 +6,8 @@ source: Reuters
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: 1eb048649156193964bd99a0ed71d94fdf41606c3f2af5789ab107c664d38a1d
 normalized_title_hash: c0655815f09dd0ea
 canonical_url_hash: ''

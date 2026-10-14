@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 512
+member_count: 513
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 512 connected article(s).
+> Auto-generated topic hub. 513 connected article(s).
 
+- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns; eyes Trail of Bits]]
 - `2026-10-11` [[2026-10-11-infrastructure-ai-adjacent-m-a-cloudflare-acquires-deno-to-i|INFRASTRUCTURE AI-ADJACENT M&A Cloudflare acquires Deno to improve its Workers programming model October 10, 2026, 9:25…]]
 - `2026-10-11` [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition|Amazon reportedly discusses a roughly $7B Decart acquisition]]
 - `2026-10-10` [[2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s|Reported Nvidia–Reflection AI talks remain unconfirmed but strategically notable]]

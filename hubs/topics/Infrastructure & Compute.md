@@ -1,18 +1,24 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2184
+member_count: 2190
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2184 connected article(s).
+> Auto-generated topic hub. 2190 connected article(s).
 
+- `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
+- `2026-10-14` [[2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices|China chip exports jump 136% to $45B as AI demand lifts prices]]
+- `2026-10-13` [[2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a|Western mathematicians resist AI proofs as China builds an AI-for-math alliance]]
+- `2026-10-13` [[2026-10-13-science-corporation-implants-vision-restoring-chip-in-first|Science Corporation implants vision-restoring chip in first Stargardt disease patient]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-laplace-intelligence-red-teams-robots-and-self-driving-cars|Laplace Intelligence red-teams robots and self-driving cars before deployment]]
 - `2026-10-13` [[2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet|Iluvatar CoreX unveils 144-GPU AI supernode in one cabinet]]
+- `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-powered-device-milestone|Huawei passes 100M Kirin-powered device milestone]]
 - `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
 - `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]

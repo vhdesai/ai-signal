@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand
+- 2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand
 - 2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c
-- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 embedding_id: 2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ASML raised its full-year guidance for the second time this year and beat quarte
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]]
-**Related:** [[2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand]] · [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]]
+**Related:** [[2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand]] · [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand]] · [[2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c]]
 <!-- graph:end -->

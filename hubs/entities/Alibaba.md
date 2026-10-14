@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 446
+member_count: 449
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 446 connected article(s).
+> Auto-generated entity hub. 449 connected article(s).
 
+- `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d|Alibaba launches $450 Qwen AI glasses and three AI hardware devices]]
+- `2026-10-13` [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha|Alibaba launches $450 Qwen AI glasses and always-on vision hardware]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]
 - `2026-10-12` [[2026-10-12-alibaba-qwen-introduces-qwengyre-for-extreme-long-horizon-ag|Alibaba Qwen introduces QwenGyre for extreme-long-horizon agent training]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

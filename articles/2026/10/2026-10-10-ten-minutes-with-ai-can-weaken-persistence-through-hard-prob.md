@@ -28,10 +28,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
-- 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 embedding_id: 2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Bioengineer.org reports a study finding that just ten minutes with AI can weaken
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving]] · [[2026-10-06-subject-daily-ai-news-digest-october-6-2026]]
+**Related:** [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-09-21-academic-counterargument-extinction-scenarios-require-physic]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving]]
 <!-- graph:end -->

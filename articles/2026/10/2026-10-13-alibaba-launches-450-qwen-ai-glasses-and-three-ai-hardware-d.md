@@ -21,12 +21,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
+dedupe_status: duplicate
+canonical_article_id: 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha
+related_article_ids: []
 embedding_id: 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d
 event_name: ''
 ---
@@ -40,5 +37,5 @@ Alibaba launched Qwen N1 AI glasses in China starting around $450 and introduced
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-09-22-alibaba-launches-qwen-audio-3-1-with-up-to-95-audio-ai-price]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
+**Canonical:** [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha]]
 <!-- graph:end -->

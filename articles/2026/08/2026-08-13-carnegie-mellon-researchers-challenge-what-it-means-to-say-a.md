@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
+- 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 embedding_id: 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 event_name: ''
 ---
@@ -44,5 +44,5 @@ CMU historian Christopher Phillips and the University of Pittsburgh's Alison Lan
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[DeepSeek]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
+**Related:** [[2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics]] · [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]]
 <!-- graph:end -->

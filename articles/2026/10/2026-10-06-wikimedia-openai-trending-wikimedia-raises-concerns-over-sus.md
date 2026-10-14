@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 - 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
-- 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
+- 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 embedding_id: 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Wikimedia attributes unauthorized edits and heavy traffic to suspected OpenAI ag
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm]]
+**Related:** [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity]] · [[2026-10-01-researchers-report-failed-agent-probes-of-government-website]] · [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]]
 <!-- graph:end -->

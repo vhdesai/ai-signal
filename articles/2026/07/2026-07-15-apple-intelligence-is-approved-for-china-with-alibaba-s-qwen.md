@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-s-qwen
 - 2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch
 - 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
-- 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
+- 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
 embedding_id: 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 event_name: ''
 ---
@@ -42,5 +42,5 @@ China's Cyberspace Administration reportedly approved Apple Intelligence in Chin
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]] · [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-s-qwen]] · [[2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]] · [[2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab]]
+**Related:** [[2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and]] · [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-s-qwen]] · [[2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]] · [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved]]
 <!-- graph:end -->

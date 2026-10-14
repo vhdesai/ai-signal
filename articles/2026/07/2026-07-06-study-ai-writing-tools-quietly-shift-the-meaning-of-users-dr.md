@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
+- 2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Researchers from the Oxford Internet Institute and the Hasso Plattner Institute 
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]] · [[Mistral]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i]] · [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

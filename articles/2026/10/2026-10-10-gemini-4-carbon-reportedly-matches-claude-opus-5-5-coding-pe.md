@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan
+- 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
 - 2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim
 - 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
-- 2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful
 embedding_id: 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google's Gemini 4 Carbon model is reportedly circulating internally and has been
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan]] · [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim]] · [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful]]
+**Related:** [[2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]] · [[2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim]] · [[2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
 <!-- graph:end -->

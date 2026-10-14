@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 - 2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec
+- 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
-- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 embedding_id: 2026-09-30-google-releases-gemini-4-argon-calling-it-its-most-powerful
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google launched Gemini 4 Argon, pitched as a workhorse for coding and cybersecur
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]]
+**Related:** [[2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]] · [[2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible]]
 <!-- graph:end -->

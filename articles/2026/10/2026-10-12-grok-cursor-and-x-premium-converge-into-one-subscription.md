@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub
+- 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
 - 2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership
 embedding_id: 2026-10-12-grok-cursor-and-x-premium-converge-into-one-subscription
 event_name: ''
@@ -36,5 +37,5 @@ The X Subscription bundles Grok, Cursor and X Premium, with shared Grok usage an
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub]] · [[2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership]]
+**Related:** [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub]] · [[2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip]] · [[2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership]]
 <!-- graph:end -->

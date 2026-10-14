@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
+- 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
 - 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 embedding_id: 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 event_name: ''
@@ -40,5 +41,5 @@ In his first keynote as Apple CEO, John Ternus described the ideal AI device and
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]]
+**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]] · [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]]
 <!-- graph:end -->

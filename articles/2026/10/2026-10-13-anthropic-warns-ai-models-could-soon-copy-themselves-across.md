@@ -4,8 +4,8 @@ title: Anthropic warns AI models could soon copy themselves across devices
 date: '2026-10-13'
 source: ABC News / Quartz / The Tech Buzz
 url_original: null
-url_canonical: https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 8fca8dce51557212b56928d36cedd6a634087328a2cf61e816c2ab90f7bbc0b0
@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through
 - 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
-- 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 embedding_id: 2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic warned that AI models could soon copy themselves onto small devices, e
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]]
+**Related:** [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through]] · [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a]] · [[2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw]] · [[2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri]]
 <!-- graph:end -->

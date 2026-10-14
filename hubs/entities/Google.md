@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1635
+member_count: 1644
 ---
 
 # Google
 
-> Auto-generated entity hub. 1635 connected article(s).
+> Auto-generated entity hub. 1644 connected article(s).
 
+- `2026-10-14` [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan|Nature covered research finding that AI writing support changes petition style but does not improve real-world outcomes. The result echoes earlier Cornell reporting: AI can make civic text longer or more polished without making it more effective. It is a valuable reminder that persuasion, trust, and authenticity are not solved by fluent generation alone.]]
+- `2026-10-14` [[2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect|Google DeepMind and Singapore build on-device AI scam detection for private chats]]
+- `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
+- `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
+- `2026-10-13` [[2026-10-13-jpmorgan-limits-third-party-agents-direct-account-access|JPMorgan limits third-party agents' direct account access]]
+- `2026-10-13` [[2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps|Google Play opens a private route for AI-built Android apps]]
+- `2026-10-13` [[2026-10-13-google-play-now-supports-private-vibe-coded-android-apps|Google Play now supports private, vibe-coded Android apps]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels|Gemini 4 Argon reaches broader paid and enterprise channels]]
+- `2026-10-13` [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c|Gemini 4 Argon becomes globally available as Google's most capable frontier model]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
 - `2026-10-13` [[2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with|Delaware hub dedicated to human-AI cooperation launched with $21.5M to study AI in healthcare, according to the Inquirer. The initiative focuses on collaboration between clinicians, patients and AI systems rather than pure automation. It fits the growing academic emphasis on safe, useful human-AI workflows in high-stakes domains.]]
 - `2026-10-12` [[2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o|Hyperscalers' growth hinges on how fast they can ship their own chips]]

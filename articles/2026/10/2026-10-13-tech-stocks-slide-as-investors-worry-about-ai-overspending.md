@@ -4,10 +4,10 @@ title: Tech stocks slide as investors worry about AI overspending
 date: '2026-10-13'
 source: Semafor / Yahoo Finance
 url_original: null
-url_canonical: https://www.semafor.com/article/10/13/2026/tech-stocks-slide-as-investors-fret-ai-overspending
-url_status: repaired
-digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
-  13, 2026.md
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
+  14, 2026.md
 content_hash: a04ba42d18893ff2ab683506ef0f90f041a3ef41d82d4d76a194dea557ba6d36
 normalized_title_hash: e6411fa88c5ea49b
 canonical_url_hash: ''

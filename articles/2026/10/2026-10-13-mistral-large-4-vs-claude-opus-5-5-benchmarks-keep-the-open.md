@@ -5,8 +5,8 @@ title: Mistral Large 4 vs. Claude Opus 5.5 benchmarks keep the open-weight debat
 date: '2026-10-13'
 source: OrcaRouter / fDi Intelligence
 url_original: null
-url_canonical: https://www.orcarouter.ai/blog/mistral-large-4-0-vs-claude-opus-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 4c098feb7517d132fbf99f6b313a92b79358edddffb01027adf7f32dafee1cfd

@@ -4,8 +4,8 @@ title: 'Stanford HAI: humans and AI engage in meaningful collaborations'
 date: '2026-10-13'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/news/humans-and-ai-engage-in-meaningful-collaborations
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-13_065915_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 40e2a5d3893c45a949c808e315c72608c6a57a9658098387d6c0752fe7600cab

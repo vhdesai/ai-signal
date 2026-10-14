@@ -1,21 +1,24 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1680
+member_count: 1683
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1680 connected article(s).
+> Auto-generated entity hub. 1683 connected article(s).
 
+- `2026-10-14` [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand|ASML signals persistent capacity pressure from AI demand]]
 - `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
+- `2026-10-13` [[2026-10-13-nvidia-details-european-municipal-agent-and-digital-twin-pro|NVIDIA details European municipal agent and digital-twin projects]]
 - `2026-10-13` [[2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet|Iluvatar CoreX unveils 144-GPU AI supernode in one cabinet]]
 - `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
 - `2026-10-12` [[2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus|Nvidia and Cisco propose denser pluggable optics for AI clusters]]
 - `2026-10-12` [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and|NVIDIA contributes Vera Rubin AI-factory designs to OCP and expands DSX open components]]

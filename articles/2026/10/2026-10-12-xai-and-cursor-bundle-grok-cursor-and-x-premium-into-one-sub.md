@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-12-grok-cursor-and-x-premium-converge-into-one-subscription
+- 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 - 2026-05-27-xai-launches-grok-integration-in-kilo-code
-- 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
 embedding_id: 2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI introduced The X Subscription, bundling Grok, Cursor and X Premium, with sha
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-12-grok-cursor-and-x-premium-converge-into-one-subscription]] · [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-05-27-xai-launches-grok-integration-in-kilo-code]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]]
+**Related:** [[2026-10-12-grok-cursor-and-x-premium-converge-into-one-subscription]] · [[2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip]] · [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit]] · [[2026-05-27-xai-launches-grok-integration-in-kilo-code]]
 <!-- graph:end -->
