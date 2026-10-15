@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-06-30-tuesday-june-30-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-embedding_id: 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
+embedding_id: null
 event_name: ''
 ---
 

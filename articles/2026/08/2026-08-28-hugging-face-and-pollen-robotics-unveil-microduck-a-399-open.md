@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
-embedding_id: 2026-08-28-hugging-face-and-pollen-robotics-unveil-microduck-a-399-open
+embedding_id: null
 event_name: ''
 ---
 

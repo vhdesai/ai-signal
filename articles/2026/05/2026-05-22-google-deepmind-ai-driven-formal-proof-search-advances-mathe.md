@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-embedding_id: 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+embedding_id: null
 event_name: ''
 ---
 

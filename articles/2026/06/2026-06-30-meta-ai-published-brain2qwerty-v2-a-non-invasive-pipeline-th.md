@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
-embedding_id: 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
+embedding_id: null
 event_name: ''
 ---
 

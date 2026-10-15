@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
+embedding_id: null
 event_name: ''
 ---
 

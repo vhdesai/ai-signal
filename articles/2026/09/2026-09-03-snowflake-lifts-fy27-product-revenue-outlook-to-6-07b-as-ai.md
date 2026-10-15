@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
 - 2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
-embedding_id: 2026-09-03-snowflake-lifts-fy27-product-revenue-outlook-to-6-07b-as-ai
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
-embedding_id: 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+embedding_id: null
 event_name: ''
 ---
 

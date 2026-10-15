@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale
 - 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-embedding_id: 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
+embedding_id: null
 event_name: ''
 ---
 

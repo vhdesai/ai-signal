@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
-embedding_id: 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
+embedding_id: null
 event_name: ''
 ---
 

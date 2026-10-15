@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
-embedding_id: 2026-05-09-mozilla-published-a-detailed-technical-blog-post-describing
+embedding_id: null
 event_name: ''
 ---
 

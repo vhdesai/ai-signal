@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
-embedding_id: 2026-05-14-notion-turns-its-workspace-into-a-hub-for-ai-agents-techcrun
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
 related_article_ids:
 - 2026-07-17-moonshot-ai-s-kimi-k3-reportedly-challenges-top-u-s-systems
-embedding_id: 2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models
+embedding_id: null
 event_name: ''
 ---
 

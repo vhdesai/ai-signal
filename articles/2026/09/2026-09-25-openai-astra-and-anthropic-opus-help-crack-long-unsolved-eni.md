@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-astra-and-opus-5-5-finish-turing-s-wwii-codebreaking-work
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
-embedding_id: 2026-09-25-openai-astra-and-anthropic-opus-help-crack-long-unsolved-eni
+embedding_id: null
 event_name: ''
 ---
 

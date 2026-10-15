@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/
 url_canonical: https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_060601_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 72219a91642fc2df4bbe4c2326e696b0987125b97569e5b4aa6b99dca50da483
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
-embedding_id: 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
+embedding_id: null
 event_name: ''
 ---
 

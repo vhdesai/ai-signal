@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind
 - 2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
-embedding_id: 2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and
+embedding_id: null
 event_name: ''
 ---
 

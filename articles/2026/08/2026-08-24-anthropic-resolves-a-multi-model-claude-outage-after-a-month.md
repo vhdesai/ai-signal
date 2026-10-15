@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-anthropic-s-claude-suffers-another-outagetrending
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
 - 2026-08-24-claude-suffers-elevated-error-rates-in-a-multi-hour-monday-o
-embedding_id: 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
+embedding_id: null
 event_name: ''
 ---
 

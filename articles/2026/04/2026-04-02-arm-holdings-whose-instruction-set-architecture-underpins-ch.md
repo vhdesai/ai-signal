@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css
-embedding_id: 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
+embedding_id: null
 event_name: ''
 ---
 

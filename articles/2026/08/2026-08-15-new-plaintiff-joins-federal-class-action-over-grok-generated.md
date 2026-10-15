@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 related_article_ids: []
-embedding_id: 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
+embedding_id: null
 event_name: ''
 ---
 

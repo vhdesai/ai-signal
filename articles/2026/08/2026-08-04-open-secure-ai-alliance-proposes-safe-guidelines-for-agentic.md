@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 related_article_ids: []
-embedding_id: 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
+embedding_id: null
 event_name: ''
 ---
 

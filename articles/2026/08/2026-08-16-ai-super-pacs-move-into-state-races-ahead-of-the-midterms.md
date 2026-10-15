@@ -5,7 +5,7 @@ date: '2026-08-16'
 source: Arizona Capitol Times
 url_original: https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/
 url_canonical: https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: 85e6d99da12d3bca246c29e9ec8eff06e5ecd5776359d330c3dbbc9dc4a1309c
 normalized_title_hash: 3f671555e4b18d97
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-16-ai-super-pacs-flood-money-into-state-elections
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
-embedding_id: 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Unconventional AI
 url_original: https://unconv.ai/blog/2026-unconventional-grant-winners/
 url_canonical: https://unconv.ai/blog/2026-unconventional-grant-winners/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 055e1b18c82b77d2035e4a13a6e3a8fe4f271d54611d6845e6ca7a4fe32c73a1
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
+embedding_id: null
 event_name: ''
 ---
 

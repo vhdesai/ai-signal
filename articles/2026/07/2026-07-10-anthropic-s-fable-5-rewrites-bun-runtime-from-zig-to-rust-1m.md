@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la
 - 2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
-embedding_id: 2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m
+embedding_id: null
 event_name: ''
 ---
 

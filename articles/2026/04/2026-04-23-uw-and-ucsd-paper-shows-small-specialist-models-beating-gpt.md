@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
 - 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
-embedding_id: 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-alphasense-u-s-frontier-models-can-be-cheaper-than-chinese-m
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: 2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi
+embedding_id: null
 event_name: ''
 ---
 

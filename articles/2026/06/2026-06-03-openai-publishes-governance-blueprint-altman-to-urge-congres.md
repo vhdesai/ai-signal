@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
-embedding_id: 2026-06-03-openai-publishes-governance-blueprint-altman-to-urge-congres
+embedding_id: null
 event_name: ''
 ---
 

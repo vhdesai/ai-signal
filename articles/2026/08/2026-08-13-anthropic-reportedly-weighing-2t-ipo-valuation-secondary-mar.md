@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 related_article_ids:
 - 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
-embedding_id: 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
+embedding_id: null
 event_name: ''
 ---
 

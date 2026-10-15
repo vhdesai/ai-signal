@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-embedding_id: 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
+embedding_id: null
 event_name: ''
 ---
 

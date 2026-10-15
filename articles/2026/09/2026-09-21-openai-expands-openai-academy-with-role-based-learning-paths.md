@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-openai-launches-campus-network-global-student-ai-ambassador
 - 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
 - 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
-embedding_id: 2026-09-21-openai-expands-openai-academy-with-role-based-learning-paths
+embedding_id: null
 event_name: ''
 ---
 

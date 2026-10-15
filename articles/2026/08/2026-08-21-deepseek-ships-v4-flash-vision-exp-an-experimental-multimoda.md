@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-deepseek-launches-experimental-multimodal-model-v4-flash-vis
 related_article_ids: []
-embedding_id: 2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda
+embedding_id: null
 event_name: ''
 ---
 

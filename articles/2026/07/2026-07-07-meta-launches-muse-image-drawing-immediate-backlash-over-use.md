@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent
 - 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
 - 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
-embedding_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
+embedding_id: null
 event_name: ''
 ---
 

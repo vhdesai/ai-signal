@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 related_article_ids: []
-embedding_id: 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
+embedding_id: null
 event_name: ''
 ---
 

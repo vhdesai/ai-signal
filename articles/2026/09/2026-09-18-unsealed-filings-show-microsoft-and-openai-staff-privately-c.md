@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-unsealed-filings-show-microsoft-and-openai-executives-privat
 - 2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and
 - 2026-09-18-internal-microsoft-and-openai-emails-call-ai-training-astoni
-embedding_id: 2026-09-18-unsealed-filings-show-microsoft-and-openai-staff-privately-c
+embedding_id: null
 event_name: ''
 ---
 

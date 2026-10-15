@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Forbes
 url_original: https://www.artificialintelligence-news.com/categories/inside-ai/new_governance-regulation-and-policy/
 url_canonical: https://www.artificialintelligence-news.com/categories/inside-ai/new_governance-regulation-and-policy/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 14a7cbb0d68ca95e0e0ddab65f33894082c0d10215b20206e5ca6a60149c68d9
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
-embedding_id: 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
+embedding_id: null
 event_name: ''
 ---
 

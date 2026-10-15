@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
-embedding_id: 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
+embedding_id: null
 event_name: ''
 ---
 

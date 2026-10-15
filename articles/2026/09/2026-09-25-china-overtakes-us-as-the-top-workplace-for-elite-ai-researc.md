@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368809/china-overtakes-us-top-workplace-elite-ai-researchers-study-finds
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-25_061227_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 006f7cb8692bc308cd84bef85ecf95aefd202078f79cb2761a304bc47fbbf190
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-embedding_id: 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
+embedding_id: null
 event_name: ''
 ---
 

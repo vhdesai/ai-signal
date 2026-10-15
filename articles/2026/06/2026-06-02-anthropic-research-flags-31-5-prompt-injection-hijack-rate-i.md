@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri
-embedding_id: 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
-embedding_id: 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
+embedding_id: null
 event_name: ''
 ---
 

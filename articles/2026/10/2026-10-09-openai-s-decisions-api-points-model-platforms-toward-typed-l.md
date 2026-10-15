@@ -6,7 +6,7 @@ date: '2026-10-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/
 url_canonical: https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: f94398a2a88006644c04ee321fb6120b9d24f63ed9548062fa5d45cb9286aaef
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 - 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
-embedding_id: 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-embedding_id: 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
+embedding_id: null
 event_name: ''
 ---
 

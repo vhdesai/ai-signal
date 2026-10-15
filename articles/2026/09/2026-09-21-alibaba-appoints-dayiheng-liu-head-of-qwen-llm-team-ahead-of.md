@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-embedding_id: 2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of
+embedding_id: null
 event_name: ''
 ---
 

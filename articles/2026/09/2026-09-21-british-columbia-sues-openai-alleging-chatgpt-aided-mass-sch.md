@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
-embedding_id: 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
+embedding_id: null
 event_name: ''
 ---
 

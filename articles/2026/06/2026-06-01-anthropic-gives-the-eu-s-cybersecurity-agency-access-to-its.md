@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: Bloomberg**
 url_original: https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos
 url_canonical: https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 51571fedc505412a651556345176ef2d34ed34e3329ffbd25fe1603bfd8eb315
 normalized_title_hash: ee6542b49f734dd4
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-embedding_id: 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
+embedding_id: null
 event_name: ''
 ---
 

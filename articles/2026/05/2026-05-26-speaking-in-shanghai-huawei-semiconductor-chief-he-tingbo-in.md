@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
-embedding_id: 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
-embedding_id: 2026-08-17-anthropic-s-text-watermark-faces-quality-and-durability-ques
+embedding_id: null
 event_name: ''
 ---
 

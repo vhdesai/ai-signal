@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-embedding_id: 2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d
+embedding_id: null
 event_name: ''
 ---
 

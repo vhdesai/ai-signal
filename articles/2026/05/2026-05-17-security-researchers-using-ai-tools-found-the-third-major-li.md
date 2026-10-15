@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener
-embedding_id: 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
+embedding_id: null
 event_name: ''
 ---
 

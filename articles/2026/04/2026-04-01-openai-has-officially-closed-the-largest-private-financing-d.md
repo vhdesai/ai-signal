@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-embedding_id: 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
+embedding_id: null
 event_name: ''
 ---
 

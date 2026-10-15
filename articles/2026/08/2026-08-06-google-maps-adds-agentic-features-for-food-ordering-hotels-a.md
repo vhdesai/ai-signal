@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-google-maps-adds-agentic-commerce-food-ordering-hotel-bookin
 related_article_ids: []
-embedding_id: 2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a
+embedding_id: null
 event_name: ''
 ---
 

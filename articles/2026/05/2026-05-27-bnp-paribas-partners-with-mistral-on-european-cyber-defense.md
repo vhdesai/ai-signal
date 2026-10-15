@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
-embedding_id: 2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense
+embedding_id: null
 event_name: ''
 ---
 

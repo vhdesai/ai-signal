@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
-embedding_id: 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
 - 2026-10-10-sakana-ai-reports-llm-peer-review-system-that-catches-73-of
 - 2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration
-embedding_id: 2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 - 2026-04-09-products-tools
 - 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
-embedding_id: 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-embedding_id: 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
+embedding_id: null
 event_name: ''
 ---
 

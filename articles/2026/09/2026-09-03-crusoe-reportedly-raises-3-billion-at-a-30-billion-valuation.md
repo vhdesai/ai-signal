@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
 related_article_ids: []
-embedding_id: 2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation
+embedding_id: null
 event_name: ''
 ---
 

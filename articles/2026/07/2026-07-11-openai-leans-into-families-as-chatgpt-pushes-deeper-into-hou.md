@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
-embedding_id: 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-gemini-spark-adds-google-photos-management
 related_article_ids: []
-embedding_id: 2026-09-04-gemini-spark-can-now-manage-google-photos-libraries
+embedding_id: null
 event_name: ''
 ---
 

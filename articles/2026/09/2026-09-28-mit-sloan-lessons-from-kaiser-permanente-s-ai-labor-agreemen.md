@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: MIT Sloan
 url_original: https://mitsloan.mit.edu/ideas-made-to-matter/topics/artificial-intelligence
 url_canonical: https://mitsloan.mit.edu/ideas-made-to-matter/topics/artificial-intelligence
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: d04090d364dbd8eaf68be559105cc7d86a0026991fb16dec8deea69ea1434792
@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with
-embedding_id: 2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen
+embedding_id: null
 event_name: ''
 ---
 

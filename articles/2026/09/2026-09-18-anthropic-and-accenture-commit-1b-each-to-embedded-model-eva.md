@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-1b
 - 2026-09-18-anthropic-names-accenture-its-first-embedded-evaluator-each
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev
-embedding_id: 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
+embedding_id: null
 event_name: ''
 ---
 

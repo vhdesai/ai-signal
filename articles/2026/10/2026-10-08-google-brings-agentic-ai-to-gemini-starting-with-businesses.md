@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 related_article_ids: []
-embedding_id: 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
+embedding_id: null
 event_name: ''
 ---
 

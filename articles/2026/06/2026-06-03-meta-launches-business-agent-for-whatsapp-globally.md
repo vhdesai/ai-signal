@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
 related_article_ids: []
-embedding_id: 2026-06-03-meta-launches-business-agent-for-whatsapp-globally
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
-embedding_id: 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
+embedding_id: null
 event_name: ''
 ---
 

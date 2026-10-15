@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
-embedding_id: 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
+embedding_id: null
 event_name: ''
 ---
 

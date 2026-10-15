@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
-embedding_id: 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
+embedding_id: null
 event_name: ''
 ---
 

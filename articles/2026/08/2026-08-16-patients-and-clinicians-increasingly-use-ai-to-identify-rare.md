@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 - 2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen
-embedding_id: 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
+embedding_id: null
 event_name: ''
 ---
 

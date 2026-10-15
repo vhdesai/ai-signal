@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-embedding_id: 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
+embedding_id: null
 event_name: ''
 ---
 

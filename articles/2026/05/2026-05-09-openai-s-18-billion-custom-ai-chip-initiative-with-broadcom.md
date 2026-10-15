@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70b-in-debt-for-ai-chip
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
-embedding_id: 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
+embedding_id: null
 event_name: ''
 ---
 

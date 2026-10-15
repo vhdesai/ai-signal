@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
-embedding_id: 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
+embedding_id: null
 event_name: ''
 ---
 

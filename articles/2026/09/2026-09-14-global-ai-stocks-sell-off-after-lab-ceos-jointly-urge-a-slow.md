@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
-embedding_id: 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
+embedding_id: null
 event_name: ''
 ---
 

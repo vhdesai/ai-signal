@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-embedding_id: 2026-05-19-ut-austin-dell-medical-school-names-first-chief-translationa
+embedding_id: null
 event_name: ''
 ---
 

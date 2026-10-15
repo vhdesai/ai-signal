@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 related_article_ids: []
-embedding_id: 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude
+embedding_id: null
 event_name: ''
 ---
 

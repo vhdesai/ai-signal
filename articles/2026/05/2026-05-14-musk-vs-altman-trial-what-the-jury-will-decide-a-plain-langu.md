@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
-embedding_id: 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
+embedding_id: null
 event_name: ''
 ---
 

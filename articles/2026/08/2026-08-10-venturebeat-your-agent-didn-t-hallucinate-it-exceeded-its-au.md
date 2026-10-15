@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
-embedding_id: 2026-08-10-venturebeat-your-agent-didn-t-hallucinate-it-exceeded-its-au
+embedding_id: null
 event_name: ''
 ---
 

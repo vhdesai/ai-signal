@@ -6,7 +6,7 @@ date: '2026-09-30'
 source: Investing.com / Yahoo Finance]
 url_original: https://www.investing.com/news/stock-market-news/oracle-shares-slip-wisconsin-ai-campus-delay-3719520
 url_canonical: https://www.investing.com/news/stock-market-news/oracle-shares-slip-wisconsin-ai-campus-delay-3719520
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-30_070047_Inbox_Daily AI News Digest – September
   30, 2026.md
 content_hash: 6b0d5f37c9d99671a190999bac3c27b0e411b61f3f1fc6048a94971c79e453e7
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
-embedding_id: 2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu
+embedding_id: null
 event_name: ''
 ---
 

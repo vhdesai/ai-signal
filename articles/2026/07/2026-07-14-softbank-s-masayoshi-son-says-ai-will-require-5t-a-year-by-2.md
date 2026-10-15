@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
-embedding_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-16-the-commerce-department-announced-amended-partnerships-with
-embedding_id: 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
+embedding_id: null
 event_name: ''
 ---
 

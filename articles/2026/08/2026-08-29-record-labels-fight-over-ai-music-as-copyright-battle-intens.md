@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 - 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
-embedding_id: 2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens
+embedding_id: null
 event_name: ''
 ---
 

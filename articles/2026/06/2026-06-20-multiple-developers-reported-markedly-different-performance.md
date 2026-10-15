@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
-embedding_id: 2026-06-20-multiple-developers-reported-markedly-different-performance
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 - 2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-embedding_id: 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+embedding_id: null
 event_name: ''
 ---
 

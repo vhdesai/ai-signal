@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-05-28-wix-ceo-announces-20-workforce-cut-citing-ai-productivity-ga
+embedding_id: null
 event_name: ''
 ---
 

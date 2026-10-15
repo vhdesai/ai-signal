@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
 - 2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut
 - 2026-09-18-xai-releases-grok-voice-transcribe-2-0
-embedding_id: 2026-08-31-gradium-ai-ships-a-new-default-text-to-speech-model-81-0-har
+embedding_id: null
 event_name: ''
 ---
 

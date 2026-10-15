@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/
 url_canonical: https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-13_060534_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 62339232caf6e365ba4f0b5a452bce02eea4edca42ad3ac3df2af2454d697060
@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-glm-5-3-flash-and-qwen3-8-flash-next-converge-on-similar-eff
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
-embedding_id: 2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work
+embedding_id: null
 event_name: ''
 ---
 

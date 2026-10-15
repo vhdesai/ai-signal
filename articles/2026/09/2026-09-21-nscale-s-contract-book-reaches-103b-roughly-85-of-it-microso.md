@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 - 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 - 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
-embedding_id: 2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso
+embedding_id: null
 event_name: ''
 ---
 

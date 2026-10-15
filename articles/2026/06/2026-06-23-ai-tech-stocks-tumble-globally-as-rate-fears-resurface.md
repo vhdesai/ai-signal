@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
-embedding_id: 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-08-25-robotics-startup-generalist-reaches-3b-valuation
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-embedding_id: 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
-embedding_id: 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
+embedding_id: null
 event_name: ''
 ---
 

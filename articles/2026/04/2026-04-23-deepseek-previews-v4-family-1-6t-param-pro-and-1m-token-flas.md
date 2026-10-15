@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
-embedding_id: 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
+embedding_id: null
 event_name: ''
 ---
 

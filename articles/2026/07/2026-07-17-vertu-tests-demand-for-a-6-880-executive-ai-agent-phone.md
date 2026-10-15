@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-17-vertu-tests-whether-executives-will-pay-6-880-for-an-ai-agen
 - 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
 - 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
-embedding_id: 2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone
+embedding_id: null
 event_name: ''
 ---
 

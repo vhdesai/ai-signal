@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-13-monday-july-13-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-25-saturday-september-26-2026
-embedding_id: 2026-07-05-saturday-sunday-briefing-july-5-2026
+embedding_id: null
 event_name: ''
 ---
 

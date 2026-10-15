@@ -6,7 +6,7 @@ date: '2026-06-29'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-cleared-by-us-for-wider-use-video
 url_canonical: https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-cleared-by-us-for-wider-use-video
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 97efa6c7a9078e13b74e5c6cabf2cc8912420cf512ce9fe9b38a3c4af8a8c4f2
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-embedding_id: 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
+embedding_id: null
 event_name: ''
 ---
 

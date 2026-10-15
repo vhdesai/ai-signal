@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 related_article_ids: []
-embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-overview
+embedding_id: null
 event_name: Google Cloud Next 2026
 ---
 

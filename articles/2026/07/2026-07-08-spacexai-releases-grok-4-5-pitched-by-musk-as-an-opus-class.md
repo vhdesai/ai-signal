@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
-embedding_id: 2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class
+embedding_id: null
 event_name: ''
 ---
 

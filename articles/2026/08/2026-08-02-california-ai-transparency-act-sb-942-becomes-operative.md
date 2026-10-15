@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
-embedding_id: 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
+embedding_id: null
 event_name: ''
 ---
 

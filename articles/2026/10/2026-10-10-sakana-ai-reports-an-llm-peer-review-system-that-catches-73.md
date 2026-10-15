@@ -6,7 +6,7 @@ date: '2026-10-10'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/
 url_canonical: https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-11_101102_Inbox_Daily AI News Digest - October
   11, 2026.md
 content_hash: cb201c2a9dfc74b87d55c224abae58e5e806c77ca3cbcd85fa7faae72e8b8b98
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-embedding_id: 2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73
+embedding_id: null
 event_name: ''
 ---
 

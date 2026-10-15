@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 - 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
-embedding_id: 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
+embedding_id: null
 event_name: ''
 ---
 

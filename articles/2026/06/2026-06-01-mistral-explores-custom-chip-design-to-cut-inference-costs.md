@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-deepseek-is-developing-its-own-ai-inference-chip
 - 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
 - 2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip
-embedding_id: 2026-06-01-mistral-explores-custom-chip-design-to-cut-inference-costs
+embedding_id: null
 event_name: ''
 ---
 

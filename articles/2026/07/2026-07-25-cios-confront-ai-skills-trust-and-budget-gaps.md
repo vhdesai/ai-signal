@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/ai-spending-soars-cios-grapple-with-costs/825705/
 url_canonical: https://www.ciodive.com/news/ai-spending-soars-cios-grapple-with-costs/825705/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-25_065719_Final-Daily-AI-News-Digest.md
 content_hash: 31ae9dbe1355245b49fffe0cfd02a0c446e75b3b9b0584222db3d2bb9af02a3d
 normalized_title_hash: e39b36e35f893c03
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-embedding_id: 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
+embedding_id: null
 event_name: ''
 ---
 

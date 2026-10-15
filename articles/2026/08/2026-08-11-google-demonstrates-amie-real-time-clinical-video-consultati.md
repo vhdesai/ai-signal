@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-google-advances-amie-toward-expert-level-audio-visual-clinic
 related_article_ids: []
-embedding_id: 2026-08-11-google-demonstrates-amie-real-time-clinical-video-consultati
+embedding_id: null
 event_name: ''
 ---
 

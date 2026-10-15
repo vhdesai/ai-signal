@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
-embedding_id: 2026-04-16-google-released-a-fully-native-swift-app-for-macos-that-lets
+embedding_id: null
 event_name: ''
 ---
 

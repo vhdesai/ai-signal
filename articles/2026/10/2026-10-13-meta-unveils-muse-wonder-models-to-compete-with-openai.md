@@ -6,8 +6,8 @@ source: Yahoo Finance / Mashable / Fortune
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_065903_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 0b755235d3d1ddb35ce1dfdff769363ff95d68689c4d146bfda133ed9b4fa471
 normalized_title_hash: 82dc8b3e4c58ef94
 canonical_url_hash: ''
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
-embedding_id: 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
+embedding_id: null
 event_name: ''
 ---
 

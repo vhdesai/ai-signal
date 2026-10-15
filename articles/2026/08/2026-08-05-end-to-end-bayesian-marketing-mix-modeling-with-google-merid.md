@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-09-11-notable-arxiv-ml-submissions-dated-friday-11-september
-embedding_id: 2026-08-05-end-to-end-bayesian-marketing-mix-modeling-with-google-merid
+embedding_id: null
 event_name: ''
 ---
 

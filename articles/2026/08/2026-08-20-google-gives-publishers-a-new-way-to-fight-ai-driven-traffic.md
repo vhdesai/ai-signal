@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-google-rolls-out-new-personalization-controls-across-search
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-embedding_id: 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 related_article_ids: []
-embedding_id: 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
+embedding_id: null
 event_name: ''
 ---
 

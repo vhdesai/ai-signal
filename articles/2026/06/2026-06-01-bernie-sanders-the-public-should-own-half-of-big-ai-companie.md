@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia
 - 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
-embedding_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-embedding_id: 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-embedding_id: 2026-07-22-microsoft-commits-60m-to-the-doe-s-genesis-mission-to-accele
+embedding_id: null
 event_name: ''
 ---
 

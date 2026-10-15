@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
-embedding_id: 2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode
+embedding_id: null
 event_name: ''
 ---
 

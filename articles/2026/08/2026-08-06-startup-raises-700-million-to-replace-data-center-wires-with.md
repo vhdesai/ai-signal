@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
-embedding_id: 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
-embedding_id: 2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar
+embedding_id: null
 event_name: ''
 ---
 

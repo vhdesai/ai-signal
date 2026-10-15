@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
-embedding_id: 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
+embedding_id: null
 event_name: ''
 ---
 

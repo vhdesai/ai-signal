@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
-embedding_id: 2026-09-22-wednesday-september-23-2026
+embedding_id: null
 event_name: ''
 ---
 

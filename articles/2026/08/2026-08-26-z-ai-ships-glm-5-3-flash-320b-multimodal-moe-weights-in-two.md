@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-07-18-open-trillion-scale-moe-models-compared-kimi-k3-deepseek-v4
-embedding_id: 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
+embedding_id: null
 event_name: ''
 ---
 

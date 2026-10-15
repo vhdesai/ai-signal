@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 - 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-an-ai-sir
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
-embedding_id: 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s
 - 2026-09-18-openai-ships-astra-for-law-with-a-230-million-url-legal-sear
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
-embedding_id: 2026-09-18-openai-ships-astra-for-law-a-legal-configuration-of-gpt-6-as
+embedding_id: null
 event_name: ''
 ---
 

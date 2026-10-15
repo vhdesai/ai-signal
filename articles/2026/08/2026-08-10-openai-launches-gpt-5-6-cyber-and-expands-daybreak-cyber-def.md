@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
-embedding_id: 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
+embedding_id: null
 event_name: ''
 ---
 

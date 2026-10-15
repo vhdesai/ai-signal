@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
 related_article_ids: []
-embedding_id: 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
+embedding_id: null
 event_name: ''
 ---
 

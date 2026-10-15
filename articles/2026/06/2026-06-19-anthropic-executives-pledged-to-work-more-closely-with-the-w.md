@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
 - 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
-embedding_id: 2026-06-19-anthropic-executives-pledged-to-work-more-closely-with-the-w
+embedding_id: null
 event_name: ''
 ---
 

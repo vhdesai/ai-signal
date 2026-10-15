@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
 - 2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure
-embedding_id: 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
+embedding_id: null
 event_name: ''
 ---
 

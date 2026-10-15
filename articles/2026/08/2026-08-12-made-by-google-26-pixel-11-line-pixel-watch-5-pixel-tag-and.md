@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a
 - 2026-08-12-made-by-google-2026-pixel-11-lineup-and-pixel-watch-5-with-p
 - 2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign
-embedding_id: 2026-08-12-made-by-google-26-pixel-11-line-pixel-watch-5-pixel-tag-and
+embedding_id: null
 event_name: ''
 ---
 

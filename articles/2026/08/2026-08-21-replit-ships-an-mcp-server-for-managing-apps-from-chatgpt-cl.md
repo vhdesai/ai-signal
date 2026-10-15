@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex
 - 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-embedding_id: 2026-08-21-replit-ships-an-mcp-server-for-managing-apps-from-chatgpt-cl
+embedding_id: null
 event_name: ''
 ---
 

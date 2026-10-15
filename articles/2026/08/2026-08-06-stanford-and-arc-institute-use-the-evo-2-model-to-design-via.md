@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 related_article_ids:
 - 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
-embedding_id: 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
+embedding_id: null
 event_name: ''
 ---
 

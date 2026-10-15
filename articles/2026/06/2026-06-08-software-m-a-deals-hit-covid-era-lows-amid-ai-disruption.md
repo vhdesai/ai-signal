@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-07-17-cybersecurity-m-a-heads-for-record-year-as-ai-security-start
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
-embedding_id: 2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4
 related_article_ids: []
-embedding_id: 2026-09-25-musk-says-xai-s-colossus-runs-780-000-nvidia-processors-head
+embedding_id: null
 event_name: ''
 ---
 

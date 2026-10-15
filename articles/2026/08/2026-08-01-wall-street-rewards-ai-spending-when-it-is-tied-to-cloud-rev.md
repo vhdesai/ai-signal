@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
-embedding_id: 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
+embedding_id: null
 event_name: ''
 ---
 

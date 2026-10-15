@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
-embedding_id: 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
+embedding_id: null
 event_name: ''
 ---
 

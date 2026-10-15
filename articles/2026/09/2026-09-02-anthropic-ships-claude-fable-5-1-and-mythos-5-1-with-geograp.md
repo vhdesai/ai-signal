@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-cutting-agen
 related_article_ids: []
-embedding_id: 2026-09-02-anthropic-ships-claude-fable-5-1-and-mythos-5-1-with-geograp
+embedding_id: null
 event_name: ''
 ---
 

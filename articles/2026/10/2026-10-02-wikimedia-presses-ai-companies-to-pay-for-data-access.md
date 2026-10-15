@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: 2026-10-02-wikimedia-presses-ai-companies-to-pay-for-data-access
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut
 - 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-embedding_id: 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
+embedding_id: null
 event_name: ''
 ---
 

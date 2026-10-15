@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
-embedding_id: 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-embedding_id: 2026-09-10-anthropic-grants-eu-cybersecurity-agency-enisa-access-to-myt
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
-embedding_id: 2026-10-06-nokia-ceo-says-data-centers-would-be-built-twice-as-fast-wit
+embedding_id: null
 event_name: ''
 ---
 

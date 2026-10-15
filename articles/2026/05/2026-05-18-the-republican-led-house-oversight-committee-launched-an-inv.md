@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
-embedding_id: 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
+embedding_id: null
 event_name: ''
 ---
 

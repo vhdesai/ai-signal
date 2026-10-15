@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new
 - 2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-embedding_id: 2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year
+embedding_id: null
 event_name: ''
 ---
 

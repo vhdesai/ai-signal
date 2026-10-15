@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: Micron Technology
 url_original: https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx
 url_canonical: https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 9907d3e673a236eeab01068beb035d6ddaa7089af1257299d6b2e87b026107f4
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 - 2026-08-20-micron-commits-10-billion-to-a-decade-long-memory-and-ai-res
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-embedding_id: 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
+embedding_id: null
 event_name: ''
 ---
 

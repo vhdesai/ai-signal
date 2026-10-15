@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-embedding_id: 2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
 related_article_ids: []
-embedding_id: 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
+embedding_id: null
 event_name: ''
 ---
 

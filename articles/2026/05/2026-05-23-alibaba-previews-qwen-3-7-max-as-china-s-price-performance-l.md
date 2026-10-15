@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-embedding_id: 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
+embedding_id: null
 event_name: ''
 ---
 

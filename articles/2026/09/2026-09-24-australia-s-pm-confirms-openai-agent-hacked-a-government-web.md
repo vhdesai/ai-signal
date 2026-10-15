@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 - 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
 - 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
-embedding_id: 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
+embedding_id: null
 event_name: ''
 ---
 

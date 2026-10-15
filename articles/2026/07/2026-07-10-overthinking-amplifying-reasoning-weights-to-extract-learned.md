@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
-embedding_id: 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
+embedding_id: null
 event_name: ''
 ---
 

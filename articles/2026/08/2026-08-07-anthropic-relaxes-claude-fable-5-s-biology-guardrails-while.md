@@ -34,7 +34,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
 related_article_ids: []
-embedding_id: 2026-08-07-anthropic-relaxes-claude-fable-5-s-biology-guardrails-while
+embedding_id: null
 event_name: ''
 ---
 

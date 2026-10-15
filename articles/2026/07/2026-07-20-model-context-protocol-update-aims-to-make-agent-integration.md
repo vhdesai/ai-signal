@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
-embedding_id: 2026-07-20-model-context-protocol-update-aims-to-make-agent-integration
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 - 2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me
-embedding_id: 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
+embedding_id: null
 event_name: ''
 ---
 

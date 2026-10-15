@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user
 related_article_ids:
 - 2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp
-embedding_id: 2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e
+embedding_id: null
 event_name: ''
 ---
 

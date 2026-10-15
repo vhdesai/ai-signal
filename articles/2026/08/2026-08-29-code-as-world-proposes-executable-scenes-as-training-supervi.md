@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: 2026-08-29-code-as-world-proposes-executable-scenes-as-training-supervi
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
-embedding_id: 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
+embedding_id: null
 event_name: ''
 ---
 

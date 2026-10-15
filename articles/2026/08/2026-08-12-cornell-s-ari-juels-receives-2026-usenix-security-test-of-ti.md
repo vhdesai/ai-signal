@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-embedding_id: 2026-08-12-cornell-s-ari-juels-receives-2026-usenix-security-test-of-ti
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-embedding_id: 2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for
+embedding_id: null
 event_name: ''
 ---
 

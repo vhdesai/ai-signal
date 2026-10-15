@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-embedding_id: 2026-09-17-stanford-s-paper2agent-turns-published-papers-into-validated
+embedding_id: null
 event_name: ''
 ---
 

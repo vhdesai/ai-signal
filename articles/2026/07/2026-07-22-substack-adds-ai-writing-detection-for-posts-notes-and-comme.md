@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
 - 2026-07-30-linkedin-adds-seems-like-ai-slop-report-button-and-swaps-ai
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
-embedding_id: 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
+embedding_id: null
 event_name: ''
 ---
 

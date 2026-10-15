@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
-embedding_id: 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
+embedding_id: null
 event_name: ''
 ---
 

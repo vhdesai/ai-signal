@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
 related_article_ids:
 - 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s
-embedding_id: 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-employee-acc
+embedding_id: null
 event_name: ''
 ---
 

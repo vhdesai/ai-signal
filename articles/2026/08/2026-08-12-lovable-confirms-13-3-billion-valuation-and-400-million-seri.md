@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-08-12-lovable-confirms-400m-raise-at-a-13-3b-valuation
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
-embedding_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
+embedding_id: null
 event_name: ''
 ---
 

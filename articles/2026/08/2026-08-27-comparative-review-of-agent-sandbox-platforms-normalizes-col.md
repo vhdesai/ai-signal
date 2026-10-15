@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
-embedding_id: 2026-08-27-comparative-review-of-agent-sandbox-platforms-normalizes-col
+embedding_id: null
 event_name: ''
 ---
 

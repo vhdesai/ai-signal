@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
-embedding_id: 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
+embedding_id: null
 event_name: ''
 ---
 

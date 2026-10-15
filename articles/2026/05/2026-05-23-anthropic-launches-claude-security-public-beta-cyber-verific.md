@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau
 - 2026-08-21-anthropic-opens-claude-security-scans-powered-by-mythos-5-to
-embedding_id: 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
+embedding_id: null
 event_name: ''
 ---
 

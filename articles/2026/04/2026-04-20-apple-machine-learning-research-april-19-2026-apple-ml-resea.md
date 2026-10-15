@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
-embedding_id: 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
+embedding_id: null
 event_name: ''
 ---
 

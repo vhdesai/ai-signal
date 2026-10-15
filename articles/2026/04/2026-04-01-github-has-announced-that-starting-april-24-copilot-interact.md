@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb
 - 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
-embedding_id: 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
+embedding_id: null
 event_name: ''
 ---
 

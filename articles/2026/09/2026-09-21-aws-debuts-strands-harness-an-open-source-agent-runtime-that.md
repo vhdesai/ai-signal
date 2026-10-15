@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
 related_article_ids: []
-embedding_id: 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that
+embedding_id: null
 event_name: ''
 ---
 

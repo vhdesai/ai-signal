@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si
 related_article_ids: []
-embedding_id: 2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation
+embedding_id: null
 event_name: ''
 ---
 

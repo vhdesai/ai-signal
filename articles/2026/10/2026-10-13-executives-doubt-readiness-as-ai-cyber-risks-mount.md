@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
-embedding_id: 2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount
+embedding_id: null
 event_name: ''
 ---
 

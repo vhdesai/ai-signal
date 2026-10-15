@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 - 2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
-embedding_id: 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
+embedding_id: null
 event_name: ''
 ---
 

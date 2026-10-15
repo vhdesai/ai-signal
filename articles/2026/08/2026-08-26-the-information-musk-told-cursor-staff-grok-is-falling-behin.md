@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-musk-told-cursor-staff-grok-is-falling-behind-in-first-all-h
 related_article_ids: []
-embedding_id: 2026-08-26-the-information-musk-told-cursor-staff-grok-is-falling-behin
+embedding_id: null
 event_name: ''
 ---
 

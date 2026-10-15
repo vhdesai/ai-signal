@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
-embedding_id: 2026-08-10-meta-shares-rise-2-4-on-the-muse-glimmer-open-weight-launch
+embedding_id: null
 event_name: ''
 ---
 

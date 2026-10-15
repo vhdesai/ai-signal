@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/
 url_canonical: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-24_062359_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: e4932a37c592290246ed7fdd25fa98ae65d983be2eedda79b3b438be5554c2cf
@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
 related_article_ids: []
-embedding_id: 2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-begin
+embedding_id: null
 event_name: ''
 ---
 

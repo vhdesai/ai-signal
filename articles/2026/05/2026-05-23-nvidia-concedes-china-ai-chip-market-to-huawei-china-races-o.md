@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
-embedding_id: 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
+embedding_id: null
 event_name: ''
 ---
 

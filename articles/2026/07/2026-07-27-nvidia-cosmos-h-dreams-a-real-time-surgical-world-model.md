@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 - 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
-embedding_id: 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
+embedding_id: null
 event_name: ''
 ---
 

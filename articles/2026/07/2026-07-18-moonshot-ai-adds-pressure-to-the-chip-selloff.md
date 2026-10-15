@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-embedding_id: 2026-07-18-moonshot-ai-adds-pressure-to-the-chip-selloff
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
 related_article_ids: []
-embedding_id: 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-major-man
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-09-04-gdit-joins-openai-partner-network-to-accelerate-federal-ai-m
-embedding_id: 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
+embedding_id: null
 event_name: ''
 ---
 

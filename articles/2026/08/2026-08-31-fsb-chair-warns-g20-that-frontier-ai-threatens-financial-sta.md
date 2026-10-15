@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 related_article_ids: []
-embedding_id: 2026-08-31-fsb-chair-warns-g20-that-frontier-ai-threatens-financial-sta
+embedding_id: null
 event_name: ''
 ---
 

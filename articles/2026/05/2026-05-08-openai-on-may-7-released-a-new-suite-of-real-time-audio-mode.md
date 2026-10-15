@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t
 - 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
 - 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
-embedding_id: 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
+embedding_id: null
 event_name: ''
 ---
 

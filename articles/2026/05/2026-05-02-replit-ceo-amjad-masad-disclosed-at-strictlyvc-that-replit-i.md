@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
-embedding_id: 2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-26-state-attorneys-general-press-congress-for-national-ai-sa
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
-embedding_id: 2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin
+embedding_id: null
 event_name: ''
 ---
 

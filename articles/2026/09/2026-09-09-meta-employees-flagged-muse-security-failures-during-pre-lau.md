@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 - 2026-09-12-hands-on-with-meta-s-muse-agent-near-408-double-booking-and
-embedding_id: 2026-09-09-meta-employees-flagged-muse-security-failures-during-pre-lau
+embedding_id: null
 event_name: ''
 ---
 

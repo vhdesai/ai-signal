@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
+embedding_id: null
 event_name: ''
 ---
 

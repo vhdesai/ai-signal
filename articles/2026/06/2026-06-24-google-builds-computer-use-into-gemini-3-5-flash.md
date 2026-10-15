@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
-embedding_id: 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
+embedding_id: null
 event_name: ''
 ---
 

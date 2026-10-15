@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-embedding_id: 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
+embedding_id: null
 event_name: ''
 ---
 

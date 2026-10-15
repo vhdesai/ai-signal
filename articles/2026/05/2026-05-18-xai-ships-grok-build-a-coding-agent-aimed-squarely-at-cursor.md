@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-embedding_id: 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
+embedding_id: null
 event_name: ''
 ---
 

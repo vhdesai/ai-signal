@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-embedding_id: 2026-09-25-26-state-attorneys-general-press-congress-for-national-ai-sa
+embedding_id: null
 event_name: ''
 ---
 

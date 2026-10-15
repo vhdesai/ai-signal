@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
 - 2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength
 - 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
-embedding_id: 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
+embedding_id: null
 event_name: ''
 ---
 

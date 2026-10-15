@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 related_article_ids: []
-embedding_id: 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
+embedding_id: null
 event_name: ''
 ---
 

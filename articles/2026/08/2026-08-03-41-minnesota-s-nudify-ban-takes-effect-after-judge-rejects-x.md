@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
-embedding_id: 2026-08-03-41-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-x
+embedding_id: null
 event_name: ''
 ---
 

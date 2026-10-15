@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 - 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
-embedding_id: 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
+embedding_id: null
 event_name: ''
 ---
 

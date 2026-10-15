@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
 related_article_ids: []
-embedding_id: 2026-08-15-bond-traders-scrutinize-70b-off-balance-sheet-ai-credit-back
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 related_article_ids: []
-embedding_id: 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
+embedding_id: null
 event_name: ''
 ---
 

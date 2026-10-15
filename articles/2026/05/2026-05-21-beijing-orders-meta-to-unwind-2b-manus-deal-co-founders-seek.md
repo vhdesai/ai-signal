@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta
 - 2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m
 - 2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout
-embedding_id: 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
+embedding_id: null
 event_name: ''
 ---
 

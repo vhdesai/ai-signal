@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 related_article_ids: []
-embedding_id: 2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c
+embedding_id: null
 event_name: ''
 ---
 

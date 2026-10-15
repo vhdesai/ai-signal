@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 related_article_ids: []
-embedding_id: 2026-08-17-nvidia-guarantees-sb-energy-s-8-gw-ohio-campus-openai-signs
+embedding_id: null
 event_name: ''
 ---
 

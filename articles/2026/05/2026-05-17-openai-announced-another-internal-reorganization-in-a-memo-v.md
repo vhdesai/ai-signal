@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
-embedding_id: 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
+embedding_id: null
 event_name: ''
 ---
 

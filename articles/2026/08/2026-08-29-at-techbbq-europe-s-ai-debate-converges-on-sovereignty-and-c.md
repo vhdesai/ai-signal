@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-08-29-at-techbbq-europe-s-ai-debate-converges-on-sovereignty-and-c
+embedding_id: null
 event_name: ''
 ---
 

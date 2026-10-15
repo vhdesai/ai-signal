@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
-embedding_id: 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+embedding_id: null
 event_name: ''
 ---
 

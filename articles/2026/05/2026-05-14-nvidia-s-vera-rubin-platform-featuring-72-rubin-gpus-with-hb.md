@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
-embedding_id: 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
+embedding_id: null
 event_name: ''
 ---
 

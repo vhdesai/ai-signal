@@ -30,7 +30,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-overview
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-embedding_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+embedding_id: null
 event_name: 'Google I/O 2026: Gemini as the Agentic Platform'
 ---
 

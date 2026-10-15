@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
-embedding_id: 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
-embedding_id: 2026-09-27-anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-t
+embedding_id: null
 event_name: ''
 ---
 

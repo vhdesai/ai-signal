@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: ok
 digest_source: digests\raw\icra-2026.md
 content_hash: 8ef5b72e43dda8d271e080f2ee4f015fb68ea4827f09da9ed26411f378eb774e
 normalized_title_hash: 6365dd5cf38d597b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
-embedding_id: event-icra-2026-icra-2026-strategic-implications
+embedding_id: null
 event_name: ICRA 2026
 ---
 

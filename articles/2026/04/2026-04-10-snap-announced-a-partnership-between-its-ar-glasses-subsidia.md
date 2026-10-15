@@ -25,7 +25,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
 - 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 - 2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas
-embedding_id: 2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia
+embedding_id: null
 event_name: ''
 ---
 

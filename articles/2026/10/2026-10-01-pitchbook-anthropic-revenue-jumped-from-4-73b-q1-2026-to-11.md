@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
-embedding_id: 2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11
+embedding_id: null
 event_name: ''
 ---
 

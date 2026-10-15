@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
 related_article_ids: []
-embedding_id: 2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets
+embedding_id: null
 event_name: ''
 ---
 

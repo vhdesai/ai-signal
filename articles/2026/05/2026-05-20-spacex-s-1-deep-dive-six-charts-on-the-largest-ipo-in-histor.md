@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 - 2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t
-embedding_id: 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
+embedding_id: null
 event_name: ''
 ---
 

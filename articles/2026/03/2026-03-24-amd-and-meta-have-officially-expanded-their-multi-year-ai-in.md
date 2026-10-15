@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
-embedding_id: 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
+embedding_id: null
 event_name: ''
 ---
 

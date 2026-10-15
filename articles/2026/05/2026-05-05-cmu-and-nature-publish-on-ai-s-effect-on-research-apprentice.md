@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
-embedding_id: 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
+embedding_id: null
 event_name: ''
 ---
 

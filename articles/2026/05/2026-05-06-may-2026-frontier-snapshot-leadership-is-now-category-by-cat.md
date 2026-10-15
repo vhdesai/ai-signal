@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-embedding_id: 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
+embedding_id: null
 event_name: ''
 ---
 

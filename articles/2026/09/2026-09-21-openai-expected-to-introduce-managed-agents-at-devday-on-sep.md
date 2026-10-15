@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5
-embedding_id: 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
+embedding_id: null
 event_name: ''
 ---
 

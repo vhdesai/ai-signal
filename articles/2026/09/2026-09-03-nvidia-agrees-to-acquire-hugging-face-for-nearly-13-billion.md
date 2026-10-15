@@ -25,7 +25,7 @@ canonical_article_id: 2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition
 related_article_ids:
 - 2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
 - 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
-embedding_id: 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion
+embedding_id: null
 event_name: ''
 ---
 

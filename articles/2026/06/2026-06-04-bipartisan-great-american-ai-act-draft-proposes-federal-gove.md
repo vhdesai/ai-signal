@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
-embedding_id: 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
+embedding_id: null
 event_name: ''
 ---
 

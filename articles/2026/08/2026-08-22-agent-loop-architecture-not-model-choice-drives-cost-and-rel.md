@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/
 url_canonical: https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-23_060427_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 7f9b592ab4e7694a995d142a3cf0b624c0ed9d6f952902227598c9e6f07b6d38
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
-embedding_id: 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
+embedding_id: null
 event_name: ''
 ---
 

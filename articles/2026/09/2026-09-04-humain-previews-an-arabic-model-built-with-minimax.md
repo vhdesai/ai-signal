@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on
 - 2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m
 - 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
-embedding_id: 2026-09-04-humain-previews-an-arabic-model-built-with-minimax
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
-embedding_id: 2026-07-08-co-lmlm-continuous-query-limited-memory-language-models
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
 - 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-embedding_id: 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 - 2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec
 - 2026-07-10-new-warning-in-race-to-superintelligence
-embedding_id: 2026-10-07-national-compute-grid-proposal-targets-idle-ai-capacity
+embedding_id: null
 event_name: ''
 ---
 

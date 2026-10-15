@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 related_article_ids: []
-embedding_id: 2026-08-14-deepseek-ships-v4-pro-to-general-availability-with-api-price
+embedding_id: null
 event_name: ''
 ---
 

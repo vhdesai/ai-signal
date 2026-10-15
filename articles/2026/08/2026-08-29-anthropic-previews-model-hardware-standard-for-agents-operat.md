@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta
 related_article_ids: []
-embedding_id: 2026-08-29-anthropic-previews-model-hardware-standard-for-agents-operat
+embedding_id: null
 event_name: ''
 ---
 

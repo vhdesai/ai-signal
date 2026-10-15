@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 related_article_ids: []
-embedding_id: 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
+embedding_id: null
 event_name: ''
 ---
 

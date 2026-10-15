@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 - 2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
-embedding_id: 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
+embedding_id: null
 event_name: ''
 ---
 

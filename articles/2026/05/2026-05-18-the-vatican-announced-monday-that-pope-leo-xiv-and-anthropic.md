@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
-embedding_id: 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
+embedding_id: null
 event_name: ''
 ---
 

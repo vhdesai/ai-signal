@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-embedding_id: 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
+embedding_id: null
 event_name: ''
 ---
 

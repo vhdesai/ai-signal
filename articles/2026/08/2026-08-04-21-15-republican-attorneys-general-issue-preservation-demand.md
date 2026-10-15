@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
 - 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
-embedding_id: 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
+embedding_id: null
 event_name: ''
 ---
 

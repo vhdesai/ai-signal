@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-openai-says-80-90-of-its-research-already-targets-gpt-7-and
 related_article_ids: []
-embedding_id: 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
+embedding_id: null
 event_name: ''
 ---
 

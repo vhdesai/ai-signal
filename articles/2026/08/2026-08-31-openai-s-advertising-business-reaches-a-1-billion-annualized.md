@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
 - 2026-08-31-openai-says-chatgpt-ads-reached-a-1b-annualized-run-rate-in
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-embedding_id: 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
+embedding_id: null
 event_name: ''
 ---
 

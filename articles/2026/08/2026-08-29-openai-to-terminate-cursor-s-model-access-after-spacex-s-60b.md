@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-openai-to-cut-off-cursor-s-model-access-following-spacex-s-6
 related_article_ids: []
-embedding_id: 2026-08-29-openai-to-terminate-cursor-s-model-access-after-spacex-s-60b
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
+embedding_id: null
 event_name: ''
 ---
 

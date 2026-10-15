@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
 - 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
 - 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
-embedding_id: 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+embedding_id: null
 event_name: ''
 ---
 

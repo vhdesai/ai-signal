@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-embedding_id: 2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand
+embedding_id: null
 event_name: ''
 ---
 

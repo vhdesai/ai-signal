@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 - 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-embedding_id: 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
+embedding_id: null
 event_name: ''
 ---
 

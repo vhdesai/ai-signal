@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains
 - 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
-embedding_id: 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+embedding_id: null
 event_name: ''
 ---
 

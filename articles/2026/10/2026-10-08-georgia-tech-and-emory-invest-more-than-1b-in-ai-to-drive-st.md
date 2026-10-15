@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
 - 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
-embedding_id: 2026-10-08-georgia-tech-and-emory-invest-more-than-1b-in-ai-to-drive-st
+embedding_id: null
 event_name: ''
 ---
 

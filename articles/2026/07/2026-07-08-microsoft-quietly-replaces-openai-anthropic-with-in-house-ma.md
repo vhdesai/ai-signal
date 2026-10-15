@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-embedding_id: 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 related_article_ids: []
-embedding_id: 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo
+embedding_id: null
 event_name: ''
 ---
 

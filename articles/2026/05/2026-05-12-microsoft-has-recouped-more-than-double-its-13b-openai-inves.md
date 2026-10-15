@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
-embedding_id: 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-embedding_id: 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
+embedding_id: null
 event_name: ''
 ---
 

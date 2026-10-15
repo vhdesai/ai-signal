@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
-embedding_id: 2026-10-08-aws-patches-agentcore-flaw-that-let-one-public-agent-hijack
+embedding_id: null
 event_name: ''
 ---
 

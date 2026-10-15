@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-datacurve-releases-deepswe-a-coding-benchmark-that-produces
 related_article_ids: []
-embedding_id: 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
+embedding_id: null
 event_name: ''
 ---
 

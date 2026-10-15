@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-nvidia-reports-a-550b-coding-model-outscoring-the-top-human
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
-embedding_id: 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
-embedding_id: 2026-09-02-trending-anthropic-s-triple-release-read-as-a-2-trillion-ipo
+embedding_id: null
 event_name: ''
 ---
 

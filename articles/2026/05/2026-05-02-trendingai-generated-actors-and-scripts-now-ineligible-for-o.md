@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 - 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
 - 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
-embedding_id: 2026-05-02-trendingai-generated-actors-and-scripts-now-ineligible-for-o
+embedding_id: null
 event_name: ''
 ---
 

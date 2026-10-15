@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
-embedding_id: 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
+embedding_id: null
 event_name: ''
 ---
 

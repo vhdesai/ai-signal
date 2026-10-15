@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 related_article_ids: []
-embedding_id: 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on
 - 2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum
 - 2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen
-embedding_id: 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
+embedding_id: null
 event_name: ''
 ---
 

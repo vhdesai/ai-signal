@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-08-10-openai-pauses-internal-activity-on-unreleased-astra-model-ov
 - 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
-embedding_id: 2026-08-10-claude-agent-hacks-australian-gym-booking-system-highlights
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-embedding_id: 2026-08-13-iren-delivers-horizon-1-to-microsoft-and-achieves-nvidia-exe
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 - 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
-embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
+embedding_id: null
 event_name: Google Cloud Next 2026
 ---
 

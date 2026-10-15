@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 - 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
-embedding_id: 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
+embedding_id: null
 event_name: ''
 ---
 

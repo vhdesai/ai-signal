@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-embedding_id: 2026-09-24-jensen-huang-labs-that-cannot-control-their-models-should-no
+embedding_id: null
 event_name: ''
 ---
 

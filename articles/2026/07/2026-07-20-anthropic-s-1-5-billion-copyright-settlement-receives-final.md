@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
 - 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
 - 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
-embedding_id: 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
+embedding_id: null
 event_name: ''
 ---
 

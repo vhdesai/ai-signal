@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 - 2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur
-embedding_id: 2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp
+embedding_id: null
 event_name: ''
 ---
 

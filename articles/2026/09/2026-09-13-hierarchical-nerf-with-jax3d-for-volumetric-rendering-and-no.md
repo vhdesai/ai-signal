@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
-embedding_id: 2026-09-13-hierarchical-nerf-with-jax3d-for-volumetric-rendering-and-no
+embedding_id: null
 event_name: ''
 ---
 

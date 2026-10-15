@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
 - 2026-08-17-minimax-music3-open-weights-five-minute-music-generation
-embedding_id: 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 - 2026-09-19-the-hacker-news-published-a-detailed-technical-writeup-hackt
 - 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
-embedding_id: 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-exfiltrate-s
+embedding_id: null
 event_name: ''
 ---
 

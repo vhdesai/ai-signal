@@ -27,7 +27,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 related_article_ids: []
-embedding_id: 2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-embedding_id: 2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b
+embedding_id: null
 event_name: ''
 ---
 

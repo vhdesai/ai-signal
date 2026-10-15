@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-huawei-h1-profit-drop-quickens-to-36-on-rising-costs-r-d-spe
 - 2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
-embedding_id: 2026-08-31-huawei-h1-2026-net-profit-falls-36-as-ai-related-r-d-spendin
+embedding_id: null
 event_name: ''
 ---
 

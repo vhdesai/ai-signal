@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
-embedding_id: 2026-09-16-huawei-predicts-90-of-global-token-traffic-will-come-from-au
+embedding_id: null
 event_name: ''
 ---
 

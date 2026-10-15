@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-cornell-s-ari-juels-receives-2026-usenix-security-test-of-ti
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
-embedding_id: 2026-08-05-university-of-washington-s-jerry-li-wins-2026-g-del-prize-fo
+embedding_id: null
 event_name: ''
 ---
 

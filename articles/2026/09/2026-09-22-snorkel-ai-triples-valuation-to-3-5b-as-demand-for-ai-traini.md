@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-snorkel-ai-raises-350m-at-3-5b-as-training-data-demand-compo
 related_article_ids: []
-embedding_id: 2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini
+embedding_id: null
 event_name: ''
 ---
 

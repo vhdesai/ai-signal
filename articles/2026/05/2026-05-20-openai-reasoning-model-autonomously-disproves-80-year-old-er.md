@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
-embedding_id: 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
+embedding_id: null
 event_name: ''
 ---
 

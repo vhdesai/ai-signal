@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 related_article_ids: []
-embedding_id: 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
-embedding_id: 2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
 - 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
-embedding_id: 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-jane-street-co
 - 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
-embedding_id: 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
+embedding_id: null
 event_name: ''
 ---
 

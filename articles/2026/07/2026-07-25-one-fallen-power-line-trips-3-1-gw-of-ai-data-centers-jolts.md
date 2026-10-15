@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob
 related_article_ids: []
-embedding_id: 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-jolts
+embedding_id: null
 event_name: ''
 ---
 

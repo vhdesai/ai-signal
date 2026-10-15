@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised
 - 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
-embedding_id: 2026-09-13-openai-rules-out-a-2026-ipo-citing-safety-concerns
+embedding_id: null
 event_name: ''
 ---
 

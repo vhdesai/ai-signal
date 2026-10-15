@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 747ac236cadae5dcf34e41dceee468eab078c9f0bc2fb6d2b3d3d606f6c65d01
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
-embedding_id: 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
+embedding_id: null
 event_name: ''
 ---
 

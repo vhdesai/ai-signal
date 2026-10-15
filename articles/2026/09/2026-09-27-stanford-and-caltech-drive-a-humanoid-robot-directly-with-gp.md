@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-stanford-caltech-s-homebody-plugs-gpt-6-astra-directly-into
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
-embedding_id: 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
+embedding_id: null
 event_name: ''
 ---
 

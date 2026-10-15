@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize
 - 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
-embedding_id: 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
+embedding_id: null
 event_name: ''
 ---
 

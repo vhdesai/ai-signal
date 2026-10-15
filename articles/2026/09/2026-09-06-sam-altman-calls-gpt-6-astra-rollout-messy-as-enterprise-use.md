@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-09-28-openai-cancels-the-release-of-gpt-6-1-astra-over-deception-i
-embedding_id: 2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use
+embedding_id: null
 event_name: ''
 ---
 

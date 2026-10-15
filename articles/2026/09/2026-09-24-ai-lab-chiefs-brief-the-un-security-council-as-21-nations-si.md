@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing
 - 2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to
-embedding_id: 2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th
 related_article_ids: []
-embedding_id: 2026-09-27-report-openai-attributed-agents-queried-a-u-n-public-data-se
+embedding_id: null
 event_name: ''
 ---
 

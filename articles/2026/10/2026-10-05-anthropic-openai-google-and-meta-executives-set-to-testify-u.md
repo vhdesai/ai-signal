@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y
 - 2026-10-05-coverage-new-york-city-prepares-to-question-frontier-ai-comp
 - 2026-10-05-nyc-council-puts-anthropic-openai-google-and-meta-under-oath
-embedding_id: 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
+embedding_id: null
 event_name: ''
 ---
 

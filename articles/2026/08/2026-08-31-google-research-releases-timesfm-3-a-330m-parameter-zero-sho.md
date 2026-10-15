@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 related_article_ids: []
-embedding_id: 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 related_article_ids: []
-embedding_id: 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
+embedding_id: null
 event_name: ''
 ---
 

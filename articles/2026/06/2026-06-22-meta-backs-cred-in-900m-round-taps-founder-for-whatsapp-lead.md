@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: 2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead
+embedding_id: null
 event_name: ''
 ---
 

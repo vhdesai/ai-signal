@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
-embedding_id: 2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2
+embedding_id: null
 event_name: ''
 ---
 

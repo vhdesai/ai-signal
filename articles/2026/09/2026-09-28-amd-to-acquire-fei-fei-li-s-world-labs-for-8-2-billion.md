@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-05-amd-s-8-2b-world-labs-deal-puts-a-price-on-world-model-talen
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-embedding_id: 2026-09-28-amd-to-acquire-fei-fei-li-s-world-labs-for-8-2-billion
+embedding_id: null
 event_name: ''
 ---
 

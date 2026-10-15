@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
-embedding_id: 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
+embedding_id: null
 event_name: ''
 ---
 

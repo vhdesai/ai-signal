@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
 related_article_ids:
 - 2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed
-embedding_id: 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai
+embedding_id: null
 event_name: ''
 ---
 

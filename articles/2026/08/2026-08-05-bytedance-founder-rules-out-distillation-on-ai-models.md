@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models
 - 2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
-embedding_id: 2026-08-05-bytedance-founder-rules-out-distillation-on-ai-models
+embedding_id: null
 event_name: ''
 ---
 

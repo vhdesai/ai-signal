@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 related_article_ids:
 - 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
-embedding_id: 2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag
+embedding_id: null
 event_name: ''
 ---
 

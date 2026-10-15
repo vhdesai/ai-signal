@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1644
+member_count: 1647
 ---
 
 # Google
 
-> Auto-generated entity hub. 1644 connected article(s).
+> Auto-generated entity hub. 1647 connected article(s).
 
+- `2026-10-15` [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ|New research reports that personal AI agents can help networked teams solve complex problems significantly faster. The finding sits in tension with HBR’s warning about weakened team dynamics, suggesting the design of agent use matters. AI can either substitute for collaboration or amplify it depending on workflow, transparency, and team norms.]]
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan|Nature covered research finding that AI writing support changes petition style but does not improve real-world outcomes. The result echoes earlier Cornell reporting: AI can make civic text longer or more polished without making it more effective. It is a valuable reminder that persuasion, trust, and authenticity are not solved by fluent generation alone.]]
+- `2026-10-14` [[2026-10-14-google-outlines-research-applications-across-science-and-hea|Google outlines research applications across science and healthcare]]
 - `2026-10-14` [[2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect|Google DeepMind and Singapore build on-device AI scam detection for private chats]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]

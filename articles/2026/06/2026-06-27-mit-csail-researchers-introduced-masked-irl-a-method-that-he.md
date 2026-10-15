@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-embedding_id: 2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 - 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
-embedding_id: 2026-07-28-jump-capital-raises-350-million-fund-for-ai-investments
+embedding_id: null
 event_name: ''
 ---
 

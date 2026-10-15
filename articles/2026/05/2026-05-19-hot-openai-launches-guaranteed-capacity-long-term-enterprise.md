@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
-embedding_id: 2026-05-19-hot-openai-launches-guaranteed-capacity-long-term-enterprise
+embedding_id: null
 event_name: ''
 ---
 

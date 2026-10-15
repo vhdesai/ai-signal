@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 - 2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-security-i
+embedding_id: null
 event_name: ''
 ---
 

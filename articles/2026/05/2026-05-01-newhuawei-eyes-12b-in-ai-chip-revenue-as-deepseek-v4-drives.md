@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
+embedding_id: null
 event_name: ''
 ---
 

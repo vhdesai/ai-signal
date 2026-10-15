@@ -6,8 +6,8 @@ source: The Decoder
 url_original: https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/
 url_canonical: https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: cd1a4f6c929a2542eb574a3d05c0f9c4860d2d31a5b356727cf4079ec880d6f2
 normalized_title_hash: 3ac6957a8ee7f847
 canonical_url_hash: 61760a8e62e04d01
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
 - 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 - 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
-embedding_id: 2026-10-13-406-scientists-call-for-ai-models-to-be-cut-off-from-the-int
+embedding_id: null
 event_name: ''
 ---
 

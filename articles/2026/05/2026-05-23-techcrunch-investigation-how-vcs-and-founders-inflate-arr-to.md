@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
-embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
+embedding_id: null
 event_name: ''
 ---
 

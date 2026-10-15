@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 related_article_ids: []
-embedding_id: 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
+embedding_id: null
 event_name: ''
 ---
 

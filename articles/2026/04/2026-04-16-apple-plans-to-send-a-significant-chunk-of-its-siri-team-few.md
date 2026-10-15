@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
 - 2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins
-embedding_id: 2026-04-16-apple-plans-to-send-a-significant-chunk-of-its-siri-team-few
+embedding_id: null
 event_name: ''
 ---
 

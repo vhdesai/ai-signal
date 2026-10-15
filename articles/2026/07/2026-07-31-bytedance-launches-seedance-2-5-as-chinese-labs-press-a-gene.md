@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 - 2026-08-01-minimax-releases-h3-an-omni-modal-video-model-for-15-second
-embedding_id: 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
+embedding_id: null
 event_name: ''
 ---
 

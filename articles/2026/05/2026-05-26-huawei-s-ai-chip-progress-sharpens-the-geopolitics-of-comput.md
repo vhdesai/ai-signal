@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-06-30-tuesday-june-30-2026
 - 2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons
-embedding_id: 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-embedding_id: 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
+embedding_id: null
 event_name: ''
 ---
 

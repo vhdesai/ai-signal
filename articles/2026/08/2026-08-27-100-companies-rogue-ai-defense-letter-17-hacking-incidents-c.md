@@ -30,7 +30,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 related_article_ids: []
-embedding_id: 2026-08-27-100-companies-rogue-ai-defense-letter-17-hacking-incidents-c
+embedding_id: null
 event_name: ''
 ---
 

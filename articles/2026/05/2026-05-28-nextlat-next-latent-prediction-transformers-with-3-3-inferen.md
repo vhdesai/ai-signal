@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-embedding_id: 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
+embedding_id: null
 event_name: ''
 ---
 

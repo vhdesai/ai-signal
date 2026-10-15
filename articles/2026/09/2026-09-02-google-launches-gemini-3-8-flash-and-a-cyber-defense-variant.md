@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-google-ships-gemini-3-8-flash-and-a-restricted-gemini-3-8-fl
 - 2026-09-02-google-ships-gemini-3-8-flash-and-gates-its-cyber-variant-be
 - 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
-embedding_id: 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
+embedding_id: null
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 - 2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-embedding_id: 2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 related_article_ids: []
-embedding_id: 2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-embedding_id: 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
+embedding_id: null
 event_name: ''
 ---
 

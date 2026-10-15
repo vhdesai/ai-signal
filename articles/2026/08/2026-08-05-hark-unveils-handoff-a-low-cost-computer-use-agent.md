@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 - 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
 - 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
-embedding_id: 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
+embedding_id: null
 event_name: ''
 ---
 

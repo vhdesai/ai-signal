@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 - 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
-embedding_id: 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
+embedding_id: null
 event_name: ''
 ---
 

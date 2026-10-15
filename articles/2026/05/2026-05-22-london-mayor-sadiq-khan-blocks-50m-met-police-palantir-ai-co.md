@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 - 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
 - 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
-embedding_id: 2026-05-22-london-mayor-sadiq-khan-blocks-50m-met-police-palantir-ai-co
+embedding_id: null
 event_name: ''
 ---
 

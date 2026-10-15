@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
-embedding_id: 2026-09-02-meta-and-google-s-ai-returns-slide-piper-sandler-says-amazon
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
-embedding_id: 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
+embedding_id: null
 event_name: ''
 ---
 

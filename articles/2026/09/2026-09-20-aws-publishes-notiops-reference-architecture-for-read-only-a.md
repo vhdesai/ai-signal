@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
-embedding_id: 2026-09-20-aws-publishes-notiops-reference-architecture-for-read-only-a
+embedding_id: null
 event_name: ''
 ---
 

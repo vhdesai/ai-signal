@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-embedding_id: 2026-09-22-harvey-s-gross-margin-swung-from-50-to-50-before-it-moved-of
+embedding_id: null
 event_name: ''
 ---
 

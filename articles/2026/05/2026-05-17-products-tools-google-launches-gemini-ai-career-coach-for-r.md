@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 - 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
-embedding_id: 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
+embedding_id: null
 event_name: ''
 ---
 

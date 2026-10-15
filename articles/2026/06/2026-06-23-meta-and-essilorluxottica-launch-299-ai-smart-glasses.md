@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual
-embedding_id: 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
+embedding_id: null
 event_name: ''
 ---
 

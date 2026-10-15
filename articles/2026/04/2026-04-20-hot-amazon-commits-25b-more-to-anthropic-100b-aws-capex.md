@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-embedding_id: 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
+embedding_id: null
 event_name: ''
 ---
 

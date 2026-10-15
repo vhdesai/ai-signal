@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
-embedding_id: 2026-08-11-openai-employees-sell-7-billion-in-tender-offer
+embedding_id: null
 event_name: ''
 ---
 

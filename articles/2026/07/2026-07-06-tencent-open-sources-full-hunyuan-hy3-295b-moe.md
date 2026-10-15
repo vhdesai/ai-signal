@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
-embedding_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
+embedding_id: null
 event_name: ''
 ---
 

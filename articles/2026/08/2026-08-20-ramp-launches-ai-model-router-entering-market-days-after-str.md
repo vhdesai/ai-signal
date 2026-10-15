@@ -27,7 +27,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-ramp-launches-ai-model-router-continued
 related_article_ids: []
-embedding_id: 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
+embedding_id: null
 event_name: ''
 ---
 

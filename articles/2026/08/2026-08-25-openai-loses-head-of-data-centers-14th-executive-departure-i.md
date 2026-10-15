@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 - 2026-08-26-openai-s-data-center-chief-chris-malone-departs
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-embedding_id: 2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i
+embedding_id: null
 event_name: ''
 ---
 

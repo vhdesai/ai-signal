@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
-embedding_id: 2026-09-06-abliteration-ai-commercializes-guardrail-removal-from-open-w
+embedding_id: null
 event_name: ''
 ---
 

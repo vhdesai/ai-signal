@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
 - 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
-embedding_id: 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
+embedding_id: null
 event_name: ''
 ---
 

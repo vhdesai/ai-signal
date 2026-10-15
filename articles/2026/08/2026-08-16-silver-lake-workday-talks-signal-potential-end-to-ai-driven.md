@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 - 2026-08-14-workday-potential-43b-take-private-highlights-ai-proof-verti
 - 2026-07-30-thursday-july-30-2026
-embedding_id: 2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven
+embedding_id: null
 event_name: ''
 ---
 

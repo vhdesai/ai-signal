@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-embedding_id: 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
+embedding_id: null
 event_name: ''
 ---
 

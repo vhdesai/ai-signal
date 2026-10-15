@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese
-embedding_id: 2026-08-23-sam-altman-says-he-s-worried-about-ai-being-controlled-by-a
+embedding_id: null
 event_name: ''
 ---
 

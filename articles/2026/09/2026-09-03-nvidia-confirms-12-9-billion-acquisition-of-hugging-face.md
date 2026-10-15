@@ -24,7 +24,7 @@ canonical_article_id: 2026-09-03-hot-breaking-nvidia-confirms-12-93b-acquisition
 related_article_ids:
 - 2026-09-03-nvidia-confirms-12-93b-acquisition-of-hugging-face
 - 2026-09-03-nvidia-confirms-12-9b-hugging-face-acquisition-huang-defends
-embedding_id: 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hugging-face
+embedding_id: null
 event_name: ''
 ---
 

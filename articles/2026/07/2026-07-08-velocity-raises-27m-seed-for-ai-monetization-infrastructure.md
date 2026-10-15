@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-embedding_id: 2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure
+embedding_id: null
 event_name: ''
 ---
 

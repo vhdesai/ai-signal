@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
 url_canonical: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 3d3419963c9883ecb7fcba1088f780c00fd57b89dbc7ef1430152770d36668eb
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
-embedding_id: 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
+embedding_id: null
 event_name: ''
 ---
 

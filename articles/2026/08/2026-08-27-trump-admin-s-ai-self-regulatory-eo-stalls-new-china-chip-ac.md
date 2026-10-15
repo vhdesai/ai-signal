@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
-embedding_id: 2026-08-27-trump-admin-s-ai-self-regulatory-eo-stalls-new-china-chip-ac
+embedding_id: null
 event_name: ''
 ---
 

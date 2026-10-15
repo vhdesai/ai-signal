@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-embedding_id: 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
+embedding_id: null
 event_name: ''
 ---
 

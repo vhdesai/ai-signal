@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 - 2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation
-embedding_id: 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
+embedding_id: null
 event_name: ''
 ---
 

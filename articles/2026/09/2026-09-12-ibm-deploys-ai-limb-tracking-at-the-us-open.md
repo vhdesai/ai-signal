@@ -28,7 +28,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us
 related_article_ids: []
-embedding_id: 2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open
+embedding_id: null
 event_name: ''
 ---
 

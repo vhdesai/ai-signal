@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-embedding_id: 2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub
+embedding_id: null
 event_name: ''
 ---
 

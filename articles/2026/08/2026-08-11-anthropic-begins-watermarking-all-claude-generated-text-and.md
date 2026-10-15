@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
 - 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
-embedding_id: 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: Crunchbase News
 url_original: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
 url_canonical: https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_062305_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: f5f1bc96fca73a9ccc5323c952c4078330fb20caf699651c7ddfada5278b4c1e
@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: 2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak
+embedding_id: null
 event_name: ''
 ---
 

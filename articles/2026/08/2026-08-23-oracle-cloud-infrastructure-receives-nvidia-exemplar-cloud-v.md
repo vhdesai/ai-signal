@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-embedding_id: 2026-08-23-oracle-cloud-infrastructure-receives-nvidia-exemplar-cloud-v
+embedding_id: null
 event_name: ''
 ---
 

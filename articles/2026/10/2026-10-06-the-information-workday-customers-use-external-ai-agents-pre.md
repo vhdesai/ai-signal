@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 - 2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as
 - 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
-embedding_id: 2026-10-06-the-information-workday-customers-use-external-ai-agents-pre
+embedding_id: null
 event_name: ''
 ---
 

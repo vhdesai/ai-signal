@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
 - 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city
-embedding_id: 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
+embedding_id: null
 event_name: ''
 ---
 

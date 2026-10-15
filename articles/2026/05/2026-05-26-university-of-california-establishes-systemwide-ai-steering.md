@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: University of California
 url_original: https://www.universityofcalifornia.edu/press-room/new-uc-steering-committee-guide-use-artificial-intelligence-across-uc-system-and-beyond
 url_canonical: https://www.universityofcalifornia.edu/press-room/new-uc-steering-committee-guide-use-artificial-intelligence-across-uc-system-and-beyond
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: a195ec782b47f0f5b8508006fa3938bf981b29b808cf223e84c90e2fb3ab3080
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: 2026-05-26-university-of-california-establishes-systemwide-ai-steering
+embedding_id: null
 event_name: ''
 ---
 

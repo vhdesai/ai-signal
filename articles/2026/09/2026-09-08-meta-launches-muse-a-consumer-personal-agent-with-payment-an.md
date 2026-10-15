@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-29-meta-launches-muse-for-small-business
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
-embedding_id: 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
+embedding_id: null
 event_name: ''
 ---
 

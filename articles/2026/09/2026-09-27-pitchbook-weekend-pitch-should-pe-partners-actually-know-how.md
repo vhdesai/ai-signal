@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-pitchbook-should-pe-partners-know-how-to-use-ai-carlyle-at-9
 related_article_ids: []
-embedding_id: 2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how
+embedding_id: null
 event_name: ''
 ---
 

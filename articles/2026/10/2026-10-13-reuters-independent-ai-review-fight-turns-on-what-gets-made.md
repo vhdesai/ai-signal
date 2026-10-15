@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-01-ai-and-the-blurring-of-reality
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-embedding_id: 2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made
+embedding_id: null
 event_name: ''
 ---
 

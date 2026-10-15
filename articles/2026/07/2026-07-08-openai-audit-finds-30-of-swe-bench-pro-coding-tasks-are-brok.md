@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-embedding_id: 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
+embedding_id: null
 event_name: ''
 ---
 

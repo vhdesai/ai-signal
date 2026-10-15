@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3370711/chinas-iluvatar-corexs-first-ai-computing-supernode-squeezes-most-gpus-1-system
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 03ea702dfb2d51be866201f7ba4645579565af76b5cb931ef756576ef31d193e
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
-embedding_id: 2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet
+embedding_id: null
 event_name: ''
 ---
 

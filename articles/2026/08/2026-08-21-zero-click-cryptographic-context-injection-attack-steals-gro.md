@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: SecurityWeek
 url_original: https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/
 url_canonical: https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: ffb54e1fe1e409590c108834f3a28b148e5fd81646f743983c15eb3298d4b872
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
-embedding_id: 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
+embedding_id: null
 event_name: ''
 ---
 

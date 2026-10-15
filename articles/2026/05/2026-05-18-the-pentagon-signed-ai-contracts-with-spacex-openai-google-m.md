@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
-embedding_id: 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
+embedding_id: null
 event_name: ''
 ---
 

@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
-embedding_id: 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
+embedding_id: null
 event_name: ''
 ---
 

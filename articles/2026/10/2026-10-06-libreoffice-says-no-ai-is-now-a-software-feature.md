@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-06-libreoffice-says-no-ai-is-now-a-product-feature
 related_article_ids: []
-embedding_id: 2026-10-06-libreoffice-says-no-ai-is-now-a-software-feature
+embedding_id: null
 event_name: ''
 ---
 

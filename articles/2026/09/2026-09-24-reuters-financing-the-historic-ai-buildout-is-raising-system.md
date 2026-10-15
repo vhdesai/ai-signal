@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-embedding_id: 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
+embedding_id: null
 event_name: ''
 ---
 

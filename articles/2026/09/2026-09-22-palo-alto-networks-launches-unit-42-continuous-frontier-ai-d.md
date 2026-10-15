@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
-embedding_id: 2026-09-22-palo-alto-networks-launches-unit-42-continuous-frontier-ai-d
+embedding_id: null
 event_name: ''
 ---
 

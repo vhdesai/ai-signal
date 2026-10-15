@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
-embedding_id: 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
+embedding_id: null
 event_name: ''
 ---
 

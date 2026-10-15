@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
-embedding_id: 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
+embedding_id: null
 event_name: ''
 ---
 

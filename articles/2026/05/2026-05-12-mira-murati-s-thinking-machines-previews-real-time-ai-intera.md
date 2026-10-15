@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f
-embedding_id: 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
+embedding_id: null
 event_name: ''
 ---
 

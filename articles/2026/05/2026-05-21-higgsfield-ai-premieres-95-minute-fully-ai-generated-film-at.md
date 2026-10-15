@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 - 2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr
-embedding_id: 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
+embedding_id: null
 event_name: ''
 ---
 

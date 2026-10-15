@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s
 related_article_ids: []
-embedding_id: 2026-09-04-anthropic-s-claude-produces-first-computer-checked-proof-of
+embedding_id: null
 event_name: ''
 ---
 

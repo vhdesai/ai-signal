@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-openai-details-gpt-red-an-automated-red-teamer-for-prompt-in
 related_article_ids: []
-embedding_id: 2026-07-16-openai-details-gpt-red-an-automated-red-teamer-that-hardens
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-embedding_id: 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains
-embedding_id: 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+embedding_id: null
 event_name: ''
 ---
 

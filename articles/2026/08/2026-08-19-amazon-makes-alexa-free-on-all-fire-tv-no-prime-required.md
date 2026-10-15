@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 related_article_ids: []
-embedding_id: 2026-08-19-amazon-makes-alexa-free-on-all-fire-tv-no-prime-required
+embedding_id: null
 event_name: ''
 ---
 

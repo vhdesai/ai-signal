@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab
 - 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 - 2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi
-embedding_id: 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
+embedding_id: null
 event_name: ''
 ---
 

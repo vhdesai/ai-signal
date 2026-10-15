@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access
 related_article_ids: []
-embedding_id: 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
+embedding_id: null
 event_name: ''
 ---
 

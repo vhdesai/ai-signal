@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-embedding_id: 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
+embedding_id: null
 event_name: ''
 ---
 

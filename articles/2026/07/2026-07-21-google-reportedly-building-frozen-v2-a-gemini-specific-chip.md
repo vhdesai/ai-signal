@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-embedding_id: 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
+embedding_id: null
 event_name: ''
 ---
 

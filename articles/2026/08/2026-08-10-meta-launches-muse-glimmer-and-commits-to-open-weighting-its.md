@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 related_article_ids: []
-embedding_id: 2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue
 - 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 - 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
-embedding_id: 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
+embedding_id: null
 event_name: ''
 ---
 

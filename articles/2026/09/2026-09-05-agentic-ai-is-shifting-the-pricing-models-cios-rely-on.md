@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/agentic-ai-outcome-pricing-models/829023/
 url_canonical: https://www.ciodive.com/news/agentic-ai-outcome-pricing-models/829023/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-05_070426_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 56c01f7a4cc053b4a7b4fef6e3d06036c88089dd8fd7cc744a7249201d304b5b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su
 - 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
-embedding_id: 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
+embedding_id: null
 event_name: ''
 ---
 

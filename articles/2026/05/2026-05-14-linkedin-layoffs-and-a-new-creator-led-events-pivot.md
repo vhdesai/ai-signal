@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs
-embedding_id: 2026-05-14-linkedin-layoffs-and-a-new-creator-led-events-pivot
+embedding_id: null
 event_name: ''
 ---
 

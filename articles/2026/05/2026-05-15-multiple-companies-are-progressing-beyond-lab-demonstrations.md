@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 - 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
-embedding_id: 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
+embedding_id: null
 event_name: ''
 ---
 

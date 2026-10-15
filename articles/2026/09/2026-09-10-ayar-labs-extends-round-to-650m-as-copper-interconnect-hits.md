@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 - 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
-embedding_id: 2026-09-10-ayar-labs-extends-round-to-650m-as-copper-interconnect-hits
+embedding_id: null
 event_name: ''
 ---
 

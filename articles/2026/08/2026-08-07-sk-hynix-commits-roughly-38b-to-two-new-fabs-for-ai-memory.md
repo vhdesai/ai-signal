@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
 related_article_ids: []
-embedding_id: 2026-08-07-sk-hynix-commits-roughly-38b-to-two-new-fabs-for-ai-memory
+embedding_id: null
 event_name: ''
 ---
 

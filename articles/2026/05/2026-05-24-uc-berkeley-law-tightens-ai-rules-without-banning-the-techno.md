@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 - 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
 - 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
-embedding_id: 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
+embedding_id: null
 event_name: ''
 ---
 

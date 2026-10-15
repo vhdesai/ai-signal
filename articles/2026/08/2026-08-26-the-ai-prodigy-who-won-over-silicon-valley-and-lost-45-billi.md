@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
 - 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 - 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
-embedding_id: 2026-08-26-the-ai-prodigy-who-won-over-silicon-valley-and-lost-45-billi
+embedding_id: null
 event_name: ''
 ---
 

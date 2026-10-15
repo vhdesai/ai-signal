@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
-embedding_id: 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
+embedding_id: null
 event_name: ''
 ---
 

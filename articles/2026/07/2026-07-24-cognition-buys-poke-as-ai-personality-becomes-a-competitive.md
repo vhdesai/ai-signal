@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
 - 2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e
 - 2026-08-21-ai-coding-tools-are-reinforcing-javascript-and-typescript-do
-embedding_id: 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
+embedding_id: null
 event_name: ''
 ---
 

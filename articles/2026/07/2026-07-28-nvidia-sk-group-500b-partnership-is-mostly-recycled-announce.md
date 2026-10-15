@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes-ch
-embedding_id: 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
+embedding_id: null
 event_name: ''
 ---
 

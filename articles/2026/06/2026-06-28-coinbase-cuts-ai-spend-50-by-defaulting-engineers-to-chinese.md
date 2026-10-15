@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-06-29-coinbase-is-switching-to-chinese-ai-models-like-glm-5-2-and
 - 2026-07-19-ai-race-splits-as-china-wages-an-open-weight-model-insurgenc
-embedding_id: 2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese
+embedding_id: null
 event_name: ''
 ---
 

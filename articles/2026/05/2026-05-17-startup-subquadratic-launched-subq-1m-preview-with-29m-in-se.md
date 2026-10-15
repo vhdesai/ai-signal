@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-subquadratic-released-the-first-commercially-available-non-t
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-embedding_id: 2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se
+embedding_id: null
 event_name: ''
 ---
 

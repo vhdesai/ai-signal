@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-can-muse-overcome-meta-s-trust-issues
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
-embedding_id: 2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc
+embedding_id: null
 event_name: ''
 ---
 

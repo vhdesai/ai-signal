@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip
-embedding_id: 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
+embedding_id: null
 event_name: ''
 ---
 

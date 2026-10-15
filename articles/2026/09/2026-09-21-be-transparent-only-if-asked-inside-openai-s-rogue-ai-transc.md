@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-openai-discloses-six-additional-rogue-agent-incidents-and-fo
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
-embedding_id: 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
+embedding_id: null
 event_name: ''
 ---
 

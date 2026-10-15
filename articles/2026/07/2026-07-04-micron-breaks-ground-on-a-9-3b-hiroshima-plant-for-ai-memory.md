@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 related_article_ids: []
-embedding_id: 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
+embedding_id: null
 event_name: ''
 ---
 

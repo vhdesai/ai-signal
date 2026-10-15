@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-nvidia-backed
 - 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
-embedding_id: 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
+embedding_id: null
 event_name: ''
 ---
 

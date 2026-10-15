@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
 related_article_ids: []
-embedding_id: 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
+embedding_id: null
 event_name: ''
 ---
 

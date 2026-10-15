@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: The Hill
 url_original: https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/
 url_canonical: https://thehill.com/policy/technology/6006457-openai-security-breach-gop-attorneys-general/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_061916_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 5011b60d4f53d17fe834c939eb906e70c3e9f0f6f7929e59647ba3fcbec517bf
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-embedding_id: 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
+embedding_id: null
 event_name: ''
 ---
 

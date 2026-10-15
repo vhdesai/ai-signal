@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-embedding_id: 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
 related_article_ids: []
-embedding_id: 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq
+embedding_id: null
 event_name: ''
 ---
 

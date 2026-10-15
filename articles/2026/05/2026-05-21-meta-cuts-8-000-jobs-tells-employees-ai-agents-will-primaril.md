@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
+embedding_id: null
 event_name: ''
 ---
 

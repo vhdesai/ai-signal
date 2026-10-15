@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
-embedding_id: 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
+embedding_id: null
 event_name: ''
 ---
 

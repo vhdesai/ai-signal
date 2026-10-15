@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 - 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
-embedding_id: 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
+embedding_id: null
 event_name: ''
 ---
 

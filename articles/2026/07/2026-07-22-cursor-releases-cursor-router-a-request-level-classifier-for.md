@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
-embedding_id: 2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for
+embedding_id: null
 event_name: ''
 ---
 

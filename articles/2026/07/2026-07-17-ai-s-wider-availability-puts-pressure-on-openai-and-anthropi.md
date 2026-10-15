@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-embedding_id: 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
+embedding_id: null
 event_name: ''
 ---
 

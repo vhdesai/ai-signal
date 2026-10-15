@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
-embedding_id: 2026-06-26-from-a-team-including-interpretability-researcher-neel-nanda
+embedding_id: null
 event_name: ''
 ---
 

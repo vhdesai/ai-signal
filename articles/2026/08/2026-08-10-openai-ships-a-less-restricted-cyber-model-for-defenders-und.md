@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
 - 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
-embedding_id: 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
+embedding_id: null
 event_name: ''
 ---
 

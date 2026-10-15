@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming
-embedding_id: 2026-04-20-reuters-le-monde-april-20-2026-french-prosecutors-summoned-e
+embedding_id: null
 event_name: ''
 ---
 

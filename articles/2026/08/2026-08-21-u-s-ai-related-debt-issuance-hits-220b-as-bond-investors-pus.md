@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
-embedding_id: 2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus
+embedding_id: null
 event_name: ''
 ---
 

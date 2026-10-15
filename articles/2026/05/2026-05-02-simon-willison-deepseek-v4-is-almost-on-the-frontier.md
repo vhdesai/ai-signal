@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
 - 2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-embedding_id: 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
+embedding_id: null
 event_name: ''
 ---
 

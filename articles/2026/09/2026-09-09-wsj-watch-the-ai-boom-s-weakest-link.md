@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-embedding_id: 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
+embedding_id: null
 event_name: ''
 ---
 

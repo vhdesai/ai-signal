@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
-embedding_id: 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
+embedding_id: null
 event_name: ''
 ---
 

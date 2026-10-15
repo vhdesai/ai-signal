@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
 related_article_ids: []
-embedding_id: 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
+embedding_id: null
 event_name: ''
 ---
 

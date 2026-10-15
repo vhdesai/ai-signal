@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 related_article_ids: []
-embedding_id: 2026-07-31-amazon-surges-15-as-aws-reaccelerates-apple-falls-7-on-suppl
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
-embedding_id: 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
+embedding_id: null
 event_name: ''
 ---
 

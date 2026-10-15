@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 related_article_ids: []
-embedding_id: 2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders
+embedding_id: null
 event_name: ''
 ---
 

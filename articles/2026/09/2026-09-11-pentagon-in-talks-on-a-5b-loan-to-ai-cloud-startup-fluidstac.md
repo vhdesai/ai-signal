@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
-embedding_id: 2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac
+embedding_id: null
 event_name: ''
 ---
 

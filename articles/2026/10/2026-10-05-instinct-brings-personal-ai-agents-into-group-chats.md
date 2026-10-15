@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-10-11-voice-ai-still-lacks-a-clear-chatgpt-style-adoption-moment-e
-embedding_id: 2026-10-05-instinct-brings-personal-ai-agents-into-group-chats
+embedding_id: null
 event_name: ''
 ---
 

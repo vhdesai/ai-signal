@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
-embedding_id: 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
+embedding_id: null
 event_name: ''
 ---
 

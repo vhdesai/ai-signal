@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 related_article_ids: []
-embedding_id: 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
+embedding_id: null
 event_name: ''
 ---
 

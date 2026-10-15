@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
-embedding_id: 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th
 - 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-embedding_id: 2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in
+embedding_id: null
 event_name: ''
 ---
 

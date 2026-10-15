@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-openai-t
-embedding_id: 2026-08-24-softbank-plans-record-retail-bond-issuance-amid-ai-push
+embedding_id: null
 event_name: ''
 ---
 

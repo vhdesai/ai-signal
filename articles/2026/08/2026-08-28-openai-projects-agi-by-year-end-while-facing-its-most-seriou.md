@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: 2026-08-28-openai-projects-agi-by-year-end-while-facing-its-most-seriou
+embedding_id: null
 event_name: ''
 ---
 

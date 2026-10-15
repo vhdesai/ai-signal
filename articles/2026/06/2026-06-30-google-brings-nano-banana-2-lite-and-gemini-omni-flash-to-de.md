@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-10-06-google-s-nano-banana-2-1-improves-image-generation-economics
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-embedding_id: 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-buildots-raises-130m-as-ai-data-center-construction-becomes
 related_article_ids: []
-embedding_id: 2026-09-14-buildots-raises-130m-with-intel-capital-participating-on-ai
+embedding_id: null
 event_name: ''
 ---
 

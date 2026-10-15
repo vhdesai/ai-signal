@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
-embedding_id: 2026-08-14-dual-use-alarm-as-a-chinese-open-weights-model-rivals-us-fro
+embedding_id: null
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-12-july-13-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-08-01-the-ai-brief-august-1-2026
-embedding_id: 2026-07-04-deployment-silicon-power-take-center-stage
+embedding_id: null
 event_name: ''
 ---
 

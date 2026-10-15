@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr
 related_article_ids: []
-embedding_id: 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
+embedding_id: null
 event_name: ''
 ---
 

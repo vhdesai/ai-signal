@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-embedding_id: 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
+embedding_id: null
 event_name: ''
 ---
 

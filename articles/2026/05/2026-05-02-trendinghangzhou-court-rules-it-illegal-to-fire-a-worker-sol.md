@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 - 2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for
-embedding_id: 2026-05-02-trendinghangzhou-court-rules-it-illegal-to-fire-a-worker-sol
+embedding_id: null
 event_name: ''
 ---
 

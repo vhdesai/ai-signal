@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 - 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
-embedding_id: 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
+embedding_id: null
 event_name: ''
 ---
 

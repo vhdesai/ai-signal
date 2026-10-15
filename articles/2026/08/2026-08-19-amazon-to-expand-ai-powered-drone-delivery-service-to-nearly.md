@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo
 - 2026-04-09-products-tools
-embedding_id: 2026-08-19-amazon-to-expand-ai-powered-drone-delivery-service-to-nearly
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
 - 2026-10-09-openai-fires-three-safety-researchers-former-employees-press
-embedding_id: 2026-07-12-openai-safety-governance
+embedding_id: null
 event_name: ''
 ---
 

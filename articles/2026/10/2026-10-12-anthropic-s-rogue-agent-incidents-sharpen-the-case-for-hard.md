@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt
 related_article_ids: []
-embedding_id: 2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard
+embedding_id: null
 event_name: ''
 ---
 

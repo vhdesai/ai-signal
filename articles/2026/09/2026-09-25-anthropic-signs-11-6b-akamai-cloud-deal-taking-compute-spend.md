@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap
 related_article_ids: []
-embedding_id: 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
+embedding_id: null
 event_name: ''
 ---
 

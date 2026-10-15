@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
-embedding_id: 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
+embedding_id: null
 event_name: ''
 ---
 

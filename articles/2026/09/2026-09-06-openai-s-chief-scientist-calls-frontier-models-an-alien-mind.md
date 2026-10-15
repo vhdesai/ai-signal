@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
-embedding_id: 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
+embedding_id: null
 event_name: ''
 ---
 

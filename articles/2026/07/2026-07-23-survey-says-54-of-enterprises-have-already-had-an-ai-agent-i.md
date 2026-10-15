@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
-embedding_id: 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 - 2026-08-20-nvidia-plots-china-comeback-with-new-u-s-compliant-ai-chip
-embedding_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-embedding_id: 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
+embedding_id: null
 event_name: ''
 ---
 

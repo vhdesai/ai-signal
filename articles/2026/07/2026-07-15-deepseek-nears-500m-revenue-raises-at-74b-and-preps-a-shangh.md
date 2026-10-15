@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p
 related_article_ids: []
-embedding_id: 2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh
+embedding_id: null
 event_name: ''
 ---
 

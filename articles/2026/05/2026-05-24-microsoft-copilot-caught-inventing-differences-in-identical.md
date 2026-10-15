@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
 - 2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa
-embedding_id: 2026-05-24-microsoft-copilot-caught-inventing-differences-in-identical
+embedding_id: null
 event_name: ''
 ---
 

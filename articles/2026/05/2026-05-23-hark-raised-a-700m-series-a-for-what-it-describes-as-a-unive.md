@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
 - 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
-embedding_id: 2026-05-23-hark-raised-a-700m-series-a-for-what-it-describes-as-a-unive
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-another-35b-investment-in-openai
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
-embedding_id: 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
+embedding_id: null
 event_name: ''
 ---
 

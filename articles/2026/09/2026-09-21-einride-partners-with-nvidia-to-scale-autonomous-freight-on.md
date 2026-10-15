@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
 - 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-embedding_id: 2026-09-21-einride-partners-with-nvidia-to-scale-autonomous-freight-on
+embedding_id: null
 event_name: ''
 ---
 

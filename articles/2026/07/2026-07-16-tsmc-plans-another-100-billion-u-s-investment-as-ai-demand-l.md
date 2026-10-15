@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 - 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 - 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
-embedding_id: 2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l
+embedding_id: null
 event_name: ''
 ---
 

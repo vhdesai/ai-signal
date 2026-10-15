@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
-embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
+embedding_id: null
 event_name: ''
 ---
 

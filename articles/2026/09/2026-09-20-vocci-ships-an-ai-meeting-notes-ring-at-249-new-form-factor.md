@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
 - 2026-09-14-superhuman-acquires-ai-notetaker-fathom-to-push-into-agentic
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
-embedding_id: 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
+embedding_id: null
 event_name: ''
 ---
 

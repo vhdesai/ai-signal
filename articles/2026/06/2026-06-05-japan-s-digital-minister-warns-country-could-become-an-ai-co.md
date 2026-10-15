@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
-embedding_id: 2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co
+embedding_id: null
 event_name: ''
 ---
 

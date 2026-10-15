@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
-embedding_id: 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-07'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3366436/how-generative-ai-helps-sensetime-turn-profit-even-chinese-peers-struggle
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 8f7db8e665f73002b8545940d2a8cfd33a453ce37aad0aa68558221fb892792b
 normalized_title_hash: 1612f55ee4c7b1b7
@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac
 related_article_ids: []
-embedding_id: 2026-09-07-sensetime-returns-to-profit-by-pivoting-from-model-size-race
+embedding_id: null
 event_name: ''
 ---
 

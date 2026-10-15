@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
-embedding_id: 2026-09-04-anthropic-explores-bringing-more-billing-and-payments-techno
+embedding_id: null
 event_name: ''
 ---
 

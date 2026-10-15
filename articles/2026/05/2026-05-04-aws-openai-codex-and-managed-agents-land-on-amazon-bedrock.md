@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
-embedding_id: 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
+embedding_id: null
 event_name: ''
 ---
 

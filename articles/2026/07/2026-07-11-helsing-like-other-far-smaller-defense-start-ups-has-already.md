@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
 - 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
-embedding_id: 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
+embedding_id: null
 event_name: ''
 ---
 

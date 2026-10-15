@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
+embedding_id: null
 event_name: ''
 ---
 

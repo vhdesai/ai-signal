@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 - 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
-embedding_id: 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
+embedding_id: null
 event_name: ''
 ---
 

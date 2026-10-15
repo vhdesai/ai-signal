@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
-embedding_id: 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
+embedding_id: null
 event_name: ''
 ---
 

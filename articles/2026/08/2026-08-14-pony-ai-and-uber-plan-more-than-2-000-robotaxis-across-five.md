@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-embedding_id: 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
+embedding_id: null
 event_name: ''
 ---
 

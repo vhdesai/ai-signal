@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 - 2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s
-embedding_id: 2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research
+embedding_id: null
 event_name: ''
 ---
 

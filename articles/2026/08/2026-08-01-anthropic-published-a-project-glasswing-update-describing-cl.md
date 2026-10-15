@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
-embedding_id: 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
+embedding_id: null
 event_name: ''
 ---
 

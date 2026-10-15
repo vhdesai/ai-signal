@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
-embedding_id: 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
+embedding_id: null
 event_name: ''
 ---
 

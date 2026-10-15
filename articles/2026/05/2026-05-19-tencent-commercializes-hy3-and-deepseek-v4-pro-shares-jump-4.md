@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 related_article_ids: []
-embedding_id: 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
+embedding_id: null
 event_name: ''
 ---
 

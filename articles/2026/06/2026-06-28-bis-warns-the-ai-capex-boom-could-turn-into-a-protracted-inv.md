@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
 - 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
-embedding_id: 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
+embedding_id: null
 event_name: ''
 ---
 

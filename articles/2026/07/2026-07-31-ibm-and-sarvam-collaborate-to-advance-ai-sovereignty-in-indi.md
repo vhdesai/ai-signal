@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
-embedding_id: 2026-07-31-ibm-and-sarvam-collaborate-to-advance-ai-sovereignty-in-indi
+embedding_id: null
 event_name: ''
 ---
 

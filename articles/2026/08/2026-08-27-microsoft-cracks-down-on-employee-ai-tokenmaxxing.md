@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 - 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 - 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
-embedding_id: 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
+embedding_id: null
 event_name: ''
 ---
 

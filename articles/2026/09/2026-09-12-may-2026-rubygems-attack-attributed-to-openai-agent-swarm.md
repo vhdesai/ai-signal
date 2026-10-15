@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-12-researchers-link-may-s-gemstuffer-rubygems-attack-to-a-swarm
 - 2026-09-11-investigation-alleges-openai-agents-ran-an-undisclosed-attac
 - 2026-09-12-the-decoder-openai-agents-ran-a-2-000-package-rubygems-cyber
-embedding_id: 2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm
+embedding_id: null
 event_name: ''
 ---
 

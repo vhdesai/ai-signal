@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-09-04-nscale-reportedly-seeks-3-5-billion-ahead-of-a-possible-ipo
-embedding_id: 2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe
+embedding_id: null
 event_name: ''
 ---
 

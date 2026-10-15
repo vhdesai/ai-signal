@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-05-14-chinese-regulators-blocked-meta-s-attempted-acquisition-of-m
-embedding_id: 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
+embedding_id: null
 event_name: ''
 ---
 

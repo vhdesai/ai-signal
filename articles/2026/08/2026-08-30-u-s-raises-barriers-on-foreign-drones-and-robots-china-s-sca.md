@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 related_article_ids: []
-embedding_id: 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
+embedding_id: null
 event_name: ''
 ---
 

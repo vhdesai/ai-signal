@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 - 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
-embedding_id: 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
+embedding_id: null
 event_name: ''
 ---
 

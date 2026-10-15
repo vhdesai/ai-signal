@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a
 related_article_ids: []
-embedding_id: 2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 - 2026-08-27-openai-anthropic-google-and-100-companies-call-for-collectiv
-embedding_id: 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
+embedding_id: null
 event_name: ''
 ---
 

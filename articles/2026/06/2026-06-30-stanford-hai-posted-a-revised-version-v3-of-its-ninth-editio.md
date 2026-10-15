@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: 2026-06-30-stanford-hai-posted-a-revised-version-v3-of-its-ninth-editio
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
-embedding_id: 2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein
+embedding_id: null
 event_name: ''
 ---
 

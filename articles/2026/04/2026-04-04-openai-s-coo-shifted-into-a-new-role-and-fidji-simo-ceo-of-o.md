@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-embedding_id: 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
+embedding_id: null
 event_name: ''
 ---
 

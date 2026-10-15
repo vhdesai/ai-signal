@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
 - 2026-09-23-enveda-raises-311m-at-a-2b-valuation-for-nature-derived-ai-d
 - 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
-embedding_id: 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
+embedding_id: null
 event_name: ''
 ---
 

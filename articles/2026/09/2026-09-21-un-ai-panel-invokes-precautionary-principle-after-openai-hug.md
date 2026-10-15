@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
 - 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 - 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
-embedding_id: 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
+embedding_id: null
 event_name: ''
 ---
 

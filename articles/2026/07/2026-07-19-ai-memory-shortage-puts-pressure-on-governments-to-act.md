@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
-embedding_id: 2026-07-19-ai-memory-shortage-puts-pressure-on-governments-to-act
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 - 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
-embedding_id: 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
+embedding_id: null
 event_name: ''
 ---
 

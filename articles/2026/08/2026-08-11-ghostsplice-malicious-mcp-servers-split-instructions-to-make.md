@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru
-embedding_id: 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
+embedding_id: null
 event_name: ''
 ---
 

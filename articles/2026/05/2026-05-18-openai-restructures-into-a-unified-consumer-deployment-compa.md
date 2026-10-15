@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
-embedding_id: 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
+embedding_id: null
 event_name: ''
 ---
 

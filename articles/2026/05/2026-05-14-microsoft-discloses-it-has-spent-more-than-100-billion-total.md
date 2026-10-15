@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-embedding_id: 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
+embedding_id: null
 event_name: ''
 ---
 

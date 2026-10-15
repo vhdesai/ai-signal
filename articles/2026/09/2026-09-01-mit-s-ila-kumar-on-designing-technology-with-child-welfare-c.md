@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-08-06-openai-partners-with-the-american-psychological-association
 - 2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op
 - 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
-embedding_id: 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
+embedding_id: null
 event_name: ''
 ---
 

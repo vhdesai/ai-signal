@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi
 related_article_ids: []
-embedding_id: 2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-openai-executive-warns-of-ongoing-persistent-ai-driven-cyber
 related_article_ids: []
-embedding_id: 2026-08-23-openai-leader-warns-of-ongoing-persistent-ai-driven-cyberatt
+embedding_id: null
 event_name: ''
 ---
 

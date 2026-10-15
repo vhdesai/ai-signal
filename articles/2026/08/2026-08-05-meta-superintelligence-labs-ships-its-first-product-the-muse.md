@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
 related_article_ids:
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-embedding_id: 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
+embedding_id: null
 event_name: ''
 ---
 

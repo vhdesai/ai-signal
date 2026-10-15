@@ -6,7 +6,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 1e73aaf7e476b472ad2ddcff91a2df84b6ab539b402131c0e840bf86ed09d941
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
+embedding_id: null
 event_name: ''
 ---
 

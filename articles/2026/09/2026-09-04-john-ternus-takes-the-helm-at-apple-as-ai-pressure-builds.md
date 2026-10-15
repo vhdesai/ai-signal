@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
-embedding_id: 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
+embedding_id: null
 event_name: ''
 ---
 

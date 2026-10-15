@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
 related_article_ids: []
-embedding_id: 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
+embedding_id: null
 event_name: ''
 ---
 

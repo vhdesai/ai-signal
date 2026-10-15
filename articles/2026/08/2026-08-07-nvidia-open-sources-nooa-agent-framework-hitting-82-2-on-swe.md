@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
 - 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 - 2026-09-28-nvidia-ships-open-agent-safety-platform-openshell-runtime-pl
-embedding_id: 2026-08-07-nvidia-open-sources-nooa-agent-framework-hitting-82-2-on-swe
+embedding_id: null
 event_name: ''
 ---
 

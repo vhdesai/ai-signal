@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
-embedding_id: 2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l
+embedding_id: null
 event_name: ''
 ---
 

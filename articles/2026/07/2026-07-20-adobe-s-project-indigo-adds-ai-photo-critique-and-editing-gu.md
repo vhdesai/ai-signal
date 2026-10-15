@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 - 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
-embedding_id: 2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu
+embedding_id: null
 event_name: ''
 ---
 

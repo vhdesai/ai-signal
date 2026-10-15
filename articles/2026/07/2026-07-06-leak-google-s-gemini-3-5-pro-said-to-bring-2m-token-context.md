@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 related_article_ids: []
-embedding_id: 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
+embedding_id: null
 event_name: ''
 ---
 

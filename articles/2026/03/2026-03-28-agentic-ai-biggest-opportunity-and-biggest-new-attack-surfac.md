@@ -24,7 +24,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
-embedding_id: 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
+embedding_id: null
 event_name: ''
 ---
 

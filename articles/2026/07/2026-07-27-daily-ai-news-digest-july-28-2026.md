@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-embedding_id: 2026-07-27-daily-ai-news-digest-july-28-2026
+embedding_id: null
 event_name: ''
 ---
 

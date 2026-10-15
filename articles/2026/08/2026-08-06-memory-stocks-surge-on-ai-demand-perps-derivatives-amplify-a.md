@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-embedding_id: 2026-08-06-memory-stocks-surge-on-ai-demand-perps-derivatives-amplify-a
+embedding_id: null
 event_name: ''
 ---
 

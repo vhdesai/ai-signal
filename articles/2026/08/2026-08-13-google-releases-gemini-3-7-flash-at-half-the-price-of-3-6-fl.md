@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 related_article_ids: []
-embedding_id: 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
+embedding_id: null
 event_name: ''
 ---
 

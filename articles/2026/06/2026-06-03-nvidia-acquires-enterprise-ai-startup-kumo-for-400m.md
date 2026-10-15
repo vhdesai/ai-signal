@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
 - 2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion
 - 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
-embedding_id: 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
+embedding_id: null
 event_name: ''
 ---
 

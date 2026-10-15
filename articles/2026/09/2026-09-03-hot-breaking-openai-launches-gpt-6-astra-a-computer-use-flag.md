@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-openai-ships-gpt-6-astra-its-first-model-at-the-critical-cyb
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric
-embedding_id: 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
+embedding_id: null
 event_name: ''
 ---
 

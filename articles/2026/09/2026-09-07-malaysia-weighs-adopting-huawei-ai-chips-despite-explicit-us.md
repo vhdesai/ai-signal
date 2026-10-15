@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-embedding_id: 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
+embedding_id: null
 event_name: ''
 ---
 

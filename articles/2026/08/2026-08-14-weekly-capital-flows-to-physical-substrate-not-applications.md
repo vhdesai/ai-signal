@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 - 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
 - 2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals
-embedding_id: 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
+embedding_id: null
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
-embedding_id: 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
+embedding_id: null
 event_name: ''
 ---
 

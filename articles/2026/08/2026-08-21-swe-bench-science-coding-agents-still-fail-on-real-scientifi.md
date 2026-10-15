@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
-embedding_id: 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
+embedding_id: null
 event_name: ''
 ---
 

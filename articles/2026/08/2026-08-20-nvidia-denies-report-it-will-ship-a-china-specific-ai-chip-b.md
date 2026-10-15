@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-20-nvidia-reported-to-ship-a-china-market-ai-chip-in-small-volu
 - 2026-08-20-nvidia-plots-china-comeback-with-new-ai-chip
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
-embedding_id: 2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b
+embedding_id: null
 event_name: ''
 ---
 

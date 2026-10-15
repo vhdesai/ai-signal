@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
-embedding_id: 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
-embedding_id: 2026-09-26-former-ukrainian-defense-minister-fedorov-pitches-a-private
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
-embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
+embedding_id: null
 event_name: ''
 ---
 

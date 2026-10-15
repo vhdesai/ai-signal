@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 related_article_ids: []
-embedding_id: 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
+embedding_id: null
 event_name: ''
 ---
 

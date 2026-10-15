@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
-embedding_id: 2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti
+embedding_id: null
 event_name: ''
 ---
 

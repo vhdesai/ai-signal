@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron
-embedding_id: 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
+embedding_id: null
 event_name: ''
 ---
 

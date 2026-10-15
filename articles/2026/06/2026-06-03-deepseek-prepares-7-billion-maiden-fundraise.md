@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
 - 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
-embedding_id: 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 - 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
-embedding_id: 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
+embedding_id: null
 event_name: ''
 ---
 

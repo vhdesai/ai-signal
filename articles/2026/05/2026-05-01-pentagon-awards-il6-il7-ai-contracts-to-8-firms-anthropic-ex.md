@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
-embedding_id: 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
+embedding_id: null
 event_name: ''
 ---
 

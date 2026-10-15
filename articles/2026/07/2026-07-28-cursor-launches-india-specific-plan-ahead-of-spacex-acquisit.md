@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
-embedding_id: 2026-07-28-cursor-launches-india-specific-plan-ahead-of-spacex-acquisit
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-amazon-to-shut-mechanical-turk-on-september-30-after-21-year
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination
-embedding_id: 2026-07-06-products-amazon-winds-down-mechanical-turk-closing-it-to-new
+embedding_id: null
 event_name: ''
 ---
 

@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-09-14-monday-september-14-2026
 - 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
+embedding_id: null
 event_name: ''
 ---
 

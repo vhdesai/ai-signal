@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
-embedding_id: 2026-05-23-at-google-i-o-ceo-sundar-pichai-declared-the-start-of-the-ag
+embedding_id: null
 event_name: ''
 ---
 

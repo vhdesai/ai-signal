@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical
 related_article_ids: []
-embedding_id: 2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-infr
+embedding_id: null
 event_name: ''
 ---
 

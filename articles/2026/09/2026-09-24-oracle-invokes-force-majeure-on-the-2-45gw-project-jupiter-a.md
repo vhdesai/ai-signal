@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-25-oracle-issues-force-majeure-notice-on-project-jupiter-openai
 - 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 - 2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla
-embedding_id: 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
+embedding_id: null
 event_name: ''
 ---
 

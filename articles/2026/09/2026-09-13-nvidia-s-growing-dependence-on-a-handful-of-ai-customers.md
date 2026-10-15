@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
 related_article_ids: []
-embedding_id: 2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers
+embedding_id: null
 event_name: ''
 ---
 

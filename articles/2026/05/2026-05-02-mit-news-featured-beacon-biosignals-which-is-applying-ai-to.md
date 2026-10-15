@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo
 - 2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s
 - 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
-embedding_id: 2026-05-02-mit-news-featured-beacon-biosignals-which-is-applying-ai-to
+embedding_id: null
 event_name: ''
 ---
 

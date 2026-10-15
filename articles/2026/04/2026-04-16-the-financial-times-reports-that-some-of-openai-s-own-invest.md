@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 - 2026-04-01-despite-its-record-primary-fundraise-openai-shares-have-effe
-embedding_id: 2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest
+embedding_id: null
 event_name: ''
 ---
 

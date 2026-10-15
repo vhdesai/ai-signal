@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
-embedding_id: 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+embedding_id: null
 event_name: ''
 ---
 

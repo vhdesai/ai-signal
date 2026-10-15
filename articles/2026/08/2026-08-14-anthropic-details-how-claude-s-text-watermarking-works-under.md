@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
 related_article_ids: []
-embedding_id: 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
+embedding_id: null
 event_name: ''
 ---
 

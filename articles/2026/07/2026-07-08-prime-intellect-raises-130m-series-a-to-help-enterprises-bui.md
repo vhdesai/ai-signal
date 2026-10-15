@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
 related_article_ids: []
-embedding_id: 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: Crunchbase News**
 url_original: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
 url_canonical: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: fdfd0adeb363831551ca062402fd7898994fa72eb0088ed75c78754504ca67a2
 normalized_title_hash: 95c0de5707ad0621
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 - 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
-embedding_id: 2026-07-17-ai-capital-spreads-across-drug-discovery-policy-and-robotics
+embedding_id: null
 event_name: ''
 ---
 

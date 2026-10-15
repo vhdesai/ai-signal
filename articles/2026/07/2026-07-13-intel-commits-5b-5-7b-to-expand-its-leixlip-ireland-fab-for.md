@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry
 - 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
-embedding_id: 2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for
+embedding_id: null
 event_name: ''
 ---
 

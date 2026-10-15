@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
 - 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
-embedding_id: 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
 - 2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their
-embedding_id: 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
+embedding_id: null
 event_name: ''
 ---
 

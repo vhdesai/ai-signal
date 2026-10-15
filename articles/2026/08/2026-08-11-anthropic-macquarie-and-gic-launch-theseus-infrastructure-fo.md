@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
 related_article_ids: []
-embedding_id: 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
+embedding_id: null
 event_name: ''
 ---
 

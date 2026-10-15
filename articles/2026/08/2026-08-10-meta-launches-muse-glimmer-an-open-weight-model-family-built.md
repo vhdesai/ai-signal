@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its
 - 2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
-embedding_id: 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
+embedding_id: null
 event_name: ''
 ---
 

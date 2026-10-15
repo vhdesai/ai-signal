@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 - 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b
-embedding_id: 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
+embedding_id: null
 event_name: ''
 ---
 

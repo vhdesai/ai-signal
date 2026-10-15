@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
 - 2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne
 - 2026-09-02-nvidia-joins-ipronics-125-million-round-for-programmable-opt
-embedding_id: 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: 2026-08-21-anthropic-opens-claude-security-scans-powered-by-mythos-5-to
+embedding_id: null
 event_name: ''
 ---
 

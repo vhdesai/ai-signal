@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
-embedding_id: 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
+embedding_id: null
 event_name: ''
 ---
 

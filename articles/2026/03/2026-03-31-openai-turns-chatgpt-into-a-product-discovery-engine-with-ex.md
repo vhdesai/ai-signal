@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
-embedding_id: 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
+embedding_id: null
 event_name: ''
 ---
 

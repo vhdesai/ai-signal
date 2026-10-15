@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
-embedding_id: 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
+embedding_id: null
 event_name: ''
 ---
 

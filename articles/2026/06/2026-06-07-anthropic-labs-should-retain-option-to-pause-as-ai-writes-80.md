@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
 related_article_ids: []
-embedding_id: 2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80
+embedding_id: null
 event_name: ''
 ---
 

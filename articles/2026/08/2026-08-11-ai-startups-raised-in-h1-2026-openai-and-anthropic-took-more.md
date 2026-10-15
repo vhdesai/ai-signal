@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 related_article_ids: []
-embedding_id: 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
+embedding_id: null
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-embedding_id: 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
+embedding_id: null
 event_name: ''
 ---
 

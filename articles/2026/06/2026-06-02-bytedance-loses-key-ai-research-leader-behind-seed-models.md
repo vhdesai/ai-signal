@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-bytedance-founder-rules-out-distillation-on-ai-models
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
-embedding_id: 2026-06-02-bytedance-loses-key-ai-research-leader-behind-seed-models
+embedding_id: null
 event_name: ''
 ---
 

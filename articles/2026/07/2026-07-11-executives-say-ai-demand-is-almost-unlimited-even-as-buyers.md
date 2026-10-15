@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit
 - 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
-embedding_id: 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
+embedding_id: null
 event_name: ''
 ---
 

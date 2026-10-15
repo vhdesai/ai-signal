@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-openai-enterprise-revenue-passes-consumer-for-the-first-time
 related_article_ids: []
-embedding_id: 2026-08-14-openai-says-enterprise-revenue-has-overtaken-chatgpt-consume
+embedding_id: null
 event_name: ''
 ---
 

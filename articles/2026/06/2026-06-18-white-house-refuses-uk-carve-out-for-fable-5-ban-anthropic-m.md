@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-19-the-trump-administration-s-commerce-department-order-forcing
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
-embedding_id: 2026-06-18-white-house-refuses-uk-carve-out-for-fable-5-ban-anthropic-m
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-19-anthropic-lets-mythos-users-share-cyber-threats-with-one-ano
-embedding_id: 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+embedding_id: null
 event_name: ''
 ---
 

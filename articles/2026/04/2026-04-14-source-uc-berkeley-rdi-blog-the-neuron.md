@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-academic-research
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
-embedding_id: 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
+embedding_id: null
 event_name: ''
 ---
 

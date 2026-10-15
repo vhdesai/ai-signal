@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
-embedding_id: 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
+embedding_id: null
 event_name: ''
 ---
 

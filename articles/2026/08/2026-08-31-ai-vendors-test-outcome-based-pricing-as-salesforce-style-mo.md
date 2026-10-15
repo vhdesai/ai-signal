@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 - 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-09-03-snowflake-defies-outcome-pricing-pressure-as-ai-coding-adopt
-embedding_id: 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
+embedding_id: null
 event_name: ''
 ---
 

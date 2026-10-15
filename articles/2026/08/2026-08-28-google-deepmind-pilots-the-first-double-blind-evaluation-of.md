@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-deepmind-runs-first-double-blind-cryptographic-evaluation-of
 related_article_ids: []
-embedding_id: 2026-08-28-google-deepmind-pilots-the-first-double-blind-evaluation-of
+embedding_id: null
 event_name: ''
 ---
 

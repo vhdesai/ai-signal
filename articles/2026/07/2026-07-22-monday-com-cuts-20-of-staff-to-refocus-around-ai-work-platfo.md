@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
-embedding_id: 2026-07-22-monday-com-cuts-20-of-staff-to-refocus-around-ai-work-platfo
+embedding_id: null
 event_name: ''
 ---
 

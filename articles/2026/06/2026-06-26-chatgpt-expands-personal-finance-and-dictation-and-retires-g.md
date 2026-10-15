@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users
-embedding_id: 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
+embedding_id: null
 event_name: ''
 ---
 

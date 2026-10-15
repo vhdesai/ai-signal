@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
-embedding_id: 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
+embedding_id: null
 event_name: ''
 ---
 

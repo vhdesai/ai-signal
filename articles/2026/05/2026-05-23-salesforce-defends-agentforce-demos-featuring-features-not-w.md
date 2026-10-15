@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 - 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
-embedding_id: 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
+embedding_id: null
 event_name: ''
 ---
 

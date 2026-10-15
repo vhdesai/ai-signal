@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
 related_article_ids: []
-embedding_id: 2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b
+embedding_id: null
 event_name: ''
 ---
 

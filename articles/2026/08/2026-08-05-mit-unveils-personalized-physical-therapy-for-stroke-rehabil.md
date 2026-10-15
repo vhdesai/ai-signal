@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: MIT News
 url_original: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
 url_canonical: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 38af1692cf3fef0ee579d2f13f726683a0f0ac03763e60651824c6d899d3401b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
-embedding_id: 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
+embedding_id: null
 event_name: ''
 ---
 

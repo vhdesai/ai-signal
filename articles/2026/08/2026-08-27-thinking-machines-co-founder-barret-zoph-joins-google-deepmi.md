@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-barret-zoph-returns-to-google-deepmind-as-vp-of-research
 related_article_ids: []
-embedding_id: 2026-08-27-thinking-machines-co-founder-barret-zoph-joins-google-deepmi
+embedding_id: null
 event_name: ''
 ---
 

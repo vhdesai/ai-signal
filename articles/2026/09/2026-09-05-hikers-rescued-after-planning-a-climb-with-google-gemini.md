@@ -31,7 +31,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla
 - 2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa
-embedding_id: 2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini
+embedding_id: null
 event_name: ''
 ---
 

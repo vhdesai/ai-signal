@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-02-google-ships-gemini-3-8-flash-and-gates-its-cyber-variant-be
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
-embedding_id: 2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa
+embedding_id: null
 event_name: ''
 ---
 

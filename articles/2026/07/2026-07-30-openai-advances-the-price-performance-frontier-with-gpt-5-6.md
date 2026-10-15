@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-openai-updates-gpt-5-6-price-performance-positioning
 - 2026-08-04-openai-updates-gpt-5-6-price-performance-positioning
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-adds-rea
-embedding_id: 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-embedding_id: 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
+embedding_id: null
 event_name: ''
 ---
 

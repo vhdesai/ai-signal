@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-09-14-nvidia-expands-open-source-cuda-q-with-cuda-q-logical-for-fa
 - 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
-embedding_id: 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
+embedding_id: null
 event_name: ''
 ---
 

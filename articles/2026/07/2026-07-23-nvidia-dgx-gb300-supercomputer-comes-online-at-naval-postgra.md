@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
-embedding_id: 2026-07-23-nvidia-dgx-gb300-supercomputer-comes-online-at-naval-postgra
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
-embedding_id: 2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi
+embedding_id: null
 event_name: ''
 ---
 

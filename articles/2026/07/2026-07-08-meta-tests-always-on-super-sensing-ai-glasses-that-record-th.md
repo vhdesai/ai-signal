@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
-embedding_id: 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
+embedding_id: null
 event_name: ''
 ---
 

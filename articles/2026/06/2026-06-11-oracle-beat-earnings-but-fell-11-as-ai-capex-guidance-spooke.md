@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-embedding_id: 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
+embedding_id: null
 event_name: ''
 ---
 

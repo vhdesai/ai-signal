@@ -5,7 +5,7 @@ date: '2026-08-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-10_061806_Inbox_Daily AI News Digest - August 10,
   2026.md
 content_hash: 036f6a831565842a2dd3a67843319c9a95df907303404dc2f284091d13161f0d
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-15-fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aqu
 - 2026-08-20-auditing-preference-bias-in-dpo-fine-tuning-on-the-anthropic
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
-embedding_id: 2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for
+embedding_id: null
 event_name: ''
 ---
 

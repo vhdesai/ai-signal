@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
-embedding_id: 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
+embedding_id: null
 event_name: ''
 ---
 

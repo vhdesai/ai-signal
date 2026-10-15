@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg
 - 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
-embedding_id: 2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand
+embedding_id: null
 event_name: ''
 ---
 

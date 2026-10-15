@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
 - 2026-09-11-california-enacts-adam-s-law-the-first-comprehensive-chatbot
-embedding_id: 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
+embedding_id: null
 event_name: ''
 ---
 

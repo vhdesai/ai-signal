@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
-embedding_id: 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
+embedding_id: null
 event_name: ''
 ---
 

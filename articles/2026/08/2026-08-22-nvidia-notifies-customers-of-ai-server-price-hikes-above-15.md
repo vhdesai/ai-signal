@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
 related_article_ids: []
-embedding_id: 2026-08-22-nvidia-notifies-customers-of-ai-server-price-hikes-above-15
+embedding_id: null
 event_name: ''
 ---
 

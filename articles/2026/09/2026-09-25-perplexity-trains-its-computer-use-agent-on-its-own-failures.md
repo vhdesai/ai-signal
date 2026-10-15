@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e3f2c527963488379cc042b360cb5c2b3509b01c3dd5262ed6e9ae10ba107a52
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-embedding_id: 2026-09-25-perplexity-trains-its-computer-use-agent-on-its-own-failures
+embedding_id: null
 event_name: ''
 ---
 

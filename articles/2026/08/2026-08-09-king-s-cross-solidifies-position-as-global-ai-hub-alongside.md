@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
-embedding_id: 2026-08-09-king-s-cross-solidifies-position-as-global-ai-hub-alongside
+embedding_id: null
 event_name: ''
 ---
 

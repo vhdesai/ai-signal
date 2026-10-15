@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-internal-documents-show-oxford-s-bodleian-scans-populated-op
 related_article_ids: []
-embedding_id: 2026-09-26-oxford-let-openai-train-models-on-bodleian-library-texts-sta
+embedding_id: null
 event_name: ''
 ---
 

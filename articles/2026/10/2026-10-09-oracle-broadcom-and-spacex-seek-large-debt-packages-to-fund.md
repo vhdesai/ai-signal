@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
-embedding_id: 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
+embedding_id: null
 event_name: ''
 ---
 

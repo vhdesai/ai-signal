@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-embedding_id: 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-25-cxmt-prices-record-shanghai-chip-ipo-to-fund-domestic-ai-mem
 - 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 - 2026-07-25-cxmt-prices-record-8-6b-shanghai-chip-ipo-at-85b-valuation
-embedding_id: 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
+embedding_id: null
 event_name: ''
 ---
 

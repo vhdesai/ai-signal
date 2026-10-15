@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: eWeek
 url_original: https://jmacweb.com/ai-news/daily/2026-05-25
 url_canonical: https://jmacweb.com/ai-news/daily/2026-05-25
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: cc10c1b37bb9de7a198cbfda4bdc145447e8cb4df3043f6d13f94481abb1a78a
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 related_article_ids: []
-embedding_id: 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
+embedding_id: null
 event_name: ''
 ---
 

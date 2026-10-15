@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-17-apple-explores-return-to-server-market-with-m8-ultra-nvidia
 - 2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia
 - 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
-embedding_id: 2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to
+embedding_id: null
 event_name: ''
 ---
 

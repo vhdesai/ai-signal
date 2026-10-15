@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-openai-s-smart-speaker-reportedly-targets-a-300-400-price-po
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
-embedding_id: 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
+embedding_id: null
 event_name: ''
 ---
 

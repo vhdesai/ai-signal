@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-embedding_id: 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
+embedding_id: null
 event_name: ''
 ---
 

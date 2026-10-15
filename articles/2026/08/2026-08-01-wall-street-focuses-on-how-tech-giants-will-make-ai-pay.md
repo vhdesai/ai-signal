@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-embedding_id: 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
+embedding_id: null
 event_name: ''
 ---
 

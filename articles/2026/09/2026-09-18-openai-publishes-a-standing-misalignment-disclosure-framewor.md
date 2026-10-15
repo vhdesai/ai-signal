@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 - 2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a
-embedding_id: 2026-09-18-openai-publishes-a-standing-misalignment-disclosure-framewor
+embedding_id: null
 event_name: ''
 ---
 

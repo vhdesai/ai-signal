@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
-embedding_id: 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
+embedding_id: null
 event_name: ''
 ---
 

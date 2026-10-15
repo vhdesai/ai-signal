@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
-embedding_id: 2026-05-28-minimax-doubles-sales-ahead-of-new-flagship-model-launch
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-embedding_id: 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
+embedding_id: null
 event_name: ''
 ---
 

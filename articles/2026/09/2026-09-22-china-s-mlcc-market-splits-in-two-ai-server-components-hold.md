@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics
 url_canonical: https://www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: bd49668f4aaf363dc8de938c887b5469976a292fe7fe3a8b9fdeab0e9a4b94d6
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
-embedding_id: 2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+embedding_id: null
 event_name: ''
 ---
 

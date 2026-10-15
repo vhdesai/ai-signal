@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-embedding_id: 2026-05-18-openai-s-gpt-5-5-instant-a-high-speed-sibling-to-gpt-5-5-opt
+embedding_id: null
 event_name: ''
 ---
 

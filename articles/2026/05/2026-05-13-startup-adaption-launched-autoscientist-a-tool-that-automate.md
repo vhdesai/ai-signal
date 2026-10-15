@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
-embedding_id: 2026-05-13-startup-adaption-launched-autoscientist-a-tool-that-automate
+embedding_id: null
 event_name: ''
 ---
 

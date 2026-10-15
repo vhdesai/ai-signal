@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 - 2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen
 - 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
-embedding_id: 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
+embedding_id: null
 event_name: ''
 ---
 

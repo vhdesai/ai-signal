@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-embedding_id: 2026-08-20-micron-commits-10-billion-to-a-decade-long-memory-and-ai-res
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
-embedding_id: 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
+embedding_id: null
 event_name: ''
 ---
 

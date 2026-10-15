@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/
 url_canonical: https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: c25b934c8191a9b322aab6e9b0674f80957cf2c3cd86c658953f2d26d39ed821
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
+embedding_id: null
 event_name: ''
 ---
 

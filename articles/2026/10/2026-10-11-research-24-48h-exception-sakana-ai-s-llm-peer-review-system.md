@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-11-model-openai-24-48h-exception-openai-lists-new-gpt-rosalind
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
-embedding_id: 2026-10-11-research-24-48h-exception-sakana-ai-s-llm-peer-review-system
+embedding_id: null
 event_name: ''
 ---
 

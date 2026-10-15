@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
-embedding_id: 2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution
+embedding_id: null
 event_name: ''
 ---
 

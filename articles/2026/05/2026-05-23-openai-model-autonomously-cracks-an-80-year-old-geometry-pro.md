@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-embedding_id: 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
+embedding_id: null
 event_name: ''
 ---
 

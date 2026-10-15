@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
 - 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
-embedding_id: 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
+embedding_id: null
 event_name: ''
 ---
 

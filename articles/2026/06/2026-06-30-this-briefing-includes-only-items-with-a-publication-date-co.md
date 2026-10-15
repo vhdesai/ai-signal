@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
-embedding_id: 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+embedding_id: null
 event_name: ''
 ---
 

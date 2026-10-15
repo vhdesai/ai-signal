@@ -30,7 +30,7 @@ related_article_ids:
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - 2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo
 - 2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u
-embedding_id: 2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso
+embedding_id: null
 event_name: ''
 ---
 

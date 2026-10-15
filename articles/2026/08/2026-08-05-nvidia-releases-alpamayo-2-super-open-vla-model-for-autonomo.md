@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-alpamayo-2-super-detailed-as-an-open-vla-architecture-for-dr
 related_article_ids: []
-embedding_id: 2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo
+embedding_id: null
 event_name: ''
 ---
 

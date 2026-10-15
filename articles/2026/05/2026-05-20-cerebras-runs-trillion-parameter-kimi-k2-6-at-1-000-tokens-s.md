@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-embedding_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
+embedding_id: null
 event_name: ''
 ---
 

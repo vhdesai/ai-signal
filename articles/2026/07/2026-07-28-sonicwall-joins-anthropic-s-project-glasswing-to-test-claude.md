@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
-embedding_id: 2026-07-28-sonicwall-joins-anthropic-s-project-glasswing-to-test-claude
+embedding_id: null
 event_name: ''
 ---
 

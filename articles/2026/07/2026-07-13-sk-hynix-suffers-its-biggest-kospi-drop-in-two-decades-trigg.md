@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: Invezz / CNBC
 url_original: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
 url_canonical: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: 80a738260ba9775869283500564897791d829c832af7511914ebe34ce61ed032
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu
 related_article_ids: []
-embedding_id: 2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg
+embedding_id: null
 event_name: ''
 ---
 

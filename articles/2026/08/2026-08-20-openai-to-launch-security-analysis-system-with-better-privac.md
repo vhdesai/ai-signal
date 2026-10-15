@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
 - 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
-embedding_id: 2026-08-20-openai-to-launch-security-analysis-system-with-better-privac
+embedding_id: null
 event_name: ''
 ---
 

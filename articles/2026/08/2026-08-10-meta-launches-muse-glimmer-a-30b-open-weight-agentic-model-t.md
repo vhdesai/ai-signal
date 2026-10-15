@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs
 - 2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that
 - 2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents
-embedding_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
+embedding_id: null
 event_name: ''
 ---
 

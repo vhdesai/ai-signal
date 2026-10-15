@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: MIT News · Stanford Report · Princeton · Cornell · UT Austin · Google
 url_original: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
 url_canonical: https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: b7c0517804e7c93eb5b772a4d2160e0bde3467867b905fdb58cb187b1be891a6
 normalized_title_hash: 8a756ceafe0e1bdb
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 - 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
-embedding_id: 2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu
+embedding_id: null
 event_name: ''
 ---
 

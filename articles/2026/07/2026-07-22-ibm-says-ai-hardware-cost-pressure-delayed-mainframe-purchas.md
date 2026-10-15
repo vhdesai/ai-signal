@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
-embedding_id: 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-ai-app-revenues-boom-but-compute-costs-keep-cash-burn-high
 related_article_ids: []
-embedding_id: 2026-08-27-cognition-and-ai-app-revenues-boom-but-compute-costs-keep-ca
+embedding_id: null
 event_name: ''
 ---
 

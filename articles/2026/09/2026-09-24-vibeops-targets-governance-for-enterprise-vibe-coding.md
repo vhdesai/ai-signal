@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-embedding_id: 2026-09-24-vibeops-targets-governance-for-enterprise-vibe-coding
+embedding_id: null
 event_name: ''
 ---
 

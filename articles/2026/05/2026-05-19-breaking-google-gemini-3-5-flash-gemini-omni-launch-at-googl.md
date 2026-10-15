@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-embedding_id: 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
+embedding_id: null
 event_name: ''
 ---
 

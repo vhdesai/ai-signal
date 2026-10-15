@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-embedding_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+embedding_id: null
 event_name: ''
 ---
 

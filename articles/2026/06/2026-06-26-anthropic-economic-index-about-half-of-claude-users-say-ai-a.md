@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 - 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-embedding_id: 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
+embedding_id: null
 event_name: ''
 ---
 

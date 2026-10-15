@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
 - 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
-embedding_id: 2026-10-06-nvidia-backed-reflection-ai-launches-beam-to-compete-with-de
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
-embedding_id: 2026-08-06-jeff-dean-s-new-ai-for-science-startup-discovery-loop-surfac
+embedding_id: null
 event_name: ''
 ---
 

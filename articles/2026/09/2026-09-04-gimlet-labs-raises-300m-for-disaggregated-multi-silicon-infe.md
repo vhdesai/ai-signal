@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi
 - 2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t
-embedding_id: 2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe
+embedding_id: null
 event_name: ''
 ---
 

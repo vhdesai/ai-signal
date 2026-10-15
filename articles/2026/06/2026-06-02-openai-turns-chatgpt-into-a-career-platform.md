@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
-embedding_id: 2026-06-02-openai-turns-chatgpt-into-a-career-platform
+embedding_id: null
 event_name: ''
 ---
 

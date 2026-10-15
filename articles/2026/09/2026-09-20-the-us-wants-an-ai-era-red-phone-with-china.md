@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.yahoo.com/news/politics/articles/us-wants-ai-era-red-054127792.html
 url_canonical: https://www.yahoo.com/news/politics/articles/us-wants-ai-era-red-054127792.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 75ce9b9dc9fa7fe2da3316ca0d8ab907e0b500c057b66a7ea3d767c25f4b3641
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-21-us-proposes-an-ai-incident-hotline-with-china-ahead-of-the-t
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
-embedding_id: 2026-09-20-the-us-wants-an-ai-era-red-phone-with-china
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn
 - 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
-embedding_id: 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
+embedding_id: null
 event_name: ''
 ---
 

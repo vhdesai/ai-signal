@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-cursor-launches-origin-a-github-rival-built-for-ai-native-wo
 - 2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github
 - 2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits
-embedding_id: 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
+embedding_id: null
 event_name: ''
 ---
 

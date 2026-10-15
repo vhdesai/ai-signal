@@ -27,7 +27,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 related_article_ids: []
-embedding_id: 2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda
+embedding_id: null
 event_name: ''
 ---
 

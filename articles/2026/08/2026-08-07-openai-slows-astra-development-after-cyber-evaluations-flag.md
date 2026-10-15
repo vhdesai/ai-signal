@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-openai-slows-its-next-model-after-critical-cyber-evaluations
 - 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-embedding_id: 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
+embedding_id: null
 event_name: ''
 ---
 

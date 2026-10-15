@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-anthropic-s-text-watermark-faces-quality-and-durability-ques
 - 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
 - 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
-embedding_id: 2026-08-12-axios-reports-anthropic-s-text-watermarks-signal-a-new-front
+embedding_id: null
 event_name: ''
 ---
 

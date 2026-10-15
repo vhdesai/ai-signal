@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-embedding_id: 2026-09-12-tom-s-hardware-previews-qwen-3-8-benchmarking-and-a-splinter
+embedding_id: null
 event_name: ''
 ---
 

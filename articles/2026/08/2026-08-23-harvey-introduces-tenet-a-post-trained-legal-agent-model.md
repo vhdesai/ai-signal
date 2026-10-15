@@ -5,7 +5,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/
 url_canonical: https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: 5f508ade9ca887788654d9a5a50c599e1836a8935942de93311af3fd1118b3eb
 normalized_title_hash: 4567c61fbf302a0a
@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
 related_article_ids: []
-embedding_id: 2026-08-23-harvey-introduces-tenet-a-post-trained-legal-agent-model
+embedding_id: null
 event_name: ''
 ---
 

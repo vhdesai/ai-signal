@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
-embedding_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
+embedding_id: null
 event_name: ''
 ---
 

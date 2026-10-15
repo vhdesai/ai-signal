@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
 - 2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer
 - 2026-09-04-u-s-uses-promise-of-nvidia-chips-in-armenia-azerbaijan-peace
-embedding_id: 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
+embedding_id: null
 event_name: ''
 ---
 

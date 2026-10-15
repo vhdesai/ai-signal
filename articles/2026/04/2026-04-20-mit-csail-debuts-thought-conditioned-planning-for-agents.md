@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
-embedding_id: 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
+embedding_id: null
 event_name: ''
 ---
 

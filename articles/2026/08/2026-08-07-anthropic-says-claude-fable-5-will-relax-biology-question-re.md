@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re
+embedding_id: null
 event_name: ''
 ---
 

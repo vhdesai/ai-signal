@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
-embedding_id: 2026-09-21-ron-johnson-silicon-valley-is-overestimating-agentic-shoppin
+embedding_id: null
 event_name: ''
 ---
 

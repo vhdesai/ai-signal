@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
 related_article_ids: []
-embedding_id: 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
+embedding_id: null
 event_name: ''
 ---
 

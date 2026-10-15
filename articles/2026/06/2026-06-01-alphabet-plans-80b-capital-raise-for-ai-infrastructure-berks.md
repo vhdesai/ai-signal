@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 - 2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe
-embedding_id: 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
 - 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 - 2026-09-18-world-model-startups-stay-secretive-about-commercialization
-embedding_id: 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
+embedding_id: null
 event_name: ''
 ---
 

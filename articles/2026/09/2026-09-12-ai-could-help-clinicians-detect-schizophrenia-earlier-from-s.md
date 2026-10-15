@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
-embedding_id: 2026-09-12-ai-could-help-clinicians-detect-schizophrenia-earlier-from-s
+embedding_id: null
 event_name: ''
 ---
 

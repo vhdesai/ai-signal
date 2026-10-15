@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-embedding_id: 2026-08-25-openai-discloses-disruption-of-an-elaborate-russian-covert-i
+embedding_id: null
 event_name: ''
 ---
 

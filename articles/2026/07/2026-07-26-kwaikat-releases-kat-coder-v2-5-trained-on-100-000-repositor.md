@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
 related_article_ids: []
-embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor
+embedding_id: null
 event_name: ''
 ---
 

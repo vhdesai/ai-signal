@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
-embedding_id: 2026-09-07-un-rights-chief-warns-ai-could-pose-existential-risk-to-huma
+embedding_id: null
 event_name: ''
 ---
 

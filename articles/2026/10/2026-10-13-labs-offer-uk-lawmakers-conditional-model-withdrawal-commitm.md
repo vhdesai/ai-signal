@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-embedding_id: 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
+embedding_id: null
 event_name: ''
 ---
 

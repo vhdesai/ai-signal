@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: Newsmax
 url_original: https://ir.newsmax.com/news/news-details/2026/Newsmax-and-Meta-Enter-AI-Content-Partnership-/default.aspx
 url_canonical: https://ir.newsmax.com/news/news-details/2026/Newsmax-and-Meta-Enter-AI-Content-Partnership-/default.aspx
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-29_062156_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 0c25a6e95d6af6efaa820d408e3ac3c6984a752a0282f19c2b5fb9414a4be2d3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-embedding_id: 2026-07-28-newsmax-and-meta-sign-ai-content-partnership
+embedding_id: null
 event_name: ''
 ---
 

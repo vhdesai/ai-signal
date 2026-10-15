@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
 - 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
-embedding_id: 2026-05-14-marines-mandate-servicewide-ai-training-by-year-s-end-marine
+embedding_id: null
 event_name: ''
 ---
 

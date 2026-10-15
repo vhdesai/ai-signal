@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-embedding_id: 2026-10-08-goodfire-launches-model-internal-safety-monitors-through-bas
+embedding_id: null
 event_name: ''
 ---
 

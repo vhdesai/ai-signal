@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 - 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
-embedding_id: 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
+embedding_id: null
 event_name: ''
 ---
 

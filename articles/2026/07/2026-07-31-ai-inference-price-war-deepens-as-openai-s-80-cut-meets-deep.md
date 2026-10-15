@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
-embedding_id: 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
+embedding_id: null
 event_name: ''
 ---
 

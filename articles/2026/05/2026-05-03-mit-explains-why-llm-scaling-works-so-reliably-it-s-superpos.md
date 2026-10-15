@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
-embedding_id: 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
+embedding_id: null
 event_name: ''
 ---
 

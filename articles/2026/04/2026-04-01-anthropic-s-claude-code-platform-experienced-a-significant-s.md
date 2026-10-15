@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 - 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-embedding_id: 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
+embedding_id: null
 event_name: ''
 ---
 

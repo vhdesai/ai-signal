@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 - 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
-embedding_id: 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
+embedding_id: null
 event_name: ''
 ---
 

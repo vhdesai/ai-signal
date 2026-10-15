@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 related_article_ids: []
-embedding_id: 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
+embedding_id: null
 event_name: ''
 ---
 

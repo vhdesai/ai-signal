@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-embedding_id: 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
+embedding_id: null
 event_name: ''
 ---
 

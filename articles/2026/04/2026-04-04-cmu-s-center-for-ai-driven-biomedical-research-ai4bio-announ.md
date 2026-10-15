@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 - 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-embedding_id: 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
+embedding_id: null
 event_name: ''
 ---
 

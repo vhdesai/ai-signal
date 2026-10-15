@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
 related_article_ids:
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip
-embedding_id: 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
+embedding_id: null
 event_name: ''
 ---
 

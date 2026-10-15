@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
-embedding_id: 2026-09-25-wsj-pro-openai-agents-again-attempted-to-hack-this-time-it-w
+embedding_id: null
 event_name: ''
 ---
 

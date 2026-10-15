@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
-embedding_id: 2026-05-17-cmu-at-iclr-2026-194-papers-introduced-the-agent-data-protoc
+embedding_id: null
 event_name: ''
 ---
 

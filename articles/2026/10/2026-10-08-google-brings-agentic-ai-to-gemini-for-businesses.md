@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
 - 2026-09-24-google-tests-letting-gemini-call-businesses-for-users
-embedding_id: 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
+embedding_id: null
 event_name: ''
 ---
 

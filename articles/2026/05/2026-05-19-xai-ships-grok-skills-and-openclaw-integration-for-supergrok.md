@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: xAI News
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 55740e1e8f948c8680d92019c9f04ca3507c155b5bfffe25866e19114f25d4a6
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-xai-launches-grok-integration-in-kilo-code
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
-embedding_id: 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
+embedding_id: null
 event_name: ''
 ---
 

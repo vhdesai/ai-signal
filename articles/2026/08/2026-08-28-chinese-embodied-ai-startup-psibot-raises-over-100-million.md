@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 - 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
-embedding_id: 2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million
+embedding_id: null
 event_name: ''
 ---
 

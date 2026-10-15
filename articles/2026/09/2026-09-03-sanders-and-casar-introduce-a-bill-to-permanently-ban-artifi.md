@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 - 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
 - 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
-embedding_id: 2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi
+embedding_id: null
 event_name: ''
 ---
 

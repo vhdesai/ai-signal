@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
-embedding_id: 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
+embedding_id: null
 event_name: ''
 ---
 

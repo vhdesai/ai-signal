@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-embedding_id: 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
+embedding_id: null
 event_name: ''
 ---
 

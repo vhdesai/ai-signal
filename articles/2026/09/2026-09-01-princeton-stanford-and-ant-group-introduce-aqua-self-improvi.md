@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-an-agentic-f
 related_article_ids: []
-embedding_id: 2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-self-improvi
+embedding_id: null
 event_name: ''
 ---
 

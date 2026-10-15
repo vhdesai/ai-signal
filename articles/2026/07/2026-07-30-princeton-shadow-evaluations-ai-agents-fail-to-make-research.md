@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 related_article_ids: []
-embedding_id: 2026-07-30-princeton-shadow-evaluations-ai-agents-fail-to-make-research
+embedding_id: null
 event_name: ''
 ---
 

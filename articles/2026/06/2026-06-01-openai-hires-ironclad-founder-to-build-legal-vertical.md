@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
 related_article_ids: []
-embedding_id: 2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical
+embedding_id: null
 event_name: ''
 ---
 

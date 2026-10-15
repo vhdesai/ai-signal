@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
 - 2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices
-embedding_id: 2026-09-08-openai-s-luna-price-cut-drove-a-10x-usage-surge-taking-openr
+embedding_id: null
 event_name: ''
 ---
 

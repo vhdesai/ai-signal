@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
-embedding_id: 2026-04-04-mit-researchers-published-a-framework-for-auditing-ai-decisi
+embedding_id: null
 event_name: ''
 ---
 

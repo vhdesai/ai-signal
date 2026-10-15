@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t
-embedding_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b
+embedding_id: null
 event_name: ''
 ---
 

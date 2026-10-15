@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-nvidia-s-hugging-face-deal-draws-scrutiny-over-control-of-th
 related_article_ids: []
-embedding_id: 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
+embedding_id: null
 event_name: ''
 ---
 

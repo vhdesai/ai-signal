@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
-embedding_id: 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
+embedding_id: null
 event_name: ''
 ---
 

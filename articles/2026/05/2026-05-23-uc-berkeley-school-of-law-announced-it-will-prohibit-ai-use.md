@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
 - 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
-embedding_id: 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-09-18-xai-releases-grok-voice-transcribe-2-0-for-lower-cost-speech
-embedding_id: 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
+embedding_id: null
 event_name: ''
 ---
 

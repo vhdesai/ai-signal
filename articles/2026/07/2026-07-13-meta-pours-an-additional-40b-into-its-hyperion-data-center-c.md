@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 - 2026-07-13-infrastructure-meta-capex
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
-embedding_id: 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
+embedding_id: null
 event_name: ''
 ---
 

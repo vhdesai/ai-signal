@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
 related_article_ids: []
-embedding_id: 2026-07-28-recursive-superintelligence-signs-410m-compute-deal-with-ama
+embedding_id: null
 event_name: ''
 ---
 

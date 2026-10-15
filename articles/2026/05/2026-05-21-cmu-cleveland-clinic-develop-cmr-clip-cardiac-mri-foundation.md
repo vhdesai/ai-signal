@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
-embedding_id: 2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation
+embedding_id: null
 event_name: ''
 ---
 

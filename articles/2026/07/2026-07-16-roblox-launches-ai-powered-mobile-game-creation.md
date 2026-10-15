@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-meta-launches-pocket-vibe-coding-app-for-games-in-u-s-contin
 - 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
 - 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
-embedding_id: 2026-07-16-roblox-launches-ai-powered-mobile-game-creation
+embedding_id: null
 event_name: ''
 ---
 

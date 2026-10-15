@@ -23,7 +23,7 @@ canonical_article_id: 2026-09-29-openai-devday-opens-today-under-safety-scrutiny
 related_article_ids:
 - 2026-09-29-openai-devday-2026-opens-under-safety-scrutiny
 - 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
-embedding_id: 2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu
+embedding_id: null
 event_name: ''
 ---
 

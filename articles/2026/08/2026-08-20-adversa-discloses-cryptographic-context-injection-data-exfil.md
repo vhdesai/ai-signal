@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
 - 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 - 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
-embedding_id: 2026-08-20-adversa-discloses-cryptographic-context-injection-data-exfil
+embedding_id: null
 event_name: ''
 ---
 

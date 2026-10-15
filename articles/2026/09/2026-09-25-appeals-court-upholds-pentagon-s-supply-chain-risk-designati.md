@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-appeals-court-rules-the-pentagon-can-blacklist-anthropic-ove
 - 2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
-embedding_id: 2026-09-25-appeals-court-upholds-pentagon-s-supply-chain-risk-designati
+embedding_id: null
 event_name: ''
 ---
 

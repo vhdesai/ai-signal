@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
-embedding_id: 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+embedding_id: null
 event_name: ''
 ---
 

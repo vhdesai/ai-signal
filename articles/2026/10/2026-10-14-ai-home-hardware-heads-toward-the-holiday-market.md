@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-embedding_id: 2026-10-14-ai-home-hardware-heads-toward-the-holiday-market
+embedding_id: null
 event_name: ''
 ---
 

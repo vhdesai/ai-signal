@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Visual Studio Magazine
 url_original: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
 url_canonical: https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_062633_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 58593155b483b9298eb8225846233f4c57d865ce55973ed661e697267937387b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
-embedding_id: 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
+embedding_id: null
 event_name: ''
 ---
 

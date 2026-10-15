@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
 url_canonical: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 904b370e6b07bb8147aaafdd81235927324ba1a011d5f2e158fbf5d718aff16e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-embedding_id: 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
+embedding_id: null
 event_name: ''
 ---
 

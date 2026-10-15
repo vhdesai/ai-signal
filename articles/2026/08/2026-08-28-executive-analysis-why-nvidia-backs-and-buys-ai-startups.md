@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
-embedding_id: 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
+embedding_id: null
 event_name: ''
 ---
 

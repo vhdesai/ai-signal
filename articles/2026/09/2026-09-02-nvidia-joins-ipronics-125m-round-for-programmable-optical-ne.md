@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
 related_article_ids: []
-embedding_id: 2026-09-02-nvidia-joins-ipronics-125m-round-for-programmable-optical-ne
+embedding_id: null
 event_name: ''
 ---
 

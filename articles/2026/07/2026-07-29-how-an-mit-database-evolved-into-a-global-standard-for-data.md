@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: MIT News
 url_original: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
 url_canonical: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: f6732c198ad258ad0e45cd8c33c8862f0908ed02f98dda57a613b82510615f4c
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-mit-s-physionet-marks-25-years-as-a-global-biomedical-data-s
 - 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
-embedding_id: 2026-07-29-how-an-mit-database-evolved-into-a-global-standard-for-data
+embedding_id: null
 event_name: ''
 ---
 

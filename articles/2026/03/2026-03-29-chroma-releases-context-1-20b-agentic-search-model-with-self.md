@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
-embedding_id: 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
+embedding_id: null
 event_name: ''
 ---
 

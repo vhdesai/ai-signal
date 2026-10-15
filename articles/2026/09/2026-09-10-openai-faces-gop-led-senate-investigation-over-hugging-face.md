@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
-embedding_id: 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
+embedding_id: null
 event_name: ''
 ---
 

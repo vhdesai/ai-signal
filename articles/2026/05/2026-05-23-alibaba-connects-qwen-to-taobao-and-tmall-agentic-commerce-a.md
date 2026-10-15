@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
 - 2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-embedding_id: 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
+embedding_id: null
 event_name: ''
 ---
 

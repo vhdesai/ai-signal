@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
-embedding_id: 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
+embedding_id: null
 event_name: ''
 ---
 

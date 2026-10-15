@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
-embedding_id: 2026-08-24-d-matrix-details-raptor-3d-dram-accelerator-at-hot-chips-202
+embedding_id: null
 event_name: ''
 ---
 

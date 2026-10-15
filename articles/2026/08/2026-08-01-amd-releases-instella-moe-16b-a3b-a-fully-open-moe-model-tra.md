@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-embedding_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
+embedding_id: null
 event_name: ''
 ---
 

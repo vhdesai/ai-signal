@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
-embedding_id: 2026-06-03-stanford-convenes-ai-for-mental-health-symposium
+embedding_id: null
 event_name: ''
 ---
 

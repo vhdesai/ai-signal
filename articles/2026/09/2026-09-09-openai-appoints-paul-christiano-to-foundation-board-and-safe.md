@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
-embedding_id: 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
+embedding_id: null
 event_name: ''
 ---
 

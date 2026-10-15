@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-07-
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-embedding_id: 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
+embedding_id: null
 event_name: ''
 ---
 

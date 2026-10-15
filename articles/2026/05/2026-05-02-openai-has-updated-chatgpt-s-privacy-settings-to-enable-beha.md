@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 related_article_ids: []
-embedding_id: 2026-05-02-openai-has-updated-chatgpt-s-privacy-settings-to-enable-beha
+embedding_id: null
 event_name: ''
 ---
 

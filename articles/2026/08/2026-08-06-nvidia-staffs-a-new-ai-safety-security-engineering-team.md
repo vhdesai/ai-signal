@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-nvidia-launches-open-agent-safety-platform-with-100-partners
 - 2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
-embedding_id: 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-08-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/
 url_canonical: https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-13_060924_Inbox_Daily AI News Digest - August 13,
   2026.md
 content_hash: 58a843b7c71f2b2506bf05e7ead10f513d475853bfd5438b13e031bcc05d708d
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
-embedding_id: 2026-08-13-dyna-robotics-introduces-dyna-2-a-world-action-model-trained
+embedding_id: null
 event_name: ''
 ---
 

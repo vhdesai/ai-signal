@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
+embedding_id: null
 event_name: ''
 ---
 

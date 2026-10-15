@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
-embedding_id: 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
+embedding_id: null
 event_name: ''
 ---
 

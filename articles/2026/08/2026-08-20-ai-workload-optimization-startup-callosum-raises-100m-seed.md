@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
-embedding_id: 2026-08-20-ai-workload-optimization-startup-callosum-raises-100m-seed
+embedding_id: null
 event_name: ''
 ---
 

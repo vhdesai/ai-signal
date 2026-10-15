@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 related_article_ids: []
-embedding_id: 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
+embedding_id: null
 event_name: ''
 ---
 

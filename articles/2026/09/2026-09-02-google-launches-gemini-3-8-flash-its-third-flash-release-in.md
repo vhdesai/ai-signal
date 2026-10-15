@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
 - 2026-08-27-google-cuts-gemini-3-7-flash-api-price-by-50
-embedding_id: 2026-09-02-google-launches-gemini-3-8-flash-its-third-flash-release-in
+embedding_id: null
 event_name: ''
 ---
 

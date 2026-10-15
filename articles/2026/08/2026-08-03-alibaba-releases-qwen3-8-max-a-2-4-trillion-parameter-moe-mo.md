@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 related_article_ids: []
-embedding_id: 2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo
+embedding_id: null
 event_name: ''
 ---
 

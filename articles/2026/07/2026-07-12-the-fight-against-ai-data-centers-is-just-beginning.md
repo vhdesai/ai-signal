@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
-embedding_id: 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-embedding_id: 2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n
+embedding_id: null
 event_name: ''
 ---
 

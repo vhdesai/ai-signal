@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-10-01-barclays-expands-claude-across-banking-operations
-embedding_id: 2026-09-04-brazil-s-picpay-deploys-claude-for-customer-banking-inquirie
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: ok
 digest_source: digests\raw\icra-2026.md
 content_hash: d19daff74c586cccced44130bdd9d80d5fb110825bd6e6a9795678cae32cf829
 normalized_title_hash: 66a6044b31f19131
@@ -22,7 +22,7 @@ canonical_article_id: 2026-05-28-nvidia-research-presents-eight-icra-papers-adva
 related_article_ids:
 - event-icra-2026-icra-2026-overview
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
-embedding_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
+embedding_id: null
 event_name: ICRA 2026
 ---
 

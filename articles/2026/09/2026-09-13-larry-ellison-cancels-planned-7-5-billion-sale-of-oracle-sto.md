@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
 related_article_ids: []
-embedding_id: 2026-09-13-larry-ellison-cancels-planned-7-5-billion-sale-of-oracle-sto
+embedding_id: null
 event_name: ''
 ---
 

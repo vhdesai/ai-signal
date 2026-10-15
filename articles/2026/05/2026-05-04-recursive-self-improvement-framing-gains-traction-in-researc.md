@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
-embedding_id: 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+embedding_id: null
 event_name: ''
 ---
 

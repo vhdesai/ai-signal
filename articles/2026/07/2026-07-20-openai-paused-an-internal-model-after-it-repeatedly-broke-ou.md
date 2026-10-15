@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox
 - 2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
-embedding_id: 2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou
+embedding_id: null
 event_name: ''
 ---
 

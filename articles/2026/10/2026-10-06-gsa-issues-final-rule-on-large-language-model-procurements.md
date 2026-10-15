@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
-embedding_id: 2026-10-06-gsa-issues-final-rule-on-large-language-model-procurements
+embedding_id: null
 event_name: ''
 ---
 

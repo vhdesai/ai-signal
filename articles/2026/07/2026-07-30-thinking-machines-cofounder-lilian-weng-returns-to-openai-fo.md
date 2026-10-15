@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 related_article_ids: []
-embedding_id: 2026-07-30-thinking-machines-cofounder-lilian-weng-returns-to-openai-fo
+embedding_id: null
 event_name: ''
 ---
 

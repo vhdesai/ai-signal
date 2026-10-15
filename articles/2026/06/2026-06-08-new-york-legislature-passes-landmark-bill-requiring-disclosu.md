@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
 related_article_ids: []
-embedding_id: 2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu
+embedding_id: null
 event_name: ''
 ---
 

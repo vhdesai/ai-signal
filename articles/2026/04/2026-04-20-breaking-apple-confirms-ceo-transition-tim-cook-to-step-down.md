@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
 - 2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive
 - 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
-embedding_id: 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
+embedding_id: null
 event_name: ''
 ---
 

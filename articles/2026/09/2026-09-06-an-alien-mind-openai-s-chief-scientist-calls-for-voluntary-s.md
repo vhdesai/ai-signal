@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
 - 2026-09-10-frontier-lab-researchers-escalate-calls-to-slow-development
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
-embedding_id: 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
+embedding_id: null
 event_name: ''
 ---
 

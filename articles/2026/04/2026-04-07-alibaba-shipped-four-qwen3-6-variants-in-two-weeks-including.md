@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
 - 2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its
-embedding_id: 2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including
+embedding_id: null
 event_name: ''
 ---
 

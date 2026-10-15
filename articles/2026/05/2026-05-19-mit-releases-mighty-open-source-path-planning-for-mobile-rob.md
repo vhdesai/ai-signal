@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: MIT News
 url_original: https://news.mit.edu/topic/computers
 url_canonical: https://news.mit.edu/topic/computers
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d010fe696fa56f5ce3ee730154dde27121f9de147c0018d7567d0151427b2466
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty
 - 2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
-embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
+embedding_id: null
 event_name: ''
 ---
 

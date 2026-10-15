@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
-embedding_id: 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
+embedding_id: null
 event_name: ''
 ---
 

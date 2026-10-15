@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-embedding_id: 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
+embedding_id: null
 event_name: ''
 ---
 

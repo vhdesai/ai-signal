@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
-embedding_id: 2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
 related_article_ids:
 - 2026-08-23-hugging-face-is-reportedly-fielding-m-a-interest-at-a-valuat
-embedding_id: 2026-08-23-hugging-face-has-been-fielding-m-a-interest-for-a-deal-worth
+embedding_id: null
 event_name: ''
 ---
 

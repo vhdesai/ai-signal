@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 - 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
-embedding_id: 2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn
+embedding_id: null
 event_name: ''
 ---
 

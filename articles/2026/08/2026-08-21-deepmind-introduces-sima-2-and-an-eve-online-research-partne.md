@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
 - 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
-embedding_id: 2026-08-21-deepmind-introduces-sima-2-and-an-eve-online-research-partne
+embedding_id: null
 event_name: ''
 ---
 

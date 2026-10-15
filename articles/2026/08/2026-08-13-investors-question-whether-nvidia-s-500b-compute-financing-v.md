@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
-embedding_id: 2026-08-13-investors-question-whether-nvidia-s-500b-compute-financing-v
+embedding_id: null
 event_name: ''
 ---
 

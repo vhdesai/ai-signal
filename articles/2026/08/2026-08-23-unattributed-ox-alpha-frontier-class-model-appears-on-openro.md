@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter
 related_article_ids: []
-embedding_id: 2026-08-23-unattributed-ox-alpha-frontier-class-model-appears-on-openro
+embedding_id: null
 event_name: ''
 ---
 

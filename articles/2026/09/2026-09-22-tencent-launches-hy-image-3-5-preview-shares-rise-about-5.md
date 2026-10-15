@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
-embedding_id: 2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5
+embedding_id: null
 event_name: ''
 ---
 

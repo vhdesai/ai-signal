@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
 related_article_ids: []
-embedding_id: 2026-09-03-nscale-touts-103b-in-contracted-revenue-after-anthropic-comp
+embedding_id: null
 event_name: ''
 ---
 

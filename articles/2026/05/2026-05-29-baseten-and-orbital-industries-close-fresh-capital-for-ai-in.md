@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
-embedding_id: 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
-embedding_id: 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
+embedding_id: null
 event_name: ''
 ---
 

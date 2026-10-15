@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
 related_article_ids:
 - 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
-embedding_id: 2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex
+embedding_id: null
 event_name: ''
 ---
 

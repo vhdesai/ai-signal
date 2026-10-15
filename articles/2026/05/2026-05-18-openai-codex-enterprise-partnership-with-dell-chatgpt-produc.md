@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 related_article_ids: []
-embedding_id: 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
+embedding_id: null
 event_name: ''
 ---
 

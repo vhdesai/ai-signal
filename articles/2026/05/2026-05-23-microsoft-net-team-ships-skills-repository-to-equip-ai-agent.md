@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
-embedding_id: 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
+embedding_id: null
 event_name: ''
 ---
 

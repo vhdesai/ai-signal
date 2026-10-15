@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin
 related_article_ids: []
-embedding_id: 2026-10-05-nvidia-highlights-ai-startups-targeting-breast-cancer-screen
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
-embedding_id: 2026-08-14-sen-jim-banks-urges-the-white-house-to-back-us-open-weight-a
+embedding_id: null
 event_name: ''
 ---
 

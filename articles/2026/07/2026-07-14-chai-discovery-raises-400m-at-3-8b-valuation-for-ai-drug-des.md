@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 related_article_ids: []
-embedding_id: 2026-07-14-chai-discovery-raises-400m-at-3-8b-valuation-for-ai-drug-des
+embedding_id: null
 event_name: ''
 ---
 

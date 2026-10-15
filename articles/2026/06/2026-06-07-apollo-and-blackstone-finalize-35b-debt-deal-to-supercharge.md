@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
 - 2026-08-21-anthropic-s-record-setting-ipo-ambitions
-embedding_id: 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
+embedding_id: null
 event_name: ''
 ---
 

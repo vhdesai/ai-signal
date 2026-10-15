@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts
 related_article_ids: []
-embedding_id: 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
+embedding_id: null
 event_name: ''
 ---
 

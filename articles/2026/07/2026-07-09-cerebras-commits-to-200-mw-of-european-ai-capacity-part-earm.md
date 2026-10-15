@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 related_article_ids: []
-embedding_id: 2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm
+embedding_id: null
 event_name: ''
 ---
 

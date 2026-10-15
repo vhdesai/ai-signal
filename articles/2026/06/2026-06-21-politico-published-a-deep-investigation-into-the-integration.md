@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
-embedding_id: 2026-06-21-politico-published-a-deep-investigation-into-the-integration
+embedding_id: null
 event_name: ''
 ---
 

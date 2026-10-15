@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
 related_article_ids: []
-embedding_id: 2026-07-28-pjm-may-temporarily-cut-power-to-data-centers-to-prevent-bla
+embedding_id: null
 event_name: ''
 ---
 

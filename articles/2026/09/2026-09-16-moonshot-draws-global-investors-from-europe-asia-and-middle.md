@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
-embedding_id: 2026-09-16-moonshot-draws-global-investors-from-europe-asia-and-middle
+embedding_id: null
 event_name: ''
 ---
 

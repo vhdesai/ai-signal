@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
-embedding_id: 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
+embedding_id: null
 event_name: ''
 ---
 

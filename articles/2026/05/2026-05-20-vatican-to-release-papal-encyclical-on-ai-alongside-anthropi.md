@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
-embedding_id: 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
+embedding_id: null
 event_name: ''
 ---
 

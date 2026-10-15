@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-coreweave-q2-revenue-doubles-to-2-575b-while-cash-burn-hits
 related_article_ids: []
-embedding_id: 2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b
+embedding_id: null
 event_name: ''
 ---
 

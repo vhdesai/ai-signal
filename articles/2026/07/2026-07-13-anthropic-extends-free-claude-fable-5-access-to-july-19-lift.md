@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 related_article_ids: []
-embedding_id: 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-lift
+embedding_id: null
 event_name: ''
 ---
 

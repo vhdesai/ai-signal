@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 - 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
 - 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
-embedding_id: 2026-07-23-multi-turn-ai-attacks-reportedly-break-models-88-of-the-time
+embedding_id: null
 event_name: ''
 ---
 

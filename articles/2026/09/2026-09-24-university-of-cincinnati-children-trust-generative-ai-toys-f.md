@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
-embedding_id: 2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f
+embedding_id: null
 event_name: ''
 ---
 

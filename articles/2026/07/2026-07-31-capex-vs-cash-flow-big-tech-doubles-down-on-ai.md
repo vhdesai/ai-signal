@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
+embedding_id: null
 event_name: ''
 ---
 

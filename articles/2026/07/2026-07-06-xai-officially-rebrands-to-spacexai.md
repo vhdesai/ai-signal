@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
 related_article_ids: []
-embedding_id: 2026-07-06-xai-officially-rebrands-to-spacexai
+embedding_id: null
 event_name: ''
 ---
 

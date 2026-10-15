@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-serval-makes-catalyst-super-agent-generally-available-for-au
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin
-embedding_id: 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
+embedding_id: null
 event_name: ''
 ---
 

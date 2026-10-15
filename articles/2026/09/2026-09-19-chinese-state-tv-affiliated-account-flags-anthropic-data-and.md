@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
 - 2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking
 - 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
-embedding_id: 2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and
+embedding_id: null
 event_name: ''
 ---
 

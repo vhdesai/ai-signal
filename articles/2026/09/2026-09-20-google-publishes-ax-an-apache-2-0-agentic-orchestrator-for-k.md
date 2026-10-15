@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust
-embedding_id: 2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 related_article_ids: []
-embedding_id: 2026-08-12-anthropic-worker-retraining-programs-may-not-scale-to-ai-dis
+embedding_id: null
 event_name: ''
 ---
 

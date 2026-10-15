@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
 related_article_ids: []
-embedding_id: 2026-07-30-thinking-machines-releases-inkling-small-a-276b-open-weights
+embedding_id: null
 event_name: ''
 ---
 

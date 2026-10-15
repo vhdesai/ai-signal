@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 related_article_ids: []
-embedding_id: 2026-08-21-anthropic-puts-claude-mythos-5-behind-claude-security-adds-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 - 2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l
-embedding_id: 2026-06-29-sina-weibo-released-vibethinker-3b-a-3-billion-parameter-ope
+embedding_id: null
 event_name: ''
 ---
 

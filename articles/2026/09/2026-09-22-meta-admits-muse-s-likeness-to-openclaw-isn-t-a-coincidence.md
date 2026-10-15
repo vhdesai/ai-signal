@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-embedding_id: 2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
-embedding_id: 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
+embedding_id: null
 event_name: ''
 ---
 

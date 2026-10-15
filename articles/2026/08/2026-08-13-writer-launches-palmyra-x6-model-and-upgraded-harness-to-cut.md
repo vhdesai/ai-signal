@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-vi
 - 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: 2026-08-13-writer-launches-palmyra-x6-model-and-upgraded-harness-to-cut
+embedding_id: null
 event_name: ''
 ---
 

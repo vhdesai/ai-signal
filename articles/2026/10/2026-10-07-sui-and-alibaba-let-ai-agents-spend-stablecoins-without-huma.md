@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
-embedding_id: 2026-10-07-sui-and-alibaba-let-ai-agents-spend-stablecoins-without-huma
+embedding_id: null
 event_name: ''
 ---
 

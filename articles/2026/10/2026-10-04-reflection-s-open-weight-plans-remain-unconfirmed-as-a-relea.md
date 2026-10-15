@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built
 - 2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
-embedding_id: 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
+embedding_id: null
 event_name: ''
 ---
 

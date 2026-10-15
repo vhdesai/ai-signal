@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: 2026-06-09-cvpr-2026-honors-year-s-most-innovative-computer-vision-and
+embedding_id: null
 event_name: ''
 ---
 

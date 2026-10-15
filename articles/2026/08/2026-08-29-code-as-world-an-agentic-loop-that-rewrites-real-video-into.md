@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas
-embedding_id: 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
 - 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
 - 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
-embedding_id: 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
+embedding_id: null
 event_name: ''
 ---
 

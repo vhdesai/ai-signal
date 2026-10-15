@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
-embedding_id: 2026-04-16-microsoft-released-gigatime-an-open-source-cancer-cell-imagi
+embedding_id: null
 event_name: ''
 ---
 

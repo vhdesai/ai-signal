@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
 - 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
-embedding_id: 2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches
+embedding_id: null
 event_name: ''
 ---
 

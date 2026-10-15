@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public
 - 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
-embedding_id: 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
+embedding_id: null
 event_name: ''
 ---
 

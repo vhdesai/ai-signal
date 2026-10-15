@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-embedding_id: 2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic
+embedding_id: null
 event_name: ''
 ---
 

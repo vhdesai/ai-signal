@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
 - 2026-07-22-dealbook-highlights-u-s-warning-on-chinese-ai-risks
-embedding_id: 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
+embedding_id: null
 event_name: ''
 ---
 

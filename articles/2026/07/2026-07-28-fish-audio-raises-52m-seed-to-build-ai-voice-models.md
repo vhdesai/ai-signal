@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
 related_article_ids: []
-embedding_id: 2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models
+embedding_id: null
 event_name: ''
 ---
 

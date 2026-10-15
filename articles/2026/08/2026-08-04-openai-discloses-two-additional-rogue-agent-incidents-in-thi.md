@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations
 - 2026-08-04-openai-publishes-third-party-cyber-evaluations-disclosure
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
-embedding_id: 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
+embedding_id: null
 event_name: ''
 ---
 

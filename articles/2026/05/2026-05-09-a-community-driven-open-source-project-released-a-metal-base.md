@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
-embedding_id: 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
+embedding_id: null
 event_name: ''
 ---
 

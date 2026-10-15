@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
-embedding_id: 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+embedding_id: null
 event_name: ''
 ---
 

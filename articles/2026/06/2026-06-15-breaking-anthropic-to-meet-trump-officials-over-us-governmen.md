@@ -6,7 +6,7 @@ date: '2026-06-15'
 source: Bloomberg
 url_original: https://www.bloomberg.com/deals
 url_canonical: https://www.bloomberg.com/deals
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 1070f56cbb996657a6c597069d6000f5fb846f82cb98a4ef6006b10051158633
 normalized_title_hash: b5cad1570630885d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 - 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
 - 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
-embedding_id: 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
+embedding_id: null
 event_name: ''
 ---
 

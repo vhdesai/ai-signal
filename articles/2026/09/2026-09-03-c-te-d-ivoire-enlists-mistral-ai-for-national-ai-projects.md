@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
-embedding_id: 2026-09-03-c-te-d-ivoire-enlists-mistral-ai-for-national-ai-projects
+embedding_id: null
 event_name: ''
 ---
 

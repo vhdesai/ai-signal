@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-embedding_id: 2026-05-22-nist-to-evaluate-upcoming-frontier-models-before-public-rele
+embedding_id: null
 event_name: ''
 ---
 

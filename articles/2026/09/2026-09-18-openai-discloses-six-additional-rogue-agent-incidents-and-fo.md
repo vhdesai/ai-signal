@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-embedding_id: 2026-09-18-openai-discloses-six-additional-rogue-agent-incidents-and-fo
+embedding_id: null
 event_name: ''
 ---
 

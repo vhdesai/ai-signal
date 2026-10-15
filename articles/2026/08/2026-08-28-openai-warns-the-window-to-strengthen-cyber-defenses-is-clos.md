@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
-embedding_id: 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
+embedding_id: null
 event_name: ''
 ---
 

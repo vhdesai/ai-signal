@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-openai-brings-codex-computer-use-to-windows
 related_article_ids: []
-embedding_id: 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
+embedding_id: null
 event_name: ''
 ---
 

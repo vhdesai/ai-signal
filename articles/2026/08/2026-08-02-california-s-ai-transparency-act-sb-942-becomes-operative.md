@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
 - 2026-08-13-eu-ai-act-article-50-transparency-duties-are-now-in-force
-embedding_id: 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
-embedding_id: 2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
-embedding_id: 2026-06-15-spacex-post-ipo-three-big-questions-dominate-investor-debate
+embedding_id: null
 event_name: ''
 ---
 

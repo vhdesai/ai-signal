@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 - 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
-embedding_id: 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
+embedding_id: null
 event_name: ''
 ---
 

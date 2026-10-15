@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 - 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
-embedding_id: 2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo
+embedding_id: null
 event_name: ''
 ---
 

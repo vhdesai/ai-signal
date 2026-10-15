@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
-embedding_id: 2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc
+embedding_id: null
 event_name: ''
 ---
 

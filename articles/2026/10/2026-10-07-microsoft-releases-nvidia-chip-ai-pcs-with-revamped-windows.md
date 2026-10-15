@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto
 related_article_ids: []
-embedding_id: 2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows
+embedding_id: null
 event_name: ''
 ---
 

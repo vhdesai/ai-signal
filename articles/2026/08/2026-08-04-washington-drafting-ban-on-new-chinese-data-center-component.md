@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 - 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
-embedding_id: 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
+embedding_id: null
 event_name: ''
 ---
 

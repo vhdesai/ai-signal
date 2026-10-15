@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 - 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
-embedding_id: 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
+embedding_id: null
 event_name: ''
 ---
 

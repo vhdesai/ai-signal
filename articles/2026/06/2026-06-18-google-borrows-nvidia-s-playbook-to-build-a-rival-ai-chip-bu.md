@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
 - 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
-embedding_id: 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
+embedding_id: null
 event_name: ''
 ---
 

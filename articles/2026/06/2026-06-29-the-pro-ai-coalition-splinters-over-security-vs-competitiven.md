@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
-embedding_id: 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
+embedding_id: null
 event_name: ''
 ---
 

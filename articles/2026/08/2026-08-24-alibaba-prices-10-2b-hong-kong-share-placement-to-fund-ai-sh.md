@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 related_article_ids: []
-embedding_id: 2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh
+embedding_id: null
 event_name: ''
 ---
 

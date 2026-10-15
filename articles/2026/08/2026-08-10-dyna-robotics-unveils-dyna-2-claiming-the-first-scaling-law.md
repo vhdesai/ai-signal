@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 related_article_ids: []
-embedding_id: 2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law
+embedding_id: null
 event_name: ''
 ---
 

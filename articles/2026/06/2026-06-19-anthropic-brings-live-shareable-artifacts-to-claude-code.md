@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
-embedding_id: 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
+embedding_id: null
 event_name: ''
 ---
 

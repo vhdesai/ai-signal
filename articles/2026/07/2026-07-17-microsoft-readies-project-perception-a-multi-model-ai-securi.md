@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-embedding_id: 2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi
+embedding_id: null
 event_name: ''
 ---
 

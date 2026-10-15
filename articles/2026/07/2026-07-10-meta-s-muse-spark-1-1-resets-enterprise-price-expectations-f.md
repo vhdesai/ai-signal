@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 - 2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a
-embedding_id: 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
+embedding_id: null
 event_name: ''
 ---
 

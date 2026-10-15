@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 related_article_ids: []
-embedding_id: 2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models
+embedding_id: null
 event_name: ''
 ---
 

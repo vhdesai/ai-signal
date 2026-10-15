@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
-embedding_id: 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
+embedding_id: null
 event_name: ''
 ---
 

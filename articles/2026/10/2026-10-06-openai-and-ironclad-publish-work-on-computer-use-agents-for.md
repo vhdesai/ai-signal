@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
-embedding_id: 2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for
+embedding_id: null
 event_name: ''
 ---
 

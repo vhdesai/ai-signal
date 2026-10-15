@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 - 2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr
-embedding_id: 2026-08-05-openai-settles-with-doj-over-green-card-hiring-practices-acc
+embedding_id: null
 event_name: ''
 ---
 

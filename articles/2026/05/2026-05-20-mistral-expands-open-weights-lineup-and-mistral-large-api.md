@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 - 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
-embedding_id: 2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the
 - 2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la
-embedding_id: 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
+embedding_id: null
 event_name: ''
 ---
 

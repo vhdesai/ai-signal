@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
-embedding_id: 2026-09-03-openai-launches-gpt-6-astra-its-most-capable-and-most-contes
+embedding_id: null
 event_name: ''
 ---
 

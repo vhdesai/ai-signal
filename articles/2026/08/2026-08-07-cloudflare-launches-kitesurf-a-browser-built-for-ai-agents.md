@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-cloudflare-introduces-kitesurf-an-agent-first-browser-runnin
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
-embedding_id: 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents
+embedding_id: null
 event_name: ''
 ---
 

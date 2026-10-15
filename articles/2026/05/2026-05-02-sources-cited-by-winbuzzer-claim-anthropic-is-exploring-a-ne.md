@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-embedding_id: 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
+embedding_id: null
 event_name: ''
 ---
 

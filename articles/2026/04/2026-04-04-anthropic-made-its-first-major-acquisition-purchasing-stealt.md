@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
-embedding_id: 2026-04-04-anthropic-made-its-first-major-acquisition-purchasing-stealt
+embedding_id: null
 event_name: ''
 ---
 

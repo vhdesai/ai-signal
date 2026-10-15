@@ -40,7 +40,7 @@ related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
-embedding_id: 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
+embedding_id: null
 event_name: ''
 ---
 

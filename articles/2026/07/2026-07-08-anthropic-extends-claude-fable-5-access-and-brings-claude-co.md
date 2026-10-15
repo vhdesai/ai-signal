@@ -6,7 +6,7 @@ date: '2026-07-08'
 source: TechPP
 url_original: https://techpp.com/2026/07/08/daily-brief-july-8-2026-meta-muse-ai/
 url_canonical: https://techpp.com/2026/07/08/daily-brief-july-8-2026-meta-muse-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-09_061826_Inbox_Daily AI News Digest - July 9,
   2026.md
 content_hash: 62eb86fdc66800f920e9d58012d34bcb1f00b6f38737aae919d2f91f04cd74dd
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
 - 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
-embedding_id: 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
+embedding_id: null
 event_name: ''
 ---
 

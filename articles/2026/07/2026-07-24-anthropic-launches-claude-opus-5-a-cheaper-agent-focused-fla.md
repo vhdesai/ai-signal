@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
 - 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 - 2026-07-24-anthropic-launches-opus-5
-embedding_id: 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
+embedding_id: null
 event_name: ''
 ---
 

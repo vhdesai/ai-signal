@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: Yahoo
 url_original: https://www.yahoo.com/news/politics/articles/openai-building-automated-ai-shutdown-123852082.html
 url_canonical: https://www.yahoo.com/news/politics/articles/openai-building-automated-ai-shutdown-123852082.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-03_061026_Inbox_Daily AI News Digest – September
   3, 2026.md
 content_hash: 1d1c3089bb3f4dfabcc175b31620be28c4d841ec0147f216ad0fcba2d5d0fa97
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
 - 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
-embedding_id: 2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa
+embedding_id: null
 event_name: ''
 ---
 

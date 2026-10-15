@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
-embedding_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+embedding_id: null
 event_name: ''
 ---
 

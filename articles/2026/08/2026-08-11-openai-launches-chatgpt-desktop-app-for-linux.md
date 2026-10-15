@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
 related_article_ids: []
-embedding_id: 2026-08-11-openai-launches-chatgpt-desktop-app-for-linux
+embedding_id: null
 event_name: ''
 ---
 

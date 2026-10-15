@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 related_article_ids: []
-embedding_id: 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-embedding_id: 2026-09-22-anthropic-releases-claude-opus-5-5-with-85-fewer-containment
+embedding_id: null
 event_name: ''
 ---
 

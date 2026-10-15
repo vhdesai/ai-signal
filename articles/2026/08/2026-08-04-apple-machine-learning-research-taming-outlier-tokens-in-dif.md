@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
-embedding_id: 2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif
+embedding_id: null
 event_name: ''
 ---
 

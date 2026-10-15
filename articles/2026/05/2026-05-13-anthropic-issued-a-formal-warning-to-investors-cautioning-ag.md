@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 - 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
-embedding_id: 2026-05-13-anthropic-issued-a-formal-warning-to-investors-cautioning-ag
+embedding_id: null
 event_name: ''
 ---
 

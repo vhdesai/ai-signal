@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-embedding_id: 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
+embedding_id: null
 event_name: ''
 ---
 

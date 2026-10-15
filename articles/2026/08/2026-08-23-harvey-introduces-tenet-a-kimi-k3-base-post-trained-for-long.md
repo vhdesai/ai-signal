@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: c7ec3907edfe5c743883aecd35b2723a9d912051ff0b60c1b7ed7db76b5d1b5d
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
 related_article_ids: []
-embedding_id: 2026-08-23-harvey-introduces-tenet-a-kimi-k3-base-post-trained-for-long
+embedding_id: null
 event_name: ''
 ---
 

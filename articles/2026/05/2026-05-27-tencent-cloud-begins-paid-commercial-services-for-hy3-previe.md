@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
-embedding_id: 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
+embedding_id: null
 event_name: ''
 ---
 

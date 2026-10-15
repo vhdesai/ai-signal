@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 related_article_ids: []
-embedding_id: 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva
 related_article_ids: []
-embedding_id: 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
+embedding_id: null
 event_name: ''
 ---
 

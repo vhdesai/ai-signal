@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-microsoft-is-laying-off-4-800-employees
 - 2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
-embedding_id: 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
+embedding_id: null
 event_name: ''
 ---
 

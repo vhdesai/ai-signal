@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
+embedding_id: null
 event_name: ''
 ---
 

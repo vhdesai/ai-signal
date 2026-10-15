@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
 - 2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
-embedding_id: 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
+embedding_id: null
 event_name: ''
 ---
 

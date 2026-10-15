@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 - 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
-embedding_id: 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
+embedding_id: null
 event_name: ''
 ---
 

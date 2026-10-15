@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/
 url_canonical: https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-27_060139_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: f89c5856928e9db9231c577b70672869b4062283305edf006e3e8b1972e6702f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - 2026-09-22-kyutai-s-voice-of-reason-applies-rl-to-spoken-math-nearly-tr
-embedding_id: 2026-09-26-sarvam-ai-releases-saaras-v4-covering-all-22-scheduled-india
+embedding_id: null
 event_name: ''
 ---
 

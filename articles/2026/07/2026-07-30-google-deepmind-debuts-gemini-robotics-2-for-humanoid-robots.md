@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co
 - 2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu
 - 2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning
-embedding_id: 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
+embedding_id: null
 event_name: ''
 ---
 

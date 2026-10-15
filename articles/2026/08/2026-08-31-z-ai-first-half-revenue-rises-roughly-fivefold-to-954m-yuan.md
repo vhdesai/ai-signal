@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
 related_article_ids: []
-embedding_id: 2026-08-31-z-ai-first-half-revenue-rises-roughly-fivefold-to-954m-yuan
+embedding_id: null
 event_name: ''
 ---
 

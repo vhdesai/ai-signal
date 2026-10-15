@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-09-26-google-s-15bn-india-ai-hub-cleared-for-2-51gw-more-than-doub
 - 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
-embedding_id: 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
+embedding_id: null
 event_name: ''
 ---
 

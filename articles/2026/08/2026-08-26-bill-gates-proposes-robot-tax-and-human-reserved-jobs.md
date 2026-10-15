@@ -18,7 +18,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs
 related_article_ids: []
-embedding_id: 2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs
+embedding_id: null
 event_name: ''
 ---
 

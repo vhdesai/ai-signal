@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 - 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
-embedding_id: 2026-10-13-house-proposal-would-clarify-liability-rules-for-ai-agents
+embedding_id: null
 event_name: ''
 ---
 

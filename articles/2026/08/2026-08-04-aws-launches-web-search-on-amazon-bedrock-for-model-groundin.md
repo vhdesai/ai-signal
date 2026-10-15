@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
 related_article_ids: []
-embedding_id: 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
+embedding_id: null
 event_name: ''
 ---
 

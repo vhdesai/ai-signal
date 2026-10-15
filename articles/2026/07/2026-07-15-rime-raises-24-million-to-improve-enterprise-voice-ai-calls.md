@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models
 - 2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models
-embedding_id: 2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls
+embedding_id: null
 event_name: ''
 ---
 

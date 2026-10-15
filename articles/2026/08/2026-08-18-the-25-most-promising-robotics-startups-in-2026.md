@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
-embedding_id: 2026-08-18-the-25-most-promising-robotics-startups-in-2026
+embedding_id: null
 event_name: ''
 ---
 

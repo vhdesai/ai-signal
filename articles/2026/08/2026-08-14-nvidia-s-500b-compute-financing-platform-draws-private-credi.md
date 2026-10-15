@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 related_article_ids: []
-embedding_id: 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
+embedding_id: null
 event_name: ''
 ---
 

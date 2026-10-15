@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
-embedding_id: 2026-05-15-anthropic-picks-dragoneer-greenoaks-sequoia-altimeter-as-co
+embedding_id: null
 event_name: ''
 ---
 

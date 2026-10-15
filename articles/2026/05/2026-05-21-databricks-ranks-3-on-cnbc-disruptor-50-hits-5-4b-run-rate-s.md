@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
 - 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
 - 2026-08-14-databricks-closes-5b-at-a-190b-valuation-as-annualized-reven
-embedding_id: 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
+embedding_id: null
 event_name: ''
 ---
 

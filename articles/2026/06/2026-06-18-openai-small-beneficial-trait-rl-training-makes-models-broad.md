@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 - 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-embedding_id: 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
+embedding_id: null
 event_name: ''
 ---
 

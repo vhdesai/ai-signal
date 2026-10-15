@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-embedding_id: 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
+embedding_id: null
 event_name: ''
 ---
 

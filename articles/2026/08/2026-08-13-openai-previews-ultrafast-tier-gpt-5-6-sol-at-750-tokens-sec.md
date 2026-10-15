@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 related_article_ids: []
-embedding_id: 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec
+embedding_id: null
 event_name: ''
 ---
 

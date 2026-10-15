@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
 - 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
-embedding_id: 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
-embedding_id: 2026-09-04-meta-stock-jumps-after-unveiling-new-ai-coding-model
+embedding_id: null
 event_name: ''
 ---
 

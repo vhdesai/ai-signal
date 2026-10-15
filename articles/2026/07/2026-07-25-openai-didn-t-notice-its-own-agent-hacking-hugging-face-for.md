@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face
-embedding_id: 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+embedding_id: null
 event_name: ''
 ---
 

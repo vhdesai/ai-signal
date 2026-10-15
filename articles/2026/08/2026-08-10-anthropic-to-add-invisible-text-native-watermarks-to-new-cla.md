@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text
-embedding_id: 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
+embedding_id: null
 event_name: ''
 ---
 

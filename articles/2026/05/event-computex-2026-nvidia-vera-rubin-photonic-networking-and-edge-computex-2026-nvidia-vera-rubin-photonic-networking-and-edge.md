@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
 - 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
-embedding_id: event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
+embedding_id: null
 event_name: 'Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics'
 ---
 

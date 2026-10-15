@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
-embedding_id: 2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
 related_article_ids: []
-embedding_id: 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
+embedding_id: null
 event_name: ''
 ---
 

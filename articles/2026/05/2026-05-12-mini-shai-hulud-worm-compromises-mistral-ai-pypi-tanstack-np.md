@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 - 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
-embedding_id: 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+embedding_id: null
 event_name: ''
 ---
 

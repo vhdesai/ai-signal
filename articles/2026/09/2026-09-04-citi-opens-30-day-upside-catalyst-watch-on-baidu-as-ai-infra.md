@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files
 - 2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-embedding_id: 2026-09-04-citi-opens-30-day-upside-catalyst-watch-on-baidu-as-ai-infra
+embedding_id: null
 event_name: ''
 ---
 

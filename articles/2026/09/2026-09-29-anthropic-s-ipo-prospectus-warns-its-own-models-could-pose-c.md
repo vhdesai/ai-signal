@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
 related_article_ids: []
-embedding_id: 2026-09-29-anthropic-s-ipo-prospectus-warns-its-own-models-could-pose-c
+embedding_id: null
 event_name: ''
 ---
 

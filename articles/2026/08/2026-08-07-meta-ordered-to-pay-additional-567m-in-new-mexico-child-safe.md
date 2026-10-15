@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
 - 2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety
 - 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
-embedding_id: 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
+embedding_id: null
 event_name: ''
 ---
 

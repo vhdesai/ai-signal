@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-embedding_id: 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
+embedding_id: null
 event_name: ''
 ---
 

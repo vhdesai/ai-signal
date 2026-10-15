@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 - 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
 - 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
-embedding_id: 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
+embedding_id: null
 event_name: ''
 ---
 

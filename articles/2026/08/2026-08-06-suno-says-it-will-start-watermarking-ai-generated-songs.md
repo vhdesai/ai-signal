@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-google-will-allow-users-to-remove-visible-watermarks-from-ai
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
-embedding_id: 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
+embedding_id: null
 event_name: ''
 ---
 

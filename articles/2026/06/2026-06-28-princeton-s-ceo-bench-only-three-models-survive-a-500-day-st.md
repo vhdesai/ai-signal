@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
-embedding_id: 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
+embedding_id: null
 event_name: ''
 ---
 

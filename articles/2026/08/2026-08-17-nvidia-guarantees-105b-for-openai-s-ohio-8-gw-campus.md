@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent
 - 2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio
 - 2026-08-18-nvidia-guarantees-up-to-105-billion-of-openai-s-ohio-data-ce
-embedding_id: 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
+embedding_id: null
 event_name: ''
 ---
 

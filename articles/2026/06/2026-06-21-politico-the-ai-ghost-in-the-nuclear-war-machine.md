@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 related_article_ids: []
-embedding_id: 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
+embedding_id: null
 event_name: ''
 ---
 

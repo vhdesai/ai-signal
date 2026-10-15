@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
 - 2026-09-19-roboharm-benchmark-frontier-models-rarely-refuse-dangerous-p
-embedding_id: 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
+embedding_id: null
 event_name: ''
 ---
 

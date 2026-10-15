@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti
 - 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
 - 2026-08-17-deepseek-releases-deepseek-harness-developer-preview
-embedding_id: 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
+embedding_id: null
 event_name: ''
 ---
 

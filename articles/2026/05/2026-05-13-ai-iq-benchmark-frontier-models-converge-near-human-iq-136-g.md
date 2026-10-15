@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
 - 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
 - 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
-embedding_id: 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
+embedding_id: null
 event_name: ''
 ---
 

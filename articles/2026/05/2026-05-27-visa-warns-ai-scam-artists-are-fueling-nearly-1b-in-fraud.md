@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
-embedding_id: 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
-embedding_id: event-apple-wwdc26-day-3-announcement-status-and-source-links-apple-wwdc26-day-3-announcement-status-and-source-links-over
+embedding_id: null
 event_name: 'Apple WWDC26 Day 3: Announcement Status and Source Links'
 ---
 

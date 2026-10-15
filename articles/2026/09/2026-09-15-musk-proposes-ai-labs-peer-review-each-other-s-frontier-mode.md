@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
-embedding_id: 2026-09-15-musk-proposes-ai-labs-peer-review-each-other-s-frontier-mode
+embedding_id: null
 event_name: ''
 ---
 

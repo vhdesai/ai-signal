@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
-embedding_id: 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
+embedding_id: null
 event_name: ''
 ---
 

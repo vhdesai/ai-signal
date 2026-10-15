@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman
 - 2026-08-06-openai-upgrades-chatgpt-to-a-smarter-unified-gpt-5-6-sol-and
 - 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
-embedding_id: 2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de
+embedding_id: null
 event_name: ''
 ---
 

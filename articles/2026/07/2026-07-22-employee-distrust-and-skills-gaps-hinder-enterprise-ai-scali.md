@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-embedding_id: 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
+embedding_id: null
 event_name: ''
 ---
 

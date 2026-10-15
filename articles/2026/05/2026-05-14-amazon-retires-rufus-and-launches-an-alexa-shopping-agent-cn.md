@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware
-embedding_id: 2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn
+embedding_id: null
 event_name: ''
 ---
 

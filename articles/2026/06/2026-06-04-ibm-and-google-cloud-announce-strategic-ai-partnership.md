@@ -25,7 +25,7 @@ related_article_ids:
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
-embedding_id: 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
+embedding_id: null
 event_name: ''
 ---
 

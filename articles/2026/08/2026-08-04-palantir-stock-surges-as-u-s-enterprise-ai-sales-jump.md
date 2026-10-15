@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
 - 2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-embedding_id: 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
+embedding_id: null
 event_name: ''
 ---
 

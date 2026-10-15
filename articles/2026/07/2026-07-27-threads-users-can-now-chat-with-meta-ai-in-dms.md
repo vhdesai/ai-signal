@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
-embedding_id: 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
+embedding_id: null
 event_name: ''
 ---
 

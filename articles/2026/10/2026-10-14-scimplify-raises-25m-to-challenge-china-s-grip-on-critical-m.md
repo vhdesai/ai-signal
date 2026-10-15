@@ -7,8 +7,8 @@ source: TechCrunch
 url_original: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
 url_canonical: https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 69794a7e3a8a1235b5dd8ac429f1fe7e63abf5130f7fa8d3b983633ba7ce6f22
 normalized_title_hash: 26e7225a248f631d
 canonical_url_hash: 1cf1a3388554a4ca
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
-embedding_id: 2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-internal-us-treasury-draft-warns-the-ai-market-echoes-the-do
 related_article_ids: []
-embedding_id: 2026-07-06-markets-policy-internal-us-treasury-draft-warns-the-ai-marke
+embedding_id: null
 event_name: ''
 ---
 

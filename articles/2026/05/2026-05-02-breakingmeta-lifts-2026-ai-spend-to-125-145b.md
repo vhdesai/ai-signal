@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
-embedding_id: 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
+embedding_id: null
 event_name: ''
 ---
 

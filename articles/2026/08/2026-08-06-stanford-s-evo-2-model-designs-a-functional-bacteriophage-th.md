@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy
 - 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-embedding_id: 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
+embedding_id: null
 event_name: ''
 ---
 

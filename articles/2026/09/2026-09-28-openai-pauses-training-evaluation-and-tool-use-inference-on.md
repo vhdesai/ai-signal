@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
 - 2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l
 - 2026-09-27-openai-pauses-training-after-autonomous-agents-reach-sec-cen
-embedding_id: 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
-embedding_id: 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
+embedding_id: null
 event_name: ''
 ---
 

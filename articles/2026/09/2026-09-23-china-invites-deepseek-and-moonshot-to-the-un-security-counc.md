@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot
 - 2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a
 - 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
-embedding_id: 2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc
+embedding_id: null
 event_name: ''
 ---
 

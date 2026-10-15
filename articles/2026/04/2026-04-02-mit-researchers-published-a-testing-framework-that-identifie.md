@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
-embedding_id: 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: AI News'
 url_original: https://www.artificialintelligence-news.com/
 url_canonical: https://www.artificialintelligence-news.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: edf632597a8cd4b988d2611e3aa21a3f01e6f1929395c908aa6d1f991b77da99
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
-embedding_id: 2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut
+embedding_id: null
 event_name: ''
 ---
 

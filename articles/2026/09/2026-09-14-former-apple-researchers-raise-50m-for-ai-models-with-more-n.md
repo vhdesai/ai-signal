@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
-embedding_id: 2026-09-14-former-apple-researchers-raise-50m-for-ai-models-with-more-n
+embedding_id: null
 event_name: ''
 ---
 

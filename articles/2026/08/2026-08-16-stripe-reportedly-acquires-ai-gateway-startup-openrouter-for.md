@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 related_article_ids: []
-embedding_id: 2026-08-16-stripe-reportedly-acquires-ai-gateway-startup-openrouter-for
+embedding_id: null
 event_name: ''
 ---
 

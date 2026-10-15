@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
-embedding_id: 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
+embedding_id: null
 event_name: ''
 ---
 

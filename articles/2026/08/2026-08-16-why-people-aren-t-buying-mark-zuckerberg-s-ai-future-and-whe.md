@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
-embedding_id: 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
+embedding_id: null
 event_name: ''
 ---
 

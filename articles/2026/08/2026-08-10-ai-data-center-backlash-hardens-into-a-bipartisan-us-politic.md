@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
-embedding_id: 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
+embedding_id: null
 event_name: ''
 ---
 

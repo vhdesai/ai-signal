@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
+embedding_id: null
 event_name: ''
 ---
 

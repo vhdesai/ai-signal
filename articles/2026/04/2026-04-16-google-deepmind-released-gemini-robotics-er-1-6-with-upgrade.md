@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co
 - 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
 - 2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu
-embedding_id: 2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade
+embedding_id: null
 event_name: ''
 ---
 

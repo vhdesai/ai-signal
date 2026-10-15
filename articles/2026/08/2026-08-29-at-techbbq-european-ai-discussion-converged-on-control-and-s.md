@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-at-techbbq-europe-s-ai-debate-converges-on-sovereignty-and-c
 related_article_ids: []
-embedding_id: 2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s
+embedding_id: null
 event_name: ''
 ---
 

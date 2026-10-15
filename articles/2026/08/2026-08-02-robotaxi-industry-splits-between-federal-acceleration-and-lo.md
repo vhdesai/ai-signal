@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-08-30-the-hidden-human-labor-behind-robotaxi-autonomy
-embedding_id: 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 related_article_ids: []
-embedding_id: 2026-08-25-ibm-releases-granite-4-2-open-weight-reasoning-models-3b-8b
+embedding_id: null
 event_name: ''
 ---
 

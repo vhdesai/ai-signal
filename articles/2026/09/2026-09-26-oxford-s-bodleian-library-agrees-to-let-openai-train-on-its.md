@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-internal-documents-show-oxford-s-bodleian-scans-populated-op
 - 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
 - 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
-embedding_id: 2026-09-26-oxford-s-bodleian-library-agrees-to-let-openai-train-on-its
+embedding_id: null
 event_name: ''
 ---
 

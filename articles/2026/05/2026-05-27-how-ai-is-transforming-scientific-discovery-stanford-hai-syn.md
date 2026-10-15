@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
-embedding_id: 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
 - 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-embedding_id: 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
+embedding_id: null
 event_name: ''
 ---
 

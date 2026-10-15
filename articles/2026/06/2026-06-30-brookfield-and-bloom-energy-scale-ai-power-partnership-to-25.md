@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
-embedding_id: 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
+embedding_id: null
 event_name: ''
 ---
 

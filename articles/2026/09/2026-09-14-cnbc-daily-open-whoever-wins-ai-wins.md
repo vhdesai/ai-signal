@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-embedding_id: 2026-09-14-cnbc-daily-open-whoever-wins-ai-wins
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-openai-launches-visual-ads-alongside-image-generation-result
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
-embedding_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
+embedding_id: null
 event_name: ''
 ---
 

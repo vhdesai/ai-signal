@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
-embedding_id: 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
+embedding_id: null
 event_name: ''
 ---
 

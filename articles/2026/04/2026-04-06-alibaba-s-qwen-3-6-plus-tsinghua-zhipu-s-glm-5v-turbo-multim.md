@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
-embedding_id: 2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim
+embedding_id: null
 event_name: ''
 ---
 

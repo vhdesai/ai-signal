@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
-embedding_id: 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
+embedding_id: null
 event_name: ''
 ---
 

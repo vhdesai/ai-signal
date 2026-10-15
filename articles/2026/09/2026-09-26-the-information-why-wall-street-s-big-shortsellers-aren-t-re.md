@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready
 related_article_ids: []
-embedding_id: 2026-09-26-the-information-why-wall-street-s-big-shortsellers-aren-t-re
+embedding_id: null
 event_name: ''
 ---
 

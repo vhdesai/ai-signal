@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
-embedding_id: 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
+embedding_id: null
 event_name: ''
 ---
 

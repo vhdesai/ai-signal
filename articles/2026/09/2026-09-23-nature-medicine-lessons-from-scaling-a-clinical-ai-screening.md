@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
-embedding_id: 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
+embedding_id: null
 event_name: ''
 ---
 

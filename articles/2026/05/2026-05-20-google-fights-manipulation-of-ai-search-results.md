@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
 - 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-embedding_id: 2026-05-20-google-fights-manipulation-of-ai-search-results
+embedding_id: null
 event_name: ''
 ---
 

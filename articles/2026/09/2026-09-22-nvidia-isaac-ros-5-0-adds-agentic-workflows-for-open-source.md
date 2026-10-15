@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
-embedding_id: 2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source
+embedding_id: null
 event_name: ''
 ---
 

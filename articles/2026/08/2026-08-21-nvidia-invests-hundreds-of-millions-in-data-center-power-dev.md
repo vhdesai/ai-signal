@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
 related_article_ids: []
-embedding_id: 2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev
+embedding_id: null
 event_name: ''
 ---
 

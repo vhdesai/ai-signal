@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
-embedding_id: 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
+embedding_id: null
 event_name: ''
 ---
 

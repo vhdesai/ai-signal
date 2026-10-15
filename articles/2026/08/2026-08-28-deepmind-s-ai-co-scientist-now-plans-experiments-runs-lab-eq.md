@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
-embedding_id: 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-07-21-nvidia-details-vera-cpu-sharpening-its-data-center-challenge
-embedding_id: 2026-06-12-nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-despit
+embedding_id: null
 event_name: ''
 ---
 

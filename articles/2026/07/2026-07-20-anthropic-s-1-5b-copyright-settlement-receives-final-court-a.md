@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-20-anthropic-s-1-5-billion-copyright-settlement-receives-final
 related_article_ids: []
-embedding_id: 2026-07-20-anthropic-s-1-5b-copyright-settlement-receives-final-court-a
+embedding_id: null
 event_name: ''
 ---
 

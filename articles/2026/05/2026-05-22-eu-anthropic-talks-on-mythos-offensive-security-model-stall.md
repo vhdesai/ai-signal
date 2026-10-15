@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-04-13-ai-safety-policy
-embedding_id: 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
+embedding_id: null
 event_name: ''
 ---
 

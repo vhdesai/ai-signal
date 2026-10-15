@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
-embedding_id: 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
+embedding_id: null
 event_name: ''
 ---
 

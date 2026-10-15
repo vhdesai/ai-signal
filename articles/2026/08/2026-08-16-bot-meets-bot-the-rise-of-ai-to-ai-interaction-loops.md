@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-academic-research
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
-embedding_id: 2026-08-16-bot-meets-bot-the-rise-of-ai-to-ai-interaction-loops
+embedding_id: null
 event_name: ''
 ---
 

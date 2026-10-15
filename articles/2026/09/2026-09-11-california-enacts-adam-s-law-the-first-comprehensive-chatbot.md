@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: TechSpot
 url_original: https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html
 url_canonical: https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8de9bb06e21b2dd13a65ee6461c891629e62e9309a52eecf3f08c6e045a91443
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
-embedding_id: 2026-09-11-california-enacts-adam-s-law-the-first-comprehensive-chatbot
+embedding_id: null
 event_name: ''
 ---
 

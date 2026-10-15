@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-enflame-s-shanghai-debut-completes-china-s-domestic-gpu-coho
 related_article_ids: []
-embedding_id: 2026-09-11-tencent-backed-enflame-soars-200-in-shanghai-debut
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-google-deepmind-puts-sign-language-ai-into-gboard-and-live-t
 - 2026-08-12-google-deepmind-frames-sign-language-ai-as-a-governed-deploy
 - 2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign
-embedding_id: 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
+embedding_id: null
 event_name: ''
 ---
 

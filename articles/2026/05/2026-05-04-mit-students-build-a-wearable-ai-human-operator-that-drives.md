@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
-embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
-embedding_id: 2026-04-20-anthropic-april-16-2026-anthropic-shipped-claude-opus-4-7-po
+embedding_id: null
 event_name: ''
 ---
 

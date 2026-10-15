@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
+embedding_id: null
 event_name: ''
 ---
 

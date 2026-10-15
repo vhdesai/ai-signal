@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
 - 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-embedding_id: 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+embedding_id: null
 event_name: ''
 ---
 

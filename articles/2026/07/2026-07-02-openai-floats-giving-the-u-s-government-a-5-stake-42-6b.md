@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
 - 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
-embedding_id: 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 - 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
-embedding_id: 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
+embedding_id: null
 event_name: ''
 ---
 

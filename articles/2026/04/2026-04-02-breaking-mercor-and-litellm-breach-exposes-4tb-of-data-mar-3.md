@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 - 2026-04-01-on-march-24-threat-actor-teampcp-executed-a-sophisticated-su
-embedding_id: 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
+embedding_id: null
 event_name: ''
 ---
 

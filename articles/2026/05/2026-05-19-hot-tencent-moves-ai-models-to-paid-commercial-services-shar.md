@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 - 2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-embedding_id: 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
+embedding_id: null
 event_name: ''
 ---
 

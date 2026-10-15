@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/
 url_canonical: https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_065604_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 66438d317272164987256b5bf7a2369b0bc296893b46c9649d916379b9c2139b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
 - 2026-08-30-openclaw-2-0-ships-the-open-source-ai-client-s-largest-ever
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-embedding_id: 2026-09-19-openclaw-2026-9-5-adds-atomic-rollback-safe-updates-for-self
+embedding_id: null
 event_name: ''
 ---
 

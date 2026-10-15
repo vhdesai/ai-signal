@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c
-embedding_id: 2026-07-15-asml-raises-2026-guidance-a-second-time-on-strong-ai-chip-de
+embedding_id: null
 event_name: ''
 ---
 

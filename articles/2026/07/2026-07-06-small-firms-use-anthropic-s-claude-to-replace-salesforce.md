@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
-embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
+embedding_id: null
 event_name: ''
 ---
 

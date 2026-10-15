@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
-embedding_id: 2026-09-16-personal-ai-startup-instinct-in-talks-for-a-10-billion-valua
+embedding_id: null
 event_name: ''
 ---
 

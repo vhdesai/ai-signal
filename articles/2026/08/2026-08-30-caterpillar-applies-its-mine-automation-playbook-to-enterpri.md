@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
-embedding_id: 2026-08-30-caterpillar-applies-its-mine-automation-playbook-to-enterpri
+embedding_id: null
 event_name: ''
 ---
 

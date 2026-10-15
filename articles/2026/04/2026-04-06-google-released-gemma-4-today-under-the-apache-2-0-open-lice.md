@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
 - 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
-embedding_id: 2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice
+embedding_id: null
 event_name: ''
 ---
 

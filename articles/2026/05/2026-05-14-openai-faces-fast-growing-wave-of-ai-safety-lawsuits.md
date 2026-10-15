@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 - 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
 - 2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans
-embedding_id: 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
+embedding_id: null
 event_name: ''
 ---
 

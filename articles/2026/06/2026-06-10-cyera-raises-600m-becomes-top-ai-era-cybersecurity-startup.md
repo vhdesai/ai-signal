@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
 related_article_ids: []
-embedding_id: 2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup
+embedding_id: null
 event_name: ''
 ---
 

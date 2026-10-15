@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
-embedding_id: 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
+embedding_id: null
 event_name: ''
 ---
 

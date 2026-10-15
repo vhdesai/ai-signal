@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
 related_article_ids: []
-embedding_id: 2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1
+embedding_id: null
 event_name: ''
 ---
 

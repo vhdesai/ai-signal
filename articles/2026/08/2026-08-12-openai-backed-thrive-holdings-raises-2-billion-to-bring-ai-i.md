@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-thrive-holdings-raises-2b-at-12b-valuation-to-apply-ai-to-tr
-embedding_id: 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
 related_article_ids: []
-embedding_id: 2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol
+embedding_id: null
 event_name: ''
 ---
 

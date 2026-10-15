@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-stress
 - 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
-embedding_id: 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
+embedding_id: null
 event_name: ''
 ---
 

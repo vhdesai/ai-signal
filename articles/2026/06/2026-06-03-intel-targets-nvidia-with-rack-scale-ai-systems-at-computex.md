@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
-embedding_id: 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
+embedding_id: null
 event_name: ''
 ---
 

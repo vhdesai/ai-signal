@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
-embedding_id: 2026-10-10-a16z-few-consumers-pay-for-ai-but-top-payers-spend-heavily
+embedding_id: null
 event_name: ''
 ---
 

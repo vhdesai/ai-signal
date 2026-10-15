@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-13-microsoft-anthropic-strategy
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi
-embedding_id: 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
+embedding_id: null
 event_name: ''
 ---
 

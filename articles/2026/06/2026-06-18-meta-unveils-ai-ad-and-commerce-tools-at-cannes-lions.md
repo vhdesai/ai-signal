@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-embedding_id: 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
+embedding_id: null
 event_name: ''
 ---
 

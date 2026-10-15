@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
-embedding_id: 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
+embedding_id: null
 event_name: ''
 ---
 

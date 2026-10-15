@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
 related_article_ids: []
-embedding_id: 2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c
+embedding_id: null
 event_name: ''
 ---
 

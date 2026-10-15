@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 - 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-embedding_id: 2026-06-14-the-information-anthropic-s-contradiction
+embedding_id: null
 event_name: ''
 ---
 

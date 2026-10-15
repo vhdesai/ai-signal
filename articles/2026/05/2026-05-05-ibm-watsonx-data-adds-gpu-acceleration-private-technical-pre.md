@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
 related_article_ids: []
-embedding_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-private-technical-pre
+embedding_id: null
 event_name: ''
 ---
 

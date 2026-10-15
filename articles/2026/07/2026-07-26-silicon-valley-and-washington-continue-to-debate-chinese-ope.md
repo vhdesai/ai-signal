@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
-embedding_id: 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
+embedding_id: null
 event_name: ''
 ---
 

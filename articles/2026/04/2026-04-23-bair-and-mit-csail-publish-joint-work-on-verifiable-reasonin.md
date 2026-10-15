@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
-embedding_id: 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+embedding_id: null
 event_name: ''
 ---
 

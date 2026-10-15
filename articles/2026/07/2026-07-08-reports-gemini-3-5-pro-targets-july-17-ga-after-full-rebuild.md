@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-15-google-delays-gemini-3-5-pro-again-as-reliability-pressure-r
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 - 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
-embedding_id: 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
+embedding_id: null
 event_name: ''
 ---
 

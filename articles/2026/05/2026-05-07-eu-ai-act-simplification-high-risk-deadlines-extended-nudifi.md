@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 related_article_ids: []
-embedding_id: 2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi
+embedding_id: null
 event_name: ''
 ---
 

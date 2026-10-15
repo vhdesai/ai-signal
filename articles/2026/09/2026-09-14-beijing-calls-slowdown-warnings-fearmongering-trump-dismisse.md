@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
-embedding_id: 2026-09-14-beijing-calls-slowdown-warnings-fearmongering-trump-dismisse
+embedding_id: null
 event_name: ''
 ---
 

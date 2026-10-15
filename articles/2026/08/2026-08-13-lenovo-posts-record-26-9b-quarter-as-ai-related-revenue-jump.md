@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
-embedding_id: 2026-08-13-lenovo-posts-record-26-9b-quarter-as-ai-related-revenue-jump
+embedding_id: null
 event_name: ''
 ---
 

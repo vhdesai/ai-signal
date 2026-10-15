@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 related_article_ids:
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
-embedding_id: 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
+embedding_id: null
 event_name: ''
 ---
 

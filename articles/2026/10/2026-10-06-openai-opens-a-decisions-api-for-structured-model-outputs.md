@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
-embedding_id: 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
+embedding_id: null
 event_name: ''
 ---
 

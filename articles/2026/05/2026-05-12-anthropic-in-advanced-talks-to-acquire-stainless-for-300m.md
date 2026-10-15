@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
 - 2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o
 - 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
-embedding_id: 2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade
 - 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
-embedding_id: 2026-10-01-the-information-applied-ai-google-positions-robotics-as-the
+embedding_id: null
 event_name: ''
 ---
 

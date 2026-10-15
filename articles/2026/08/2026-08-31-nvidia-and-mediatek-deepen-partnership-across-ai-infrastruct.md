@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-convertible-bonds-deepens-ai
 - 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
-embedding_id: 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
+embedding_id: null
 event_name: ''
 ---
 

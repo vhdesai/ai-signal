@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
-embedding_id: 2026-07-22-travis-kalanick-s-atoms-raises-1-7-billion-for-industrial-ro
+embedding_id: null
 event_name: ''
 ---
 

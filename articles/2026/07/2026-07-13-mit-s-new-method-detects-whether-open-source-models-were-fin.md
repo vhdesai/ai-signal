@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
 url_canonical: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-13_060615_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: ef736b42675c6e010f0350631dc4456c4d7f539d7e892d0c357fabdf957ae8ce
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-08-14-google-open-sources-heir-a-compiler-that-runs-ai-inference-o
-embedding_id: 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
+embedding_id: null
 event_name: ''
 ---
 

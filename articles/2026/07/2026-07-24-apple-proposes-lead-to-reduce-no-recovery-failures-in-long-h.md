@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
 related_article_ids: []
-embedding_id: 2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h
+embedding_id: null
 event_name: ''
 ---
 

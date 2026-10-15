@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-embedding_id: 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
+embedding_id: null
 event_name: ''
 ---
 

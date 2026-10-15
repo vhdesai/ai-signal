@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
-embedding_id: 2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi
 - 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-embedding_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
+embedding_id: null
 event_name: ''
 ---
 

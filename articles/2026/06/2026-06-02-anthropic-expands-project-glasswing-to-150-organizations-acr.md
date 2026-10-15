@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
 related_article_ids: []
-embedding_id: 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
+embedding_id: null
 event_name: ''
 ---
 

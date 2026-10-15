@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 related_article_ids:
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
-embedding_id: 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
+embedding_id: null
 event_name: ''
 ---
 

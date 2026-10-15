@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
-embedding_id: 2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices
+embedding_id: null
 event_name: ''
 ---
 

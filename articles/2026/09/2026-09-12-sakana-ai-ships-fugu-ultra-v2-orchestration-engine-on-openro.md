@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
 - 2026-07-25-sakana-ai-releases-fugu-cyber-a-security-tuned-orchestration
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-embedding_id: 2026-09-12-sakana-ai-ships-fugu-ultra-v2-orchestration-engine-on-openro
+embedding_id: null
 event_name: ''
 ---
 

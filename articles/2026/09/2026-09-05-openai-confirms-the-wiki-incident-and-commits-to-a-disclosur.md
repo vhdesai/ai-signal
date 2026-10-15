@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure
 - 2026-09-05-openai-confirms-wiki-incident-says-it-is-building-a-disclosu
 - 2026-09-05-openai-confirms-wiki-incident-pledges-a-disclosure-framework
-embedding_id: 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
+embedding_id: null
 event_name: ''
 ---
 

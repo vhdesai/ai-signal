@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Bloomberg
 url_original: https://www.bloomberg.com/
 url_canonical: https://www.bloomberg.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 87d605bff5788d31a2c0ca9be9fa332237a6f9d93f4af38d587a88eb936cde02
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr
-embedding_id: 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+embedding_id: null
 event_name: ''
 ---
 

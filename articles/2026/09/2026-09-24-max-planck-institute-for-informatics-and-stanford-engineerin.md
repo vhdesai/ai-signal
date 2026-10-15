@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
-embedding_id: 2026-09-24-max-planck-institute-for-informatics-and-stanford-engineerin
+embedding_id: null
 event_name: ''
 ---
 

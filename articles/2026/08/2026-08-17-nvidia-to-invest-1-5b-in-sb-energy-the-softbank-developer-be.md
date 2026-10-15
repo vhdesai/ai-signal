@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
 related_article_ids: []
-embedding_id: 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
+embedding_id: null
 event_name: ''
 ---
 

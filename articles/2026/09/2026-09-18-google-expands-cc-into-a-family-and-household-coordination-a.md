@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-google-s-cc-becomes-a-shared-ai-agent-for-families
 - 2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination
 - 2026-09-18-google-rebuilds-cc-as-a-shared-household-agent-with-its-own
-embedding_id: 2026-09-18-google-expands-cc-into-a-family-and-household-coordination-a
+embedding_id: null
 event_name: ''
 ---
 

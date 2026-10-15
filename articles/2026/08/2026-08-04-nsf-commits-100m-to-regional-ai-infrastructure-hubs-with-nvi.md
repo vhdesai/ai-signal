@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
-embedding_id: 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
+embedding_id: null
 event_name: ''
 ---
 

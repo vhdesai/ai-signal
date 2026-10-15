@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 - 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
-embedding_id: 2026-09-24-nscale-ipo-filing-puts-customer-concentration-at-the-center
+embedding_id: null
 event_name: ''
 ---
 

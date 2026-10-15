@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
 - 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
 - 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
-embedding_id: 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
+embedding_id: null
 event_name: ''
 ---
 

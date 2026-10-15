@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
-embedding_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
+embedding_id: null
 event_name: ''
 ---
 

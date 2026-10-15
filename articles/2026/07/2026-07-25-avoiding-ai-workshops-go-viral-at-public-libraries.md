@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-25-librarians-host-viral-lsquo-avoiding-ai-rsquo-workshops-as-c
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
-embedding_id: 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
+embedding_id: null
 event_name: ''
 ---
 

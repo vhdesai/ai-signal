@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
 related_article_ids:
 - 2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data
-embedding_id: 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
+embedding_id: null
 event_name: ''
 ---
 

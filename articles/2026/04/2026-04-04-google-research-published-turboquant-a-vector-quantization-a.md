@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
-embedding_id: 2026-04-04-google-research-published-turboquant-a-vector-quantization-a
+embedding_id: null
 event_name: ''
 ---
 

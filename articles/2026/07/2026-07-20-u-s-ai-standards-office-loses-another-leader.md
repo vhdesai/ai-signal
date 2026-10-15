@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
 - 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
-embedding_id: 2026-07-20-u-s-ai-standards-office-loses-another-leader
+embedding_id: null
 event_name: ''
 ---
 

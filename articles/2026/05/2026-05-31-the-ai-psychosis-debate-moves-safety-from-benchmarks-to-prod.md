@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
-embedding_id: 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
+embedding_id: null
 event_name: ''
 ---
 

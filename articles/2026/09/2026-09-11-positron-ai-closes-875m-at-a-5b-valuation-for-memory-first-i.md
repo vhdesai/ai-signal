@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
-embedding_id: 2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i
+embedding_id: null
 event_name: ''
 ---
 

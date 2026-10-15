@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
 - 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
-embedding_id: 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
+embedding_id: null
 event_name: ''
 ---
 

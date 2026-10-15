@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over
-embedding_id: 2026-07-17-apple-and-google-ordered-to-purge-nudify-apps-from-their-app
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
 related_article_ids: []
-embedding_id: 2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter
+embedding_id: null
 event_name: ''
 ---
 

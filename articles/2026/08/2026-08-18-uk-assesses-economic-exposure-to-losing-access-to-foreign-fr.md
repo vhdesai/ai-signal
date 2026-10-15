@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 - 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
-embedding_id: 2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr
+embedding_id: null
 event_name: ''
 ---
 

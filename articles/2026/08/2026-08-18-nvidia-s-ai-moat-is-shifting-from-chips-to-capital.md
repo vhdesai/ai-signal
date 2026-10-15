@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-nvidia-s-equity-stakes-could-become-john-malone-style-conglo
 - 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-embedding_id: 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 related_article_ids: []
-embedding_id: 2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an
+embedding_id: null
 event_name: ''
 ---
 

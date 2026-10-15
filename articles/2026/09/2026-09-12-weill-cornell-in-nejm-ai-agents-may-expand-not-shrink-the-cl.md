@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
-embedding_id: 2026-09-12-weill-cornell-in-nejm-ai-agents-may-expand-not-shrink-the-cl
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
-embedding_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
+embedding_id: null
 event_name: ''
 ---
 

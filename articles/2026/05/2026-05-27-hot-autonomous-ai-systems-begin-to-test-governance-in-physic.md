@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 - 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
-embedding_id: 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
+embedding_id: null
 event_name: ''
 ---
 

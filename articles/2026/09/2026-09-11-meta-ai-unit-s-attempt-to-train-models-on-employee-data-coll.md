@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-embedding_id: 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
+embedding_id: null
 event_name: ''
 ---
 

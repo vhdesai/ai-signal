@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
-embedding_id: 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-antitrust-suit-alleges-openai-anthropic-google-and-spacexai
 related_article_ids: []
-embedding_id: 2026-09-19-class-action-alleges-anthropic-openai-google-and-xai-illegal
+embedding_id: null
 event_name: ''
 ---
 

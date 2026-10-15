@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
-embedding_id: 2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual
+embedding_id: null
 event_name: ''
 ---
 

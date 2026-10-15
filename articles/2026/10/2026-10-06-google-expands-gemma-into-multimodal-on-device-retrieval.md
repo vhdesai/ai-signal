@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
-embedding_id: 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
+embedding_id: null
 event_name: ''
 ---
 

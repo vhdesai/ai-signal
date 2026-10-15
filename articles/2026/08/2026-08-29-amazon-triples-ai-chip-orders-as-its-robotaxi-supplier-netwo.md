@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-04-09-products-tools
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-embedding_id: 2026-08-29-amazon-triples-ai-chip-orders-as-its-robotaxi-supplier-netwo
+embedding_id: null
 event_name: ''
 ---
 

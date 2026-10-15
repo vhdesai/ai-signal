@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
-embedding_id: 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
+embedding_id: null
 event_name: ''
 ---
 

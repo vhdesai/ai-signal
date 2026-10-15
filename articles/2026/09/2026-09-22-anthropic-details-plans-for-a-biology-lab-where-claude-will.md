@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-anthropic-says-its-new-biology-lab-has-already-found-somethi
 - 2026-09-18-anthropic-confirms-it-operates-a-physical-wet-biology-lab
 - 2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy
-embedding_id: 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
+embedding_id: null
 event_name: ''
 ---
 

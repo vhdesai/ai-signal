@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
 related_article_ids: []
-embedding_id: 2026-08-12-ai-coding-valuations-keep-compounding-cognition-40b-lovable
+embedding_id: null
 event_name: ''
 ---
 

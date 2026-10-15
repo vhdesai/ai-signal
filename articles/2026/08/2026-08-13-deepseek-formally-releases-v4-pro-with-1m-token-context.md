@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
 - 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-embedding_id: 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
+embedding_id: null
 event_name: ''
 ---
 

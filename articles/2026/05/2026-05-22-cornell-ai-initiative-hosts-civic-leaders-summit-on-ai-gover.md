@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Cornell AI
 url_original: https://ai.cornell.edu/news/
 url_canonical: https://ai.cornell.edu/news/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: adb2c35508441b8a39e218c99c68601c4307caa4e00723a9bfd79b07bac2b160
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
-embedding_id: 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
+embedding_id: null
 event_name: ''
 ---
 

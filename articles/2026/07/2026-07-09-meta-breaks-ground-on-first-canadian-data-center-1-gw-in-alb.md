@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-07-13-infrastructure-meta-capex
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-embedding_id: 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
+embedding_id: null
 event_name: ''
 ---
 

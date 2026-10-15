@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
-embedding_id: 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
+embedding_id: null
 event_name: ''
 ---
 

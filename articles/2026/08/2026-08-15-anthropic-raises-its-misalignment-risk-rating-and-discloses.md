@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-embedding_id: 2026-08-15-anthropic-raises-its-misalignment-risk-rating-and-discloses
+embedding_id: null
 event_name: ''
 ---
 

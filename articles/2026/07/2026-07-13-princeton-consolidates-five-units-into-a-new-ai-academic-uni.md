@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
-embedding_id: 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-embedding_id: 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
+embedding_id: null
 event_name: ''
 ---
 

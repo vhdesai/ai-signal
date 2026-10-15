@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
 related_article_ids: []
-embedding_id: 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-25-saturday-september-26-2026
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: 2026-08-04-microsoft-closes-up-for-2026-finally
+embedding_id: null
 event_name: ''
 ---
 

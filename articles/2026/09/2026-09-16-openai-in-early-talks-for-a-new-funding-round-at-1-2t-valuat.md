@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-embedding_id: 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
+embedding_id: null
 event_name: ''
 ---
 

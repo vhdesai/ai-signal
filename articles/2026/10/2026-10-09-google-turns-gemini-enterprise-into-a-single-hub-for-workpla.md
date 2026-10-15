@@ -5,7 +5,7 @@ date: '2026-10-09'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/google-gemini-agent-enterprise-thomas-kurian/832561/
 url_canonical: https://www.ciodive.com/news/google-gemini-agent-enterprise-thomas-kurian/832561/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 82660b9c6e8e937c0e02ee2261020d7b358b82c4a21299176c55dcf4dda89743
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
 - 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
-embedding_id: 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
+embedding_id: null
 event_name: ''
 ---
 

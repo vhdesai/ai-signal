@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 related_article_ids: []
-embedding_id: 2026-07-31-google-rolls-back-earth-ai-image-feature-one-day-after-launc
+embedding_id: null
 event_name: ''
 ---
 

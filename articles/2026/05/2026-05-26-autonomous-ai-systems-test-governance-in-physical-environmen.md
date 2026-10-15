@@ -24,7 +24,7 @@ related_article_ids:
 - event-icra-2026-icra-2026-strategic-implications
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
-embedding_id: 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
+embedding_id: null
 event_name: ''
 ---
 

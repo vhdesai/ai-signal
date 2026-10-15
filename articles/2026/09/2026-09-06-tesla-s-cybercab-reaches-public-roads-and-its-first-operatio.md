@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-nhtsa-investigates-tesla-s-cybercab-deployment-without-manua
 - 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
 - 2026-08-24-tesla-sets-september-3-cybercab-launch-event-in-austin
-embedding_id: 2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio
+embedding_id: null
 event_name: ''
 ---
 

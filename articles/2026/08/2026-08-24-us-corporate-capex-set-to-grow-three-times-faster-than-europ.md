@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
-embedding_id: 2026-08-24-us-corporate-capex-set-to-grow-three-times-faster-than-europ
+embedding_id: null
 event_name: ''
 ---
 

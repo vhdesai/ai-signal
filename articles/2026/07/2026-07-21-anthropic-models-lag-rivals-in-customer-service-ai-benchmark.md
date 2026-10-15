@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
-embedding_id: 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
+embedding_id: null
 event_name: ''
 ---
 

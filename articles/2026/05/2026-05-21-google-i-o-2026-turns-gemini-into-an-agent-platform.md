@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-embedding_id: 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
+embedding_id: null
 event_name: ''
 ---
 

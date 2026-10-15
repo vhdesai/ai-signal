@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-embedding_id: 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
+embedding_id: null
 event_name: ''
 ---
 

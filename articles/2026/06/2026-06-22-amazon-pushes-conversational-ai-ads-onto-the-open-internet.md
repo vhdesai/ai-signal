@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
-embedding_id: 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
+embedding_id: null
 event_name: ''
 ---
 

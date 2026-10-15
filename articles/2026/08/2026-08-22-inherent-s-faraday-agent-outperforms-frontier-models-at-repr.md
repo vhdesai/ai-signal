@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-deepmind-alumni-inherent-s-faraday-outperforms-claude-and-gp
 related_article_ids: []
-embedding_id: 2026-08-22-inherent-s-faraday-agent-outperforms-frontier-models-at-repr
+embedding_id: null
 event_name: ''
 ---
 

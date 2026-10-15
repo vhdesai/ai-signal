@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-04-10-google-has-rolled-out-end-to-end-encryption-for-gmail-on-and
+embedding_id: null
 event_name: ''
 ---
 

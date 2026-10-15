@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
-embedding_id: 2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats
+embedding_id: null
 event_name: ''
 ---
 

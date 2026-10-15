@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia
 - 2026-07-09-openai-ships-gpt-5-6-sol-terra-and-luna-after-a-two-week-gov
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
-embedding_id: 2026-06-28-reporting-on-openai-s-gpt-5-6-sol-terra-luna-preview-this-pi
+embedding_id: null
 event_name: ''
 ---
 

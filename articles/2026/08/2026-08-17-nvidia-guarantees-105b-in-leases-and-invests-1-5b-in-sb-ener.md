@@ -27,7 +27,7 @@ canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-suppor
 related_article_ids:
 - 2026-08-17-nvidia-invests-1-5b-in-softbank-data-center-developer-offers
 - 2026-08-17-openai-locks-in-10-gigawatt-ohio-data-center-lease-with-nvid
-embedding_id: 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
+embedding_id: null
 event_name: ''
 ---
 

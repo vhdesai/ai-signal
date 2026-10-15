@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: 2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365
+embedding_id: null
 event_name: ''
 ---
 

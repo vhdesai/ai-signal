@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers-jolts
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers
 - 2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl
-embedding_id: 2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob
+embedding_id: null
 event_name: ''
 ---
 

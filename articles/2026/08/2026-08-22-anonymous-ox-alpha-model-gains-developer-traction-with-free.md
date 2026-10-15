@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token
 related_article_ids: []
-embedding_id: 2026-08-22-anonymous-ox-alpha-model-gains-developer-traction-with-free
+embedding_id: null
 event_name: ''
 ---
 

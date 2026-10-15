@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n
 - 2026-08-02-ai-images-are-everywhere-here-s-what-they-do-to-our-brains
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-embedding_id: 2026-10-07-study-suggests-heavy-llm-use-may-reduce-some-measures-of-bra
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
-embedding_id: 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
+embedding_id: null
 event_name: ''
 ---
 

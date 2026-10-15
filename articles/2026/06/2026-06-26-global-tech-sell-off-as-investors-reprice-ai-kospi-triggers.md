@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
-embedding_id: 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
+embedding_id: null
 event_name: ''
 ---
 

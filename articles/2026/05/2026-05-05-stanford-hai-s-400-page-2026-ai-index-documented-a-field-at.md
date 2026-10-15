@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
-embedding_id: 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+embedding_id: null
 event_name: ''
 ---
 

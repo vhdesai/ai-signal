@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
-embedding_id: 2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa
 - 2026-08-27-cohere-ships-parse-5-a-2-3b-vision-language-model-for-enterp
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
-embedding_id: 2026-08-04-practical-guide-to-pixel-native-rag-and-visual-document-inde
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-embedding_id: 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
+embedding_id: null
 event_name: ''
 ---
 

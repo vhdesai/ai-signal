@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-embedding_id: 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
 - 2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
-embedding_id: 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
+embedding_id: null
 event_name: ''
 ---
 

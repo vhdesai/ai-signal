@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-embedding_id: 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
+embedding_id: null
 event_name: ''
 ---
 

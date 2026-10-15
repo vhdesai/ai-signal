@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 related_article_ids: []
-embedding_id: 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
+embedding_id: null
 event_name: ''
 ---
 

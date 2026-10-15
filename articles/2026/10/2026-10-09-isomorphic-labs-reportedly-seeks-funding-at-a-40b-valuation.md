@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-embedding_id: 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
+embedding_id: null
 event_name: ''
 ---
 

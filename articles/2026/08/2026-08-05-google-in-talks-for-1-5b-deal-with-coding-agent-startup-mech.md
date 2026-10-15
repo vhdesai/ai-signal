@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
 related_article_ids: []
-embedding_id: 2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech
+embedding_id: null
 event_name: ''
 ---
 

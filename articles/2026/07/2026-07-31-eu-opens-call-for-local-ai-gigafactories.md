@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
-embedding_id: 2026-07-31-eu-opens-call-for-local-ai-gigafactories
+embedding_id: null
 event_name: ''
 ---
 

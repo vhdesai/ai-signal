@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
-embedding_id: 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
+embedding_id: null
 event_name: ''
 ---
 

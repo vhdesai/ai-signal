@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
-embedding_id: 2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women
+embedding_id: null
 event_name: ''
 ---
 

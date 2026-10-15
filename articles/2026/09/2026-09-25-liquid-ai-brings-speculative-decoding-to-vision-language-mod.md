@@ -5,7 +5,7 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-26_060231_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: b6d3abe12be20f56e4d8efcc44c75df1927544cb199fabb527572851a45540f8
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
 - 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
-embedding_id: 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
+embedding_id: null
 event_name: ''
 ---
 

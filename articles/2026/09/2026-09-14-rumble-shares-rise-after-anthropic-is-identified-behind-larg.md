@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 - 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-embedding_id: 2026-09-14-rumble-shares-rise-after-anthropic-is-identified-behind-larg
+embedding_id: null
 event_name: ''
 ---
 

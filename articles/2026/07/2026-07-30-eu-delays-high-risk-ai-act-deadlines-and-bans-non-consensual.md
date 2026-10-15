@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
 - 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
-embedding_id: 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
+embedding_id: null
 event_name: ''
 ---
 

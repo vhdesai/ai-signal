@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
-embedding_id: 2026-09-21-endofusion-multimodal-ai-tool-aims-to-speed-endometriosis-di
+embedding_id: null
 event_name: ''
 ---
 

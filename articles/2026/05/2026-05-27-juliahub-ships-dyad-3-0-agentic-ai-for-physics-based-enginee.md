@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: HPCwire
 url_original: https://www.hpcwire.com/aiwire/
 url_canonical: https://www.hpcwire.com/aiwire/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: c34fd811cb34edb280664117d4a7f6306da13e057618d9f38e32bdb516e52a4d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: 2026-05-27-juliahub-ships-dyad-3-0-agentic-ai-for-physics-based-enginee
+embedding_id: null
 event_name: ''
 ---
 

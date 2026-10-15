@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
-embedding_id: 2026-10-08-nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-r
+embedding_id: null
 event_name: ''
 ---
 

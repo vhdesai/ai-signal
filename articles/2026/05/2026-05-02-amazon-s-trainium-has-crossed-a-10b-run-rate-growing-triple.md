@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
+embedding_id: null
 event_name: ''
 ---
 

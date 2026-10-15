@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr
 related_article_ids: []
-embedding_id: 2026-09-14-infleqtion-reports-5x-reduction-in-physical-qubits-per-logic
+embedding_id: null
 event_name: ''
 ---
 

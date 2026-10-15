@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 - 2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack
-embedding_id: 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
+embedding_id: null
 event_name: ''
 ---
 

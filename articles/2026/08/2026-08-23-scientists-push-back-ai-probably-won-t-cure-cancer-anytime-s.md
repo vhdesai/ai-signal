@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
-embedding_id: 2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s
+embedding_id: null
 event_name: ''
 ---
 

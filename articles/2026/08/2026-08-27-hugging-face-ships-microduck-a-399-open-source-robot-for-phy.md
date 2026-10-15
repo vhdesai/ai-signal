@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph
 related_article_ids: []
-embedding_id: 2026-08-27-hugging-face-ships-microduck-a-399-open-source-robot-for-phy
+embedding_id: null
 event_name: ''
 ---
 

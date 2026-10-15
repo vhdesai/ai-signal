@@ -5,7 +5,7 @@ date: '2026-07-22'
 source: ADTmag · Databricks Release Notes
 url_original: https://adtmag.com/articles/2026/07/22/oracle-adds-ai-native-development.aspx
 url_canonical: https://adtmag.com/articles/2026/07/22/oracle-adds-ai-native-development.aspx
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 1177fd41b2835c5f0ccc86fa610074fc3dc089cc6cb0f754c0c505226cd89da2
 normalized_title_hash: d97b121e897db265
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 - 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
-embedding_id: 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
+embedding_id: null
 event_name: ''
 ---
 

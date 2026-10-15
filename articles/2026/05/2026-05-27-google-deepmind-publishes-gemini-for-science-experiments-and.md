@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
-embedding_id: 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
+embedding_id: null
 event_name: ''
 ---
 

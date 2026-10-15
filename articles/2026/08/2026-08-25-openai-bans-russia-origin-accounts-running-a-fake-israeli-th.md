@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
-embedding_id: 2026-08-25-openai-bans-russia-origin-accounts-running-a-fake-israeli-th
+embedding_id: null
 event_name: ''
 ---
 

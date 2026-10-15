@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
-embedding_id: 2026-10-01-the-information-briefing-microsoft-s-exodus-ryan-roslansky-a
+embedding_id: null
 event_name: ''
 ---
 

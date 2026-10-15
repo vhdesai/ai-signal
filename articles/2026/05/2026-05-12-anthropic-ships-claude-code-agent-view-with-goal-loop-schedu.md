@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
 - 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-embedding_id: 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
+embedding_id: null
 event_name: ''
 ---
 

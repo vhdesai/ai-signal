@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew
-embedding_id: 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
+embedding_id: null
 event_name: ''
 ---
 

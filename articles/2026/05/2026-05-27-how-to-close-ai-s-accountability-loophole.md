@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l
-embedding_id: 2026-05-27-how-to-close-ai-s-accountability-loophole
+embedding_id: null
 event_name: ''
 ---
 

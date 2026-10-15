@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-embedding_id: 2026-05-18-meta-s-proprietary-flagship-model-avocado-has-slipped-again
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-embedding_id: 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
+embedding_id: null
 event_name: ''
 ---
 

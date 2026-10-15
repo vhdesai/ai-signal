@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 - 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
-embedding_id: 2026-08-20-ai-data-centre-regulation-just-got-a-template-that-needs-no
+embedding_id: null
 event_name: ''
 ---
 

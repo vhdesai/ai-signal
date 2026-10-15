@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
 - 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
 - 2026-10-09-openai-updates-chatgpt-with-interactive-graphics
-embedding_id: 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+embedding_id: null
 event_name: ''
 ---
 

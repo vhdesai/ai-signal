@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
 - 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
-embedding_id: 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
+embedding_id: null
 event_name: ''
 ---
 

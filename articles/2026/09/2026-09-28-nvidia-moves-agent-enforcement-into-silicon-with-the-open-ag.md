@@ -29,7 +29,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age
 related_article_ids: []
-embedding_id: 2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag
+embedding_id: null
 event_name: ''
 ---
 

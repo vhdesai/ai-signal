@@ -6,7 +6,7 @@ date: '2026-06-14'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 184491e0f3dd344f2865ca4c70628814be22418330dabeaf770429bf2f2a17ef
 normalized_title_hash: 431c5e98775ac6ca
@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should
 - 2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo
-embedding_id: 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
+embedding_id: null
 event_name: ''
 ---
 

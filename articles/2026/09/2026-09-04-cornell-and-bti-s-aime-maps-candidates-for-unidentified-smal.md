@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-embedding_id: 2026-09-04-cornell-and-bti-s-aime-maps-candidates-for-unidentified-smal
+embedding_id: null
 event_name: ''
 ---
 

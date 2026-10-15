@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
-embedding_id: 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
+embedding_id: null
 event_name: ''
 ---
 

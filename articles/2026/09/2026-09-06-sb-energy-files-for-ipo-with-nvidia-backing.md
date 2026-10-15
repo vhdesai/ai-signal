@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und
 - 2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
-embedding_id: 2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing
+embedding_id: null
 event_name: ''
 ---
 

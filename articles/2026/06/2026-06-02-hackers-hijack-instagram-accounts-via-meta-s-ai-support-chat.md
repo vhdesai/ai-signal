@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac
 - 2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers
-embedding_id: 2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat
+embedding_id: null
 event_name: ''
 ---
 

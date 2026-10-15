@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 related_article_ids: []
-embedding_id: 2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy
+embedding_id: null
 event_name: ''
 ---
 

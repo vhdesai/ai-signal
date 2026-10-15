@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 related_article_ids: []
-embedding_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-to-chase-ai-m
+embedding_id: null
 event_name: ''
 ---
 

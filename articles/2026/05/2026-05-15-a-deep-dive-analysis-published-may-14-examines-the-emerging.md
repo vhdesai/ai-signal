@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-05-14-adaption-unveils-autoscientist-for-automated-model-training
 - 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
-embedding_id: 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
+embedding_id: null
 event_name: ''
 ---
 

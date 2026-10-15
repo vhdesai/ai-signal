@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 - 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
 - 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
-embedding_id: 2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api
+embedding_id: null
 event_name: ''
 ---
 

@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third
 related_article_ids: []
-embedding_id: 2026-08-20-pew-finds-one-in-ten-webpages-shows-signs-of-ai-authorship
+embedding_id: null
 event_name: ''
 ---
 

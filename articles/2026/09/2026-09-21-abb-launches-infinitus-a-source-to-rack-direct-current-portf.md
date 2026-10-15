@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 - 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: 2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf
+embedding_id: null
 event_name: ''
 ---
 

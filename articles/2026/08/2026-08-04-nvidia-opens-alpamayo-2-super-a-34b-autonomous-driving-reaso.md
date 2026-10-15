@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo
 - 2026-08-05-nvidia-releases-alpamayo-2-super-for-commercial-autonomous-d
 - 2026-08-04-nvidia-opens-alpamayo-2-super-for-commercial-robotaxi-and-av
-embedding_id: 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
+embedding_id: null
 event_name: ''
 ---
 

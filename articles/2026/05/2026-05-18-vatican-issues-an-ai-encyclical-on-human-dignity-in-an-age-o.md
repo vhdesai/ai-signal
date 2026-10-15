@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
-embedding_id: 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
+embedding_id: null
 event_name: ''
 ---
 

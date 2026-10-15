@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
 - 2026-09-21-softbank-launches-11b-junk-bond-sale-to-fund-next-openai-tra
 - 2026-09-21-softbank-launches-11b-bond-sale-to-fund-its-next-openai-tran
-embedding_id: 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
+embedding_id: null
 event_name: ''
 ---
 

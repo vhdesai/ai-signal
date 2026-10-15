@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 - 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
-embedding_id: 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
+embedding_id: null
 event_name: ''
 ---
 

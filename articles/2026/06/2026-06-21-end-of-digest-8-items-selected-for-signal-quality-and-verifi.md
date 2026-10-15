@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-embedding_id: 2026-06-21-end-of-digest-8-items-selected-for-signal-quality-and-verifi
+embedding_id: null
 event_name: ''
 ---
 

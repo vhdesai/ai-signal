@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 - 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
-embedding_id: 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-13-microsoft-anthropic-strategy
 - 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
-embedding_id: 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+embedding_id: null
 event_name: ''
 ---
 

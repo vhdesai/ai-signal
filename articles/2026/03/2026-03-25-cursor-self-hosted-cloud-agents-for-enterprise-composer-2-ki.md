@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
 - 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
-embedding_id: 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
+embedding_id: null
 event_name: ''
 ---
 

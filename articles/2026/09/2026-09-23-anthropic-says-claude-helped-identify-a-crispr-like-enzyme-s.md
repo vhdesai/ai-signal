@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
-embedding_id: 2026-09-23-anthropic-says-claude-helped-identify-a-crispr-like-enzyme-s
+embedding_id: null
 event_name: ''
 ---
 

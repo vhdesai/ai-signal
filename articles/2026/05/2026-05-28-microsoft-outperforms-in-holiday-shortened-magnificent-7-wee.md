@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-07-30-thursday-july-30-2026
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
-embedding_id: 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Data Center Dynamics
 url_original: https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/
 url_canonical: https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_143014_Final-Daily-AI-News-Digest.md
 content_hash: 7201f0e0d60862e90391cbc5a96a5ad52727f53de286c60b2d3b8f7eae5b4c54
 normalized_title_hash: 33cd30f739f315bc
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl
-embedding_id: 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
+embedding_id: null
 event_name: ''
 ---
 

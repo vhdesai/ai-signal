@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 - 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo
 - 2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language
-embedding_id: 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
+embedding_id: null
 event_name: ''
 ---
 

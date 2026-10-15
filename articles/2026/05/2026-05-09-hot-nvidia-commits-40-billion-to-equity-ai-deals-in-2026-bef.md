@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion
-embedding_id: 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
+embedding_id: null
 event_name: ''
 ---
 

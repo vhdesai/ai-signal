@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
-embedding_id: 2026-09-07-ifm-releases-k2-horizon-six-apache-2-0-open-weight-models-sp
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-embedding_id: 2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric
+embedding_id: null
 event_name: ''
 ---
 

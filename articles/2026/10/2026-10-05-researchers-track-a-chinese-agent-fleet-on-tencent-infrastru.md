@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-embedding_id: 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
+embedding_id: null
 event_name: ''
 ---
 

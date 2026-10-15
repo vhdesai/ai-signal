@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
-embedding_id: 2026-09-24-va-lsgan-generative-latent-space-parameterisation-cuts-groun
+embedding_id: null
 event_name: ''
 ---
 

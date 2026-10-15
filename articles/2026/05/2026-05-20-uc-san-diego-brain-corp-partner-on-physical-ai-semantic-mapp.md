@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-embedding_id: 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+embedding_id: null
 event_name: ''
 ---
 

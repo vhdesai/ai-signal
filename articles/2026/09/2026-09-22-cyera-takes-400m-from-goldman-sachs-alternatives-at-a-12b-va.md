@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: SecurityWeek
 url_original: https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/
 url_canonical: https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-23_060610_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: c00216514d9e2779f40dd42721c4e77915b2b1e8cb2e7da5dc8d719a87da355f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
 - 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
-embedding_id: 2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va
+embedding_id: null
 event_name: ''
 ---
 

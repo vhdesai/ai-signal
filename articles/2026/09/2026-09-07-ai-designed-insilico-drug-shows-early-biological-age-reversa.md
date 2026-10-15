@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
 - 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
-embedding_id: 2026-09-07-ai-designed-insilico-drug-shows-early-biological-age-reversa
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 related_article_ids: []
-embedding_id: 2026-04-14-source-tech-insider-updated-april-2026
+embedding_id: null
 event_name: ''
 ---
 

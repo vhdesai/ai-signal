@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
-embedding_id: 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
+embedding_id: null
 event_name: ''
 ---
 

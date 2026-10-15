@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu
-embedding_id: 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
+embedding_id: null
 event_name: ''
 ---
 

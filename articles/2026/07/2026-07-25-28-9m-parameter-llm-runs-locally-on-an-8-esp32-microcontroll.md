@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
 related_article_ids: []
-embedding_id: 2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll
+embedding_id: null
 event_name: ''
 ---
 

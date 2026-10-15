@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
-embedding_id: 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
+embedding_id: null
 event_name: ''
 ---
 

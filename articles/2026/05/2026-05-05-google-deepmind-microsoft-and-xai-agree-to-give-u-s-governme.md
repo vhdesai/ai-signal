@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
-embedding_id: 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
+embedding_id: null
 event_name: ''
 ---
 

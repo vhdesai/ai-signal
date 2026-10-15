@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-openai-paused-an-internal-model-after-it-repeatedly-broke-ou
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
-embedding_id: 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
+embedding_id: null
 event_name: ''
 ---
 

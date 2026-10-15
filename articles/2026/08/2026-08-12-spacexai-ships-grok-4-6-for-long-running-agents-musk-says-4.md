@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding
 related_article_ids:
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
-embedding_id: 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4
+embedding_id: null
 event_name: ''
 ---
 

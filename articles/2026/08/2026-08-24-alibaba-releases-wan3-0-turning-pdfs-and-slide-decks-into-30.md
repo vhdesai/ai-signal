@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
 - 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
-embedding_id: 2026-08-24-alibaba-releases-wan3-0-turning-pdfs-and-slide-decks-into-30
+embedding_id: null
 event_name: ''
 ---
 

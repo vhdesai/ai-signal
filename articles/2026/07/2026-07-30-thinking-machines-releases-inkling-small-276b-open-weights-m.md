@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope
 - 2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod
 - 2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open
-embedding_id: 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
+embedding_id: null
 event_name: ''
 ---
 

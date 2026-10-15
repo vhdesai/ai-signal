@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
 related_article_ids: []
-embedding_id: 2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he
+embedding_id: null
 event_name: ''
 ---
 

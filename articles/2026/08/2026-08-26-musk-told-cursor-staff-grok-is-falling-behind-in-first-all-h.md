@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-the-information-musk-told-cursor-staff-grok-is-falling-behin
 - 2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition
 - 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
-embedding_id: 2026-08-26-musk-told-cursor-staff-grok-is-falling-behind-in-first-all-h
+embedding_id: null
 event_name: ''
 ---
 

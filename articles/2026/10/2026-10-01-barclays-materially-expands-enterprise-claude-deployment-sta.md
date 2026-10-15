@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-01-barclays-expands-claude-across-banking-operations
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-embedding_id: 2026-10-01-barclays-materially-expands-enterprise-claude-deployment-sta
+embedding_id: null
 event_name: ''
 ---
 

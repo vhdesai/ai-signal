@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-infrastructure-local-policy-data-centers
 related_article_ids: []
-embedding_id: 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
+embedding_id: null
 event_name: ''
 ---
 

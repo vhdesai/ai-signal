@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 related_article_ids: []
-embedding_id: 2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper
+embedding_id: null
 event_name: ''
 ---
 

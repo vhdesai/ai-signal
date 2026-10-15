@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 - 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-embedding_id: 2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai
+embedding_id: null
 event_name: ''
 ---
 

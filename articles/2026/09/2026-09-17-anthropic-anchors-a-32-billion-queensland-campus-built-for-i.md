@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
 - 2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale
-embedding_id: 2026-09-17-anthropic-anchors-a-32-billion-queensland-campus-built-for-i
+embedding_id: null
 event_name: ''
 ---
 

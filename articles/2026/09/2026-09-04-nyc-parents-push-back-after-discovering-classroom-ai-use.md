@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 - 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 - 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
-embedding_id: 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
+embedding_id: null
 event_name: ''
 ---
 

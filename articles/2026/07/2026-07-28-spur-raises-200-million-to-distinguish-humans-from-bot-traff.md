@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-bot-detection-startup-spur-raises-200m-from-insight-partners
 related_article_ids: []
-embedding_id: 2026-07-28-spur-raises-200-million-to-distinguish-humans-from-bot-traff
+embedding_id: null
 event_name: ''
 ---
 

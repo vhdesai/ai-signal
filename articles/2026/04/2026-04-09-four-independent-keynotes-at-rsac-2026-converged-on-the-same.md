@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-embedding_id: 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
+embedding_id: null
 event_name: ''
 ---
 

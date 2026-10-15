@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-08-27-salesforce-and-anthropic-launch-claudeforce-crm-plugin
 - 2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs
-embedding_id: 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce-crm
+embedding_id: null
 event_name: ''
 ---
 

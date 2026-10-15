@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
-embedding_id: 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
+embedding_id: null
 event_name: ''
 ---
 

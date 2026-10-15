@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
-embedding_id: 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
+embedding_id: null
 event_name: ''
 ---
 

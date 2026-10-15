@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
-embedding_id: 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+embedding_id: null
 event_name: ''
 ---
 

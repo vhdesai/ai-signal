@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
 related_article_ids: []
-embedding_id: 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
+embedding_id: null
 event_name: ''
 ---
 

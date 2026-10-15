@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
-embedding_id: 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
+embedding_id: null
 event_name: ''
 ---
 

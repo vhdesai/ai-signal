@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: 2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan
+embedding_id: null
 event_name: ''
 ---
 

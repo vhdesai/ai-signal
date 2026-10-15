@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 related_article_ids: []
-embedding_id: 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
+embedding_id: null
 event_name: ''
 ---
 

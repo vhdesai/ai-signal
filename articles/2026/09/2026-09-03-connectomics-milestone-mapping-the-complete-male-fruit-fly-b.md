@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-embedding_id: 2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b
+embedding_id: null
 event_name: ''
 ---
 

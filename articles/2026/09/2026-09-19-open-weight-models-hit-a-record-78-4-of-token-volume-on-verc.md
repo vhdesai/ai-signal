@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-embedding_id: 2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc
+embedding_id: null
 event_name: ''
 ---
 

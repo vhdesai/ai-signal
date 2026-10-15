@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
-embedding_id: 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
+embedding_id: null
 event_name: ''
 ---
 

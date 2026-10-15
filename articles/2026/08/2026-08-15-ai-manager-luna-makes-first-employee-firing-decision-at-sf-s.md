@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
 - 2026-09-24-thursday-september-24-2026
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
-embedding_id: 2026-08-15-ai-manager-luna-makes-first-employee-firing-decision-at-sf-s
+embedding_id: null
 event_name: ''
 ---
 

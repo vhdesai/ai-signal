@@ -28,7 +28,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
 related_article_ids:
 - 2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi
-embedding_id: 2026-08-14-ukraine-says-nvidia-chip-found-in-russian-cruise-missile
+embedding_id: null
 event_name: ''
 ---
 

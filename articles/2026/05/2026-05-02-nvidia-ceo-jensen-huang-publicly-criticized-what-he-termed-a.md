@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
 - 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-embedding_id: 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
 - 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
 - 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
-embedding_id: 2026-09-13-google-researcher-dissents-stability-is-the-speed-limit
+embedding_id: null
 event_name: ''
 ---
 

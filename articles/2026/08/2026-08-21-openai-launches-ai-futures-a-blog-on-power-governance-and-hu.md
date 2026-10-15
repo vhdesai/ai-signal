@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
-embedding_id: 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
-embedding_id: 2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la
+embedding_id: null
 event_name: ''
 ---
 

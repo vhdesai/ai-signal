@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 - 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
-embedding_id: 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
+embedding_id: null
 event_name: ''
 ---
 

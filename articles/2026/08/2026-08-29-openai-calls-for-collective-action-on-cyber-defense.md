@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-openai-renews-call-for-collective-cyber-defense
 - 2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru
-embedding_id: 2026-08-29-openai-calls-for-collective-action-on-cyber-defense
+embedding_id: null
 event_name: ''
 ---
 

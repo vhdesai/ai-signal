@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
-embedding_id: 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
+embedding_id: null
 event_name: ''
 ---
 

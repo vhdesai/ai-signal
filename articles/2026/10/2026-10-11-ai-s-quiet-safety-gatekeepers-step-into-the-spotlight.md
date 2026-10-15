@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made
 - 2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private
 - 2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s
-embedding_id: 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
+embedding_id: null
 event_name: ''
 ---
 

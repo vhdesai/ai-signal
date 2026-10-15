@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 - 2026-09-22-nvidia-isaac-ros-5-0-adds-agentic-workflows-for-open-source
-embedding_id: 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
+embedding_id: null
 event_name: ''
 ---
 

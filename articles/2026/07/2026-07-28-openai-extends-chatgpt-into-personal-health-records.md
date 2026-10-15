@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records
 - 2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
-embedding_id: 2026-07-28-openai-extends-chatgpt-into-personal-health-records
+embedding_id: null
 event_name: ''
 ---
 

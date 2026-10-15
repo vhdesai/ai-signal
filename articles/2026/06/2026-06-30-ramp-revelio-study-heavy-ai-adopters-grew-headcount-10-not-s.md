@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
-embedding_id: 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
+embedding_id: null
 event_name: ''
 ---
 

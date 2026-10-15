@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator
 - 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-embedding_id: 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
+embedding_id: null
 event_name: ''
 ---
 

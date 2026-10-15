@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 - 2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-embedding_id: 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
-embedding_id: 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
+embedding_id: null
 event_name: ''
 ---
 

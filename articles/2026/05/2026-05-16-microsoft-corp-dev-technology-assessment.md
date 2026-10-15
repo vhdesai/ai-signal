@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
-embedding_id: 2026-05-16-microsoft-corp-dev-technology-assessment
+embedding_id: null
 event_name: ''
 ---
 

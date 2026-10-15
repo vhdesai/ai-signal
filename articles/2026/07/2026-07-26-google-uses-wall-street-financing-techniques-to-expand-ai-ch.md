@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
-embedding_id: 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
+embedding_id: null
 event_name: ''
 ---
 

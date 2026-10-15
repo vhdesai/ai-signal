@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
-embedding_id: 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
-embedding_id: 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
+embedding_id: null
 event_name: ''
 ---
 

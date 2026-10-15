@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an
+embedding_id: null
 event_name: ''
 ---
 

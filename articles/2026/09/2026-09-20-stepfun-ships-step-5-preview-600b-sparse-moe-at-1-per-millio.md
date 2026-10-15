@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million
 related_article_ids: []
-embedding_id: 2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-at-1-per-millio
+embedding_id: null
 event_name: ''
 ---
 

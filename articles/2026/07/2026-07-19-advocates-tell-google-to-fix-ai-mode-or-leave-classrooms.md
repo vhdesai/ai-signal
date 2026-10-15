@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu
 - 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 - 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
-embedding_id: 2026-07-19-advocates-tell-google-to-fix-ai-mode-or-leave-classrooms
+embedding_id: null
 event_name: ''
 ---
 

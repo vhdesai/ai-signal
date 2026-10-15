@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-embedding_id: 2026-10-05-safeworld-launches-independent-safety-testing-for-generative
+embedding_id: null
 event_name: ''
 ---
 

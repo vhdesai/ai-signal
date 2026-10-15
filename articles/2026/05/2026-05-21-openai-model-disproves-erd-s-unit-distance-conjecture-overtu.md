@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 related_article_ids:
 - 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
-embedding_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
+embedding_id: null
 event_name: ''
 ---
 

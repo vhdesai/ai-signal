@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation
 url_canonical: https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: ec9cf7f9d7d56bc36fb0e6f5054b9c0f7d2f8bd6dc3db234910a1d77ee76a1ba
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 - 2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d
-embedding_id: 2026-06-03-ai-music-startup-suno-raises-capital-at-5-4b-valuation
+embedding_id: null
 event_name: ''
 ---
 

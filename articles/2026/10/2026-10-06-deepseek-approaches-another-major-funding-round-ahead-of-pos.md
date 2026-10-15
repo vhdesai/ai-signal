@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-embedding_id: 2026-10-06-deepseek-approaches-another-major-funding-round-ahead-of-pos
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-embedding_id: 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
+embedding_id: null
 event_name: ''
 ---
 

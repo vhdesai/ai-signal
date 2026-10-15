@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
 - 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
-embedding_id: 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
-embedding_id: 2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer
+embedding_id: null
 event_name: ''
 ---
 

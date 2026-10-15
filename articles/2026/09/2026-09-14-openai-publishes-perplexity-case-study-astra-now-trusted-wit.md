@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
-embedding_id: 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
+embedding_id: null
 event_name: ''
 ---
 

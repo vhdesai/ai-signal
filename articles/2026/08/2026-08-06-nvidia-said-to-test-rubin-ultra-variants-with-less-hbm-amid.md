@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 related_article_ids: []
-embedding_id: 2026-08-06-nvidia-said-to-test-rubin-ultra-variants-with-less-hbm-amid
+embedding_id: null
 event_name: ''
 ---
 

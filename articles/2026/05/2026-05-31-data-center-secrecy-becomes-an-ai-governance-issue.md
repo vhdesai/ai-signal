@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
+embedding_id: null
 event_name: ''
 ---
 

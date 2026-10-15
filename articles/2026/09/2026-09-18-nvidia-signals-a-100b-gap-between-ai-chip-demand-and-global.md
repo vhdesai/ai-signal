@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
-embedding_id: 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
+embedding_id: null
 event_name: ''
 ---
 

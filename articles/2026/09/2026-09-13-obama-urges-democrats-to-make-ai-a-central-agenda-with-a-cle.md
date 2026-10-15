@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards
 related_article_ids: []
-embedding_id: 2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-with-a-cle
+embedding_id: null
 event_name: ''
 ---
 

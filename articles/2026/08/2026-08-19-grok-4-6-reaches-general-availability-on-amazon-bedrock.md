@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
-embedding_id: 2026-08-19-grok-4-6-reaches-general-availability-on-amazon-bedrock
+embedding_id: null
 event_name: ''
 ---
 

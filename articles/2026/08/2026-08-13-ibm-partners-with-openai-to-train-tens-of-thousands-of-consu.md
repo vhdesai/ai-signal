@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 related_article_ids: []
-embedding_id: 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 related_article_ids: []
-embedding_id: 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
-embedding_id: 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
+embedding_id: null
 event_name: ''
 ---
 

@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-08-11-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal
 - 2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe
-embedding_id: 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
+embedding_id: null
 event_name: ''
 ---
 

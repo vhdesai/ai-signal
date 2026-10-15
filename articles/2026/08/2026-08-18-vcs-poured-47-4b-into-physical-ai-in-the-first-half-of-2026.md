@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
-embedding_id: 2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026
+embedding_id: null
 event_name: ''
 ---
 

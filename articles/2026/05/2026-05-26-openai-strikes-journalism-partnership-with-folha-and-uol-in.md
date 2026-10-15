@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
 - 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-embedding_id: 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
+embedding_id: null
 event_name: ''
 ---
 

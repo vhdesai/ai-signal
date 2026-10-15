@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
-embedding_id: 2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund
+embedding_id: null
 event_name: ''
 ---
 

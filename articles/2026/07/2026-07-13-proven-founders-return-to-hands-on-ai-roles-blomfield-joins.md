@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-17-anthropic-claude-is-taking-an-extraordinarily-active-role-in
 - 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
-embedding_id: 2026-07-13-proven-founders-return-to-hands-on-ai-roles-blomfield-joins
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber
 - 2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
-embedding_id: 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
+embedding_id: null
 event_name: ''
 ---
 

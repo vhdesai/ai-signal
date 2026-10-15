@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-embedding_id: 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability
 - 2026-09-22-openai-counters-90-minutes-later-with-gpt-6-sol-and-luna-at
-embedding_id: 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations
+embedding_id: null
 event_name: ''
 ---
 

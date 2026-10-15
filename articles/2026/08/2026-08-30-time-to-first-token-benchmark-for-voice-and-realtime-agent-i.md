@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 related_article_ids: []
-embedding_id: 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
+embedding_id: null
 event_name: ''
 ---
 

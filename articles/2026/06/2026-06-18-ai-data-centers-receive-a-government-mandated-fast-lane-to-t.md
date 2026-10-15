@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-25-one-fallen-power-line-exposes-a-growing-ai-data-center-probl
-embedding_id: 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
+embedding_id: null
 event_name: ''
 ---
 

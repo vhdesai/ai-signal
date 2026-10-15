@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
 - 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 - 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
-embedding_id: 2026-09-25-another-deepmind-researcher-quits-calls-near-term-superintel
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-embedding_id: 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
+embedding_id: null
 event_name: ''
 ---
 

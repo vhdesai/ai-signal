@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
-embedding_id: 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
+embedding_id: null
 event_name: ''
 ---
 

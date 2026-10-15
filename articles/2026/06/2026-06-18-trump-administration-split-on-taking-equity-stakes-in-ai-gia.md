@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-embedding_id: 2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia
+embedding_id: null
 event_name: ''
 ---
 

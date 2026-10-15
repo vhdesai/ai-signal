@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue
 - 2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a
-embedding_id: 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
+embedding_id: null
 event_name: ''
 ---
 

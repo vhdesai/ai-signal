@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 related_article_ids: []
-embedding_id: 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
+embedding_id: null
 event_name: ''
 ---
 

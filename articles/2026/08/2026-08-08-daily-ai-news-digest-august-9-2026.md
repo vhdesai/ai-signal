@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 - 2026-08-29-daily-ai-news-digest-august-30-2026
-embedding_id: 2026-08-08-daily-ai-news-digest-august-9-2026
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
-embedding_id: 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
+embedding_id: null
 event_name: ''
 ---
 

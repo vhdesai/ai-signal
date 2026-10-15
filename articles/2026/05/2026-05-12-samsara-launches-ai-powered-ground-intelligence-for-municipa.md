@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the
 - 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city
-embedding_id: 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
+embedding_id: null
 event_name: ''
 ---
 

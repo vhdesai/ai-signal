@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-embedding_id: 2026-06-29-daily-ai-news-digest-june-29-2026
+embedding_id: null
 event_name: ''
 ---
 

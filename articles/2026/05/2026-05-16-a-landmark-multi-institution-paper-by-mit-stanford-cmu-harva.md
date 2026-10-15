@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
-embedding_id: 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
+embedding_id: null
 event_name: ''
 ---
 

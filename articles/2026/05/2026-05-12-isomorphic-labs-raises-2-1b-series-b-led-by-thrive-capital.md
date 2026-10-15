@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
-embedding_id: 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-google-open-sources-heir-a-compiler-for-inference-on-encrypt
-embedding_id: 2026-08-14-heir-s-research-base-spans-georgia-tech-carnegie-mellon-purd
+embedding_id: null
 event_name: ''
 ---
 

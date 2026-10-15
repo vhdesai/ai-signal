@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
-embedding_id: 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
+embedding_id: null
 event_name: ''
 ---
 

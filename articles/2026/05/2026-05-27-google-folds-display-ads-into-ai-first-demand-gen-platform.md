@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/
 url_canonical: https://www.artificialintelligence-news.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4c957a2d402693d1e70da00f317a268de9cba5f14de3a32af84ec41764cb5838
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
 related_article_ids: []
-embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform
+embedding_id: null
 event_name: ''
 ---
 

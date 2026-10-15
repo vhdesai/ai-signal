@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
-embedding_id: 2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin
+embedding_id: null
 event_name: ''
 ---
 

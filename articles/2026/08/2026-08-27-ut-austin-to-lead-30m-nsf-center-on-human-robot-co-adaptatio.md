@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
-embedding_id: 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-embedding_id: 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
+embedding_id: null
 event_name: ''
 ---
 

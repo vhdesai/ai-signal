@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
 - 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 - 2026-07-20-adobe-s-project-indigo-adds-ai-photo-critique-and-editing-gu
-embedding_id: 2026-04-24-adobe-sneaks-2026-project-face-off-wins-summit-audience-favo
+embedding_id: null
 event_name: ''
 ---
 

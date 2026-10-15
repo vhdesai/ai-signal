@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
-embedding_id: 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
+embedding_id: null
 event_name: ''
 ---
 

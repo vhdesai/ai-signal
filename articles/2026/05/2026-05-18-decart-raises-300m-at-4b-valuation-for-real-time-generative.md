@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
 - 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
-embedding_id: 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
+embedding_id: null
 event_name: ''
 ---
 

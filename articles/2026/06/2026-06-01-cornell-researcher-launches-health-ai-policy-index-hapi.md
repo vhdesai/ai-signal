@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-embedding_id: 2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi
+embedding_id: null
 event_name: ''
 ---
 

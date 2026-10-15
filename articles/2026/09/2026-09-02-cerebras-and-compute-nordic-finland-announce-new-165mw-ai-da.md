@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
 - 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
 - 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
-embedding_id: 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
-embedding_id: 2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution
+embedding_id: null
 event_name: ''
 ---
 

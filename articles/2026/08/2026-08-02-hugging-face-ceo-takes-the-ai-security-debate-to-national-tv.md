@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
-embedding_id: 2026-08-02-hugging-face-ceo-takes-the-ai-security-debate-to-national-tv
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
-embedding_id: 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
+embedding_id: null
 event_name: ''
 ---
 

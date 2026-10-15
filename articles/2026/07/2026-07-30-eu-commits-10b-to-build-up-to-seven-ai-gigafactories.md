@@ -49,7 +49,7 @@ related_article_ids:
 - 2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth
 - 2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth
 - 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
-embedding_id: 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
+embedding_id: null
 event_name: ''
 ---
 

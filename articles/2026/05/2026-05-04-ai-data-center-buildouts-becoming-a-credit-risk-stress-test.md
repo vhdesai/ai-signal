@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-embedding_id: 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-with-a-1m-token-co
 - 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
-embedding_id: 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
+embedding_id: null
 event_name: ''
 ---
 

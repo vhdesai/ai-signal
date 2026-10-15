@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
 - 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
-embedding_id: 2026-09-07-openai-launches-ai-program-to-support-independent-journalism
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
 - 2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model
 - 2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download
-embedding_id: 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
+embedding_id: null
 event_name: ''
 ---
 

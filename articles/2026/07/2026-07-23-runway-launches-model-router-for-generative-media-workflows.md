@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-ramp-launches-ai-model-router-continued
 - 2026-08-20-ramp-launches-its-own-ai-model-router-called-router
 - 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
-embedding_id: 2026-07-23-runway-launches-model-router-for-generative-media-workflows
+embedding_id: null
 event_name: ''
 ---
 

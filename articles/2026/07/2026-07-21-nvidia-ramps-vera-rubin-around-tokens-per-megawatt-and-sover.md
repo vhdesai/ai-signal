@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
-embedding_id: 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 - 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
-embedding_id: 2026-09-21-anthropic-proposes-metrics-to-track-the-pace-of-frontier-ai
+embedding_id: null
 event_name: ''
 ---
 

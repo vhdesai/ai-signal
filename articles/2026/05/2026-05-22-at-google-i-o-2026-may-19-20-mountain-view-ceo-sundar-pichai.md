@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
-embedding_id: 2026-05-22-at-google-i-o-2026-may-19-20-mountain-view-ceo-sundar-pichai
+embedding_id: null
 event_name: ''
 ---
 

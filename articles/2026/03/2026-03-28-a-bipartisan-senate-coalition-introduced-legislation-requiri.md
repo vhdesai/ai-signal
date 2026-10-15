@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-embedding_id: 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
+embedding_id: null
 event_name: ''
 ---
 

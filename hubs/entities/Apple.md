@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 472
+member_count: 474
 ---
 
 # Apple
 
-> Auto-generated entity hub. 472 connected article(s).
+> Auto-generated entity hub. 474 connected article(s).
 
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
+- `2026-10-14` [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering|Apple bets on AI to strengthen its smart-home offering]]
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
 - `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
 - `2026-10-13` [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen|Apple brings Siri AI to the shared household screen]]

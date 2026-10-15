@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-silicon-to-neocloud
-embedding_id: 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
+embedding_id: null
 event_name: ''
 ---
 

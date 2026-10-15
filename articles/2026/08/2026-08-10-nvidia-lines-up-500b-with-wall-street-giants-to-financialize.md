@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 - 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
-embedding_id: 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
+embedding_id: null
 event_name: ''
 ---
 

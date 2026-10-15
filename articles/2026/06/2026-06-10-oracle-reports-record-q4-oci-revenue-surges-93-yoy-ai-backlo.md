@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
-embedding_id: 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm
 - 2026-09-18-researchers-used-claude-opus-5-to-chain-an-exploit-into-open
-embedding_id: 2026-07-11-compromised-jscrambler-npm-release-drops-a-rust-infostealer
+embedding_id: null
 event_name: ''
 ---
 

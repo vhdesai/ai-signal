@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
-embedding_id: 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
-embedding_id: 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
+embedding_id: null
 event_name: ''
 ---
 

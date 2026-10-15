@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-embedding_id: 2026-08-12-cornell-expands-its-ai-critical-literacy-program-to-all-inco
+embedding_id: null
 event_name: ''
 ---
 

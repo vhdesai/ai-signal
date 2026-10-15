@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
-embedding_id: 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
 - 2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter
 - 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
-embedding_id: 2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit
+embedding_id: null
 event_name: ''
 ---
 

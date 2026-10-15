@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc
 - 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
 - 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
-embedding_id: 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+embedding_id: null
 event_name: ''
 ---
 

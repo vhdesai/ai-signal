@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
-embedding_id: 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
+embedding_id: null
 event_name: ''
 ---
 

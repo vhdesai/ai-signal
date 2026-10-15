@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 related_article_ids: []
-embedding_id: 2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system
+embedding_id: null
 event_name: ''
 ---
 

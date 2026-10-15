@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 - 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
 - 2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes
-embedding_id: 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
+embedding_id: null
 event_name: ''
 ---
 

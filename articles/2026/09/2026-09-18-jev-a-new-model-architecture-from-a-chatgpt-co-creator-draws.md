@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
 - 2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model
 - 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
-embedding_id: 2026-09-18-jev-a-new-model-architecture-from-a-chatgpt-co-creator-draws
+embedding_id: null
 event_name: ''
 ---
 

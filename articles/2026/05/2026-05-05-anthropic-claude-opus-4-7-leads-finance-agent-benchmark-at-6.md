@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl
-embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
+embedding_id: null
 event_name: ''
 ---
 

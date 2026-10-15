@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
-embedding_id: 2026-08-28-z-ai-s-latest-model-intensifies-low-cost-competition-tencent
+embedding_id: null
 event_name: ''
 ---
 

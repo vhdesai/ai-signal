@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
-embedding_id: 2026-07-26-induction-labs-details-photon-1-a-106b-parameter-lsquo-imagi
+embedding_id: null
 event_name: ''
 ---
 

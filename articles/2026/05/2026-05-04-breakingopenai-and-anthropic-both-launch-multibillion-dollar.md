@@ -24,7 +24,7 @@ canonical_article_id: 2026-05-04-anthropic-and-openai-launch-competing-fde-enter
 related_article_ids:
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 - 2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black
-embedding_id: 2026-05-04-breakingopenai-and-anthropic-both-launch-multibillion-dollar
+embedding_id: null
 event_name: ''
 ---
 

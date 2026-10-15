@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-07-19-alibaba-previews-qwen-3-8-its-new-flagship-model
-embedding_id: 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
+embedding_id: null
 event_name: ''
 ---
 

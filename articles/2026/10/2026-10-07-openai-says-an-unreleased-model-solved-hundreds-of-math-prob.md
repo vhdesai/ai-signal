@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
-embedding_id: 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
-embedding_id: 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
+embedding_id: null
 event_name: ''
 ---
 

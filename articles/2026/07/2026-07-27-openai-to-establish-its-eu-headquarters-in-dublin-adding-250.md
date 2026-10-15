@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
 related_article_ids: []
-embedding_id: 2026-07-27-openai-to-establish-its-eu-headquarters-in-dublin-adding-250
+embedding_id: null
 event_name: ''
 ---
 

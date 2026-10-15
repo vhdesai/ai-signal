@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 related_article_ids: []
-embedding_id: 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
+embedding_id: null
 event_name: ''
 ---
 

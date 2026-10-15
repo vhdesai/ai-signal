@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
-embedding_id: 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
+embedding_id: null
 event_name: ''
 ---
 

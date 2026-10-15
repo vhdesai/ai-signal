@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven
-embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
+embedding_id: null
 event_name: ''
 ---
 

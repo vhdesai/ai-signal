@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-anthropic-publishes-its-most-detailed-misuse-casebook-weapon
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-09-11-anthropic-threat-report-bioweapon-attempts-blocked-chinese-d
-embedding_id: 2026-09-12-anthropic-threat-report-names-five-distinct-misuse-patterns
+embedding_id: null
 event_name: ''
 ---
 

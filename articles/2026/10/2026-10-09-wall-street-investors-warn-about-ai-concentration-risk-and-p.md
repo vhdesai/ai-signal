@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
-embedding_id: 2026-10-09-wall-street-investors-warn-about-ai-concentration-risk-and-p
+embedding_id: null
 event_name: ''
 ---
 

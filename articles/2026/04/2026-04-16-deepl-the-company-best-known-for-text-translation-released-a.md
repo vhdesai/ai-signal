@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
 - 2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-on-andr
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-embedding_id: 2026-04-16-deepl-the-company-best-known-for-text-translation-released-a
+embedding_id: null
 event_name: ''
 ---
 

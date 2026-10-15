@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: Fierce Healthcare
 url_original: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
 url_canonical: https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-25_060708_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 6624edd0b87f4bfb9c642fe8ad18a1171573a282350abe73ba3b46ba26276324
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-blue-cross-attributes-942m-in-added-hospital-costs-to-ai-ass
 - 2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen
 - 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
-embedding_id: 2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
 - 2026-09-11-ai-agents-used-to-breach-395-organizations-via-papercut-prin
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
-embedding_id: 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
+embedding_id: null
 event_name: ''
 ---
 

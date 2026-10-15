@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 related_article_ids: []
-embedding_id: 2026-09-01-palo-alto-unit-42-frontier-ai-now-tips-the-balance-toward-cy
+embedding_id: null
 event_name: ''
 ---
 

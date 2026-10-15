@@ -6,8 +6,8 @@ source: Semafor / Yahoo Finance
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-10-14_065912_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_065903_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: a04ba42d18893ff2ab683506ef0f90f041a3ef41d82d4d76a194dea557ba6d36
 normalized_title_hash: e6411fa88c5ea49b
 canonical_url_hash: ''
@@ -16,6 +16,7 @@ tags:
 entities:
 - NVIDIA
 themes:
+- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -26,7 +27,7 @@ related_article_ids:
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
-embedding_id: 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
+embedding_id: null
 event_name: ''
 ---
 
@@ -38,6 +39,6 @@ Semafor and Yahoo Finance reported a broad tech selloff as investors grew more a
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st]] · [[2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl]] · [[2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin]]
 <!-- graph:end -->

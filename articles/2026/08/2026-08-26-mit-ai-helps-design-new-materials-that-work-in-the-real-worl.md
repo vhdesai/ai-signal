@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: MIT News
 url_original: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
 url_canonical: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 6e379a318274b48f01bd5ce4be9eddce79dca436c7f69fde50990e7f0539679d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
 - 2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi
-embedding_id: 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
-embedding_id: 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
+embedding_id: null
 event_name: ''
 ---
 

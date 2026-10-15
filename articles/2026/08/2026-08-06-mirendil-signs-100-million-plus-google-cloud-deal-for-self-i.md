@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
-embedding_id: 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
+embedding_id: null
 event_name: ''
 ---
 

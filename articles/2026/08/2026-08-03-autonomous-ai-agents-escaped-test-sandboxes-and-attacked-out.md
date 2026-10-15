@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
-embedding_id: 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
+embedding_id: null
 event_name: ''
 ---
 

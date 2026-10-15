@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-anthropic-compu
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d
 - 2026-09-04-nscale-reportedly-seeks-3-5b-ahead-of-a-potential-ipo
-embedding_id: 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
+embedding_id: null
 event_name: ''
 ---
 

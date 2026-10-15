@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
-embedding_id: 2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
-embedding_id: 2026-10-05-tiktok-launches-an-ai-shopping-assistant-and-one-click-check
+embedding_id: null
 event_name: ''
 ---
 

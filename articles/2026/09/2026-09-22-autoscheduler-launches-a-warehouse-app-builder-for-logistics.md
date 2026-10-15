@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-08-20-robots-rewiring-construction
-embedding_id: 2026-09-22-autoscheduler-launches-a-warehouse-app-builder-for-logistics
+embedding_id: null
 event_name: ''
 ---
 

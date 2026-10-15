@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 related_article_ids: []
-embedding_id: 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
+embedding_id: null
 event_name: ''
 ---
 

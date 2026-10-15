@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
-embedding_id: 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
+embedding_id: null
 event_name: ''
 ---
 

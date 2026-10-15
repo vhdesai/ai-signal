@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-embedding_id: 2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware
+embedding_id: null
 event_name: ''
 ---
 

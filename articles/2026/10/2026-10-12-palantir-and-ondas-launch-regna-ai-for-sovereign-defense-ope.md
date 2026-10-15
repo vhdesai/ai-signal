@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
-embedding_id: 2026-10-12-palantir-and-ondas-launch-regna-ai-for-sovereign-defense-ope
+embedding_id: null
 event_name: ''
 ---
 

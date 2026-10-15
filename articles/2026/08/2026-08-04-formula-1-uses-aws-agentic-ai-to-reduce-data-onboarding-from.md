@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 related_article_ids: []
-embedding_id: 2026-08-04-formula-1-uses-aws-agentic-ai-to-reduce-data-onboarding-from
+embedding_id: null
 event_name: ''
 ---
 

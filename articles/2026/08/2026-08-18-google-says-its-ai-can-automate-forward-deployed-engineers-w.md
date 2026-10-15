@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-embedding_id: 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar
 - 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
-embedding_id: 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
+embedding_id: null
 event_name: ''
 ---
 

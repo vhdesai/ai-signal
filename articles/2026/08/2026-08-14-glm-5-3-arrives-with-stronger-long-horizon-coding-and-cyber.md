@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-z-ai-ships-glm-5-3-with-long-horizon-coding-and-frontier-cyb
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-08-14-z-ai-glm-5-3-near-frontier-cyber-capability-under-gated-acce
-embedding_id: 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
+embedding_id: null
 event_name: ''
 ---
 

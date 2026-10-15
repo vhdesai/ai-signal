@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 - 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
 - 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
-embedding_id: 2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie
+embedding_id: null
 event_name: ''
 ---
 

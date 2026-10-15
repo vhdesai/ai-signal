@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
 related_article_ids: []
-embedding_id: 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
+embedding_id: null
 event_name: ''
 ---
 

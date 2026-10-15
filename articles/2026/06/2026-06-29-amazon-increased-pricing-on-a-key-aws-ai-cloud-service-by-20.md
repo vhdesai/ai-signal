@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
 - 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
-embedding_id: 2026-06-29-amazon-increased-pricing-on-a-key-aws-ai-cloud-service-by-20
+embedding_id: null
 event_name: ''
 ---
 

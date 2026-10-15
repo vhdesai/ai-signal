@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-embedding_id: 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
+embedding_id: null
 event_name: ''
 ---
 

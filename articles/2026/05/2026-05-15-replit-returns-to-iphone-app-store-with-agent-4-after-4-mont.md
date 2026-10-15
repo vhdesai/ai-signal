@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
-embedding_id: 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
+embedding_id: null
 event_name: ''
 ---
 

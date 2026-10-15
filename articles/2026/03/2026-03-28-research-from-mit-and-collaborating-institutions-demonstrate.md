@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-embedding_id: 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
+embedding_id: null
 event_name: ''
 ---
 

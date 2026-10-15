@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
-embedding_id: 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
+embedding_id: null
 event_name: ''
 ---
 

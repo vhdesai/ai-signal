@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 - 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
-embedding_id: 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
+embedding_id: null
 event_name: ''
 ---
 

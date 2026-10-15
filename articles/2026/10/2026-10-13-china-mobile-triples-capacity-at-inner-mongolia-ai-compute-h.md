@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370600/china-mobile-triples-capacity-mega-inner-mongolia-computing-hub-amid-nations-ai-push
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 85577ed3c61064844208003ce5e976de90824c2b0d83e917a28c641534e81ea5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
-embedding_id: 2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h
+embedding_id: null
 event_name: ''
 ---
 

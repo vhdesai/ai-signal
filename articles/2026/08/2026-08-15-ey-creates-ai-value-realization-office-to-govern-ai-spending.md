@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
-embedding_id: 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
+embedding_id: null
 event_name: ''
 ---
 

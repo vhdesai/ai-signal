@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: 2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by
+embedding_id: null
 event_name: ''
 ---
 

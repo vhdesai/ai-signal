@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
-embedding_id: 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
+embedding_id: null
 event_name: ''
 ---
 

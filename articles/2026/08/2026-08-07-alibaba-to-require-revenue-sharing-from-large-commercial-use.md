@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
 related_article_ids: []
-embedding_id: 2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use
+embedding_id: null
 event_name: ''
 ---
 

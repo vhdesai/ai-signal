@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
 - 2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans
 - 2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a
-embedding_id: 2026-08-19-samsung-raises-advanced-foundry-prices-by-up-to-15
+embedding_id: null
 event_name: ''
 ---
 

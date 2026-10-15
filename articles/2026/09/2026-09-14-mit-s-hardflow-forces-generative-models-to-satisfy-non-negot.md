@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: MIT News**
 url_original: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
 url_canonical: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 3c8d62ccff27aa15990c7b77a8da35d69e94ea9c81d1ee2a5e64b791077ef121
 normalized_title_hash: c2887a4288cdfb2b
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-mit-s-hardflow-enables-generative-ai-under-hard-constraints
 related_article_ids: []
-embedding_id: 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug
 - 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
-embedding_id: 2026-08-20-openai-slows-scaling-efforts-and-promises-zero-data-retentio
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: SecurityWeek
 url_original: https://www.securityweek.com/
 url_canonical: https://www.securityweek.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_081053_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a3549acf229cfcbc89bd27e6f75d76da27f7928b56f3bc695a209be5ffeea20b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
-embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
+embedding_id: null
 event_name: ''
 ---
 

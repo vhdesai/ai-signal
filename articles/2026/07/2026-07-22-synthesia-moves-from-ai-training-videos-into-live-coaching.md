@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
-embedding_id: 2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching
+embedding_id: null
 event_name: ''
 ---
 

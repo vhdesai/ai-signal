@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 - 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
 - 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
-embedding_id: 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
+embedding_id: null
 event_name: ''
 ---
 

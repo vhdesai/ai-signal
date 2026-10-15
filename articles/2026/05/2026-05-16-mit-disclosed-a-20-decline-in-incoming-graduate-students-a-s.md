@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-embedding_id: 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
+embedding_id: null
 event_name: ''
 ---
 

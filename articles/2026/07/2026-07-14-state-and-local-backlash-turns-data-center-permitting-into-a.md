@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-embedding_id: 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
+embedding_id: null
 event_name: ''
 ---
 

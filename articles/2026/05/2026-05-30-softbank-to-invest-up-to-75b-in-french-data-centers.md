@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 related_article_ids: []
-embedding_id: 2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers
+embedding_id: null
 event_name: ''
 ---
 

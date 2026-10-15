@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
 - 2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap
-embedding_id: 2026-05-27-cerebras-ceo-defends-data-center-growth-claims-in-business-i
+embedding_id: null
 event_name: ''
 ---
 

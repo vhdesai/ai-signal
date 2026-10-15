@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: 2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across
+embedding_id: null
 event_name: ''
 ---
 

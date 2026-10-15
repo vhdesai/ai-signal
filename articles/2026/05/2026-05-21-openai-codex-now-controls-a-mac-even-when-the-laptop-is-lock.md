@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
-embedding_id: 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
+embedding_id: null
 event_name: ''
 ---
 

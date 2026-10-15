@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-infr
 - 2026-08-28-andreessen-horowitz-closes-1-1b-machine-age-fund-for-ai-hard
 - 2026-08-31-andreessen-horowitz-raises-a-1-1-billion-ai-hardware-fund
-embedding_id: 2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-05-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 77158f9174984d0a74042298b44f76a1eadbddf0c0eba5c46100bfd5cbf7a061
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
-embedding_id: 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
+embedding_id: null
 event_name: ''
 ---
 

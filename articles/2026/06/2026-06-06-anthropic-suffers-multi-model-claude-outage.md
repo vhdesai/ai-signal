@@ -5,7 +5,7 @@ date: '2026-06-06'
 source: Cyber Security News
 url_original: https://cybersecuritynews.com/anthropics-claude-services-down/
 url_canonical: https://cybersecuritynews.com/anthropics-claude-services-down/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: 01d9fe8daab99a3187eaed19b9831418570588d9211a8d69dd840016377d4ad7
 normalized_title_hash: 337f648a2c2adf45
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-anthropic-s-claude-suffers-another-outagetrending
 - 2026-08-24-claude-suffers-elevated-error-rates-in-a-multi-hour-monday-o
 - 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
-embedding_id: 2026-06-06-anthropic-suffers-multi-model-claude-outage
+embedding_id: null
 event_name: ''
 ---
 

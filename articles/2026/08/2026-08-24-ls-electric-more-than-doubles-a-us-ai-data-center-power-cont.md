@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
 related_article_ids: []
-embedding_id: 2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont
+embedding_id: null
 event_name: ''
 ---
 

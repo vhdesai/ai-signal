@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib
 - 2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed
 - 2026-09-18-jev-a-new-ai-model-from-a-chatgpt-inventor-draws-early-devel
-embedding_id: 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
+embedding_id: null
 event_name: ''
 ---
 

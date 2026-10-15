@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
 - 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
-embedding_id: 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
+embedding_id: null
 event_name: ''
 ---
 

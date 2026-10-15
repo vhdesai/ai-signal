@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs
 - 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 - 2026-08-28-openai-hires-meta-s-sandhya-devanathan-to-lead-southeast-asi
-embedding_id: 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
+embedding_id: null
 event_name: ''
 ---
 

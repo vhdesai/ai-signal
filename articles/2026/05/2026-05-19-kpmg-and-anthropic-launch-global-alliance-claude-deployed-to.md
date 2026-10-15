@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a
-embedding_id: 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
+embedding_id: null
 event_name: ''
 ---
 

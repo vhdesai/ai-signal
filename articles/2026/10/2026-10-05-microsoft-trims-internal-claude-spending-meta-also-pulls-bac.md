@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: 2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac
+embedding_id: null
 event_name: ''
 ---
 

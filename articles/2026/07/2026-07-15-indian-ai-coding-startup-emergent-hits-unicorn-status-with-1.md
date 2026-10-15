@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
 related_article_ids: []
-embedding_id: 2026-07-15-indian-ai-coding-startup-emergent-hits-unicorn-status-with-1
+embedding_id: null
 event_name: ''
 ---
 

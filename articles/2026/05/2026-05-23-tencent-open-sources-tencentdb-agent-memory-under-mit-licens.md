@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: e38e9bab247a0fa2f1ac0f47daa3d111a405faabd03fe466cf7b190502efbc6e
@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 related_article_ids: []
-embedding_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
+embedding_id: null
 event_name: ''
 ---
 

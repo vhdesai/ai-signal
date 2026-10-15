@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
-embedding_id: 2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha
+embedding_id: null
 event_name: ''
 ---
 

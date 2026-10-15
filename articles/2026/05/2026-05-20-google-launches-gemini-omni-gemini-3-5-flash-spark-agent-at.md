@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
-embedding_id: 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
+embedding_id: null
 event_name: ''
 ---
 

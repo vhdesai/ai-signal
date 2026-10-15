@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
-embedding_id: 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
+embedding_id: null
 event_name: ''
 ---
 

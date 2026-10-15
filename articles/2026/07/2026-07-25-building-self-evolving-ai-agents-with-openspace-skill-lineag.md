@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 - 2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
-embedding_id: 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
+embedding_id: null
 event_name: ''
 ---
 

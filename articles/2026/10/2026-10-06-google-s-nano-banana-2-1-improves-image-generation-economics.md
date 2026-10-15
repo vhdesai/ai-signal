@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
-embedding_id: 2026-10-06-google-s-nano-banana-2-1-improves-image-generation-economics
+embedding_id: null
 event_name: ''
 ---
 

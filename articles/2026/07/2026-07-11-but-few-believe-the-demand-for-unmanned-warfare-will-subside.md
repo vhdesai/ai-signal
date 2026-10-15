@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
 - 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-embedding_id: 2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside
+embedding_id: null
 event_name: ''
 ---
 

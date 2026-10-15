@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
 related_article_ids: []
-embedding_id: 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+embedding_id: null
 event_name: ''
 ---
 

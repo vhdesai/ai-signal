@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
-embedding_id: 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
+embedding_id: null
 event_name: ''
 ---
 

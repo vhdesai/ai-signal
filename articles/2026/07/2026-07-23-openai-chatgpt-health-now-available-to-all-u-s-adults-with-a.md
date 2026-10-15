@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-parental-controls-and
 - 2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
-embedding_id: 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
+embedding_id: null
 event_name: ''
 ---
 

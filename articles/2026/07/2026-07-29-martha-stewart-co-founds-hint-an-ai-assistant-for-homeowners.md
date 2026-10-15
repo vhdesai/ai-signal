@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
-embedding_id: 2026-07-29-martha-stewart-co-founds-hint-an-ai-assistant-for-homeowners
+embedding_id: null
 event_name: ''
 ---
 

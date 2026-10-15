@@ -23,7 +23,7 @@ canonical_article_id: 2026-08-11-anthropic-begins-watermarking-claude-generated-
 related_article_ids:
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 - 2026-08-15-anthropic-gives-more-detail-on-how-claude-text-watermarking
-embedding_id: 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 8a5f759f4626be36581904ec4663dbda40fb51d4b44c513ae01bb226498540d7
@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
 related_article_ids: []
-embedding_id: 2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice
+embedding_id: null
 event_name: ''
 ---
 

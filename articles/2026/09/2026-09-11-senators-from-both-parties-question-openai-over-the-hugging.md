@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
-embedding_id: 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
+embedding_id: null
 event_name: ''
 ---
 

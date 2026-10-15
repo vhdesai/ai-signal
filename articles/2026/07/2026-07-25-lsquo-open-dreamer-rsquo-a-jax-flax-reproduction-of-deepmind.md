@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda
 - 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
-embedding_id: 2026-07-25-lsquo-open-dreamer-rsquo-a-jax-flax-reproduction-of-deepmind
+embedding_id: null
 event_name: ''
 ---
 

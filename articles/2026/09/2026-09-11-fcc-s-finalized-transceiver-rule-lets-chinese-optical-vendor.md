@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3367219/chinese-optical-transceiver-makers-dodge-us-ban-now-fcc-updates-rules
 url_canonical: https://www.scmp.com/tech/big-tech/article/3367219/chinese-optical-transceiver-makers-dodge-us-ban-now-fcc-updates-rules
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 3394acc777a0561bfaf1bb723b506069095f7b43c29e2dbaced86dd8545d4c72
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
-embedding_id: 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
+embedding_id: null
 event_name: ''
 ---
 

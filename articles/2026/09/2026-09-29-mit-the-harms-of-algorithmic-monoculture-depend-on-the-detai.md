@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
-embedding_id: 2026-09-29-mit-the-harms-of-algorithmic-monoculture-depend-on-the-detai
+embedding_id: null
 event_name: ''
 ---
 

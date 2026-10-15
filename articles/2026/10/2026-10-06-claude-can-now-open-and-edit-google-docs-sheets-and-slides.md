@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr
 - 2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365
 - 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
-embedding_id: 2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
-embedding_id: 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
+embedding_id: null
 event_name: ''
 ---
 

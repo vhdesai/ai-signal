@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
-embedding_id: 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
+embedding_id: null
 event_name: ''
 ---
 

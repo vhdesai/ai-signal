@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
 - 2026-08-17-reuters-reports-ecb-blog-predicts-an-ai-market-correction
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
-embedding_id: 2026-09-19-imf-tells-eu-ministers-ai-could-lift-growth-while-increasing
+embedding_id: null
 event_name: ''
 ---
 

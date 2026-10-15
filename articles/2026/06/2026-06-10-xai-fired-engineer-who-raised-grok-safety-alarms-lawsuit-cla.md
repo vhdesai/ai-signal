@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-embedding_id: 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
+embedding_id: null
 event_name: ''
 ---
 

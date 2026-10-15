@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 related_article_ids: []
-embedding_id: 2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p
+embedding_id: null
 event_name: ''
 ---
 

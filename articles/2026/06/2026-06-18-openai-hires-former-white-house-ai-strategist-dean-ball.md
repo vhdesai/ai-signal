@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
 - 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
-embedding_id: 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
+embedding_id: null
 event_name: ''
 ---
 

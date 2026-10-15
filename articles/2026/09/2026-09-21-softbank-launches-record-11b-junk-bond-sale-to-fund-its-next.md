@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
 related_article_ids: []
-embedding_id: 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next
+embedding_id: null
 event_name: ''
 ---
 

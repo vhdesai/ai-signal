@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-09-28-amodei-dines-with-trump-as-both-labs-decline-australia-s-sen
 - 2026-06-20-president-trump-told-axios-in-a-pre-taped-interview-that-he
-embedding_id: 2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one
+embedding_id: null
 event_name: ''
 ---
 

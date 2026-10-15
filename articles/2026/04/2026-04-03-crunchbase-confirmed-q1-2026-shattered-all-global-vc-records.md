@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
-embedding_id: 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 - 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
+embedding_id: null
 event_name: ''
 ---
 

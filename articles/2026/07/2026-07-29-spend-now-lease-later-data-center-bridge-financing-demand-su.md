@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
-embedding_id: 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
+embedding_id: null
 event_name: ''
 ---
 

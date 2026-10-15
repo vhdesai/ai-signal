@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
-embedding_id: 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
+embedding_id: null
 event_name: ''
 ---
 

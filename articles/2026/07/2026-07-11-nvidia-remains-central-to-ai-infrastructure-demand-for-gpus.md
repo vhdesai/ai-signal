@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-08-11-daily-ai-news-digest-august-12-2026
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
+embedding_id: null
 event_name: ''
 ---
 

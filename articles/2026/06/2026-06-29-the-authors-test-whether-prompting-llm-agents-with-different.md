@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-embedding_id: 2026-06-29-the-authors-test-whether-prompting-llm-agents-with-different
+embedding_id: null
 event_name: ''
 ---
 

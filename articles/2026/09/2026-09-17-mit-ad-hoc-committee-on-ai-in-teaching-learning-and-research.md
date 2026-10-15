@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 - 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
-embedding_id: 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
+embedding_id: null
 event_name: ''
 ---
 

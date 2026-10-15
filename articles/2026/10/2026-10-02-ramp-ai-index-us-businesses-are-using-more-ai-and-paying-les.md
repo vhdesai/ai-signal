@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
-embedding_id: 2026-10-02-ramp-ai-index-us-businesses-are-using-more-ai-and-paying-les
+embedding_id: null
 event_name: ''
 ---
 

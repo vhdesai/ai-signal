@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
-embedding_id: 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 - 2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
-embedding_id: 2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-27'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-27_061113_Inbox_Daily AI News Digest - September
   27, 2026.md
 content_hash: 540d67fe700d42de1168df4ecf47b4aa1edd8e639480e468acf1922c847793f9
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-embedding_id: 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
+embedding_id: null
 event_name: ''
 ---
 

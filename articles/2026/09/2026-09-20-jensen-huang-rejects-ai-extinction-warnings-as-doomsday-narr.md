@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
 related_article_ids: []
-embedding_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
+embedding_id: null
 event_name: ''
 ---
 

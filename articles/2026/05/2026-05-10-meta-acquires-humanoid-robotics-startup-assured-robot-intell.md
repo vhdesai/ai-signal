@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
-embedding_id: 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+embedding_id: null
 event_name: ''
 ---
 

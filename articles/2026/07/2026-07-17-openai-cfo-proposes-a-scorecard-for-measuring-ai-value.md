@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
-embedding_id: 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
+embedding_id: null
 event_name: ''
 ---
 

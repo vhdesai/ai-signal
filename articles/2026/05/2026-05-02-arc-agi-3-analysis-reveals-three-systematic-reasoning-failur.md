@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
 - 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
-embedding_id: 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+embedding_id: null
 event_name: ''
 ---
 

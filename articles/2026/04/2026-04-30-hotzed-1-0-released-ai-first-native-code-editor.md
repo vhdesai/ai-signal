@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
-embedding_id: 2026-04-30-hotzed-1-0-released-ai-first-native-code-editor
+embedding_id: null
 event_name: ''
 ---
 

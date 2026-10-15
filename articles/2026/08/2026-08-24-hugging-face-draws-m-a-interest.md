@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
-embedding_id: 2026-08-24-hugging-face-draws-m-a-interest
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-07-20-massive-ai-supply-deals-face-execution-risk
-embedding_id: 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,9 +6,9 @@ date: '2026-10-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets
-url_status: broken
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+url_status: ok
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: a8f51e7d57dd0118675457302e3476d6e967eaca93a6e89116d7bc8369b7b809
 normalized_title_hash: 11820206ed244b8e
 canonical_url_hash: 754f023b191825f3
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 - 2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and
-embedding_id: 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
+embedding_id: null
 event_name: ''
 ---
 

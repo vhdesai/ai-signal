@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-embedding_id: 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
+embedding_id: null
 event_name: ''
 ---
 

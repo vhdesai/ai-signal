@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 - 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
-embedding_id: 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
+embedding_id: null
 event_name: ''
 ---
 

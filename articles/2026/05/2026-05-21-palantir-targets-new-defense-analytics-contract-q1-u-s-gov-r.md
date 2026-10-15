@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
-embedding_id: 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
+embedding_id: null
 event_name: ''
 ---
 

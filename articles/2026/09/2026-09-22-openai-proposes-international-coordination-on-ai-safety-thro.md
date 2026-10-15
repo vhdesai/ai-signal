@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-embedding_id: 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
+embedding_id: null
 event_name: ''
 ---
 

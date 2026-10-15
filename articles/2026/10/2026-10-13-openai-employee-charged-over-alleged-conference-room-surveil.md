@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-09-05-sunday-september-6-2026
-embedding_id: 2026-10-13-openai-employee-charged-over-alleged-conference-room-surveil
+embedding_id: null
 event_name: ''
 ---
 

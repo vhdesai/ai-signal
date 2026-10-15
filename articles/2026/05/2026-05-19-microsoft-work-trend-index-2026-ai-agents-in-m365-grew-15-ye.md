@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
 - 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
-embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
+embedding_id: null
 event_name: ''
 ---
 

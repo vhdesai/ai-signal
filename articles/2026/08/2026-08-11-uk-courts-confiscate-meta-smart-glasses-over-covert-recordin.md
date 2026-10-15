@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
-embedding_id: 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
+embedding_id: null
 event_name: ''
 ---
 

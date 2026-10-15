@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-embedding_id: 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
+embedding_id: null
 event_name: ''
 ---
 

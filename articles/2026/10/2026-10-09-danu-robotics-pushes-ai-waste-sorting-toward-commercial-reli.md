@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-embedding_id: 2026-10-09-danu-robotics-pushes-ai-waste-sorting-toward-commercial-reli
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
-embedding_id: 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
+embedding_id: null
 event_name: ''
 ---
 

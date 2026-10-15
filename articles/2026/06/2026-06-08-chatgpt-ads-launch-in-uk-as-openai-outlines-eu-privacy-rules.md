@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-08-15-openai-tells-european-free-tier-users-ads-arrive-this-month
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
-embedding_id: 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
+embedding_id: null
 event_name: ''
 ---
 

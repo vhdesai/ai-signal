@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
-embedding_id: 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
+embedding_id: null
 event_name: ''
 ---
 

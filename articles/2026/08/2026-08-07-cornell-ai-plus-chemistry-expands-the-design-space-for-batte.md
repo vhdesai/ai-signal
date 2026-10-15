@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-embedding_id: 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
+embedding_id: null
 event_name: ''
 ---
 

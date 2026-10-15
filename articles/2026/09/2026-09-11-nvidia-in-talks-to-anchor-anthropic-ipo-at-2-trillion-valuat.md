@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val
 - 2026-09-13-nvidia-weighs-up-to-10b-anchor-stake-in-anthropic-ipo-at-rou
 - 2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo
-embedding_id: 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
+embedding_id: null
 event_name: ''
 ---
 

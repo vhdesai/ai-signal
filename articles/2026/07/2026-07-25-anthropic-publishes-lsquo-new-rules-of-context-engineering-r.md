@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
-embedding_id: 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
+embedding_id: null
 event_name: ''
 ---
 

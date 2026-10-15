@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 - 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
-embedding_id: 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
+embedding_id: null
 event_name: ''
 ---
 

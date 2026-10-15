@@ -22,7 +22,7 @@ canonical_article_id: 2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-
 related_article_ids:
 - 2026-10-09-typesafe-ai-raises-870-million-as-non-text-decision-model-je
 - 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
-embedding_id: 2026-10-09-typesafe-s-jev-reaches-7-5b-valuation-weeks-after-launch
+embedding_id: null
 event_name: ''
 ---
 

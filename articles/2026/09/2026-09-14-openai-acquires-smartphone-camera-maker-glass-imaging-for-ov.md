@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-openai-acquires-smartphone-camera-ai-maker-glass-imaging-for
 related_article_ids: []
-embedding_id: 2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov
+embedding_id: null
 event_name: ''
 ---
 

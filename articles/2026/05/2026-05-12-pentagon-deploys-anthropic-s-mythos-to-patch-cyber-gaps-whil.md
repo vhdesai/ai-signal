@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-embedding_id: 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
+embedding_id: null
 event_name: ''
 ---
 

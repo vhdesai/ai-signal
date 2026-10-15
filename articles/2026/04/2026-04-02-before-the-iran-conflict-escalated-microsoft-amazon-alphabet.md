@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
-embedding_id: 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
+embedding_id: null
 event_name: ''
 ---
 

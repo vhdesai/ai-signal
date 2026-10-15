@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
-embedding_id: 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
+embedding_id: null
 event_name: ''
 ---
 

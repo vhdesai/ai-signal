@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-embedding_id: 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
+embedding_id: null
 event_name: ''
 ---
 

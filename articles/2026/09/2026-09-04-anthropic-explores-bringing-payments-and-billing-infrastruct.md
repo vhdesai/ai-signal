@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-anthropic-explores-bringing-more-billing-and-payments-techno
 related_article_ids: []
-embedding_id: 2026-09-04-anthropic-explores-bringing-payments-and-billing-infrastruct
+embedding_id: null
 event_name: ''
 ---
 

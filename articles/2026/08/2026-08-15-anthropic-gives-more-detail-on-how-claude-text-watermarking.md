@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 related_article_ids:
 - 2026-08-15-anthropic-publishes-technical-details-on-claude-s-text-water
-embedding_id: 2026-08-15-anthropic-gives-more-detail-on-how-claude-text-watermarking
+embedding_id: null
 event_name: ''
 ---
 

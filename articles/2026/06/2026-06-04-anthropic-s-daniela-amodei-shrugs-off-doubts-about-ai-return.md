@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits
 - 2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust
 - 2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally
-embedding_id: 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
+embedding_id: null
 event_name: ''
 ---
 

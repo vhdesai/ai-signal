@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
-embedding_id: 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
+embedding_id: null
 event_name: ''
 ---
 

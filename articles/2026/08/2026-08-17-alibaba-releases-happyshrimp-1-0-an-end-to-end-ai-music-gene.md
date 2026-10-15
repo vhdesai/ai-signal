@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-alibaba-releases-ai-music-model-happyshrimp-1-0
 related_article_ids: []
-embedding_id: 2026-08-17-alibaba-releases-happyshrimp-1-0-an-end-to-end-ai-music-gene
+embedding_id: null
 event_name: ''
 ---
 

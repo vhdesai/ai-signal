@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 - 2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa
-embedding_id: 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
+embedding_id: null
 event_name: ''
 ---
 

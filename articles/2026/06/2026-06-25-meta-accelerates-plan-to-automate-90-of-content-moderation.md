@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-embedding_id: 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
+embedding_id: null
 event_name: ''
 ---
 

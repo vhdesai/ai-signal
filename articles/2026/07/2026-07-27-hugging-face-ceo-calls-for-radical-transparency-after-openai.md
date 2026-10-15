@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a
 - 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s
-embedding_id: 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
+embedding_id: null
 event_name: ''
 ---
 

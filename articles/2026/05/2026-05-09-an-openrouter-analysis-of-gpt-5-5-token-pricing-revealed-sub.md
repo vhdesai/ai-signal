@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-openai-cuts-gpt-5-6-sol-api-pricing-by-more-than-20
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 - 2026-07-31-openai-cuts-gpt-5-6-prices-as-enterprise-token-costs-bite
-embedding_id: 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
+embedding_id: null
 event_name: ''
 ---
 

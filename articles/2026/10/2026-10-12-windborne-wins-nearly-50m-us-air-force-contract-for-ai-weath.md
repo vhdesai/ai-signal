@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
 - 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
-embedding_id: 2026-10-12-windborne-wins-nearly-50m-us-air-force-contract-for-ai-weath
+embedding_id: null
 event_name: ''
 ---
 

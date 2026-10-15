@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 related_article_ids: []
-embedding_id: 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
+embedding_id: null
 event_name: ''
 ---
 

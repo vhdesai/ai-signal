@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
-embedding_id: 2026-06-10-spacex-ipo-begins-trading-today-75b-raise-at-1-75t-valuation
+embedding_id: null
 event_name: ''
 ---
 

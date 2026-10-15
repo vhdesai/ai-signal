@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
 - 2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat
 - 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
-embedding_id: 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
+embedding_id: null
 event_name: ''
 ---
 

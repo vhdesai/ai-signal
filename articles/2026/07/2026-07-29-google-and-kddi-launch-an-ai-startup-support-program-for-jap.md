@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent
 - 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-embedding_id: 2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap
+embedding_id: null
 event_name: ''
 ---
 

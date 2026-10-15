@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-google-introduces-envharness-reshaping-static-training-world
 - 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
-embedding_id: 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
+embedding_id: null
 event_name: ''
 ---
 

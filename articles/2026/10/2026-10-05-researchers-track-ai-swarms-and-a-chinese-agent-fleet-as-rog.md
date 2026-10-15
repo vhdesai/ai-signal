@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
-embedding_id: 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
+embedding_id: null
 event_name: ''
 ---
 

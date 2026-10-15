@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
-embedding_id: 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
+embedding_id: null
 event_name: ''
 ---
 

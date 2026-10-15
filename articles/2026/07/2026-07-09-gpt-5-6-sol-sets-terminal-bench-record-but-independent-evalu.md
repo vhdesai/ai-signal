@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations
 related_article_ids: []
-embedding_id: 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
-embedding_id: 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
+embedding_id: null
 event_name: ''
 ---
 

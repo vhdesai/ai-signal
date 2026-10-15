@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-openai-launches-chatgpt-desktop-app-for-linux
-embedding_id: 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
+embedding_id: null
 event_name: ''
 ---
 

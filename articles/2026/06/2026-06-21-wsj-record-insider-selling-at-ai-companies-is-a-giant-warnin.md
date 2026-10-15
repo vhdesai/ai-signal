@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 related_article_ids: []
-embedding_id: 2026-06-21-wsj-record-insider-selling-at-ai-companies-is-a-giant-warnin
+embedding_id: null
 event_name: ''
 ---
 

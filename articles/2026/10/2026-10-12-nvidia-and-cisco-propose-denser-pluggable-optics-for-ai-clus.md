@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
-embedding_id: 2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus
+embedding_id: null
 event_name: ''
 ---
 

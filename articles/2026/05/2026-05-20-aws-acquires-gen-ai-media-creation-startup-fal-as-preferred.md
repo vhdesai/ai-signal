@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
-embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
+embedding_id: null
 event_name: ''
 ---
 

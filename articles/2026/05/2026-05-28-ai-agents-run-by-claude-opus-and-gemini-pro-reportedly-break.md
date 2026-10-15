@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
-embedding_id: 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
+embedding_id: null
 event_name: ''
 ---
 

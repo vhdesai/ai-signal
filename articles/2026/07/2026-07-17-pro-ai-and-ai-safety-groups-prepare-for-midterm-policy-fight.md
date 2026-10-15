@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
-embedding_id: 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
+embedding_id: null
 event_name: ''
 ---
 

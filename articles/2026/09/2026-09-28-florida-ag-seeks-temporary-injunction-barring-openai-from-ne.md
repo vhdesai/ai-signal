@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: Florida Phoenix
 url_original: https://floridaphoenix.com/2026/09/28/florida-ag-files-to-block-chatgpt-development-and-place-restrictions-on-openai/
 url_canonical: https://floridaphoenix.com/2026/09/28/florida-ag-files-to-block-chatgpt-development-and-place-restrictions-on-openai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 9353742be49da3e82791518bed18aa08fa857722f553aba3e93281528a9459f5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
-embedding_id: 2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne
+embedding_id: null
 event_name: ''
 ---
 

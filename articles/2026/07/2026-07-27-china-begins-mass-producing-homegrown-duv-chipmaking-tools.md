@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
-embedding_id: 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
+embedding_id: null
 event_name: ''
 ---
 

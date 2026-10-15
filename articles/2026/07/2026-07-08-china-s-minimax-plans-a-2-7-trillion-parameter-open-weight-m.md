@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow
 - 2026-07-31-china-s-minimax-releases-h3-open-weight-video-generation-mod
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
-embedding_id: 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
+embedding_id: null
 event_name: ''
 ---
 

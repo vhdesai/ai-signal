@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
-embedding_id: 2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus
+embedding_id: null
 event_name: ''
 ---
 

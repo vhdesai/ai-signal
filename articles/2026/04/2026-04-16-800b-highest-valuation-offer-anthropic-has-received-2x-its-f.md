@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
-embedding_id: 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
+embedding_id: null
 event_name: ''
 ---
 

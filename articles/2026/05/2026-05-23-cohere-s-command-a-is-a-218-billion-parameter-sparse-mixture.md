@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
 - 2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and
-embedding_id: 2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture
+embedding_id: null
 event_name: ''
 ---
 

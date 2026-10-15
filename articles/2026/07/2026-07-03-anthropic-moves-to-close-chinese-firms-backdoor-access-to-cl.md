@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 - 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-embedding_id: 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
+embedding_id: null
 event_name: ''
 ---
 

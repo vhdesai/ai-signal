@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 - 2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language
 - 2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali
-embedding_id: 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
+embedding_id: null
 event_name: ''
 ---
 

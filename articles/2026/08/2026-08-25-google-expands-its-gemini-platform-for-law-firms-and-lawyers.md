@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-embedding_id: 2026-08-25-google-expands-its-gemini-platform-for-law-firms-and-lawyers
+embedding_id: null
 event_name: ''
 ---
 

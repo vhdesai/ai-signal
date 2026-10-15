@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
-embedding_id: 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
-embedding_id: 2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si
+embedding_id: null
 event_name: ''
 ---
 

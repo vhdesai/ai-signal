@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-07-11-for-decades-western-governments-have-ordered-supplies-like-t
+embedding_id: null
 event_name: ''
 ---
 

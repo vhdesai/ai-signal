@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: 2026-07-20-openai-outlines-safety-and-alignment-concerns-for-long-horiz
+embedding_id: null
 event_name: ''
 ---
 

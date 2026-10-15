@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
-embedding_id: 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
+embedding_id: null
 event_name: ''
 ---
 

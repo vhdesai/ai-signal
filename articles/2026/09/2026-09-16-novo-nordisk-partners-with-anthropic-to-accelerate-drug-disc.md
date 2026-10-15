@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-24-anthropic-says-claude-helped-discover-a-possible-new-gene-ed
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
-embedding_id: 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 related_article_ids: []
-embedding_id: 2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis
+embedding_id: null
 event_name: ''
 ---
 

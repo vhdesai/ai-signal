@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
-embedding_id: 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+embedding_id: null
 event_name: ''
 ---
 

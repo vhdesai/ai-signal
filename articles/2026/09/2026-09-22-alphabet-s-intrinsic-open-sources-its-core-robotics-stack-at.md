@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-embedding_id: 2026-09-22-alphabet-s-intrinsic-open-sources-its-core-robotics-stack-at
+embedding_id: null
 event_name: ''
 ---
 

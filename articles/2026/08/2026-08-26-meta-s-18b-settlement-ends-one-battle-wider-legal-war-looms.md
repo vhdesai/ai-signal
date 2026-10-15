@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
 related_article_ids: []
-embedding_id: 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
+embedding_id: null
 event_name: ''
 ---
 

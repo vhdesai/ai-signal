@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
-embedding_id: 2026-06-24-sk-hynix-targets-29b-nasdaq-listing-as-soon-as-july-10
+embedding_id: null
 event_name: ''
 ---
 

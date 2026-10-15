@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
-embedding_id: 2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x
+embedding_id: null
 event_name: ''
 ---
 

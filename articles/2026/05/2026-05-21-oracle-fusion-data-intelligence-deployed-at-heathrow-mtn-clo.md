@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
-embedding_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
+embedding_id: null
 event_name: ''
 ---
 

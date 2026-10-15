@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 - 2026-08-03-qwen3-8-max-shows-china-s-leading-labs-still-pushing-frontie
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
-embedding_id: 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
-embedding_id: 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
+embedding_id: null
 event_name: ''
 ---
 

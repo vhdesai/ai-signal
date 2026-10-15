@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
-embedding_id: 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
+embedding_id: null
 event_name: ''
 ---
 

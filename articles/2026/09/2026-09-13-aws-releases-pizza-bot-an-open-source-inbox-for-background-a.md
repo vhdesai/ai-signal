@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents
 related_article_ids: []
-embedding_id: 2026-09-13-aws-releases-pizza-bot-an-open-source-inbox-for-background-a
+embedding_id: null
 event_name: ''
 ---
 

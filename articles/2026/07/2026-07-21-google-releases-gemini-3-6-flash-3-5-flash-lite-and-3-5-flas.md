@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 related_article_ids:
 - 2026-07-21-google-ships-three-lower-cost-gemini-models-flagship-3-5-pro
-embedding_id: 2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas
+embedding_id: null
 event_name: ''
 ---
 

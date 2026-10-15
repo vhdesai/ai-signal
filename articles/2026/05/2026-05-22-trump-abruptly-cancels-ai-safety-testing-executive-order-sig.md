@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-embedding_id: 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
+embedding_id: null
 event_name: ''
 ---
 

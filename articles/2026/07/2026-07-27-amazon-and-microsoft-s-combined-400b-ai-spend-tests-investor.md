@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 related_article_ids: []
-embedding_id: 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
+embedding_id: null
 event_name: ''
 ---
 

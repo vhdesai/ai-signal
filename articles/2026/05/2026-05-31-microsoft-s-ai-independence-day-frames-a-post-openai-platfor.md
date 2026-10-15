@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
+embedding_id: null
 event_name: ''
 ---
 

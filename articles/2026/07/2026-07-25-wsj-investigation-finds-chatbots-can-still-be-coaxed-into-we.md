@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
 related_article_ids: []
-embedding_id: 2026-07-25-wsj-investigation-finds-chatbots-can-still-be-coaxed-into-we
+embedding_id: null
 event_name: ''
 ---
 

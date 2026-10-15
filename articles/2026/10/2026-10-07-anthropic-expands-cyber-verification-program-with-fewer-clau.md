@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: 2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau
+embedding_id: null
 event_name: ''
 ---
 

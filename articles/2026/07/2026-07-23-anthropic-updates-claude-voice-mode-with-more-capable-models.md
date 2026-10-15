@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
-embedding_id: 2026-07-23-anthropic-updates-claude-voice-mode-with-more-capable-models
+embedding_id: null
 event_name: ''
 ---
 

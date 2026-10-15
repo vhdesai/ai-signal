@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-embedding_id: 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
+embedding_id: null
 event_name: ''
 ---
 

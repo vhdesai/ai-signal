@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows
 related_article_ids: []
-embedding_id: 2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc
+embedding_id: null
 event_name: ''
 ---
 

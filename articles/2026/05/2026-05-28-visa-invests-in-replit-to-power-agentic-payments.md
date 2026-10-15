@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-embedding_id: 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
+embedding_id: null
 event_name: ''
 ---
 

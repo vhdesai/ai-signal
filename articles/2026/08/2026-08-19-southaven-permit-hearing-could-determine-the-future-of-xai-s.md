@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
-embedding_id: 2026-08-19-southaven-permit-hearing-could-determine-the-future-of-xai-s
+embedding_id: null
 event_name: ''
 ---
 

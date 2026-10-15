@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
 - 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-embedding_id: 2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod
+embedding_id: null
 event_name: ''
 ---
 

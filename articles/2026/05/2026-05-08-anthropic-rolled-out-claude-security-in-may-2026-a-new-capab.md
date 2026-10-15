@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-embedding_id: 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
+embedding_id: null
 event_name: ''
 ---
 

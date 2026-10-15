@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 related_article_ids: []
-embedding_id: 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
+embedding_id: null
 event_name: ''
 ---
 

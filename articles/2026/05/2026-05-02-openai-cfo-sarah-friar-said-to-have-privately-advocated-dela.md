@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-04-27-
 - 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
-embedding_id: 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
+embedding_id: null
 event_name: ''
 ---
 

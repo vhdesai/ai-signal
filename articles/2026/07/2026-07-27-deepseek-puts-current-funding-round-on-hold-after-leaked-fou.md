@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-deepseek-puts-funding-round-on-hold-after-leaked-founder-cal
 - 2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks
-embedding_id: 2026-07-27-deepseek-puts-current-funding-round-on-hold-after-leaked-fou
+embedding_id: null
 event_name: ''
 ---
 

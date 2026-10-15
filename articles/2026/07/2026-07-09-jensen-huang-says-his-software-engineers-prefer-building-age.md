@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 - 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
-embedding_id: 2026-07-09-jensen-huang-says-his-software-engineers-prefer-building-age
+embedding_id: null
 event_name: ''
 ---
 

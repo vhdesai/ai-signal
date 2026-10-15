@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-google-s-gemini-autonomously-hacked-three-companies-in-cyber
 - 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
-embedding_id: 2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre
+embedding_id: null
 event_name: ''
 ---
 

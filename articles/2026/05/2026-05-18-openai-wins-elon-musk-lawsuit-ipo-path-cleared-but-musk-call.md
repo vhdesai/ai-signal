@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
 - 2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
-embedding_id: 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
+embedding_id: null
 event_name: ''
 ---
 

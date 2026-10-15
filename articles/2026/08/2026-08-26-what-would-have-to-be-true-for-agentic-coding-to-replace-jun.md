@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 - 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
-embedding_id: 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: 2026-08-09-anthropic-makes-claude-code-auto-mode-the-defau
 related_article_ids:
 - 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 - 2026-08-11-anthropic-makes-claude-code-s-auto-mode-the-default-for-paid
-embedding_id: 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default
+embedding_id: null
 event_name: ''
 ---
 

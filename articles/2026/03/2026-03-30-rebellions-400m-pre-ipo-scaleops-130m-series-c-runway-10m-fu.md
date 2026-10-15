@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
-embedding_id: 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
+embedding_id: null
 event_name: ''
 ---
 

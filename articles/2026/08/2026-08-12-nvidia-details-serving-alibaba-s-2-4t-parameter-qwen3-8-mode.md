@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
-embedding_id: 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
+embedding_id: null
 event_name: ''
 ---
 

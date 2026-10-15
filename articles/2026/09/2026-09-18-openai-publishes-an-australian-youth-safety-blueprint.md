@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
-embedding_id: 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
+embedding_id: null
 event_name: ''
 ---
 

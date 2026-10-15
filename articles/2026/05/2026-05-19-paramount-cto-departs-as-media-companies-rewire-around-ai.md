@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
-embedding_id: 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
+embedding_id: null
 event_name: ''
 ---
 

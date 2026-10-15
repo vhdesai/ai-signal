@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names
 - 2026-08-24-coreweave-lands-new-ai-cloud-deal-as-data-center-siting-rule
 - 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
-embedding_id: 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-15-openai-launches-a-230-physical-keyboard-for-codex-power-user
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil
-embedding_id: 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
+embedding_id: null
 event_name: ''
 ---
 

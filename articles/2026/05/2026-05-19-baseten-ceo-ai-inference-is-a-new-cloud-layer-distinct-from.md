@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 - 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-embedding_id: 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
+embedding_id: null
 event_name: ''
 ---
 

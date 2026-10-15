@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
 - 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
-embedding_id: 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-29-meta-tests-robots-inside-its-data-centers-as-tech-sector-job
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
-embedding_id: 2026-08-29-meta-tests-robots-inside-data-centers-as-tech-job-cuts-mount
+embedding_id: null
 event_name: ''
 ---
 

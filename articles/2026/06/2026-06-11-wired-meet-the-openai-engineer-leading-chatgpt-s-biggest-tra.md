@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-embedding_id: 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
+embedding_id: null
 event_name: ''
 ---
 

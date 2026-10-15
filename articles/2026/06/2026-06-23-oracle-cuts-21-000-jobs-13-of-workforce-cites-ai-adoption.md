@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
-embedding_id: 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
+embedding_id: null
 event_name: ''
 ---
 

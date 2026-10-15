@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
-embedding_id: 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
+embedding_id: null
 event_name: ''
 ---
 

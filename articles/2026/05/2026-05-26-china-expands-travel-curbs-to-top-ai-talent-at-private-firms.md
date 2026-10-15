@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 related_article_ids: []
-embedding_id: 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
+embedding_id: null
 event_name: ''
 ---
 

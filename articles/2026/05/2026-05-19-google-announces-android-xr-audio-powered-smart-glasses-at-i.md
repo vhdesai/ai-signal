@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 - 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
-embedding_id: 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
+embedding_id: null
 event_name: ''
 ---
 

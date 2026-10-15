@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: 2026-09-01-amazon-adds-alexa-update-me-when-purchase-trigger-alerts
+embedding_id: null
 event_name: ''
 ---
 

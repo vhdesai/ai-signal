@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-meta-launches-muse-code-an-ai-coding-agent-for-large-codebas
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-embedding_id: 2026-08-05-meta-launches-muse-code-a-terminal-coding-agent-for-large-re
+embedding_id: null
 event_name: ''
 ---
 

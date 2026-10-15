@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
-embedding_id: 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
+embedding_id: null
 event_name: ''
 ---
 

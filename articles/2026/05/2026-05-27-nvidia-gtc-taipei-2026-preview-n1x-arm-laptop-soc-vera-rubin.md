@@ -29,7 +29,7 @@ related_article_ids:
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
-embedding_id: 2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin
+embedding_id: null
 event_name: ''
 ---
 

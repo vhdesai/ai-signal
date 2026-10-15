@@ -36,7 +36,7 @@ related_article_ids:
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
 - 2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei
-embedding_id: event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
+embedding_id: null
 event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 ---
 

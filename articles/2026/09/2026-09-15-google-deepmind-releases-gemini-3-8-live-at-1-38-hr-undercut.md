@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
 related_article_ids: []
-embedding_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-at-1-38-hr-undercut
+embedding_id: null
 event_name: ''
 ---
 

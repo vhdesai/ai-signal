@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-industry-alliance-drafts-safe-guidelines-for-sharing-ai-inci
 - 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
 - 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
-embedding_id: 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
+embedding_id: null
 event_name: ''
 ---
 

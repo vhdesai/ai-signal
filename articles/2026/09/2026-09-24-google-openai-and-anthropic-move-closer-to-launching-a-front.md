@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-embedding_id: 2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front
+embedding_id: null
 event_name: ''
 ---
 

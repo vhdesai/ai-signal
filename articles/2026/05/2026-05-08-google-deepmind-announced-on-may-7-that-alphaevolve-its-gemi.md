@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 related_article_ids: []
-embedding_id: 2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi
+embedding_id: null
 event_name: ''
 ---
 

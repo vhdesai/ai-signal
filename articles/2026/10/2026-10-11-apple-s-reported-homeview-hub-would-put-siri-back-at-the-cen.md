@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
-embedding_id: 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
+embedding_id: null
 event_name: ''
 ---
 

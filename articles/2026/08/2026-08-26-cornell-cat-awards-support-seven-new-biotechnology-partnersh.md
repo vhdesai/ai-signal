@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 - 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
-embedding_id: 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
+embedding_id: null
 event_name: ''
 ---
 

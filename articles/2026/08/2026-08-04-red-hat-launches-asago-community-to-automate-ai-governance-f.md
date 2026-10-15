@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 - 2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models
-embedding_id: 2026-08-04-red-hat-launches-asago-community-to-automate-ai-governance-f
+embedding_id: null
 event_name: ''
 ---
 

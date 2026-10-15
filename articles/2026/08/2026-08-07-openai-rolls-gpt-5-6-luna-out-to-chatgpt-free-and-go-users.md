@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
-embedding_id: 2026-08-07-openai-rolls-gpt-5-6-luna-out-to-chatgpt-free-and-go-users
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
-embedding_id: 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
+embedding_id: null
 event_name: ''
 ---
 

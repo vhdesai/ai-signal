@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-embedding_id: 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-embedding_id: 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 - 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
-embedding_id: 2026-05-26-newly-released-u-s-law-enforcement-documents-show-dhs-the-fb
+embedding_id: null
 event_name: ''
 ---
 

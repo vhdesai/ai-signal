@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-05-20-scaling-laws-for-embodied-ai
-embedding_id: 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
+embedding_id: null
 event_name: ''
 ---
 

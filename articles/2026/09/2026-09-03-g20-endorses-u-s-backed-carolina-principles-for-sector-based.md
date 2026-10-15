@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
 - 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
 - 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
-embedding_id: 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
+embedding_id: null
 event_name: ''
 ---
 

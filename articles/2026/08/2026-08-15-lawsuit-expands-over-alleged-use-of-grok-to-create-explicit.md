@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
 - 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
-embedding_id: 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
+embedding_id: null
 event_name: ''
 ---
 

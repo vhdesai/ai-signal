@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
 - 2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
-embedding_id: 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
+embedding_id: null
 event_name: ''
 ---
 

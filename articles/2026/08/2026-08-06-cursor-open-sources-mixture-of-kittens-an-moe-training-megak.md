@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
-embedding_id: 2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak
+embedding_id: null
 event_name: ''
 ---
 

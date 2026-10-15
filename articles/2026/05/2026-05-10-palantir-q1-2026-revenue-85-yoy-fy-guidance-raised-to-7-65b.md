@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 - 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
-embedding_id: 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
-embedding_id: 2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a
+embedding_id: null
 event_name: ''
 ---
 

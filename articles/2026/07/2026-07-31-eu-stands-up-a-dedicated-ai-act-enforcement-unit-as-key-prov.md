@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
-embedding_id: 2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov
+embedding_id: null
 event_name: ''
 ---
 

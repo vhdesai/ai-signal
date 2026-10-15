@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 - 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
 - 2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive
-embedding_id: 2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t
+embedding_id: null
 event_name: ''
 ---
 

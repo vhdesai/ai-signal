@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 related_article_ids: []
-embedding_id: 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera
+embedding_id: null
 event_name: ''
 ---
 

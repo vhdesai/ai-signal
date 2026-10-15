@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-12-microsoft-s-office-copilot-turnaround-puts-product-execution
 - 2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o
 - 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
-embedding_id: 2026-10-12-charles-lamanna-ended-copilot-s-model-monogamy-and-pushed-mi
+embedding_id: null
 event_name: ''
 ---
 

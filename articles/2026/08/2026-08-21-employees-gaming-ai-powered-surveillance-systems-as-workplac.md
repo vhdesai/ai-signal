@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
-embedding_id: 2026-08-21-employees-gaming-ai-powered-surveillance-systems-as-workplac
+embedding_id: null
 event_name: ''
 ---
 

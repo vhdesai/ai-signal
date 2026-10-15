@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Invezz · CNBC
 url_original: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
 url_canonical: https://invezz.com/news/2026/07/13/heres-why-the-kospi-index-is-in-a-freefall-today-july-13/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: ec95f197c1dd97902644235506fcc62568a97c4fb195f99ad83992945f3d6036
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg
 - 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
-embedding_id: 2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu
+embedding_id: null
 event_name: ''
 ---
 

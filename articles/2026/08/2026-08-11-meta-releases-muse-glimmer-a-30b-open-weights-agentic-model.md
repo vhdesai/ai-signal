@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that
-embedding_id: 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
+embedding_id: null
 event_name: ''
 ---
 

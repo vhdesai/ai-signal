@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
-embedding_id: 2026-09-04-oracle-emphasizes-securing-database-estates-against-ai-enabl
+embedding_id: null
 event_name: ''
 ---
 

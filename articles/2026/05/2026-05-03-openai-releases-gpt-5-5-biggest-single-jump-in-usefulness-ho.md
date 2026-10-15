@@ -30,7 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-embedding_id: 2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho
+embedding_id: null
 event_name: ''
 ---
 

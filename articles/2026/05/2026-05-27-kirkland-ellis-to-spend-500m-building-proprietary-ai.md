@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-embedding_id: 2026-05-27-kirkland-ellis-to-spend-500m-building-proprietary-ai
+embedding_id: null
 event_name: ''
 ---
 

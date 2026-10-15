@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 - 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-embedding_id: 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
+embedding_id: null
 event_name: ''
 ---
 

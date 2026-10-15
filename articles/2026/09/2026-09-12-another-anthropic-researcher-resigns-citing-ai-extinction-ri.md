@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
-embedding_id: 2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri
+embedding_id: null
 event_name: ''
 ---
 

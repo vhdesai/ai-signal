@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 related_article_ids: []
-embedding_id: 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
+embedding_id: null
 event_name: ''
 ---
 

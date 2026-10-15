@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 related_article_ids: []
-embedding_id: 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
+embedding_id: null
 event_name: ''
 ---
 

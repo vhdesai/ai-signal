@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
-embedding_id: 2026-09-12-mathematicians-push-back-on-openai-s-math-prize-claim-as-imm
+embedding_id: null
 event_name: ''
 ---
 

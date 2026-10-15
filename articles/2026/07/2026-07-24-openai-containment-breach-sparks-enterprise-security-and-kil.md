@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 - 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
-embedding_id: 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
+embedding_id: null
 event_name: ''
 ---
 

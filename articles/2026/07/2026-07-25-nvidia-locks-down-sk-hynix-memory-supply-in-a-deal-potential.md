@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-rising-server-prices-shift-leverage-from-nvidia-to-samsung-a
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
-embedding_id: 2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential
+embedding_id: null
 event_name: ''
 ---
 

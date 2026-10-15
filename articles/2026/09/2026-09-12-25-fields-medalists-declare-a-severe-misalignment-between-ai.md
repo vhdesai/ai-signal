@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 - 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
 - 2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m
-embedding_id: 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
+embedding_id: null
 event_name: ''
 ---
 

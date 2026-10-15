@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
-embedding_id: 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
+embedding_id: null
 event_name: ''
 ---
 

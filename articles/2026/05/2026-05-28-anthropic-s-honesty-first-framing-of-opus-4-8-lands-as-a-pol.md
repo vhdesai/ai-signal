@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
-embedding_id: 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 - 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
-embedding_id: 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+embedding_id: null
 event_name: ''
 ---
 

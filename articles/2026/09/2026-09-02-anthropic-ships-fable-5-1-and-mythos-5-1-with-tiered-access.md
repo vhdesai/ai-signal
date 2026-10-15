@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 - 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
-embedding_id: 2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access
+embedding_id: null
 event_name: ''
 ---
 

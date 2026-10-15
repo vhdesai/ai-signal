@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
+embedding_id: null
 event_name: ''
 ---
 

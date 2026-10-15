@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
-embedding_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+embedding_id: null
 event_name: ''
 ---
 

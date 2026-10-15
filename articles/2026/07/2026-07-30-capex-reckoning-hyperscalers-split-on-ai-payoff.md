@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
-embedding_id: 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
+embedding_id: null
 event_name: ''
 ---
 

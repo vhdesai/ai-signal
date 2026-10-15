@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 related_article_ids: []
-embedding_id: 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
+embedding_id: null
 event_name: ''
 ---
 

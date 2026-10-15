@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 - 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 - 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
-embedding_id: 2026-10-01-grok-reportedly-weighed-in-on-a-us-decision-to-invade-venezu
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
-embedding_id: 2026-07-25-ai-moves-into-family-life
+embedding_id: null
 event_name: ''
 ---
 

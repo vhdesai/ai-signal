@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-07-07-microsoft-mai-model-deployment
-embedding_id: 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
+embedding_id: null
 event_name: ''
 ---
 

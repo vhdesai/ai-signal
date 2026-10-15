@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-embedding_id: 2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1
+embedding_id: null
 event_name: ''
 ---
 

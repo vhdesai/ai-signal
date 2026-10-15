@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-08-16-bond-traders-flag-70b-of-off-balance-sheet-backstops-behind
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-embedding_id: 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
+embedding_id: null
 event_name: ''
 ---
 

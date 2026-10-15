@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
 - 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
-embedding_id: 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
+embedding_id: null
 event_name: ''
 ---
 

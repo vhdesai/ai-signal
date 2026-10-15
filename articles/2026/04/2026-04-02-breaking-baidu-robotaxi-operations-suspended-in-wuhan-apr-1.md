@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
 - 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 - 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
-embedding_id: 2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
-embedding_id: 2026-10-01-jera-dell-and-rhaelm-plan-a-15b-plus-400mw-ai-campus-near-to
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-09-23-september-24-2026
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-embedding_id: 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
+embedding_id: null
 event_name: ''
 ---
 

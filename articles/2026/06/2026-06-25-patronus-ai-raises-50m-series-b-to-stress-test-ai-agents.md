@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
-embedding_id: 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
+embedding_id: null
 event_name: ''
 ---
 

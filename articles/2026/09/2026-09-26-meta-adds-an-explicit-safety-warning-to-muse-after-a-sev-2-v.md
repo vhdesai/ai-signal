@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
 - 2026-10-02-meta-muse-zero-day-attackers-can-inject-malware-through-the
 - 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
-embedding_id: 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
+embedding_id: null
 event_name: ''
 ---
 

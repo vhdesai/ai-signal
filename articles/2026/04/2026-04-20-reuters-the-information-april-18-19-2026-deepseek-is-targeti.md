@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-15-deepseek-nears-500m-revenue-raises-at-74b-and-preps-a-shangh
 - 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-embedding_id: 2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti
+embedding_id: null
 event_name: ''
 ---
 

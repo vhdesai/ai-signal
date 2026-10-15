@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
-embedding_id: 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
+embedding_id: null
 event_name: ''
 ---
 

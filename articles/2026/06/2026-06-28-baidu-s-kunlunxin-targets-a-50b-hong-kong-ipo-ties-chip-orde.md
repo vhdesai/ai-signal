@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 related_article_ids: []
-embedding_id: 2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde
+embedding_id: null
 event_name: ''
 ---
 

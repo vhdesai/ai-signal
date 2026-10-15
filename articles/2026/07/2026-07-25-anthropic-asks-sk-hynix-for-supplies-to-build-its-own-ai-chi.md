@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to
 related_article_ids: []
-embedding_id: 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
+embedding_id: null
 event_name: ''
 ---
 

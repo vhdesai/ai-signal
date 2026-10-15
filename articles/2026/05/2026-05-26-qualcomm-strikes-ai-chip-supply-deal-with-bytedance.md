@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 related_article_ids: []
-embedding_id: 2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance
+embedding_id: null
 event_name: ''
 ---
 

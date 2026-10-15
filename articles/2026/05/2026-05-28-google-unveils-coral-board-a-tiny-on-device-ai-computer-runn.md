@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
-embedding_id: 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
+embedding_id: null
 event_name: ''
 ---
 

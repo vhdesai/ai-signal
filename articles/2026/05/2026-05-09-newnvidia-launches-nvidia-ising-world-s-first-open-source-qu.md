@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-embedding_id: 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
+embedding_id: null
 event_name: ''
 ---
 

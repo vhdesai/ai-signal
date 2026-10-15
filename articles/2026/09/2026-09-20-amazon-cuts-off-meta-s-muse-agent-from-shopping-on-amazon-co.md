@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
 url_canonical: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: dd69ec75dea5c3d864d7b98c3317433495e86e87bb9271ca1ec11714491e9a7f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-the-amazon
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
-embedding_id: 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
+embedding_id: null
 event_name: ''
 ---
 

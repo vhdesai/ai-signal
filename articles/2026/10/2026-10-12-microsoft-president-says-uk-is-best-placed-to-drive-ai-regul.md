@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
 related_article_ids: []
-embedding_id: 2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul
+embedding_id: null
 event_name: ''
 ---
 

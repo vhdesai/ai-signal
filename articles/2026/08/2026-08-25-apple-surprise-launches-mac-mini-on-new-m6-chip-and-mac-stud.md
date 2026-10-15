@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-apple-pulled-forward-mac-mini-and-mac-studio-launches-on-une
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
-embedding_id: 2026-08-25-apple-surprise-launches-mac-mini-on-new-m6-chip-and-mac-stud
+embedding_id: null
 event_name: ''
 ---
 

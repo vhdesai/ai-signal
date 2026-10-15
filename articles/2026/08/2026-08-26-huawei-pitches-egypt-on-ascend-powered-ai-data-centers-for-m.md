@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s
 - 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
-embedding_id: 2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m
+embedding_id: null
 event_name: ''
 ---
 

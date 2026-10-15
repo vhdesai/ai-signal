@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
-embedding_id: 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
-embedding_id: 2026-06-28-ford-rehires-350-veteran-engineers-after-ai-driven-quality-s
+embedding_id: null
 event_name: ''
 ---
 

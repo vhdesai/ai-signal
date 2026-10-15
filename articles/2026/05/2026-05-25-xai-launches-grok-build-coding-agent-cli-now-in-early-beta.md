@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: xAI News
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: bb7fdaf831d283874f61d09e94ae03893507fe946f325f7c601e78dc80bc4daa
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-embedding_id: 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+embedding_id: null
 event_name: ''
 ---
 

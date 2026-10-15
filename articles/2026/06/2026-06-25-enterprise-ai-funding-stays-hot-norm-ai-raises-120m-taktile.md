@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 - 2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu
-embedding_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
+embedding_id: null
 event_name: ''
 ---
 

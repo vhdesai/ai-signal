@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
 - 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
-embedding_id: 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
+embedding_id: null
 event_name: ''
 ---
 

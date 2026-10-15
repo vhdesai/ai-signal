@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: CNBC
 url_original: https://creati.ai/ai-news/2026-05-19/
 url_canonical: https://creati.ai/ai-news/2026-05-19/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: b4947e3a4441cd5653a397a522e2eecf34668b0384ca7bd8b8ae4bd3e126b047
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-embedding_id: 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
+embedding_id: null
 event_name: ''
 ---
 

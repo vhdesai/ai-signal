@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
-embedding_id: 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
+embedding_id: null
 event_name: ''
 ---
 

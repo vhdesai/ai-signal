@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-embedding_id: 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
+embedding_id: null
 event_name: ''
 ---
 

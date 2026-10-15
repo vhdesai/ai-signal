@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
 - 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
-embedding_id: 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
+embedding_id: null
 event_name: ''
 ---
 

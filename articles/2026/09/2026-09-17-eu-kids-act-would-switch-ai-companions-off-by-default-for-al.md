@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-analysts-warn-the-eu-kids-act-will-be-hard-to-implement
 - 2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement
 - 2026-09-21-china-drafts-rules-banning-virtual-intimacy-ai-companions-fo
-embedding_id: 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
+embedding_id: null
 event_name: ''
 ---
 

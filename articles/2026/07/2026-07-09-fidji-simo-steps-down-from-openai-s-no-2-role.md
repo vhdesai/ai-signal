@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
-embedding_id: 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
+embedding_id: null
 event_name: ''
 ---
 

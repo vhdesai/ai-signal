@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
-embedding_id: 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
+embedding_id: null
 event_name: ''
 ---
 

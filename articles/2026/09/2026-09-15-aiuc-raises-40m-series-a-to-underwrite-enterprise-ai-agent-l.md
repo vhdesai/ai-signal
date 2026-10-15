@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-embedding_id: 2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l
+embedding_id: null
 event_name: ''
 ---
 

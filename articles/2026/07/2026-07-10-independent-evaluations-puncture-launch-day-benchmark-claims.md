@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl
 related_article_ids: []
-embedding_id: 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
+embedding_id: null
 event_name: ''
 ---
 

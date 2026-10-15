@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
-embedding_id: 2026-08-03-3-cogent-ai-releases-vr-1-cyber-reasoning-model
+embedding_id: null
 event_name: ''
 ---
 

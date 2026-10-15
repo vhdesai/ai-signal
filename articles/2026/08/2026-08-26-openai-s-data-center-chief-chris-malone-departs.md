@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone
 - 2026-08-25-openai-loses-head-of-data-centers-14th-executive-departure-i
-embedding_id: 2026-08-26-openai-s-data-center-chief-chris-malone-departs
+embedding_id: null
 event_name: ''
 ---
 

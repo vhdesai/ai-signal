@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-08-12-enterprises-secure-ai-agent-identities-but-cannot-contain-a
-embedding_id: 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+embedding_id: null
 event_name: ''
 ---
 

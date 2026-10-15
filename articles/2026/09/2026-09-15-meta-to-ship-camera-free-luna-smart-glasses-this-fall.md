@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
-embedding_id: 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
+embedding_id: null
 event_name: ''
 ---
 

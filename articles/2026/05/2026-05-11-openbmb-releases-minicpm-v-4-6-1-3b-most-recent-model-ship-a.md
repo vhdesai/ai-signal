@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-07-07-minimax-releases-2-7t-parameter-open-weight-model
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-an-open-weight-edge-vision-lang
-embedding_id: 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
+embedding_id: null
 event_name: ''
 ---
 

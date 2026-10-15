@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 related_article_ids: []
-embedding_id: 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
+embedding_id: null
 event_name: ''
 ---
 

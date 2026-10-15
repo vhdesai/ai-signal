@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-embedding_id: 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
+embedding_id: null
 event_name: ''
 ---
 

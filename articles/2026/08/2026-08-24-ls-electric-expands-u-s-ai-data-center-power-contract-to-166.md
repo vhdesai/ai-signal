@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-embedding_id: 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
+embedding_id: null
 event_name: ''
 ---
 

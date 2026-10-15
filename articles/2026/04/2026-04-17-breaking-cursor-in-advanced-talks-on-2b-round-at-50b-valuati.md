@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-embedding_id: 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
+embedding_id: null
 event_name: ''
 ---
 

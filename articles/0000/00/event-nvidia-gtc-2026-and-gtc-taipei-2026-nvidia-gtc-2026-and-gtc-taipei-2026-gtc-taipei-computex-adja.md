@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-27-nvidia-gtc-taipei-2026-preview-n1x-arm-laptop-soc-vera-rubin
 - 2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
-embedding_id: event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
+embedding_id: null
 event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 ---
 

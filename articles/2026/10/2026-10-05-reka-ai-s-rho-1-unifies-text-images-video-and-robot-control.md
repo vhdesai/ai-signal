@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 - 2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod
 - 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
-embedding_id: 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
+embedding_id: null
 event_name: ''
 ---
 

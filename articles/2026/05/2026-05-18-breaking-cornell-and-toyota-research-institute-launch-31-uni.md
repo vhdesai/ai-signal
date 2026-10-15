@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
-embedding_id: 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
+embedding_id: null
 event_name: ''
 ---
 

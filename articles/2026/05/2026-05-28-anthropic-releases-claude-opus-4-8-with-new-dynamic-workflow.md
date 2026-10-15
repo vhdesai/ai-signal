@@ -24,7 +24,7 @@ canonical_article_id: 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynam
 related_article_ids:
 - 2026-05-28-anthropic-ships-claude-opus-4-8-with-new-dynamic-workflow-to
 - 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
-embedding_id: 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
+embedding_id: null
 event_name: ''
 ---
 

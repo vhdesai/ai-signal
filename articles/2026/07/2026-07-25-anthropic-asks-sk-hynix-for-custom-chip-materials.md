@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
-embedding_id: 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
+embedding_id: null
 event_name: ''
 ---
 

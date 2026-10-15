@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/aws-veteran-matt-wood-returns-to-cloud-giant-in-new-role-chief-ai-and-technology-officer/
 url_canonical: https://www.geekwire.com/2026/aws-veteran-matt-wood-returns-to-cloud-giant-in-new-role-chief-ai-and-technology-officer/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: edeb7f1a990049bfa71f8832a6b00ca88cb624d11dcedf0d2119a63b38dd7e14
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
-embedding_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
+embedding_id: null
 event_name: ''
 ---
 

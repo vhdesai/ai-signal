@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 related_article_ids: []
-embedding_id: 2026-09-22-openai-counters-90-minutes-later-with-gpt-6-sol-and-luna-at
+embedding_id: null
 event_name: ''
 ---
 

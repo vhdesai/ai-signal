@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
 - 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
-embedding_id: 2026-05-26-bank-of-america-raises-apple-price-target-to-380-ahead-of-ww
+embedding_id: null
 event_name: ''
 ---
 

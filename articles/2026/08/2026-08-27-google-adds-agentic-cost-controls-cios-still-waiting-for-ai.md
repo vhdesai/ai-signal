@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
-embedding_id: 2026-08-27-google-adds-agentic-cost-controls-cios-still-waiting-for-ai
+embedding_id: null
 event_name: ''
 ---
 

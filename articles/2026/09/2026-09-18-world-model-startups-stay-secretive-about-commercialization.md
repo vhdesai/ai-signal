@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
 - 2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x
 - 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
-embedding_id: 2026-09-18-world-model-startups-stay-secretive-about-commercialization
+embedding_id: null
 event_name: ''
 ---
 

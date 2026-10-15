@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
-embedding_id: 2026-08-14-nvidia-indosat-and-universitas-gadjah-mada-open-indonesia-s
+embedding_id: null
 event_name: ''
 ---
 

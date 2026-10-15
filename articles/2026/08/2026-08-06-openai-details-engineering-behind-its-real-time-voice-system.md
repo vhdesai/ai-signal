@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
-embedding_id: 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
+embedding_id: null
 event_name: ''
 ---
 

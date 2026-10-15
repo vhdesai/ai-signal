@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-anthropic-s-model-hardware-standard-draws-enterprise-scrutin
 - 2026-08-29-anthropic-previews-model-hardware-standard-for-agents-operat
 - 2026-08-27-anthropic-previews-model-hardware-standard-to-let-agents-ope
-embedding_id: 2026-08-27-anthropic-introduces-model-hardware-standard-for-agent-to-ma
+embedding_id: null
 event_name: ''
 ---
 

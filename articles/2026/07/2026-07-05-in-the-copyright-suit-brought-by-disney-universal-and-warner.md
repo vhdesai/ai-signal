@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
 - 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
 - 2026-08-31-google-quietly-courts-hollywood-studios-for-ai-training-and
-embedding_id: 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
+embedding_id: null
 event_name: ''
 ---
 

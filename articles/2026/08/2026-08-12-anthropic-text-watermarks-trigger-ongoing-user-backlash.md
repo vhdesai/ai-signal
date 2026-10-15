@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash
 related_article_ids:
 - 2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa
-embedding_id: 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
+embedding_id: null
 event_name: ''
 ---
 

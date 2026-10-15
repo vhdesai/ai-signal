@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del
-embedding_id: 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
+embedding_id: null
 event_name: ''
 ---
 

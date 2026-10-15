@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-09-24-bank-of-america-to-double-its-ai-budget-mcdonald-s-commits-8
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-embedding_id: 2026-10-11-policy-retail-ai-may-change-the-price-of-your-big-mac-and-gr
+embedding_id: null
 event_name: ''
 ---
 

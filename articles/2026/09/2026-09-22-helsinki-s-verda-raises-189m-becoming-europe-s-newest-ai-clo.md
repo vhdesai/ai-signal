@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
-embedding_id: 2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo
+embedding_id: null
 event_name: ''
 ---
 

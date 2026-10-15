@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: SecurityWeek
 url_original: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
 url_canonical: https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: e35759bfd04eab3f1bb05675036deeda76dce7947145ad8cd171107466353dfc
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-embedding_id: 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
+embedding_id: null
 event_name: ''
 ---
 

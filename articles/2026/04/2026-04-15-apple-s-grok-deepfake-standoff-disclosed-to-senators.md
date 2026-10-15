@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
+embedding_id: null
 event_name: ''
 ---
 

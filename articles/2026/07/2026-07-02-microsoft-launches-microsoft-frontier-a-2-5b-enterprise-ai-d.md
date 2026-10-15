@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 related_article_ids: []
-embedding_id: 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
+embedding_id: null
 event_name: ''
 ---
 

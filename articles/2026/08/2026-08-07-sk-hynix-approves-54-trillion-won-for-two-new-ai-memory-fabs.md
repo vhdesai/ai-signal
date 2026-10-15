@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
-embedding_id: 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
+embedding_id: null
 event_name: ''
 ---
 

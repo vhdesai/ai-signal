@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-embedding_id: 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
+embedding_id: null
 event_name: ''
 ---
 

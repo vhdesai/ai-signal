@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
-embedding_id: 2026-09-12-anthropic-ceo-amodei-salt-style-ai-speed-limits-embedded-aud
+embedding_id: null
 event_name: ''
 ---
 

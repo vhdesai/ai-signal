@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-embedding_id: 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
+embedding_id: null
 event_name: ''
 ---
 

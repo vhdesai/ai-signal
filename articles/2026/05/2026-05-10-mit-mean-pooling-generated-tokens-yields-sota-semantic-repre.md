@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
-embedding_id: 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
+embedding_id: null
 event_name: ''
 ---
 

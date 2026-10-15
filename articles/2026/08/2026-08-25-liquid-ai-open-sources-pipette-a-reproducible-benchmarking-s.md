@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
-embedding_id: 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
+embedding_id: null
 event_name: ''
 ---
 

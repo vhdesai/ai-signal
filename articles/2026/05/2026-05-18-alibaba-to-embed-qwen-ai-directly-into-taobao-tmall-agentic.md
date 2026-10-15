@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly
 related_article_ids: []
-embedding_id: 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
+embedding_id: null
 event_name: ''
 ---
 

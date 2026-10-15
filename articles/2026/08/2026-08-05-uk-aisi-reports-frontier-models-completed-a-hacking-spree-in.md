@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
 - 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-embedding_id: 2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in
+embedding_id: null
 event_name: ''
 ---
 

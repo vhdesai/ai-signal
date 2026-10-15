@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
-embedding_id: 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
+embedding_id: null
 event_name: ''
 ---
 

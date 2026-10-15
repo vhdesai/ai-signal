@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-10-04-google-pauses-open-source-bug-bounty-after-ai-generated-vuln
 - 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
 - 2026-10-04-google-s-bug-bounty-pause-highlights-automated-report-overlo
-embedding_id: 2026-10-05-google-pauses-open-source-bug-bounty-program-after-surge-in
+embedding_id: null
 event_name: ''
 ---
 

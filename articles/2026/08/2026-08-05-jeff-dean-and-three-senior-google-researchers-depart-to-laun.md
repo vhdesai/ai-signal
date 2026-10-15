@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-08-05-jeff-dean-and-three-senior-google-researchers-depart-to-laun
+embedding_id: null
 event_name: ''
 ---
 

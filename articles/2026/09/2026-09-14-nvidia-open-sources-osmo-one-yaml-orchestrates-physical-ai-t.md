@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: MarkTechPost**
 url_original: https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/
 url_canonical: https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: b02f2d14dc381416525795dd8530d7b07270e3fe26226708285ed05b1c4dbe04
 normalized_title_hash: 1ae1bb066f7b05e1
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 related_article_ids: []
-embedding_id: 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
+embedding_id: null
 event_name: ''
 ---
 

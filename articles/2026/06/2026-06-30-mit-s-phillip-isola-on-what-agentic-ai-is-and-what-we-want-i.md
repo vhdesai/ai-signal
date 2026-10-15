@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-embedding_id: 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
+embedding_id: null
 event_name: ''
 ---
 

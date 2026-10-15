@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 - 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
-embedding_id: 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
+embedding_id: null
 event_name: ''
 ---
 

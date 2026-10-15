@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 related_article_ids:
 - 2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo
-embedding_id: 2026-09-11-nvidia-in-talks-to-invest-up-to-10b-as-anchor-investor-in-an
+embedding_id: null
 event_name: ''
 ---
 

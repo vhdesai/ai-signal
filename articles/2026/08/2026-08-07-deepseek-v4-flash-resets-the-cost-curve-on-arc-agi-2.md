@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
 related_article_ids: []
-embedding_id: 2026-08-07-deepseek-v4-flash-resets-the-cost-curve-on-arc-agi-2
+embedding_id: null
 event_name: ''
 ---
 

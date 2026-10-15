@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 - 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-embedding_id: 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
+embedding_id: null
 event_name: ''
 ---
 

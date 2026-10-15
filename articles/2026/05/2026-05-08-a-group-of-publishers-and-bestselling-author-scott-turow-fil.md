@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
-embedding_id: 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
+embedding_id: null
 event_name: ''
 ---
 

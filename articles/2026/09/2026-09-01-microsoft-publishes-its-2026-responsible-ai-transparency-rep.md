@@ -26,7 +26,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-09-23-september-24-2026
-embedding_id: 2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep
+embedding_id: null
 event_name: ''
 ---
 

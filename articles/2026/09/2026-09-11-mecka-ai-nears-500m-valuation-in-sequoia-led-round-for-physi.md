@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
 related_article_ids: []
-embedding_id: 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
-embedding_id: 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
+embedding_id: null
 event_name: ''
 ---
 

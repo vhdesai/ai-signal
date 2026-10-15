@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
-embedding_id: 2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin
+embedding_id: null
 event_name: ''
 ---
 

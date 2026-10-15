@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th
 - 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
-embedding_id: 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
+embedding_id: null
 event_name: ''
 ---
 

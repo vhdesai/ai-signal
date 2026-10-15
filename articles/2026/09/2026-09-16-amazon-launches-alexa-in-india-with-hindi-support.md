@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-16-amazon-launches-alexa-in-india-with-hindi-support-and-hindi
 - 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-embedding_id: 2026-09-16-amazon-launches-alexa-in-india-with-hindi-support
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: Business Insider
 url_original: https://www.yahoo.com/news/us/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html
 url_canonical: https://www.yahoo.com/news/us/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 63a1285c30bedddd9456447fd38942d65db4d89763359afd0a08764635497e83
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
-embedding_id: 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
+embedding_id: null
 event_name: ''
 ---
 

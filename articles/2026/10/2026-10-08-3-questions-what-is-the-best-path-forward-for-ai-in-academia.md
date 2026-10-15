@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-17-mit-ad-hoc-committee-on-ai-in-teaching-learning-and-research
-embedding_id: 2026-10-08-3-questions-what-is-the-best-path-forward-for-ai-in-academia
+embedding_id: null
 event_name: ''
 ---
 

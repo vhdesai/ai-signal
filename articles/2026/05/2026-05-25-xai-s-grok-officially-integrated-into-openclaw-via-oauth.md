@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
-embedding_id: 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
+embedding_id: null
 event_name: ''
 ---
 

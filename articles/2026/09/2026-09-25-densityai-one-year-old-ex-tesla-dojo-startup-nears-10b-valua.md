@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-densityai-founded-a-year-ago-by-ex-tesla-dojo-leaders-nears
 related_article_ids: []
-embedding_id: 2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua
+embedding_id: null
 event_name: ''
 ---
 

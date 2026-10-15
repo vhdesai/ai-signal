@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo
 related_article_ids: []
-embedding_id: 2026-09-24-deepseek-s-annualized-revenue-run-rate-reaches-1b-as-it-targ
+embedding_id: null
 event_name: ''
 ---
 

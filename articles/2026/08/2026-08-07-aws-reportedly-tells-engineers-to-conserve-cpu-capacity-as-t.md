@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
-embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t
+embedding_id: null
 event_name: ''
 ---
 

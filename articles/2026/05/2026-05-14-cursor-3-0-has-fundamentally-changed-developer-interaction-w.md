@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
-embedding_id: 2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w
+embedding_id: null
 event_name: ''
 ---
 

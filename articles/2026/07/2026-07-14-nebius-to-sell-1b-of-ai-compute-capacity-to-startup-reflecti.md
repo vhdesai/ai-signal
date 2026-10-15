@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
-embedding_id: 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
+embedding_id: null
 event_name: ''
 ---
 

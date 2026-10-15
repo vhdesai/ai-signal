@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1
 related_article_ids: []
-embedding_id: 2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic
+embedding_id: null
 event_name: ''
 ---
 

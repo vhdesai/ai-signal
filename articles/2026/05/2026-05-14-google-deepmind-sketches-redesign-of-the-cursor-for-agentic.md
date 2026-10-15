@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 - 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
-embedding_id: 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
+embedding_id: null
 event_name: ''
 ---
 

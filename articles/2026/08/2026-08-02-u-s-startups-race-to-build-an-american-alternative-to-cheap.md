@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 related_article_ids: []
-embedding_id: 2026-08-02-u-s-startups-race-to-build-an-american-alternative-to-cheap
+embedding_id: null
 event_name: ''
 ---
 

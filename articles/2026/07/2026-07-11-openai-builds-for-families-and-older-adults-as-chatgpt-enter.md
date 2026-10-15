@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
 related_article_ids: []
-embedding_id: 2026-07-11-openai-builds-for-families-and-older-adults-as-chatgpt-enter
+embedding_id: null
 event_name: ''
 ---
 

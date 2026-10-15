@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
 related_article_ids: []
-embedding_id: 2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo
+embedding_id: null
 event_name: ''
 ---
 

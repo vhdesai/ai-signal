@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-08-15-spacex-officially-closes-60b-acquisition-of-cursor
-embedding_id: 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-embedding_id: 2026-05-29-openai-brings-codex-computer-use-to-windows
+embedding_id: null
 event_name: ''
 ---
 

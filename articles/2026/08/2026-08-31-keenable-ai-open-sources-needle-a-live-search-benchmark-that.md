@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
-embedding_id: 2026-08-31-keenable-ai-open-sources-needle-a-live-search-benchmark-that
+embedding_id: null
 event_name: ''
 ---
 

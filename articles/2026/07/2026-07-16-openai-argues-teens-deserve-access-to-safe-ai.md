@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
-embedding_id: 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
+embedding_id: null
 event_name: ''
 ---
 

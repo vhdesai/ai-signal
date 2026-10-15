@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se
 related_article_ids: []
-embedding_id: 2026-09-03-new-georgia-tech-38-46-of-ai-generated-security-patches-were
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
-embedding_id: 2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter
+embedding_id: null
 event_name: ''
 ---
 

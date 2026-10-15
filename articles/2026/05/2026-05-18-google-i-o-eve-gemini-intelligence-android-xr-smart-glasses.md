@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
 - 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
 - event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
-embedding_id: 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 - 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
-embedding_id: 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
+embedding_id: null
 event_name: ''
 ---
 

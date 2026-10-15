@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 - 2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati
 - 2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl
-embedding_id: 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
+embedding_id: null
 event_name: ''
 ---
 

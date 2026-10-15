@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-embedding_id: 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
+embedding_id: null
 event_name: ''
 ---
 

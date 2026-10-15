@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-26-nvidia-reports-fiscal-q2-results-today-amid-a-sharp-pre-prin
 - 2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni
 - 2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex
-embedding_id: 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
+embedding_id: null
 event_name: ''
 ---
 

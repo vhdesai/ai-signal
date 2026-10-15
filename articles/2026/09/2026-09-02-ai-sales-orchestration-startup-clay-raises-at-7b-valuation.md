@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
 - 2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation
 - 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo
-embedding_id: 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
+embedding_id: null
 event_name: ''
 ---
 

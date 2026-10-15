@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
-embedding_id: 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
+embedding_id: null
 event_name: ''
 ---
 

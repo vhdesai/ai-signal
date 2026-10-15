@@ -25,7 +25,7 @@ canonical_article_id: 2026-09-03-nvidia-confirms-12-9-billion-acquisition-of-hug
 related_article_ids:
 - 2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
-embedding_id: 2026-09-03-nvidia-confirms-12-93b-acquisition-of-hugging-face
+embedding_id: null
 event_name: ''
 ---
 

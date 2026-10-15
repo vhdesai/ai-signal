@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/
 url_canonical: https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 7cce724d650509489b8862ab61e67694fbccf4f53600d1cb8e8b4ca04dd1a68a
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-07-16-nvidia-and-japan-launch-world-s-first-national-ai-infrastruc
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-embedding_id: 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
+embedding_id: null
 event_name: ''
 ---
 

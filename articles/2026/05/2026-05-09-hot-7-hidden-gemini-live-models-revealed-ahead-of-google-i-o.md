@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
-embedding_id: 2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o
+embedding_id: null
 event_name: ''
 ---
 

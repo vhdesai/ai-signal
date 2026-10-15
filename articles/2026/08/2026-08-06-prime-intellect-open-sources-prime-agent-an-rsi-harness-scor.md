@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
 url_canonical: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 7fffb7141e4b3d97ce5df1c395909cb2ff34c3e753e1dfa9ddace45d906c7b8e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
 - 2026-08-21-nvidia-shows-the-harness-not-the-model-is-the-real-hero-achi
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-embedding_id: 2026-08-16-ai-super-pacs-flood-money-into-state-elections
+embedding_id: null
 event_name: ''
 ---
 

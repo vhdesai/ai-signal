@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-micron-commits-10-billion-to-a-decade-long-memory-and-ai-res
 related_article_ids: []
-embedding_id: 2026-08-20-micron-commits-10b-to-a-decade-long-memory-and-ai-research-i
+embedding_id: null
 event_name: ''
 ---
 

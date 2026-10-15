@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m
 related_article_ids: []
-embedding_id: 2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-20-massive-ai-supply-deals-face-execution-risk
 - 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
-embedding_id: 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
+embedding_id: null
 event_name: ''
 ---
 

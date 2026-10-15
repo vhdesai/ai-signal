@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-anthropic-publishes-official-claude-watermarking-explainer
 - 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
-embedding_id: 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
+embedding_id: null
 event_name: ''
 ---
 

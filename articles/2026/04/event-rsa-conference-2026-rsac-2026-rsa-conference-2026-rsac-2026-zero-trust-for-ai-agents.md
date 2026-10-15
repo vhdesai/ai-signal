@@ -28,7 +28,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and
-embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
+embedding_id: null
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 

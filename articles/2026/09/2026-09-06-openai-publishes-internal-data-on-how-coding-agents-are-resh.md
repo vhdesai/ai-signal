@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-embedding_id: 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
+embedding_id: null
 event_name: ''
 ---
 

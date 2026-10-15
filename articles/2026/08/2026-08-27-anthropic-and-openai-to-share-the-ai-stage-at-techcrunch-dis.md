@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
-embedding_id: 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
+embedding_id: null
 event_name: ''
 ---
 

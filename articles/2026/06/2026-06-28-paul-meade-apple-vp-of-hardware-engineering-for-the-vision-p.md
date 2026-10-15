@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-08-26-openai-s-data-center-chief-chris-malone-departs
-embedding_id: 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
+embedding_id: null
 event_name: ''
 ---
 

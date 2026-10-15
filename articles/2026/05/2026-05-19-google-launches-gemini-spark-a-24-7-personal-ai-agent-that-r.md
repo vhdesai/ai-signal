@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 related_article_ids: []
-embedding_id: 2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r
+embedding_id: null
 event_name: ''
 ---
 

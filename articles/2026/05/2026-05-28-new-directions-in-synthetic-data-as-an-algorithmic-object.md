@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-08-20-generalist-ai-s-gen-1-5-robot-model-learns-new-tasks-from-a
-embedding_id: 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 related_article_ids: []
-embedding_id: 2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking
+embedding_id: null
 event_name: ''
 ---
 

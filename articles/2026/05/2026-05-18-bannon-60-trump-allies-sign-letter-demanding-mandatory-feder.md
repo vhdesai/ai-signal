@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
-embedding_id: 2026-05-18-bannon-60-trump-allies-sign-letter-demanding-mandatory-feder
+embedding_id: null
 event_name: ''
 ---
 

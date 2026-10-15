@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-embedding_id: 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
+embedding_id: null
 event_name: ''
 ---
 

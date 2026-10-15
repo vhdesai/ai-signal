@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-embedding_id: 2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
 - 2026-10-01-aws-previews-an-agent-for-well-architected-reviews
-embedding_id: 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
+embedding_id: null
 event_name: ''
 ---
 

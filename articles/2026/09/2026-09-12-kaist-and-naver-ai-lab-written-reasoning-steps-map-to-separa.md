@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: 2026-09-12-kaist-and-naver-ai-lab-written-reasoning-steps-map-to-separa
+embedding_id: null
 event_name: ''
 ---
 

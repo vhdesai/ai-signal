@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
-embedding_id: 2026-04-07-source-the-hacker-news-reuters-the-star
+embedding_id: null
 event_name: ''
 ---
 

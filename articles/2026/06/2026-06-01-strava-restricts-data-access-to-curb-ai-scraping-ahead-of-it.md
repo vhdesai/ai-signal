@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
-embedding_id: 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
+embedding_id: null
 event_name: ''
 ---
 

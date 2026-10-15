@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-embedding_id: 2026-06-20-a-follow-up-report-claims-gpt-5-6-will-ship-with-a-1-5-milli
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de
-embedding_id: 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
-embedding_id: 2026-06-26-epoch-ai-and-metr-launch-mirrorcode-a-long-horizon-coding-be
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
 - 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
 - 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
-embedding_id: 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
+embedding_id: null
 event_name: ''
 ---
 

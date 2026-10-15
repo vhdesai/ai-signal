@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
 related_article_ids: []
-embedding_id: 2026-09-01-anthropic-rolls-out-enterprise-frontier-safeguards
+embedding_id: null
 event_name: ''
 ---
 

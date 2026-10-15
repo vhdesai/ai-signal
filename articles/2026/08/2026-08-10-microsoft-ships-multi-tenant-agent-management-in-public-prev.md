@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-05-02-microsoft-agent-365-generally-available
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
-embedding_id: 2026-08-10-microsoft-ships-multi-tenant-agent-management-in-public-prev
+embedding_id: null
 event_name: ''
 ---
 

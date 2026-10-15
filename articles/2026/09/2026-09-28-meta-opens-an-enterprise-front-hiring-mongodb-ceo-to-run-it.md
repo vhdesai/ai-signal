@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo
 related_article_ids: []
-embedding_id: 2026-09-28-meta-opens-an-enterprise-front-hiring-mongodb-ceo-to-run-it
+embedding_id: null
 event_name: ''
 ---
 

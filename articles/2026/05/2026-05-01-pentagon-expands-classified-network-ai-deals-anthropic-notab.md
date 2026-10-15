@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-embedding_id: 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
+embedding_id: null
 event_name: ''
 ---
 

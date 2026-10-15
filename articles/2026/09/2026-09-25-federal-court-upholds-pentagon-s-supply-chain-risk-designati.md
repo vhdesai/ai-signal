@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-appeals-court-rules-the-pentagon-can-blacklist-anthropic-ove
 related_article_ids: []
-embedding_id: 2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati
+embedding_id: null
 event_name: ''
 ---
 

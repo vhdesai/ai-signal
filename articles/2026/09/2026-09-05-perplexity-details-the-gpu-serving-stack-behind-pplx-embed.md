@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 related_article_ids: []
-embedding_id: 2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed
+embedding_id: null
 event_name: ''
 ---
 

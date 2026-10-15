@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi
 related_article_ids: []
-embedding_id: 2026-08-05-alphabet-overhauls-ai-leadership-hassabis-steps-back-jeff-de
+embedding_id: null
 event_name: ''
 ---
 

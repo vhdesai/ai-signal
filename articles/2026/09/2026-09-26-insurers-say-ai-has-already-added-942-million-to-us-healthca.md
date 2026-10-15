@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen
 related_article_ids: []
-embedding_id: 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
-embedding_id: 2026-07-31-cornell-tech-appoints-new-associate-deans-for-research-and-e
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-09-21-china-drafts-rules-banning-virtual-intimacy-and-ai-companion
 - 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
-embedding_id: 2026-08-24-new-zealand-moves-to-ban-under-16s-from-social-media-with-fa
+embedding_id: null
 event_name: ''
 ---
 

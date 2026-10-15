@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-anthropic-quietly-stands-up-a-physical-biology-lab
 related_article_ids: []
-embedding_id: 2026-09-18-reuters-exclusive-anthropic-quietly-sets-up-a-physical-biolo
+embedding_id: null
 event_name: ''
 ---
 

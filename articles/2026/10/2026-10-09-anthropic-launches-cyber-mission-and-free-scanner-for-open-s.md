@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
-embedding_id: 2026-10-09-anthropic-launches-cyber-mission-and-free-scanner-for-open-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
-embedding_id: 2026-09-15-gates-foundation-commits-1b-over-two-years-to-close-ai-s-lan
+embedding_id: null
 event_name: ''
 ---
 

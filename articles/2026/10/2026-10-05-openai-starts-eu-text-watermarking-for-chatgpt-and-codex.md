@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-10-05-openai-begins-phased-text-watermarking-under-eu-provenance-r
 related_article_ids:
 - 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
-embedding_id: 2026-10-05-openai-starts-eu-text-watermarking-for-chatgpt-and-codex
+embedding_id: null
 event_name: ''
 ---
 

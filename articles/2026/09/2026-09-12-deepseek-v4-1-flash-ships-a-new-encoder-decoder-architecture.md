@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-11-deepseek-v4-1-flash-lands-on-third-party-inference-platforms
 - 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
-embedding_id: 2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture
+embedding_id: null
 event_name: ''
 ---
 

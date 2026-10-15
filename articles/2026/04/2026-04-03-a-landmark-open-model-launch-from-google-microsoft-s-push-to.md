@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-embedding_id: 2026-04-03-a-landmark-open-model-launch-from-google-microsoft-s-push-to
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-30-coreweave-introduces-limited-vera-rubin-availability
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-embedding_id: 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
+embedding_id: null
 event_name: ''
 ---
 

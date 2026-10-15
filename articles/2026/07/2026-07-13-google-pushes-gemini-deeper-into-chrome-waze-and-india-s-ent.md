@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-07-30-google-expands-gemini-spark-globally-adds-chrome-auto-browse
-embedding_id: 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a
 related_article_ids: []
-embedding_id: 2026-08-28-the-ai-assistant-running-my-life-first-person-account
+embedding_id: null
 event_name: ''
 ---
 

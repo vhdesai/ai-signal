@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 - 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
-embedding_id: 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
+embedding_id: null
 event_name: ''
 ---
 

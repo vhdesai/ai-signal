@@ -42,7 +42,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 related_article_ids: []
-embedding_id: 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
+embedding_id: null
 event_name: ''
 ---
 

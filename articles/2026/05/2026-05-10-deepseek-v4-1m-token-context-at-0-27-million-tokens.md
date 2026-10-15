@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
-embedding_id: 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
+embedding_id: null
 event_name: ''
 ---
 

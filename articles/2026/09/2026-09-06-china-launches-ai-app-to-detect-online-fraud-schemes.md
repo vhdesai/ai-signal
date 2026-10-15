@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
 - 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
-embedding_id: 2026-09-06-china-launches-ai-app-to-detect-online-fraud-schemes
+embedding_id: null
 event_name: ''
 ---
 

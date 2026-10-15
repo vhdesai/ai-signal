@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 related_article_ids: []
-embedding_id: 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
+embedding_id: null
 event_name: ''
 ---
 

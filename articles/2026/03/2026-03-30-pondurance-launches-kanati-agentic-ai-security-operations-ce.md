@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 - 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
-embedding_id: 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
+embedding_id: null
 event_name: ''
 ---
 

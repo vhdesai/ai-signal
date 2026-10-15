@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-embedding_id: 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
+embedding_id: null
 event_name: ''
 ---
 

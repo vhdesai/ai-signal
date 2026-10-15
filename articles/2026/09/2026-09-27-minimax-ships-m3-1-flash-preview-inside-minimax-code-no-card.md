@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 - 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
-embedding_id: 2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card
+embedding_id: null
 event_name: ''
 ---
 

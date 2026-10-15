@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
-embedding_id: 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
+embedding_id: null
 event_name: ''
 ---
 

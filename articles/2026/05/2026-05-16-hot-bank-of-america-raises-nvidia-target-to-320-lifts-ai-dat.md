@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
-embedding_id: 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
+embedding_id: null
 event_name: ''
 ---
 

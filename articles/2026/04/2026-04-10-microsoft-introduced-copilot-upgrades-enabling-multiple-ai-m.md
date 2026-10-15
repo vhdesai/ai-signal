@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-embedding_id: 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
+embedding_id: null
 event_name: ''
 ---
 

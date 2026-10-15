@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
-embedding_id: 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
+embedding_id: null
 event_name: ''
 ---
 

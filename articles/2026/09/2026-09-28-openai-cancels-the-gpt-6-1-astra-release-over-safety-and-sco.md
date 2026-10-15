@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-openai-cancels-the-release-of-gpt-6-1-astra-over-deception-i
 - 2026-09-28-openai-scraps-release-of-gpt-6-1-astra-over-safety-concerns
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
-embedding_id: 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco
+embedding_id: null
 event_name: ''
 ---
 

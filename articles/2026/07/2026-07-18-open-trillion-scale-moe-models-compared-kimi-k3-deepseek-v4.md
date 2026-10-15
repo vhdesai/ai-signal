@@ -5,7 +5,7 @@ date: '2026-07-18'
 source: MarkTechPost**
 url_original: https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/
 url_canonical: https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: 20a0492a5de8013d68e743f7d6111efb0cca6480edfd5b087843d5daef16005d
 normalized_title_hash: 474437d687d77e59
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
 - 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
-embedding_id: 2026-07-18-open-trillion-scale-moe-models-compared-kimi-k3-deepseek-v4
+embedding_id: null
 event_name: ''
 ---
 

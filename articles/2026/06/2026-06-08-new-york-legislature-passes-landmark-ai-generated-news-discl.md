@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
 - 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
 - 2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta
-embedding_id: 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
+embedding_id: null
 event_name: ''
 ---
 

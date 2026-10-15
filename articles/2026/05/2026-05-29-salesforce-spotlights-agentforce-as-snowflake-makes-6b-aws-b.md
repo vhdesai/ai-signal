@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
-embedding_id: 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+embedding_id: null
 event_name: ''
 ---
 

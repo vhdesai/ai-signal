@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-flagging-china
 related_article_ids: []
-embedding_id: 2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-warning-on-u-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
 related_article_ids: []
-embedding_id: 2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc
+embedding_id: null
 event_name: ''
 ---
 

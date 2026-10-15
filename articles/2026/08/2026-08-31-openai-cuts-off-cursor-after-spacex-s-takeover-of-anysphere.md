@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover
 related_article_ids:
 - 2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal
-embedding_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere
+embedding_id: null
 event_name: ''
 ---
 

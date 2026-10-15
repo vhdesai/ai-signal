@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
 related_article_ids: []
-embedding_id: 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
+embedding_id: null
 event_name: ''
 ---
 

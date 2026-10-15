@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
+embedding_id: null
 event_name: ''
 ---
 

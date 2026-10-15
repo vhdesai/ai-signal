@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
-embedding_id: 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
+embedding_id: null
 event_name: ''
 ---
 

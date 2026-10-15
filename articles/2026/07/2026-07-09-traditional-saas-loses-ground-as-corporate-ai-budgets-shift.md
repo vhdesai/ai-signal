@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
-embedding_id: 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
+embedding_id: null
 event_name: ''
 ---
 

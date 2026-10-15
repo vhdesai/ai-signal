@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-doj-investigating-a16z-over-board-seats-at-competing-ai-data
 related_article_ids: []
-embedding_id: 2026-08-17-doj-investigating-andreessen-horowitz-over-board-seats-at-co
+embedding_id: null
 event_name: ''
 ---
 

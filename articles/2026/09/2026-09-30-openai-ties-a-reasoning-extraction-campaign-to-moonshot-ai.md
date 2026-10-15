@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
 - 2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
-embedding_id: 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
+embedding_id: null
 event_name: ''
 ---
 

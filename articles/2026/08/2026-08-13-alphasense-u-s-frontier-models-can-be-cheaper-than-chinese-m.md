@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi
 related_article_ids: []
-embedding_id: 2026-08-13-alphasense-u-s-frontier-models-can-be-cheaper-than-chinese-m
+embedding_id: null
 event_name: ''
 ---
 

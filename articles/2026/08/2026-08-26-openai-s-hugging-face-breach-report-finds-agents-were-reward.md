@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-embedding_id: 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
+embedding_id: null
 event_name: ''
 ---
 

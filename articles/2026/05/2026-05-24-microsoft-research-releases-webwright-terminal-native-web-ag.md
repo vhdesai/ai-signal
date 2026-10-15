@@ -6,7 +6,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 3fee9cde4fc2a0e7d9ca2b08b7d0bbfad1c470b6d57609a192dec076653f857a
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 related_article_ids: []
-embedding_id: 2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag
+embedding_id: null
 event_name: ''
 ---
 

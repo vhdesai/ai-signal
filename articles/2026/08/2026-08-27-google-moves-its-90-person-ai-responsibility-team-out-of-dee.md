@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin
 related_article_ids: []
-embedding_id: 2026-08-27-google-moves-its-90-person-ai-responsibility-team-out-of-dee
+embedding_id: null
 event_name: ''
 ---
 

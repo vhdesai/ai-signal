@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
 url_canonical: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: e4a2a7f369a9a0fe27075e38edde8bd40aafc9bd6637e92adfc77e9d7b3e50a4
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
-embedding_id: 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
+embedding_id: null
 event_name: ''
 ---
 

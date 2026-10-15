@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-23-white-house-alleges-covert-distillation-of-anthropic-s-model
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
-embedding_id: 2026-07-22-treasury-keeps-sanctions-on-table-after-white-house-claim-ab
+embedding_id: null
 event_name: ''
 ---
 

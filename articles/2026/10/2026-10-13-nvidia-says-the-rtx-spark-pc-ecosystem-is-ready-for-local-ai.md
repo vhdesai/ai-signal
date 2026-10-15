@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
-embedding_id: 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
+embedding_id: null
 event_name: ''
 ---
 

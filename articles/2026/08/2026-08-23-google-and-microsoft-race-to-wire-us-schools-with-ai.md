@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
-embedding_id: 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
+embedding_id: null
 event_name: ''
 ---
 

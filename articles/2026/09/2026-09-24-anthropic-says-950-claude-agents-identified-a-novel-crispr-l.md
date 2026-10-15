@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 related_article_ids: []
-embedding_id: 2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l
+embedding_id: null
 event_name: ''
 ---
 

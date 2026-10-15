@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
 - 2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo
-embedding_id: 2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio
+embedding_id: null
 event_name: ''
 ---
 

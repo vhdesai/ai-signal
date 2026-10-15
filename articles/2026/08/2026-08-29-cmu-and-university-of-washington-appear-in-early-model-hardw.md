@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-29-anthropic-s-mhs-preview-reports-early-lab-and-quantum-comput
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-08-27-anthropic-introduces-model-hardware-standard-for-agent-to-ma
-embedding_id: 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase
 - 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child
 - 2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver
-embedding_id: 2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case
+embedding_id: null
 event_name: ''
 ---
 

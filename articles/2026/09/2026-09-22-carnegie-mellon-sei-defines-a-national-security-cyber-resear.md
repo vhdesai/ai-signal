@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
-embedding_id: 2026-09-22-carnegie-mellon-sei-defines-a-national-security-cyber-resear
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
-embedding_id: 2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy
+embedding_id: null
 event_name: ''
 ---
 

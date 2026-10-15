@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us
 - 2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-embedding_id: 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
+embedding_id: null
 event_name: ''
 ---
 

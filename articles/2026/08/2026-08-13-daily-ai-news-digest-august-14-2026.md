@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-17-daily-ai-news-digest-august-18-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-11-daily-ai-news-digest-august-11-2026
-embedding_id: 2026-08-13-daily-ai-news-digest-august-14-2026
+embedding_id: null
 event_name: ''
 ---
 

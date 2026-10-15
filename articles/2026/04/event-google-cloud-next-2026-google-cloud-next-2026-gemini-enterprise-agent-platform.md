@@ -28,7 +28,7 @@ related_article_ids:
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 - event-google-i-o-2026-google-i-o-2026-overview
-embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+embedding_id: null
 event_name: Google Cloud Next 2026
 ---
 

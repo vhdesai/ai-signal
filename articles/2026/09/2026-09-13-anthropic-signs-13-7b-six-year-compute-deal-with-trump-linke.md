@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin
 - 2026-09-07-anthropic-has-signed-roughly-517-billion-in-compute-agreemen
 - 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
-embedding_id: 2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke
+embedding_id: null
 event_name: ''
 ---
 

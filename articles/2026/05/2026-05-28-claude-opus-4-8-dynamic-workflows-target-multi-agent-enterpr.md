@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-claude-can-orchestrate-up-to-1-000-subagents-through-dynamic
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-embedding_id: 2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr
+embedding_id: null
 event_name: ''
 ---
 

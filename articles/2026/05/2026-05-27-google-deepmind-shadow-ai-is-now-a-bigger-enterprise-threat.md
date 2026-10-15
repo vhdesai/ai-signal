@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-google-deepmind-s-manish-gupta-calls-shadow-ai-a-bigger-ente
 related_article_ids: []
-embedding_id: 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
-embedding_id: 2026-06-11-google-in-talks-with-samsung-to-manufacture-next-gen-ai-chip
+embedding_id: null
 event_name: ''
 ---
 

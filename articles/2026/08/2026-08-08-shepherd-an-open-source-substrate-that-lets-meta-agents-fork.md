@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
-embedding_id: 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
+embedding_id: null
 event_name: ''
 ---
 

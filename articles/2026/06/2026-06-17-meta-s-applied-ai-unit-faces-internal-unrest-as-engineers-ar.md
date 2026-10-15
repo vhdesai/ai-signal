@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte
 - 2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
-embedding_id: 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
+embedding_id: null
 event_name: ''
 ---
 

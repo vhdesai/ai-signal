@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
 related_article_ids: []
-embedding_id: 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
+embedding_id: null
 event_name: ''
 ---
 

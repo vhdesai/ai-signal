@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-03-24-cursor-revealed-that-its-recently-launched-composer-2-coding
 - 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-embedding_id: 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
+embedding_id: null
 event_name: ''
 ---
 

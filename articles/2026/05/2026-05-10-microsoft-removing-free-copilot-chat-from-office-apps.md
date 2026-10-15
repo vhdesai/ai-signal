@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
-embedding_id: 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
+embedding_id: null
 event_name: ''
 ---
 

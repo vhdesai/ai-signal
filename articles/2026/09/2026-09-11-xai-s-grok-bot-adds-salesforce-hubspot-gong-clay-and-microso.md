@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 - 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
 - 2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo
-embedding_id: 2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-embedding_id: 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
+embedding_id: null
 event_name: ''
 ---
 

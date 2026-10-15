@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength
 related_article_ids: []
-embedding_id: 2026-09-05-foxconn-says-third-quarter-should-outperform-expectations-on
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-01-newxai-releases-grok-4-3
 related_article_ids: []
-embedding_id: 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 - 2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
-embedding_id: 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
+embedding_id: null
 event_name: ''
 ---
 

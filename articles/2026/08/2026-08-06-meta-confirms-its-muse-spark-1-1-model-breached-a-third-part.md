@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-embedding_id: 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
+embedding_id: null
 event_name: ''
 ---
 

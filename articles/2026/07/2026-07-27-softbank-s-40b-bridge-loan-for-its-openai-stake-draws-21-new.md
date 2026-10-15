@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-embedding_id: 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
+embedding_id: null
 event_name: ''
 ---
 

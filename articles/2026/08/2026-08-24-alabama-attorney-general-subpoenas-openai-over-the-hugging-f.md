@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[The Hill]'
 url_original: https://thehill.com/policy/technology/6047157-alabama-openai-hugging-face-hack/
 url_canonical: https://thehill.com/policy/technology/6047157-alabama-openai-hugging-face-hack/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 1cba8317673238c190c18cdc76e37c43d443d6e0e8157ea051aa0b8203d57990
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock
 - 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
-embedding_id: 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
+embedding_id: null
 event_name: ''
 ---
 

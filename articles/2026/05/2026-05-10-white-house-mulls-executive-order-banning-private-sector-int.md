@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
-embedding_id: 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
+embedding_id: null
 event_name: ''
 ---
 

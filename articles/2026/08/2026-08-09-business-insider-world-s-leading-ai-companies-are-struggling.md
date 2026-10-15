@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-embedding_id: 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-plus-va
 related_article_ids: []
-embedding_id: 2026-08-24-nvidia-reportedly-discussed-a-perplexity-investment-at-a-30
+embedding_id: null
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
-embedding_id: 2026-09-12-ai-data-centers-may-create-far-fewer-jobs-than-projected-thi
+embedding_id: null
 event_name: ''
 ---
 

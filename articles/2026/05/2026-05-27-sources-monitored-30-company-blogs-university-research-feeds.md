@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
-embedding_id: 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
+embedding_id: null
 event_name: ''
 ---
 

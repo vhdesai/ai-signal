@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
-embedding_id: 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
+embedding_id: null
 event_name: ''
 ---
 

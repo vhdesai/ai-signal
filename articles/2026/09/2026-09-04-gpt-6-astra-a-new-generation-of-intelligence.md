@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-gpt-6-astra-coverage-focuses-on-cyber-capability-and-safety
 - 2026-09-04-openai-releases-gpt-6-astra-and-keeps-initial-access-restric
 - 2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco
-embedding_id: 2026-09-04-gpt-6-astra-a-new-generation-of-intelligence
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
-embedding_id: 2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe
+embedding_id: null
 event_name: ''
 ---
 

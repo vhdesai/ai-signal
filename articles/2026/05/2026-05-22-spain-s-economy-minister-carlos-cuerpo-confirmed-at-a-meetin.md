@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 related_article_ids: []
-embedding_id: 2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin
+embedding_id: null
 event_name: ''
 ---
 

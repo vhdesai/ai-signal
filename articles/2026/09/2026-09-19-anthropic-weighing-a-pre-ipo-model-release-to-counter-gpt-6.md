@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
-embedding_id: 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
+embedding_id: null
 event_name: ''
 ---
 

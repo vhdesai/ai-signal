@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk
 related_article_ids: []
-embedding_id: 2026-07-05-amazon-winds-down-mechanical-turk-closing-it-to-new-customer
+embedding_id: null
 event_name: ''
 ---
 

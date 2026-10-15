@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
 - 2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips
 - 2026-09-25-stanford-and-nvidia-release-clm-8b-caching-reusable-agent-ac
-embedding_id: 2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo
+embedding_id: null
 event_name: ''
 ---
 

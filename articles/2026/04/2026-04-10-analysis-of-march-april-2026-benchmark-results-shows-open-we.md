@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
 - 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
-embedding_id: 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
+embedding_id: null
 event_name: ''
 ---
 

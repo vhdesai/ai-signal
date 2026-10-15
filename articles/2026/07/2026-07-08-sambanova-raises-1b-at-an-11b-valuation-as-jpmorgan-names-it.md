@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
 related_article_ids: []
-embedding_id: 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it
+embedding_id: null
 event_name: ''
 ---
 

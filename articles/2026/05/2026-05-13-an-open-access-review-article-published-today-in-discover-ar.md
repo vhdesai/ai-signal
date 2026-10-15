@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-embedding_id: 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
+embedding_id: null
 event_name: ''
 ---
 

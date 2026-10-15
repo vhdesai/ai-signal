@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-replit-ceo-amjad-masad-disclosed-at-strictlyvc-that-replit-i
 - 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 - 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
-embedding_id: 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+embedding_id: null
 event_name: ''
 ---
 

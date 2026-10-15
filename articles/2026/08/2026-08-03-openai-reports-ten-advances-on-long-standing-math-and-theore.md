@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-embedding_id: 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
+embedding_id: null
 event_name: ''
 ---
 

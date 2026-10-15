@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
-embedding_id: 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
+embedding_id: null
 event_name: ''
 ---
 

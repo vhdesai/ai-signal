@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-22-ai-assisted-team-closes-the-last-sporadic-case-of-the-invers
 - 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 - 2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai
-embedding_id: 2026-09-22-ai-assisted-team-closes-the-last-open-case-of-the-inverse-ga
+embedding_id: null
 event_name: ''
 ---
 

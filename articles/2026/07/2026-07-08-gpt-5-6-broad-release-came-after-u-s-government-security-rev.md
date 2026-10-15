@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Yahoo News · CNBC
 url_original: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
 url_canonical: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: d724ab7e79ca164b865f7131266de2475832a4d82bb94b0c1644a6f733b2389c
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 - 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
-embedding_id: 2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev
+embedding_id: null
 event_name: ''
 ---
 

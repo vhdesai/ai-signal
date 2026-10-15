@@ -5,7 +5,7 @@ date: '2026-07-13'
 source: Reuters · Stanford Digital Economy Lab
 url_original: https://digitaleconomy.stanford.edu/news/wemustactnow/
 url_canonical: https://digitaleconomy.stanford.edu/news/wemustactnow/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 3b25ccbc95b90963e5e38e884349d60a563b4a852f5a14fb68ab6c2099bde16a
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
 related_article_ids: []
-embedding_id: 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
+embedding_id: null
 event_name: ''
 ---
 

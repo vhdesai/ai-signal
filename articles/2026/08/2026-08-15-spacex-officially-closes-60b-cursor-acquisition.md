@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
 related_article_ids: []
-embedding_id: 2026-08-15-spacex-officially-closes-60b-cursor-acquisition
+embedding_id: null
 event_name: ''
 ---
 

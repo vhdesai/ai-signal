@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
-embedding_id: 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
+embedding_id: null
 event_name: ''
 ---
 

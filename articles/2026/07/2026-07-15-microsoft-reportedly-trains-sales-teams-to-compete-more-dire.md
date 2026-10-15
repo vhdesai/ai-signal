@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-07-13-microsoft-anthropic-strategy
-embedding_id: 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 - 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
-embedding_id: 2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena
+embedding_id: null
 event_name: ''
 ---
 

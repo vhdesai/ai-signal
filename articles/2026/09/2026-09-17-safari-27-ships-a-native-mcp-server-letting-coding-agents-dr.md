@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-safari-27-ships-a-built-in-mcp-server-handing-coding-agents
 - 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 - 2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude
-embedding_id: 2026-09-17-safari-27-ships-a-native-mcp-server-letting-coding-agents-dr
+embedding_id: null
 event_name: ''
 ---
 

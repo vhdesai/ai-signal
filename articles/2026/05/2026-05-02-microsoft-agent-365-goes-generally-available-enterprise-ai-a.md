@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-02-microsoft-agent-365-generally-available
 related_article_ids: []
-embedding_id: 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
+embedding_id: null
 event_name: ''
 ---
 

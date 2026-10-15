@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
-embedding_id: 2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi
+embedding_id: null
 event_name: ''
 ---
 

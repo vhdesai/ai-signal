@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-08-23-scientists-push-back-ai-probably-won-t-cure-cancer-anytime-s
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-embedding_id: 2026-08-22-ai-promises-to-cure-cancer-scientists-feel-existential-dread
+embedding_id: null
 event_name: ''
 ---
 

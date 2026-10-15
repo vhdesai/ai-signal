@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-embedding_id: 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
+embedding_id: null
 event_name: ''
 ---
 

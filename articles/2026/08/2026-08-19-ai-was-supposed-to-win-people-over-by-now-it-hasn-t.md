@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
 - 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
-embedding_id: 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
+embedding_id: null
 event_name: ''
 ---
 

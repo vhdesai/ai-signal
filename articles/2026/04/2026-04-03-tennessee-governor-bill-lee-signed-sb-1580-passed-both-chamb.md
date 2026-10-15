@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
-embedding_id: 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code
 - 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
 - 2026-07-04-alibaba-added-anthropic-s-claude-code-to-a-high-risk-softwar
-embedding_id: 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
+embedding_id: null
 event_name: ''
 ---
 

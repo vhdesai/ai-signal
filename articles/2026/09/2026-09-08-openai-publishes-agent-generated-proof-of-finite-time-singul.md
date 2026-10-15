@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
-embedding_id: 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-15-model-releases
 - 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-embedding_id: 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-10-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/
 url_canonical: https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: 4b24f71e1195d3e72733e677f35b9e05f5eaa1c435055ee7863eb6a2cb1f55f9
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
 - 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
-embedding_id: 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
+embedding_id: null
 event_name: ''
 ---
 

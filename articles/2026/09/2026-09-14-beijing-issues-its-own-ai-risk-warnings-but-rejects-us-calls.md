@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 - 2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w
 - 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
-embedding_id: 2026-09-14-beijing-issues-its-own-ai-risk-warnings-but-rejects-us-calls
+embedding_id: null
 event_name: ''
 ---
 

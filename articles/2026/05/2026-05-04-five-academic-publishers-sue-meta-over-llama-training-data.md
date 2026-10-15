@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-embedding_id: 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
+embedding_id: null
 event_name: ''
 ---
 

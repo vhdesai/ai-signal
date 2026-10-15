@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_060949_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 6ed7e50dcbfcfcb16c5634daed1c46addb3ea89a61cfbcb67ddab6658141dfe6
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
 related_article_ids: []
-embedding_id: 2026-08-21-neocloud-rankings-coreweave-nebius-lambda-crusoe-and-groq-co
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 522e2f5dee1ba3d57d59e6405690cea678c06761bf3ac47f1ba5af2f9734a9d5
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
-embedding_id: 2026-05-26-stability-ai-releases-stable-audio-3
+embedding_id: null
 event_name: ''
 ---
 

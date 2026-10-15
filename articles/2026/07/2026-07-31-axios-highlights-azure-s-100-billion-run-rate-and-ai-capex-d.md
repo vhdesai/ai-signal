@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-embedding_id: 2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 related_article_ids: []
-embedding_id: 2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o
+embedding_id: null
 event_name: ''
 ---
 

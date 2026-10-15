@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-embedding_id: 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-embedding_id: 2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi
+embedding_id: null
 event_name: ''
 ---
 

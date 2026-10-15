@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-embedding_id: 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
+embedding_id: null
 event_name: ''
 ---
 

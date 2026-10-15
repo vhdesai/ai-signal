@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: IBM Institute for Business Value
 url_original: https://www.tmcnet.com/usubmit/2026/06/08/10395398.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/06/08/10395398.htm
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 35c03ab5c552a4a636a0adf20e9fcebe36f9182b1ed04ee1c8818291447666de
 normalized_title_hash: ae25bd40bc39f641
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out
-embedding_id: 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
+embedding_id: null
 event_name: ''
 ---
 

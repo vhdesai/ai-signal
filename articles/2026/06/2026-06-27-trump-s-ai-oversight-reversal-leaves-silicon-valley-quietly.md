@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-18-trump-s-shadow-ai-policy-emerges-case-by-case-interventions
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
-embedding_id: 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
+embedding_id: null
 event_name: ''
 ---
 

@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
-embedding_id: 2026-09-26-how-reliable-are-ai-writing-detectors-the-same-text-scored-v
+embedding_id: null
 event_name: ''
 ---
 

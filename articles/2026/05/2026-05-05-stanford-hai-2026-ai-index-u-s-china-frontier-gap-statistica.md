@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo
 related_article_ids: []
-embedding_id: 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
+embedding_id: null
 event_name: ''
 ---
 

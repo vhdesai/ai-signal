@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise
-embedding_id: 2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
 related_article_ids:
 - 2026-06-28-per-a-financial-times-report-google-told-meta-around-march-t
-embedding_id: 2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp
+embedding_id: null
 event_name: ''
 ---
 

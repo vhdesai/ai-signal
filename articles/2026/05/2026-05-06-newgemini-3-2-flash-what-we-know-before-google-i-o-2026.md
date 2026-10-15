@@ -24,7 +24,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-gemini-model-family
 - 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-embedding_id: 2026-05-06-newgemini-3-2-flash-what-we-know-before-google-i-o-2026
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 - 2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
-embedding_id: 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
+embedding_id: null
 event_name: ''
 ---
 

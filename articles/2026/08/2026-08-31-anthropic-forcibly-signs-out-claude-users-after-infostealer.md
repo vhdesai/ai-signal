@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-anthropic-forcibly-signs-out-claude-users-after-infostealer
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: 2026-08-31-anthropic-forcibly-signs-out-claude-users-after-infostealer
+embedding_id: null
 event_name: ''
 ---
 

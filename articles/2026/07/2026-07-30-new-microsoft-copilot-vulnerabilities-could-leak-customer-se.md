@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
-embedding_id: 2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se
+embedding_id: null
 event_name: ''
 ---
 

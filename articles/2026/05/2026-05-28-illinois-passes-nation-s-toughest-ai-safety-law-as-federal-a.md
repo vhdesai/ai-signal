@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 related_article_ids: []
-embedding_id: 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
+embedding_id: null
 event_name: ''
 ---
 

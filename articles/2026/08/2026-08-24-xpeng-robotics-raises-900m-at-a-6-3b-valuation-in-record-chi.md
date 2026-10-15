@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-embedding_id: 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
+embedding_id: null
 event_name: ''
 ---
 

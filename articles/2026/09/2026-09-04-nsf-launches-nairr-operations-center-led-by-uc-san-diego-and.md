@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: 2026-09-04-nsf-launches-nairr-operations-center-led-by-uc-san-diego-and
+embedding_id: null
 event_name: ''
 ---
 

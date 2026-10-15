@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
-embedding_id: 2026-03-28-internal-documents-were-leaked-revealing-anthropic-s-next-ma
+embedding_id: null
 event_name: ''
 ---
 

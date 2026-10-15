@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture
 related_article_ids: []
-embedding_id: 2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch
+embedding_id: null
 event_name: ''
 ---
 

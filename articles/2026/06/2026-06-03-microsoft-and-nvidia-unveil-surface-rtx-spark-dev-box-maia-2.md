@@ -25,7 +25,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
-embedding_id: 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
+embedding_id: null
 event_name: ''
 ---
 

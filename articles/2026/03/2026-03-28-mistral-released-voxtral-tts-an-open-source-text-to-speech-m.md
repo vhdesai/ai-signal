@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
-embedding_id: 2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m
+embedding_id: null
 event_name: ''
 ---
 

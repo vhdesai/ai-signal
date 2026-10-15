@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-09-14-monday-september-14-2026
 - 2026-09-25-saturday-september-26-2026
 - 2026-09-12-saturday-september-12-2026
-embedding_id: 2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit
+embedding_id: null
 event_name: ''
 ---
 

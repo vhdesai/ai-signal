@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 related_article_ids: []
-embedding_id: 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk
+embedding_id: null
 event_name: ''
 ---
 

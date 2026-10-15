@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 - 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 - 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
-embedding_id: 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
+embedding_id: null
 event_name: ''
 ---
 

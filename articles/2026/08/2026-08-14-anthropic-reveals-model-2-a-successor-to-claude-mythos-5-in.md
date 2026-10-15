@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 - 2026-03-28-internal-documents-were-leaked-revealing-anthropic-s-next-ma
-embedding_id: 2026-08-14-anthropic-reveals-model-2-a-successor-to-claude-mythos-5-in
+embedding_id: null
 event_name: ''
 ---
 

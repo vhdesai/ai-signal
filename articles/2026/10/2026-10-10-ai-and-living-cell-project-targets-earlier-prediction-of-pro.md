@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-embedding_id: 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
+embedding_id: null
 event_name: ''
 ---
 

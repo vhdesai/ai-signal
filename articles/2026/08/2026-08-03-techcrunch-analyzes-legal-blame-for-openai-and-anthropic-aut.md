@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
-embedding_id: 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
+embedding_id: null
 event_name: ''
 ---
 

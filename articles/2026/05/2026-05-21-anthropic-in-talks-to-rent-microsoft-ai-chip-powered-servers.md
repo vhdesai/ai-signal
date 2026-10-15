@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
 - 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
-embedding_id: 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
+embedding_id: null
 event_name: ''
 ---
 

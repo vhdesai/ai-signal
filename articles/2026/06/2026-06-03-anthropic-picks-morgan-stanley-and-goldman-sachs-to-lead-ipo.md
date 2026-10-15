@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-embedding_id: 2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo
+embedding_id: null
 event_name: ''
 ---
 

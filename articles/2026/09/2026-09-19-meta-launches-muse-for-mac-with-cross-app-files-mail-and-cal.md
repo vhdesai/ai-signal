@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/meta-muse-mac-personal-ai-agent-launch/
 url_canonical: https://www.marktechpost.com/2026/09/19/meta-muse-mac-personal-ai-agent-launch/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 037bb0a8aabb3c3ec24a377b87e222726480a952c6461e3d95a414faa9ea6261
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 related_article_ids: []
-embedding_id: 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
+embedding_id: null
 event_name: ''
 ---
 

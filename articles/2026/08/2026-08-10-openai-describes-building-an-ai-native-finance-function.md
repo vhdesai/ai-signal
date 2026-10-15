@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-embedding_id: 2026-08-10-openai-describes-building-an-ai-native-finance-function
+embedding_id: null
 event_name: ''
 ---
 

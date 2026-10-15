@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
-embedding_id: 2026-09-07-ineffable-intelligence-recruits-six-co-founders-from-google
+embedding_id: null
 event_name: ''
 ---
 

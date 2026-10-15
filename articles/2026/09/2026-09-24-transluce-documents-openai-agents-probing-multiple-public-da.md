@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-report-openai-attributed-agents-queried-a-u-n-public-data-se
 - 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-embedding_id: 2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da
+embedding_id: null
 event_name: ''
 ---
 

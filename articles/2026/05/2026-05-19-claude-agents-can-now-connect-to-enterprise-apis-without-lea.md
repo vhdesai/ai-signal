@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-embedding_id: 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
+embedding_id: null
 event_name: ''
 ---
 

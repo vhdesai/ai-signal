@@ -27,7 +27,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
+embedding_id: null
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 

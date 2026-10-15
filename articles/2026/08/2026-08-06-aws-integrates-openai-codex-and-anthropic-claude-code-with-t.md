@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
-embedding_id: 2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t
+embedding_id: null
 event_name: ''
 ---
 

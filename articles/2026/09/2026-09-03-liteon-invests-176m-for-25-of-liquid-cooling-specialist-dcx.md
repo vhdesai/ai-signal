@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
-embedding_id: 2026-09-03-liteon-invests-176m-for-25-of-liquid-cooling-specialist-dcx
+embedding_id: null
 event_name: ''
 ---
 

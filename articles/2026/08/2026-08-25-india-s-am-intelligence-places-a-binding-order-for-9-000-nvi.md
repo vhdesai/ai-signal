@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-humain-also-partners-with-together-ai-and-minio-on-riyadh-an
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
-embedding_id: 2026-08-25-india-s-am-intelligence-places-a-binding-order-for-9-000-nvi
+embedding_id: null
 event_name: ''
 ---
 

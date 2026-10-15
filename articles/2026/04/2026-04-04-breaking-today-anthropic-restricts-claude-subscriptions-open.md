@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
 - 2026-09-06-authors-contest-third-party-claims-on-anthropic-s-1-5b-copyr
 - 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
-embedding_id: 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1
 related_article_ids: []
-embedding_id: 2026-09-17-huawei-pulls-ascend-960dt-forward-three-quarters-to-q1-2027
+embedding_id: null
 event_name: ''
 ---
 

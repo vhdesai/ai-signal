@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-10-01-microsoft-adds-streaming-transcription-and-two-speech-genera
 - 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
-embedding_id: 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
+embedding_id: null
 event_name: ''
 ---
 

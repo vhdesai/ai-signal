@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
-embedding_id: 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 - 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
-embedding_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
+embedding_id: null
 event_name: ''
 ---
 

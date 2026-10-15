@@ -32,7 +32,7 @@ related_article_ids:
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-embedding_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2
+embedding_id: null
 event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion,
   and Partner Fund'
 ---

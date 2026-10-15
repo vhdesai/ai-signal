@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
-embedding_id: 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
+embedding_id: null
 event_name: ''
 ---
 

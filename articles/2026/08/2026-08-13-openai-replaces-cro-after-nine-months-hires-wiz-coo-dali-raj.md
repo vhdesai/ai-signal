@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
-embedding_id: 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
+embedding_id: null
 event_name: ''
 ---
 

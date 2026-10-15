@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
 - 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
-embedding_id: 2026-05-08-a-viral-claim-from-privacy-researcher-alexander-hanff-that-g
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-embedding_id: 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
+embedding_id: null
 event_name: ''
 ---
 

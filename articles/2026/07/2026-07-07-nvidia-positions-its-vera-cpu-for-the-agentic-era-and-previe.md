@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t
 related_article_ids: []
-embedding_id: 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
+embedding_id: null
 event_name: ''
 ---
 

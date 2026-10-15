@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 - 2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch
-embedding_id: 2026-09-25-tesla-optimus-scales-tenfold-but-hits-hands-supplier-and-man
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
-embedding_id: 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
+embedding_id: null
 event_name: ''
 ---
 

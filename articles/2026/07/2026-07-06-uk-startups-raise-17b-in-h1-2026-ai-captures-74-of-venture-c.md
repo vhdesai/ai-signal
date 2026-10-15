@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 related_article_ids: []
-embedding_id: 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c
+embedding_id: null
 event_name: ''
 ---
 

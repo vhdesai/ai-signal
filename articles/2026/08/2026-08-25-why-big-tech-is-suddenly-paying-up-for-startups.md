@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
-embedding_id: 2026-08-25-why-big-tech-is-suddenly-paying-up-for-startups
+embedding_id: null
 event_name: ''
 ---
 

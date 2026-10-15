@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs
 - 2026-08-23-unitree-s-460-ipo-pop-reflects-china-s-ai-robotics-frenzy
-embedding_id: 2026-09-09-china-curbs-humanoid-ipos-after-unitree-s-volatile-debut
+embedding_id: null
 event_name: ''
 ---
 

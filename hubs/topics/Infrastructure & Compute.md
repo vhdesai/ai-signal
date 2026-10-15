@@ -1,16 +1,20 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2190
+member_count: 2196
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2190 connected article(s).
+> Auto-generated topic hub. 2196 connected article(s).
 
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
+- `2026-10-14` [[2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic|Ricursive pursues AI-designed chips to improve compute efficiency]]
+- `2026-10-14` [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans|CoreWeave selloff highlights the financing risk of AI expansion]]
 - `2026-10-14` [[2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices|China chip exports jump 136% to $45B as AI demand lifts prices]]
+- `2026-10-14` [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering|Apple bets on AI to strengthen its smart-home offering]]
 - `2026-10-13` [[2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a|Western mathematicians resist AI proofs as China builds an AI-for-math alliance]]
+- `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
 - `2026-10-13` [[2026-10-13-science-corporation-implants-vision-restoring-chip-in-first|Science Corporation implants vision-restoring chip in first Stargardt disease patient]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
@@ -22,6 +26,8 @@ member_count: 2190
 - `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er|Huawei passes 100M Kirin-device milestone since sanctions-era comeback]]
 - `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
+- `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
 - `2026-10-13` [[2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h|China Mobile triples capacity at Inner Mongolia AI compute hub]]
 - `2026-10-13` [[2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand|Asian memory-chip stocks sell off despite AI demand]]
 - `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]

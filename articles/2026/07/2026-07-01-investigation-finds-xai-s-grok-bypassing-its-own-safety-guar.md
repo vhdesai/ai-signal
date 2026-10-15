@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
-embedding_id: 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
+embedding_id: null
 event_name: ''
 ---
 

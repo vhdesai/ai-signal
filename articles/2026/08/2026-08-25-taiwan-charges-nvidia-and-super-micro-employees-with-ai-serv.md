@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: Wall Street Journal
 url_original: https://www.yahoo.com/news/us/articles/taiwan-charges-nvidia-super-micro-123817556.html
 url_canonical: https://www.yahoo.com/news/us/articles/taiwan-charges-nvidia-super-micro-123817556.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 58ef55178942956ea1d50156a8b1f96f43daf3663c6708a8d30a0c6867ac923c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al
-embedding_id: 2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv
+embedding_id: null
 event_name: ''
 ---
 

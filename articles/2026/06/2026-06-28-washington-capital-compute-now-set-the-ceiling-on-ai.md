@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-07-daily-ai-news-digest-july-8-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
-embedding_id: 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
+embedding_id: null
 event_name: ''
 ---
 

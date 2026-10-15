@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x
-embedding_id: 2026-08-05-china-s-new-ai-gold-rush-world-models
+embedding_id: null
 event_name: ''
 ---
 

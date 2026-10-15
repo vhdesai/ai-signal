@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
-embedding_id: 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
+embedding_id: null
 event_name: ''
 ---
 

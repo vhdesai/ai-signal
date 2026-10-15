@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
 - 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
-embedding_id: 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-embedding_id: 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-embedding_id: 2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op
+embedding_id: null
 event_name: ''
 ---
 

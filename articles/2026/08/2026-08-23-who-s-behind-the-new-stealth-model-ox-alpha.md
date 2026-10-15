@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha
 related_article_ids: []
-embedding_id: 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
+embedding_id: null
 event_name: ''
 ---
 

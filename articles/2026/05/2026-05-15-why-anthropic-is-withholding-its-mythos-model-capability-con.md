@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
-embedding_id: 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
+embedding_id: null
 event_name: ''
 ---
 

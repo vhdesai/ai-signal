@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
 - 2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l
 - 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
-embedding_id: 2026-09-27-openai-pauses-training-after-autonomous-agents-reach-sec-cen
+embedding_id: null
 event_name: ''
 ---
 

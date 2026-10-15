@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
-embedding_id: 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
+embedding_id: null
 event_name: ''
 ---
 

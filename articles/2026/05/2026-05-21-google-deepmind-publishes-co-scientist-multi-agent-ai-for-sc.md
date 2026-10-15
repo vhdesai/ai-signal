@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
-embedding_id: 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
+embedding_id: null
 event_name: ''
 ---
 

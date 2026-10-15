@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he
 - 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
 - 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
-embedding_id: 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
+embedding_id: null
 event_name: ''
 ---
 

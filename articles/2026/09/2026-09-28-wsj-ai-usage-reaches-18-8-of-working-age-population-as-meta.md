@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-embedding_id: 2026-09-28-wsj-ai-usage-reaches-18-8-of-working-age-population-as-meta
+embedding_id: null
 event_name: ''
 ---
 

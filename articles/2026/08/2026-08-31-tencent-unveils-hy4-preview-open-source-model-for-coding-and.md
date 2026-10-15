@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
 - 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
-embedding_id: 2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and
+embedding_id: null
 event_name: ''
 ---
 

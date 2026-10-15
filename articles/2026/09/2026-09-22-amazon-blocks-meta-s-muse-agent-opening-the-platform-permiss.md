@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 related_article_ids: []
-embedding_id: 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-04-22-academic-research
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
-embedding_id: 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
+embedding_id: null
 event_name: ''
 ---
 

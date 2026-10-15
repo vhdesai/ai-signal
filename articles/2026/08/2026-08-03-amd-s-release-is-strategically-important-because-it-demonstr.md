@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-embedding_id: 2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr
+embedding_id: null
 event_name: ''
 ---
 

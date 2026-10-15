@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
-embedding_id: 2026-09-18-faa-ai-rollout-draws-airline-concern-as-agencies-push-automa
+embedding_id: null
 event_name: ''
 ---
 

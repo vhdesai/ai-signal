@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 - 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
-embedding_id: 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
+embedding_id: null
 event_name: ''
 ---
 

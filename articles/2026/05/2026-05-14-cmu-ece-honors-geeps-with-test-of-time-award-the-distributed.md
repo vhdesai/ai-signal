@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
-embedding_id: 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
-embedding_id: 2026-08-21-apple-music-makes-ai-transparency-tags-mandatory
+embedding_id: null
 event_name: ''
 ---
 

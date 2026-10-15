@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
-embedding_id: 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
+embedding_id: null
 event_name: ''
 ---
 

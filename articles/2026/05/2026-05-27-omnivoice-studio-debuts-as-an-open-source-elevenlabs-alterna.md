@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 588e58a377a0aa4a5312fdef7125d71f7efc8a93060d28c76a54dc53ff60d22e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag
-embedding_id: 2026-05-27-omnivoice-studio-debuts-as-an-open-source-elevenlabs-alterna
+embedding_id: null
 event_name: ''
 ---
 

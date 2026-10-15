@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-09-03-equinix-nvidia-and-together-ai-launch-a-distributed-inferenc
 - 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
-embedding_id: 2026-09-15-crusoe-signs-multi-year-deal-to-run-perplexity-s-full-model
+embedding_id: null
 event_name: ''
 ---
 

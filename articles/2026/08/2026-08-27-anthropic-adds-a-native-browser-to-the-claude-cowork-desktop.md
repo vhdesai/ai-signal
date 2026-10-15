@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-embedding_id: 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
+embedding_id: null
 event_name: ''
 ---
 

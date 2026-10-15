@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
+embedding_id: null
 event_name: ''
 ---
 

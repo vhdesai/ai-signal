@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 - 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 - 2026-08-20-stripe-closes-its-openrouter-deal-at-a-reported-7-5b
-embedding_id: 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
+embedding_id: null
 event_name: ''
 ---
 

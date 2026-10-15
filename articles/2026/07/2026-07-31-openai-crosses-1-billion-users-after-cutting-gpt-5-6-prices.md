@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 - 2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than
 - 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
-embedding_id: 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
+embedding_id: null
 event_name: ''
 ---
 

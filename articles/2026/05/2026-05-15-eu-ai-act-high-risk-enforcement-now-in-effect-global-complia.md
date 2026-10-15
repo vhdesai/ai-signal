@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
-embedding_id: 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
+embedding_id: null
 event_name: ''
 ---
 

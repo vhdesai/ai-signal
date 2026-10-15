@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: MIT News
 url_original: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
 url_canonical: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 71e80988b493b1d752b19e29dc9449ea29f7ed309282449f27403d2a5f5f9711
@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op
 - 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
-embedding_id: 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
+embedding_id: null
 event_name: ''
 ---
 

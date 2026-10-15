@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 - 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
-embedding_id: 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
+embedding_id: null
 event_name: ''
 ---
 

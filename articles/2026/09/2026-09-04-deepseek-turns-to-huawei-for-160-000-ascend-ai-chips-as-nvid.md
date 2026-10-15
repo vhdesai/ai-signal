@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 related_article_ids: []
-embedding_id: 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
+embedding_id: null
 event_name: ''
 ---
 

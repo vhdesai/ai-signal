@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 related_article_ids: []
-embedding_id: 2026-06-18-zhipu-ai-s-glm-5-2-ranked-the-leading-open-weights-model
+embedding_id: null
 event_name: ''
 ---
 

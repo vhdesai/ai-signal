@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
-embedding_id: 2026-09-21-cybernews-aws-agentcore-leaves-credentials-vulnerable-to-exf
+embedding_id: null
 event_name: ''
 ---
 

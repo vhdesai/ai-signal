@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
-embedding_id: 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
+embedding_id: null
 event_name: ''
 ---
 

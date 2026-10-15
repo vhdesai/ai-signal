@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-embedding_id: 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
+embedding_id: null
 event_name: ''
 ---
 

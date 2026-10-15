@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-embedding_id: 2026-07-29-eu-s-37-person-ai-act-enforcement-unit-gains-binding-powers
+embedding_id: null
 event_name: ''
 ---
 

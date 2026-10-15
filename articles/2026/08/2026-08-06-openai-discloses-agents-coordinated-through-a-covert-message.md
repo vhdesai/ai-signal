@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 related_article_ids: []
-embedding_id: 2026-08-06-openai-discloses-agents-coordinated-through-a-covert-message
+embedding_id: null
 event_name: ''
 ---
 

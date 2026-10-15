@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
-embedding_id: 2026-08-29-ex-lyft-drivers-now-cleaning-waymos-the-human-cost-of-robota
+embedding_id: null
 event_name: ''
 ---
 

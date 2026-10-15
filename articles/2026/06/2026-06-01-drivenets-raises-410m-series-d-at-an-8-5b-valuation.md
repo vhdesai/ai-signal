@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
 - 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
 - 2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w
-embedding_id: 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
+embedding_id: null
 event_name: ''
 ---
 

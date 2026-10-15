@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools
 url_canonical: https://www.scmp.com/tech/tech-war/article/3368042/china-makes-progress-3-nm-chips-without-advanced-lithography-tools
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_061314_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: a5ccfdbd9532a71070af342a8a82cb1d867b675c54bae2ea9b4a7672782dfb84
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
 - 2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea
-embedding_id: 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
+embedding_id: null
 event_name: ''
 ---
 

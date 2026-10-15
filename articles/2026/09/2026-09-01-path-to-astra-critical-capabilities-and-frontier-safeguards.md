@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 related_article_ids: []
-embedding_id: 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
+embedding_id: null
 event_name: ''
 ---
 

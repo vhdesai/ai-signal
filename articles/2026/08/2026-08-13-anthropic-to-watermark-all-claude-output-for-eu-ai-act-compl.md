@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
-embedding_id: 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
+embedding_id: null
 event_name: ''
 ---
 

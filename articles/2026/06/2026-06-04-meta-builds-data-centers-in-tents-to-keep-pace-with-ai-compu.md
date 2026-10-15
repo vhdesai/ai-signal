@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-06-nokia-ceo-says-data-centers-would-be-built-twice-as-fast-wit
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over
-embedding_id: 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
+embedding_id: null
 event_name: ''
 ---
 

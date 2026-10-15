@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot
 related_article_ids: []
-embedding_id: 2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi
+embedding_id: null
 event_name: ''
 ---
 

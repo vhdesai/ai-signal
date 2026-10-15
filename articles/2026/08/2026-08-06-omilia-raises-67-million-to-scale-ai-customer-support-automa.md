@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
 - 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
-embedding_id: 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
+embedding_id: null
 event_name: ''
 ---
 

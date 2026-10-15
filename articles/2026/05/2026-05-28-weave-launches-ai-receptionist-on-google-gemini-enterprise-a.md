@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
-embedding_id: 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
+embedding_id: null
 event_name: ''
 ---
 

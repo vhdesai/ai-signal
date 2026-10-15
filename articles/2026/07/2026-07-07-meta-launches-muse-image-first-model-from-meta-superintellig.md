@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator
-embedding_id: 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 related_article_ids: []
-embedding_id: 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
+embedding_id: null
 event_name: ''
 ---
 

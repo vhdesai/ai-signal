@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-embedding_id: 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-embedding_id: 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
+embedding_id: null
 event_name: ''
 ---
 

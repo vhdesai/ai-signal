@@ -39,7 +39,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
+embedding_id: null
 event_name: ''
 ---
 

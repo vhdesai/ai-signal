@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off
 related_article_ids: []
-embedding_id: 2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-embedding_id: 2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in
+embedding_id: null
 event_name: ''
 ---
 

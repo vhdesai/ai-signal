@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: d56f764d287e1de907e5914cd2e12d04171170f58f6081e4e50322d3e5ae6e50
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
-embedding_id: 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
+embedding_id: null
 event_name: ''
 ---
 

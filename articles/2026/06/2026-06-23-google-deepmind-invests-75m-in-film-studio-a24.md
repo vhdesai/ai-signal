@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
-embedding_id: 2026-06-23-google-deepmind-invests-75m-in-film-studio-a24
+embedding_id: null
 event_name: ''
 ---
 

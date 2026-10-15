@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics
 related_article_ids: []
-embedding_id: 2026-08-03-cost-per-token-is-no-longer-enough-to-measure-ai-economics
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 - 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
-embedding_id: 2026-05-24-amazon-s-bee-ai-wearable-an-always-listening-personal-assist
+embedding_id: null
 event_name: ''
 ---
 

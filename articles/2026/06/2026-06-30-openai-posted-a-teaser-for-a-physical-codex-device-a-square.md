@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-openai-launches-a-230-physical-keyboard-for-codex-power-user
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
-embedding_id: 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
+embedding_id: null
 event_name: ''
 ---
 

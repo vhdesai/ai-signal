@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
+embedding_id: null
 event_name: ''
 ---
 

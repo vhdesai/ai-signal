@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
-embedding_id: 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
+embedding_id: null
 event_name: ''
 ---
 

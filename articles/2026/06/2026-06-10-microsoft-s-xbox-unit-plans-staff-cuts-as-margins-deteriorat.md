@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
 - 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
-embedding_id: 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
+embedding_id: null
 event_name: ''
 ---
 

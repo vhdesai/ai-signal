@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 - 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
-embedding_id: 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
-embedding_id: 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+embedding_id: null
 event_name: ''
 ---
 

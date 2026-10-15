@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
-embedding_id: 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
+embedding_id: null
 event_name: ''
 ---
 

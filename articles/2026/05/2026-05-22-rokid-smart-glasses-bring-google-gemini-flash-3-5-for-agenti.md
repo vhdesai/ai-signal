@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 - 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
 - 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
-embedding_id: 2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
 related_article_ids: []
-embedding_id: 2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy
+embedding_id: null
 event_name: ''
 ---
 

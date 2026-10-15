@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-embedding_id: 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
+embedding_id: null
 event_name: ''
 ---
 

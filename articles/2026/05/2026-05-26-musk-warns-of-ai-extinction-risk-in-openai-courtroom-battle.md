@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-embedding_id: 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
+embedding_id: null
 event_name: ''
 ---
 

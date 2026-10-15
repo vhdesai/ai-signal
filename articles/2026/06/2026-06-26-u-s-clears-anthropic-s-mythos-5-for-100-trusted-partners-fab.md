@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-embedding_id: 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
+embedding_id: null
 event_name: ''
 ---
 

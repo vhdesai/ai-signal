@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
 - 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-embedding_id: 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
+embedding_id: null
 event_name: ''
 ---
 

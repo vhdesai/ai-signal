@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
 related_article_ids: []
-embedding_id: 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
+embedding_id: null
 event_name: ''
 ---
 

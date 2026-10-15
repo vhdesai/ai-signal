@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-a-new-ai-czar
 related_article_ids: []
-embedding_id: 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
+embedding_id: null
 event_name: ''
 ---
 

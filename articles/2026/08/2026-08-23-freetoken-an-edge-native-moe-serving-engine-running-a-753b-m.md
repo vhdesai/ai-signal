@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-24_060214_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: d741f17642901c0edf0bc324dc5522623dbed6d9fa7ec1acd5b7bdae6f8b1da0
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-freetoken-runs-massive-moe-models-on-workstation-class-hardw
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-embedding_id: 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
+embedding_id: null
 event_name: ''
 ---
 

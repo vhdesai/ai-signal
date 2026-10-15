@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default
 - 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default
 - 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
-embedding_id: 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+embedding_id: null
 event_name: ''
 ---
 

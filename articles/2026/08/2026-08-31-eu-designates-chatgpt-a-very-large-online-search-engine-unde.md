@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-eu-designates-chatgpt-a-very-large-online-search-engine-unde
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
-embedding_id: 2026-08-31-eu-designates-chatgpt-a-very-large-online-search-engine-unde
+embedding_id: null
 event_name: ''
 ---
 

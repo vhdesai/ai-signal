@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to
-embedding_id: 2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo
+embedding_id: null
 event_name: ''
 ---
 

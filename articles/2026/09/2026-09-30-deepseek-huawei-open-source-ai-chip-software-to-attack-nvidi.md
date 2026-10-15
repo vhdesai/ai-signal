@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
-embedding_id: 2026-09-30-deepseek-huawei-open-source-ai-chip-software-to-attack-nvidi
+embedding_id: null
 event_name: ''
 ---
 

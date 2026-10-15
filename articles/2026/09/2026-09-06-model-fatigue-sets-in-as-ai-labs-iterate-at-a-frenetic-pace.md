@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 - 2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
-embedding_id: 2026-09-06-model-fatigue-sets-in-as-ai-labs-iterate-at-a-frenetic-pace
+embedding_id: null
 event_name: ''
 ---
 

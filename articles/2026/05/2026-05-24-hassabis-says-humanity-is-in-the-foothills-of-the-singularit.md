@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
 - 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
-embedding_id: 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-28'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/
 url_canonical: https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: 4dbfc38e8269e4fbeed20d3e9ca772f756e409482c8fb286376f0522c9f7563a
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
 - 2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work
-embedding_id: 2026-08-28-glm-5-3-flash-and-qwen3-8-flash-next-converge-on-similar-eff
+embedding_id: null
 event_name: ''
 ---
 

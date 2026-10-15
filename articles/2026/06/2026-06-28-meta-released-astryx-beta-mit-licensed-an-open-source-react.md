@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
 - 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 - 2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding
-embedding_id: 2026-06-28-meta-released-astryx-beta-mit-licensed-an-open-source-react
+embedding_id: null
 event_name: ''
 ---
 

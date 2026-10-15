@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
-embedding_id: 2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup
+embedding_id: null
 event_name: ''
 ---
 

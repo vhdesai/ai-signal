@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
-embedding_id: 2026-04-02-hot-medvi-reports-401m-revenue-with-2-employees-apr-2-ai-nat
+embedding_id: null
 event_name: ''
 ---
 

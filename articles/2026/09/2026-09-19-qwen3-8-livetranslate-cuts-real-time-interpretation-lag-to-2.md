@@ -6,7 +6,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/
 url_canonical: https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 6be2cefdcb874f24b8bf3aa5b483692f509ee5711692ea722f49b7cf648e7b51
@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 related_article_ids: []
-embedding_id: 2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2
+embedding_id: null
 event_name: ''
 ---
 

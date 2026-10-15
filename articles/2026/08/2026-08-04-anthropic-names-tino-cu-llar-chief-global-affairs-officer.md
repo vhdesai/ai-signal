@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair
 related_article_ids: []
-embedding_id: 2026-08-04-anthropic-names-tino-cu-llar-chief-global-affairs-officer
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
-embedding_id: 2026-06-27-a-consequential-24-hours-for-the-ai-industry
+embedding_id: null
 event_name: ''
 ---
 

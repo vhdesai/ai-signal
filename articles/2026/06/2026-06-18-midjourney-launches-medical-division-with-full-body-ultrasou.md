@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-endofusion-multimodal-ai-tool-aims-to-speed-endometriosis-di
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
-embedding_id: 2026-06-18-midjourney-launches-medical-division-with-full-body-ultrasou
+embedding_id: null
 event_name: ''
 ---
 

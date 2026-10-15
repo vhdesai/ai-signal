@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
 - 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-embedding_id: 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
+embedding_id: null
 event_name: ''
 ---
 

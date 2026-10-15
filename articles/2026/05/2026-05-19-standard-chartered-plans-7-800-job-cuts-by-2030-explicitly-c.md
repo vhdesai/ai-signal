@@ -20,7 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts
 - 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
-embedding_id: 2026-05-19-standard-chartered-plans-7-800-job-cuts-by-2030-explicitly-c
+embedding_id: null
 event_name: ''
 ---
 

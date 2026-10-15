@@ -7,8 +7,8 @@ source: Google DeepMind
 url_original: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 url_canonical: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 419bee4d09385b7895f566ff6d723ea57b4dcd3e36b66161cfa3f2f48cd47855
 normalized_title_hash: 45850cfa2d10d13e
 canonical_url_hash: 36a7e1c23fbbe3b1
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
 - 2026-09-23-google-introduces-server-side-memory-to-private-ai-compute
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-embedding_id: 2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect
+embedding_id: null
 event_name: ''
 ---
 

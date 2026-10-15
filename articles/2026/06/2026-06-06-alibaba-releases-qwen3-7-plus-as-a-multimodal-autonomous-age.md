@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-embedding_id: 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
+embedding_id: null
 event_name: ''
 ---
 

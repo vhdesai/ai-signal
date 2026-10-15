@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 - 2026-09-11-deepseek-v4-1-flash-lands-on-third-party-inference-platforms
-embedding_id: 2026-09-11-deepseek-v4-1-flash-cuts-agent-memory-costs-fourfold
+embedding_id: null
 event_name: ''
 ---
 

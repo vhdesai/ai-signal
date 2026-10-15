@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
-embedding_id: 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
+embedding_id: null
 event_name: ''
 ---
 

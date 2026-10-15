@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip
 - 2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip
 - 2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source
-embedding_id: 2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia
+embedding_id: null
 event_name: ''
 ---
 

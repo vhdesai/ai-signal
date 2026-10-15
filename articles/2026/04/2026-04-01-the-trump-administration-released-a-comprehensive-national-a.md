@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
-embedding_id: 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
+embedding_id: null
 event_name: ''
 ---
 

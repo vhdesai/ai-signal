@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 - 2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema
 - 2026-07-26-deepseek-pauses-its-second-funding-round-after-founder-s-vir
-embedding_id: 2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks
+embedding_id: null
 event_name: ''
 ---
 

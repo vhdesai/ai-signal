@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
 related_article_ids: []
-embedding_id: 2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age
+embedding_id: null
 event_name: ''
 ---
 

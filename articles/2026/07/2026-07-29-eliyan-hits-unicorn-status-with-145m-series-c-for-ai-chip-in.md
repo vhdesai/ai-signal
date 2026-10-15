@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-09-02-ipronics-raises-125m-with-nvidia-participation-for-optical-a
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
-embedding_id: 2026-07-29-eliyan-hits-unicorn-status-with-145m-series-c-for-ai-chip-in
+embedding_id: null
 event_name: ''
 ---
 

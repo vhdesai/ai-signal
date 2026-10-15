@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-new-warning-in-race-to-superintelligence
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
-embedding_id: 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
+embedding_id: null
 event_name: ''
 ---
 

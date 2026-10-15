@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
 - 2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
-embedding_id: 2026-09-24-uc-riverside-uses-machine-learning-to-find-odorants-that-rep
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa
 related_article_ids: []
-embedding_id: 2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s
+embedding_id: null
 event_name: ''
 ---
 

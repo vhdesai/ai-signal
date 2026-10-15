@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 related_article_ids: []
-embedding_id: 2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena
+embedding_id: null
 event_name: ''
 ---
 

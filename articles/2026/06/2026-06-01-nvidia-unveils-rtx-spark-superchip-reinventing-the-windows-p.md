@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
 - 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
-embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
+embedding_id: null
 event_name: ''
 ---
 

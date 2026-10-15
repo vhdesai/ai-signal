@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 related_article_ids:
 - 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
-embedding_id: 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
+embedding_id: null
 event_name: ''
 ---
 

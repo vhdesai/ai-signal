@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 - 2026-06-19-nvidia-s-research-lab-published-details-on-enpire-a-platform
-embedding_id: 2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that
+embedding_id: null
 event_name: ''
 ---
 

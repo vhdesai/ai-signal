@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
-embedding_id: 2026-08-13-anthropic-finds-ai-agents-launch-turf-wars-when-given-compet
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
-embedding_id: 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
+embedding_id: null
 event_name: ''
 ---
 

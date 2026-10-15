@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
-embedding_id: 2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki
+embedding_id: null
 event_name: ''
 ---
 

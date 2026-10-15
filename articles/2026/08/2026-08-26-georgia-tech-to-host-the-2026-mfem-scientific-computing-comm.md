@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
 - 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
-embedding_id: 2026-08-26-georgia-tech-to-host-the-2026-mfem-scientific-computing-comm
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-embedding_id: 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
+embedding_id: null
 event_name: ''
 ---
 

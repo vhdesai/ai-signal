@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
-embedding_id: 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
+embedding_id: null
 event_name: ''
 ---
 

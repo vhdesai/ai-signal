@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 - 2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
-embedding_id: 2026-08-03-as-open-source-ai-adoption-grows-the-attack-surface-expands
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 - 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
-embedding_id: 2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
 - 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
-embedding_id: 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
+embedding_id: null
 event_name: ''
 ---
 

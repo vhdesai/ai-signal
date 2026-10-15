@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c
 related_article_ids: []
-embedding_id: 2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with
+embedding_id: null
 event_name: ''
 ---
 

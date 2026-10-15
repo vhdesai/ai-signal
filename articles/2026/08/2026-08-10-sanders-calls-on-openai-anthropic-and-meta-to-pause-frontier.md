@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 related_article_ids: []
-embedding_id: 2026-08-10-sanders-calls-on-openai-anthropic-and-meta-to-pause-frontier
+embedding_id: null
 event_name: ''
 ---
 

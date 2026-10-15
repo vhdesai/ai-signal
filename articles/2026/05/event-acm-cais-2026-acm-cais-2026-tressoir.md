@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 - event-acm-cais-2026-acm-cais-2026-strategic-implications
-embedding_id: event-acm-cais-2026-acm-cais-2026-tressoir
+embedding_id: null
 event_name: ACM CAIS 2026
 ---
 

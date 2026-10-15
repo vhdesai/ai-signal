@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc
 - 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-embedding_id: 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
+embedding_id: null
 event_name: ''
 ---
 

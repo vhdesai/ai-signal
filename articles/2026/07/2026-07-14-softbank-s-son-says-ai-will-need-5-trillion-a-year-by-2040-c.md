@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
 related_article_ids: []
-embedding_id: 2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c
+embedding_id: null
 event_name: ''
 ---
 

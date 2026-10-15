@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-embedding_id: 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+embedding_id: null
 event_name: ''
 ---
 

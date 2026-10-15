@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-google-tests-flipkart-purchasing-directly-through-gemini-and
 - 2026-09-27-google-tests-flipkart-purchasing-via-gemini-and-ai-mode-in-i
 - 2026-09-26-google-tests-buying-from-flipkart-through-gemini-and-ai-mode
-embedding_id: 2026-09-27-google-tests-buying-from-flipkart-directly-through-gemini-an
+embedding_id: null
 event_name: ''
 ---
 

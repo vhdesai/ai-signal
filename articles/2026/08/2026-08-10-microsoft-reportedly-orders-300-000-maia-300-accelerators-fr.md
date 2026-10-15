@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 related_article_ids: []
-embedding_id: 2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
+embedding_id: null
 event_name: ''
 ---
 

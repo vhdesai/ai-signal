@@ -6,7 +6,7 @@ date: '2026-10-09'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/
 url_canonical: https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-10_060708_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 68a4c3b7f223a8e3b3c857873dd8a51630857f2d17dd85f8a9ce3fcfadba4890
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
-embedding_id: 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
+embedding_id: null
 event_name: ''
 ---
 

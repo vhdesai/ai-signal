@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g
-embedding_id: 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
+embedding_id: null
 event_name: ''
 ---
 

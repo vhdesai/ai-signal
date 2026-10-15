@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-embedding_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
 related_article_ids: []
-embedding_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-embedding_id: 2026-09-20-global-chip-market-projected-to-exceed-1-6-trillion-this-yea
+embedding_id: null
 event_name: ''
 ---
 

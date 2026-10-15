@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u
 - 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
-embedding_id: 2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis
+embedding_id: null
 event_name: ''
 ---
 

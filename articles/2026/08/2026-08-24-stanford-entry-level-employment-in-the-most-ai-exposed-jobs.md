@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: Stanford Digital Economy Lab
 url_original: https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf
 url_canonical: https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_060359_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: c235fb6d1393343b49c3318d367e2681b89895be806a3f789907f6fb5812c83f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-embedding_id: 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
+embedding_id: null
 event_name: ''
 ---
 

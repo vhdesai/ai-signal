@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
-embedding_id: 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
+embedding_id: null
 event_name: ''
 ---
 

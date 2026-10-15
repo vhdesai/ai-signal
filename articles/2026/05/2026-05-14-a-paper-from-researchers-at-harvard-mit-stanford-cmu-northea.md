@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
-embedding_id: 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 - 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
-embedding_id: 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
+embedding_id: null
 event_name: ''
 ---
 

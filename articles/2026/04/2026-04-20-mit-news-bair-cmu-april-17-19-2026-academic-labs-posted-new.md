@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-22-academic-research
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
-embedding_id: 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
+embedding_id: null
 event_name: ''
 ---
 

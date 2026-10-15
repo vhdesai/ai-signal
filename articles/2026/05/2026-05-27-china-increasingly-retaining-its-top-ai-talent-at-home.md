@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
-embedding_id: 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
+embedding_id: null
 event_name: ''
 ---
 

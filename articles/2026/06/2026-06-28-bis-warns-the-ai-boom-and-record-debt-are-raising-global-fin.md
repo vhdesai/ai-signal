@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 - 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
 - 2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust
-embedding_id: 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
+embedding_id: null
 event_name: ''
 ---
 

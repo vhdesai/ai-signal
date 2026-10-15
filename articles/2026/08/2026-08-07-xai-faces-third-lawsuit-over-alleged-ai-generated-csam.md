@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: PRNewswire / TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/08/07/10427293.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/07/10427293.htm
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 0a48f3e20fedc87a31bcd8f9dce245b6ddd9409efe4490dc244203aaa700cdea
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
 - 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
-embedding_id: 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
+embedding_id: null
 event_name: ''
 ---
 

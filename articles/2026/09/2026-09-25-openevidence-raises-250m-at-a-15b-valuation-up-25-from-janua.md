@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
-embedding_id: 2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua
+embedding_id: null
 event_name: ''
 ---
 

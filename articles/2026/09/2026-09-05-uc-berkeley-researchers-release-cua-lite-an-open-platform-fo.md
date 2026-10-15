@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute
 related_article_ids: []
-embedding_id: 2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
+embedding_id: null
 event_name: ''
 ---
 

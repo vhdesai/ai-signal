@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
+embedding_id: null
 event_name: ''
 ---
 

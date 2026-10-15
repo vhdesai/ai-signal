@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
-embedding_id: 2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search
+embedding_id: null
 event_name: ''
 ---
 

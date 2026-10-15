@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-09-28-anthropic-declines-australian-senate-inquiry-appearance-altm
 - 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
-embedding_id: 2026-09-28-amodei-dines-with-trump-as-both-labs-decline-australia-s-sen
+embedding_id: null
 event_name: ''
 ---
 

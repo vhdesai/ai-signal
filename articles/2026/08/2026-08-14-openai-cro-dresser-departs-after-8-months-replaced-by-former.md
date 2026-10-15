@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 related_article_ids: []
-embedding_id: 2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former
+embedding_id: null
 event_name: ''
 ---
 

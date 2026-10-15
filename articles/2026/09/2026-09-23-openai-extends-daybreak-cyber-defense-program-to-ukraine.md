@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
 - 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
 - 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
-embedding_id: 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
+embedding_id: null
 event_name: ''
 ---
 

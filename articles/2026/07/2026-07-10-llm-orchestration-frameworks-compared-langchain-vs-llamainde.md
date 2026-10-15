@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
-embedding_id: 2026-07-10-llm-orchestration-frameworks-compared-langchain-vs-llamainde
+embedding_id: null
 event_name: ''
 ---
 

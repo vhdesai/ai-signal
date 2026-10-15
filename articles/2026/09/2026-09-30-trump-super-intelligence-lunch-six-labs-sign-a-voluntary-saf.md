@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 - 2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br
-embedding_id: 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
+embedding_id: null
 event_name: ''
 ---
 

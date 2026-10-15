@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
 related_article_ids: []
-embedding_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-lower-cost-i
+embedding_id: null
 event_name: ''
 ---
 

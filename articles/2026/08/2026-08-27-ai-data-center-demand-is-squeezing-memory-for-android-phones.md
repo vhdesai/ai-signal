@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-ai-s-memory-crunch-is-coming-for-android-apps
 - 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
-embedding_id: 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
+embedding_id: null
 event_name: ''
 ---
 

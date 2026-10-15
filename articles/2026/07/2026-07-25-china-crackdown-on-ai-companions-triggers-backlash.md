@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million
 - 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-embedding_id: 2026-07-25-china-crackdown-on-ai-companions-triggers-backlash
+embedding_id: null
 event_name: ''
 ---
 

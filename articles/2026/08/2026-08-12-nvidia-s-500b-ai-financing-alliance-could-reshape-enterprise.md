@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
 - 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-embedding_id: 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
+embedding_id: null
 event_name: ''
 ---
 

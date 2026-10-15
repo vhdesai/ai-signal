@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
-embedding_id: 2026-07-07-cost-compute-and-consolidation-set-the-tone
+embedding_id: null
 event_name: ''
 ---
 

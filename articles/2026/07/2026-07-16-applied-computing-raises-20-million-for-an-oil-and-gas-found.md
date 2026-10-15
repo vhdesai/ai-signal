@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 - 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 - 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
-embedding_id: 2026-07-16-applied-computing-raises-20-million-for-an-oil-and-gas-found
+embedding_id: null
 event_name: ''
 ---
 

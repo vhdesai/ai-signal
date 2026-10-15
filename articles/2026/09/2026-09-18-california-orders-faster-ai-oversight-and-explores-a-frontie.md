@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
 - 2026-09-18-california-accelerates-independent-ai-audits-and-orders-work
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
-embedding_id: 2026-09-18-california-orders-faster-ai-oversight-and-explores-a-frontie
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
-embedding_id: 2026-08-01-openai-published-a-strategy-essay-describing-a-full-stack-ap
+embedding_id: null
 event_name: ''
 ---
 

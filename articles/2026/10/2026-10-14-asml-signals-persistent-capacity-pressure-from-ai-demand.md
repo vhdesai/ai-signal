@@ -4,8 +4,8 @@ title: ASML signals persistent capacity pressure from AI demand
 date: '2026-10-14'
 source: ASML
 url_original: null
-url_canonical: https://www.siliconrepublic.com/business/ai-led-demand-overwhelms-asmls-2027-2028-supply-capacity
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: 60a4920cfca04ca913b904b96910532a3bc8795bd28a56d04490b53f1ba57c07
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-embedding_id: 2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand
+embedding_id: null
 event_name: ''
 ---
 

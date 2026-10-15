@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
 - 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
-embedding_id: 2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: 2026-05-18-subquadratic-released-the-first-commercially-available-non-t
+embedding_id: null
 event_name: ''
 ---
 

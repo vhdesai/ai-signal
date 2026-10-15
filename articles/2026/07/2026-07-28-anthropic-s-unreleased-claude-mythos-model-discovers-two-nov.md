@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
-embedding_id: 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
+embedding_id: null
 event_name: ''
 ---
 

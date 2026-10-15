@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-embedding_id: 2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr
+embedding_id: null
 event_name: ''
 ---
 

@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
-embedding_id: event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
+embedding_id: null
 event_name: Microsoft Build 2026
 ---
 

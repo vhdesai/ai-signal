@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 - 2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
-embedding_id: 2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2
+embedding_id: null
 event_name: ''
 ---
 

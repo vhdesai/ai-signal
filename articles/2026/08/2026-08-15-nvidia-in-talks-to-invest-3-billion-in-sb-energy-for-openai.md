@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-15-nvidia-in-talks-to-put-up-to-3b-into-softbank-backed-sb-ener
 - 2026-08-15-nvidia-weighs-3b-stake-in-sb-energy-while-restructuring-its
 - 2026-08-17-nvidia-to-invest-1-5b-in-sb-energy-the-softbank-developer-be
-embedding_id: 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
+embedding_id: null
 event_name: ''
 ---
 

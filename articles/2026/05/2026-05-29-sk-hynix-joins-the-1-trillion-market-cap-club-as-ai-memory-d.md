@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
-embedding_id: 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+embedding_id: null
 event_name: ''
 ---
 

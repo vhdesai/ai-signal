@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
-embedding_id: 2026-07-23-servicenow-invests-40-million-in-businessnext-to-deepen-bank
+embedding_id: null
 event_name: ''
 ---
 

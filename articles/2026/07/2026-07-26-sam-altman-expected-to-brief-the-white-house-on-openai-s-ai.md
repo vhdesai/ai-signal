@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
-embedding_id: 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
+embedding_id: null
 event_name: ''
 ---
 

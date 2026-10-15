@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
 - 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
 - 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
-embedding_id: 2026-09-14-ajc-com-reports-senator-jon-ossoff-has-called-for-federal-in
+embedding_id: null
 event_name: ''
 ---
 

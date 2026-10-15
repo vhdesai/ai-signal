@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
 related_article_ids: []
-embedding_id: 2026-09-03-meta-releases-muse-spark-1-3-with-20-fewer-tool-calls-and-25
+embedding_id: null
 event_name: ''
 ---
 

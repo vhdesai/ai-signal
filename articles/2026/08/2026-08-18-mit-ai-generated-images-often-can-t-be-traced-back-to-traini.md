@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
-embedding_id: 2026-08-18-mit-ai-generated-images-often-can-t-be-traced-back-to-traini
+embedding_id: null
 event_name: ''
 ---
 

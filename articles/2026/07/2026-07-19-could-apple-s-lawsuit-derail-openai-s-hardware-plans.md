@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla
 related_article_ids: []
-embedding_id: 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
+embedding_id: null
 event_name: ''
 ---
 

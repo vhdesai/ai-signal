@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
-embedding_id: 2026-07-06-policy-china-us-judge-orders-pentagon-to-stop-treating-aliba
+embedding_id: null
 event_name: ''
 ---
 

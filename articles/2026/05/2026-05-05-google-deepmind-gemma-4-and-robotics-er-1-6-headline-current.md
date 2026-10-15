@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
 - 2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning
-embedding_id: 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
-embedding_id: 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
+embedding_id: null
 event_name: ''
 ---
 

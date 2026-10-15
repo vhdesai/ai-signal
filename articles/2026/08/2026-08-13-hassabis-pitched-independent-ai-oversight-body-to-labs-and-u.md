@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
 related_article_ids: []
-embedding_id: 2026-08-13-hassabis-pitched-independent-ai-oversight-body-to-labs-and-u
+embedding_id: null
 event_name: ''
 ---
 

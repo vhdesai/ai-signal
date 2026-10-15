@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
 - 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
-embedding_id: 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
+embedding_id: null
 event_name: ''
 ---
 

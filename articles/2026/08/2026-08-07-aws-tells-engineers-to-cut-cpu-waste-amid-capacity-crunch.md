@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
-embedding_id: 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
+embedding_id: null
 event_name: ''
 ---
 

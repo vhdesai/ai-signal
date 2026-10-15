@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-09-19-unity-ships-first-party-plugins-for-claude-code-and-openai-c
-embedding_id: 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
+embedding_id: null
 event_name: ''
 ---
 

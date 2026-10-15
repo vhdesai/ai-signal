@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
-embedding_id: 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
+embedding_id: null
 event_name: ''
 ---
 

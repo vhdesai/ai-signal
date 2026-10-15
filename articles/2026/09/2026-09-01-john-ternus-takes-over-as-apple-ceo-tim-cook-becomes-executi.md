@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-john-ternus-becomes-apple-ceo-as-the-tim-cook-era-ends
 related_article_ids: []
-embedding_id: 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
+embedding_id: null
 event_name: ''
 ---
 

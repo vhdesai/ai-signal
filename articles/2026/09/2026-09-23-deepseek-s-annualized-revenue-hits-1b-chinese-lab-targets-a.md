@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-deepseek-s-annualized-revenue-hits-1b-as-it-finalizes-a-7-5b
 related_article_ids: []
-embedding_id: 2026-09-23-deepseek-s-annualized-revenue-hits-1b-chinese-lab-targets-a
+embedding_id: null
 event_name: ''
 ---
 

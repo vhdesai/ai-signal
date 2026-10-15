@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
-embedding_id: 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
+embedding_id: null
 event_name: ''
 ---
 

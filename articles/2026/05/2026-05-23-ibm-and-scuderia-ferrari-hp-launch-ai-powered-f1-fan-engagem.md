@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
 - 2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p
 - 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
-embedding_id: 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
+embedding_id: null
 event_name: ''
 ---
 

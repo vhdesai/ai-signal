@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
+embedding_id: null
 event_name: ''
 ---
 

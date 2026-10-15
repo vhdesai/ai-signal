@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279b-supply-cha
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 - 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
-embedding_id: 2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup
+embedding_id: null
 event_name: ''
 ---
 

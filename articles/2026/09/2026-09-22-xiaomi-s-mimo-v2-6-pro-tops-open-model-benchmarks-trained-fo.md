@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-21-xiaomi-s-mimo-v2-6-pro-becomes-the-top-scoring-open-weights
 - 2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim
 - 2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are
-embedding_id: 2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo
+embedding_id: null
 event_name: ''
 ---
 

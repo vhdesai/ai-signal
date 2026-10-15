@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-embedding_id: 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
+embedding_id: null
 event_name: ''
 ---
 

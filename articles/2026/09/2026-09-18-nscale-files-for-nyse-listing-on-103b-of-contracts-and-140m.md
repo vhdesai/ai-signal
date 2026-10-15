@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 - 2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing
 - 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
-embedding_id: 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
+embedding_id: null
 event_name: ''
 ---
 

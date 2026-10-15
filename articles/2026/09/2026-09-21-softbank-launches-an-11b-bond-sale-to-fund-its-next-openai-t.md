@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 related_article_ids: []
-embedding_id: 2026-09-21-softbank-launches-an-11b-bond-sale-to-fund-its-next-openai-t
+embedding_id: null
 event_name: ''
 ---
 

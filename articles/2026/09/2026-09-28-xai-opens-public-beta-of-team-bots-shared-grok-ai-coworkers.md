@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: xAI
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 772b3f396f0cb270a1e25a3c41c75821bcdb925458eb8530fc007dac39973c01
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
 - 2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-embedding_id: 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
+embedding_id: null
 event_name: ''
 ---
 

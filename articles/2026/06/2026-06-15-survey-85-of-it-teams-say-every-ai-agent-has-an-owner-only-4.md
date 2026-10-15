@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 - 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
-embedding_id: 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+embedding_id: null
 event_name: ''
 ---
 

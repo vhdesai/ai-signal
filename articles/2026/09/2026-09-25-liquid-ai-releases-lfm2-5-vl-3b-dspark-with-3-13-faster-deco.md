@@ -6,7 +6,7 @@ date: '2026-09-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/25/liquid-ai-lfm2-5-vl-3b-dspark-speculative-decoding/
 url_canonical: https://www.marktechpost.com/2026/09/25/liquid-ai-lfm2-5-vl-3b-dspark-speculative-decoding/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-26_070233_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: 229482b58a02c763831b78d2316454cdb5d245b7b7ca121879bac4f655a0d952
@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 related_article_ids: []
-embedding_id: 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
+embedding_id: null
 event_name: ''
 ---
 

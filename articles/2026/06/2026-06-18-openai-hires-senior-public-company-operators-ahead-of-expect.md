@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
-embedding_id: 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica
-embedding_id: 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
+embedding_id: null
 event_name: ''
 ---
 

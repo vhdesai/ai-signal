@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe
 related_article_ids: []
-embedding_id: 2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-person
+embedding_id: null
 event_name: ''
 ---
 

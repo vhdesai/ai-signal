@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-surges-past-65b
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-embedding_id: 2026-05-13-anthropic-flexes-pricing-power-as-customers-willingly-eat-th
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-22-academic-research
 - 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 - 2026-09-19-iclr-2027-pulls-50-000-abstract-submissions-up-from-19-500-a
-embedding_id: 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
+embedding_id: null
 event_name: ''
 ---
 

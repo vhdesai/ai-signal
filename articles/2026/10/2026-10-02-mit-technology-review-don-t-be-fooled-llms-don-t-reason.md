@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 - 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
-embedding_id: 2026-10-02-mit-technology-review-don-t-be-fooled-llms-don-t-reason
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
-embedding_id: 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
+embedding_id: null
 event_name: ''
 ---
 

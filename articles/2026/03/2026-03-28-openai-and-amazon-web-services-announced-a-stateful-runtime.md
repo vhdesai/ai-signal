@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
-embedding_id: 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+embedding_id: null
 event_name: ''
 ---
 

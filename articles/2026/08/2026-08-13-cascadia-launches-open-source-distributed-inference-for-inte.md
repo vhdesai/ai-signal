@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 - 2026-09-25-stanford-and-nvidia-release-clm-8b-caching-reusable-agent-ac
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-embedding_id: 2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte
+embedding_id: null
 event_name: ''
 ---
 

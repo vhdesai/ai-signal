@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
 - 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
+embedding_id: null
 event_name: ''
 ---
 

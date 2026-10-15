@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/20/alibaba-qwen3-8-livetranslate-real-time-60-languages/
 url_canonical: https://www.marktechpost.com/2026/09/20/alibaba-qwen3-8-livetranslate-real-time-60-languages/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_070031_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 031f15d8c4e439edd2288be5f1292e1aa727635913df87aa9b093922364b61a7
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-embedding_id: 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
+embedding_id: null
 event_name: ''
 ---
 

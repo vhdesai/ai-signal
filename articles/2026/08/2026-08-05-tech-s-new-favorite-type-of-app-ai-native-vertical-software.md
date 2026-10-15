@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-embedding_id: 2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software
+embedding_id: null
 event_name: ''
 ---
 

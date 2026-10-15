@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-embedding_id: 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
+embedding_id: null
 event_name: ''
 ---
 

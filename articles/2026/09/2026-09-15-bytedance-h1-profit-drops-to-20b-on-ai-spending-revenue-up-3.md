@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
-embedding_id: 2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3
+embedding_id: null
 event_name: ''
 ---
 

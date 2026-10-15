@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-embedding_id: 2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house
+embedding_id: null
 event_name: ''
 ---
 

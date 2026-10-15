@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
-embedding_id: 2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev
+embedding_id: null
 event_name: ''
 ---
 

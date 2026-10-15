@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: BetaNews
 url_original: https://betanews.com/article/anthropic-new-ai-model-openai-astra/
 url_canonical: https://betanews.com/article/anthropic-new-ai-model-openai-astra/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_062119_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 9d8e29ce554b9af513dbaeb3823dc1f67d44377ccae5cb527a1fefb9ea794a5e
@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
-embedding_id: 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
+embedding_id: null
 event_name: ''
 ---
 

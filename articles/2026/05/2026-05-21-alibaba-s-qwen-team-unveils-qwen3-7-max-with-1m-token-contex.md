@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 737666e9a22d61bb6d11906f700a5ecf515fd65694dff6ec865a509bfd476fd9
@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 related_article_ids: []
-embedding_id: 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
+embedding_id: null
 event_name: ''
 ---
 

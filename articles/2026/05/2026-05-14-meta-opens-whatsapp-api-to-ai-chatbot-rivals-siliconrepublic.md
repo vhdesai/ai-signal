@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
-embedding_id: 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
+embedding_id: null
 event_name: ''
 ---
 

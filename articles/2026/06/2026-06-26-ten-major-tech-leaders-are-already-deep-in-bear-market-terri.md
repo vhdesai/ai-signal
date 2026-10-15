@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 - 2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba
-embedding_id: 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
+embedding_id: null
 event_name: ''
 ---
 

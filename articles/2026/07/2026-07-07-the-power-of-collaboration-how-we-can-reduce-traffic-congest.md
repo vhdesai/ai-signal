@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-path-constrained-mixture-of-experts
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi
-embedding_id: 2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest
+embedding_id: null
 event_name: ''
 ---
 

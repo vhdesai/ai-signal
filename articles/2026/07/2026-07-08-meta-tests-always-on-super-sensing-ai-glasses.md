@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-embedding_id: 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
+embedding_id: null
 event_name: ''
 ---
 

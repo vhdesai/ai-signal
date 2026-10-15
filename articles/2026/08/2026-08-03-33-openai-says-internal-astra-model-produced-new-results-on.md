@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 - 2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on
-embedding_id: 2026-08-03-33-openai-says-internal-astra-model-produced-new-results-on
+embedding_id: null
 event_name: ''
 ---
 

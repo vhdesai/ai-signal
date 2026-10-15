@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-embedding_id: 2026-05-20-openai-model-disproves-discrete-geometry-conjecture
+embedding_id: null
 event_name: ''
 ---
 

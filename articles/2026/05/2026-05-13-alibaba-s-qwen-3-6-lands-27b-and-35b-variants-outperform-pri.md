@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-embedding_id: 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-trump-memo-lets-private-companies-hack-foreign-cybercriminal
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 - 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
-embedding_id: 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
+embedding_id: null
 event_name: ''
 ---
 

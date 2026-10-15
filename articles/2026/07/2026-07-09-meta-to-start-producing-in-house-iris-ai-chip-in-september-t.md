@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
 related_article_ids: []
-embedding_id: 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
+embedding_id: null
 event_name: ''
 ---
 

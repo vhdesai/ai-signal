@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
-embedding_id: 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
+embedding_id: null
 event_name: ''
 ---
 

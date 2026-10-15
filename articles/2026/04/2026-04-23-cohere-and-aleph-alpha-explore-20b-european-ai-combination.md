@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-embedding_id: 2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination
+embedding_id: null
 event_name: ''
 ---
 

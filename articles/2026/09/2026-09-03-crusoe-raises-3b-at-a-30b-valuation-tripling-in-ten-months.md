@@ -26,7 +26,7 @@ canonical_article_id: 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-13b-j
 related_article_ids:
 - 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
-embedding_id: 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
+embedding_id: null
 event_name: ''
 ---
 

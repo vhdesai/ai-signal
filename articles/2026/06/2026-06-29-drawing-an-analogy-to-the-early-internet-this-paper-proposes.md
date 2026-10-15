@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
-embedding_id: 2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes
+embedding_id: null
 event_name: ''
 ---
 

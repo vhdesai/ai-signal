@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d
-embedding_id: 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
+embedding_id: null
 event_name: ''
 ---
 

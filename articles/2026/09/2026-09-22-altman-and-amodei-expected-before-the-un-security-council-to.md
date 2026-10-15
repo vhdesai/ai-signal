@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
 - 2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un
 - 2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc
-embedding_id: 2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to
+embedding_id: null
 event_name: ''
 ---
 

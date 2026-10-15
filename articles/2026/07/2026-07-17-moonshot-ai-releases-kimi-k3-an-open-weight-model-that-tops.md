@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
 - 2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models
 - 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
-embedding_id: 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
+embedding_id: null
 event_name: ''
 ---
 

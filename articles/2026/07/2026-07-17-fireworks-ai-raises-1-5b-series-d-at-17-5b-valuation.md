@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: Crunchbase News**
 url_original: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
 url_canonical: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-19_065029_Final-Daily-AI-News-Digest.md
 content_hash: 5a3903e7178e7ef05f350869f00a4d7be41846121a7467b0a8a2984e405d97bd
 normalized_title_hash: bd91633a14a3c593
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
-embedding_id: 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
+embedding_id: null
 event_name: ''
 ---
 

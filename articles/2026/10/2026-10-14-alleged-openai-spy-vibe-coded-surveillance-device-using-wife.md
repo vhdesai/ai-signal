@@ -6,8 +6,8 @@ source: The Decoder
 url_original: https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/
 url_canonical: https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 30153849adbe5ac571b4fdea5e9cc57a9684392e21ee8260f73b69b3b7581a28
 normalized_title_hash: 9cf529ba99cb5080
 canonical_url_hash: bfc0856141efb9f8
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-embedding_id: 2026-10-14-alleged-openai-spy-vibe-coded-surveillance-device-using-wife
+embedding_id: null
 event_name: ''
 ---
 

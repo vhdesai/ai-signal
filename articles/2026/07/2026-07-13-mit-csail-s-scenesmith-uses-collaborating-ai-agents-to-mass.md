@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MIT News
 url_original: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
 url_canonical: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: b22f0daf85ee95a7e110742849003b27ca11ea80e8d58b1c2073b8a7a1b75a9e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
-embedding_id: 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
+embedding_id: null
 event_name: ''
 ---
 

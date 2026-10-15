@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
 - 2026-09-03-openai-ships-gpt-6-astra-its-first-model-rated-critical-for
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-embedding_id: 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
-embedding_id: 2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-07-28-cursor-customers-push-back-on-usage-based-price-hikes
 - 2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
-embedding_id: 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
+embedding_id: null
 event_name: ''
 ---
 

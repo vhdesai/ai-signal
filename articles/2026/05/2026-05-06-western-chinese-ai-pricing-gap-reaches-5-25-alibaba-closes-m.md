@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
-embedding_id: 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 related_article_ids: []
-embedding_id: 2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai
+embedding_id: null
 event_name: ''
 ---
 

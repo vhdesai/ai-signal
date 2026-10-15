@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier
-embedding_id: 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
+embedding_id: null
 event_name: ''
 ---
 

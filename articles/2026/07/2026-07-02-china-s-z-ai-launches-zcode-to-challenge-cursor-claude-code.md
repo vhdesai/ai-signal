@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
-embedding_id: 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
+embedding_id: null
 event_name: ''
 ---
 

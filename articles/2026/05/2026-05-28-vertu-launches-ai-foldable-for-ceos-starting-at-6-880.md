@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on-a-finger-worn-inter
-embedding_id: 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
-embedding_id: 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
+embedding_id: null
 event_name: ''
 ---
 

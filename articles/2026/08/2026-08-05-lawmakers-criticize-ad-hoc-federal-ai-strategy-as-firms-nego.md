@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
-embedding_id: 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
+embedding_id: null
 event_name: ''
 ---
 

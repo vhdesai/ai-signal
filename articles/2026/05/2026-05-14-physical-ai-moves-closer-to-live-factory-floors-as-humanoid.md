@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-embedding_id: 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
+embedding_id: null
 event_name: ''
 ---
 

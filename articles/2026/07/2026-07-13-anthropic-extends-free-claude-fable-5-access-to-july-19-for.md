@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
 related_article_ids: []
-embedding_id: 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
+embedding_id: null
 event_name: ''
 ---
 

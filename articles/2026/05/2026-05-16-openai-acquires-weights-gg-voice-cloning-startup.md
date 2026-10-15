@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
-embedding_id: 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
+embedding_id: null
 event_name: ''
 ---
 

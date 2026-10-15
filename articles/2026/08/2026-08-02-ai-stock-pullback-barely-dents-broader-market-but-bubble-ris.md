@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-09-26-why-wall-street-s-big-bad-bears-aren-t-ready-to-bet-against
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-embedding_id: 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
+embedding_id: null
 event_name: ''
 ---
 

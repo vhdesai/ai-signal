@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 related_article_ids: []
-embedding_id: 2026-09-04-reuters-reports-previously-undisclosed-openai-agent-breakout
+embedding_id: null
 event_name: ''
 ---
 

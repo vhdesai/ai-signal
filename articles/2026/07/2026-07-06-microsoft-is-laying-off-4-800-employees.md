@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 related_article_ids: []
-embedding_id: 2026-07-06-microsoft-is-laying-off-4-800-employees
+embedding_id: null
 event_name: ''
 ---
 

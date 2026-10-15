@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price
 related_article_ids: []
-embedding_id: 2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
-embedding_id: 2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob
+embedding_id: null
 event_name: ''
 ---
 

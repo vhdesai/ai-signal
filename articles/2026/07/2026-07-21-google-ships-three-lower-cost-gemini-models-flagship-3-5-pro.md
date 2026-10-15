@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 - 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
-embedding_id: 2026-07-21-google-ships-three-lower-cost-gemini-models-flagship-3-5-pro
+embedding_id: null
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
-embedding_id: 2026-08-26-bill-gates-warns-about-ai-risks
+embedding_id: null
 event_name: ''
 ---
 

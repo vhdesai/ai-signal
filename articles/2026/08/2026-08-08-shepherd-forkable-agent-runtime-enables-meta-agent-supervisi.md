@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
 - 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 - 2026-08-08-daily-ai-news-digest-august-9-2026
-embedding_id: 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
+embedding_id: null
 event_name: ''
 ---
 

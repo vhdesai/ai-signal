@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 - 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
-embedding_id: 2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year
+embedding_id: null
 event_name: ''
 ---
 

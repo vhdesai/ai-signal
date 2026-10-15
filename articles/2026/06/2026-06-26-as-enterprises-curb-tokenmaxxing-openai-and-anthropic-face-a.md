@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-18-anthropic-weighs-a-new-model-to-blunt-gpt-6-astra-days-after
-embedding_id: 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
+embedding_id: null
 event_name: ''
 ---
 

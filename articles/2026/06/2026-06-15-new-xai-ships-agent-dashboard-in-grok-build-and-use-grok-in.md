@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: xAI News
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: 052dcf10d70a7c88a07e1233bdf23927f5f1fbee155f9f53fc58119c6dfb1a8f
 normalized_title_hash: 30f7daffc9b73a6f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-embedding_id: 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
+embedding_id: null
 event_name: ''
 ---
 

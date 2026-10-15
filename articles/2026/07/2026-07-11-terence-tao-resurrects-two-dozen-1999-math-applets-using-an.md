@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-embedding_id: 2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an
+embedding_id: null
 event_name: ''
 ---
 

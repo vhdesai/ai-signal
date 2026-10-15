@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
+embedding_id: null
 event_name: ''
 ---
 

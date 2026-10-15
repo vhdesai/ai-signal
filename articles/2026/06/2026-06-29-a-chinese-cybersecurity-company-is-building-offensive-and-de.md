@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
-embedding_id: 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
+embedding_id: null
 event_name: ''
 ---
 

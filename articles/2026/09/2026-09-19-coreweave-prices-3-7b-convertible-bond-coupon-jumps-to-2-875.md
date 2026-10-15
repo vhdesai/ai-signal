@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
 - 2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe
-embedding_id: 2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875
+embedding_id: null
 event_name: ''
 ---
 

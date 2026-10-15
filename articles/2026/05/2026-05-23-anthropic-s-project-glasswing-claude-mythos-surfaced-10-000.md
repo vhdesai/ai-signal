@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-embedding_id: 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
+embedding_id: null
 event_name: ''
 ---
 

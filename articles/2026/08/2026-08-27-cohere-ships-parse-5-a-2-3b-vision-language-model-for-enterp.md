@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-08-04-practical-guide-to-pixel-native-rag-and-visual-document-inde
-embedding_id: 2026-08-27-cohere-ships-parse-5-a-2-3b-vision-language-model-for-enterp
+embedding_id: null
 event_name: ''
 ---
 

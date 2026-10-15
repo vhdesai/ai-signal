@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-08-02-eu-ai-act-transparency-rules-go-live-for-chatbots-deepfakes
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
-embedding_id: 2026-05-27-umg-tiktok-deal-becomes-a-de-facto-governance-template-for-a
+embedding_id: null
 event_name: ''
 ---
 

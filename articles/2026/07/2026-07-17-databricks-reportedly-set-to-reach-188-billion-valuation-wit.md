@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
 related_article_ids: []
-embedding_id: 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
+embedding_id: null
 event_name: ''
 ---
 

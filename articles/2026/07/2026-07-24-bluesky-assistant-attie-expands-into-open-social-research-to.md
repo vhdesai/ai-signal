@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
-embedding_id: 2026-07-24-bluesky-assistant-attie-expands-into-open-social-research-to
+embedding_id: null
 event_name: ''
 ---
 

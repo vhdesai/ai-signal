@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-ai-research-system-discovers-novel-http-desync-attacks-affec
 related_article_ids: []
-embedding_id: 2026-08-08-an-ai-research-system-discovered-novel-http-desync-attacks-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
-embedding_id: 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
+embedding_id: null
 event_name: ''
 ---
 

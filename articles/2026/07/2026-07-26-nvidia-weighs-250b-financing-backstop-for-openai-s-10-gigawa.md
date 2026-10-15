@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 - 2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center
 - 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
-embedding_id: 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
+embedding_id: null
 event_name: ''
 ---
 

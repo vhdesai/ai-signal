@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-deepmind-alumni-inherent-s-faraday-outperforms-claude-and-gp
 related_article_ids: []
-embedding_id: 2026-08-22-inherent-says-its-ai-teammate-outperformed-openai-and-anthro
+embedding_id: null
 event_name: ''
 ---
 

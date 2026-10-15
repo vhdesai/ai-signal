@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models
 - 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
-embedding_id: 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
+embedding_id: null
 event_name: ''
 ---
 

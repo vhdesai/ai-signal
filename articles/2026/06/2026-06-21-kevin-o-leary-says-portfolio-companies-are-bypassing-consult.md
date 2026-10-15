@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
-embedding_id: 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
+embedding_id: null
 event_name: ''
 ---
 

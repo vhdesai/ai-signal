@@ -5,7 +5,7 @@ date: '2026-07-11'
 source: TechSpot
 url_original: https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html
 url_canonical: https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July
   13, 2026.md
 content_hash: 838c4faec7353069a18763e28416525dcf9196f1f622c7aa97577046c4c493cc
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
-embedding_id: 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
-embedding_id: 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: 2026-08-10-model-ml-uses-gpt-5-6-sol-for-finance-analysis-and-editable
+embedding_id: null
 event_name: ''
 ---
 

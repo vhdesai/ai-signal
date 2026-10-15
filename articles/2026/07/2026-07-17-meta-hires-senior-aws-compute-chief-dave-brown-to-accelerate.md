@@ -5,7 +5,7 @@ date: '2026-07-17'
 source: GeekWire**
 url_original: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
 url_canonical: https://www.geekwire.com/2026/departing-aws-exec-dave-brown-is-reportedly-joining-meta-as-facebook-parent-mulls-its-own-cloud/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-18_065018_Final-Daily-AI-News-Digest.md
 content_hash: f123eb13cb017f1192fedeef047cff2a8ce49273be817af00679706ae9363a92
 normalized_title_hash: 9a888b2527787f2f
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
-embedding_id: 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
+embedding_id: null
 event_name: ''
 ---
 

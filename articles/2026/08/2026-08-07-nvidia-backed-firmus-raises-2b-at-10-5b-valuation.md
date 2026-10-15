@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d
 - 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
+embedding_id: null
 event_name: ''
 ---
 

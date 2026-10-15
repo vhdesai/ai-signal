@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau
 - 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
-embedding_id: 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
+embedding_id: null
 event_name: ''
 ---
 

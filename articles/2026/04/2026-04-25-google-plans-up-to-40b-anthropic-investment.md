@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
-embedding_id: 2026-04-25-google-plans-up-to-40b-anthropic-investment
+embedding_id: null
 event_name: ''
 ---
 

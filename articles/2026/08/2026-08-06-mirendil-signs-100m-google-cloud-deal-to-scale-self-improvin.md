@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
 related_article_ids: []
-embedding_id: 2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin
+embedding_id: null
 event_name: ''
 ---
 

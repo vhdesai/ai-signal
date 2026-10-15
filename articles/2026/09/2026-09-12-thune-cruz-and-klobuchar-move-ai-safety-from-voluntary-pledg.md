@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 - 2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s
-embedding_id: 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
+embedding_id: null
 event_name: ''
 ---
 

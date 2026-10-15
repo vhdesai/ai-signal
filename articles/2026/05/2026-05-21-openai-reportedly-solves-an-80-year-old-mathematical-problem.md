@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-embedding_id: 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
+embedding_id: null
 event_name: ''
 ---
 

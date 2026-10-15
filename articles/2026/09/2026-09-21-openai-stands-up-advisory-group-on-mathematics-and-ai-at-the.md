@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-09-22-openai-claims-internal-model-solved-100-long-standing-open-m
-embedding_id: 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
+embedding_id: null
 event_name: ''
 ---
 

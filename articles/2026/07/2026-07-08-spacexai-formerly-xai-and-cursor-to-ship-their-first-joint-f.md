@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
-embedding_id: 2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f
+embedding_id: null
 event_name: ''
 ---
 

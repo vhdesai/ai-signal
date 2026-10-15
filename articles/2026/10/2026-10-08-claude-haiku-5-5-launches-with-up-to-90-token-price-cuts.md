@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
 - 2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu
 - 2026-09-28-anthropic-launches-claude-sonnet-5-5
-embedding_id: 2026-10-08-claude-haiku-5-5-launches-with-up-to-90-token-price-cuts
+embedding_id: null
 event_name: ''
 ---
 

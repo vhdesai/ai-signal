@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-embedding_id: 2026-05-15-pershing-square-takes-new-stake-in-microsoft-says-tech-giant
+embedding_id: null
 event_name: ''
 ---
 

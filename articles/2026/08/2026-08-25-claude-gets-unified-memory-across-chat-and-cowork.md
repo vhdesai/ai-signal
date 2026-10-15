@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar
 - 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
-embedding_id: 2026-08-25-claude-gets-unified-memory-across-chat-and-cowork
+embedding_id: null
 event_name: ''
 ---
 

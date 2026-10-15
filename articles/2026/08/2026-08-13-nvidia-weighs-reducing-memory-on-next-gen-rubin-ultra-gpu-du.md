@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
-embedding_id: 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
+embedding_id: null
 event_name: ''
 ---
 

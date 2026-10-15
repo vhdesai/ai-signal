@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
-embedding_id: 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
+embedding_id: null
 event_name: ''
 ---
 

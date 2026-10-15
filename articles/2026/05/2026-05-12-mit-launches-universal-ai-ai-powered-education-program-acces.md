@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-embedding_id: 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
+embedding_id: null
 event_name: ''
 ---
 

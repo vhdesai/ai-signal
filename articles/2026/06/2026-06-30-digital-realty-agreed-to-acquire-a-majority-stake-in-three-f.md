@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
 - 2026-08-17-nvidia-guarantees-up-to-105b-in-financing-for-openai-s-ohio
-embedding_id: 2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f
+embedding_id: null
 event_name: ''
 ---
 

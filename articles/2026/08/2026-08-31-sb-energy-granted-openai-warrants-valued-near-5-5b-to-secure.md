@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea
 related_article_ids: []
-embedding_id: 2026-08-31-sb-energy-granted-openai-warrants-valued-near-5-5b-to-secure
+embedding_id: null
 event_name: ''
 ---
 

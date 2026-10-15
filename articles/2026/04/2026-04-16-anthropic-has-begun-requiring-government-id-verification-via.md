@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
 - 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
-embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
+embedding_id: null
 event_name: ''
 ---
 

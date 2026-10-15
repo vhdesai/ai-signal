@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
 related_article_ids:
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
-embedding_id: 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
+embedding_id: null
 event_name: ''
 ---
 

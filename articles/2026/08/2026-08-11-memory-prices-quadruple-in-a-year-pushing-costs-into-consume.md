@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
-embedding_id: 2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume
+embedding_id: null
 event_name: ''
 ---
 

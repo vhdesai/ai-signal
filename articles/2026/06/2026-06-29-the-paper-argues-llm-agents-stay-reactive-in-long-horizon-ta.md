@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
-embedding_id: 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
+embedding_id: null
 event_name: ''
 ---
 

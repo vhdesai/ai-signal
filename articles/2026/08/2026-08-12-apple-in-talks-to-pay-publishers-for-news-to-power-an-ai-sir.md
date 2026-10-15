@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
 related_article_ids: []
-embedding_id: 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-an-ai-sir
+embedding_id: null
 event_name: ''
 ---
 

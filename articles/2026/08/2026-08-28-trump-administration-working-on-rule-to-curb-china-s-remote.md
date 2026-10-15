@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
 related_article_ids: []
-embedding_id: 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
+embedding_id: null
 event_name: ''
 ---
 

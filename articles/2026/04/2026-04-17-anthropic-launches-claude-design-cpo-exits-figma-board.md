@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-embedding_id: 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-embedding_id: 2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie
+embedding_id: null
 event_name: ''
 ---
 

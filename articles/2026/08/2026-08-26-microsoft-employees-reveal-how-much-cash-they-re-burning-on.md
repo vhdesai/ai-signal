@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
 - 2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg
-embedding_id: 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
+embedding_id: null
 event_name: ''
 ---
 

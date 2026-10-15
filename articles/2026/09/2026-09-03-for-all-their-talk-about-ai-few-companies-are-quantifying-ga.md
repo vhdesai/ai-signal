@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-17-marketwatch-ai-productivity-payoff-shifting-investor-focus-f
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
-embedding_id: 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
+embedding_id: null
 event_name: ''
 ---
 

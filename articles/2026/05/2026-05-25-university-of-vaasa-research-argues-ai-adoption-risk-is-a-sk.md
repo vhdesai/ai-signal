@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 related_article_ids: []
-embedding_id: 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
+embedding_id: null
 event_name: ''
 ---
 

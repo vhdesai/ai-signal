@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Geeky Gadgets**
 url_original: https://www.geeky-gadgets.com/gemini-3-5-pro-delayed-again/
 url_canonical: https://www.geeky-gadgets.com/gemini-3-5-pro-delayed-again/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-16_065004_Final-Daily-AI-News-Digest.md
 content_hash: 9330a68246392a76b4c58eb4d51de2c64481289a0f507f2a629a5fbb8ee3826e
 normalized_title_hash: 7f53244e4256fce5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
-embedding_id: 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
+embedding_id: null
 event_name: ''
 ---
 

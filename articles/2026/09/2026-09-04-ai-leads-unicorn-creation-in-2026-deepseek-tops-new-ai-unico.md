@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: 2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico
+embedding_id: null
 event_name: ''
 ---
 

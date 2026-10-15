@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-18-trump-s-shadow-ai-policy-emerges-case-by-case-interventions
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-embedding_id: 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
+embedding_id: null
 event_name: ''
 ---
 

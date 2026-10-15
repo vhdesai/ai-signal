@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
-embedding_id: 2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m
+embedding_id: null
 event_name: ''
 ---
 

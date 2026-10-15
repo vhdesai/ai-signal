@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-21-zero-click-cryptographic-context-injection-attack-steals-gro
 - 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 - 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
-embedding_id: 2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection
+embedding_id: null
 event_name: ''
 ---
 

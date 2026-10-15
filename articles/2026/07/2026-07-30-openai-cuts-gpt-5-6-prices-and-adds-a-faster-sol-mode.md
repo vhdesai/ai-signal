@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 related_article_ids: []
-embedding_id: 2026-07-30-openai-cuts-gpt-5-6-prices-and-adds-a-faster-sol-mode
+embedding_id: null
 event_name: ''
 ---
 

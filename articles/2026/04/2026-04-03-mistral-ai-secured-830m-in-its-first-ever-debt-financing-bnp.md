@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
 - 2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d
 - 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
-embedding_id: 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
+embedding_id: null
 event_name: ''
 ---
 

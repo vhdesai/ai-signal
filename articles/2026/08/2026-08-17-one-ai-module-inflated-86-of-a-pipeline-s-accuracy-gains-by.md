@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-ai-module-inflated-86-of-pipeline-accuracy-by-leaking-answer
 related_article_ids: []
-embedding_id: 2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by
+embedding_id: null
 event_name: ''
 ---
 

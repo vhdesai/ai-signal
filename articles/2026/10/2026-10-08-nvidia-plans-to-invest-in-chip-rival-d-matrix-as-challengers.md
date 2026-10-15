@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-17-the-nvidia-paradox-selling-upgrades-while-positioning-gpus-a
-embedding_id: 2026-10-08-nvidia-plans-to-invest-in-chip-rival-d-matrix-as-challengers
+embedding_id: null
 event_name: ''
 ---
 

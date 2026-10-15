@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
-embedding_id: 2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
-embedding_id: 2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode
+embedding_id: null
 event_name: ''
 ---
 

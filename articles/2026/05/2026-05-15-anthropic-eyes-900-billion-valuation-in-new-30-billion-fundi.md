@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-embedding_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji
-embedding_id: 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+embedding_id: null
 event_name: ''
 ---
 

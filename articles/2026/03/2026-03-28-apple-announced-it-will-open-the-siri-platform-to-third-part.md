@@ -28,7 +28,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
-embedding_id: 2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part
+embedding_id: null
 event_name: ''
 ---
 

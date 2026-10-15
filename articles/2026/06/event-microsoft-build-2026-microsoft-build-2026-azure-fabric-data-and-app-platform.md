@@ -31,7 +31,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-embedding_id: event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
+embedding_id: null
 event_name: Microsoft Build 2026
 ---
 

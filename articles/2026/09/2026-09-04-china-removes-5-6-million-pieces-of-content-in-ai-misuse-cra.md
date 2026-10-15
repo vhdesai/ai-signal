@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 - 2026-07-25-china-crackdown-on-ai-companions-triggers-backlash
 - 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
-embedding_id: 2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra
+embedding_id: null
 event_name: ''
 ---
 

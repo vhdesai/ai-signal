@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
-embedding_id: 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 - 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
-embedding_id: 2026-08-17-ey-transforms-internships-into-yearlong-ai-era-residencies
+embedding_id: null
 event_name: ''
 ---
 

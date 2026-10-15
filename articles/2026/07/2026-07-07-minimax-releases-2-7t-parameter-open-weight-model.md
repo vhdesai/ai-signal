@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-rel
-embedding_id: 2026-07-07-minimax-releases-2-7t-parameter-open-weight-model
+embedding_id: null
 event_name: ''
 ---
 

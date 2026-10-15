@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
+embedding_id: null
 event_name: ''
 ---
 

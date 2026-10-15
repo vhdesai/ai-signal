@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
-embedding_id: 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-ai-companies-private-equity-and-unions-form-the-american-inf
 related_article_ids: []
-embedding_id: 2026-09-28-ai-firms-private-equity-and-unions-form-a-coalition-to-head
+embedding_id: null
 event_name: ''
 ---
 

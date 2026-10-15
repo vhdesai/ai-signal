@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
 - 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
-embedding_id: 2026-04-19-gpu-rental-prices-jump-48-in-60-days
+embedding_id: null
 event_name: ''
 ---
 

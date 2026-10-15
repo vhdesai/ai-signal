@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-embedding_id: 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
+embedding_id: null
 event_name: ''
 ---
 

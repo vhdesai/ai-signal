@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
-embedding_id: 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
+embedding_id: null
 event_name: ''
 ---
 

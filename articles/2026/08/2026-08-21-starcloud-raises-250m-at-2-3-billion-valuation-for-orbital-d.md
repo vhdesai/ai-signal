@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
 url_canonical: https://www.geekwire.com/2026/starcloud-250m-data-center-satellite-network-nvidia/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_065242_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: f7be55385ce53b5cbf375bf27d8b36ebb3689eeedd54f7534f2af4199c3ae05f
@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-
 related_article_ids:
 - 2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la
 - 2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c
-embedding_id: 2026-08-21-starcloud-raises-250m-at-2-3-billion-valuation-for-orbital-d
+embedding_id: null
 event_name: ''
 ---
 

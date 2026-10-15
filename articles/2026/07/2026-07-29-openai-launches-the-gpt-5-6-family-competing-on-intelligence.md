@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 related_article_ids: []
-embedding_id: 2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence
+embedding_id: null
 event_name: ''
 ---
 

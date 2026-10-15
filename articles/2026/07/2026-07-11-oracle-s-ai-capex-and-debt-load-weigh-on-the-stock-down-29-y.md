@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
 - 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
-embedding_id: 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 related_article_ids: []
-embedding_id: 2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin
+embedding_id: null
 event_name: ''
 ---
 

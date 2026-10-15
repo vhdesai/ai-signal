@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-31-china-s-cxmt-makes-breakthrough-in-advanced-high-bandwidth-m
 - 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 - 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
-embedding_id: 2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt
+embedding_id: null
 event_name: ''
 ---
 

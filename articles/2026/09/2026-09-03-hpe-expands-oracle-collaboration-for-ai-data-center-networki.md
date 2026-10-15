@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
 - 2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
-embedding_id: 2026-09-03-hpe-expands-oracle-collaboration-for-ai-data-center-networki
+embedding_id: null
 event_name: ''
 ---
 

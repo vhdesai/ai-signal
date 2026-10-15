@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
 related_article_ids: []
-embedding_id: 2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea
+embedding_id: null
 event_name: ''
 ---
 

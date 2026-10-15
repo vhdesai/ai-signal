@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
-embedding_id: 2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi
+embedding_id: null
 event_name: ''
 ---
 

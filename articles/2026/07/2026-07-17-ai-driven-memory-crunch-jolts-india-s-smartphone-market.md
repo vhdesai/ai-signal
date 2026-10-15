@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 related_article_ids: []
-embedding_id: 2026-07-17-ai-driven-memory-crunch-jolts-india-s-smartphone-market
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: MIT News
 url_original: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
 url_canonical: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 65702d5e878cef3a7627696fb81b4db2672d3b75be768e3b1e5f3f4cc4d6ced8
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 - 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
-embedding_id: 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
+embedding_id: null
 event_name: ''
 ---
 

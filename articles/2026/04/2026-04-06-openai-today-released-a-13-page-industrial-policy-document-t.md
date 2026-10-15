@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-embedding_id: 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 related_article_ids: []
-embedding_id: 2026-07-18-kimi-k3-shocks-the-market-and-prompts-debate-over-u-s-ai-com
+embedding_id: null
 event_name: ''
 ---
 

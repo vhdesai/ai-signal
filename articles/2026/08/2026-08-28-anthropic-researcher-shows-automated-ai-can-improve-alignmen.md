@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-anthropic-researcher-offers-a-look-at-automated-alignment-im
 - 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
 - 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
-embedding_id: 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
+embedding_id: null
 event_name: ''
 ---
 

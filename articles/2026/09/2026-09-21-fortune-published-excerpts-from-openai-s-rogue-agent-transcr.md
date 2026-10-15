@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
-embedding_id: 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
+embedding_id: null
 event_name: ''
 ---
 

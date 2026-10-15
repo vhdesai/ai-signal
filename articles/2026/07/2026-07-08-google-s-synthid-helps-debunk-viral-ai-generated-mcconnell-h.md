@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
 related_article_ids: []
-embedding_id: 2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h
+embedding_id: null
 event_name: ''
 ---
 

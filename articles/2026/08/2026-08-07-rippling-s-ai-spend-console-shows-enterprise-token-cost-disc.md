@@ -22,7 +22,7 @@ canonical_article_id: 2026-08-07-rippling-launches-ai-spend-console-after-intern
 related_article_ids:
 - 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
 - 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
-embedding_id: 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
+embedding_id: null
 event_name: ''
 ---
 

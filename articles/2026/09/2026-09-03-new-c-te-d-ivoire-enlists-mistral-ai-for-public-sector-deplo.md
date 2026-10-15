@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-c-te-d-ivoire-enlists-mistral-ai-for-national-ai-projects
 related_article_ids: []
-embedding_id: 2026-09-03-new-c-te-d-ivoire-enlists-mistral-ai-for-public-sector-deplo
+embedding_id: null
 event_name: ''
 ---
 

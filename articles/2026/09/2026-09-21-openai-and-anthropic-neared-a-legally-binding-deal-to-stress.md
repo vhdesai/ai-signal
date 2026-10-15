@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
-embedding_id: 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
+embedding_id: null
 event_name: ''
 ---
 

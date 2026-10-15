@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-embedding_id: 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-running-mal
+embedding_id: null
 event_name: ''
 ---
 

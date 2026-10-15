@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
-embedding_id: 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
+embedding_id: null
 event_name: ''
 ---
 

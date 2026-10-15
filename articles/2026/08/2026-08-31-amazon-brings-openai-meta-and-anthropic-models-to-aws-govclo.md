@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
-embedding_id: 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
+embedding_id: null
 event_name: ''
 ---
 

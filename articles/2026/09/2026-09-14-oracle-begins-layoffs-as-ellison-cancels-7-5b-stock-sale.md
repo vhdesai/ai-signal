@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
 related_article_ids: []
-embedding_id: 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
+embedding_id: null
 event_name: ''
 ---
 

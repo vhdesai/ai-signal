@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-moe-model-tra
 related_article_ids: []
-embedding_id: 2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
 - 2026-08-29-sony-music-and-warner-sue-anthropic-alleging-brazen-campaign
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-ip
-embedding_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 related_article_ids: []
-embedding_id: 2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay
+embedding_id: null
 event_name: ''
 ---
 

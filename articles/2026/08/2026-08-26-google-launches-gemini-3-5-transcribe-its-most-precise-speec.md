@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
 - 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
 - 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
-embedding_id: 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
+embedding_id: null
 event_name: ''
 ---
 

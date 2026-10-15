@@ -6,7 +6,7 @@ date: '2026-08-10'
 source: '[NVIDIA / CNBC]'
 url_original: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
 url_canonical: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-11_061404_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: 8e14015d506155519955ed4095efe095a0a34337c97a9624c9e77ca2a850e926
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
-embedding_id: 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
+embedding_id: null
 event_name: ''
 ---
 

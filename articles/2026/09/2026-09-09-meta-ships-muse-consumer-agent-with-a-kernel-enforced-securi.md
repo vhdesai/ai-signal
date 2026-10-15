@@ -5,7 +5,7 @@ date: '2026-09-09'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-meta-muse-ai-agent-us-launch/
 url_canonical: https://www.techrepublic.com/article/news-meta-muse-ai-agent-us-launch/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: d563439291d844231691384b1e59cf825499fb82de7150008ea7c12597c87b06
 normalized_title_hash: 21263ccffb2ec867
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 related_article_ids: []
-embedding_id: 2026-09-09-meta-ships-muse-consumer-agent-with-a-kernel-enforced-securi
+embedding_id: null
 event_name: ''
 ---
 

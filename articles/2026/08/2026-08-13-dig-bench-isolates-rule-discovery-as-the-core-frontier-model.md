@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
 related_article_ids: []
-embedding_id: 2026-08-13-dig-bench-isolates-rule-discovery-as-the-core-frontier-model
+embedding_id: null
 event_name: ''
 ---
 

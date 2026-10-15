@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-anthropic-s-opus-4-6-readily-generates-explicit-content-desp
 related_article_ids: []
-embedding_id: 2026-08-21-anthropic-s-opus-4-6-reportedly-bypassed-sexual-content-safe
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-embedding_id: 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
+embedding_id: null
 event_name: ''
 ---
 

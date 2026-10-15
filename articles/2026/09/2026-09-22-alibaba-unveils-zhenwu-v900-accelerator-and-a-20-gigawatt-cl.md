@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
 related_article_ids: []
-embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl
+embedding_id: null
 event_name: ''
 ---
 

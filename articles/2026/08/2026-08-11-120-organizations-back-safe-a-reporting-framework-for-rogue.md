@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
 - 2026-08-11-120-organizations-back-safe-an-incident-reporting-framework
 - 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
-embedding_id: 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
+embedding_id: null
 event_name: ''
 ---
 

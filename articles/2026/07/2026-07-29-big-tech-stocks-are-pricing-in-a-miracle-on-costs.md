@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits-driv
-embedding_id: 2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs
+embedding_id: null
 event_name: ''
 ---
 

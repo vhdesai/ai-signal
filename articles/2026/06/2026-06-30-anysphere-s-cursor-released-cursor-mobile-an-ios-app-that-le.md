@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
-embedding_id: 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
+embedding_id: null
 event_name: ''
 ---
 

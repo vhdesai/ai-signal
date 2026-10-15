@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
 - 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
-embedding_id: 2026-09-05-alibaba-s-wan3-0-expands-its-ai-ambitions-could-shareholders
+embedding_id: null
 event_name: ''
 ---
 

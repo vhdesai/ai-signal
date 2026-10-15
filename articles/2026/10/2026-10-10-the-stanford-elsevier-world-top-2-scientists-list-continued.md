@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
 - 2026-10-02-stanford-china-s-ai-talent-pipeline-may-eclipse-the-us
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-embedding_id: 2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued
+embedding_id: null
 event_name: ''
 ---
 

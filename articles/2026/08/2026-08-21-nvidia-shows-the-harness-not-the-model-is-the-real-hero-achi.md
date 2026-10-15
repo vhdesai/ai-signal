@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 related_article_ids: []
-embedding_id: 2026-08-21-nvidia-shows-the-harness-not-the-model-is-the-real-hero-achi
+embedding_id: null
 event_name: ''
 ---
 

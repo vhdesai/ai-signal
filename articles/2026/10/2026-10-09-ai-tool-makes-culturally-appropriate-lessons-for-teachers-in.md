@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
-embedding_id: 2026-10-09-ai-tool-makes-culturally-appropriate-lessons-for-teachers-in
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 related_article_ids: []
-embedding_id: 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
+embedding_id: null
 event_name: ''
 ---
 

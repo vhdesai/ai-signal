@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 related_article_ids: []
-embedding_id: 2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron
+embedding_id: null
 event_name: ''
 ---
 

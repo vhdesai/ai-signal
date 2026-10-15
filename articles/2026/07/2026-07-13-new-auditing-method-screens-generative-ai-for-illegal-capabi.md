@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
-embedding_id: 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
+embedding_id: null
 event_name: ''
 ---
 

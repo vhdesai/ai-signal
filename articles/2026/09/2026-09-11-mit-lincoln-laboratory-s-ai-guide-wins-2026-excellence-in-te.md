@@ -6,7 +6,7 @@ date: '2026-09-11'
 source: MIT News
 url_original: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
 url_canonical: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060721_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: da4c79e568864854d30edf4b28c1ca80d2ebe273320164ec7be4cc2e5ff5286f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-embedding_id: 2026-09-11-mit-lincoln-laboratory-s-ai-guide-wins-2026-excellence-in-te
+embedding_id: null
 event_name: ''
 ---
 

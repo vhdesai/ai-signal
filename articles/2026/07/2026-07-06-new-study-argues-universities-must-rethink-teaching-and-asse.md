@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
-embedding_id: 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
+embedding_id: null
 event_name: ''
 ---
 

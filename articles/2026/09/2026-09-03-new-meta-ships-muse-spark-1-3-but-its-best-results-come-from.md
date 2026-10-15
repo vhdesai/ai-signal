@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
 - 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
-embedding_id: 2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from
+embedding_id: null
 event_name: ''
 ---
 

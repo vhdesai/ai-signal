@@ -6,7 +6,7 @@ date: '2026-09-20'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_061246_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: eec5887e637e53179a61d9e6aafef823a91c748b392c18c06b52547f41dbb9b6
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: 2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode
+embedding_id: null
 event_name: ''
 ---
 

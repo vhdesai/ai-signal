@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
-embedding_id: 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
+embedding_id: null
 event_name: ''
 ---
 

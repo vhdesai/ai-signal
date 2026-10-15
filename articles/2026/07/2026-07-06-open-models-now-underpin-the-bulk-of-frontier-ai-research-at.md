@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
-embedding_id: 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
+embedding_id: null
 event_name: ''
 ---
 

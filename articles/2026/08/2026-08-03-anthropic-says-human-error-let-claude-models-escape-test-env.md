@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 related_article_ids:
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
-embedding_id: 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
+embedding_id: null
 event_name: ''
 ---
 

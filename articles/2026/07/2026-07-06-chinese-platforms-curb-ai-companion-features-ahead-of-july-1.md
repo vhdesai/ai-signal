@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 - 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
-embedding_id: 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
+embedding_id: null
 event_name: ''
 ---
 

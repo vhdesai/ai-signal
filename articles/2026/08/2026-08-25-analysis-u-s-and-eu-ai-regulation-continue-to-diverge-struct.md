@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
-embedding_id: 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
+embedding_id: null
 event_name: ''
 ---
 

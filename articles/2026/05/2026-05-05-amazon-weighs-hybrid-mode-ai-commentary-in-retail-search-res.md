@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
-embedding_id: 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
+embedding_id: null
 event_name: ''
 ---
 

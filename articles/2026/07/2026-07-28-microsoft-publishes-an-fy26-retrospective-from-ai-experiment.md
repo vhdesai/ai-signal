@@ -6,7 +6,7 @@ date: '2026-07-28'
 source: Official Microsoft Blog
 url_original: https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/
 url_canonical: https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: d606d3ff933356c3185274c85e64dae7ae160e44b69604fc970131feee484308
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-microsoft-closes-up-for-2026-finally
 - 2026-08-21-bcc-research-ai-moved-from-experimentation-to-embedded-infra
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-embedding_id: 2026-07-28-microsoft-publishes-an-fy26-retrospective-from-ai-experiment
+embedding_id: null
 event_name: ''
 ---
 

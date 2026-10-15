@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
-embedding_id: 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
+embedding_id: null
 event_name: ''
 ---
 

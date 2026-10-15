@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a
 - 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
-embedding_id: 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
+embedding_id: null
 event_name: ''
 ---
 

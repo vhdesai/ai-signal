@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 - 2026-08-12-anthropic-courts-investors-ahead-of-a-potential-fall-ipo
-embedding_id: 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
+embedding_id: null
 event_name: ''
 ---
 

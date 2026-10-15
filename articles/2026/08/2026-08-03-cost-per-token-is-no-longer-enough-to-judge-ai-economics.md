@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-token-pricing-was-a-useful-early-metric-but-it-is-increasing
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 - 2026-06-15-new-foundation-tackles-enterprise-token-cost-management
-embedding_id: 2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics
+embedding_id: null
 event_name: ''
 ---
 

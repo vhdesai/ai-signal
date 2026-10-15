@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
-embedding_id: 2026-06-29-a-new-survey-contends-that-ai-agents-won-t-earn-the-coworker
+embedding_id: null
 event_name: ''
 ---
 

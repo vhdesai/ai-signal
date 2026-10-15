@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
-embedding_id: 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
+embedding_id: null
 event_name: ''
 ---
 

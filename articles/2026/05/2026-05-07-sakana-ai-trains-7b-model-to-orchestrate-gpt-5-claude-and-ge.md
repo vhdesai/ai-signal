@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe
 - 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
 - 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
-embedding_id: 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
+embedding_id: null
 event_name: ''
 ---
 

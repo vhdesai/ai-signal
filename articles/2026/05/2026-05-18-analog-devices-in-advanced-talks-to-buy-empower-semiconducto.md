@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
-embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
+embedding_id: null
 event_name: ''
 ---
 

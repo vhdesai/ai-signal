@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
-embedding_id: 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
+embedding_id: null
 event_name: ''
 ---
 

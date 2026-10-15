@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
-embedding_id: 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
+embedding_id: null
 event_name: ''
 ---
 

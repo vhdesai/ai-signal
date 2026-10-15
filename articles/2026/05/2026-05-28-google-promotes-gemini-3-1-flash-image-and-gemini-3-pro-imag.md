@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 - 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
-embedding_id: 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
+embedding_id: null
 event_name: ''
 ---
 

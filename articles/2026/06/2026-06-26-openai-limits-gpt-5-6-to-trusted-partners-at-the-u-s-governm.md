@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
 - 2026-06-27-openai-confirmed-it-is-limiting-gpt-5-6-sol-terra-luna-to-a
 - 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
-embedding_id: 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
+embedding_id: null
 event_name: ''
 ---
 

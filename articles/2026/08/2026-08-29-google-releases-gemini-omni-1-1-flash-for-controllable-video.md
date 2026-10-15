@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
-embedding_id: 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
+embedding_id: null
 event_name: ''
 ---
 

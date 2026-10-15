@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center
 - 2026-07-23-openai-unveils-project-camellia-a-30b-3-2-gw-data-center-cam
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-embedding_id: 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-14-nvidia-palantir-and-booz-allen-restrict-anthropic-model-use
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-embedding_id: 2026-09-14-exclusive-nvidia-palantir-and-booz-allen-restrict-anthropic
+embedding_id: null
 event_name: ''
 ---
 

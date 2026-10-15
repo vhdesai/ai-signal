@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
-embedding_id: 2026-08-02-ai-images-are-everywhere-here-s-what-they-do-to-our-brains
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 related_article_ids: []
-embedding_id: 2026-09-18-nvidia-backed-nscale-files-for-a-new-york-listing-revealing
+embedding_id: null
 event_name: ''
 ---
 

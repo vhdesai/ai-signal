@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
 - 2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-embedding_id: 2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g
+embedding_id: null
 event_name: ''
 ---
 

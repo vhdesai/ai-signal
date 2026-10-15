@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-embedding_id: 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
+embedding_id: null
 event_name: ''
 ---
 

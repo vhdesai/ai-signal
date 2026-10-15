@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
 related_article_ids: []
-embedding_id: 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
+embedding_id: null
 event_name: ''
 ---
 

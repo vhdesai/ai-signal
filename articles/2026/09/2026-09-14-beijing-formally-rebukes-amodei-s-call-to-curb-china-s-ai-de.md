@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
-embedding_id: 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
+embedding_id: null
 event_name: ''
 ---
 

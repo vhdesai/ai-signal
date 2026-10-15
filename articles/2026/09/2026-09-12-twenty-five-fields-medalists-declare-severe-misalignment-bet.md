@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 - 2026-08-01-fields-medal-mathematician-joins-openai-citing-ai-existentia
-embedding_id: 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
+embedding_id: null
 event_name: ''
 ---
 

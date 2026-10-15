@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
-embedding_id: 2026-09-17-senate-blocks-data-center-ratepayer-bill-a-day-after-417-3-h
+embedding_id: null
 event_name: ''
 ---
 

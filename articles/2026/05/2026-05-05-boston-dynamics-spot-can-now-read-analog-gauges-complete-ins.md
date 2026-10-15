@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-embedding_id: 2026-05-05-boston-dynamics-spot-can-now-read-analog-gauges-complete-ins
+embedding_id: null
 event_name: ''
 ---
 

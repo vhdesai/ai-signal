@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
-embedding_id: 2026-04-06-google-deepmind-researchers-published-a-significant-security
+embedding_id: null
 event_name: ''
 ---
 

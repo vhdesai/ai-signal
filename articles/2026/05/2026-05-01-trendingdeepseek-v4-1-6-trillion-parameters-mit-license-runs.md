@@ -30,7 +30,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 related_article_ids: []
-embedding_id: 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-claude-code-adds-cross-session-messaging-for-parallel-agent
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 - 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
-embedding_id: 2026-09-19-unity-ships-first-party-plugins-for-claude-code-and-openai-c
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
 url_canonical: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 3e1a6b7cdba013406b76058b94d161119dbe97767c381a3c0522ade5fc1f8944
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
-embedding_id: 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
+embedding_id: null
 event_name: ''
 ---
 

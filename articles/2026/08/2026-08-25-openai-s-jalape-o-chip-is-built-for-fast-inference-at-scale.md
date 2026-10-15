@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 related_article_ids:
 - 2026-08-25-openai-s-jalape-o-chip-outperforms-nvidia-blackwell-on-infer
-embedding_id: 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
+embedding_id: null
 event_name: ''
 ---
 

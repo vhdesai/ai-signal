@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/
 url_canonical: https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_060610_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: 25d2a3b2a18658df25db6a41980ff07d3f6a923de967558fe225290266659cf5
@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 related_article_ids: []
-embedding_id: 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
 related_article_ids: []
-embedding_id: 2026-08-28-openai-to-wind-down-cursor-s-model-access-following-spacex-a
+embedding_id: null
 event_name: ''
 ---
 

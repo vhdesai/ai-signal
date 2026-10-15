@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
-embedding_id: 2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o
+embedding_id: null
 event_name: ''
 ---
 

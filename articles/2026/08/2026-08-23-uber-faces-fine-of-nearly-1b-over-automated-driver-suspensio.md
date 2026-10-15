@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
 - 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
-embedding_id: 2026-08-23-uber-faces-fine-of-nearly-1b-over-automated-driver-suspensio
+embedding_id: null
 event_name: ''
 ---
 

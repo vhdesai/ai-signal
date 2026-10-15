@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 - 2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo
-embedding_id: 2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent
+embedding_id: null
 event_name: ''
 ---
 

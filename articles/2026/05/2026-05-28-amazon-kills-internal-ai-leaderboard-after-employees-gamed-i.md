@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 - 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 - 2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs
-embedding_id: 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
+embedding_id: null
 event_name: ''
 ---
 

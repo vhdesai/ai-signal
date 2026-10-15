@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
-embedding_id: 2026-10-01-yann-lecun-calls-dario-amodei-deluded-the-ai-safety-debate-s
+embedding_id: null
 event_name: ''
 ---
 

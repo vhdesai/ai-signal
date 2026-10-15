@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
-embedding_id: event-google-android-show-2026-google-android-show-2026-overview
+embedding_id: null
 event_name: Google Android Show 2026
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-18-openai-introduced-daybreak-a-cybersecurity-focused-initiativ
 - 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
-embedding_id: 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
+embedding_id: null
 event_name: ''
 ---
 

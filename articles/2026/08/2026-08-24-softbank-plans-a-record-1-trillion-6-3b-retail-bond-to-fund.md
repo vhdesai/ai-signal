@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 - 2026-09-21-softbank-launches-an-11b-bond-sale-to-fund-its-next-openai-t
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-embedding_id: 2026-08-24-softbank-plans-a-record-1-trillion-6-3b-retail-bond-to-fund
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 related_article_ids:
 - 2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale
-embedding_id: 2026-08-26-anthropic-signs-45b-compute-deal-with-nscale
+embedding_id: null
 event_name: ''
 ---
 

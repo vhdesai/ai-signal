@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-openai-says-astra-is-the-first-model-to-cross-its-critical-c
 - 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
-embedding_id: 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
+embedding_id: null
 event_name: ''
 ---
 

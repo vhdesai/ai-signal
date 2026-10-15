@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
-embedding_id: 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
+embedding_id: null
 event_name: ''
 ---
 

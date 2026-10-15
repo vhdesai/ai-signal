@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs-to-mit
 - 2026-08-26-bill-gates-proposes-a-robot-tax-and-human-reserved-job-categ
 - 2026-08-26-bill-gates-proposes-a-robot-tax-and-a-human-reserved-job-cat
-embedding_id: 2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs
+embedding_id: null
 event_name: ''
 ---
 

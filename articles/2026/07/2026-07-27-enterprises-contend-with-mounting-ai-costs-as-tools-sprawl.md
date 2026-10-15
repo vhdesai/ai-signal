@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/CIO-AI-costs-management/826116/
 url_canonical: https://www.ciodive.com/news/CIO-AI-costs-management/826116/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-27_065741_Final-Daily-AI-News-Digest.md
 content_hash: f2e8a45773f8b53a4425df062f3c7106637c578b3928b00b3eff3b9ba5b33d9d
 normalized_title_hash: 9c6ec334aa14b751
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 related_article_ids: []
-embedding_id: 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
+embedding_id: null
 event_name: ''
 ---
 

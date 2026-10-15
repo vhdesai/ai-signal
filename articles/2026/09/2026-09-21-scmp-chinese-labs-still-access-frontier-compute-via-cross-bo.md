@@ -6,7 +6,7 @@ date: '2026-09-21'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: c1bf1340d8932e4c7abffbcc5b72d0a810053e048c378606ee1ae72ff87e05e7
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-embedding_id: 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
+embedding_id: null
 event_name: ''
 ---
 

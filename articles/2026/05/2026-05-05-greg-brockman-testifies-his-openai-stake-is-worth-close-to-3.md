@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 - 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
-embedding_id: 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
+embedding_id: null
 event_name: ''
 ---
 

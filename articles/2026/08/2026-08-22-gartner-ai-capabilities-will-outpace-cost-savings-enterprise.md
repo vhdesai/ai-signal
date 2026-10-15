@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-embedding_id: 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
+embedding_id: null
 event_name: ''
 ---
 

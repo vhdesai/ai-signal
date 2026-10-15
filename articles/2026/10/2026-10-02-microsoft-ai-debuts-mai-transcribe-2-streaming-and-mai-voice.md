@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-01-microsoft-adds-streaming-transcription-and-two-speech-genera
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-embedding_id: 2026-10-02-microsoft-ai-debuts-mai-transcribe-2-streaming-and-mai-voice
+embedding_id: null
 event_name: ''
 ---
 

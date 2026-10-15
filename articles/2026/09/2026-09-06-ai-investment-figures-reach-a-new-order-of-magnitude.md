@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
 - 2026-09-05-wall-street-raises-the-bar-for-ai-stocks
-embedding_id: 2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up
 - 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
 - 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
-embedding_id: 2026-09-01-google-introduces-agentic-video-understanding-for-gemini
+embedding_id: null
 event_name: ''
 ---
 

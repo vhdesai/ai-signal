@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 related_article_ids: []
-embedding_id: 2026-09-10-deepseek-ships-v4-1-flash-and-retires-its-flagship-behind-it
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
-embedding_id: 2026-05-14-apple-publicly-opposes-parts-of-proposed-eu-ai-rules-macrumo
+embedding_id: null
 event_name: ''
 ---
 

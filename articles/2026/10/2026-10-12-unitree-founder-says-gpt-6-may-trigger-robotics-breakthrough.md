@@ -6,7 +6,7 @@ date: '2026-10-12'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: ed02f378c8736d8c586ce086a05d632ce5d5d07e8772e9af91b430c34e1e943a
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 - 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
-embedding_id: 2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough
+embedding_id: null
 event_name: ''
 ---
 

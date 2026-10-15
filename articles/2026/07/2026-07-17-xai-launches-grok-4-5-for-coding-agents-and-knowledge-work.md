@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 - 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 - 2026-08-12-xai-launches-grok-4-6-for-long-running-agents-grok-4-7-previ
-embedding_id: 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
+embedding_id: null
 event_name: ''
 ---
 

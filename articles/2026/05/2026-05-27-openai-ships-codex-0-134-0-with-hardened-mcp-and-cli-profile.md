@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
-embedding_id: 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
+embedding_id: null
 event_name: ''
 ---
 

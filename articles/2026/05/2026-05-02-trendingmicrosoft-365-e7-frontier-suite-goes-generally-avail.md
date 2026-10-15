@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 related_article_ids: []
-embedding_id: 2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail
+embedding_id: null
 event_name: ''
 ---
 

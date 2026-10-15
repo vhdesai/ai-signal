@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea
 related_article_ids: []
-embedding_id: 2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 - 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
-embedding_id: 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - 2026-08-12-amazon-confirms-training-ai-on-twitch-livestreams-users-opte
 - 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
-embedding_id: 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
 related_article_ids: []
-embedding_id: 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
+embedding_id: null
 event_name: ''
 ---
 

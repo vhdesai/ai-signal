@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 - 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
-embedding_id: 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
+embedding_id: null
 event_name: ''
 ---
 

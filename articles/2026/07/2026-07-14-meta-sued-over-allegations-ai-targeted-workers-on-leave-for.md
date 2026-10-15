@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-embedding_id: 2026-07-14-meta-sued-over-allegations-ai-targeted-workers-on-leave-for
+embedding_id: null
 event_name: ''
 ---
 

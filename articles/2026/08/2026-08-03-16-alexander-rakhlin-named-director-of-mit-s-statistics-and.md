@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: MIT News · Read article →
 url_original: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
 url_canonical: https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 2c5f6f5538fbd0c6daaf08163a40b04ef03db390baa4db88baa14651a4f16b59
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
-embedding_id: 2026-08-03-16-alexander-rakhlin-named-director-of-mit-s-statistics-and
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 related_article_ids: []
-embedding_id: 2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o
+embedding_id: null
 event_name: ''
 ---
 

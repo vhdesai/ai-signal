@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20
 - 2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa
 - 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
-embedding_id: 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 - 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
-embedding_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
+embedding_id: null
 event_name: ''
 ---
 

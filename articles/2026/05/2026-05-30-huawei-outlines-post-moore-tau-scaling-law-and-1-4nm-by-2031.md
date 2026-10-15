@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: AI Magazine*
 url_original: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
 url_canonical: https://aimagazine.com/news/top-five-stories-in-ai-may-30-2026
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 5fca20f6c0d04ab1f4b8ed23a862cc8c85561d3631bc4b46d379843bc7360d18
 normalized_title_hash: fd49100368a86062
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
+embedding_id: null
 event_name: ''
 ---
 

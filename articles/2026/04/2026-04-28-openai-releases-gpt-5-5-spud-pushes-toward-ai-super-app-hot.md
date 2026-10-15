@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-22-openai-s-gpt-5-5-family-codenamed-spud-now-includes-multiple
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-embedding_id: 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
+embedding_id: null
 event_name: ''
 ---
 

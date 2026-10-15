@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 - 2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut
-embedding_id: 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
+embedding_id: null
 event_name: ''
 ---
 

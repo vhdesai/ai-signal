@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b
 - 2026-08-22-nvidia-denies-it-will-ship-a-china-specific-ai-chip-by-year
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-embedding_id: 2026-08-20-nvidia-plots-china-comeback-with-new-ai-chip
+embedding_id: null
 event_name: ''
 ---
 

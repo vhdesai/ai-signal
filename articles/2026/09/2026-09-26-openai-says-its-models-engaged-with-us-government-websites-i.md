@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
-embedding_id: 2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i
+embedding_id: null
 event_name: ''
 ---
 

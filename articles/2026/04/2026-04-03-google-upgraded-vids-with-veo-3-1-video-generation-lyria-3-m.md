@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app
 - 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
 - 2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a
-embedding_id: 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
+embedding_id: null
 event_name: ''
 ---
 

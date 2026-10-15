@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
 - 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
-embedding_id: 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni
 - 2026-09-20-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking
 - 2026-08-31-meeting-notetaker-circleback-adds-a-free-tier-to-attract-mor
-embedding_id: 2026-08-27-plaud-launches-ai-note-taking-earphones-with-esim-enabled-ca
+embedding_id: null
 event_name: ''
 ---
 

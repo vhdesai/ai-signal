@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
-embedding_id: 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
+embedding_id: null
 event_name: ''
 ---
 

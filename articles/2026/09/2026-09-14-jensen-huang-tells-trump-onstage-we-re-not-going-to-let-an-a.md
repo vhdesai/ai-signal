@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
 - 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-embedding_id: 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
+embedding_id: null
 event_name: ''
 ---
 

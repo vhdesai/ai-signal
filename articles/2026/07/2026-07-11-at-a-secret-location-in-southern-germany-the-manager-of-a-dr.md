@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
-embedding_id: 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
+embedding_id: null
 event_name: ''
 ---
 

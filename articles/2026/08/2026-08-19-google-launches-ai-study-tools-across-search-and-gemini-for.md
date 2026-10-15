@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe
-embedding_id: 2026-08-19-google-launches-ai-study-tools-across-search-and-gemini-for
+embedding_id: null
 event_name: ''
 ---
 

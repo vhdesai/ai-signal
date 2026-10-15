@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 - 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
-embedding_id: 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
+embedding_id: null
 event_name: ''
 ---
 

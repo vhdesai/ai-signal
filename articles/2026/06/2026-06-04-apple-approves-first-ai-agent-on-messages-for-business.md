@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
 - 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 - 2026-09-18-meta-muse-launches-for-iphone-and-mac-muse-and-rival-instinc
-embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
+embedding_id: null
 event_name: ''
 ---
 

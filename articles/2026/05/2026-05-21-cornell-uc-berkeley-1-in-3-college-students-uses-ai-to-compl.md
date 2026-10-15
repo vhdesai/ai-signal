@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
-embedding_id: 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
+embedding_id: null
 event_name: ''
 ---
 

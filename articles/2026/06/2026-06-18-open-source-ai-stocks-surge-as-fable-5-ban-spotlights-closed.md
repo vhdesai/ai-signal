@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 - 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-the-leading-open-weights-model
-embedding_id: 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
+embedding_id: null
 event_name: ''
 ---
 

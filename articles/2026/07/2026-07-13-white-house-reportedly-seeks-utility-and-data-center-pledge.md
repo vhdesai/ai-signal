@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
+embedding_id: null
 event_name: ''
 ---
 

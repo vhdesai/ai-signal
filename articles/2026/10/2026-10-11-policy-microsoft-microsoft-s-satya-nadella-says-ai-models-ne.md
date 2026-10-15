@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 - 2026-09-23-microsoft-s-brad-smith-endorses-a-mandated-ai-emergency-brak
-embedding_id: 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
+embedding_id: null
 event_name: ''
 ---
 

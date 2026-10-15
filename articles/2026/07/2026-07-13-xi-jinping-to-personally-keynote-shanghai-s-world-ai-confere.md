@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-read-at-reuters-via-u-s-news
 - 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
-embedding_id: 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
+embedding_id: null
 event_name: ''
 ---
 

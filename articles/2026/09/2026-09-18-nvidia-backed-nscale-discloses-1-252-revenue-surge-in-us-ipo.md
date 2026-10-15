@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 - 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
-embedding_id: 2026-09-18-nvidia-backed-nscale-discloses-1-252-revenue-surge-in-us-ipo
+embedding_id: null
 event_name: ''
 ---
 

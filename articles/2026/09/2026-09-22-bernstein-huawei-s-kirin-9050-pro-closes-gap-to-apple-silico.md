@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: c327ad7873611bbf29ad7441bad4f1e2461fb6b5b9e563670879fe4063393f2f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 - 2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er
-embedding_id: 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion
 related_article_ids: []
-embedding_id: 2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n
+embedding_id: null
 event_name: ''
 ---
 

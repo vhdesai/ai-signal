@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-embedding_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
+embedding_id: null
 event_name: ''
 ---
 

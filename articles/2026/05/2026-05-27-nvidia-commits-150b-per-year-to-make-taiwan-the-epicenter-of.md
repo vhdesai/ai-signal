@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-embedding_id: 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
+embedding_id: null
 event_name: ''
 ---
 

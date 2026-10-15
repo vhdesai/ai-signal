@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
 - 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-embedding_id: 2026-07-23-ai-insurance-startup-corgi-reportedly-raises-at-4b-its-third
+embedding_id: null
 event_name: ''
 ---
 

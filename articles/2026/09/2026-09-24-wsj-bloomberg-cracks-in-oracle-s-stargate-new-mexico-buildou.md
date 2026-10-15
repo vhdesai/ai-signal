@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 - 2026-09-25-oracle-issues-force-majeure-notice-on-project-jupiter-openai
-embedding_id: 2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou
+embedding_id: null
 event_name: ''
 ---
 

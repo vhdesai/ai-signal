@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-servicenow-acquires-israeli-agentic-crm-startup-sweep
 related_article_ids: []
-embedding_id: 2026-09-04-servicenow-buys-sweep-to-expand-agentic-crm-workflows
+embedding_id: null
 event_name: ''
 ---
 

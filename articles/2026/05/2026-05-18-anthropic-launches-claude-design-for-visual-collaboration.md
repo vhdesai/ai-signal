@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-embedding_id: 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
+embedding_id: null
 event_name: ''
 ---
 

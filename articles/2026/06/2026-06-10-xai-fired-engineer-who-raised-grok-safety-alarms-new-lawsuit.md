@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
 related_article_ids: []
-embedding_id: 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-new-lawsuit
+embedding_id: null
 event_name: ''
 ---
 

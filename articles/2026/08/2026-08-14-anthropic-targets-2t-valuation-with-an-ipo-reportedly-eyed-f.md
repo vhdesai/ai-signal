@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 related_article_ids: []
-embedding_id: 2026-08-14-anthropic-targets-2t-valuation-with-an-ipo-reportedly-eyed-f
+embedding_id: null
 event_name: ''
 ---
 

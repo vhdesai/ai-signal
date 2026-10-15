@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal
 - 2026-08-17-daily-ai-news-digest-august-18-2026
 - 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
-embedding_id: 2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m
+embedding_id: null
 event_name: ''
 ---
 

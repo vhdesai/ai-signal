@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across
 - 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: 2026-06-26-this-preprint-argues-that-standard-benchmarks-substantially
+embedding_id: null
 event_name: ''
 ---
 

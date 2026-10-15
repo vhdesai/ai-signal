@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: Peerlist
 url_original: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
 url_canonical: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 98c7bf02410db93c22473fab4777ee7d214fe92a29f6e336745456750546aee4
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-27-
 - 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 - 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
-embedding_id: 2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models
+embedding_id: null
 event_name: ''
 ---
 

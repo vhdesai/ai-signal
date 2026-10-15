@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-embedding_id: 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
+embedding_id: null
 event_name: ''
 ---
 

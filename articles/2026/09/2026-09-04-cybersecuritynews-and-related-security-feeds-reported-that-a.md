@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
-embedding_id: 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
+embedding_id: null
 event_name: ''
 ---
 

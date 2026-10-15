@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-04-daily-ai-news-digest-september-5-2026
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 - 2026-07-12-july-13-2026
-embedding_id: 2026-05-19-vik-desai-corp-dev-microsoft
+embedding_id: null
 event_name: ''
 ---
 

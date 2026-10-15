@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 - 2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued
-embedding_id: 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
+embedding_id: null
 event_name: ''
 ---
 

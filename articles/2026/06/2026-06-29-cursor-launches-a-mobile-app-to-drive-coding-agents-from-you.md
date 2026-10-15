@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
-embedding_id: 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
+embedding_id: null
 event_name: ''
 ---
 

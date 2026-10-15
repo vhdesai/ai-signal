@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
-embedding_id: 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
+embedding_id: null
 event_name: ''
 ---
 

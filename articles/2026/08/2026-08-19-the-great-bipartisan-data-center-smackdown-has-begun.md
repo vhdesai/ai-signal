@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui
-embedding_id: 2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun
+embedding_id: null
 event_name: ''
 ---
 

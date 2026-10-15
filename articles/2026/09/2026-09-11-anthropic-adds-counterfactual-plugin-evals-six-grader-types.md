@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: 2026-09-11-anthropic-adds-counterfactual-plugin-evals-six-grader-types
+embedding_id: null
 event_name: ''
 ---
 

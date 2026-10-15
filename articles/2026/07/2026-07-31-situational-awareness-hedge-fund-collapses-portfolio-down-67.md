@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
 related_article_ids: []
-embedding_id: 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
+embedding_id: null
 event_name: ''
 ---
 

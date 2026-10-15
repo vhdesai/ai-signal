@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
-embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
+embedding_id: null
 event_name: ''
 ---
 

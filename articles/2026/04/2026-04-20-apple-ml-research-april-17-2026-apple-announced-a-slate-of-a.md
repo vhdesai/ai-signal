@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 - 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-embedding_id: 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
+embedding_id: null
 event_name: ''
 ---
 

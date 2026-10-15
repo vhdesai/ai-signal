@@ -27,7 +27,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
+embedding_id: null
 event_name: Apple WWDC 2026 Preview
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
 related_article_ids:
 - 2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over
-embedding_id: 2026-08-29-sony-music-publishing-and-warner-chappell-sue-anthropic-over
+embedding_id: null
 event_name: ''
 ---
 

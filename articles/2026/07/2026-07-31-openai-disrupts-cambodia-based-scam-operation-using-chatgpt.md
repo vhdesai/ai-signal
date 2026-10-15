@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
-embedding_id: 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
+embedding_id: null
 event_name: ''
 ---
 

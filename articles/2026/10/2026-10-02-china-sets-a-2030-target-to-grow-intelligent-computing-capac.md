@@ -5,7 +5,7 @@ date: '2026-10-02'
 source: South China Morning Post
 url_original: https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation
 url_canonical: https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: 1425514a0580010db60a8e93cf52a71dca00fe5eeb34496396494f6a9234febc
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
-embedding_id: 2026-10-02-china-sets-a-2030-target-to-grow-intelligent-computing-capac
+embedding_id: null
 event_name: ''
 ---
 

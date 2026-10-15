@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-beating-the
 related_article_ids: []
-embedding_id: 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa
+embedding_id: null
 event_name: ''
 ---
 

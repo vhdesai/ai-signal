@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe
 - 2026-10-09-apple-acqui-hires-huxe-founded-by-former-notebooklm-develope
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
-embedding_id: 2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover
+embedding_id: null
 event_name: ''
 ---
 

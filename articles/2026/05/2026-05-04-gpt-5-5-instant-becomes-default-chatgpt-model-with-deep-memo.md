@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index
-embedding_id: 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
+embedding_id: null
 event_name: ''
 ---
 

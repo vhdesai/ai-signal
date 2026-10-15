@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 - 2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof
-embedding_id: 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
+embedding_id: null
 event_name: ''
 ---
 

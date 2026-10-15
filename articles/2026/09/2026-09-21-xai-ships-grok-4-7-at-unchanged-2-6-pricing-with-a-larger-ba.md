@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/
 url_canonical: https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_062352_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: d265553a3c646b07f65664317344aabdfbf52aec3a4ae9a2986035d8d84d74e2
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-grok-4-7-ships-at-2-6-pricing-but-real-cost-per-task-runs-2
 related_article_ids: []
-embedding_id: 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
+embedding_id: null
 event_name: ''
 ---
 

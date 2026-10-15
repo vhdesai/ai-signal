@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-embedding_id: 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
+embedding_id: null
 event_name: ''
 ---
 

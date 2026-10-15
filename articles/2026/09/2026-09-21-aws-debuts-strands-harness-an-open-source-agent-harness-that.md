@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
-embedding_id: 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
+embedding_id: null
 event_name: ''
 ---
 

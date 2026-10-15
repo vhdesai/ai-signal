@@ -1,17 +1,21 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4896
+member_count: 4900
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4896 connected article(s).
+> Auto-generated topic hub. 4900 connected article(s).
 
 - `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
 - `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
+- `2026-10-14` [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove|IBM survey points to a gap between agent deployment and governance]]
+- `2026-10-14` [[2026-10-14-google-outlines-research-applications-across-science-and-hea|Google outlines research applications across science and healthcare]]
 - `2026-10-14` [[2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect|Google DeepMind and Singapore build on-device AI scam detection for private chats]]
 - `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
+- `2026-10-14` [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering|Apple bets on AI to strengthen its smart-home offering]]
+- `2026-10-14` [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b|Anthropic tells prospective investors revenue reached $16.8 billion]]
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
 - `2026-10-13` [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine|Workday and Anthropic partner to connect reasoning to business rules]]
 - `2026-10-13` [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as|Workday and Anthropic connect reasoning to business rules as finance autopilots arrive]]
@@ -21,11 +25,11 @@ member_count: 4896
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
 - `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]
+- `2026-10-13` [[2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public|Independent AI review fight turns on what gets made public]]
 - `2026-10-13` [[2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead|Huawei narrows Nvidia’s China AI-chip shipment lead]]
 - `2026-10-13` [[2026-10-13-google-play-now-supports-private-vibe-coded-android-apps|Google Play now supports private, vibe-coded Android apps]]
 - `2026-10-13` [[2026-10-13-facebook-gives-users-more-ai-powered-control-over-their-algo|Facebook gives users more AI-powered control over their algorithm]]
 - `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
-- `2026-10-13` [[2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat|Chinese firms bought more than 1M Nvidia gaming and workstation chips to work around export controls]]
 - `2026-10-13` [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch|Character.AI files for bankruptcy five years after launch]]
 - `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
 - `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]

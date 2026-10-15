@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
-embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
+embedding_id: null
 event_name: Google Cloud Next 2026
 ---
 

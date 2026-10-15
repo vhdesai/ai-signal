@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin
 - 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
-embedding_id: 2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin
+embedding_id: null
 event_name: ''
 ---
 

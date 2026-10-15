@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-embedding_id: 2026-07-18-index-ventures-co-founder-warns-ai-wealth-may-be-redistribut
+embedding_id: null
 event_name: ''
 ---
 

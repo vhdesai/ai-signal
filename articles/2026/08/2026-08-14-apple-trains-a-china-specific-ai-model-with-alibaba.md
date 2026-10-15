@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
 related_article_ids: []
-embedding_id: 2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba
+embedding_id: null
 event_name: ''
 ---
 

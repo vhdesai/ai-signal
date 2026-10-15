@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
-embedding_id: 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
+embedding_id: null
 event_name: ''
 ---
 

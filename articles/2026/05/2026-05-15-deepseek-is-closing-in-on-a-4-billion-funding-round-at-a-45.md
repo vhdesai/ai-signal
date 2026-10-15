@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
-embedding_id: 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
+embedding_id: null
 event_name: ''
 ---
 

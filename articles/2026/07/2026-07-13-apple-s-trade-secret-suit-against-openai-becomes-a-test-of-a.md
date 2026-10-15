@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
 - 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-embedding_id: 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
+embedding_id: null
 event_name: ''
 ---
 

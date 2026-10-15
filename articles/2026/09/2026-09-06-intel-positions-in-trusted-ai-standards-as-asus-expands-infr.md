@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-embedding_id: 2026-09-06-intel-positions-in-trusted-ai-standards-as-asus-expands-infr
+embedding_id: null
 event_name: ''
 ---
 

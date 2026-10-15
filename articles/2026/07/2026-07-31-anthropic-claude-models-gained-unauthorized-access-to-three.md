@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 - 2026-07-31-anthropic-discloses-claude-reached-three-real-companies-syst
-embedding_id: 2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three
+embedding_id: null
 event_name: ''
 ---
 

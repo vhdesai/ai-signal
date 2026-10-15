@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
-embedding_id: 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
+embedding_id: null
 event_name: ''
 ---
 

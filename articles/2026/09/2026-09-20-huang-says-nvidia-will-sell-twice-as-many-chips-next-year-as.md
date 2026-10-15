@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 - 2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year
 - 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
-embedding_id: 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda
 - 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
-embedding_id: 2026-08-21-deepseek-launches-experimental-multimodal-model-v4-flash-vis
+embedding_id: null
 event_name: ''
 ---
 

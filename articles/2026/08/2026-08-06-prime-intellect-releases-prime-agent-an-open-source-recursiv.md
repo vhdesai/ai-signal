@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
 url_canonical: https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 384ec5d13cc73ddc22d938e93f76bf30ea7536ce0cf76e0b351b287a1ea2e90c
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
 related_article_ids: []
-embedding_id: 2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv
+embedding_id: null
 event_name: ''
 ---
 

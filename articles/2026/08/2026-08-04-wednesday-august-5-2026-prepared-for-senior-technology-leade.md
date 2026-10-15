@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-12-saturday-september-12-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-embedding_id: 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
+embedding_id: null
 event_name: ''
 ---
 

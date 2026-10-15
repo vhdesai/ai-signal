@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
 related_article_ids: []
-embedding_id: 2026-09-03-g20-endorses-us-backed-carolina-principles-for-sector-based
+embedding_id: null
 event_name: ''
 ---
 

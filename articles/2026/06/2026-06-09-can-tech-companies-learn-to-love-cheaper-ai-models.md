@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-embedding_id: 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
+embedding_id: null
 event_name: ''
 ---
 

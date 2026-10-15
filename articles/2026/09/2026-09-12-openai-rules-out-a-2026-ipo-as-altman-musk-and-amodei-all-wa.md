@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 related_article_ids: []
-embedding_id: 2026-09-12-openai-rules-out-a-2026-ipo-as-altman-musk-and-amodei-all-wa
+embedding_id: null
 event_name: ''
 ---
 

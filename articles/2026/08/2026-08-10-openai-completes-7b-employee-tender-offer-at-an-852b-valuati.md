@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 related_article_ids: []
-embedding_id: 2026-08-10-openai-completes-7b-employee-tender-offer-at-an-852b-valuati
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-deepseek-is-developing-its-own-ai-inference-chip
 - 2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente
 - 2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training
-embedding_id: 2026-07-07-deepseek-accelerates-custom-chip-efforts
+embedding_id: null
 event_name: ''
 ---
 

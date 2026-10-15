@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
 related_article_ids: []
-embedding_id: 2026-09-03-new-allen-institute-university-of-washington-and-fred-hutch
+embedding_id: null
 event_name: ''
 ---
 

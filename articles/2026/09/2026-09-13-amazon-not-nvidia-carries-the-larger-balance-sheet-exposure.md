@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
 - 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
 - 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
-embedding_id: 2026-09-13-amazon-not-nvidia-carries-the-larger-balance-sheet-exposure
+embedding_id: null
 event_name: ''
 ---
 

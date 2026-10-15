@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-google-nears-gemini-4-release-deepmind-chief-says-much-earli
 related_article_ids: []
-embedding_id: 2026-09-24-google-nears-release-of-flagship-gemini-4-deepmind-chief-say
+embedding_id: null
 event_name: ''
 ---
 

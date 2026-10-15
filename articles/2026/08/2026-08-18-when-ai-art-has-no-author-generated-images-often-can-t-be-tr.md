@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-mit-ai-generated-images-often-can-t-be-traced-back-to-traini
 related_article_ids: []
-embedding_id: 2026-08-18-when-ai-art-has-no-author-generated-images-often-can-t-be-tr
+embedding_id: null
 event_name: ''
 ---
 

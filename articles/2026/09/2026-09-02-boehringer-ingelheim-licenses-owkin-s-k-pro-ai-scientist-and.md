@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 - 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
-embedding_id: 2026-09-02-boehringer-ingelheim-licenses-owkin-s-k-pro-ai-scientist-and
+embedding_id: null
 event_name: ''
 ---
 

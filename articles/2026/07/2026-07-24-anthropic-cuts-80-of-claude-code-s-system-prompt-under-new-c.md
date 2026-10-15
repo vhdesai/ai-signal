@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 - 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default
-embedding_id: 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 - 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
-embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
+embedding_id: null
 event_name: ''
 ---
 

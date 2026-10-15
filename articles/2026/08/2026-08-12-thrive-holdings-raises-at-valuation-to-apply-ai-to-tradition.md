@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-12-thrive-holdings-raises-2b-at-12b-valuation-to-apply-ai-to-tr
 related_article_ids:
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-embedding_id: 2026-08-12-thrive-holdings-raises-at-valuation-to-apply-ai-to-tradition
+embedding_id: null
 event_name: ''
 ---
 

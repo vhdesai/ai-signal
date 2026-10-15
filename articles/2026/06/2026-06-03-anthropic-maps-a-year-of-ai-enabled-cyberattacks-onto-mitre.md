@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla
-embedding_id: 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
+embedding_id: null
 event_name: ''
 ---
 

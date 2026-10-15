@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
-embedding_id: 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
+embedding_id: null
 event_name: ''
 ---
 

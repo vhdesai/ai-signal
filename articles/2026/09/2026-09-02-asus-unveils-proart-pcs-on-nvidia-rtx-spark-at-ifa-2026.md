@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
-embedding_id: 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
+embedding_id: null
 event_name: ''
 ---
 

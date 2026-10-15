@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: HPCwire
 url_original: https://www.hpcwire.com/aiwire/
 url_canonical: https://www.hpcwire.com/aiwire/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 072f13fb5589c59683f5dbe83509aacc1c576e194f8d6801163cea34617c0de6
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
-embedding_id: 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
+embedding_id: null
 event_name: ''
 ---
 

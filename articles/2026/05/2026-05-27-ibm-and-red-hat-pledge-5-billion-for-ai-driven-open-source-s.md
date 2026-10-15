@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
-embedding_id: 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-commerce-department-reportedly-ordered-kalshi-to-pull-its-ai
 - 2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni
 - 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-embedding_id: 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
+embedding_id: null
 event_name: ''
 ---
 

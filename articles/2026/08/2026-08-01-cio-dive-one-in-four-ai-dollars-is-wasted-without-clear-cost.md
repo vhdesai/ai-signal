@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 related_article_ids: []
-embedding_id: 2026-08-01-cio-dive-one-in-four-ai-dollars-is-wasted-without-clear-cost
+embedding_id: null
 event_name: ''
 ---
 

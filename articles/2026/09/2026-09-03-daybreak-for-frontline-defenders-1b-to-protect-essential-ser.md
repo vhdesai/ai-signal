@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p
 - 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
 - 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
-embedding_id: 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
+embedding_id: null
 event_name: ''
 ---
 

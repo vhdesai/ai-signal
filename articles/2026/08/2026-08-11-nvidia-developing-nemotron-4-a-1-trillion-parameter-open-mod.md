@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
-embedding_id: 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: MIT News
 url_original: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
 url_canonical: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-28_065356_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: ed2bca692d8c7cf5bd8836a49b6283efc93822306df708c1524566f4f21621c7
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
 related_article_ids: []
-embedding_id: 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
+embedding_id: null
 event_name: ''
 ---
 

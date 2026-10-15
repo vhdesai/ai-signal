@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-teachers-split-on-openai-s-chatgpt-for-teens
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
-embedding_id: 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
+embedding_id: null
 event_name: ''
 ---
 

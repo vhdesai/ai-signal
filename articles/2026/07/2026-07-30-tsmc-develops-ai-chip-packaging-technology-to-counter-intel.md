@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 - 2026-07-20-tsmc-accelerates-arizona-buildout-to-capture-the-ai-megatren
-embedding_id: 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
+embedding_id: null
 event_name: ''
 ---
 

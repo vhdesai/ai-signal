@@ -27,7 +27,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-sharpening-its-data-center-challenge
-embedding_id: 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
+embedding_id: null
 event_name: ''
 ---
 

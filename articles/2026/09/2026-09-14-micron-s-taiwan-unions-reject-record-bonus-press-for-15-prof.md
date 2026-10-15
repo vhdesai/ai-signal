@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-embedding_id: 2026-09-14-micron-s-taiwan-unions-reject-record-bonus-press-for-15-prof
+embedding_id: null
 event_name: ''
 ---
 

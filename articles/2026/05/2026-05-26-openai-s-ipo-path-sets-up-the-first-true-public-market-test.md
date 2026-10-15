@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-embedding_id: 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
+embedding_id: null
 event_name: ''
 ---
 

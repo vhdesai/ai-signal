@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
 - 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
-embedding_id: 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
+embedding_id: null
 event_name: ''
 ---
 

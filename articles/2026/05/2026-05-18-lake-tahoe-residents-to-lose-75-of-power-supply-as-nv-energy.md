@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 - 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers
-embedding_id: 2026-05-18-lake-tahoe-residents-to-lose-75-of-power-supply-as-nv-energy
+embedding_id: null
 event_name: ''
 ---
 

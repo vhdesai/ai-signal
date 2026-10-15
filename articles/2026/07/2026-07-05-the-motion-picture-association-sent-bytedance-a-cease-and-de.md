@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
-embedding_id: 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
+embedding_id: null
 event_name: ''
 ---
 

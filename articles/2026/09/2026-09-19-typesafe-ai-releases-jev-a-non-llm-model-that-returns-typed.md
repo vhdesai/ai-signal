@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
 url_canonical: https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_065604_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: 137b678383be4179b02102dbae6db041b25385c154f7328bd39990f73e456a1a
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
 related_article_ids: []
-embedding_id: 2026-09-19-typesafe-ai-releases-jev-a-non-llm-model-that-returns-typed
+embedding_id: null
 event_name: ''
 ---
 

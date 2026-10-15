@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
-embedding_id: 2026-08-03-supabase-s-benchmark-matters-because-it-evaluates-coding-age
+embedding_id: null
 event_name: ''
 ---
 

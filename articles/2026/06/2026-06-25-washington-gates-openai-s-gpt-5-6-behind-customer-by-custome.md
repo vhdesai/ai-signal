@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-embedding_id: 2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome
+embedding_id: null
 event_name: ''
 ---
 

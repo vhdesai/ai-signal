@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 - 2026-09-03-meta-releases-muse-spark-1-3-with-20-fewer-tool-calls-and-25
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
-embedding_id: 2026-09-03-meta-offers-95-token-discounts-to-users-who-share-muse-spark
+embedding_id: null
 event_name: ''
 ---
 

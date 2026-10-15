@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
 - 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
-embedding_id: 2026-07-07-north-american-vc-hits-392b-in-h1-2026
+embedding_id: null
 event_name: ''
 ---
 

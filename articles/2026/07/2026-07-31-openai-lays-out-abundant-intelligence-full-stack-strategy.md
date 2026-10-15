@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
-embedding_id: 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
+embedding_id: null
 event_name: ''
 ---
 

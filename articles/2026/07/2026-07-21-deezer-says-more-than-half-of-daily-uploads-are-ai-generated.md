@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
-embedding_id: 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
+embedding_id: null
 event_name: ''
 ---
 

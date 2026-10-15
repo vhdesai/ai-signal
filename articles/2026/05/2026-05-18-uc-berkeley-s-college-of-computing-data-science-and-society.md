@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
+embedding_id: null
 event_name: ''
 ---
 

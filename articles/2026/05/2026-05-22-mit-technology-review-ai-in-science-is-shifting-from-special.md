@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
-embedding_id: 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+embedding_id: null
 event_name: ''
 ---
 

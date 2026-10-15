@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open
 related_article_ids: []
-embedding_id: 2026-07-16-thinking-machines-releases-inkling-a-975b-parameter-open-wei
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-09-22-the-information-cftc-extends-review-of-cme-s-nvidia-gpu-rent
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
-embedding_id: 2026-10-10-reported-nvidia-reflection-ai-talks-remain-unconfirmed-but-s
+embedding_id: null
 event_name: ''
 ---
 

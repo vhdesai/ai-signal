@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 related_article_ids: []
-embedding_id: 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+embedding_id: null
 event_name: ''
 ---
 

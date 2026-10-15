@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/
 url_canonical: https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: ea32bd474e20fe717066a4af459eb7d638d3b6170ec8d4460ab3d32683002e4f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 - 2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c
-embedding_id: 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
+embedding_id: null
 event_name: ''
 ---
 

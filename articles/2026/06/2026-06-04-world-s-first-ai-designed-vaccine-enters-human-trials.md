@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria
 related_article_ids: []
-embedding_id: 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-trials
+embedding_id: null
 event_name: ''
 ---
 

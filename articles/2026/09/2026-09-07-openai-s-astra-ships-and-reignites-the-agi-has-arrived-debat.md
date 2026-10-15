@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
 - 2026-03-24-in-a-monday-episode-of-the-lex-fridman-podcast-nvidia-ceo-je
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-embedding_id: 2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat
+embedding_id: null
 event_name: ''
 ---
 

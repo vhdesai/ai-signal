@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 - 2026-09-20-u-s-proposes-ai-incident-notification-mechanism-with-china-a
-embedding_id: 2026-09-22-u-s-and-china-weigh-an-ai-red-telephone-ahead-of-the-trump-x
+embedding_id: null
 event_name: ''
 ---
 

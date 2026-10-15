@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-embedding_id: 2026-07-15-openai-launches-a-230-physical-keyboard-for-codex-power-user
+embedding_id: null
 event_name: ''
 ---
 

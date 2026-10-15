@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Missouri Independent
 url_original: https://missouriindependent.com/2026/05/13/missouri-ai-regulations-founder-in-house-committee-despite-white-house-go-ahead/
 url_canonical: https://missouriindependent.com/2026/05/13/missouri-ai-regulations-founder-in-house-committee-despite-white-house-go-ahead/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: be55b0d2fdba8edf9c381c8ccb269febae03ec95c459c1a513b52ee0a788b717
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
-embedding_id: 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a
 related_article_ids: []
-embedding_id: 2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a
+embedding_id: null
 event_name: ''
 ---
 

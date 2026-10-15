@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
 - 2026-08-12-anthropic-s-new-text-watermarks-trigger-user-backlash
 - 2026-08-12-enterprise-backlash-builds-as-anthropic-watermarks-claude-ge
-embedding_id: 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
+embedding_id: null
 event_name: ''
 ---
 

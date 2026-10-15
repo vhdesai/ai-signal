@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
-embedding_id: 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-05-14-daily-ai-news-digest-may-14-2026
-embedding_id: 2026-07-06-ceva-wins-landmark-ai-licensing-deal-with-major-u-s-software
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
-embedding_id: 2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc
+embedding_id: null
 event_name: ''
 ---
 

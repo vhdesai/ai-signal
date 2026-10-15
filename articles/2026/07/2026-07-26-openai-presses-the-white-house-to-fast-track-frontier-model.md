@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
-embedding_id: 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
+embedding_id: null
 event_name: ''
 ---
 

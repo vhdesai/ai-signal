@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
-embedding_id: 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
+embedding_id: null
 event_name: ''
 ---
 

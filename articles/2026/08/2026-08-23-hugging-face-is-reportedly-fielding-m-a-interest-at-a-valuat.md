@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-hugging-face-draws-m-a-interest
 - 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
 - 2026-08-23-hugging-face-fielding-m-a-interest-at-13-billion
-embedding_id: 2026-08-23-hugging-face-is-reportedly-fielding-m-a-interest-at-a-valuat
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
 related_article_ids: []
-embedding_id: 2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr
+embedding_id: null
 event_name: ''
 ---
 

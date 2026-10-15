@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 related_article_ids: []
-embedding_id: 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
+embedding_id: null
 event_name: ''
 ---
 

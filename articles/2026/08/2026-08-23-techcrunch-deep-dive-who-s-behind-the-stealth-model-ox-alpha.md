@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens
 - 2026-08-23-who-s-behind-the-new-stealth-model-ox-alpha
 - 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
-embedding_id: 2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha
+embedding_id: null
 event_name: ''
 ---
 

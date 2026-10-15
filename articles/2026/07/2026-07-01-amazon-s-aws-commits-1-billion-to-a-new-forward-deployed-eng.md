@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-08-03-amazon-completes-another-35b-investment-in-openai
-embedding_id: 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
+embedding_id: null
 event_name: ''
 ---
 

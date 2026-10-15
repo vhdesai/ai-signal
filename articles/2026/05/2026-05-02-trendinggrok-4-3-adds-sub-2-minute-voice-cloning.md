@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 - 2026-05-01-newxai-releases-grok-4-3
 - 2026-09-18-xai-releases-grok-voice-transcribe-2-0
-embedding_id: 2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning
+embedding_id: null
 event_name: ''
 ---
 

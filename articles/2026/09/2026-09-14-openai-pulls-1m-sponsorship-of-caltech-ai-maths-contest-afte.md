@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
 - 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
-embedding_id: 2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte
+embedding_id: null
 event_name: ''
 ---
 

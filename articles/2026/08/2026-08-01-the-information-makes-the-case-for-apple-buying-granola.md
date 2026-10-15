@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 - 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
-embedding_id: 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
+embedding_id: null
 event_name: ''
 ---
 

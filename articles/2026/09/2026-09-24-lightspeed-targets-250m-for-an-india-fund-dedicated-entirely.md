@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
-embedding_id: 2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely
+embedding_id: null
 event_name: ''
 ---
 

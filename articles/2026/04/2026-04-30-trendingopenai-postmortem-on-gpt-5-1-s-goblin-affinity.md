@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-with
-embedding_id: 2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity
+embedding_id: null
 event_name: ''
 ---
 

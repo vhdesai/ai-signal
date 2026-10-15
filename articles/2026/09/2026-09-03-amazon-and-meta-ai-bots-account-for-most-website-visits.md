@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
 - 2026-09-21-amazon-blocks-meta-s-muse-ai-agent-from-shopping-on-amazon-c
-embedding_id: 2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits
+embedding_id: null
 event_name: ''
 ---
 

@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 related_article_ids: []
-embedding_id: 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours-2
+embedding_id: null
 event_name: ''
 ---
 

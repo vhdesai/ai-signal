@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
-embedding_id: 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
+embedding_id: null
 event_name: ''
 ---
 

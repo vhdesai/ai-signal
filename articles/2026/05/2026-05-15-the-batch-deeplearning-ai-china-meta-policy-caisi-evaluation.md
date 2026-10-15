@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-embedding_id: 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
+embedding_id: null
 event_name: ''
 ---
 

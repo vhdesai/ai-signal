@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
-embedding_id: 2026-07-21-blackrock-and-mgx-commit-5b-to-aligned-data-centers
+embedding_id: null
 event_name: ''
 ---
 

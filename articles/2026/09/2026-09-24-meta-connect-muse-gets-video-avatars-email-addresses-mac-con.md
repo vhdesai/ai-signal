@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
-embedding_id: 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
+embedding_id: null
 event_name: ''
 ---
 

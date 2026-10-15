@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
 related_article_ids: []
-embedding_id: 2026-07-26-fairchem-v2-uma-targets-multidomain-atomistic-simulation
+embedding_id: null
 event_name: ''
 ---
 

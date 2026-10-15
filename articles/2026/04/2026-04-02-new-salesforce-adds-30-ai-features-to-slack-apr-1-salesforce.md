@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a
-embedding_id: 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
+embedding_id: null
 event_name: ''
 ---
 

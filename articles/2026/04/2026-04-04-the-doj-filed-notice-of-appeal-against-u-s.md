@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati
 - 2026-08-28-federal-judge-strikes-down-the-pentagon-s-supply-chain-risk
 - 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
-embedding_id: 2026-04-04-the-doj-filed-notice-of-appeal-against-u-s
+embedding_id: null
 event_name: ''
 ---
 

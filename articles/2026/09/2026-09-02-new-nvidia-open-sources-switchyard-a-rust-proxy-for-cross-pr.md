@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-embedding_id: 2026-09-02-new-nvidia-open-sources-switchyard-a-rust-proxy-for-cross-pr
+embedding_id: null
 event_name: ''
 ---
 

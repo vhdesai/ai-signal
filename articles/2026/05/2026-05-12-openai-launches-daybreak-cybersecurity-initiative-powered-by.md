@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 related_article_ids: []
-embedding_id: 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by
+embedding_id: null
 event_name: ''
 ---
 

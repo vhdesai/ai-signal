@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 - 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-embedding_id: 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
+embedding_id: null
 event_name: ''
 ---
 

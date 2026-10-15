@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-embedding_id: 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
+embedding_id: null
 event_name: ''
 ---
 

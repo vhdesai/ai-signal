@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
 related_article_ids: []
-embedding_id: 2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-embedding_id: 2026-09-21-pitchbook-ai-has-security-chiefs-scared-stiff-anthropic-myth
+embedding_id: null
 event_name: ''
 ---
 

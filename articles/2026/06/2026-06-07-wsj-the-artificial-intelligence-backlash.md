@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-embedding_id: 2026-06-07-wsj-the-artificial-intelligence-backlash
+embedding_id: null
 event_name: ''
 ---
 

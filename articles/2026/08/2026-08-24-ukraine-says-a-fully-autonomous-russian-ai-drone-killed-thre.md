@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
 - 2026-09-26-former-ukrainian-defense-minister-fedorov-pitches-a-private
-embedding_id: 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
+embedding_id: null
 event_name: ''
 ---
 

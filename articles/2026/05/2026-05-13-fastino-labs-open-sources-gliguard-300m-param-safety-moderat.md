@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-embedding_id: 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
+embedding_id: null
 event_name: ''
 ---
 

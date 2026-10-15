@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-embedding_id: 2026-09-03-sparks-fly-nvidia-accelerates-local-ai-at-ifa-2026
+embedding_id: null
 event_name: ''
 ---
 

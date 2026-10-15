@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 related_article_ids: []
-embedding_id: 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
+embedding_id: null
 event_name: ''
 ---
 

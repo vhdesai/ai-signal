@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-embedding_id: 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
+embedding_id: null
 event_name: ''
 ---
 

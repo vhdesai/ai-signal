@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
-embedding_id: 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
+embedding_id: null
 event_name: ''
 ---
 

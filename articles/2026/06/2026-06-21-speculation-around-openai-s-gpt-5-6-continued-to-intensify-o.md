@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-embedding_id: 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
 - 2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic
-embedding_id: 2026-06-20-cisco-ai-introduces-fapo-for-pipeline-aware-prompt-optimizat
+embedding_id: null
 event_name: ''
 ---
 

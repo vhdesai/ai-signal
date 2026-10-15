@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
 - 2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s
 - 2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-designation
-embedding_id: 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
+embedding_id: null
 event_name: ''
 ---
 

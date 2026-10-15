@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
-embedding_id: 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
+embedding_id: null
 event_name: ''
 ---
 

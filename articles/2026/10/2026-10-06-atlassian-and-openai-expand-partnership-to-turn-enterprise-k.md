@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 - 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-embedding_id: 2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k
+embedding_id: null
 event_name: ''
 ---
 

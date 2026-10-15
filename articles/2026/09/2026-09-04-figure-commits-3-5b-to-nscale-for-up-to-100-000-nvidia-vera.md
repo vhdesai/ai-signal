@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
-embedding_id: 2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera
+embedding_id: null
 event_name: ''
 ---
 

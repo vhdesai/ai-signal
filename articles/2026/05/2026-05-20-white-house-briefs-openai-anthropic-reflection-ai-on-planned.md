@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-embedding_id: 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+embedding_id: null
 event_name: ''
 ---
 

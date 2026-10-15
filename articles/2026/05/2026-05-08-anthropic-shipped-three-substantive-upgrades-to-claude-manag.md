@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
-embedding_id: 2026-05-08-anthropic-shipped-three-substantive-upgrades-to-claude-manag
+embedding_id: null
 event_name: ''
 ---
 

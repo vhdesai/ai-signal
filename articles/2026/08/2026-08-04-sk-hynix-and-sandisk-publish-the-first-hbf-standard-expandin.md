@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a
 related_article_ids: []
-embedding_id: 2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin
+embedding_id: null
 event_name: ''
 ---
 

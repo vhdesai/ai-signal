@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
 related_article_ids: []
-embedding_id: 2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac
 - 2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-embedding_id: 2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for
+embedding_id: null
 event_name: ''
 ---
 

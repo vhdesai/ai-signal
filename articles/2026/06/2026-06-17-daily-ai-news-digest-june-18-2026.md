@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo
 - 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: 2026-06-17-daily-ai-news-digest-june-18-2026
+embedding_id: null
 event_name: ''
 ---
 

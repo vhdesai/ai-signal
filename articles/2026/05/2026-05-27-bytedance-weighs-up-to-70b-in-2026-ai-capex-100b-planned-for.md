@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances
-embedding_id: 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
+embedding_id: null
 event_name: ''
 ---
 

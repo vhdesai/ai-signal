@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-08-13-beijing-could-suddenly-clamp-down-on-chinese-open-weight-ai
-embedding_id: 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
+embedding_id: null
 event_name: ''
 ---
 

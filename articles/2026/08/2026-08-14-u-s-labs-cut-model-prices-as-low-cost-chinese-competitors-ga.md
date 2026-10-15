@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
 - 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
-embedding_id: 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
+embedding_id: null
 event_name: ''
 ---
 

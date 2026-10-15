@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
-embedding_id: 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
+embedding_id: null
 event_name: ''
 ---
 

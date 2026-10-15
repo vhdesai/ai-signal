@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-07-29-openai-rogue-test-agent-used-exposed-credentials-across-four
-embedding_id: 2026-10-01-china-linked-hackers-impersonated-a-specific-anthropic-emplo
+embedding_id: null
 event_name: ''
 ---
 

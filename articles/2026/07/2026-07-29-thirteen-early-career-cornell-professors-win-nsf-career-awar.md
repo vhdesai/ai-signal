@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-cornell-funds-ai-safety-evaluation-and-mathematical-verifica
 - 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
 - 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
-embedding_id: 2026-07-29-thirteen-early-career-cornell-professors-win-nsf-career-awar
+embedding_id: null
 event_name: ''
 ---
 

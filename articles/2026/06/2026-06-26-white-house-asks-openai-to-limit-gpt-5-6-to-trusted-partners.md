@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 related_article_ids: []
-embedding_id: 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
+embedding_id: null
 event_name: ''
 ---
 

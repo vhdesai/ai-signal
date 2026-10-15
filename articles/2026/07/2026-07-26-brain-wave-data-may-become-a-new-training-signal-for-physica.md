@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 related_article_ids: []
-embedding_id: 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
+embedding_id: null
 event_name: ''
 ---
 

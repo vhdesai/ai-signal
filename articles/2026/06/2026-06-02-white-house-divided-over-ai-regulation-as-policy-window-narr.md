@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 related_article_ids: []
-embedding_id: 2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr
+embedding_id: null
 event_name: ''
 ---
 

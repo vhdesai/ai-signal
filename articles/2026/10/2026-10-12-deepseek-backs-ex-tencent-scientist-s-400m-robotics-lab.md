@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-embedding_id: 2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab
+embedding_id: null
 event_name: ''
 ---
 

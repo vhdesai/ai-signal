@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
 - 2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-embedding_id: 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
+embedding_id: null
 event_name: ''
 ---
 

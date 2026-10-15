@@ -7,8 +7,8 @@ source: The Decoder / Google DeepMind
 url_original: https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/
 url_canonical: https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 4e64a79b079a1b09e8d698d7a20b11027c7955985a7044878093e5e541df45f3
 normalized_title_hash: c2f1a3a1e25b6e1e
 canonical_url_hash: 9d1f26139a71626b
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
-embedding_id: 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
 - 2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin
 - 2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales
-embedding_id: 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
+embedding_id: null
 event_name: ''
 ---
 

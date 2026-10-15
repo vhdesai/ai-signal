@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
-embedding_id: 2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo
+embedding_id: null
 event_name: ''
 ---
 

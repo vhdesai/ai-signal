@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
-embedding_id: 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
+embedding_id: null
 event_name: ''
 ---
 

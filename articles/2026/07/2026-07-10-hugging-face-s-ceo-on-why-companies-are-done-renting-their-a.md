@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
 - 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
-embedding_id: 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
+embedding_id: null
 event_name: ''
 ---
 

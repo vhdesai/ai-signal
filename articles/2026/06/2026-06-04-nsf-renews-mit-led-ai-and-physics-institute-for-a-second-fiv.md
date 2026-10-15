@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: MIT News
 url_original: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
 url_canonical: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: b33ca2dd5d33892260bca5d68e31e1e66087ed7abf1c2e54fbf6e769442073a0
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
-embedding_id: 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
+embedding_id: null
 event_name: ''
 ---
 

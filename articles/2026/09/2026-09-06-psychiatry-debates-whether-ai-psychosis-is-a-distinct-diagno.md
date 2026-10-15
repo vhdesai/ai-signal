@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-04-02-academic-research
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
-embedding_id: 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
+embedding_id: null
 event_name: ''
 ---
 

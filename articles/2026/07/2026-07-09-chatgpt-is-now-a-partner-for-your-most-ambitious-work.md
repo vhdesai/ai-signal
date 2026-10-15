@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
-embedding_id: 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
+embedding_id: null
 event_name: ''
 ---
 

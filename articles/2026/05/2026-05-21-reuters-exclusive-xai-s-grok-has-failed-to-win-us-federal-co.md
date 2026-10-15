@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-embedding_id: 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-gpu-neocloud-comparison-ranks-coreweave-nebius-lambda-crusoe
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
-embedding_id: 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
+embedding_id: null
 event_name: ''
 ---
 

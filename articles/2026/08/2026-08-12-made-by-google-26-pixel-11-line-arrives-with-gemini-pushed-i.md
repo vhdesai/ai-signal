@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a
 related_article_ids:
 - 2026-08-12-made-by-google-26-pixel-11-line-pixel-watch-5-pixel-tag-and
-embedding_id: 2026-08-12-made-by-google-26-pixel-11-line-arrives-with-gemini-pushed-i
+embedding_id: null
 event_name: ''
 ---
 

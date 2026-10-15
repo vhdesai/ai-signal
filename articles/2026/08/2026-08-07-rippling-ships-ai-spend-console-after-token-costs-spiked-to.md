@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
 related_article_ids: []
-embedding_id: 2026-08-07-rippling-ships-ai-spend-console-after-token-costs-spiked-to
+embedding_id: null
 event_name: ''
 ---
 

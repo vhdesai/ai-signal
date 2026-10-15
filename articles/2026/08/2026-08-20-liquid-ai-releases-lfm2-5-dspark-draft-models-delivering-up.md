@@ -6,7 +6,7 @@ date: '2026-08-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/
 url_canonical: https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: c83f9920d0780604381c708d8022ae9e31afc1e3027fdfbd621bab7d32f7974d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
-embedding_id: 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
+embedding_id: null
 event_name: ''
 ---
 

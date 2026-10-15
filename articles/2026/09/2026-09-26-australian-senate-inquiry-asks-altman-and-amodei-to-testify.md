@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-anthropic-declines-australian-senate-inquiry-appearance-altm
 - 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
 - 2026-09-27-australian-senate-calls-altman-and-amodei-to-testify-after-m
-embedding_id: 2026-09-26-australian-senate-inquiry-asks-altman-and-amodei-to-testify
+embedding_id: null
 event_name: ''
 ---
 

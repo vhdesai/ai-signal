@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into
 related_article_ids: []
-embedding_id: 2026-09-12-fruit-fly-connectome-bolted-onto-a-1-2b-llm-and-the-authors
+embedding_id: null
 event_name: ''
 ---
 

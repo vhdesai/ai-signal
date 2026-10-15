@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-nvidia-backed-firmus-pushes-ahead-with-a-5b-australian-ipo-d
 - 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
 - 2026-09-14-nvidia-backed-firmus-seeks-up-to-5b-in-an-asx-float-at-a-10
-embedding_id: 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
+embedding_id: null
 event_name: ''
 ---
 

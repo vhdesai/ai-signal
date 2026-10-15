@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across
 - 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
-embedding_id: 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
+embedding_id: null
 event_name: ''
 ---
 

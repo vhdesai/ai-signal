@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl
-embedding_id: 2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of
+embedding_id: null
 event_name: ''
 ---
 

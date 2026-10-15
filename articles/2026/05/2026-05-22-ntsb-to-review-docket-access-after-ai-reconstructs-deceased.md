@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
-embedding_id: 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
+embedding_id: null
 event_name: ''
 ---
 

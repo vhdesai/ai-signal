@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-09-trendinggoogle-deepmind-uk-staff-vote-98-to-unionize-over-pe
 - 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
 - 2026-05-14-in-a-historic-vote-google-deepmind-uk-employees-approved-uni
-embedding_id: 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+embedding_id: null
 event_name: ''
 ---
 

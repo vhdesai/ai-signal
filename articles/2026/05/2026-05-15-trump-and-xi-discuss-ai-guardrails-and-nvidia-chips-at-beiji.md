@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-embedding_id: 2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji
+embedding_id: null
 event_name: ''
 ---
 

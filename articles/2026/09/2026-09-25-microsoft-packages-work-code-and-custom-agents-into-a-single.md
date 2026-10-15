@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 related_article_ids: []
-embedding_id: 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
+embedding_id: null
 event_name: ''
 ---
 

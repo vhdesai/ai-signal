@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 related_article_ids: []
-embedding_id: 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
+embedding_id: null
 event_name: ''
 ---
 

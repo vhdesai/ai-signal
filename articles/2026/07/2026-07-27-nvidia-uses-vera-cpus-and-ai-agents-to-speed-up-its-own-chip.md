@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
-embedding_id: 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip
+embedding_id: null
 event_name: ''
 ---
 

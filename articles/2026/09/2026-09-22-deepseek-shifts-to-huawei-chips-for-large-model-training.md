@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
-embedding_id: 2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training
+embedding_id: null
 event_name: ''
 ---
 

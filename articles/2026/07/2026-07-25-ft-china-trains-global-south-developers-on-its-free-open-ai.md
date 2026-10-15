@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
-embedding_id: 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
+embedding_id: null
 event_name: ''
 ---
 

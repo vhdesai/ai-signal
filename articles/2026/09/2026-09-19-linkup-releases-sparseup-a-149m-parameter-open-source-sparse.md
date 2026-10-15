@@ -5,7 +5,7 @@ date: '2026-09-19'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/
 url_canonical: https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-20_060444_Inbox_Daily AI News Digest - September
   20, 2026.md
 content_hash: c487d2b650ed663d668280657a1f67e2d9b10d8c5b885e501c93fd74a02d6653
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
-embedding_id: 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
+embedding_id: null
 event_name: ''
 ---
 

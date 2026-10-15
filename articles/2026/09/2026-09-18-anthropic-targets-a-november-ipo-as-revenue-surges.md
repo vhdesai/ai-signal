@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate
 related_article_ids: []
-embedding_id: 2026-09-18-anthropic-targets-a-november-ipo-as-revenue-surges
+embedding_id: null
 event_name: ''
 ---
 

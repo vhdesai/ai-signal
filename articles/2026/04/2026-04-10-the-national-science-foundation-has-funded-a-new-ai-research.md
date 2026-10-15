@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
-embedding_id: 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
+embedding_id: null
 event_name: ''
 ---
 

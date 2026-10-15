@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 - 2026-08-18-baidu-q2-revenue-falls-4-as-ai-cloud-surges-50
-embedding_id: 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
+embedding_id: null
 event_name: ''
 ---
 

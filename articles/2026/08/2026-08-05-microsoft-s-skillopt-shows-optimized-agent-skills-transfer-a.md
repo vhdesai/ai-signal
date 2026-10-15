@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
+embedding_id: null
 event_name: ''
 ---
 

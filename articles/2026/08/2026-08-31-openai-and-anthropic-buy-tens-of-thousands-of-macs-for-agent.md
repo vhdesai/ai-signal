@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-embedding_id: 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
+embedding_id: null
 event_name: ''
 ---
 

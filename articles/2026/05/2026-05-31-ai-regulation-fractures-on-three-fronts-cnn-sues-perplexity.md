@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
 - 2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-ai-t
-embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
+embedding_id: null
 event_name: ''
 ---
 

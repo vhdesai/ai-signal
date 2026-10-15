@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
 - 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
-embedding_id: 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-embedding_id: 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
+embedding_id: null
 event_name: ''
 ---
 

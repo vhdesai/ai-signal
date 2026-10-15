@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
-embedding_id: 2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the
+embedding_id: null
 event_name: ''
 ---
 

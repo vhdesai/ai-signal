@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 - 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
-embedding_id: 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
+embedding_id: null
 event_name: ''
 ---
 

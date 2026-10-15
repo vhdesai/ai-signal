@@ -6,7 +6,7 @@ date: '2026-09-15'
 source: TechRepublic / The Decoder / SCMP**
 url_original: https://www.techrepublic.com/article/news-amodei-altman-musk-slow-frontier-ai/
 url_canonical: https://www.techrepublic.com/article/news-amodei-altman-musk-slow-frontier-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 5c7d53553520ebb52e80b23cce791f7323bcb2c95839f5757a779d04404e7760
 normalized_title_hash: c2f6bb2ffae74f55
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
-embedding_id: 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
+embedding_id: null
 event_name: ''
 ---
 

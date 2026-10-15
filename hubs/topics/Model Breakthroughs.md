@@ -1,15 +1,20 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3486
+member_count: 3494
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3486 connected article(s).
+> Auto-generated topic hub. 3494 connected article(s).
 
+- `2026-10-15` [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ|New research reports that personal AI agents can help networked teams solve complex problems significantly faster. The finding sits in tension with HBR’s warning about weakened team dynamics, suggesting the design of agent use matters. AI can either substitute for collaboration or amplify it depending on workflow, transparency, and team norms.]]
+- `2026-10-14` [[2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic|Ricursive pursues AI-designed chips to improve compute efficiency]]
 - `2026-10-14` [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan|Nature covered research finding that AI writing support changes petition style but does not improve real-world outcomes. The result echoes earlier Cornell reporting: AI can make civic text longer or more polished without making it more effective. It is a valuable reminder that persuasion, trust, and authenticity are not solved by fluent generation alone.]]
+- `2026-10-14` [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather|Machine-learning corrections target the subseasonal weather-forecasting gap]]
+- `2026-10-14` [[2026-10-14-google-outlines-research-applications-across-science-and-hea|Google outlines research applications across science and healthcare]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
+- `2026-10-14` [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans|CoreWeave selloff highlights the financing risk of AI expansion]]
 - `2026-10-14` [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand|ASML signals persistent capacity pressure from AI demand]]
 - `2026-10-13` [[2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work|Z.ai releases GLM-Legal for agentic legal work]]
 - `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]
@@ -19,16 +24,19 @@ member_count: 3486
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
 - `2026-10-13` [[2026-10-13-nvidia-details-european-municipal-agent-and-digital-twin-pro|NVIDIA details European municipal agent and digital-twin projects]]
 - `2026-10-13` [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open|Mistral Large 4 vs. Claude Opus 5.5 benchmarks keep the open-weight debate alive]]
+- `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem|Microsoft's split-personality retrosynthetic AI targets chemistry planning]]
 - `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le|Microsoft's split-personality retrosynthetic AI is a fast learner]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
 - `2026-10-13` [[2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c|MIT researchers call for answerability behind AI-generated civic speech]]
 - `2026-10-13` [[2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste|MIT interview emphasizes human accountability for AI-assisted civic speech]]
 - `2026-10-13` [[2026-10-13-mit-explores-how-networks-develop-their-own-learning-machine|MIT explores how networks develop their own learning machinery]]
 - `2026-10-13` [[2026-10-13-jpmorgan-limits-third-party-agents-direct-account-access|JPMorgan limits third-party agents' direct account access]]
+- `2026-10-13` [[2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public|Independent AI review fight turns on what gets made public]]
 - `2026-10-13` [[2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps|Google Play opens a private route for AI-built Android apps]]
 - `2026-10-13` [[2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels|Gemini 4 Argon reaches broader paid and enterprise channels]]
 - `2026-10-13` [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c|Gemini 4 Argon becomes globally available as Google's most capable frontier model]]
 - `2026-10-13` [[2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount|Executives doubt readiness as AI cyber risks mount]]
+- `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]
 - `2026-10-13` [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and|Character.AI files for Chapter 11 after legal, regulatory, and monetization pressure]]
 - `2026-10-13` [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u|Character.AI enters Chapter 11; platform continuity remains uncertain]]
 - `2026-10-13` [[2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai|Applied Materials and Lam Research emerge as less-obvious AI infrastructure beneficiaries]]

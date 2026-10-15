@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
 url_canonical: https://www.yahoo.com/news/politics/articles/openai-cleared-launch-gpt-5-112137341.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-11_062818_Inbox_Daily AI News Digest - July 11,
   2026.md
 content_hash: 09741870e33b32fdbadc244bea29e591fb63880d86945d9857efcd2dcd34557f
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev
 related_article_ids: []
-embedding_id: 2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec
+embedding_id: null
 event_name: ''
 ---
 

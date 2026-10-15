@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-embedding_id: 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
+embedding_id: null
 event_name: ''
 ---
 

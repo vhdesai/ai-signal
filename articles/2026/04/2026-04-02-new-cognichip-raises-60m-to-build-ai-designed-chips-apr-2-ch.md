@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
 related_article_ids: []
-embedding_id: 2026-04-02-new-cognichip-raises-60m-to-build-ai-designed-chips-apr-2-ch
+embedding_id: null
 event_name: ''
 ---
 

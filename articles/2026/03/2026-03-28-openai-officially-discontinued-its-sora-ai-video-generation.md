@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
 - 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
-embedding_id: 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-29'
 source: MIT News
 url_original: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
 url_canonical: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8796a60c1c021f8858b28524aa633e356e2070dcf1c7e39cc03f1ae07b75b0ba
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven
 - 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
-embedding_id: 2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe
+embedding_id: null
 event_name: ''
 ---
 

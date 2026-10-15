@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-04-15-research-breakthroughs
-embedding_id: 2026-09-25-explorationbench-measuring-ai-exploration-in-verifiable-alie
+embedding_id: null
 event_name: ''
 ---
 

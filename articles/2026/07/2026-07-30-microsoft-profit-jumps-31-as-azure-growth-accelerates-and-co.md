@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
 - 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 - 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
-embedding_id: 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
+embedding_id: null
 event_name: ''
 ---
 

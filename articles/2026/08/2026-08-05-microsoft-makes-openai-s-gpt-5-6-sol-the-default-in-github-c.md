@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-microsoft-tells-its-engineers-to-default-github-copilot-to-o
 - 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
-embedding_id: 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
+embedding_id: null
 event_name: ''
 ---
 

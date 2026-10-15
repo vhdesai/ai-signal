@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 - 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
-embedding_id: 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai
+embedding_id: null
 event_name: ''
 ---
 

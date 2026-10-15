@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
-embedding_id: 2026-10-05-one-step-image-generation-uses-network-depth-as-denoising-ti
+embedding_id: null
 event_name: ''
 ---
 

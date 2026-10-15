@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
-embedding_id: 2026-08-27-anthropic-planned-then-abandoned-a-7b-purchase-of-chip-start
+embedding_id: null
 event_name: ''
 ---
 

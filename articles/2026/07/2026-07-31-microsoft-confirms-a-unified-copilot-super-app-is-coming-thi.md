@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-embedding_id: 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
+embedding_id: null
 event_name: ''
 ---
 

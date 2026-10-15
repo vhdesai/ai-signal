@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across
 - 2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio
-embedding_id: 2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa
+embedding_id: null
 event_name: ''
 ---
 

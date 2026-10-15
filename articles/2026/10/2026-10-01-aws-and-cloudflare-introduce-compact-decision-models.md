@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-02-aws-strands-labs-releases-decider-2b-a-115ms-open-source-dec
 - 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
 - 2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec
-embedding_id: 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
+embedding_id: null
 event_name: ''
 ---
 

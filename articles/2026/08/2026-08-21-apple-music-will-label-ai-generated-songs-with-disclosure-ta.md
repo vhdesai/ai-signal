@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-apple-music-makes-ai-transparency-tags-mandatory
 related_article_ids: []
-embedding_id: 2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta
+embedding_id: null
 event_name: ''
 ---
 

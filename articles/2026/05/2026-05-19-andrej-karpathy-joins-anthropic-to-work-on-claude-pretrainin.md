@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 related_article_ids: []
-embedding_id: 2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin
+embedding_id: null
 event_name: ''
 ---
 

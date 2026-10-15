@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
-embedding_id: 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
+embedding_id: null
 event_name: ''
 ---
 

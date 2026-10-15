@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-embedding_id: 2026-05-26-retrying-vs-resampling-in-ai-control
+embedding_id: null
 event_name: ''
 ---
 

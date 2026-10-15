@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
-embedding_id: 2026-09-22-openai-publishes-priorities-and-principles-for-third-party-s
+embedding_id: null
 event_name: ''
 ---
 

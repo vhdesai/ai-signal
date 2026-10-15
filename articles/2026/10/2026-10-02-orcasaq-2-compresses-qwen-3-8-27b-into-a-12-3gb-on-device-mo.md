@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
-embedding_id: 2026-10-02-orcasaq-2-compresses-qwen-3-8-27b-into-a-12-3gb-on-device-mo
+embedding_id: null
 event_name: ''
 ---
 

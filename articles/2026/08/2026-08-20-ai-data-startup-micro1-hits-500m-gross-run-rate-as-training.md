@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-embedding_id: 2026-08-20-ai-data-startup-micro1-hits-500m-gross-run-rate-as-training
+embedding_id: null
 event_name: ''
 ---
 

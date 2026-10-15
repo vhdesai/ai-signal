@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-09-22-wednesday-september-23-2026
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 - 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
-embedding_id: 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
+embedding_id: null
 event_name: ''
 ---
 

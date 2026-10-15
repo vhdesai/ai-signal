@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 related_article_ids: []
-embedding_id: 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
+embedding_id: null
 event_name: ''
 ---
 

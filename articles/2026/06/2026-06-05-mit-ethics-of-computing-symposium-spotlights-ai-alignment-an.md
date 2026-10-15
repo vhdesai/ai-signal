@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: MIT News
 url_original: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
 url_canonical: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: a9369c7923ddc2306521743d103c48a5704b55c8bad59eca3a2aaa5f11a2781f
 normalized_title_hash: 250022d0eda9b595
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 related_article_ids: []
-embedding_id: 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
+embedding_id: null
 event_name: ''
 ---
 

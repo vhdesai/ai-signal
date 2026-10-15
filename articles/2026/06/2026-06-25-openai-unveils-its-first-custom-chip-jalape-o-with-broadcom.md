@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-openai-s-first-custom-chip-named-jalape-o
 - 2026-08-25-openai-publishes-first-jalape-o-chip-benchmarks-claims-effic
 - 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claims-efficiency
-embedding_id: 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
 - 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
-embedding_id: 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
+embedding_id: null
 event_name: ''
 ---
 

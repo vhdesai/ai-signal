@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 76b5129905db9cae917fd9c7e2561e46ffa5ce12bd67e05e72f034866753f6c2
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
-embedding_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
+embedding_id: null
 event_name: ''
 ---
 

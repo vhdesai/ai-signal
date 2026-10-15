@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/latest-claude-opus-leak/
 url_canonical: https://www.geeky-gadgets.com/latest-claude-opus-leak/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 61736264613d46bf10c24dda0411eae0029142d8877c61822eb3259b7479b2b5
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
-embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo
 - 2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
-embedding_id: 2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa
+embedding_id: null
 event_name: ''
 ---
 

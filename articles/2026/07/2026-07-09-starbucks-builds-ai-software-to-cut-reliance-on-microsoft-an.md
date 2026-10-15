@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
-embedding_id: 2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an
+embedding_id: null
 event_name: ''
 ---
 

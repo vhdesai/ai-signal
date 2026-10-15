@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
 - 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-embedding_id: 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
+embedding_id: null
 event_name: ''
 ---
 

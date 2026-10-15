@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
 - 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-embedding_id: 2026-08-01-consumer-ai-use-cases-face-backlash-in-parenting-and-creator
+embedding_id: null
 event_name: ''
 ---
 

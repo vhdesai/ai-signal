@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-09-06-openai-says-it-has-reached-its-automated-research-intern-mil
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
-embedding_id: 2026-09-06-openai-says-it-has-hit-its-automated-research-intern-goal-3
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
 related_article_ids: []
-embedding_id: 2026-06-27-with-anthropic-s-most-advanced-models-export-restricted-chin
+embedding_id: null
 event_name: ''
 ---
 

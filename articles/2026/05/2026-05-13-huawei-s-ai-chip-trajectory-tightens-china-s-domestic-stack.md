@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
-embedding_id: 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
+embedding_id: null
 event_name: ''
 ---
 

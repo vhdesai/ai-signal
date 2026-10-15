@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
-embedding_id: 2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
-embedding_id: 2026-07-17-chatgpt-for-doctors-reportedly-weighs-financing-at-20-billio
+embedding_id: null
 event_name: ''
 ---
 

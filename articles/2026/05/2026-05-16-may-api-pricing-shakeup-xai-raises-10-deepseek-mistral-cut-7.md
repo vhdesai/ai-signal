@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
-embedding_id: 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
+embedding_id: null
 event_name: ''
 ---
 

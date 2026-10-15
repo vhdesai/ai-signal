@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
-embedding_id: 2026-05-14-openai-codex-work-from-anywhere-expansion
+embedding_id: null
 event_name: ''
 ---
 

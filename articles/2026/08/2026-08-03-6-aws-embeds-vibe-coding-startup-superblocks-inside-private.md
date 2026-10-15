@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
 - 2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-embedding_id: 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 related_article_ids: []
-embedding_id: 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
+embedding_id: null
 event_name: ''
 ---
 

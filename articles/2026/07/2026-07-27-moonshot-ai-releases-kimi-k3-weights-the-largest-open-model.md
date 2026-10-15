@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
 related_article_ids: []
-embedding_id: 2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model
+embedding_id: null
 event_name: ''
 ---
 

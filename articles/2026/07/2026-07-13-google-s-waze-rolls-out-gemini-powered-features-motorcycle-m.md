@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
-embedding_id: 2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m
+embedding_id: null
 event_name: ''
 ---
 

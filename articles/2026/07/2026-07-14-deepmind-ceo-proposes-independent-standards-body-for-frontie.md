@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 - 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
-embedding_id: 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
+embedding_id: null
 event_name: ''
 ---
 

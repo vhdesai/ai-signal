@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 - 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
-embedding_id: 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
+embedding_id: null
 event_name: ''
 ---
 

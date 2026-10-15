@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena
 - 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 - 2026-09-01-pentagon-deploys-chatgpt-and-grok-on-the-genai-mil-platform
-embedding_id: 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
+embedding_id: null
 event_name: ''
 ---
 

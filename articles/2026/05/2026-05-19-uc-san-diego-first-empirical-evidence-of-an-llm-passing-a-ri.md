@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
-embedding_id: 2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 - 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
 - 2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida
-embedding_id: 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
+embedding_id: null
 event_name: ''
 ---
 

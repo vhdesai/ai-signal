@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
-embedding_id: 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
+embedding_id: null
 event_name: ''
 ---
 

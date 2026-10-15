@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
-embedding_id: 2026-09-10-google-deepmind-proposes-autoregressive-ranking-to-replace-d
+embedding_id: null
 event_name: ''
 ---
 

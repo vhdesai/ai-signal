@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
-embedding_id: 2026-08-19-techcrunch-analysis-ai-was-supposed-to-win-people-over-by-no
+embedding_id: null
 event_name: ''
 ---
 

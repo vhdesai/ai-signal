@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 - 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
-embedding_id: 2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev
+embedding_id: null
 event_name: ''
 ---
 

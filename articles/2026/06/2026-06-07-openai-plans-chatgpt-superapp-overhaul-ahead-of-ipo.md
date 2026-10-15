@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
+embedding_id: null
 event_name: ''
 ---
 

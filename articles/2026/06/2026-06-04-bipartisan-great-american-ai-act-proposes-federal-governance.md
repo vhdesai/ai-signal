@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 related_article_ids: []
-embedding_id: 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
+embedding_id: null
 event_name: ''
 ---
 

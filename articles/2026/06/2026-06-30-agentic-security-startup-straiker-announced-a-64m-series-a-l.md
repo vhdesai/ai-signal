@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent
 - 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
-embedding_id: 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-embedding_id: 2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models
+embedding_id: null
 event_name: ''
 ---
 

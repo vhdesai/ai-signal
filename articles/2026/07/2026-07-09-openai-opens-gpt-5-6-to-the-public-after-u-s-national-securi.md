@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
 related_article_ids: []
-embedding_id: 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
+embedding_id: null
 event_name: ''
 ---
 

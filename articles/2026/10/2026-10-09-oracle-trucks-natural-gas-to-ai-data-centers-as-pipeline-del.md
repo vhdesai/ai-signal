@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 - 2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: 2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del
+embedding_id: null
 event_name: ''
 ---
 

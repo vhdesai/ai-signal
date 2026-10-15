@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia
 - 2026-09-22-apple-targets-microsoft-and-nvidia-with-new-macs-designed-to
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
-embedding_id: 2026-09-16-apple-considers-return-to-server-market-in-talks-with-nvidia
+embedding_id: null
 event_name: ''
 ---
 

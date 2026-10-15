@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
-embedding_id: 2026-10-13-gemini-4-argon-reaches-broader-paid-and-enterprise-channels
+embedding_id: null
 event_name: ''
 ---
 

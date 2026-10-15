@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
-embedding_id: 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
-embedding_id: 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
+embedding_id: null
 event_name: ''
 ---
 

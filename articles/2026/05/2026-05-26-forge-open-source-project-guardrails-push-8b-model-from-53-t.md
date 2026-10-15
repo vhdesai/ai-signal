@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
 - 2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a
-embedding_id: 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
+embedding_id: null
 event_name: ''
 ---
 

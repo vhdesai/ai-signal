@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 - 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-embedding_id: 2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi
+embedding_id: null
 event_name: ''
 ---
 

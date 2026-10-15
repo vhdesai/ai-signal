@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
-embedding_id: 2026-03-28-google-s-announcement-of-turboquant-an-ai-driven-quantizatio
+embedding_id: null
 event_name: ''
 ---
 

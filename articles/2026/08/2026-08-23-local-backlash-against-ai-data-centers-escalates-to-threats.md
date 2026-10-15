@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 - 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
-embedding_id: 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
+embedding_id: null
 event_name: ''
 ---
 

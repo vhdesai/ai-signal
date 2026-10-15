@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-embedding_id: 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
+embedding_id: null
 event_name: ''
 ---
 

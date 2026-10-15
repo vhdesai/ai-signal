@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-gpt-6-astra-coverage-focuses-on-cyber-capability-and-safety
 related_article_ids: []
-embedding_id: 2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco
+embedding_id: null
 event_name: ''
 ---
 

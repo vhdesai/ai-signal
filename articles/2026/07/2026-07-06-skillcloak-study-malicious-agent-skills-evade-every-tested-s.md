@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
-embedding_id: 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
+embedding_id: null
 event_name: ''
 ---
 

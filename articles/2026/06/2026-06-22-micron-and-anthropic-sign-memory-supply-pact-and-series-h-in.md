@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 - 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
-embedding_id: 2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in
+embedding_id: null
 event_name: ''
 ---
 

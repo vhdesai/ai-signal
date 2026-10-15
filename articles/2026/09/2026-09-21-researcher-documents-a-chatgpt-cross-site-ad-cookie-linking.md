@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Notebookcheck
 url_original: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
 url_canonical: https://www.notebookcheck.net/ChatGPT-s_obi-cookie-follows-you-to-other-websites.1404436.0.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 4ef2cdf49727bbae942014a8e8650a2bbc8c9cc3a45287296b7792eff8ba50de
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-09-26-engadget-details-the-specifics-census-credentials-an-sec-for
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-embedding_id: 2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
-embedding_id: 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
+embedding_id: null
 event_name: ''
 ---
 

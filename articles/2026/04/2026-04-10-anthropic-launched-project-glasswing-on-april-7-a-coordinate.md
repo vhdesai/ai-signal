@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-08-01-anthropic-published-a-project-glasswing-update-describing-cl
-embedding_id: 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
+embedding_id: null
 event_name: ''
 ---
 

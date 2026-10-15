@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-01-anthropic-launches-enterprise-frontier-safeguards-keeping-mi
 - 2026-09-01-anthropic-introduces-enterprise-frontier-safeguards-with-cus
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
-embedding_id: 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
+embedding_id: null
 event_name: ''
 ---
 

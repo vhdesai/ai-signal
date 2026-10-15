@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
 related_article_ids: []
-embedding_id: 2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo
+embedding_id: null
 event_name: ''
 ---
 

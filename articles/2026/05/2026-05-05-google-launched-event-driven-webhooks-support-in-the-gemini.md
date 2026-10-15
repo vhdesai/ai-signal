@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-gemini-live-gains-agentic-task-execution-through-spark
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
-embedding_id: 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
+embedding_id: null
 event_name: ''
 ---
 

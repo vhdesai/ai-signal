@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 related_article_ids: []
-embedding_id: 2026-09-05-openai-confirms-wiki-incident-commits-to-an-agent-disclosure
+embedding_id: null
 event_name: ''
 ---
 

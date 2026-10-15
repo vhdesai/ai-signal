@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-13-pixverse-and-nous-research-show-capital-flowing-to-ai-video
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
 - 2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion
-embedding_id: 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
+embedding_id: null
 event_name: ''
 ---
 

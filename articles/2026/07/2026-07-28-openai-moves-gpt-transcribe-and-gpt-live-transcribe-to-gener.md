@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
-embedding_id: 2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener
+embedding_id: null
 event_name: ''
 ---
 

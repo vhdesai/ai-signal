@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
-embedding_id: 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
+embedding_id: null
 event_name: ''
 ---
 

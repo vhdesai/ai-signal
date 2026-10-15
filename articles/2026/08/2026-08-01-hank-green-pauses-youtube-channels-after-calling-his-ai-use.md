@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 - 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
-embedding_id: 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
+embedding_id: null
 event_name: ''
 ---
 

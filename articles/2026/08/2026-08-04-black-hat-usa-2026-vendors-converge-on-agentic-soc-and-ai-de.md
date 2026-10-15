@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: SecurityWeek
 url_original: https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/
 url_canonical: https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 41a8ee3b9ad247ffae4db61866f58bea7d21a8a5c7e8a1f92c394e708b891140
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
-embedding_id: 2026-08-04-black-hat-usa-2026-vendors-converge-on-agentic-soc-and-ai-de
+embedding_id: null
 event_name: ''
 ---
 

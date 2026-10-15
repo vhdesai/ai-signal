@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-embedding_id: 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
+embedding_id: null
 event_name: ''
 ---
 

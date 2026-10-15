@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1822
+member_count: 1823
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1822 connected article(s).
+> Auto-generated topic hub. 1823 connected article(s).
 
+- `2026-10-14` [[2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic|Ricursive pursues AI-designed chips to improve compute efficiency]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]

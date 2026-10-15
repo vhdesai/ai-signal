@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
-embedding_id: 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: AppleInsider / MacDailyNews
 url_original: https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai
 url_canonical: https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-25_060339_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 63463ea8d92fe1e1dfd18395e1d68fe5ee331460a1402d6952c0128945f2e896
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
-embedding_id: 2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
-embedding_id: 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
+embedding_id: null
 event_name: ''
 ---
 

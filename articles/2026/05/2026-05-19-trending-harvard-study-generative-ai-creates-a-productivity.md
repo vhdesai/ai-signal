@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
 - 2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn
-embedding_id: 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+embedding_id: null
 event_name: ''
 ---
 

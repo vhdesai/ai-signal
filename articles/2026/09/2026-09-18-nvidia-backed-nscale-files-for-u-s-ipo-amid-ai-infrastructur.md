@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
 - 2026-09-06-sb-energy-files-for-ipo-with-nvidia-backing
 - 2026-09-22-nscale-s-ipo-will-test-wall-street-s-appetite-for-concentrat
-embedding_id: 2026-09-18-nvidia-backed-nscale-files-for-u-s-ipo-amid-ai-infrastructur
+embedding_id: null
 event_name: ''
 ---
 

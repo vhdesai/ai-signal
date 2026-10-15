@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 related_article_ids: []
-embedding_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
+embedding_id: null
 event_name: ''
 ---
 

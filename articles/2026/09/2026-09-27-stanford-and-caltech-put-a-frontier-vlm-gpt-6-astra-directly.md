@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 - 2026-09-27-stanford-caltech-s-homebody-plugs-gpt-6-astra-directly-into
 - 2026-09-04-daily-ai-news-digest-september-5-2026
-embedding_id: 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
+embedding_id: null
 event_name: ''
 ---
 

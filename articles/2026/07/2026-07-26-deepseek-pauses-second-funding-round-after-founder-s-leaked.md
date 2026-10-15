@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 related_article_ids: []
-embedding_id: 2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked
+embedding_id: null
 event_name: ''
 ---
 

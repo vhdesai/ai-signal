@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
-embedding_id: 2026-09-30-anthropic-warns-china-s-glm-5-3-has-elite-hacking-ability-fb
+embedding_id: null
 event_name: ''
 ---
 

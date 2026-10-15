@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: PRNewswire / TMCnet · Microsoft · HUMAIN
 url_original: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/26/10435483.htm
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-27_061112_Inbox_Daily AI News Digest - August 27,
   2026.md
 content_hash: 942f9ae2498141aeeab5d9c19ae8e09a6f3409c176e6145b3cb41cd086bbf778
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on
 - 2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b
 - 2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m
-embedding_id: 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
+embedding_id: null
 event_name: ''
 ---
 

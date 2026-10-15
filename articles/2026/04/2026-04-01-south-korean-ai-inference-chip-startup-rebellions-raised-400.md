@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
-embedding_id: 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
+embedding_id: null
 event_name: ''
 ---
 

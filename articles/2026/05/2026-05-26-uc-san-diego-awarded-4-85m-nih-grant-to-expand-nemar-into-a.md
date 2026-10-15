@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
-embedding_id: 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
+embedding_id: null
 event_name: ''
 ---
 

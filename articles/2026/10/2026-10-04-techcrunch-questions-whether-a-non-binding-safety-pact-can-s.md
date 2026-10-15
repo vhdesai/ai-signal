@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
-embedding_id: 2026-10-04-techcrunch-questions-whether-a-non-binding-safety-pact-can-s
+embedding_id: null
 event_name: ''
 ---
 

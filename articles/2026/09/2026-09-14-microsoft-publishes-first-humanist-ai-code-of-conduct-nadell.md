@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: Microsoft AI / TechCrunch / Unite.AI**
 url_original: https://microsoft.ai/news/mai-code-of-conduct/
 url_canonical: https://microsoft.ai/news/mai-code-of-conduct/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-15_160600_Final-Daily-AI-News-Digest.md
 content_hash: 41a6ab8e99acc4553e0123ff7f8d9ac00c19a24ff3359049283f978b1b13c87d
 normalized_title_hash: c9837dfe46f29811
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-monday-september-14-2026
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 - 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
-embedding_id: 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell
+embedding_id: null
 event_name: ''
 ---
 

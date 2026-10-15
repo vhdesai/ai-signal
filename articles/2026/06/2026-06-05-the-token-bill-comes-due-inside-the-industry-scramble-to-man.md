@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-08-29-the-a-i-token-tax-enterprise-costs-become-unpredictable-budg
 - 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
-embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
+embedding_id: null
 event_name: ''
 ---
 

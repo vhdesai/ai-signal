@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
-embedding_id: 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
+embedding_id: null
 event_name: ''
 ---
 

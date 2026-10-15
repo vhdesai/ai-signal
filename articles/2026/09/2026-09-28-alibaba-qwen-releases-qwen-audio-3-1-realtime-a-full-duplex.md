@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/
 url_canonical: https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 9fa5b16d3658d6db07c3cbc35b45b28988f912122a679a4e6d59612287ff0216
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
 - 2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95
 - 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
-embedding_id: 2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex
+embedding_id: null
 event_name: ''
 ---
 

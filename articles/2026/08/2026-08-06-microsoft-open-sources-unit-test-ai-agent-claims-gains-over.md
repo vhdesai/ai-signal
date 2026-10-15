@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/
 url_canonical: https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 8fbf55cb53997c754e720d3265b21e495b981e1b8a3bee06c6c511992e65f859
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
-embedding_id: 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
+embedding_id: null
 event_name: ''
 ---
 

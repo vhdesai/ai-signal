@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
 related_article_ids: []
-embedding_id: 2026-08-07-new-mexico-court-orders-meta-to-fund-567m-child-safety-abate
+embedding_id: null
 event_name: ''
 ---
 

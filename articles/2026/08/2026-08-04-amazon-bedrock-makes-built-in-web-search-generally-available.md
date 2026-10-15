@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
-embedding_id: 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
+embedding_id: null
 event_name: ''
 ---
 

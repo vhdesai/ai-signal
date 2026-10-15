@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 - 2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run
-embedding_id: 2026-05-16-salvatore-sanfilippo-creator-of-redis-published-a-nuanced-an
+embedding_id: null
 event_name: ''
 ---
 

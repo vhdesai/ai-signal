@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: 2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m
+embedding_id: null
 event_name: ''
 ---
 

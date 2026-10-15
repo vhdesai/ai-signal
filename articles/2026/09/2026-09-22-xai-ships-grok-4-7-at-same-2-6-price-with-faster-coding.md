@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-grok-4-7-ships-at-2-6-pricing-but-real-cost-per-task-runs-2
-embedding_id: 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
+embedding_id: null
 event_name: ''
 ---
 

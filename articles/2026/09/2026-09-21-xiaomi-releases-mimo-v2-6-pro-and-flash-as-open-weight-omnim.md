@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-benchmarks-trained-fo
 - 2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-embedding_id: 2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim
+embedding_id: null
 event_name: ''
 ---
 

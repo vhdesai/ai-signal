@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
-embedding_id: 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
+embedding_id: null
 event_name: ''
 ---
 

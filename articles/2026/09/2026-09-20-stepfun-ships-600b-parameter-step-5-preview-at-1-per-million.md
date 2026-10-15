@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-27b-active-1m-c
 - 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
-embedding_id: 2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million
+embedding_id: null
 event_name: ''
 ---
 

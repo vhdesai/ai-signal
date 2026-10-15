@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three
 - 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 - 2026-07-30-anthropic-says-claude-models-breached-three-organizations-du
-embedding_id: 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
+embedding_id: null
 event_name: ''
 ---
 

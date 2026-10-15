@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-embedding_id: 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
+embedding_id: null
 event_name: ''
 ---
 

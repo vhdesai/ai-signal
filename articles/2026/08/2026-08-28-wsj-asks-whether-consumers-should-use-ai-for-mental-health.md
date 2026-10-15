@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
-embedding_id: 2026-08-28-wsj-asks-whether-consumers-should-use-ai-for-mental-health
+embedding_id: null
 event_name: ''
 ---
 

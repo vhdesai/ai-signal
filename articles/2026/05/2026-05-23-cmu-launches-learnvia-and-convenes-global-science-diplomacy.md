@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-embedding_id: 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
+embedding_id: null
 event_name: ''
 ---
 

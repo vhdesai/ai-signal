@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 - 2026-08-26-openai-s-jalape-o-chip-beats-nvidia-blackwell-on-inference-e
-embedding_id: 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
+embedding_id: null
 event_name: ''
 ---
 

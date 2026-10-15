@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
-embedding_id: 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
+embedding_id: null
 event_name: ''
 ---
 

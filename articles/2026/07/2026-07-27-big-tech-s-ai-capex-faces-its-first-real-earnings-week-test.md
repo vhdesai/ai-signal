@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-08-31-big-tech-booked-more-than-160b-in-paper-gains-from-ai-stakes
 - 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
-embedding_id: 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
-embedding_id: 2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns
+embedding_id: null
 event_name: ''
 ---
 

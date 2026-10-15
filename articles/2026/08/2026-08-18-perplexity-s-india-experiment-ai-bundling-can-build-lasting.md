@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-nvidia-weighs-perplexity-stake-at-30b-as-the-startup-s-arr-t
 - 2026-08-24-nvidia-discusses-perplexity-investment-at-30-billion-valuati
 - 2026-08-31-openai-s-chatgpt-advertising-business-reaches-1b-annualized
-embedding_id: 2026-08-18-perplexity-s-india-experiment-ai-bundling-can-build-lasting
+embedding_id: null
 event_name: ''
 ---
 

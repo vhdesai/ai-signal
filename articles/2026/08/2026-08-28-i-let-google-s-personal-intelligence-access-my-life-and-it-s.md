@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re
 related_article_ids: []
-embedding_id: 2026-08-28-i-let-google-s-personal-intelligence-access-my-life-and-it-s
+embedding_id: null
 event_name: ''
 ---
 

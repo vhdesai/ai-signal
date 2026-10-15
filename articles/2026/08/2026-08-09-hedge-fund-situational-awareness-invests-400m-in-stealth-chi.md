@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-situational-awareness-puts-400m-into-chip-startup-source-fou
 - 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 - 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
-embedding_id: 2026-08-09-hedge-fund-situational-awareness-invests-400m-in-stealth-chi
+embedding_id: null
 event_name: ''
 ---
 

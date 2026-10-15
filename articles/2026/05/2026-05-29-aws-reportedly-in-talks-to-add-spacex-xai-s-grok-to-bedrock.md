@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
+embedding_id: null
 event_name: ''
 ---
 

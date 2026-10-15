@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
-embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
+embedding_id: null
 event_name: ''
 ---
 

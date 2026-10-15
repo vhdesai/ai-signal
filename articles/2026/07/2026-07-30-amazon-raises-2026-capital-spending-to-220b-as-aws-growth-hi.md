@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
 related_article_ids:
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-embedding_id: 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
+embedding_id: null
 event_name: ''
 ---
 

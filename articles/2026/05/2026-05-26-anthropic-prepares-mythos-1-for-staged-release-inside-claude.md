@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-embedding_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+embedding_id: null
 event_name: ''
 ---
 

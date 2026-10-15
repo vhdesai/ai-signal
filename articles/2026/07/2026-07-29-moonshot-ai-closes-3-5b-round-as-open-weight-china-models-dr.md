@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
+embedding_id: null
 event_name: ''
 ---
 

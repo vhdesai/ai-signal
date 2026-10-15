@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
-embedding_id: 2026-09-04-google-ships-agentic-video-understanding-for-gemini-flash-up
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-with-3-13-faster-deco
-embedding_id: 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
+embedding_id: null
 event_name: ''
 ---
 

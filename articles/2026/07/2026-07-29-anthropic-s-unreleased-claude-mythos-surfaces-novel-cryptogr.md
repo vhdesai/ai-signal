@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
+embedding_id: null
 event_name: ''
 ---
 

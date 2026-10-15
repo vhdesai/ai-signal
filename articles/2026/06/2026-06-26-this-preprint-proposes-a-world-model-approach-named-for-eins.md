@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
-embedding_id: 2026-06-26-this-preprint-proposes-a-world-model-approach-named-for-eins
+embedding_id: null
 event_name: ''
 ---
 

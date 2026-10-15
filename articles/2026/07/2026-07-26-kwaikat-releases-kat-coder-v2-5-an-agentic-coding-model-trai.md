@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
-embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
+embedding_id: null
 event_name: ''
 ---
 

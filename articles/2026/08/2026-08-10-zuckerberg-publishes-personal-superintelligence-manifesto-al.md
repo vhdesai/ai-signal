@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
 - 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
-embedding_id: 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
+embedding_id: null
 event_name: ''
 ---
 

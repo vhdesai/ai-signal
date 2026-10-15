@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 - 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
-embedding_id: 2026-08-23-prime-intellect-publishes-nanogpt-speedrun-frontier-153-auto
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
-embedding_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
+embedding_id: null
 event_name: ''
 ---
 

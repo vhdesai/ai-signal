@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-28-google-moves-agentic-commerce-to-checkout-a-buy-button-on-fl
-embedding_id: 2026-09-28-what-we-still-don-t-know-about-google-s-flipkart-shopping-te
+embedding_id: null
 event_name: ''
 ---
 

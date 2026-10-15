@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
 - 2026-08-19-openai-keeps-its-largest-frontier-training-run-on-hold-over
 - 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
-embedding_id: 2026-08-20-openai-keeps-its-largest-frontier-rl-run-on-hold-over-cyber
+embedding_id: null
 event_name: ''
 ---
 

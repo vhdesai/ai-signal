@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-19-wsj-cbs-jensen-huang-publicly-splits-from-the-slowdown-camp
-embedding_id: 2026-09-15-nvidia-s-huang-rejects-the-pacing-framing-ai-is-just-hardwar
+embedding_id: null
 event_name: ''
 ---
 

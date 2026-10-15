@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-embedding_id: 2026-08-14-silicon-valley-workers-grapple-with-complicity-grief-as-ai-d
+embedding_id: null
 event_name: ''
 ---
 

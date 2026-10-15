@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-embedding_id: 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
+embedding_id: null
 event_name: ''
 ---
 

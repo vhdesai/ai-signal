@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-embedding_id: 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
+embedding_id: null
 event_name: ''
 ---
 

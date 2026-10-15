@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-embedding_id: 2026-05-08-breaking-anthropic-signs-spacex-colossus-data-center-deal-de
+embedding_id: null
 event_name: ''
 ---
 

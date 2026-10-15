@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 related_article_ids: []
-embedding_id: 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
+embedding_id: null
 event_name: ''
 ---
 

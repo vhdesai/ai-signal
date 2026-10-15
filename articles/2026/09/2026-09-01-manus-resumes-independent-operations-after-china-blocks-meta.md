@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu
 - 2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
-embedding_id: 2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta
+embedding_id: null
 event_name: ''
 ---
 

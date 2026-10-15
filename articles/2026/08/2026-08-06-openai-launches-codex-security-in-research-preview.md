@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-embedding_id: 2026-08-06-openai-launches-codex-security-in-research-preview
+embedding_id: null
 event_name: ''
 ---
 

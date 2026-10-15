@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 related_article_ids:
 - 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
-embedding_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-50b-and-5-gi
+embedding_id: null
 event_name: ''
 ---
 

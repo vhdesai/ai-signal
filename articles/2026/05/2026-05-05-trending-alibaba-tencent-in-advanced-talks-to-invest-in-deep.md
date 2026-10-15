@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20
 - 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
-embedding_id: 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
+embedding_id: null
 event_name: ''
 ---
 

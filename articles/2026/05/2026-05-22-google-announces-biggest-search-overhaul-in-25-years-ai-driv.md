@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
 - 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
-embedding_id: 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
+embedding_id: null
 event_name: ''
 ---
 

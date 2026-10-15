@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 - 2026-09-29-ai-ceos-meet-trump-and-speaker-johnson-at-the-white-house
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
-embedding_id: 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
+embedding_id: null
 event_name: ''
 ---
 

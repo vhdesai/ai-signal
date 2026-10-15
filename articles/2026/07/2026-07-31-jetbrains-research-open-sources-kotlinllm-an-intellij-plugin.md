@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a
 - 2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-embedding_id: 2026-07-31-jetbrains-research-open-sources-kotlinllm-an-intellij-plugin
+embedding_id: null
 event_name: ''
 ---
 

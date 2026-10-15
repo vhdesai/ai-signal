@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-trump-administration-working-on-rule-to-curb-china-s-remote
 - 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-embedding_id: 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
+embedding_id: null
 event_name: ''
 ---
 

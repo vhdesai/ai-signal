@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
 - 2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor
-embedding_id: 2026-09-30-anthropic-robots-can-do-34-of-us-work-hours-but-are-cheaper
+embedding_id: null
 event_name: ''
 ---
 

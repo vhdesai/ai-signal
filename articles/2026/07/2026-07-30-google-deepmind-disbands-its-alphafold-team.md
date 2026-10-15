@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-30-google-dissolves-nobel-prize-winning-alphafold-team
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
-embedding_id: 2026-07-30-google-deepmind-disbands-its-alphafold-team
+embedding_id: null
 event_name: ''
 ---
 

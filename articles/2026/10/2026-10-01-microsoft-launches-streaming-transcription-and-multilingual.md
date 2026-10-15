@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c
-embedding_id: 2026-10-01-microsoft-launches-streaming-transcription-and-multilingual
+embedding_id: null
 event_name: ''
 ---
 

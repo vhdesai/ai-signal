@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-embedding_id: 2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts
+embedding_id: null
 event_name: ''
 ---
 

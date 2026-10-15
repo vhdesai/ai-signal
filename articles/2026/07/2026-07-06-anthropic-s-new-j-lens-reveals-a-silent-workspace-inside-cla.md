@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside
 related_article_ids: []
-embedding_id: 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
+embedding_id: null
 event_name: ''
 ---
 

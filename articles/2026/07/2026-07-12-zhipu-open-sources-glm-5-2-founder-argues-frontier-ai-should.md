@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
-embedding_id: 2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should
+embedding_id: null
 event_name: ''
 ---
 

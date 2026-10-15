@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in
-embedding_id: 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
+embedding_id: null
 event_name: ''
 ---
 

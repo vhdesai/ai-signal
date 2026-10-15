@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-02-openai-fires-three-safety-researchers-discloses-rogue-agents
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-embedding_id: 2026-10-01-openai-parts-ways-with-three-safety-researchers
+embedding_id: null
 event_name: ''
 ---
 

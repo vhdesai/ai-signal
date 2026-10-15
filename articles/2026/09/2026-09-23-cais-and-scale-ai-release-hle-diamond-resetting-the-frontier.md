@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-embedding_id: 2026-09-23-cais-and-scale-ai-release-hle-diamond-resetting-the-frontier
+embedding_id: null
 event_name: ''
 ---
 

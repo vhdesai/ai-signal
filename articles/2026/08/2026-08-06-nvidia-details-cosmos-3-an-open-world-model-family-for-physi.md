@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
-embedding_id: 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
+embedding_id: null
 event_name: ''
 ---
 

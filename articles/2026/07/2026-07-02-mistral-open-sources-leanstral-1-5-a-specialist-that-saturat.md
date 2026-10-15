@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
 - 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
-embedding_id: 2026-07-02-mistral-open-sources-leanstral-1-5-a-specialist-that-saturat
+embedding_id: null
 event_name: ''
 ---
 

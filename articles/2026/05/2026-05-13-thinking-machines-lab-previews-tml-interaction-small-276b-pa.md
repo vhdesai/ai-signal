@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9fcd5d5ef408704befc4d4fd70622729d5048a98999ade2c0dbfc2552454b6f7
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 related_article_ids: []
-embedding_id: 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
+embedding_id: null
 event_name: ''
 ---
 

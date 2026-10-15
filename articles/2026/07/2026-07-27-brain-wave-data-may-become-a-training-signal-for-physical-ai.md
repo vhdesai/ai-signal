@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
-embedding_id: 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+embedding_id: null
 event_name: ''
 ---
 

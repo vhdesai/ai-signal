@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
-embedding_id: 2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-nasdaq
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-08-27-anthropic-considers-letting-shareholders-sell-in-ipo-departi
-embedding_id: 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
+embedding_id: null
 event_name: ''
 ---
 

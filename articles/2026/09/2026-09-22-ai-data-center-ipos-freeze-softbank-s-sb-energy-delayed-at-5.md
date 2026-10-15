@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-weighs-3b-stake-in-sb-energy-ohio-backstop-cut-to-und
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
-embedding_id: 2026-09-22-ai-data-center-ipos-freeze-softbank-s-sb-energy-delayed-at-5
+embedding_id: null
 event_name: ''
 ---
 

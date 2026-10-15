@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
-embedding_id: 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
+embedding_id: null
 event_name: ''
 ---
 

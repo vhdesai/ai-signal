@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
-embedding_id: 2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i
+embedding_id: null
 event_name: ''
 ---
 

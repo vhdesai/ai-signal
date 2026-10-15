@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 - 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
-embedding_id: 2026-08-26-daily-ai-news-digest-august-27-2026
+embedding_id: null
 event_name: ''
 ---
 

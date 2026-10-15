@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 related_article_ids: []
-embedding_id: 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
+embedding_id: null
 event_name: ''
 ---
 

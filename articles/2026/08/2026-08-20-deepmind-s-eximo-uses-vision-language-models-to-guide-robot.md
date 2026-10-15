@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
-embedding_id: 2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot
+embedding_id: null
 event_name: ''
 ---
 

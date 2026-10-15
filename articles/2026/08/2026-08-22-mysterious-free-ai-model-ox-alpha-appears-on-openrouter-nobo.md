@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-who-s-behind-the-stealth-model-ox-alpha-mystery-deepens
 - 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
 - 2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m
-embedding_id: 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-at-the-g20-the-us-pushes-lighter-ai-regulation-as-the-eu-adv
 related_article_ids: []
-embedding_id: 2026-09-02-us-pushes-deregulation-at-g20-innovation-ministerial-as-eu-a
+embedding_id: null
 event_name: ''
 ---
 

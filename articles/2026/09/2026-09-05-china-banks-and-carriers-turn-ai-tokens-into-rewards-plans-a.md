@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d
-embedding_id: 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
+embedding_id: null
 event_name: ''
 ---
 

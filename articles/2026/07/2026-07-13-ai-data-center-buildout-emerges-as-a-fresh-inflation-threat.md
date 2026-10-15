@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
 - 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
-embedding_id: 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
+embedding_id: null
 event_name: ''
 ---
 

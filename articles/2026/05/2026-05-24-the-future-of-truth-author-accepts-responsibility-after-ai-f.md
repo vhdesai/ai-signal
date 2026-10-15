@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-authors-push-back-as-publishers-and-agents-claim-share-of-an
 - 2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
-embedding_id: 2026-05-24-the-future-of-truth-author-accepts-responsibility-after-ai-f
+embedding_id: null
 event_name: ''
 ---
 

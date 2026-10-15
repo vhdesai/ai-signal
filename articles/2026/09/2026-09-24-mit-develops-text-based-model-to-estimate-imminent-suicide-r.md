@@ -5,7 +5,7 @@ date: '2026-09-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
 url_canonical: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-25_060720_Inbox_Daily AI News Digest – September
   25, 2026.md
 content_hash: 009639b8f791d64319e0841bf9a84d166e94bafde8a2aa568926d6754db0341e
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-mit-builds-an-interpretable-laptop-scale-model-for-estimatin
 related_article_ids: []
-embedding_id: 2026-09-24-mit-develops-text-based-model-to-estimate-imminent-suicide-r
+embedding_id: null
 event_name: ''
 ---
 

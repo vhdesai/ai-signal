@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
-embedding_id: 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+embedding_id: null
 event_name: ''
 ---
 

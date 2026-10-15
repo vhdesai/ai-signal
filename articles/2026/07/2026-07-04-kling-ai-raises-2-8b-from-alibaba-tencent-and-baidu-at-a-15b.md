@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 - 2026-08-23-alibaba-raises-10-2b-in-hong-kong-s-biggest-ever-follow-on-t
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-embedding_id: 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
+embedding_id: null
 event_name: ''
 ---
 

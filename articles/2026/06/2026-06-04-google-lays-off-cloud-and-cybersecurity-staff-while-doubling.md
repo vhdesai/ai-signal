@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
-embedding_id: 2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling
+embedding_id: null
 event_name: ''
 ---
 

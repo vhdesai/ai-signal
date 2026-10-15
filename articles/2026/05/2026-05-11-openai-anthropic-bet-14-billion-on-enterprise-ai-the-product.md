@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
-embedding_id: 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
+embedding_id: null
 event_name: ''
 ---
 

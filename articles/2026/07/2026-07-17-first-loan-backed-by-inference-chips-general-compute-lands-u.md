@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-general-compute-lands-400-million-loan-backed-by-inference-c
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 - 2026-06-23-groq-confirms-650m-funding-round
-embedding_id: 2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u
+embedding_id: null
 event_name: ''
 ---
 

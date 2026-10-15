@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
-embedding_id: 2026-08-06-openai-partners-with-the-american-psychological-association
+embedding_id: null
 event_name: ''
 ---
 

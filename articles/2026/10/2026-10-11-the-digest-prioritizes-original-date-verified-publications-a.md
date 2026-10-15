@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
-embedding_id: 2026-10-11-the-digest-prioritizes-original-date-verified-publications-a
+embedding_id: null
 event_name: ''
 ---
 

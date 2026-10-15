@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
 - 2026-09-12-another-anthropic-researcher-resigns-citing-ai-extinction-ri
 - 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
-embedding_id: 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
-embedding_id: 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
+embedding_id: null
 event_name: ''
 ---
 

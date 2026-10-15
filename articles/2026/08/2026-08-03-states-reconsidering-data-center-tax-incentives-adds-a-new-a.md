@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
-embedding_id: 2026-08-03-states-reconsidering-data-center-tax-incentives-adds-a-new-a
+embedding_id: null
 event_name: ''
 ---
 

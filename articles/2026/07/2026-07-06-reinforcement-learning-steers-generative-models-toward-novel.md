@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
 - 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
-embedding_id: 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
+embedding_id: null
 event_name: ''
 ---
 

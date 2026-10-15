@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
-embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
+embedding_id: null
 event_name: ''
 ---
 

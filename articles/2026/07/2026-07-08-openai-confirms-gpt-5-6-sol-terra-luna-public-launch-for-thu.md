@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 related_article_ids: []
-embedding_id: 2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu
+embedding_id: null
 event_name: ''
 ---
 

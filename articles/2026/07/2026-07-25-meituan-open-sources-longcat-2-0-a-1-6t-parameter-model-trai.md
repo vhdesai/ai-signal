@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
 related_article_ids: []
-embedding_id: 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
-embedding_id: 2026-09-19-imf-tells-eu-finance-ministers-ai-adds-1-productivity-but-wi
+embedding_id: null
 event_name: ''
 ---
 

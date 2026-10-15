@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-embedding_id: 2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op
+embedding_id: null
 event_name: ''
 ---
 

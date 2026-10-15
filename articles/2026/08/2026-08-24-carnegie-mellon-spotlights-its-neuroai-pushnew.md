@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
-embedding_id: 2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-deepseek-open-sources-deepseek-harness-a-modular-agent-runti
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
-embedding_id: 2026-08-21-deepseek-harness-highlights-the-agent-runtime-as-a-product-c
+embedding_id: null
 event_name: ''
 ---
 

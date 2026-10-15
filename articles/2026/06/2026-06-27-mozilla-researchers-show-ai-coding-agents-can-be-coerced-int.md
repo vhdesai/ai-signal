@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-09-04-reports-warn-hackers-are-turning-claude-qwen-and-deepseek-in
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
-embedding_id: 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
+embedding_id: null
 event_name: ''
 ---
 

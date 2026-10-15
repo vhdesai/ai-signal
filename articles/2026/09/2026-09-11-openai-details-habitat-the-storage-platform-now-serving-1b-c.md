@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-openai-details-habitat-the-storage-layer-now-serving-over-1
 related_article_ids: []
-embedding_id: 2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c
+embedding_id: null
 event_name: ''
 ---
 

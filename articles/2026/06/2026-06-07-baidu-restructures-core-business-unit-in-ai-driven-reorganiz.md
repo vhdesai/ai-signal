@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 - 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
-embedding_id: 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
+embedding_id: null
 event_name: ''
 ---
 

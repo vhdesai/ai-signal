@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
-embedding_id: 2026-08-23-meet-petra-the-ai-that-runs-a-7b-pe-firm
+embedding_id: null
 event_name: ''
 ---
 

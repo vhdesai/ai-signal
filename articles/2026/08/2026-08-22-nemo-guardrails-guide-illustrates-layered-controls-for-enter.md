@@ -5,7 +5,7 @@ date: '2026-08-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/
 url_canonical: https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-23_060515_Inbox_Daily AI News Digest - August 23,
   2026.md
 content_hash: 13dc0c3b1148284778864dc741658ef01273a12cd307bc76a6f4e4071b79285f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
-embedding_id: 2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter
+embedding_id: null
 event_name: ''
 ---
 

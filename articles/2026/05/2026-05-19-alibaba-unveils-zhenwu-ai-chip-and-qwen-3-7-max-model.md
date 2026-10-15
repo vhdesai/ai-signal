@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-the-zhenwu-v900-and-a-20-gw-compute-roadmap
-embedding_id: 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
+embedding_id: null
 event_name: ''
 ---
 

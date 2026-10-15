@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
-embedding_id: 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
+embedding_id: null
 event_name: ''
 ---
 

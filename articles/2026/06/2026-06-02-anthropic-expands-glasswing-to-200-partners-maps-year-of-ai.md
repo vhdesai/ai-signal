@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 - 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
-embedding_id: 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
+embedding_id: null
 event_name: ''
 ---
 

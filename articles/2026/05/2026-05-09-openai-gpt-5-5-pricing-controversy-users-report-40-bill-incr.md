@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 - 2026-04-23-
 - 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
-embedding_id: 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
+embedding_id: null
 event_name: ''
 ---
 

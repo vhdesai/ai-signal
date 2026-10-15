@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-embedding_id: 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
+embedding_id: null
 event_name: ''
 ---
 

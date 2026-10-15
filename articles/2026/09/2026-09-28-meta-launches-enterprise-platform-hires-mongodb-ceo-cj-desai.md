@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-28-meta-launches-an-enterprise-platform-and-hires-mongodb-s-ceo
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-embedding_id: 2026-09-28-meta-launches-enterprise-platform-hires-mongodb-ceo-cj-desai
+embedding_id: null
 event_name: ''
 ---
 

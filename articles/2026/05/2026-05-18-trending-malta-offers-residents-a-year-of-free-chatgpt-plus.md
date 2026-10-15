@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
-embedding_id: 2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus
+embedding_id: null
 event_name: ''
 ---
 

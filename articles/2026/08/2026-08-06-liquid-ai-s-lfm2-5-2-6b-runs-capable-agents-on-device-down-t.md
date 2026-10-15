@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
 related_article_ids: []
-embedding_id: 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
+embedding_id: null
 event_name: ''
 ---
 

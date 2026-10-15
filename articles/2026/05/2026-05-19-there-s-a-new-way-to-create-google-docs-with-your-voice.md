@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
 - 2026-07-14-waze-adds-ai-powered-voice-incident-reporting
-embedding_id: 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
+embedding_id: null
 event_name: ''
 ---
 

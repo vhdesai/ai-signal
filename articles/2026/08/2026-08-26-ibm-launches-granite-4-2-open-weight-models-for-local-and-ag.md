@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
-embedding_id: 2026-08-26-ibm-launches-granite-4-2-open-weight-models-for-local-and-ag
+embedding_id: null
 event_name: ''
 ---
 

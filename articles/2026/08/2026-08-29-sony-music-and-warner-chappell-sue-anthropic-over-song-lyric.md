@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-ov
 related_article_ids:
 - 2026-08-29-sony-music-and-warner-sue-anthropic-over-alleged-music-ip-th
 - 2026-08-29-sony-music-publishing-and-warner-chappell-sue-anthropic-over
-embedding_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
+embedding_id: null
 event_name: ''
 ---
 

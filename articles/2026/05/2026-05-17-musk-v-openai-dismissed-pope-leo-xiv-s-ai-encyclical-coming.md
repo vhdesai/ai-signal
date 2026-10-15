@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-embedding_id: 2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming
+embedding_id: null
 event_name: ''
 ---
 

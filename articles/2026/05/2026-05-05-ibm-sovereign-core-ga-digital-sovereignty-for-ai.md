@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
-embedding_id: 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
+embedding_id: null
 event_name: ''
 ---
 

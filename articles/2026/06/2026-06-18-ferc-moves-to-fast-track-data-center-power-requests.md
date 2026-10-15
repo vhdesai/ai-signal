@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-09-02-texas-halts-new-data-center-grid-connections-over-ghost-dema
-embedding_id: 2026-06-18-ferc-moves-to-fast-track-data-center-power-requests
+embedding_id: null
 event_name: ''
 ---
 

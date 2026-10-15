@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
-embedding_id: 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
+embedding_id: null
 event_name: ''
 ---
 

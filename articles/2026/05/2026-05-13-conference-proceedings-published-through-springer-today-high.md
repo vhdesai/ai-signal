@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 - 2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca
-embedding_id: 2026-05-13-conference-proceedings-published-through-springer-today-high
+embedding_id: null
 event_name: ''
 ---
 

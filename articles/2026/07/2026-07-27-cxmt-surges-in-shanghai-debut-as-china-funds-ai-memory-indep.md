@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 related_article_ids: []
-embedding_id: 2026-07-27-cxmt-surges-in-shanghai-debut-as-china-funds-ai-memory-indep
+embedding_id: null
 event_name: ''
 ---
 

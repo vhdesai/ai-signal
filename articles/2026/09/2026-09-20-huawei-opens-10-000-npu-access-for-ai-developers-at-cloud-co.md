@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
-embedding_id: 2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co
+embedding_id: null
 event_name: ''
 ---
 

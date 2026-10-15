@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 - 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-embedding_id: 2026-09-24-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
+embedding_id: null
 event_name: ''
 ---
 

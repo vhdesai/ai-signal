@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 - 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
-embedding_id: 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
+embedding_id: null
 event_name: ''
 ---
 

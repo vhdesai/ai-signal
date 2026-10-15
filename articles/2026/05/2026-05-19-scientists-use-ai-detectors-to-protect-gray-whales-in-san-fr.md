@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 - 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
-embedding_id: 2026-05-19-scientists-use-ai-detectors-to-protect-gray-whales-in-san-fr
+embedding_id: null
 event_name: ''
 ---
 

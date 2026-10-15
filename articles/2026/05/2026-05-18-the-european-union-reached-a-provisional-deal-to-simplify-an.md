@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 - 2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure
-embedding_id: 2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an
+embedding_id: null
 event_name: ''
 ---
 

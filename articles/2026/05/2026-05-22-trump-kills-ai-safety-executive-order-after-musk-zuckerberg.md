@@ -28,7 +28,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 related_article_ids: []
-embedding_id: 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
+embedding_id: null
 event_name: ''
 ---
 

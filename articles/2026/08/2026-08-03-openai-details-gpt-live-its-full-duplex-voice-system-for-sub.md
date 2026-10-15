@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
-embedding_id: 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
+embedding_id: null
 event_name: ''
 ---
 

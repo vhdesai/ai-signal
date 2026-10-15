@@ -41,7 +41,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 related_article_ids: []
-embedding_id: 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-on-device-benc
+embedding_id: null
 event_name: ''
 ---
 

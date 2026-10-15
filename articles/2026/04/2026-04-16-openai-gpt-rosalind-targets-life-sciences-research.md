@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research
 - 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 - 2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program
-embedding_id: 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 - 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
-embedding_id: 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
+embedding_id: null
 event_name: ''
 ---
 

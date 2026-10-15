@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
-embedding_id: 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
+embedding_id: null
 event_name: ''
 ---
 

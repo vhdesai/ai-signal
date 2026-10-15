@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
-embedding_id: 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
+embedding_id: null
 event_name: ''
 ---
 

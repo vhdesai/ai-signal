@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
-embedding_id: 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
+embedding_id: null
 event_name: ''
 ---
 

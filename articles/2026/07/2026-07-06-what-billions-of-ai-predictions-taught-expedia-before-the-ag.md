@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-embedding_id: 2026-07-06-what-billions-of-ai-predictions-taught-expedia-before-the-ag
+embedding_id: null
 event_name: ''
 ---
 

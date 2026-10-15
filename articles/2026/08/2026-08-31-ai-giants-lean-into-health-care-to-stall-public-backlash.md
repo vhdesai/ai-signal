@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-embedding_id: 2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash
+embedding_id: null
 event_name: ''
 ---
 

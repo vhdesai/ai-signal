@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 related_article_ids: []
-embedding_id: 2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo
+embedding_id: null
 event_name: ''
 ---
 

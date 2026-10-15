@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-climate
 - 2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc
-embedding_id: 2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai
+embedding_id: null
 event_name: ''
 ---
 

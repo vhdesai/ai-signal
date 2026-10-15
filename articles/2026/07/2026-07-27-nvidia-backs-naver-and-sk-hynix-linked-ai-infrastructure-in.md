@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-embedding_id: 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
+embedding_id: null
 event_name: ''
 ---
 

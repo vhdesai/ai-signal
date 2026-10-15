@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
-embedding_id: 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
+embedding_id: null
 event_name: ''
 ---
 

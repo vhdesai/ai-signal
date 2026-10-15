@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi
 related_article_ids: []
-embedding_id: 2026-09-03-sanders-and-casar-propose-a-u-s-ban-on-artificial-superintel
+embedding_id: null
 event_name: ''
 ---
 

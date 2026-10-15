@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
-embedding_id: 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
+embedding_id: null
 event_name: ''
 ---
 

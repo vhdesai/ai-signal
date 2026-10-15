@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
-embedding_id: 2026-04-16-midjourney-released-v8-1-with-native-2k-hd-rendering-at-thre
+embedding_id: null
 event_name: ''
 ---
 

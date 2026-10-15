@@ -40,7 +40,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe
 related_article_ids: []
-embedding_id: 2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model
+embedding_id: null
 event_name: ''
 ---
 

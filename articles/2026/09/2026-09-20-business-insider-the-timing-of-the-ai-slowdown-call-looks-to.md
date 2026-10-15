@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready
 - 2026-09-14-monday-september-14-2026
-embedding_id: 2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to
+embedding_id: null
 event_name: ''
 ---
 

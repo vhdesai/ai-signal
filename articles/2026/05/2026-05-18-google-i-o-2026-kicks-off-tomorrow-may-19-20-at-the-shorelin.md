@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 - 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
-embedding_id: 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
+embedding_id: null
 event_name: ''
 ---
 

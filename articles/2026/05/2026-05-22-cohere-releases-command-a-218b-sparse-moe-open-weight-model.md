@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 - 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
-embedding_id: 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
+embedding_id: null
 event_name: ''
 ---
 

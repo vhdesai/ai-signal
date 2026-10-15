@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
 - 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 - 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
-embedding_id: 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
+embedding_id: null
 event_name: ''
 ---
 

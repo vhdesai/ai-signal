@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: MLCommons
 url_original: https://mlcommons.org/2026/05/2026-rising-stars/
 url_canonical: https://mlcommons.org/2026/05/2026-rising-stars/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d4ce8e8604ecbe49415c8a7818bde0a008504415c630d961c4f6dec6872f7b41
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 - 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
-embedding_id: 2026-05-19-mlcommons-names-2026-rising-stars-cohort-39-researchers-from
+embedding_id: null
 event_name: ''
 ---
 

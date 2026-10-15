@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-embedding_id: 2026-07-24-white-house-draws-new-ai-line-on-china
+embedding_id: null
 event_name: ''
 ---
 

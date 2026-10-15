@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-embedding_id: 2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built
+embedding_id: null
 event_name: ''
 ---
 

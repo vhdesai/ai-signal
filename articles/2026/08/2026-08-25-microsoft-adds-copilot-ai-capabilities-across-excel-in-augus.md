@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
 - 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-embedding_id: 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
+embedding_id: null
 event_name: ''
 ---
 

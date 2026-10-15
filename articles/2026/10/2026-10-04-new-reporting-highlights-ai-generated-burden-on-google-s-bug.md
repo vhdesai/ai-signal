@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-04-google-pauses-bounty-intake-amid-automated-report-noise
 related_article_ids: []
-embedding_id: 2026-10-04-new-reporting-highlights-ai-generated-burden-on-google-s-bug
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/deepseek-v4-flash-beta/
 url_canonical: https://www.geeky-gadgets.com/deepseek-v4-flash-beta/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_062620_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 48a3b2927df8797e9e78c2c8d96bcd9da23a57e04731ea5a85aab5a7fc4f78a6
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-embedding_id: 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
+embedding_id: null
 event_name: ''
 ---
 

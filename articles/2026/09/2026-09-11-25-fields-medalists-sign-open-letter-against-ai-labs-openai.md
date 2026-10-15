@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
-embedding_id: 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
+embedding_id: null
 event_name: ''
 ---
 

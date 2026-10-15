@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-axios-highlights-azure-s-100-billion-run-rate-and-ai-capex-d
 - 2026-07-31-microsoft-holds-capex-line-while-cloud-revenue-climbs
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
+embedding_id: null
 event_name: ''
 ---
 

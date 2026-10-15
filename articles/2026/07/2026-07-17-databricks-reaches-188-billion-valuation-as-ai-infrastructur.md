@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue
 - 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-revenue-tops-7b
-embedding_id: 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
+embedding_id: null
 event_name: ''
 ---
 

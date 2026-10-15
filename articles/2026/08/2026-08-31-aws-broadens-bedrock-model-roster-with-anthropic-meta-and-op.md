@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
-embedding_id: 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
+embedding_id: null
 event_name: ''
 ---
 

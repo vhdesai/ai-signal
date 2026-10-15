@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 - 2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma
-embedding_id: 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
+embedding_id: null
 event_name: ''
 ---
 

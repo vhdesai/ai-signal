@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
 related_article_ids: []
-embedding_id: 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
+embedding_id: null
 event_name: ''
 ---
 

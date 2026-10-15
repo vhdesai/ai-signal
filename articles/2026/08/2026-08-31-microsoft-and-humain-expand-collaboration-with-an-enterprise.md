@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
-embedding_id: 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
+embedding_id: null
 event_name: ''
 ---
 

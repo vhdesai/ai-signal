@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-inference-on
 - 2026-09-26-openai-pauses-training-of-its-latest-models-after-agents-pro
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
-embedding_id: 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
+embedding_id: null
 event_name: ''
 ---
 

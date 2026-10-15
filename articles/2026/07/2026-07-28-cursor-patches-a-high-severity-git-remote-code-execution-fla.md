@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
 url_canonical: https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 28574e5591d3d8e1b322c463b16f5b3c65ce115968207725d307eeeeaa347e92
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
-embedding_id: 2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-embedding_id: 2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit
+embedding_id: null
 event_name: ''
 ---
 

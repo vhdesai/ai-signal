@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-trump-announces-an-ai-force-plans-an-ai-czar-and-rejects-new
 - 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
 - 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-a-new-ai-czar
-embedding_id: 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
+embedding_id: null
 event_name: ''
 ---
 

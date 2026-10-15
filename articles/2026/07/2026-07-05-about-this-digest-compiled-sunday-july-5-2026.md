@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
 - 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
-embedding_id: 2026-07-05-about-this-digest-compiled-sunday-july-5-2026
+embedding_id: null
 event_name: ''
 ---
 

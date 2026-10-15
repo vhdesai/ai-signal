@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/
 url_canonical: https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-18_065100_Final-Daily-AI-News-Digest.md
 content_hash: 5177d68eeb60ebc29fdae716f7fde26aa704fe83ed94f191d60fe571351056b2
 normalized_title_hash: 84990df95efc5d52
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 related_article_ids: []
-embedding_id: 2026-08-17-bytedance-seed-and-tsinghua-introduce-cuda-agent-for-gpu-ker
+embedding_id: null
 event_name: ''
 ---
 

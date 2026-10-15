@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 - 2026-08-29-ex-a16z-bio-lead-on-why-ai-native-vc-requires-a-different-pl
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: 2026-05-25-lucra-sports-lands-ark-invest-as-lead-for-20m-series-b-not-a
+embedding_id: null
 event_name: ''
 ---
 

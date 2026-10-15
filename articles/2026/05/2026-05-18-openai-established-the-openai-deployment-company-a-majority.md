@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
 - 2026-05-11-openai-launches-4b-deployco-ai-services-venture
-embedding_id: 2026-05-18-openai-established-the-openai-deployment-company-a-majority
+embedding_id: null
 event_name: ''
 ---
 

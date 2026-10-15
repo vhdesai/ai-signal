@@ -26,7 +26,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-embedding_id: 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
+embedding_id: null
 event_name: ''
 ---
 

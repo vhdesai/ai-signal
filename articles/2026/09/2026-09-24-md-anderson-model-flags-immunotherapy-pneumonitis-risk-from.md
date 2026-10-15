@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
 - 2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non
-embedding_id: 2026-09-24-md-anderson-model-flags-immunotherapy-pneumonitis-risk-from
+embedding_id: null
 event_name: ''
 ---
 

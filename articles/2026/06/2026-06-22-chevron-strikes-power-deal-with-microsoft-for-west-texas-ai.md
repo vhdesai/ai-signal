@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
+embedding_id: null
 event_name: ''
 ---
 

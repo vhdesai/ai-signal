@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-embedding_id: 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
+embedding_id: null
 event_name: ''
 ---
 

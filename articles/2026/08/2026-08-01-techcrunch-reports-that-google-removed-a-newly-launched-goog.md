@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-31-google-pulls-earth-ai-feature-one-day-after-launch-amid-misi
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
-embedding_id: 2026-08-01-techcrunch-reports-that-google-removed-a-newly-launched-goog
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-zenity-raises-125m-series-c-for-ai-agent-security
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
 - 2026-09-03-air-security-launches-with-50m-to-build-a-firewall-for-ai-ag
-embedding_id: 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
+embedding_id: null
 event_name: ''
 ---
 

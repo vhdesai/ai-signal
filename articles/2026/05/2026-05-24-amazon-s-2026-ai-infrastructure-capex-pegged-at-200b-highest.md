@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
-embedding_id: 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+embedding_id: null
 event_name: ''
 ---
 

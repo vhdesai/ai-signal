@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
-embedding_id: 2026-10-13-anthropic-warns-ai-models-could-soon-copy-themselves-across
+embedding_id: null
 event_name: ''
 ---
 

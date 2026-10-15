@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-ai-lab-chiefs-brief-the-un-security-council-as-21-nations-si
 - 2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
-embedding_id: 2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing
+embedding_id: null
 event_name: ''
 ---
 

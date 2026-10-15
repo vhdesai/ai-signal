@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
-embedding_id: 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
+embedding_id: null
 event_name: ''
 ---
 

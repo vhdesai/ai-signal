@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 related_article_ids: []
-embedding_id: 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
+embedding_id: null
 event_name: ''
 ---
 

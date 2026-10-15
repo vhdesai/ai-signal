@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-23-unitree-s-460-ipo-stock-pop-reflects-china-s-ai-robotics-fre
 - 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai-wasn-t-unusual-in-ch
 - 2026-08-23-unitree-s-460-ipo-stock-pop-in-shanghai
-embedding_id: 2026-08-20-unitree-raises-904m-in-shanghai-ipo-factory-automation-seen
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 related_article_ids: []
-embedding_id: 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 related_article_ids: []
-embedding_id: 2026-08-04-openai-publishes-third-party-cyber-evaluations-disclosure
+embedding_id: null
 event_name: ''
 ---
 

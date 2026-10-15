@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we
 - 2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-embedding_id: 2026-08-20-open-weight-pricing-pressure-intensifies-deepseek-v4-pro-vs
+embedding_id: null
 event_name: ''
 ---
 

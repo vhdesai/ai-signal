@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 related_article_ids: []
-embedding_id: 2026-08-17-openai-s-brockman-warns-of-ai-cybersecurity-tipping-point
+embedding_id: null
 event_name: ''
 ---
 

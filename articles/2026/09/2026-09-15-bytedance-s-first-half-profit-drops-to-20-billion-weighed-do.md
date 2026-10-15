@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3
 related_article_ids: []
-embedding_id: 2026-09-15-bytedance-s-first-half-profit-drops-to-20-billion-weighed-do
+embedding_id: null
 event_name: ''
 ---
 

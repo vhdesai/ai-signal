@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-uber-faces-fine-of-nearly-1b-over-automated-driver-suspensio
 related_article_ids: []
-embedding_id: 2026-08-23-uber-faces-fine-of-nearly-825m-over-automated-driver-suspens
+embedding_id: null
 event_name: ''
 ---
 

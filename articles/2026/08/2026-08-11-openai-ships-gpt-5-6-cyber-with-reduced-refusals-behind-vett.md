@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu
 related_article_ids: []
-embedding_id: 2026-08-11-openai-ships-gpt-5-6-cyber-with-reduced-refusals-behind-vett
+embedding_id: null
 event_name: ''
 ---
 

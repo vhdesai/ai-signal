@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-embedding_id: 2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su
+embedding_id: null
 event_name: ''
 ---
 

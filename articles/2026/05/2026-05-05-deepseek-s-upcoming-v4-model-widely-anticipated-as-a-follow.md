@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
 - 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
-embedding_id: 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
+embedding_id: null
 event_name: ''
 ---
 

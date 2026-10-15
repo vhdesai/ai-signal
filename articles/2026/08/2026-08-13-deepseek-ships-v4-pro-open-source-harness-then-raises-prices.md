@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 related_article_ids: []
-embedding_id: 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
+embedding_id: null
 event_name: ''
 ---
 

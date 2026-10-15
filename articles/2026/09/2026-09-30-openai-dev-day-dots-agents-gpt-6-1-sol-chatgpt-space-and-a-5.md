@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-s-gpt-5-5-instant-a-high-speed-sibling-to-gpt-5-5-opt
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
-embedding_id: 2026-09-30-openai-dev-day-dots-agents-gpt-6-1-sol-chatgpt-space-and-a-5
+embedding_id: null
 event_name: ''
 ---
 

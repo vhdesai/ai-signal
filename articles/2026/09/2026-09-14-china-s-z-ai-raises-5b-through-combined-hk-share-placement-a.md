@@ -6,7 +6,7 @@ date: '2026-09-14'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale
 url_canonical: https://www.scmp.com/tech/article/3367364/seeking-cash-ai-chinas-zai-eyes-new-us5b-fundraising-push-after-july-share-sale
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-14_061129_Inbox_Daily AI News Digest - September
   14, 2026.md
 content_hash: 9506006755bf0c7f672705f60cb4fe71ac2531c3e1b9a05e27359406deacd2f1
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 - 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
-embedding_id: 2026-09-14-china-s-z-ai-raises-5b-through-combined-hk-share-placement-a
+embedding_id: null
 event_name: ''
 ---
 

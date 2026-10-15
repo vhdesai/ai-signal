@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice
 - 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
-embedding_id: 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
+embedding_id: null
 event_name: ''
 ---
 

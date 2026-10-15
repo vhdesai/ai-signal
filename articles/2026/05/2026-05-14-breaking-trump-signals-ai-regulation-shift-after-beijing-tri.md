@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
 - 2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
-embedding_id: 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
+embedding_id: null
 event_name: ''
 ---
 

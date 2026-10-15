@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 related_article_ids: []
-embedding_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
+embedding_id: null
 event_name: ''
 ---
 

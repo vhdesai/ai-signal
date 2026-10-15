@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-embedding_id: 2026-08-28-blue-owl-funds-lead-2-4b-ai-factory-equipment-financing-for
+embedding_id: null
 event_name: ''
 ---
 

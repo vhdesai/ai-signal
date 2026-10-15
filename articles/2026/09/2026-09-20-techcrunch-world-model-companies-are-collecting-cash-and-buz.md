@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 - 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
-embedding_id: 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
+embedding_id: null
 event_name: ''
 ---
 

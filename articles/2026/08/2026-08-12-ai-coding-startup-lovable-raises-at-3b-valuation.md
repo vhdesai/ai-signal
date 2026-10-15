@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 related_article_ids: []
-embedding_id: 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
+embedding_id: null
 event_name: ''
 ---
 

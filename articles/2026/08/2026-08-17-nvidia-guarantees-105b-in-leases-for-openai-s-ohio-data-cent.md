@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-guarantees-105b-for-openai-s-ohio-8-gw-campus
 related_article_ids: []
-embedding_id: 2026-08-17-nvidia-guarantees-105b-in-leases-for-openai-s-ohio-data-cent
+embedding_id: null
 event_name: ''
 ---
 

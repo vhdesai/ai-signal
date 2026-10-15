@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
 related_article_ids: []
-embedding_id: 2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 related_article_ids: []
-embedding_id: 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-06-02-deepmind-anthropic-and-meta-expand-research-into-machine-con
-embedding_id: 2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-september-24-2026
 - 2026-09-06-daily-ai-news-digest-september-7-2026
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-embedding_id: 2026-09-05-sunday-september-6-2026
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 - 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 - 2026-06-11-wired-meet-the-openai-engineer-leading-chatgpt-s-biggest-tra
-embedding_id: 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+embedding_id: null
 event_name: ''
 ---
 

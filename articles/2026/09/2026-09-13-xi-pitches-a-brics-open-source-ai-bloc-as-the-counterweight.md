@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 - 2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-embedding_id: 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
+embedding_id: null
 event_name: ''
 ---
 

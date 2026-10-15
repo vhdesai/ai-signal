@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-nvidia-s-1-5-trillion-earnings-question-can-customers-prove
 related_article_ids: []
-embedding_id: 2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest
+embedding_id: null
 event_name: ''
 ---
 

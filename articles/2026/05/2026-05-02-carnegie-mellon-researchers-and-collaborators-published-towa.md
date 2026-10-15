@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-embedding_id: 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
+embedding_id: null
 event_name: ''
 ---
 

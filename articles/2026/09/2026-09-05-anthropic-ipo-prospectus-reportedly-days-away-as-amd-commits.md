@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
 related_article_ids: []
-embedding_id: 2026-09-05-anthropic-ipo-prospectus-reportedly-days-away-as-amd-commits
+embedding_id: null
 event_name: ''
 ---
 

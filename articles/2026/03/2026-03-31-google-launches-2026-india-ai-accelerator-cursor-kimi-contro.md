@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-embedding_id: 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
+embedding_id: null
 event_name: ''
 ---
 

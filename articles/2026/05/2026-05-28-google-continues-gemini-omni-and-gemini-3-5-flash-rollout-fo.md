@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
-embedding_id: 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
+embedding_id: null
 event_name: ''
 ---
 

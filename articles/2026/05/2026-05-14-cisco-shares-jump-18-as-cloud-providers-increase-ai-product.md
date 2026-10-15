@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue
 - 2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
-embedding_id: 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
+embedding_id: null
 event_name: ''
 ---
 

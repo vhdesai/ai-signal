@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-meta-releases-muse-spark-1-3-with-20-fewer-tool-calls-and-25
 - 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-09-03-meta-ships-muse-spark-1-3-as-agent-economics-move-to-the-for
-embedding_id: 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
+embedding_id: null
 event_name: ''
 ---
 

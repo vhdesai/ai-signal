@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-google-ai-introduces-envharness-turning-static-agent-benchma
 - 2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt
 - 2026-08-30-google-researchers-introduce-envharness-for-adaptive-agent-t
-embedding_id: 2026-08-21-envharness-reshaping-static-environments-for-agent-learning
+embedding_id: null
 event_name: ''
 ---
 

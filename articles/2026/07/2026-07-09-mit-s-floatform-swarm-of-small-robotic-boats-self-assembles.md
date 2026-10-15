@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
-embedding_id: 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
-embedding_id: 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
+embedding_id: null
 event_name: ''
 ---
 

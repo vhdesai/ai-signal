@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
 - 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
-embedding_id: 2026-03-24-anthropic-has-agreed-to-terms-on-a-10-billion-funding-round
+embedding_id: null
 event_name: ''
 ---
 

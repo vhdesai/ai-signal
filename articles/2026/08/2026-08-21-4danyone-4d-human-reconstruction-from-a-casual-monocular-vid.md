@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
 - 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
 - 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
-embedding_id: 2026-08-21-4danyone-4d-human-reconstruction-from-a-casual-monocular-vid
+embedding_id: null
 event_name: ''
 ---
 

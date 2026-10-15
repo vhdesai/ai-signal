@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-embedding_id: 2026-05-14-anthropic-s-cat-wu-outlines-the-proactivity-thesis-for-next
+embedding_id: null
 event_name: ''
 ---
 

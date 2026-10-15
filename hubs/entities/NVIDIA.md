@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1683
+member_count: 1684
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1683 connected article(s).
+> Auto-generated entity hub. 1684 connected article(s).
 
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand|ASML signals persistent capacity pressure from AI demand]]
 - `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]

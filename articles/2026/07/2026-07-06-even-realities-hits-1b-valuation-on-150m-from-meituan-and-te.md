@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
-embedding_id: 2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te
+embedding_id: null
 event_name: ''
 ---
 

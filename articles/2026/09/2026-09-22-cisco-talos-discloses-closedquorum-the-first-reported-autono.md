@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 - 2026-05-15-a-new-macos-tool-called-ai-osaurus-launched-today-giving-use
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-embedding_id: 2026-09-22-cisco-talos-discloses-closedquorum-the-first-reported-autono
+embedding_id: null
 event_name: ''
 ---
 

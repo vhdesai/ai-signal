@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia
 related_article_ids: []
-embedding_id: 2026-09-10-nvidia-and-palantir-ship-a-sovereign-ai-stack-with-nvidia-as
+embedding_id: null
 event_name: ''
 ---
 

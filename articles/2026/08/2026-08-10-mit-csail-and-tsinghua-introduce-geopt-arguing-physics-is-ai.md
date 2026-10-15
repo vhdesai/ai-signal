@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
+embedding_id: null
 event_name: ''
 ---
 

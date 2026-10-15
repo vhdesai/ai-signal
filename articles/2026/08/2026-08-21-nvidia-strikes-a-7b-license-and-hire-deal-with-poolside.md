@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi
 - 2026-08-21-nvidia-to-pay-poolside-6-billion-for-non-exclusive-license-a
 - 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar
-embedding_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
+embedding_id: null
 event_name: ''
 ---
 

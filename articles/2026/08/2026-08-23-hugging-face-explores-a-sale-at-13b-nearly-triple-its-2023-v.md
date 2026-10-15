@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
 - 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
 - 2026-09-04-nvidia-to-acquire-hugging-face-for-roughly-13-billion
-embedding_id: 2026-08-23-hugging-face-explores-a-sale-at-13b-nearly-triple-its-2023-v
+embedding_id: null
 event_name: ''
 ---
 

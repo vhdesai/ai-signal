@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-embedding_id: 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
+embedding_id: null
 event_name: ''
 ---
 

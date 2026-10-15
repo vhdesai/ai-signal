@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 - 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
-embedding_id: 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 - 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
-embedding_id: 2026-05-17-nvidia-released-sana-wm-a-2-6-billion-parameter-world-model
+embedding_id: null
 event_name: ''
 ---
 

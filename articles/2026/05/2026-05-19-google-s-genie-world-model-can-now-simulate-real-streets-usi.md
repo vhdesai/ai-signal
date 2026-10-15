@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 - 2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi
-embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
+embedding_id: null
 event_name: ''
 ---
 

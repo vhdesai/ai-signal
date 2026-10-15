@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
-embedding_id: 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
+embedding_id: null
 event_name: ''
 ---
 

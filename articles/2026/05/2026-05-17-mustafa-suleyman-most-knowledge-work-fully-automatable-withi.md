@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
 - 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
-embedding_id: 2026-05-17-mustafa-suleyman-most-knowledge-work-fully-automatable-withi
+embedding_id: null
 event_name: ''
 ---
 

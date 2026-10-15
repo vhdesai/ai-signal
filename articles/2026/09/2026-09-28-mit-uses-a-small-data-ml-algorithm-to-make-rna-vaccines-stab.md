@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: MIT News
 url_original: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
 url_canonical: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060713_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 8e5cee73396361e42aae6e1a92420e9ae09244bdc95ba2d0f89dbdda4317bf63
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-mit-ml-designed-formulation-lets-rna-vaccines-survive-withou
 related_article_ids: []
-embedding_id: 2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab
+embedding_id: null
 event_name: ''
 ---
 

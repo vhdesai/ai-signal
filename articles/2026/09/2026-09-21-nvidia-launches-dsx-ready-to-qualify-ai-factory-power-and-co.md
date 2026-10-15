@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-lg-electronics-qualifies-2-6-mw-cooling-distribution-unit-fo
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-embedding_id: 2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co
+embedding_id: null
 event_name: ''
 ---
 

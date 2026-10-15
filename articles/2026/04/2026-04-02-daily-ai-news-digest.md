@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-08-09-daily-ai-news-digest-august-10-2026
-embedding_id: 2026-04-02-daily-ai-news-digest
+embedding_id: null
 event_name: ''
 ---
 

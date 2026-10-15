@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-federal-court-upholds-pentagon-s-supply-chain-risk-designati
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
-embedding_id: 2026-09-25-appeals-court-rules-the-pentagon-can-blacklist-anthropic-ove
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
 - 2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr
-embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
+embedding_id: null
 event_name: ''
 ---
 

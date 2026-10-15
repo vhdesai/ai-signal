@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit
 related_article_ids: []
-embedding_id: 2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control
+embedding_id: null
 event_name: ''
 ---
 

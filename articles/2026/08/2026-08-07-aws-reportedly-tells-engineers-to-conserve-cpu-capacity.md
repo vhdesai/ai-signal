@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
-embedding_id: 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
+embedding_id: null
 event_name: ''
 ---
 

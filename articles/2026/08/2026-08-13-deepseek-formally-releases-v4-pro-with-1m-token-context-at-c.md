@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
 - 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-embedding_id: 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
+embedding_id: null
 event_name: ''
 ---
 

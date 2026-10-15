@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
 - 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
 - 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
-embedding_id: 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
+embedding_id: null
 event_name: ''
 ---
 

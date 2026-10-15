@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
-embedding_id: 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
+embedding_id: null
 event_name: ''
 ---
 

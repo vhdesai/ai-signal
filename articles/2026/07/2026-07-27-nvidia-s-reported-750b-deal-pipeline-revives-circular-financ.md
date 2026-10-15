@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
 - 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
-embedding_id: 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
+embedding_id: null
 event_name: ''
 ---
 

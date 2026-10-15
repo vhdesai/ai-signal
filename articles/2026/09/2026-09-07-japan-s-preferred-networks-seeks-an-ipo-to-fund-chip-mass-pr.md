@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video
 url_canonical: https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: e73e2e34e09aed5979968d94145bba5664274634fb83e9b10af7b85a89f5708d
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-embedding_id: 2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr
+embedding_id: null
 event_name: ''
 ---
 

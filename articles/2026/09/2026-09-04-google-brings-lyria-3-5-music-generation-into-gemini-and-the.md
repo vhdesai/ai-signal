@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-google-brings-lyria-3-5-music-generation-to-gemini-app-and-a
 - 2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g
 - 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
-embedding_id: 2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the
+embedding_id: null
 event_name: ''
 ---
 

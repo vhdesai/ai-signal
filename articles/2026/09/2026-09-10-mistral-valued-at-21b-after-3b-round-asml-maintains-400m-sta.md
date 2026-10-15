@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
-embedding_id: 2026-09-10-mistral-valued-at-21b-after-3b-round-asml-maintains-400m-sta
+embedding_id: null
 event_name: ''
 ---
 

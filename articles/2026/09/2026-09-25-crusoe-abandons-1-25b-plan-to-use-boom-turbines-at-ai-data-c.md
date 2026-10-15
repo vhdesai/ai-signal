@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-crusoe-abandons-its-1-25b-plan-to-power-ai-data-centers-with
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
-embedding_id: 2026-09-25-crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-c
+embedding_id: null
 event_name: ''
 ---
 

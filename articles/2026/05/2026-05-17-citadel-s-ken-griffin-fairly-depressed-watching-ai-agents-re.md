@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 - 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
-embedding_id: 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
-embedding_id: 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
+embedding_id: null
 event_name: ''
 ---
 

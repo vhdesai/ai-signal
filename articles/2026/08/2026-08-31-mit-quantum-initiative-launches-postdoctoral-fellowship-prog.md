@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 - 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
-embedding_id: 2026-08-31-mit-quantum-initiative-launches-postdoctoral-fellowship-prog
+embedding_id: null
 event_name: ''
 ---
 

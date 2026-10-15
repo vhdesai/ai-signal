@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
-embedding_id: 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
+embedding_id: null
 event_name: ''
 ---
 

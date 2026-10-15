@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
 - 2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode
-embedding_id: 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
+embedding_id: null
 event_name: ''
 ---
 

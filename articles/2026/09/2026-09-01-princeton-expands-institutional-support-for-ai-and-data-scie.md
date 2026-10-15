@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
-embedding_id: 2026-09-01-princeton-expands-institutional-support-for-ai-and-data-scie
+embedding_id: null
 event_name: ''
 ---
 

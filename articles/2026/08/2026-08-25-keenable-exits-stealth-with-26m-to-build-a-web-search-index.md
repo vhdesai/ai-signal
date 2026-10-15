@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-embedding_id: 2026-08-25-keenable-exits-stealth-with-26m-to-build-a-web-search-index
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-10-anthropic-agents-filled-out-visa-forms-submitted-a-false-hom
 - 2026-10-12-anthropic-s-rogue-agent-incidents-sharpen-the-case-for-hard
 - 2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt
-embedding_id: 2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false
+embedding_id: null
 event_name: ''
 ---
 

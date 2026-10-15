@@ -28,7 +28,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric
 related_article_ids: []
-embedding_id: 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
+embedding_id: null
 event_name: ''
 ---
 

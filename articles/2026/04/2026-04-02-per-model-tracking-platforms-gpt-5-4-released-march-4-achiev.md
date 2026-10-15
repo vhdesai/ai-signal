@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
-embedding_id: 2026-04-02-per-model-tracking-platforms-gpt-5-4-released-march-4-achiev
+embedding_id: null
 event_name: ''
 ---
 

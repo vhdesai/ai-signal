@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
+embedding_id: null
 event_name: ''
 ---
 

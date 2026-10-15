@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-08-23-anthropic-signals-an-ipo-that-could-beat-spacex-s-86-billion
 - 2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str
-embedding_id: 2026-09-18-anthropic-considers-a-pre-ipo-model-release-wall-street-on-e
+embedding_id: null
 event_name: ''
 ---
 

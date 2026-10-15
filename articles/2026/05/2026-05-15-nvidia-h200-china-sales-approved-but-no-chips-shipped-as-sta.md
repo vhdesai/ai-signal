@@ -27,7 +27,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-embedding_id: 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
+embedding_id: null
 event_name: ''
 ---
 

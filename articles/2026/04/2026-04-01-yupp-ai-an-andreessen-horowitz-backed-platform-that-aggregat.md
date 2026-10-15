@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-07-23-daily-ai-news-digest-july-24-2026
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
-embedding_id: 2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat
+embedding_id: null
 event_name: ''
 ---
 

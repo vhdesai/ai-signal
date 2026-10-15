@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-10-10-microsoft-introduces-microsoft-decision-1-for-fast-structure
 related_article_ids: []
-embedding_id: 2026-10-10-microsoft-releases-decision-1-as-decision-scoring-models-bec
+embedding_id: null
 event_name: ''
 ---
 

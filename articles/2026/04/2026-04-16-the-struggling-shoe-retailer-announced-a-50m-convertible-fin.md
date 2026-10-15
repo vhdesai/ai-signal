@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from
 - 2026-08-13-nvidia-s-500b-financing-vehicle-includes-gpu-residual-value
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
-embedding_id: 2026-04-16-the-struggling-shoe-retailer-announced-a-50m-convertible-fin
+embedding_id: null
 event_name: ''
 ---
 

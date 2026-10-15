@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
 - 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 - 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
-embedding_id: 2026-09-05-nvidia-backed-nscale-discloses-103b-in-contracted-revenue-ah
+embedding_id: null
 event_name: ''
 ---
 

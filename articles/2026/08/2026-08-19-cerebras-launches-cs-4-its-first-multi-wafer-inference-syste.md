@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t
 - 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-embedding_id: 2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-tencent-unveils-hy4-preview-a-770b-parameter-open-source-mod
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
-embedding_id: 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
+embedding_id: null
 event_name: ''
 ---
 

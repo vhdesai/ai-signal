@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
-embedding_id: 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
+embedding_id: null
 event_name: ''
 ---
 

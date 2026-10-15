@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
-embedding_id: 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
+embedding_id: null
 event_name: ''
 ---
 

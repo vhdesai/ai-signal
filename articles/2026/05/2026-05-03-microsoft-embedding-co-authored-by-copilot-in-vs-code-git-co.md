@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
-embedding_id: 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
+embedding_id: null
 event_name: ''
 ---
 

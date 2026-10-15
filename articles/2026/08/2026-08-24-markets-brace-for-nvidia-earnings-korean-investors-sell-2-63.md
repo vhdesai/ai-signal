@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings
 related_article_ids:
 - 2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark
-embedding_id: 2026-08-24-markets-brace-for-nvidia-earnings-korean-investors-sell-2-63
+embedding_id: null
 event_name: ''
 ---
 

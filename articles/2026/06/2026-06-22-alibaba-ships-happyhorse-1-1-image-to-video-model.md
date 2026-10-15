@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 - 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
-embedding_id: 2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model
+embedding_id: null
 event_name: ''
 ---
 

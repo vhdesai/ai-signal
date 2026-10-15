@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
 - 2026-09-08-quanta-the-proof-is-lean-verified-but-scope-and-precedence-a
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
-embedding_id: 2026-09-08-credit-dispute-over-the-navier-stokes-result-exposes-an-acad
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
-embedding_id: 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
+embedding_id: null
 event_name: ''
 ---
 

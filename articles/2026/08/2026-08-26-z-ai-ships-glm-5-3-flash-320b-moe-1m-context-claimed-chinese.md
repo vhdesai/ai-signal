@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1
 - 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
-embedding_id: 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
-embedding_id: 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
+embedding_id: null
 event_name: ''
 ---
 

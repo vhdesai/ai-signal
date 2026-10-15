@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
-embedding_id: 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
+embedding_id: null
 event_name: ''
 ---
 

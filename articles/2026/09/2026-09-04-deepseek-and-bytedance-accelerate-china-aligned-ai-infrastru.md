@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 - 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
-embedding_id: 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
+embedding_id: null
 event_name: ''
 ---
 

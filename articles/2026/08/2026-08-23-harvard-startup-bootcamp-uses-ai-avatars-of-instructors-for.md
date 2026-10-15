@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-harvard-business-school-bootcamp-ships-ai-avatars-of-its-ins
-embedding_id: 2026-08-23-harvard-startup-bootcamp-uses-ai-avatars-of-instructors-for
+embedding_id: null
 event_name: ''
 ---
 

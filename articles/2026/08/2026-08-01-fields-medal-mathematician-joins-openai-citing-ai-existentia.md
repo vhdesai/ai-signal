@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-twenty-five-fields-medalists-declare-severe-misalignment-bet
 - 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-embedding_id: 2026-08-01-fields-medal-mathematician-joins-openai-citing-ai-existentia
+embedding_id: null
 event_name: ''
 ---
 

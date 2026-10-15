@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
-embedding_id: 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
+embedding_id: null
 event_name: ''
 ---
 

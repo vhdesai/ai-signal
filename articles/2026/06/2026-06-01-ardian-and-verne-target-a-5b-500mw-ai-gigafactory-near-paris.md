@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: DataCenterDynamics**
 url_original: https://www.datacenterdynamics.com/en/news/ardian-verne-target-500mw-data-center-campus-in-france/
 url_canonical: https://www.datacenterdynamics.com/en/news/ardian-verne-target-500mw-data-center-campus-in-france/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: dd5358ee10a643e056685b6d62ad642d8e16c9550b4d7fd6d7cbd966d13dd5f5
 normalized_title_hash: c84549f5d61dc69b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-embedding_id: 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+embedding_id: null
 event_name: ''
 ---
 

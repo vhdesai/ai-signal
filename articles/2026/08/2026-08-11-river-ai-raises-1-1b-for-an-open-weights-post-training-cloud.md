@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
 related_article_ids: []
-embedding_id: 2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud
+embedding_id: null
 event_name: ''
 ---
 

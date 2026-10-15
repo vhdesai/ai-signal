@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
 related_article_ids: []
-embedding_id: 2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu
+embedding_id: null
 event_name: ''
 ---
 

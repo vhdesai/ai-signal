@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 related_article_ids: []
-embedding_id: 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
+embedding_id: null
 event_name: ''
 ---
 

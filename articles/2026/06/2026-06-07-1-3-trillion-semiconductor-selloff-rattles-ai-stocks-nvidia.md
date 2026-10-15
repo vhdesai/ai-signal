@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
-embedding_id: 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
+embedding_id: null
 event_name: ''
 ---
 

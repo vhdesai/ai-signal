@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 related_article_ids: []
-embedding_id: 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+embedding_id: null
 event_name: ''
 ---
 

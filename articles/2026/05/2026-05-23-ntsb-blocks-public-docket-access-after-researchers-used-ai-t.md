@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-embedding_id: 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
+embedding_id: null
 event_name: ''
 ---
 

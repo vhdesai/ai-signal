@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
 - 2026-08-14-anthropic-defends-and-explains-claude-watermarking-after-use
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
-embedding_id: 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
+embedding_id: null
 event_name: ''
 ---
 

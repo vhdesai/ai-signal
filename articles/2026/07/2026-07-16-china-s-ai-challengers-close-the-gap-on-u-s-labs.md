@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: 2026-07-16-china-s-ai-challengers-close-the-gap-on-u-s-labs
+embedding_id: null
 event_name: ''
 ---
 

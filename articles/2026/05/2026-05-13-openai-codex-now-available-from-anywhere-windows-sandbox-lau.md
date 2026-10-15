@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
-embedding_id: 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
+embedding_id: null
 event_name: ''
 ---
 

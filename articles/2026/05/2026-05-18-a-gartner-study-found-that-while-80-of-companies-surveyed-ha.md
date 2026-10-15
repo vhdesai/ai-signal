@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
-embedding_id: 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+embedding_id: null
 event_name: ''
 ---
 

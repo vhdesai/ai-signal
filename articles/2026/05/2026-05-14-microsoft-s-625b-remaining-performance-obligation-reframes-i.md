@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-embedding_id: 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+embedding_id: null
 event_name: ''
 ---
 

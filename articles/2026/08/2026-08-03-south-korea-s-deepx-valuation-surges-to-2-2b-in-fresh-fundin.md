@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-embedding_id: 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
+embedding_id: null
 event_name: ''
 ---
 

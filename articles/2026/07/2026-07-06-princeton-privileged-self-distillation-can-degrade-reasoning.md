@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with
 - 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 - 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
-embedding_id: 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
+embedding_id: null
 event_name: ''
 ---
 

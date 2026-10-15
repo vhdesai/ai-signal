@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
-embedding_id: 2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty
+embedding_id: null
 event_name: ''
 ---
 

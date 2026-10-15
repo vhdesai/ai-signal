@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpus-with-a-5-equity-w
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor
-embedding_id: 2026-06-26-onsemi-to-acquire-synaptics-in-7b-all-stock-deal-to-push-int
+embedding_id: null
 event_name: ''
 ---
 

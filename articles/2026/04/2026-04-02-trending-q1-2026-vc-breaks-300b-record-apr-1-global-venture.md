@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
-embedding_id: 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
+embedding_id: null
 event_name: ''
 ---
 

@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 - 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-embedding_id: 2026-09-03-meta-tests-safeguards-to-keep-its-upcoming-hatch-ai-agent-fr
+embedding_id: null
 event_name: ''
 ---
 

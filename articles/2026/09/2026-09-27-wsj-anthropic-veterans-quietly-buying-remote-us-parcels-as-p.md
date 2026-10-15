@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: 2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p
+embedding_id: null
 event_name: ''
 ---
 

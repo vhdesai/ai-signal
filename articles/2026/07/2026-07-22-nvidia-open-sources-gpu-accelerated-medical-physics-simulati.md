@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-embedding_id: 2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati
+embedding_id: null
 event_name: ''
 ---
 

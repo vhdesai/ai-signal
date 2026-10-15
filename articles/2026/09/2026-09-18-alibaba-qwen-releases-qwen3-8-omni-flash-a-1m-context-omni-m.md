@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/18/alibaba-qwen-qwen3-8-omni-flash-1m-context/
 url_canonical: https://www.marktechpost.com/2026/09/18/alibaba-qwen-qwen3-8-omni-flash-1m-context/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_070347_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: 7da4eb6fcb420f773b7e855ce59ff28b216e8344c390574c1874bb31d8ad1486
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m
 - 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
-embedding_id: 2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m
+embedding_id: null
 event_name: ''
 ---
 

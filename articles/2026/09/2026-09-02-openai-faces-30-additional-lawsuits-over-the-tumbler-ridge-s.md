@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
-embedding_id: 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
+embedding_id: null
 event_name: ''
 ---
 

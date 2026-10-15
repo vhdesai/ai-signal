@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 - 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
-embedding_id: 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
+embedding_id: null
 event_name: ''
 ---
 

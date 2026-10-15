@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-embedding_id: 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
+embedding_id: null
 event_name: ''
 ---
 

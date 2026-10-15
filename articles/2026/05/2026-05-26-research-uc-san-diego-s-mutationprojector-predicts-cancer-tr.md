@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
 - 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
-embedding_id: 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
+embedding_id: null
 event_name: ''
 ---
 

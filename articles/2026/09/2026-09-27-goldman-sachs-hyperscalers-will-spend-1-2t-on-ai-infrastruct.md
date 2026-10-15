@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i
 related_article_ids: []
-embedding_id: 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
+embedding_id: null
 event_name: ''
 ---
 

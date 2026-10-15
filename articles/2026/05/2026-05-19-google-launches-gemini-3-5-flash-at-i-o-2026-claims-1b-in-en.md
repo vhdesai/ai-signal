@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-embedding_id: 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
+embedding_id: null
 event_name: ''
 ---
 

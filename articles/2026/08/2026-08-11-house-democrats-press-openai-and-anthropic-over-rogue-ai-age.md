@@ -50,7 +50,7 @@ related_article_ids:
 - 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-10-05-anthropic-openai-google-and-meta-testify-under-oath-at-new-y
-embedding_id: 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
+embedding_id: null
 event_name: ''
 ---
 

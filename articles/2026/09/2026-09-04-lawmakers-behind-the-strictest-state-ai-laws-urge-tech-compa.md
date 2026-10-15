@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 - 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
-embedding_id: 2026-09-04-lawmakers-behind-the-strictest-state-ai-laws-urge-tech-compa
+embedding_id: null
 event_name: ''
 ---
 

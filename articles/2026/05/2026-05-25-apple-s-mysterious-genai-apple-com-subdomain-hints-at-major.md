@@ -27,7 +27,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
-embedding_id: 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
-embedding_id: 2026-04-11-academic-research
+embedding_id: null
 event_name: ''
 ---
 

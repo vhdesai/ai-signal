@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
 - 2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token
 - 2026-08-23-ox-alpha-a-stealth-reasoning-model-appears-on-openrouter
-embedding_id: 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
+embedding_id: null
 event_name: ''
 ---
 

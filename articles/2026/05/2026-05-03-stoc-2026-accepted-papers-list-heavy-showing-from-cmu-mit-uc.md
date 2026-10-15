@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
-embedding_id: 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
+embedding_id: null
 event_name: ''
 ---
 

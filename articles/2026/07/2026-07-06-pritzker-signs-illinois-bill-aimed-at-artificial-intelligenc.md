@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
 - 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 - 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
-embedding_id: 2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc
+embedding_id: null
 event_name: ''
 ---
 

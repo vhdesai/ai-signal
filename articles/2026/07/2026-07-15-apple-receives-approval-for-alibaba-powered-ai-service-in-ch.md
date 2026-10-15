@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 related_article_ids: []
-embedding_id: 2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch
+embedding_id: null
 event_name: ''
 ---
 

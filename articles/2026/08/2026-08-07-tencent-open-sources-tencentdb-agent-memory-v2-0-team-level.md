@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: MarkTechPost / VentureBeat
 url_original: https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/
 url_canonical: https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-09_061128_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 8639f9040c50d562fa08f6ec702d89596d33894f4b073e81698a1843def1c612
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
-embedding_id: 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
+embedding_id: null
 event_name: ''
 ---
 

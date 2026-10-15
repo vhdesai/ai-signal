@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-08-25-multiverse-computing-reports-4-bit-compressed-model-matching
-embedding_id: 2026-07-28-multiverse-computing-raises-570m-series-c-at-1-7b-valuation
+embedding_id: null
 event_name: ''
 ---
 

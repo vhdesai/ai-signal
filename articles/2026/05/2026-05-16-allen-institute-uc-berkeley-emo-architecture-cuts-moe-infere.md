@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
-embedding_id: 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
+embedding_id: null
 event_name: ''
 ---
 

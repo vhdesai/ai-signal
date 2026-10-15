@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
+embedding_id: null
 event_name: ''
 ---
 

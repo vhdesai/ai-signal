@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 - 2026-06-17-daily-ai-news-digest-june-18-2026
 - 2026-08-12-kavukcuoglu-takes-over-google-deepmind-as-hassabis-moves-to
-embedding_id: 2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav
+embedding_id: null
 event_name: ''
 ---
 

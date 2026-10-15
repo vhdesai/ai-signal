@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-23-aegisai-raises-36-million-to-fight-ai-driven-spear-phishing
 - 2026-08-20-twin1-ai-raises-20m-for-per-employee-ai-twins
-embedding_id: 2026-07-28-bot-detection-startup-spur-raises-200m-from-insight-partners
+embedding_id: null
 event_name: ''
 ---
 

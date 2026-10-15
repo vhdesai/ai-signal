@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-08-12-daily-ai-news-digest-august-13-2026
-embedding_id: 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+embedding_id: null
 event_name: ''
 ---
 

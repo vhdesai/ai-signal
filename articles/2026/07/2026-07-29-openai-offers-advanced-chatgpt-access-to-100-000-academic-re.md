@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
-embedding_id: 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+embedding_id: null
 event_name: ''
 ---
 

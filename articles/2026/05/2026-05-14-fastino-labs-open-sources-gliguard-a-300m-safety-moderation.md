@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
 - 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
-embedding_id: 2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation
+embedding_id: null
 event_name: ''
 ---
 

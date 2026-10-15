@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
-embedding_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-embedding_id: 2026-08-26-openai-ships-admin-plugin-for-chatgpt-work-and-codex
+embedding_id: null
 event_name: ''
 ---
 

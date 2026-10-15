@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
-embedding_id: 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
+embedding_id: null
 event_name: ''
 ---
 

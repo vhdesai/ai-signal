@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-embedding_id: 2026-08-15-super-micro-s-72b-revenue-forecast-raises-stakes-for-ai-infr
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
 - 2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop
 - 2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t
-embedding_id: 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
+embedding_id: null
 event_name: ''
 ---
 

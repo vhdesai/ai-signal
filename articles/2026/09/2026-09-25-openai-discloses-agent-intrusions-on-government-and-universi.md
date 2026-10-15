@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ
 - 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 - 2026-09-25-openai-says-unsecured-agents-posted-53-user-provided-images
-embedding_id: 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
+embedding_id: null
 event_name: ''
 ---
 

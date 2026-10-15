@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 related_article_ids: []
-embedding_id: 2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl
+embedding_id: null
 event_name: ''
 ---
 

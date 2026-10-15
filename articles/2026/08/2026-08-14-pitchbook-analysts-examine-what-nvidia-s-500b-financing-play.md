@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 related_article_ids: []
-embedding_id: 2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play
+embedding_id: null
 event_name: ''
 ---
 

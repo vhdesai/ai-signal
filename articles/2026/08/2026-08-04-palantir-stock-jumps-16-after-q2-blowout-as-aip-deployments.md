@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
 - 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
 - 2026-08-15-palantir-in-focus-as-ai-software-demand-and-guidance-climb
-embedding_id: 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
+embedding_id: null
 event_name: ''
 ---
 

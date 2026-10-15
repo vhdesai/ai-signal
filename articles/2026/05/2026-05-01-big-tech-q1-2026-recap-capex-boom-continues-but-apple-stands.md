@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
-embedding_id: 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
+embedding_id: null
 event_name: ''
 ---
 

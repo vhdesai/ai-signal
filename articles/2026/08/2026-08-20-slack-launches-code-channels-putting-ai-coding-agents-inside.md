@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 - 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
 - 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
-embedding_id: 2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside
+embedding_id: null
 event_name: ''
 ---
 

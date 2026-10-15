@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-embedding_id: 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 - event-microsoft-build-2026-microsoft-build-2026-overview
-embedding_id: event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
+embedding_id: null
 event_name: Microsoft Build 2026
 ---
 

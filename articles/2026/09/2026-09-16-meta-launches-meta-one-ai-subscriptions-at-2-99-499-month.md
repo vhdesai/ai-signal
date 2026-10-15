@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra
-embedding_id: 2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month
+embedding_id: null
 event_name: ''
 ---
 

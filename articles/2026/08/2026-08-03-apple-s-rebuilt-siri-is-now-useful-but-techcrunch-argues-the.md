@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
-embedding_id: 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
+embedding_id: null
 event_name: ''
 ---
 

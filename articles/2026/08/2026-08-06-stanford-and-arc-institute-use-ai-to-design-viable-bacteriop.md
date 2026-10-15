@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-embedding_id: 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
+embedding_id: null
 event_name: ''
 ---
 

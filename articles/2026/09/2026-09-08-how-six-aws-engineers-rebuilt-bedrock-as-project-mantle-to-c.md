@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 - 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
 - 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
-embedding_id: 2026-09-08-how-six-aws-engineers-rebuilt-bedrock-as-project-mantle-to-c
+embedding_id: null
 event_name: ''
 ---
 

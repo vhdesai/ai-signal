@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-nvidia-and-palantir-productize-a-sovereign-supply-chain-ai-s
 - 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-embedding_id: 2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-mit-uses-machine-learning-to-screen-catalysts-for-greener-am
 - 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
-embedding_id: 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
+embedding_id: null
 event_name: ''
 ---
 

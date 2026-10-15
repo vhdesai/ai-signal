@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent
 - 2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap
-embedding_id: 2026-08-25-superstep-capital-backs-zencore-to-build-independent-google
+embedding_id: null
 event_name: ''
 ---
 

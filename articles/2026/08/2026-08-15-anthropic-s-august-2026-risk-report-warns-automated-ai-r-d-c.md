@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-09-17-anthropic-publishes-three-internal-safety-metrics-including
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
-embedding_id: 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
+embedding_id: null
 event_name: ''
 ---
 

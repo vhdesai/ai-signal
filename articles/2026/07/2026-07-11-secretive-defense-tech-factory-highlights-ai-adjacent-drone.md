@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 - 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
-embedding_id: 2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone
+embedding_id: null
 event_name: ''
 ---
 

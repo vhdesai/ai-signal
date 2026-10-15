@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-openai-ships-astra-for-law-a-legal-configuration-of-gpt-6-as
 related_article_ids: []
-embedding_id: 2026-09-18-openai-ships-astra-for-law-with-a-230-million-url-legal-sear
+embedding_id: null
 event_name: ''
 ---
 

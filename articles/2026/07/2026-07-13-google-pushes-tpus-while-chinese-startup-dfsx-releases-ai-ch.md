@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-08-16-report-google-taps-amd-to-help-design-its-next-generation-tp
-embedding_id: 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
+embedding_id: null
 event_name: ''
 ---
 

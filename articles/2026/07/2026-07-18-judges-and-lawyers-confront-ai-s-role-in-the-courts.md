@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
 - 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
-embedding_id: 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
+embedding_id: null
 event_name: ''
 ---
 

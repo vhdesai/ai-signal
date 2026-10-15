@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard
 url_canonical: https://www.scmp.com/tech/article/3368357/china-eyes-chip-industry-foothold-tiny-han-xin-code-challenge-us-standard
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: fd55a2d47d701394177c0ad84e53de1223094d75c3307d2e11f0e0c009a0e5f9
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
-embedding_id: 2026-09-22-china-pushes-miniaturized-han-xin-barcode-into-iso-standardi
+embedding_id: null
 event_name: ''
 ---
 

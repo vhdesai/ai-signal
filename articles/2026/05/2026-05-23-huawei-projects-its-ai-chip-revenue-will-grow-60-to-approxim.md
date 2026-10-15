@@ -32,7 +32,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-nvidia-s-equity-stakes-could-become-john-malone-style-conglo
 related_article_ids: []
-embedding_id: 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
+embedding_id: null
 event_name: ''
 ---
 

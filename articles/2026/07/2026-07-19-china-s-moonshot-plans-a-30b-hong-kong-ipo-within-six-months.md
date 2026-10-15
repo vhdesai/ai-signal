@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-trending-moonshot-ai-confidentially-files-for-hong-kong-ipo
 - 2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-embedding_id: 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
+embedding_id: null
 event_name: ''
 ---
 

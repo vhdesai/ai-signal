@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
-embedding_id: 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
+embedding_id: null
 event_name: ''
 ---
 

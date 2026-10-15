@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
 related_article_ids: []
-embedding_id: 2026-07-30-google-deepmind-unveils-gemini-robotics-2
+embedding_id: null
 event_name: ''
 ---
 

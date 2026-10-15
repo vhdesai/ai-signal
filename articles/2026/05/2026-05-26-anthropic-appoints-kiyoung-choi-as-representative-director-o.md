@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-08-25-openai-dc-head-departs-anthropic-expected-to-file-s-1
-embedding_id: 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
+embedding_id: null
 event_name: ''
 ---
 

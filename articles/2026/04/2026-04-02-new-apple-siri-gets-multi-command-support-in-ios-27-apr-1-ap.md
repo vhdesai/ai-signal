@@ -26,7 +26,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
-embedding_id: 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
+embedding_id: null
 event_name: ''
 ---
 

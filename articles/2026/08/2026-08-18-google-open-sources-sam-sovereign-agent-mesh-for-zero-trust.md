@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne
 - 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
 - 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
-embedding_id: 2026-08-18-google-open-sources-sam-sovereign-agent-mesh-for-zero-trust
+embedding_id: null
 event_name: ''
 ---
 

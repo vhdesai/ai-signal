@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-29-the-information-publishes-a-postmortem-on-the-hugging-face-h
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-embedding_id: 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
+embedding_id: null
 event_name: ''
 ---
 

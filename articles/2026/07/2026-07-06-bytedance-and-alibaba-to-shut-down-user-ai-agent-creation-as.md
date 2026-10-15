@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 related_article_ids: []
-embedding_id: 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 related_article_ids: []
-embedding_id: 2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv
+embedding_id: null
 event_name: ''
 ---
 

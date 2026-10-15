@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 related_article_ids: []
-embedding_id: 2026-09-20-axios-trump-reportedly-weighing-an-ai-force-branch-and-new-f
+embedding_id: null
 event_name: ''
 ---
 

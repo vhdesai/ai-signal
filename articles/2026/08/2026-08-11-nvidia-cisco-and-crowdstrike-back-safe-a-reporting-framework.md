@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
 related_article_ids: []
-embedding_id: 2026-08-11-nvidia-cisco-and-crowdstrike-back-safe-a-reporting-framework
+embedding_id: null
 event_name: ''
 ---
 

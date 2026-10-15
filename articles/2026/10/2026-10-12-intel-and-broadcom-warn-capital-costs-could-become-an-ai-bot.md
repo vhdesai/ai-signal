@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
-embedding_id: 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
+embedding_id: null
 event_name: ''
 ---
 

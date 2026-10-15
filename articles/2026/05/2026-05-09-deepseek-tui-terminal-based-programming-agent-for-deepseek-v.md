@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 - 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 - 2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b
-embedding_id: 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
+embedding_id: null
 event_name: ''
 ---
 

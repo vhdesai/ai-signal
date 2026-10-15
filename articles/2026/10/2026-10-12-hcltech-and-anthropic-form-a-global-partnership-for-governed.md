@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-global-prem
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-06-03-anthropic-scales-enterprise-consulting-ecosystem-with-servic
-embedding_id: 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
+embedding_id: null
 event_name: ''
 ---
 

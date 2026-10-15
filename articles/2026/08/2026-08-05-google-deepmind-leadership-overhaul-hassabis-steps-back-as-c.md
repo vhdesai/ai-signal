@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 - 2026-08-05-google-s-ai-leadership-reshuffled-jeff-dean-departs-hassabis
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
-embedding_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-18-kimi-k3-shocks-the-market-and-prompts-debate-over-u-s-ai-com
 - 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
-embedding_id: 2026-07-17-moonshot-ai-s-kimi-k3-reportedly-challenges-top-u-s-systems
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
 - 2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr
-embedding_id: 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
+embedding_id: null
 event_name: ''
 ---
 

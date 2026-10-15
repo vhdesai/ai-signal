@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
-embedding_id: 2026-09-05-ai-s-next-bottlenecks-nvidia-broadcom-and-crowdstrike-move-u
+embedding_id: null
 event_name: ''
 ---
 

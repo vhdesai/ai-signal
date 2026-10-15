@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la
 - 2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: 2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir
+embedding_id: null
 event_name: ''
 ---
 

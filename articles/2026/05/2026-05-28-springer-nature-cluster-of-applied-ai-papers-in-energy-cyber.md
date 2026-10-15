@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
-embedding_id: 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
+embedding_id: null
 event_name: ''
 ---
 

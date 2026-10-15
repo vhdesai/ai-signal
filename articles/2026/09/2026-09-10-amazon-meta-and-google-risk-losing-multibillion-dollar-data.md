@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
-embedding_id: 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
+embedding_id: null
 event_name: ''
 ---
 

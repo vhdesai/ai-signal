@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-embedding_id: 2026-08-20-robots-rewiring-construction
+embedding_id: null
 event_name: ''
 ---
 

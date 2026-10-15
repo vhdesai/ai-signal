@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+embedding_id: null
 event_name: ''
 ---
 

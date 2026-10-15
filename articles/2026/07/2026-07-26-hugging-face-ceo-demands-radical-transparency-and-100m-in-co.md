@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 related_article_ids: []
-embedding_id: 2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co
+embedding_id: null
 event_name: ''
 ---
 

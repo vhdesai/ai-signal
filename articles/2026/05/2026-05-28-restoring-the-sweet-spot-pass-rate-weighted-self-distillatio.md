@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 - 2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with
-embedding_id: 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
-embedding_id: 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
+embedding_id: null
 event_name: ''
 ---
 

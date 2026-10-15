@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-embedding_id: 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 related_article_ids: []
-embedding_id: 2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint
+embedding_id: null
 event_name: ''
 ---
 

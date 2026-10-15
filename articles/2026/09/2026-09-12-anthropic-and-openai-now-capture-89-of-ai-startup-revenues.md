@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
-embedding_id: 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
+embedding_id: null
 event_name: ''
 ---
 

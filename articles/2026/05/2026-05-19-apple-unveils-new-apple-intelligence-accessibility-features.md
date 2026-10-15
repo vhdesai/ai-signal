@@ -26,7 +26,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-embedding_id: 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
+embedding_id: null
 event_name: ''
 ---
 

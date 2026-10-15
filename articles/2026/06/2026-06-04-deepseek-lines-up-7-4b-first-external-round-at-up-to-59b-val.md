@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 - 2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema
-embedding_id: 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
-embedding_id: 2026-10-06-libreoffice-says-no-ai-is-now-a-product-feature
+embedding_id: null
 event_name: ''
 ---
 

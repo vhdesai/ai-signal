@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 related_article_ids: []
-embedding_id: 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
+embedding_id: null
 event_name: ''
 ---
 

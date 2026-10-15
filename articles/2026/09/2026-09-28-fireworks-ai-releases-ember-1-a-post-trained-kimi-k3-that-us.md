@@ -6,7 +6,7 @@ date: '2026-09-28'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/
 url_canonical: https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-28_060201_Inbox_Daily AI News Digest – September
   28, 2026.md
 content_hash: 99626055fa4a79601f9e096a85236956c1146721ea456543efa459881c1cb868
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-using-4
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us
+embedding_id: null
 event_name: ''
 ---
 

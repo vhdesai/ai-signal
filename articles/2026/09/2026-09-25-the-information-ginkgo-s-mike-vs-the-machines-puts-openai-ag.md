@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-10-01-stat-news-claude-analyzed-a-complete-human-genome-in-30-minu
-embedding_id: 2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag
+embedding_id: null
 event_name: ''
 ---
 

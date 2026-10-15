@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 related_article_ids: []
-embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
+embedding_id: null
 event_name: ''
 ---
 

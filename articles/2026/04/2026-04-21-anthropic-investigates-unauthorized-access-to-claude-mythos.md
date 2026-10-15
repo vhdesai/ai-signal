@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
-embedding_id: 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
+embedding_id: null
 event_name: ''
 ---
 

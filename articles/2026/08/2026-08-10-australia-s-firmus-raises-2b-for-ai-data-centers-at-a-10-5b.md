@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-a-10-5b-valuation
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-embedding_id: 2026-08-10-australia-s-firmus-raises-2b-for-ai-data-centers-at-a-10-5b
+embedding_id: null
 event_name: ''
 ---
 

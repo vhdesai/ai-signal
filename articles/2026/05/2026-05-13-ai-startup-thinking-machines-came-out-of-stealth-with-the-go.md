@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
 - 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
-embedding_id: 2026-05-13-ai-startup-thinking-machines-came-out-of-stealth-with-the-go
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-g20-endorses-u-s-backed-carolina-principles-for-sector-based
 - 2026-09-02-u-s-pushes-light-touch-ai-regulation-at-g20-as-europe-advanc
 - 2026-09-02-musk-warns-of-ai-power-shortages-at-g20-as-summit-clashes-ov
-embedding_id: 2026-09-03-g20-endorses-non-binding-carolina-principles-for-light-touch
+embedding_id: null
 event_name: ''
 ---
 

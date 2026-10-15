@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
-embedding_id: 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-07'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
 url_canonical: https://www.geeky-gadgets.com/google-deepmind-gemini-4-expected/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-09_061456_Inbox_Daily AI News Digest - August 9,
   2026.md
 content_hash: 9feac5bb65b1ad5f4b7609789b3df5bde62e4d5ce8746795373337c3788e9293
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta
-embedding_id: 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
+embedding_id: null
 event_name: ''
 ---
 

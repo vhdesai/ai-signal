@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
-embedding_id: 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
+embedding_id: null
 event_name: ''
 ---
 

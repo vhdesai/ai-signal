@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
-embedding_id: 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
+embedding_id: null
 event_name: ''
 ---
 

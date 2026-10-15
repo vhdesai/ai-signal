@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
-embedding_id: 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
+embedding_id: null
 event_name: ''
 ---
 

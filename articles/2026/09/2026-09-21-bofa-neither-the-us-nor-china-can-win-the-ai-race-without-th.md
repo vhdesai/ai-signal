@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368219/neither-us-nor-china-can-win-ai-race-alone-bofa-analyst-says
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368219/neither-us-nor-china-can-win-ai-race-alone-bofa-analyst-says
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_061145_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 42d70906e376f04e548890e5580a7d6140ca62998af35aa6f17b9a6972d8f5fe
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-embedding_id: 2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th
+embedding_id: null
 event_name: ''
 ---
 

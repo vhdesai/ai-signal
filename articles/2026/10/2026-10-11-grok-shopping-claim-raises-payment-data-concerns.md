@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro
 - 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 - 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
-embedding_id: 2026-10-11-grok-shopping-claim-raises-payment-data-concerns
+embedding_id: null
 event_name: ''
 ---
 

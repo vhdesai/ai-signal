@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-07-22-daily-ai-news-digest-july-23-2026
-embedding_id: 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
+embedding_id: null
 event_name: ''
 ---
 

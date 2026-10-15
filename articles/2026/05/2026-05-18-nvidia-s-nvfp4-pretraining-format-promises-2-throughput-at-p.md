@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model
-embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
+embedding_id: null
 event_name: ''
 ---
 

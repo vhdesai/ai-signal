@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
-embedding_id: 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
+embedding_id: null
 event_name: ''
 ---
 

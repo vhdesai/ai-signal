@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
-embedding_id: 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
+embedding_id: null
 event_name: ''
 ---
 

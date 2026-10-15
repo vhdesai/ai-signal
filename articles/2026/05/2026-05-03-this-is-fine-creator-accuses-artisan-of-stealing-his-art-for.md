@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
 - 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
-embedding_id: 2026-05-03-this-is-fine-creator-accuses-artisan-of-stealing-his-art-for
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
 - 2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed
-embedding_id: 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
+embedding_id: null
 event_name: ''
 ---
 

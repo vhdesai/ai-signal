@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-embedding_id: 2026-08-05-klaviyo-acquires-elias-torres-agency-founder-joins-as-chief
+embedding_id: null
 event_name: ''
 ---
 

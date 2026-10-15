@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-08-20-ramp-launches-ai-model-router-continued
-embedding_id: 2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open
+embedding_id: null
 event_name: ''
 ---
 

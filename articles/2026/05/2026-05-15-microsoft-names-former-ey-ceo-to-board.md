@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
 - 2026-09-11-fidji-simo-joins-nscale-s-board-ahead-of-a-potential-us-list
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-with-the-company-trailin
-embedding_id: 2026-05-15-microsoft-names-former-ey-ceo-to-board
+embedding_id: null
 event_name: ''
 ---
 

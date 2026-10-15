@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-embedding_id: 2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 - 2026-09-12-gemini-desktop-app-arrives-on-windows-10-and-11
-embedding_id: 2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win
+embedding_id: null
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: DeepMind and Singapore develop local scam detection
 date: '2026-10-14'
 source: Google DeepMind
 url_original: null
-url_canonical: https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-14_063518_Inbox_Daily AI News Digest – October
   14, 2026.md
 content_hash: 2aef64047e1462c91834260e258748b7e644db283f792f3018a903dcf945d613
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
-embedding_id: 2026-10-14-deepmind-and-singapore-develop-local-scam-detection
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 related_article_ids: []
-embedding_id: 2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di
+embedding_id: null
 event_name: ''
 ---
 

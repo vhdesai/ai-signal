@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 - 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-embedding_id: 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+embedding_id: null
 event_name: ''
 ---
 

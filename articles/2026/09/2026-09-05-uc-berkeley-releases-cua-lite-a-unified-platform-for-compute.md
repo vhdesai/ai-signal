@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-06-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
 - 2026-09-05-uc-berkeley-releases-cua-lite-unifying-sandboxes-data-evalua
 - 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
-embedding_id: 2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute
+embedding_id: null
 event_name: ''
 ---
 

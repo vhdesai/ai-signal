@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
-embedding_id: 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
+embedding_id: null
 event_name: ''
 ---
 

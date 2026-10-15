@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
-embedding_id: 2026-08-14-pitchbook-maps-the-great-openai-exec-exodus
+embedding_id: null
 event_name: ''
 ---
 

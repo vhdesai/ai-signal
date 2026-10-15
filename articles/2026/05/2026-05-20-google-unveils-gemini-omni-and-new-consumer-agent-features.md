@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
-embedding_id: 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
+embedding_id: null
 event_name: ''
 ---
 

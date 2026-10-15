@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 related_article_ids: []
-embedding_id: 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
 - 2026-05-21-two-hours-that-changed-ai-axios-documents-the-historic-may-2
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-embedding_id: 2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities
+embedding_id: null
 event_name: ''
 ---
 

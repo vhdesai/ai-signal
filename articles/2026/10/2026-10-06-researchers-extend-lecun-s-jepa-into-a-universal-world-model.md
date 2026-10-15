@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 related_article_ids: []
-embedding_id: 2026-10-06-researchers-extend-lecun-s-jepa-into-a-universal-world-model
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-cutting-a
 related_article_ids:
 - 2026-09-01-anthropic-ships-claude-fable-5-1-and-claude-mythos-5-1-cuts
-embedding_id: 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
-embedding_id: 2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai
+embedding_id: null
 event_name: ''
 ---
 

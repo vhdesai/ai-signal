@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
-embedding_id: 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+embedding_id: null
 event_name: ''
 ---
 

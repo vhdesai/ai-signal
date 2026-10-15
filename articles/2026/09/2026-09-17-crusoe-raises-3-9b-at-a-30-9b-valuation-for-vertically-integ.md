@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation
 - 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
-embedding_id: 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
+embedding_id: null
 event_name: ''
 ---
 

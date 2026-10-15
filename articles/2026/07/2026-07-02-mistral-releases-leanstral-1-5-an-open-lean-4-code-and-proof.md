@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-mistral-open-sources-leanstral-1-5-a-specialist-that-saturat
 related_article_ids: []
-embedding_id: 2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof
+embedding_id: null
 event_name: ''
 ---
 

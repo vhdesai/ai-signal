@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
 related_article_ids: []
-embedding_id: 2026-09-04-xdof-is-reportedly-in-talks-for-a-series-b-at-a-1-2-billion
+embedding_id: null
 event_name: ''
 ---
 

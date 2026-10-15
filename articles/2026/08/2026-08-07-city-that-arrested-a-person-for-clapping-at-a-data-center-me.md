@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast
-embedding_id: 2026-08-07-city-that-arrested-a-person-for-clapping-at-a-data-center-me
+embedding_id: null
 event_name: ''
 ---
 

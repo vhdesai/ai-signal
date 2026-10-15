@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-claude-agents-identify-a-novel-phage-enzyme-system-with-cris
 - 2026-09-24-anthropic-says-950-claude-agents-identified-a-novel-crispr-l
 - 2026-09-23-anthropic-says-claude-discovered-a-possible-new-gene-editing
-embedding_id: 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
+embedding_id: null
 event_name: ''
 ---
 

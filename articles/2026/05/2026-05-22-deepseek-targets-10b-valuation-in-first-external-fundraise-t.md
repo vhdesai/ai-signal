@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
-embedding_id: 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
 - 2026-06-23-groq-confirms-650m-funding-round
-embedding_id: 2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20
+embedding_id: null
 event_name: ''
 ---
 

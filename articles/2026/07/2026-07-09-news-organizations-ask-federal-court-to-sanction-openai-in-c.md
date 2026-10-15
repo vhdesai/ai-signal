@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 related_article_ids: []
-embedding_id: 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
+embedding_id: null
 event_name: ''
 ---
 

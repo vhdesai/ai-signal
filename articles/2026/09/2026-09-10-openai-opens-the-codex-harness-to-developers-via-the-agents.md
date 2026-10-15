@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-openai-opens-the-agents-api-in-public-beta
 related_article_ids: []
-embedding_id: 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
+embedding_id: null
 event_name: ''
 ---
 

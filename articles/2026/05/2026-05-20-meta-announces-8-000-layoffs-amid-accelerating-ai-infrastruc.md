@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
-embedding_id: 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-
 - 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
-embedding_id: 2026-09-20-tencent-s-gander-an-always-talking-agent-that-keeps-conversi
+embedding_id: null
 event_name: ''
 ---
 

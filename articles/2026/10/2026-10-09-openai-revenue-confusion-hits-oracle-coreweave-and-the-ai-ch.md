@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
-embedding_id: 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
+embedding_id: null
 event_name: ''
 ---
 

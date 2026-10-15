@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t
-embedding_id: 2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str
+embedding_id: null
 event_name: ''
 ---
 

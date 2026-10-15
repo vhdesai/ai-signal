@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
 - 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
-embedding_id: 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
+embedding_id: null
 event_name: ''
 ---
 

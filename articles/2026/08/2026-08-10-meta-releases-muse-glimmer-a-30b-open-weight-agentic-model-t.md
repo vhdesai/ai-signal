@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
 related_article_ids: []
-embedding_id: 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agentic-model-t
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
 - 2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending
-embedding_id: 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls
 - 2026-04-01-products-tools
 - 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
-embedding_id: 2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant
+embedding_id: null
 event_name: ''
 ---
 

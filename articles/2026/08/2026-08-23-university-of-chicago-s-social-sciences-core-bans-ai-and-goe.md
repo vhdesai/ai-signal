@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
 - 2026-09-13-two-year-law-school-study-banning-ai-in-the-classroom-leaves
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
-embedding_id: 2026-08-23-university-of-chicago-s-social-sciences-core-bans-ai-and-goe
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
-embedding_id: 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
+embedding_id: null
 event_name: ''
 ---
 

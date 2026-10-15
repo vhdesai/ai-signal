@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-18-trump-administration-split-on-taking-equity-stakes-in-ai-gia
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
-embedding_id: 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
+embedding_id: null
 event_name: ''
 ---
 

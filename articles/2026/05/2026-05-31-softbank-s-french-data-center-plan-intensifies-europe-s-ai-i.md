@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-embedding_id: 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
+embedding_id: null
 event_name: ''
 ---
 

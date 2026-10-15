@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
-embedding_id: 2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero
+embedding_id: null
 event_name: ''
 ---
 

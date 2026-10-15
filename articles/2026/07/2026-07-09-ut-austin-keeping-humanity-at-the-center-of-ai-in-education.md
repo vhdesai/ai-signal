@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-embedding_id: 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
+embedding_id: null
 event_name: ''
 ---
 

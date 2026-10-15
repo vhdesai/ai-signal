@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at
 related_article_ids:
 - 2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip
-embedding_id: 2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a
+embedding_id: null
 event_name: ''
 ---
 

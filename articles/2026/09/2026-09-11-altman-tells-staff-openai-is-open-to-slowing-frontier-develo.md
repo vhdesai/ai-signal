@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-09-03-hot-altman-raises-the-stakes-on-government-scrutiny-of-front
 - 2026-08-07-openai-slows-astra-development-after-cyber-evaluations-flag
-embedding_id: 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
+embedding_id: null
 event_name: ''
 ---
 

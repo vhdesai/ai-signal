@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index
 related_article_ids: []
-embedding_id: 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
+embedding_id: null
 event_name: ''
 ---
 

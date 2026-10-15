@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: broken
+url_status: ok
 digest_source: digests\raw\icra-2026.md
 content_hash: b49e3e9973ea09e22775f04ada59f7115f56ff20219decf7d537e0f49d07a6e2
 normalized_title_hash: 960e1a4b0777ff75
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
 related_article_ids: []
-embedding_id: event-icra-2026-icra-2026-overview
+embedding_id: null
 event_name: ICRA 2026
 ---
 

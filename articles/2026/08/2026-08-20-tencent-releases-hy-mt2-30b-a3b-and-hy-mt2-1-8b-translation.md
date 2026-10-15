@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5
 - 2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s
-embedding_id: 2026-08-20-tencent-releases-hy-mt2-30b-a3b-and-hy-mt2-1-8b-translation
+embedding_id: null
 event_name: ''
 ---
 

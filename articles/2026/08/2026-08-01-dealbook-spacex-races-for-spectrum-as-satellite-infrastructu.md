@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-embedding_id: 2026-08-01-dealbook-spacex-races-for-spectrum-as-satellite-infrastructu
+embedding_id: null
 event_name: ''
 ---
 

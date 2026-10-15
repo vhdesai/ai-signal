@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
-embedding_id: 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
+embedding_id: null
 event_name: ''
 ---
 

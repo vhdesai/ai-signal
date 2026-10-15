@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
-embedding_id: 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
+embedding_id: null
 event_name: ''
 ---
 

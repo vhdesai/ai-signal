@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 - 2026-08-21-apple-music-will-label-ai-generated-songs-with-disclosure-ta
-embedding_id: 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
+embedding_id: null
 event_name: ''
 ---
 

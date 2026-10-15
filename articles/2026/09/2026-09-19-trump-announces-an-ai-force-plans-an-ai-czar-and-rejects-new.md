@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 related_article_ids: []
-embedding_id: 2026-09-19-trump-announces-an-ai-force-plans-an-ai-czar-and-rejects-new
+embedding_id: null
 event_name: ''
 ---
 

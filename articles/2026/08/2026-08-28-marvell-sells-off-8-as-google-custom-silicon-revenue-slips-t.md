@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check
-embedding_id: 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
+embedding_id: null
 event_name: ''
 ---
 

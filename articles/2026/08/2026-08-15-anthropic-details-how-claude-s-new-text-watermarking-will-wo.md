@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
 related_article_ids:
 - 2026-08-15-anthropic-gives-more-detail-on-how-claude-text-watermarking
-embedding_id: 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
+embedding_id: null
 event_name: ''
 ---
 

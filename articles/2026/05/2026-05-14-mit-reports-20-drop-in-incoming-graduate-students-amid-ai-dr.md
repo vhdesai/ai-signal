@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-embedding_id: 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
+embedding_id: null
 event_name: ''
 ---
 

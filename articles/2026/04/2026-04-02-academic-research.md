@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-real-clinical-p
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
-embedding_id: 2026-04-02-academic-research
+embedding_id: null
 event_name: ''
 ---
 

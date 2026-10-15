@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-embedding_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 - 2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap
-embedding_id: 2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet
+embedding_id: null
 event_name: ''
 ---
 

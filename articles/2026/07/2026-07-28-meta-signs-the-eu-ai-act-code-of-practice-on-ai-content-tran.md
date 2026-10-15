@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
 - 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
-embedding_id: 2026-07-28-meta-signs-the-eu-ai-act-code-of-practice-on-ai-content-tran
+embedding_id: null
 event_name: ''
 ---
 

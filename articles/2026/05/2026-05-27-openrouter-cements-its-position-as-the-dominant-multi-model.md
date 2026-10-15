@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 - 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
 - 2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio
-embedding_id: 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
+embedding_id: null
 event_name: ''
 ---
 

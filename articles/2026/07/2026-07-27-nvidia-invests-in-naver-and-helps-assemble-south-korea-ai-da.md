@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 related_article_ids: []
-embedding_id: 2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da
+embedding_id: null
 event_name: ''
 ---
 

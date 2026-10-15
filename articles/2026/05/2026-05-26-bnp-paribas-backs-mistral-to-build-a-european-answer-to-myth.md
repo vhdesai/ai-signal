@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati
 - 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-embedding_id: 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
+embedding_id: null
 event_name: ''
 ---
 

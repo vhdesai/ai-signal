@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
-embedding_id: 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 - 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
-embedding_id: 2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a
+embedding_id: null
 event_name: ''
 ---
 

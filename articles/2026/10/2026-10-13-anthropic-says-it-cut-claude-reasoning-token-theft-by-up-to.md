@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-07-anthropic-expands-cyber-verification-program-with-fewer-clau
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
-embedding_id: 2026-10-13-anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to
+embedding_id: null
 event_name: ''
 ---
 

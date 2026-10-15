@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
-embedding_id: 2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private
+embedding_id: null
 event_name: ''
 ---
 

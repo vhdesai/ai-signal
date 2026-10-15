@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
-embedding_id: 2026-09-01-princeton-establishes-data-and-intelligent-systems-dais-as-a
+embedding_id: null
 event_name: ''
 ---
 

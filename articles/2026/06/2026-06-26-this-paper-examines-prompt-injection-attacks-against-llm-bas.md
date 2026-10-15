@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
-embedding_id: 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
+embedding_id: null
 event_name: ''
 ---
 

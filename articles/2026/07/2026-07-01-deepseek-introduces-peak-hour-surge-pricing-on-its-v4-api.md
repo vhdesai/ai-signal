@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-17-deepseek-s-peak-off-peak-api-pricing-takes-effect
 - 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
-embedding_id: 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
+embedding_id: null
 event_name: ''
 ---
 

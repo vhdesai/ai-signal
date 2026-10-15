@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
 - 2026-04-27-
-embedding_id: 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
+embedding_id: null
 event_name: ''
 ---
 

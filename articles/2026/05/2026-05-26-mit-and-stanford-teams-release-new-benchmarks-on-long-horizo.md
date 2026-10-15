@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-15-research-breakthroughs
 - 2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
-embedding_id: 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
 - 2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d
-embedding_id: 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
+embedding_id: null
 event_name: ''
 ---
 

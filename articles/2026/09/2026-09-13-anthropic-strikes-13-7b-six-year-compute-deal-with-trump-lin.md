@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-anthropic-signs-13-7b-six-year-compute-deal-with-trump-linke
 related_article_ids: []
-embedding_id: 2026-09-13-anthropic-strikes-13-7b-six-year-compute-deal-with-trump-lin
+embedding_id: null
 event_name: ''
 ---
 

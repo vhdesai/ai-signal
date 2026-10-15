@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
-embedding_id: 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
+embedding_id: null
 event_name: ''
 ---
 

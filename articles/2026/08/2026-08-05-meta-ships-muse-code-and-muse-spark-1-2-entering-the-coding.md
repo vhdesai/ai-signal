@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 related_article_ids: []
-embedding_id: 2026-08-05-meta-ships-muse-code-and-muse-spark-1-2-entering-the-coding
+embedding_id: null
 event_name: ''
 ---
 

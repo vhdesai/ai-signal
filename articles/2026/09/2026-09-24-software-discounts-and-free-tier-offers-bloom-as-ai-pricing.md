@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
 - 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
-embedding_id: 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
+embedding_id: null
 event_name: ''
 ---
 

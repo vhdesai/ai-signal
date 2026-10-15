@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-embedding_id: 2026-07-20-apple-publishes-rayrope-for-multi-view-transformer-attention
+embedding_id: null
 event_name: ''
 ---
 

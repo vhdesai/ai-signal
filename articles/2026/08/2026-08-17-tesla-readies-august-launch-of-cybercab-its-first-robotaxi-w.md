@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-tesla-s-cybercab-reaches-public-roads-and-its-first-operatio
 - 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-hours-after-austin-dep
 - 2026-09-04-nhtsa-opens-probe-into-tesla-cybercab-deployment
-embedding_id: 2026-08-17-tesla-readies-august-launch-of-cybercab-its-first-robotaxi-w
+embedding_id: null
 event_name: ''
 ---
 

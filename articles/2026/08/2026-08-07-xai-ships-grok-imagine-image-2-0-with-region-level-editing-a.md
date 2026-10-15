@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-embedding_id: 2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a
+embedding_id: null
 event_name: ''
 ---
 

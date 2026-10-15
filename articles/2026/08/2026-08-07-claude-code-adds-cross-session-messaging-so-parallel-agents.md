@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-claude-code-adds-cross-session-messaging-for-parallel-agent
 related_article_ids: []
-embedding_id: 2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents
+embedding_id: null
 event_name: ''
 ---
 

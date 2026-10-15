@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
 - 2026-05-27-deepswe-exposes-benchmark-gaming-as-a-frontier-model-problem
 - 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
-embedding_id: 2026-05-12-uc-berkeley-contamination-resistant-benchmark-suite-reshuffl
+embedding_id: null
 event_name: ''
 ---
 

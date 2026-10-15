@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
-embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
+embedding_id: null
 event_name: ''
 ---
 

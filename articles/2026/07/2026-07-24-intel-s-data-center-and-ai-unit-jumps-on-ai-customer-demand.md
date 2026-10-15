@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
-embedding_id: 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
-embedding_id: 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
+embedding_id: null
 event_name: ''
 ---
 

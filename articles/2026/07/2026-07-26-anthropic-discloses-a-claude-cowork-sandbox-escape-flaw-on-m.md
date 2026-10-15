@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-embedding_id: 2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m
+embedding_id: null
 event_name: ''
 ---
 

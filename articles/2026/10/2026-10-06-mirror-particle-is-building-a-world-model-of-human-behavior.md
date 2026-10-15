@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
-embedding_id: 2026-10-06-mirror-particle-is-building-a-world-model-of-human-behavior
+embedding_id: null
 event_name: ''
 ---
 

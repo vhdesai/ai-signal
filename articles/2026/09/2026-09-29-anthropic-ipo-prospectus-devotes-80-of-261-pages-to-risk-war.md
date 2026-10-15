@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-29-anthropic-s-ipo-prospectus-warns-of-catastrophic-or-existent
 - 2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
-embedding_id: 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
+embedding_id: null
 event_name: ''
 ---
 

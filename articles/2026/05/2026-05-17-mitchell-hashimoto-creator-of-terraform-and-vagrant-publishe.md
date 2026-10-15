@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
-embedding_id: 2026-05-17-mitchell-hashimoto-creator-of-terraform-and-vagrant-publishe
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: DatacenterDynamics
 url_original: https://www.datacenterdynamics.com/en/news/pentagon-in-talks-to-loan-fluidstack-5bn-report/
 url_canonical: https://www.datacenterdynamics.com/en/news/pentagon-in-talks-to-loan-fluidstack-5bn-report/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8a1d76ba40d5ab0db7e78e920817e9b29ff01d1d49b5f63020aa719a291119c4
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac
 related_article_ids: []
-embedding_id: 2026-09-11-pentagon-in-talks-to-lend-fluidstack-5b-for-data-center-supp
+embedding_id: null
 event_name: ''
 ---
 

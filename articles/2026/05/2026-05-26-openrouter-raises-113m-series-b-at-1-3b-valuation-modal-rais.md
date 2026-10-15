@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-openrouter-raises-113m-series-b-at-a-1-3b-valuation-techcrun
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-embedding_id: 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
-embedding_id: 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
+embedding_id: null
 event_name: ''
 ---
 

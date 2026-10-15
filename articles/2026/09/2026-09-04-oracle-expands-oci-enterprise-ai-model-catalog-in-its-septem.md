@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
-embedding_id: 2026-09-04-oracle-expands-oci-enterprise-ai-model-catalog-in-its-septem
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-07-microsoft-releases-nvidia-chip-ai-pcs-with-revamped-windows
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
-embedding_id: 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
+embedding_id: null
 event_name: ''
 ---
 

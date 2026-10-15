@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-previews-astra-ai-model-to-washington-officials
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
-embedding_id: 2026-08-03-openai-appears-to-be-positioning-astra-as-a-model-family-bui
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos
-embedding_id: 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
 - 2026-09-25-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
 - 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
-embedding_id: 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
+embedding_id: null
 event_name: ''
 ---
 

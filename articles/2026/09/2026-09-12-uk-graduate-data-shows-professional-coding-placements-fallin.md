@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-embedding_id: 2026-09-12-uk-graduate-data-shows-professional-coding-placements-fallin
+embedding_id: null
 event_name: ''
 ---
 

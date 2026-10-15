@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-meta-s-18b-settlement-ends-one-battle-wider-legal-war-looms
 - 2026-08-26-meta-agrees-to-16-68-billion-settlement-in-social-media-addi
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
-embedding_id: 2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i
+embedding_id: null
 event_name: ''
 ---
 

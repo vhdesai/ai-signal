@@ -6,8 +6,8 @@ source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-the-real-world/
 url_canonical: https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-the-real-world/
 url_status: broken
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 611ad5c2f38a946216db316f43988f174a2ea9a0876653dd91bd885b2cc00024
 normalized_title_hash: 22bab6545ae0becf
 canonical_url_hash: 293dcdf304687dca
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-embedding_id: 2026-10-13-laplace-intelligence-red-teams-robots-and-self-driving-cars
+embedding_id: null
 event_name: ''
 ---
 

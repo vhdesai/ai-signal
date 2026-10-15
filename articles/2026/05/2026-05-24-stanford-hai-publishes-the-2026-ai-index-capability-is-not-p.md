@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
-embedding_id: 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Semafor
 url_original: https://www.yahoo.com/news/politics/articles/white-house-not-ruling-action-091715054.html
 url_canonical: https://www.yahoo.com/news/politics/articles/white-house-not-ruling-action-091715054.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-15_082850_Final-Daily-AI-News-Digest.md
 content_hash: cf3f767d4b1dd74b9265e97c84f135a11461ac36285888cf1c9736ed3b98b3ac
 normalized_title_hash: 93a37188f6960bcc
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
-embedding_id: 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
+embedding_id: null
 event_name: ''
 ---
 

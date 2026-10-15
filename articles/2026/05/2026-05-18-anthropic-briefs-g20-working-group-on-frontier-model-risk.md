@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
-embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition
 - 2026-07-07-july-7-2026
-embedding_id: 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
+embedding_id: null
 event_name: ''
 ---
 

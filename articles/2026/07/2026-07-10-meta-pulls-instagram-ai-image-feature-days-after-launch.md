@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 related_article_ids: []
-embedding_id: 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
+embedding_id: null
 event_name: ''
 ---
 

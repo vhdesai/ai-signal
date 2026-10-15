@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
-embedding_id: 2026-08-01-openai-published-a-policy-piece-outlining-how-its-safety-sec
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-embedding_id: 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
+embedding_id: null
 event_name: ''
 ---
 

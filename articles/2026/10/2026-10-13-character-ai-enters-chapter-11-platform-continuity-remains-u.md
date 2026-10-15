@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-embedding_id: 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
+embedding_id: null
 event_name: ''
 ---
 

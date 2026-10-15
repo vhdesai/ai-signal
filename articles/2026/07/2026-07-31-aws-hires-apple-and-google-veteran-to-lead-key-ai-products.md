@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
 - 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
-embedding_id: 2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products
+embedding_id: null
 event_name: ''
 ---
 

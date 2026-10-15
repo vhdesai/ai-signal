@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
 related_article_ids: []
-embedding_id: 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-uk-ai-security-ins
+embedding_id: null
 event_name: ''
 ---
 

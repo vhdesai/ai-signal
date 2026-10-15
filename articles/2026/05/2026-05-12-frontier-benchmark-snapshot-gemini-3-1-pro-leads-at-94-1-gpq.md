@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
-embedding_id: 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
+embedding_id: null
 event_name: ''
 ---
 

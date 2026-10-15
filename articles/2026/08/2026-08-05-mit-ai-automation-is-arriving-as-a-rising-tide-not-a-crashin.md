@@ -5,7 +5,7 @@ date: '2026-08-05'
 source: MIT Sloan
 url_original: https://mitsloan.mit.edu/ideas-made-to-matter/how-will-ai-automation-hit-a-crashing-wave-or-a-rising-tide
 url_canonical: https://mitsloan.mit.edu/ideas-made-to-matter/how-will-ai-automation-hit-a-crashing-wave-or-a-rising-tide
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-06_061505_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: d1392fa8643723da2fb501804567f685198fe370425cf94865b5e370a5103b12
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
-embedding_id: 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
+embedding_id: null
 event_name: ''
 ---
 

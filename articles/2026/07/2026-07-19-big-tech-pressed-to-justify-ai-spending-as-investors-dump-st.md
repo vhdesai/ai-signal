@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
-embedding_id: 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
+embedding_id: null
 event_name: ''
 ---
 

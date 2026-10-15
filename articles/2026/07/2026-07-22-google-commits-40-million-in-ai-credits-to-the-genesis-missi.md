@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
 - 2026-08-06-mirendil-signs-100m-google-cloud-deal-to-scale-self-improvin
 - 2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new
-embedding_id: 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
+embedding_id: null
 event_name: ''
 ---
 

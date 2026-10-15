@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-embedding_id: 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
+embedding_id: null
 event_name: ''
 ---
 

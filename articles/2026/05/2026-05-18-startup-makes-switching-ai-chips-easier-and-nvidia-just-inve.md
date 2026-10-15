@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-embedding_id: 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
+embedding_id: null
 event_name: ''
 ---
 

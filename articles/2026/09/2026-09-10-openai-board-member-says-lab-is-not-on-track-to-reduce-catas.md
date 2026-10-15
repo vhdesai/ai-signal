@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-embedding_id: 2026-09-10-openai-board-member-says-lab-is-not-on-track-to-reduce-catas
+embedding_id: null
 event_name: ''
 ---
 

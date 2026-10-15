@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-26-gemini-live-gains-agentic-task-execution-through-spark
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
-embedding_id: 2026-08-26-gemini-live-gains-agentic-spark-tasks-daily-brief-and-voice
+embedding_id: null
 event_name: ''
 ---
 

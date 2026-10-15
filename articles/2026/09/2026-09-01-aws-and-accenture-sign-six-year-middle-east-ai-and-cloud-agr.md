@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-embedding_id: 2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr
+embedding_id: null
 event_name: ''
 ---
 

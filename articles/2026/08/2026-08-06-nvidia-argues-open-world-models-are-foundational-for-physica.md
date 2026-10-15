@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 - 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
-embedding_id: 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 - 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
-embedding_id: 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
+embedding_id: null
 event_name: ''
 ---
 

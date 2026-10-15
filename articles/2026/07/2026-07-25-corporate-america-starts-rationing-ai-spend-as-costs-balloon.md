@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
-embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
+embedding_id: null
 event_name: ''
 ---
 

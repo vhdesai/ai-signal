@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
 - 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-embedding_id: 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
+embedding_id: null
 event_name: ''
 ---
 

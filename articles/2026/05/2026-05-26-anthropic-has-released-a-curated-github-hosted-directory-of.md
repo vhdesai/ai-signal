@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-embedding_id: 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+embedding_id: null
 event_name: ''
 ---
 

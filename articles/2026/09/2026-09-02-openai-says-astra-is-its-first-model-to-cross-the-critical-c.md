@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-breaking-openai-says-astra-is-its-first-model-to-cross-the-c
 related_article_ids: []
-embedding_id: 2026-09-02-openai-says-astra-is-its-first-model-to-cross-the-critical-c
+embedding_id: null
 event_name: ''
 ---
 

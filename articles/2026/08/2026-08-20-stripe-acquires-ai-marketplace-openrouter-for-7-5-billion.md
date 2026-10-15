@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 - 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
-embedding_id: 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
+embedding_id: null
 event_name: ''
 ---
 

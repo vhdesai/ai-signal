@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-deepseek-and-bytedance-accelerate-china-aligned-ai-infrastru
 related_article_ids: []
-embedding_id: 2026-09-04-deepseek-plans-major-huawei-chip-deployment-as-bytedance-rai
+embedding_id: null
 event_name: ''
 ---
 

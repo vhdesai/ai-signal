@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-abb-launches-infinitus-a-source-to-rack-direct-current-portf
 related_article_ids: []
-embedding_id: 2026-09-21-abb-launches-infinitus-direct-current-portfolio-for-ai-data
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 - 2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
-embedding_id: 2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha
+embedding_id: null
 event_name: ''
 ---
 

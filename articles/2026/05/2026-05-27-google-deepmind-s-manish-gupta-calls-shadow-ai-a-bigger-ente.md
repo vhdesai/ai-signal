@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-embedding_id: 2026-05-27-google-deepmind-s-manish-gupta-calls-shadow-ai-a-bigger-ente
+embedding_id: null
 event_name: ''
 ---
 

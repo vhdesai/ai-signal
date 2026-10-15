@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe
 related_article_ids: []
-embedding_id: 2026-09-04-gimlet-labs-raises-300m-series-b-at-a-3b-valuation-for-multi
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
-embedding_id: 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
+embedding_id: null
 event_name: ''
 ---
 

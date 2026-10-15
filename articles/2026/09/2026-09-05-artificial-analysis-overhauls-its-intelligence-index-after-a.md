@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
 - 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
-embedding_id: 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
+embedding_id: null
 event_name: ''
 ---
 

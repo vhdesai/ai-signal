@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-openai-details-habitat-the-storage-platform-now-serving-1b-c
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
-embedding_id: 2026-09-11-openai-details-habitat-the-storage-layer-now-serving-over-1
+embedding_id: null
 event_name: ''
 ---
 

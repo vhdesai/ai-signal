@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
-embedding_id: 2026-07-20-massive-ai-supply-deals-face-execution-risk
+embedding_id: null
 event_name: ''
 ---
 

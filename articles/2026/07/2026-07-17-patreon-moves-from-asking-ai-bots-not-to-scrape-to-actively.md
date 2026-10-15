@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
 related_article_ids: []
-embedding_id: 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
+embedding_id: null
 event_name: ''
 ---
 

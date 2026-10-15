@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost
 - 2026-10-10-a16z-few-consumers-pay-for-ai-but-top-payers-spend-heavily
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
-embedding_id: 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
+embedding_id: null
 event_name: ''
 ---
 

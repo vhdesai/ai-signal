@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-06-google-brings-lyria-3-5-music-generation-directly-into-the-g
 related_article_ids:
 - 2026-09-06-google-brings-ai-music-generation-into-the-gemini-app-with-l
-embedding_id: 2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap
+embedding_id: null
 event_name: ''
 ---
 

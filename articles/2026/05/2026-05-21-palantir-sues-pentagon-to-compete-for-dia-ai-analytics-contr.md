@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-08-29-palantir-in-focus-after-court-strikes-down-pentagon-s-anthro
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-embedding_id: 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-embedding_id: 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
+embedding_id: null
 event_name: ''
 ---
 

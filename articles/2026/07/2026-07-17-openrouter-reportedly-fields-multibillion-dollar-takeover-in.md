@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 - 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
-embedding_id: 2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in
+embedding_id: null
 event_name: ''
 ---
 

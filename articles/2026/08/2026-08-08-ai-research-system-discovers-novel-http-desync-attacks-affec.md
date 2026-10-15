@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
-embedding_id: 2026-08-08-ai-research-system-discovers-novel-http-desync-attacks-affec
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 - 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
-embedding_id: 2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg
+embedding_id: null
 event_name: ''
 ---
 

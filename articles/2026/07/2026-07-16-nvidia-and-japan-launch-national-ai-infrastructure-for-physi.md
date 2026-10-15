@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 related_article_ids: []
-embedding_id: 2026-07-16-nvidia-and-japan-launch-national-ai-infrastructure-for-physi
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public
-embedding_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a
+embedding_id: null
 event_name: ''
 ---
 

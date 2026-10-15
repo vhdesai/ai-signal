@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi
 related_article_ids: []
-embedding_id: 2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f
+embedding_id: null
 event_name: ''
 ---
 

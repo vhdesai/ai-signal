@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-ai-hallucination-nearly-triggered-a-us-military-operation
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
-embedding_id: 2026-09-18-ai-hallucination-came-within-minutes-of-triggering-a-us-navy
+embedding_id: null
 event_name: ''
 ---
 

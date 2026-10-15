@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-19-the-great-bipartisan-data-center-smackdown-has-begun
-embedding_id: 2026-08-23-republican-split-opens-on-data-centers-trump-defends-the-bui
+embedding_id: null
 event_name: ''
 ---
 

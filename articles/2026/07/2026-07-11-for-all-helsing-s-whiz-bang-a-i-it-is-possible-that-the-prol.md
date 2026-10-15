@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
-embedding_id: 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
+embedding_id: null
 event_name: ''
 ---
 

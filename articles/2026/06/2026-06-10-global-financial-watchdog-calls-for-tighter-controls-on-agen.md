@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
-embedding_id: 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-embedding_id: 2026-09-03-nvidia-is-the-central-bank-of-ai
+embedding_id: null
 event_name: ''
 ---
 

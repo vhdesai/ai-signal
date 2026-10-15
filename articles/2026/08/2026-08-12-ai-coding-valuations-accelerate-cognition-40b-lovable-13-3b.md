@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-coding-valuations-keep-compounding-cognition-40b-lovable
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 related_article_ids: []
-embedding_id: 2026-07-09-anthropic-reportedly-reaches-1-2t-valuation-on-secondary-mar
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
-embedding_id: 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-google-launches-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-08-13-google-releases-gemini-3-7-flash-at-half-the-price-of-3-6-fl
 - 2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o
-embedding_id: 2026-04-01-google-released-veo-3-1-lite-on-the-gemini-api-and-google-ai
+embedding_id: null
 event_name: ''
 ---
 

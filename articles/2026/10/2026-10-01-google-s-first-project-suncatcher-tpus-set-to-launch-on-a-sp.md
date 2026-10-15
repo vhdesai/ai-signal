@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-01-google-s-orbital-ai-computing-experiment-approaches-launch
-embedding_id: 2026-10-01-google-s-first-project-suncatcher-tpus-set-to-launch-on-a-sp
+embedding_id: null
 event_name: ''
 ---
 

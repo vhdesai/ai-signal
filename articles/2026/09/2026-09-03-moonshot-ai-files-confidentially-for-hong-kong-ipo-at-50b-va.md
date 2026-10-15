@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
 - 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-embedding_id: 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
+embedding_id: null
 event_name: ''
 ---
 

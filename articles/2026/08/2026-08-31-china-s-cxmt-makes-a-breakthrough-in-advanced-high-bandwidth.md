@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea
 - 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 - 2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt
-embedding_id: 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-nebius-q2-revenue-surges-454-to-582m-as-ai-compute-demand-ex
 - 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
-embedding_id: 2026-08-12-ai-cloud-pricing-hits-record-highs-as-neoclouds-auction-comp
+embedding_id: null
 event_name: ''
 ---
 

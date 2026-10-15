@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 - 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-embedding_id: 2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea
+embedding_id: null
 event_name: ''
 ---
 

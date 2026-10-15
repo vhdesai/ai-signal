@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-23-september-24-2026
 - 2026-07-29-wednesday-july-29-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-embedding_id: 2026-09-28-cmu-s-block-center-for-technology-and-society-announced-its
+embedding_id: null
 event_name: ''
 ---
 

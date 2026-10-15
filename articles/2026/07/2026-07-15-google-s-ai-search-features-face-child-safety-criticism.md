@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
-embedding_id: 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
+embedding_id: null
 event_name: ''
 ---
 

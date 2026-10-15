@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem
 - 2026-08-06-openai-upgrades-chatgpt-gpt-5-6-sol-steadier-gpt-5-6-luna-no
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
-embedding_id: 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 related_article_ids: []
-embedding_id: 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
+embedding_id: null
 event_name: ''
 ---
 

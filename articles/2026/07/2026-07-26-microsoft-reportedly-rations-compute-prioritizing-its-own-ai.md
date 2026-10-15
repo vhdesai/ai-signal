@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
-embedding_id: 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
+embedding_id: null
 event_name: ''
 ---
 

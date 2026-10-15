@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 related_article_ids: []
-embedding_id: 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
+embedding_id: null
 event_name: ''
 ---
 

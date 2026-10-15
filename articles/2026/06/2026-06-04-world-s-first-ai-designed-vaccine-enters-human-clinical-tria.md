@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-04-04-cmu-s-center-for-ai-driven-biomedical-research-ai4bio-announ
-embedding_id: 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria
+embedding_id: null
 event_name: ''
 ---
 

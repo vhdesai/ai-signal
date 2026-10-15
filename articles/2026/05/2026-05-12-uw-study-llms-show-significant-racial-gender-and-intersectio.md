@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-embedding_id: 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
+embedding_id: null
 event_name: ''
 ---
 

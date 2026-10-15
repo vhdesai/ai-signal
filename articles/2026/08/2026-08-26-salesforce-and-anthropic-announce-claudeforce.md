@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
 - 2026-08-26-salesforce-and-anthropic-launch-claudeforce-embedding-crm-in
-embedding_id: 2026-08-26-salesforce-and-anthropic-announce-claudeforce
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
-embedding_id: 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
+embedding_id: null
 event_name: ''
 ---
 

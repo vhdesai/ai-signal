@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
-embedding_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
+embedding_id: null
 event_name: ''
 ---
 

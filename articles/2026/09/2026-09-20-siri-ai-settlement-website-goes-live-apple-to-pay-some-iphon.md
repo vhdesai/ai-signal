@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
 - 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
-embedding_id: 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
+embedding_id: null
 event_name: ''
 ---
 

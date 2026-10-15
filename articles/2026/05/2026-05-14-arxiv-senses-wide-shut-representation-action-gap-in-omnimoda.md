@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
-embedding_id: 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
+embedding_id: null
 event_name: ''
 ---
 

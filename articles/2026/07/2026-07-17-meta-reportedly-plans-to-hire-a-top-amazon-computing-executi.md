@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-embedding_id: 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-xai-open-sources-grok-build-after-privacy-backlash
 related_article_ids: []
-embedding_id: 2026-07-16-xai-open-sources-grok-build-its-terminal-coding-agent
+embedding_id: null
 event_name: ''
 ---
 

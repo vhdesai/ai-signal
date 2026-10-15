@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-embedding_id: 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
+embedding_id: null
 event_name: ''
 ---
 

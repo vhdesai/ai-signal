@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
-embedding_id: 2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga
+embedding_id: null
 event_name: ''
 ---
 

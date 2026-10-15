@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
-embedding_id: 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
+embedding_id: null
 event_name: ''
 ---
 

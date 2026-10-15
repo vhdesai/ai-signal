@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
-embedding_id: 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
-embedding_id: 2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
-embedding_id: 2026-09-22-anthropic-ships-claude-opus-5-5-as-new-flagship-40-cheaper-t
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-embedding_id: 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
+embedding_id: null
 event_name: ''
 ---
 

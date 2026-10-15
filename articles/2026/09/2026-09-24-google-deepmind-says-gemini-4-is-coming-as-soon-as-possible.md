@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 - 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 - 2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea
-embedding_id: 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
+embedding_id: null
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
-embedding_id: 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
+embedding_id: null
 event_name: ''
 ---
 

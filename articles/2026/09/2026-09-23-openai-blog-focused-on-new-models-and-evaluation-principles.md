@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
-embedding_id: 2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles
+embedding_id: null
 event_name: ''
 ---
 

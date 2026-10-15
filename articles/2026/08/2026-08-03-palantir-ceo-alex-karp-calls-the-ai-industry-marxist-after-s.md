@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
 - 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
-embedding_id: 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
-embedding_id: 2026-09-16-mistral-becomes-the-default-ai-provider-for-firefox-s-smart
+embedding_id: null
 event_name: ''
 ---
 

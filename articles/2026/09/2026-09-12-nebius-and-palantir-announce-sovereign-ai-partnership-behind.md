@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
-embedding_id: 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
+embedding_id: null
 event_name: ''
 ---
 

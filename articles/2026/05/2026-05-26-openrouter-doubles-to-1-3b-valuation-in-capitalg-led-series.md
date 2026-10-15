@@ -40,7 +40,7 @@ related_article_ids:
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
-embedding_id: 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
 - 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
 - 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
-embedding_id: 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
+embedding_id: null
 event_name: ''
 ---
 

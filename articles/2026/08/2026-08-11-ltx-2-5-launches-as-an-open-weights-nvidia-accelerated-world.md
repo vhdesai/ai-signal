@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
 related_article_ids:
 - 2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1
-embedding_id: 2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world
+embedding_id: null
 event_name: ''
 ---
 

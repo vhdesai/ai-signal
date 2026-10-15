@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-embedding_id: 2026-10-02-deepmind-protein-watermarks-survive-the-first-binders-still
+embedding_id: null
 event_name: ''
 ---
 

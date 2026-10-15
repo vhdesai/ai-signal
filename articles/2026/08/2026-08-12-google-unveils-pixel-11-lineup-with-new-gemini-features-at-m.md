@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-google-launches-pixel-11-with-broader-gemini-and-proactive-a
 related_article_ids: []
-embedding_id: 2026-08-12-google-unveils-pixel-11-lineup-with-new-gemini-features-at-m
+embedding_id: null
 event_name: ''
 ---
 

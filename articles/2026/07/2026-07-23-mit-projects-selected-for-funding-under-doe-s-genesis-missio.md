@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-08-three-frontier-labs-containment-failures-traced-to-a-single
 - 2026-09-25-sanders-and-casar-introduce-the-ban-artificial-superintellig
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
-embedding_id: 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
+embedding_id: null
 event_name: ''
 ---
 

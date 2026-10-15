@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-08-22-nvidia-ai-chip-prices-to-rise-17-adding-5b-per-gigawatt-of-d
-embedding_id: 2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design
+embedding_id: null
 event_name: ''
 ---
 

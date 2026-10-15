@@ -5,7 +5,7 @@ date: '2026-08-27'
 source: '[TechSpot]'
 url_original: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
 url_canonical: https://www.techspot.com/news/113642-nvidia-posts-record-quarter-predicts-ai-driven-growth.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-28_062029_Inbox_Daily AI News Digest - August 28,
   2026.md
 content_hash: 3dd4bfd4c7fd8aa560b2a42aaa9da9670791543a59bf3c9499a042ccbf80aadf
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
-embedding_id: 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
+embedding_id: null
 event_name: ''
 ---
 

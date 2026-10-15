@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-the-largest
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
-embedding_id: 2026-08-12-cme-group-to-launch-gpu-futures-compute-exchange-adds-token
+embedding_id: null
 event_name: ''
 ---
 

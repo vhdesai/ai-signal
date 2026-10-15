@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: AI News'
 url_original: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
 url_canonical: https://www.artificialintelligence-news.com/categories/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 949939e1c545a9fa2b9b986b286694ef2c6237e1c2a687d84602bfd47b3bafe2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 - 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
 - 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
-embedding_id: 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
+embedding_id: null
 event_name: ''
 ---
 

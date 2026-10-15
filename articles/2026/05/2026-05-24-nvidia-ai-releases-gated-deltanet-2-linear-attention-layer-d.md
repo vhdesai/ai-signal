@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 4dd424793baa94acbb61359c2efa6c3d975991680c5a7f6ed7b29b841f8ad3e4
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 related_article_ids: []
-embedding_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d
+embedding_id: null
 event_name: ''
 ---
 

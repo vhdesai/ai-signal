@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-25-akamai-lands-11-6b-anthropic-compute-deal-anthropic-s-first
 - 2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
-embedding_id: 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
 - 2026-09-25-meta-unveils-muse-charm-a-keychain-device-for-its-muse-ai-ag
 - 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
-embedding_id: 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
+embedding_id: null
 event_name: ''
 ---
 

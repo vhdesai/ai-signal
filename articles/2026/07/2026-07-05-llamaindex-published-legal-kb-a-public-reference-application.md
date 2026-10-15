@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
-embedding_id: 2026-07-05-llamaindex-published-legal-kb-a-public-reference-application
+embedding_id: null
 event_name: ''
 ---
 

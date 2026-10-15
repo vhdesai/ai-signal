@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
-embedding_id: 2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc
+embedding_id: null
 event_name: ''
 ---
 

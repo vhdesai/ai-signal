@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 related_article_ids: []
-embedding_id: 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
+embedding_id: null
 event_name: ''
 ---
 

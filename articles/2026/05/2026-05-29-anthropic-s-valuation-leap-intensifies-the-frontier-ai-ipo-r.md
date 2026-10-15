@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-embedding_id: 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
+embedding_id: null
 event_name: ''
 ---
 

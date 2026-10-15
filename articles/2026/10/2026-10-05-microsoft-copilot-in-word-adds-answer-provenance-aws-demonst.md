@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
-embedding_id: 2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst
+embedding_id: null
 event_name: ''
 ---
 

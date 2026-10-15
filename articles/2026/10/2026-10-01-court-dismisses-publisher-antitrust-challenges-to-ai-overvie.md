@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
-embedding_id: 2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie
+embedding_id: null
 event_name: ''
 ---
 

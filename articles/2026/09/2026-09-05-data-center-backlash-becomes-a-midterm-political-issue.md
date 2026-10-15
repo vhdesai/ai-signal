@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-08-30-business-insider-data-center-backlash-is-the-next-big-risk-t
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
-embedding_id: 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 - 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-embedding_id: 2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler
+embedding_id: null
 event_name: ''
 ---
 

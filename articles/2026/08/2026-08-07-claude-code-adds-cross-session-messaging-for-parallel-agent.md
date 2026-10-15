@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
-embedding_id: 2026-08-07-claude-code-adds-cross-session-messaging-for-parallel-agent
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
 - 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
-embedding_id: 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
+embedding_id: null
 event_name: ''
 ---
 

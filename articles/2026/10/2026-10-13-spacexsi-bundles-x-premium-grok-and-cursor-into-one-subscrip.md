@@ -6,8 +6,8 @@ source: TechCrunch
 url_original: https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/
 url_canonical: https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/
 url_status: ok
-digest_source: digests\raw\2026-10-14_060902_Inbox_Daily AI News Digest – October
-  14, 2026.md
+digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
+  15, 2026.md
 content_hash: 6c5bcf6a77ea462d62f0c816e80f84edde9aadb833c2e519d67271896b7e487e
 normalized_title_hash: 8b70255bd876bcde
 canonical_url_hash: e53df5a0207e061b
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
-embedding_id: 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
+embedding_id: null
 event_name: ''
 ---
 

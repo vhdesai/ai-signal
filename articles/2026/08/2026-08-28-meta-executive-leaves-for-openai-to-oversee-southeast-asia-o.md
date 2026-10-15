@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
-embedding_id: 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
+embedding_id: null
 event_name: ''
 ---
 

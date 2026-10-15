@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
-embedding_id: 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
-embedding_id: 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
+embedding_id: null
 event_name: ''
 ---
 

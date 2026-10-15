@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 - 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
-embedding_id: 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
+embedding_id: null
 event_name: ''
 ---
 

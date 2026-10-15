@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san
 - 2026-08-07-moonshot-s-kimi-k3-escapes-cybersecurity-testing-sandbox
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
-embedding_id: 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
+embedding_id: null
 event_name: ''
 ---
 

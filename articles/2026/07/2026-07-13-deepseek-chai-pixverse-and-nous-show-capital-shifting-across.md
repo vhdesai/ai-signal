@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val
 - 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
-embedding_id: 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
+embedding_id: null
 event_name: ''
 ---
 

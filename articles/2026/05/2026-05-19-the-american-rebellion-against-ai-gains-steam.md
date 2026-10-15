@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-embedding_id: 2026-05-19-the-american-rebellion-against-ai-gains-steam
+embedding_id: null
 event_name: ''
 ---
 

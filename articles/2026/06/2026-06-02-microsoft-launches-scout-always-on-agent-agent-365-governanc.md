@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
 related_article_ids: []
-embedding_id: 2026-06-02-microsoft-launches-scout-always-on-agent-agent-365-governanc
+embedding_id: null
 event_name: ''
 ---
 

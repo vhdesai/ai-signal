@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-17-cornell-launches-ai-integration-pilots-with-2m-dake-family-g
 - 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 - 2026-08-26-cornell-cat-awards-support-seven-new-biotechnology-partnersh
-embedding_id: 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
+embedding_id: null
 event_name: ''
 ---
 

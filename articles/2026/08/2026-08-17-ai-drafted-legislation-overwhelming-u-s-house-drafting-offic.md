@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-ai-drafted-legislation-is-overwhelming-the-house-office-that
 related_article_ids: []
-embedding_id: 2026-08-17-ai-drafted-legislation-overwhelming-u-s-house-drafting-offic
+embedding_id: null
 event_name: ''
 ---
 

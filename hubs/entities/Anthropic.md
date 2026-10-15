@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2403
+member_count: 2405
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2403 connected article(s).
+> Auto-generated entity hub. 2405 connected article(s).
 
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-14` [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through|Anthropic warns small AI models could self-replicate through IoT devices]]
+- `2026-10-14` [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b|Anthropic tells prospective investors revenue reached $16.8 billion]]
 - `2026-10-13` [[2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine|Workday and Anthropic partner to connect reasoning to business rules]]
 - `2026-10-13` [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as|Workday and Anthropic connect reasoning to business rules as finance autopilots arrive]]
 - `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta
-embedding_id: 2026-09-11-anthropic-s-200m-exchange-distillation-report-becomes-eviden
+embedding_id: null
 event_name: ''
 ---
 

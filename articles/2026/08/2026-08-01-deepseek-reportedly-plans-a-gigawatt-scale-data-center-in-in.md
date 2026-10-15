@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 related_article_ids: []
-embedding_id: 2026-08-01-deepseek-reportedly-plans-a-gigawatt-scale-data-center-in-in
+embedding_id: null
 event_name: ''
 ---
 

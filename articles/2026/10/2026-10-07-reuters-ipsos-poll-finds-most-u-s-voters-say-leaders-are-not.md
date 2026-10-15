@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
-embedding_id: 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
+embedding_id: null
 event_name: ''
 ---
 

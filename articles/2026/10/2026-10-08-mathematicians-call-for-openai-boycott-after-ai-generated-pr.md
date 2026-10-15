@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
 - 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
-embedding_id: 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
+embedding_id: null
 event_name: ''
 ---
 

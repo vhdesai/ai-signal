@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-openai-widens-misaligned-model-activity-review-across-sec-ce
 - 2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i
 - 2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th
-embedding_id: 2026-09-26-engadget-details-the-specifics-census-credentials-an-sec-for
+embedding_id: null
 event_name: ''
 ---
 

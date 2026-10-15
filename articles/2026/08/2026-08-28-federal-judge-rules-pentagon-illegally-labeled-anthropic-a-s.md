@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 related_article_ids: []
-embedding_id: 2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s
+embedding_id: null
 event_name: ''
 ---
 

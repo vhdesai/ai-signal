@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-use
 - 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
-embedding_id: 2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl
+embedding_id: null
 event_name: ''
 ---
 

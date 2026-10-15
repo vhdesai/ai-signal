@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
-embedding_id: 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
+embedding_id: null
 event_name: ''
 ---
 

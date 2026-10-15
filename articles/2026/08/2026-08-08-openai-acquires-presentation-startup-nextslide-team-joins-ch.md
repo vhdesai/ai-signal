@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 - 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
-embedding_id: 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
+embedding_id: null
 event_name: ''
 ---
 

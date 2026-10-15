@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese
 related_article_ids: []
-embedding_id: 2026-06-28-coinbase-defaults-to-cheaper-chinese-open-weight-models-to-c
+embedding_id: null
 event_name: ''
 ---
 

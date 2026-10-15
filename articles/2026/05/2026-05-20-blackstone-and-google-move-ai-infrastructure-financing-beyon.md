@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
-embedding_id: 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
+embedding_id: null
 event_name: ''
 ---
 

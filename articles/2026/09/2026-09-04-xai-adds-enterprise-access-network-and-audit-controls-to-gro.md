@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: Technobezz
 url_original: https://www.technobezz.com/news/xai-adds-enterprise-controls-grok-bot
 url_canonical: https://www.technobezz.com/news/xai-adds-enterprise-controls-grok-bot
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 887e15902b7557a241a25c74dcbfb19eea42d032b7d05638736320964fec8c79
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
-embedding_id: 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
+embedding_id: null
 event_name: ''
 ---
 

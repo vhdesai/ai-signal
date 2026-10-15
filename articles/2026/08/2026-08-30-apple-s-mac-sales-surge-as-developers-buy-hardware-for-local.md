@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 - 2026-08-31-openai-buys-tens-of-thousands-of-mac-minis-and-mac-studios-t
 - 2026-08-31-apple-pulled-mac-mini-and-mac-studio-launches-forward-on-una
-embedding_id: 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
+embedding_id: null
 event_name: ''
 ---
 

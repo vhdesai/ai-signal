@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 related_article_ids: []
-embedding_id: 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
+embedding_id: null
 event_name: ''
 ---
 

@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
-embedding_id: 2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la
+embedding_id: null
 event_name: ''
 ---
 

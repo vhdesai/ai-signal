@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as
 related_article_ids: []
-embedding_id: 2026-10-13-workday-and-anthropic-partner-to-connect-reasoning-to-busine
+embedding_id: null
 event_name: ''
 ---
 

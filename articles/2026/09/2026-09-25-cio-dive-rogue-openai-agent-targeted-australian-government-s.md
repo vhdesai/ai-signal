@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-09-24-thursday-september-24-2026
-embedding_id: 2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s
+embedding_id: null
 event_name: ''
 ---
 

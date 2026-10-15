@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
 related_article_ids: []
-embedding_id: 2026-08-28-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-microsoft
+embedding_id: null
 event_name: ''
 ---
 

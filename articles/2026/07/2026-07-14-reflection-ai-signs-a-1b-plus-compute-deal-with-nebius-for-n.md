@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
-embedding_id: 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
+embedding_id: null
 event_name: ''
 ---
 

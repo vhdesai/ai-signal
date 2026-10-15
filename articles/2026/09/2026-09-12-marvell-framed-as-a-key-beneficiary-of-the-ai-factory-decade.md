@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-embedding_id: 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
+embedding_id: null
 event_name: ''
 ---
 

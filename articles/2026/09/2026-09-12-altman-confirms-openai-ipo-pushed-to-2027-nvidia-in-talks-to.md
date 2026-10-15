@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
-embedding_id: 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
+embedding_id: null
 event_name: ''
 ---
 

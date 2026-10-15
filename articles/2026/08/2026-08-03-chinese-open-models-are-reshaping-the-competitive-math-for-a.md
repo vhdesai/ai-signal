@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
-embedding_id: 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
+embedding_id: null
 event_name: ''
 ---
 

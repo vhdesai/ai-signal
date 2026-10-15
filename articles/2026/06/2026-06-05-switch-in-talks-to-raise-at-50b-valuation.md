@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
-embedding_id: 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
+embedding_id: null
 event_name: ''
 ---
 

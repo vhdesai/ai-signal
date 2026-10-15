@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-embedding_id: 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
+embedding_id: null
 event_name: ''
 ---
 

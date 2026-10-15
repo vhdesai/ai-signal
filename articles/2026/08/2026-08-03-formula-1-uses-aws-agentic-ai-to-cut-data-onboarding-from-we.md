@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
 - 2026-09-04-aws-details-lifecycle-policies-for-long-running-agent-memory
-embedding_id: 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
+embedding_id: null
 event_name: ''
 ---
 

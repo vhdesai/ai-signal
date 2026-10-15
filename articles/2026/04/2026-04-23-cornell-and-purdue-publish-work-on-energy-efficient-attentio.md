@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
-embedding_id: 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
+embedding_id: null
 event_name: ''
 ---
 

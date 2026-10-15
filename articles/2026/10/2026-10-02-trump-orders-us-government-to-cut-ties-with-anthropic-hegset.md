@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
-embedding_id: 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-embedding_id: 2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation
+embedding_id: null
 event_name: ''
 ---
 

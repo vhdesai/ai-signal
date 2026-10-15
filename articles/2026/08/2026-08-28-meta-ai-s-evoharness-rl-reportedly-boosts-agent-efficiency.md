@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: 2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency
+embedding_id: null
 event_name: ''
 ---
 

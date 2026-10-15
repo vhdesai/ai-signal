@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-embedding_id: 2026-07-12-welcome-to-the-era-of-the-forever-layoff
+embedding_id: null
 event_name: ''
 ---
 

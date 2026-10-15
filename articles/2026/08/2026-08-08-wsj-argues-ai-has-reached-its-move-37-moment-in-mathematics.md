@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
-embedding_id: 2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics
+embedding_id: null
 event_name: ''
 ---
 

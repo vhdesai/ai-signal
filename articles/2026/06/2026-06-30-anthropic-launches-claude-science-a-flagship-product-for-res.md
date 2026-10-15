@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
-embedding_id: 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
-embedding_id: 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
+embedding_id: null
 event_name: ''
 ---
 

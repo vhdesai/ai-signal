@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
-embedding_id: 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
+embedding_id: null
 event_name: ''
 ---
 

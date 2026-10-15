@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-08-22-governors-who-championed-data-centers-are-now-moving-to-slow
-embedding_id: 2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights
+embedding_id: null
 event_name: ''
 ---
 

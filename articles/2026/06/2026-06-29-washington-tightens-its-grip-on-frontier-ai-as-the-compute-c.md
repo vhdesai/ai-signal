@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-09-22-wednesday-september-23-2026
-embedding_id: 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+embedding_id: null
 event_name: ''
 ---
 

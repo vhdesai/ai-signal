@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence
 - 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
-embedding_id: 2026-09-25-meta-muse-gives-every-user-a-full-ubuntu-linux-cloud-compute
+embedding_id: null
 event_name: ''
 ---
 

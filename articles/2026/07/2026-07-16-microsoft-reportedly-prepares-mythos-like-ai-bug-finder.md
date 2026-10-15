@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai
 - 2026-07-17-microsoft-reportedly-building-project-perception-multi-model
 - 2026-07-17-microsoft-readies-project-perception-a-multi-model-ai-securi
-embedding_id: 2026-07-16-microsoft-reportedly-prepares-mythos-like-ai-bug-finder
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 related_article_ids: []
-embedding_id: 2026-06-12-openai-says-china-launched-influence-campaign-to-shape-u-s-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
+embedding_id: null
 event_name: ''
 ---
 

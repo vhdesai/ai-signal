@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-oracle-sends-force-majeure-notice-on-project-jupiter-its-fla
 - 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
-embedding_id: 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
+embedding_id: null
 event_name: ''
 ---
 

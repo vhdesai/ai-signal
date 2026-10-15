@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-embedding_id: 2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse
+embedding_id: null
 event_name: ''
 ---
 

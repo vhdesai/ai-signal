@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: 2026-05-20-scaling-laws-for-embodied-ai
+embedding_id: null
 event_name: ''
 ---
 

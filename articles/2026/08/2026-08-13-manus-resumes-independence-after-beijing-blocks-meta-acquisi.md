@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-manus-resumes-independent-operations-after-beijing-blocks-me
 - 2026-08-13-manus-says-it-will-resume-operating-as-an-independent-compan
 - 2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta
-embedding_id: 2026-08-13-manus-resumes-independence-after-beijing-blocks-meta-acquisi
+embedding_id: null
 event_name: ''
 ---
 

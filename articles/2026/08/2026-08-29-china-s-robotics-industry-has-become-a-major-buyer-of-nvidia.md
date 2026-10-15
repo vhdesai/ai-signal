@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
-embedding_id: 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-wednesday-july-29-2026
 - 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
-embedding_id: 2026-08-31-monday-funding-cycle-skews-toward-security-ai-and-compute-su
+embedding_id: null
 event_name: ''
 ---
 

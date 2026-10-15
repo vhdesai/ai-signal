@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-cognition-crosses-1b-annualized-revenue-run-rate-for-devin
 related_article_ids: []
-embedding_id: 2026-09-25-cognition-crosses-a-1b-annualized-revenue-run-rate-for-devin
+embedding_id: null
 event_name: ''
 ---
 

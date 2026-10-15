@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
 - 2026-09-22-deepseek-and-moonshot-join-the-security-council-session-as-a
 - 2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot
-embedding_id: 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
+embedding_id: null
 event_name: ''
 ---
 

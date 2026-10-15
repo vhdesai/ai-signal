@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
-embedding_id: 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
+embedding_id: null
 event_name: ''
 ---
 

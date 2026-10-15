@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-google-open-sources-heir-inference-on-encrypted-data
 - 2026-08-14-heir-s-research-base-spans-georgia-tech-carnegie-mellon-purd
 - 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
-embedding_id: 2026-08-14-google-open-sources-heir-a-compiler-for-inference-on-encrypt
+embedding_id: null
 event_name: ''
 ---
 

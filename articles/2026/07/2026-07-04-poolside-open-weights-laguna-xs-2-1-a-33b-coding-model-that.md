@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
 - 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
-embedding_id: 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
+embedding_id: null
 event_name: ''
 ---
 

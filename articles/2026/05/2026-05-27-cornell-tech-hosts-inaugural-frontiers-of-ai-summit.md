@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Cornell Tech
 url_original: https://tech.cornell.edu/frontiers-of-ai-summit/
 url_canonical: https://tech.cornell.edu/frontiers-of-ai-summit/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: af8d8748936ccb8500dc9b511a8dfc6a65fc29533c9679581e08dce2135cab40
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
-embedding_id: 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
+embedding_id: null
 event_name: ''
 ---
 

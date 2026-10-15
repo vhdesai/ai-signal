@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-may-2026-rubygems-attack-attributed-to-openai-agent-swarm
 related_article_ids: []
-embedding_id: 2026-09-12-may-2026-rubygems-flood-attributed-to-an-openai-agent-swarm
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
+embedding_id: null
 event_name: ''
 ---
 

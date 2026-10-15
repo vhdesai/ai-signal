@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 related_article_ids: []
-embedding_id: event-google-i-o-2026-google-i-o-2026-overview
+embedding_id: null
 event_name: Google I/O 2026
 ---
 

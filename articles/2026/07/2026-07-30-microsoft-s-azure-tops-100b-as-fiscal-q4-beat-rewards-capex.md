@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
 related_article_ids: []
-embedding_id: 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
+embedding_id: null
 event_name: ''
 ---
 

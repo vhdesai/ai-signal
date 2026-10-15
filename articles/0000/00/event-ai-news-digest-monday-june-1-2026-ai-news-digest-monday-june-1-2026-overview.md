@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei
 - 2026-06-29-daily-ai-news-digest-june-29-2026
-embedding_id: event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview
+embedding_id: null
 event_name: AI News Digest — Monday, June 1, 2026
 ---
 

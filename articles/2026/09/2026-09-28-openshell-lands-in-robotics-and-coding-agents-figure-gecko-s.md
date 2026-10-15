@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age
-embedding_id: 2026-09-28-openshell-lands-in-robotics-and-coding-agents-figure-gecko-s
+embedding_id: null
 event_name: ''
 ---
 

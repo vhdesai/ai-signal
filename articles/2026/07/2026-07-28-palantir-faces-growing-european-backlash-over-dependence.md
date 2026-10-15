@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 - 2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so
 - 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
-embedding_id: 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
+embedding_id: null
 event_name: ''
 ---
 

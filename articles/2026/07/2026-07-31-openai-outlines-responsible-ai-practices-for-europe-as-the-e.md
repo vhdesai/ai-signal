@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 - 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
-embedding_id: 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
+embedding_id: null
 event_name: ''
 ---
 

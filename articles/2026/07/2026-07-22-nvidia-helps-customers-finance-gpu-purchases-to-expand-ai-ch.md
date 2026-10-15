@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
-embedding_id: 2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch
+embedding_id: null
 event_name: ''
 ---
 

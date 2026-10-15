@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-embedding_id: 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
+embedding_id: null
 event_name: ''
 ---
 

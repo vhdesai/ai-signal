@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
-embedding_id: 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
+embedding_id: null
 event_name: ''
 ---
 

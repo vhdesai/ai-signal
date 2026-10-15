@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive
 related_article_ids: []
-embedding_id: 2026-09-01-john-ternus-becomes-apple-ceo-today-as-tim-cook-moves-to-exe
+embedding_id: null
 event_name: ''
 ---
 

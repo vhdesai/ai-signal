@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-11-anthropic-reverses-its-july-explanation-alignment-not-infras
 - 2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla
 - 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
-embedding_id: 2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con
+embedding_id: null
 event_name: ''
 ---
 

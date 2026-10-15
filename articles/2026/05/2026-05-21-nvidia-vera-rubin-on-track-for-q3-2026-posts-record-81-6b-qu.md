@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: OnMSFT / AI News'
 url_original: https://onmsft.com/news/nvidias-vera-rubin-ai-platform-starts-shipping-in-q3-2026-jensen-huang-confirms/
 url_canonical: https://onmsft.com/news/nvidias-vera-rubin-ai-platform-starts-shipping-in-q3-2026-jensen-huang-confirms/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 152c466b9e47576800f21271b3dc377c20534d36712578d6eb45c748c923a086
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-embedding_id: 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
+embedding_id: null
 event_name: ''
 ---
 

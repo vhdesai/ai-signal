@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
 - 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 - 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
-embedding_id: 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i
 - 2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo
 - 2026-09-13-nvidia-weighs-up-to-10b-as-anchor-investor-in-anthropic-s-2t
-embedding_id: 2026-09-11-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-ipo
+embedding_id: null
 event_name: ''
 ---
 

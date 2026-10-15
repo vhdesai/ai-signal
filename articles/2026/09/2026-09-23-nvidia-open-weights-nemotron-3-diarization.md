@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: MarkTechPost / Unite.AI
 url_original: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/
 url_canonical: https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: c0586dfafe592564abc51177f4e89dbffb622f429a2afd37771b14a56e33ed10
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
-embedding_id: 2026-09-23-nvidia-open-weights-nemotron-3-diarization
+embedding_id: null
 event_name: ''
 ---
 

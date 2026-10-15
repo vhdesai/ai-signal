@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-embedding_id: 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
+embedding_id: null
 event_name: ''
 ---
 

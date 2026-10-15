@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-openai-launches-personal-finance-experience-in-chatgpt
 - 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
 - 2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users
-embedding_id: 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
+embedding_id: null
 event_name: ''
 ---
 

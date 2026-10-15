@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20
 - 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
-embedding_id: 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
+embedding_id: null
 event_name: ''
 ---
 

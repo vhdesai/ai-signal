@@ -5,7 +5,7 @@ date: '2026-07-15'
 source: Politico
 url_original: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
 url_canonical: https://www.yahoo.com/news/politics/articles/inside-anthropic-state-state-plan-084500528.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-17_065715_Final-Daily-AI-News-Digest.md
 content_hash: f927af3802e4ce56b01781ad8032b83854885d2c1f6e4d13b7e58f205374a25a
 normalized_title_hash: 3737defa5bfef3b4
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
-embedding_id: 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 - 2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus
-embedding_id: 2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia
+embedding_id: null
 event_name: ''
 ---
 

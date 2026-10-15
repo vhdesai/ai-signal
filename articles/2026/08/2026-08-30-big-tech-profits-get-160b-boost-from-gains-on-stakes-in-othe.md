@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-embedding_id: 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
+embedding_id: null
 event_name: ''
 ---
 

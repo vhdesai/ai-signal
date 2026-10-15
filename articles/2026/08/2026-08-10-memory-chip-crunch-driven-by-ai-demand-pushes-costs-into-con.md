@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-tim-cook-warns-ai-chip-demand-making-apple-price-increases-u
 - 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
-embedding_id: 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
+embedding_id: null
 event_name: ''
 ---
 

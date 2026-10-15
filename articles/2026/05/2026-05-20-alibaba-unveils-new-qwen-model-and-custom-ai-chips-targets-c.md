@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 related_article_ids: []
-embedding_id: 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+embedding_id: null
 event_name: ''
 ---
 

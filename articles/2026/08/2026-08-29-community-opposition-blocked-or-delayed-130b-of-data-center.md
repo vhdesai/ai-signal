@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 related_article_ids: []
-embedding_id: 2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center
+embedding_id: null
 event_name: ''
 ---
 

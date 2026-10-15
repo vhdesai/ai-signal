@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
-embedding_id: 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
-embedding_id: 2026-08-28-trump-administration-working-on-ai-rule-to-curb-china-s-remo
+embedding_id: null
 event_name: ''
 ---
 

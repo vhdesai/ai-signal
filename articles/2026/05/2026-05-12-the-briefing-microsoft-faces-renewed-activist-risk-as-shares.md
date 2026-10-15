@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 - 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
-embedding_id: 2026-05-12-the-briefing-microsoft-faces-renewed-activist-risk-as-shares
+embedding_id: null
 event_name: ''
 ---
 

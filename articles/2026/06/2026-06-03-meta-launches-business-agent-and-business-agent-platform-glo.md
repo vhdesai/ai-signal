@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
-embedding_id: 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
-embedding_id: 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
+embedding_id: null
 event_name: ''
 ---
 

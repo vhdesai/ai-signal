@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
-embedding_id: 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
+embedding_id: null
 event_name: ''
 ---
 

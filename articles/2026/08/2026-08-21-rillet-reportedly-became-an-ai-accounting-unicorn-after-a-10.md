@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-ai-accounting-startup-rillet-reaches-unicorn-status-in-a-48
 related_article_ids: []
-embedding_id: 2026-08-21-rillet-reportedly-became-an-ai-accounting-unicorn-after-a-10
+embedding_id: null
 event_name: ''
 ---
 

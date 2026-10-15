@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 - 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
-embedding_id: 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
+embedding_id: null
 event_name: ''
 ---
 

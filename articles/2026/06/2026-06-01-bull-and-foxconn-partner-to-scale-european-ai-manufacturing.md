@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-eurohpc-awards-bull-a-387-8m-contract-for-the-lumi-ai-superc
 - 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
 - 2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on
-embedding_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
+embedding_id: null
 event_name: ''
 ---
 

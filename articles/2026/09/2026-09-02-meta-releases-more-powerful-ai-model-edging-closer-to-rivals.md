@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 - 2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
+embedding_id: null
 event_name: ''
 ---
 

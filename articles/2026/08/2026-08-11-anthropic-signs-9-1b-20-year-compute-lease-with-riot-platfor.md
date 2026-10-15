@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio
 - 2026-08-26-anthropic-strikes-45-billion-cloud-deal-with-nscale
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-embedding_id: 2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
 - 2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
-embedding_id: 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
+embedding_id: null
 event_name: ''
 ---
 

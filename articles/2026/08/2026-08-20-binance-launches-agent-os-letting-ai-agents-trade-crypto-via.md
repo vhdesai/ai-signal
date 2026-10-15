@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 related_article_ids: []
-embedding_id: 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
+embedding_id: null
 event_name: ''
 ---
 

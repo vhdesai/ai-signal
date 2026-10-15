@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-oracle-emphasizes-securing-database-estates-against-ai-enabl
 related_article_ids: []
-embedding_id: 2026-09-04-securing-data-against-ai-enabled-attacks-how-oracle-protects
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s
-embedding_id: 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
+embedding_id: null
 event_name: ''
 ---
 

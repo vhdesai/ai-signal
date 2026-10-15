@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-salesforce-puts-its-entire-crm-inside-claude
 - 2026-05-06-
 - 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
-embedding_id: 2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on
+embedding_id: null
 event_name: ''
 ---
 

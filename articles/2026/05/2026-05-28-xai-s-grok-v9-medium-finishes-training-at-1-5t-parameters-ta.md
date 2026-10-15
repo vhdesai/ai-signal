@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
+embedding_id: null
 event_name: ''
 ---
 

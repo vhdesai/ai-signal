@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
 - 2026-09-05-nvidia-partner-hon-hai-foxconn-posts-52-august-sales-jump-on
 - 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
-embedding_id: 2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand
+embedding_id: null
 event_name: ''
 ---
 

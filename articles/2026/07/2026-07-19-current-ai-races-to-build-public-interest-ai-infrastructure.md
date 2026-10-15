@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
-embedding_id: 2026-07-19-current-ai-races-to-build-public-interest-ai-infrastructure
+embedding_id: null
 event_name: ''
 ---
 

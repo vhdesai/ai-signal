@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
-embedding_id: 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-tool-that-fin
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb
 - 2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing
-embedding_id: 2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo
+embedding_id: null
 event_name: ''
 ---
 

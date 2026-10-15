@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 - 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
-embedding_id: 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
+embedding_id: null
 event_name: ''
 ---
 

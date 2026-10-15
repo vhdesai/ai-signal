@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h
-embedding_id: 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
+embedding_id: null
 event_name: ''
 ---
 

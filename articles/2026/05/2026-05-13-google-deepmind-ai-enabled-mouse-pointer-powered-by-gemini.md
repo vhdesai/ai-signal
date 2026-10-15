@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor
 - 2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte
 - 2026-05-13-google-deepmind-is-experimenting-with-treating-cursor-positi
-embedding_id: 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
+embedding_id: null
 event_name: ''
 ---
 

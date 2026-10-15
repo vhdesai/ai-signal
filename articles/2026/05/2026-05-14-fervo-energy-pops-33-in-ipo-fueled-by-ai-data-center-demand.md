@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
 - 2026-08-15-data-center-demand-powers-clean-energy-deal-pipeline
 - 2026-08-30-openai-received-about-5-5-billion-in-sb-energy-warrants-ahea
-embedding_id: 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
+embedding_id: null
 event_name: ''
 ---
 

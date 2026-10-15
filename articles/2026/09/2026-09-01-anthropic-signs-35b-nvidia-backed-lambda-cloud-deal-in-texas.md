@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-anthropic-signs-35b-cloud-deal-with-nvidia-backed-lambda-for
 related_article_ids: []
-embedding_id: 2026-09-01-anthropic-signs-35b-nvidia-backed-lambda-cloud-deal-in-texas
+embedding_id: null
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-september-4-2026-the-information
 related_article_ids: []
-embedding_id: 2026-09-03-september-4-2026-the-information-2
+embedding_id: null
 event_name: ''
 ---
 

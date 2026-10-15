@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
-embedding_id: 2026-08-12-anthropic-brings-claude-cowork-to-a-chrome-sidebar
+embedding_id: null
 event_name: ''
 ---
 

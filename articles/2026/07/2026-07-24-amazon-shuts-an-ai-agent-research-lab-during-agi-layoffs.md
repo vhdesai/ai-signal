@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-09-24-thursday-september-24-2026
-embedding_id: 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
+embedding_id: null
 event_name: ''
 ---
 

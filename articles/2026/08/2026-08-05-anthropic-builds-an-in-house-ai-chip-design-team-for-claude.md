@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
-embedding_id: 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
+embedding_id: null
 event_name: ''
 ---
 

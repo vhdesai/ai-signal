@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
 - 2026-08-26-techcrunch-google-s-gemini-has-a-branding-problem-and-so-doe
-embedding_id: 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
+embedding_id: null
 event_name: ''
 ---
 

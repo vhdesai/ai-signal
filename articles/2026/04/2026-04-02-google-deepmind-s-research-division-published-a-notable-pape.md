@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
-embedding_id: 2026-04-02-google-deepmind-s-research-division-published-a-notable-pape
+embedding_id: null
 event_name: ''
 ---
 

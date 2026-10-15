@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
-embedding_id: 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
+embedding_id: null
 event_name: ''
 ---
 

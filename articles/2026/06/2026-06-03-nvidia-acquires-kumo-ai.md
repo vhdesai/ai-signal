@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
 related_article_ids: []
-embedding_id: 2026-06-03-nvidia-acquires-kumo-ai
+embedding_id: null
 event_name: ''
 ---
 

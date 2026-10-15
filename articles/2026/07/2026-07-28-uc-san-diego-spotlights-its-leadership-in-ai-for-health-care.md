@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-embedding_id: 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
+embedding_id: null
 event_name: ''
 ---
 

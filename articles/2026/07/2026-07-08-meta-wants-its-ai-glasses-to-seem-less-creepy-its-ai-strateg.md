@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
 - 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
-embedding_id: 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
+embedding_id: null
 event_name: ''
 ---
 

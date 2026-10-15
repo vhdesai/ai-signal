@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 - 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
 - 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
-embedding_id: 2026-10-12-amazon-science-reports-priming-method-to-alter-model-archite
+embedding_id: null
 event_name: ''
 ---
 

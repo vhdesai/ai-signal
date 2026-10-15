@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-icml-2026-opens-in-seoul
 - 2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours
 - 2026-07-07-july-7-2026
-embedding_id: 2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track
+embedding_id: null
 event_name: ''
 ---
 

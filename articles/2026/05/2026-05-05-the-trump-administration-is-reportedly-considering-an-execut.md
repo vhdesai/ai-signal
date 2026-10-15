@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
-embedding_id: 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
+embedding_id: null
 event_name: ''
 ---
 

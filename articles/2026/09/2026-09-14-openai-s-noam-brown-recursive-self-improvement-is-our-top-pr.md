@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
-embedding_id: 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
+embedding_id: null
 event_name: ''
 ---
 

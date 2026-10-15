@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
-embedding_id: 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
+embedding_id: null
 event_name: ''
 ---
 

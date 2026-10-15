@@ -5,7 +5,7 @@ date: '2026-09-04'
 source: University of Arizona News
 url_original: https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument
 url_canonical: https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-05_061026_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 4c31d581b6f3183f46981ad99313ab5bb4110b88d3fadaea945c2677142bab9b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
-embedding_id: 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
+embedding_id: null
 event_name: ''
 ---
 

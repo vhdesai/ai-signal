@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-at-t-has-a-plan-to-curb-its-anthropic-bills
 related_article_ids: []
-embedding_id: 2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting
+embedding_id: null
 event_name: ''
 ---
 

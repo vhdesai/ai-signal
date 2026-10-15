@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-embedding_id: 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
+embedding_id: null
 event_name: ''
 ---
 

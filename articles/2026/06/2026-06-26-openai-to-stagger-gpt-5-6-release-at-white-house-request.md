@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
 url_canonical: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: c74c12fcce7c882028a97aa46c543d437339b5fff34f542810adecc929223345
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-embedding_id: 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
+embedding_id: null
 event_name: ''
 ---
 

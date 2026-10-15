@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3366650/huawei-unveils-new-trifold-smartphone-powered-tau-scaling-law-based-kirin-chip
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3366650/huawei-unveils-new-trifold-smartphone-powered-tau-scaling-law-based-kirin-chip
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_061438_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: bf24cb3340b536630c9b50821fa77c65f01e6410d4a5ae17152339f4231465be
@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 related_article_ids: []
-embedding_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
+embedding_id: null
 event_name: ''
 ---
 

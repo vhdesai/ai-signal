@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
 related_article_ids: []
-embedding_id: 2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai
+embedding_id: null
 event_name: ''
 ---
 

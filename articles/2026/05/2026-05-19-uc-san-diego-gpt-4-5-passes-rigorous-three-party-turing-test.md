@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-embedding_id: 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
+embedding_id: null
 event_name: ''
 ---
 

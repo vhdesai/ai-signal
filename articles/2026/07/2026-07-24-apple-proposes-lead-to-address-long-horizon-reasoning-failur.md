@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-embedding_id: 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
+embedding_id: null
 event_name: ''
 ---
 

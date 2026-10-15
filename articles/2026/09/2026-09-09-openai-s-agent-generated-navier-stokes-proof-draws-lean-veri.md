@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 related_article_ids: []
-embedding_id: 2026-09-09-openai-s-agent-generated-navier-stokes-proof-draws-lean-veri
+embedding_id: null
 event_name: ''
 ---
 

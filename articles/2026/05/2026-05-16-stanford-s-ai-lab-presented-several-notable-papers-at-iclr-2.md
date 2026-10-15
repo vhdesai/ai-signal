@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-the-university-of-washington-s-math-ai-laboratory-announced
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
-embedding_id: 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
+embedding_id: null
 event_name: ''
 ---
 

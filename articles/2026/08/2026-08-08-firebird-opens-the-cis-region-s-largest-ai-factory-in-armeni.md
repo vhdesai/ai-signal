@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia
 related_article_ids: []
-embedding_id: 2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni
+embedding_id: null
 event_name: ''
 ---
 

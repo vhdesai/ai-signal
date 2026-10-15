@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 related_article_ids: []
-embedding_id: 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
+embedding_id: null
 event_name: ''
 ---
 

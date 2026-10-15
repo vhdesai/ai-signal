@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
-embedding_id: 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
+embedding_id: null
 event_name: ''
 ---
 

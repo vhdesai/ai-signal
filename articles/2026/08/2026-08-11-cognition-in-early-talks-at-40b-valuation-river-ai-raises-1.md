@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
-embedding_id: 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
+embedding_id: null
 event_name: ''
 ---
 

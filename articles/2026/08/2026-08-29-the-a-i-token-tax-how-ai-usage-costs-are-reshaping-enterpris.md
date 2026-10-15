@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b
 related_article_ids: []
-embedding_id: 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
+embedding_id: null
 event_name: ''
 ---
 

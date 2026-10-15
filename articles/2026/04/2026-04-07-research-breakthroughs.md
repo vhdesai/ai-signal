@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m
-embedding_id: 2026-04-07-research-breakthroughs
+embedding_id: null
 event_name: ''
 ---
 

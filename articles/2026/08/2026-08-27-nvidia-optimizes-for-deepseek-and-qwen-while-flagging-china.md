@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
-embedding_id: 2026-08-27-nvidia-optimizes-for-deepseek-and-qwen-while-flagging-china
+embedding_id: null
 event_name: ''
 ---
 

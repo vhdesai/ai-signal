@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 - 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
 - 2026-07-11-openai-says-gpt-5-6-sol-ultra-produced-a-proof-of-the-50-yea
-embedding_id: 2026-07-10-gpt-5-6-sol-ultra-produces-claimed-proof-of-the-cycle-double
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-embedding_id: 2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
 - 2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
-embedding_id: 2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i
+embedding_id: null
 event_name: ''
 ---
 

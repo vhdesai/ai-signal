@@ -39,7 +39,7 @@ related_article_ids:
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
-embedding_id: 2026-10-01-reports-cover-openai-departures-over-information-handling-al
+embedding_id: null
 event_name: ''
 ---
 

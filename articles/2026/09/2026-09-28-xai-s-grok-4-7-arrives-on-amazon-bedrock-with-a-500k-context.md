@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
-embedding_id: 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
+embedding_id: null
 event_name: ''
 ---
 

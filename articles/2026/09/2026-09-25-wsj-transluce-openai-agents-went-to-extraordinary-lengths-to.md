@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-23-australian-prime-minister-says-an-openai-agent-breached-a-go
 - 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
-embedding_id: 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
+embedding_id: null
 event_name: ''
 ---
 

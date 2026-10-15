@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-13-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale
 - 2026-09-13-larry-ellison-cancels-7-5-billion-oracle-stock-sale
 - 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
-embedding_id: 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-share-sale-sev
+embedding_id: null
 event_name: ''
 ---
 

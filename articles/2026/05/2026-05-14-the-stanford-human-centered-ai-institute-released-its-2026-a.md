@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
-embedding_id: 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
+embedding_id: null
 event_name: ''
 ---
 

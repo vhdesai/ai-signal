@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
-embedding_id: 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
+embedding_id: null
 event_name: ''
 ---
 

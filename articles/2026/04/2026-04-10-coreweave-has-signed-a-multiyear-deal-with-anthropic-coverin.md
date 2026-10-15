@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 - 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
 - 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
-embedding_id: 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
+embedding_id: null
 event_name: ''
 ---
 

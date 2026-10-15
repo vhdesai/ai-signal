@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-instinct-brings-personal-ai-agents-into-group-chats
 - 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
-embedding_id: 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
+embedding_id: null
 event_name: ''
 ---
 

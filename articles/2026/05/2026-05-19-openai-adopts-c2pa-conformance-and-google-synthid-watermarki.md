@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
-embedding_id: 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
+embedding_id: null
 event_name: ''
 ---
 

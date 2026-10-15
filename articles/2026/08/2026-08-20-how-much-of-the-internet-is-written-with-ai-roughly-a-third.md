@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
-embedding_id: 2026-08-20-how-much-of-the-internet-is-written-with-ai-roughly-a-third
+embedding_id: null
 event_name: ''
 ---
 

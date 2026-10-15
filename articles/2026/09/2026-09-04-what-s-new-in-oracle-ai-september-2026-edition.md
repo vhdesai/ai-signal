@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
-embedding_id: 2026-09-04-what-s-new-in-oracle-ai-september-2026-edition
+embedding_id: null
 event_name: ''
 ---
 

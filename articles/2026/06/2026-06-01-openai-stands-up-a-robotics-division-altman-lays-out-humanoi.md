@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
-embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
+embedding_id: null
 event_name: ''
 ---
 

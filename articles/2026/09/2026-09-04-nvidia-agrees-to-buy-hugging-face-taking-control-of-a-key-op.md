@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 related_article_ids:
 - 2026-09-04-nvidia-s-hugging-face-deal-draws-scrutiny-over-control-of-th
-embedding_id: 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
+embedding_id: null
 event_name: ''
 ---
 

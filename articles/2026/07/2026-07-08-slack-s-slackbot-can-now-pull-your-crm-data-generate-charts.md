@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-08-20-slack-launches-code-channels-putting-ai-coding-agents-inside
-embedding_id: 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
+embedding_id: null
 event_name: ''
 ---
 

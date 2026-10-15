@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
-embedding_id: 2026-04-23-meta-cuts-8-000-roles-microsoft-offers-buyout-to-up-to-7-of
+embedding_id: null
 event_name: ''
 ---
 

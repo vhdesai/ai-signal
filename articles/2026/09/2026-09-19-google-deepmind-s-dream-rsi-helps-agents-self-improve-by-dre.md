@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-google-deepmind-s-dream-rsi-lets-agents-self-improve-by-drea
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
 - 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
-embedding_id: 2026-09-19-google-deepmind-s-dream-rsi-helps-agents-self-improve-by-dre
+embedding_id: null
 event_name: ''
 ---
 

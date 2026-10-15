@@ -30,7 +30,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-embedding_id: event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
+embedding_id: null
 event_name: Microsoft Build 2026
 ---
 

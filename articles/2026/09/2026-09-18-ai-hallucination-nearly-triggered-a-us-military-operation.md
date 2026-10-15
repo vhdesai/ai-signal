@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-ai-hallucination-came-within-minutes-of-triggering-a-us-navy
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-09-18-ai-hallucination-nearly-triggered-a-us-military-operation
+embedding_id: null
 event_name: ''
 ---
 

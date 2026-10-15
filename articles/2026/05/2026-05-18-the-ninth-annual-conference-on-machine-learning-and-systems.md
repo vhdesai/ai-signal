@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-10-02-the-university-of-washington-opened-a-new-global-innovation
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
-embedding_id: 2026-05-18-the-ninth-annual-conference-on-machine-learning-and-systems
+embedding_id: null
 event_name: ''
 ---
 

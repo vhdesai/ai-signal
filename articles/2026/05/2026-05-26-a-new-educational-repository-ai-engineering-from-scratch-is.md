@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences
-embedding_id: 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
+embedding_id: null
 event_name: ''
 ---
 

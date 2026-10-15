@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv
 - 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
 - 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
-embedding_id: 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
+embedding_id: null
 event_name: ''
 ---
 

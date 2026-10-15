@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-embedding_id: 2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
-embedding_id: 2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si
+embedding_id: null
 event_name: ''
 ---
 

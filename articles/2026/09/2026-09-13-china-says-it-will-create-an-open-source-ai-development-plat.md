@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path
-embedding_id: 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
+embedding_id: null
 event_name: ''
 ---
 

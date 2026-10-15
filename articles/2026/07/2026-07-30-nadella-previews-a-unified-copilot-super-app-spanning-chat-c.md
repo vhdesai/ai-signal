@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-work-code-and-custom-agents-into-a-single
 - 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
-embedding_id: 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
+embedding_id: null
 event_name: ''
 ---
 

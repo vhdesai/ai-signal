@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-08-31-meta-reportedly-projected-up-to-10b-a-year-in-anthropic-mode
-embedding_id: 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
+embedding_id: null
 event_name: ''
 ---
 

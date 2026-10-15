@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 - 2026-08-23-alibaba-seeks-10-2b-in-hong-kong-share-placement-to-fund-ai
 - 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
-embedding_id: 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
+embedding_id: null
 event_name: ''
 ---
 

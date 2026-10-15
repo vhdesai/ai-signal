@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-stanford-faculty-split-on-ai-and-the-humanities-poetry-will
 - 2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo
 - 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
-embedding_id: 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
+embedding_id: null
 event_name: ''
 ---
 

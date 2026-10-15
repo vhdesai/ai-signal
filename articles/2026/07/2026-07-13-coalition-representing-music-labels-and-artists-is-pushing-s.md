@@ -29,7 +29,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
-embedding_id: 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
+embedding_id: null
 event_name: ''
 ---
 

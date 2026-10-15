@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
 related_article_ids: []
-embedding_id: 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
+embedding_id: null
 event_name: ''
 ---
 

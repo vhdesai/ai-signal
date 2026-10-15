@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 - 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation
-embedding_id: 2026-08-07-stanford-s-37-000-agent-virtual-biotech-designed-a-drug-merc
+embedding_id: null
 event_name: ''
 ---
 

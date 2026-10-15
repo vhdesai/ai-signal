@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b
 related_article_ids: []
-embedding_id: 2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts
+embedding_id: null
 event_name: ''
 ---
 

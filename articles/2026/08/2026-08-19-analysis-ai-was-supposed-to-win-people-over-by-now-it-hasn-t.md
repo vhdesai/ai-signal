@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
 related_article_ids: []
-embedding_id: 2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
+embedding_id: null
 event_name: ''
 ---
 

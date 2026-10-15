@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-07-31-cyrusone-prepares-ipo-groundwork-as-ai-data-center-demand-ke
-embedding_id: 2026-05-05-newelevenlabs-adds-blackrock-jamie-foxx-and-eva-longoria-to
+embedding_id: null
 event_name: ''
 ---
 

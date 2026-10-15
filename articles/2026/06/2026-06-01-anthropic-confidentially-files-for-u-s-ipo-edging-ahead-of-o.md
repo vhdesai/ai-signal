@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 related_article_ids: []
-embedding_id: 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
+embedding_id: null
 event_name: ''
 ---
 

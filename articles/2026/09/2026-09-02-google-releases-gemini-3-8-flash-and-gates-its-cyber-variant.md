@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
 related_article_ids: []
-embedding_id: 2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant
+embedding_id: null
 event_name: ''
 ---
 

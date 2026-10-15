@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-08-04-alibaba-s-qwen3-8-max-claims-frontier-level-agentic-computer
-embedding_id: 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
+embedding_id: null
 event_name: ''
 ---
 

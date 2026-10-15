@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 related_article_ids: []
-embedding_id: 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
+embedding_id: null
 event_name: ''
 ---
 

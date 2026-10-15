@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-embedding_id: 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
+embedding_id: null
 event_name: ''
 ---
 

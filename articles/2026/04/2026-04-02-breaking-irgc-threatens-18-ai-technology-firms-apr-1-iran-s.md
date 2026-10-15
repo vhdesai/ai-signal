@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-embedding_id: 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
+embedding_id: null
 event_name: ''
 ---
 

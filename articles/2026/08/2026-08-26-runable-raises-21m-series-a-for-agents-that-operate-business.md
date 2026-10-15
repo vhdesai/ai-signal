@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-embedding_id: 2026-08-26-runable-raises-21m-series-a-for-agents-that-operate-business
+embedding_id: null
 event_name: ''
 ---
 

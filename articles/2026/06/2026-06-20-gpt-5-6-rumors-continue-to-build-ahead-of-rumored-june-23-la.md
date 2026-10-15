@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 related_article_ids: []
-embedding_id: 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
+embedding_id: null
 event_name: ''
 ---
 

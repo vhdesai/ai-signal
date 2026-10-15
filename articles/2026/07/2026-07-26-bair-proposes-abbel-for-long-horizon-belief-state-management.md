@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-abbel-belief-state-memory-for-llm-agents
 related_article_ids: []
-embedding_id: 2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-an-autonomous-ai-cybe
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
-embedding_id: 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
+embedding_id: null
 event_name: ''
 ---
 

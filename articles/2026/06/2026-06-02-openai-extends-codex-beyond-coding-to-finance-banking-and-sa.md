@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin
 related_article_ids:
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-embedding_id: 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
+embedding_id: null
 event_name: ''
 ---
 

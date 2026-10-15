@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-embedding_id: 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
+embedding_id: null
 event_name: ''
 ---
 

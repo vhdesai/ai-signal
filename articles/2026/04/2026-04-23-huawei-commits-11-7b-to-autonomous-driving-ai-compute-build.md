@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
-embedding_id: 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
+embedding_id: null
 event_name: ''
 ---
 

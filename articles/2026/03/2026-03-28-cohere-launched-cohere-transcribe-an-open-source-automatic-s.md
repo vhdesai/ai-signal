@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
-embedding_id: 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
+embedding_id: null
 event_name: ''
 ---
 

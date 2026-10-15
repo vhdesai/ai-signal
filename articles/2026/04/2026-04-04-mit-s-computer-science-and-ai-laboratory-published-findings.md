@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-embedding_id: 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
-embedding_id: 2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos
+embedding_id: null
 event_name: ''
 ---
 

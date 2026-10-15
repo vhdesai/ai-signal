@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
-embedding_id: 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
+embedding_id: null
 event_name: ''
 ---
 

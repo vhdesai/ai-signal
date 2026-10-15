@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-embedding_id: 2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system
+embedding_id: null
 event_name: ''
 ---
 

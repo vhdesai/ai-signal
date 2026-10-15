@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
 related_article_ids: []
-embedding_id: 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
+embedding_id: null
 event_name: ''
 ---
 

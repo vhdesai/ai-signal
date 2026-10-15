@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-tencent-backed-china-chipmaker-enflame-seeks-911-million-in
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 - 2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription
-embedding_id: 2026-09-11-tencent-backed-enflame-soars-206-in-shanghai-debut
+embedding_id: null
 event_name: ''
 ---
 

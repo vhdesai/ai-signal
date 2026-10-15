@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
-embedding_id: 2026-05-28-bcg-ceo-ai-is-changing-how-consultants-get-paid-and-much-mor
+embedding_id: null
 event_name: ''
 ---
 

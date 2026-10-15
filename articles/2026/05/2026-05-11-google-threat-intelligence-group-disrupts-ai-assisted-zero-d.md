@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-18-google-confirmed-the-detection-of-the-first-known-zero-day-s
-embedding_id: 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
+embedding_id: null
 event_name: ''
 ---
 

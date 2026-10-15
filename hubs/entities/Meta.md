@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 905
+member_count: 906
 ---
 
 # Meta
 
-> Auto-generated entity hub. 905 connected article(s).
+> Auto-generated entity hub. 906 connected article(s).
 
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]

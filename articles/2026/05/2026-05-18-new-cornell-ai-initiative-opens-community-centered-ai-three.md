@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-cornell-what-happened-when-we-put-ai-to-work
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-embedding_id: 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
+embedding_id: null
 event_name: ''
 ---
 

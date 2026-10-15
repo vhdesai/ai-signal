@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
 - 2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
-embedding_id: 2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha
+embedding_id: null
 event_name: ''
 ---
 

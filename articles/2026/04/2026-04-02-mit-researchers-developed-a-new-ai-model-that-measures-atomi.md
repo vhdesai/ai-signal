@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
-embedding_id: 2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi
+embedding_id: null
 event_name: ''
 ---
 

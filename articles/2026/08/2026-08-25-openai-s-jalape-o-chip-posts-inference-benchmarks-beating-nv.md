@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 related_article_ids: []
-embedding_id: 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
+embedding_id: null
 event_name: ''
 ---
 

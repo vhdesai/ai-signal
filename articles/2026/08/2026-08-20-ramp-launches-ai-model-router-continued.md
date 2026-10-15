@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-20-ramp-s-ai-model-router-now-live-continued
 - 2026-08-20-ramp-launches-its-own-ai-model-router-called-router
 - 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
-embedding_id: 2026-08-20-ramp-launches-ai-model-router-continued
+embedding_id: null
 event_name: ''
 ---
 

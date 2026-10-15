@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
-embedding_id: 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
+embedding_id: null
 event_name: ''
 ---
 

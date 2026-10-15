@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: 2026-07-17-zoom-do-not-record-me-hack-highlights-friction-from-ai-trans
+embedding_id: null
 event_name: ''
 ---
 

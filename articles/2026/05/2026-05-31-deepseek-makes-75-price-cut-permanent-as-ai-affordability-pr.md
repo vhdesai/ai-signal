@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: The Financial Express*
 url_original: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
 url_canonical: https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 38f6f38c64d2ad590e31a9140d06325033c7f179b0db36fdc14936e6ceb89cc3
 normalized_title_hash: d37688c49ccc115b
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-embedding_id: 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
+embedding_id: null
 event_name: ''
 ---
 

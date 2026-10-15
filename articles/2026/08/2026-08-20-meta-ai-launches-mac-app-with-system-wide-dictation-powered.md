@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
-embedding_id: 2026-08-20-meta-ai-launches-mac-app-with-system-wide-dictation-powered
+embedding_id: null
 event_name: ''
 ---
 

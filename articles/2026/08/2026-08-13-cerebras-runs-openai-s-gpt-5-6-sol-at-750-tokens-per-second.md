@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-13-openai-ultrafast-gpt-5-6-sol-at-750-tok-s-on-cerebras
 - 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-per
 - 2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by
-embedding_id: 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
+embedding_id: null
 event_name: ''
 ---
 

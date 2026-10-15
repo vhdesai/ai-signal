@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
 related_article_ids: []
-embedding_id: 2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-it-nears-the-first-ever-critical-c
-embedding_id: 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
+embedding_id: null
 event_name: ''
 ---
 

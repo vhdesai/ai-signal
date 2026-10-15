@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s
 related_article_ids: []
-embedding_id: 2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l
+embedding_id: null
 event_name: ''
 ---
 

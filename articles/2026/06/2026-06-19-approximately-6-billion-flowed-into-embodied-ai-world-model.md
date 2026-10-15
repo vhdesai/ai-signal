@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-embedding_id: 2026-06-19-approximately-6-billion-flowed-into-embodied-ai-world-model
+embedding_id: null
 event_name: ''
 ---
 

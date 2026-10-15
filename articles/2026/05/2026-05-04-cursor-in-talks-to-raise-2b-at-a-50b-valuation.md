@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-embedding_id: 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
+embedding_id: null
 event_name: ''
 ---
 

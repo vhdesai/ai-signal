@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 6b26b924f6219aa81d4e9a0b04041d9c1aa6b2679afdd011ddbbb70021fd4a29
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s
 - 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
-embedding_id: 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
+embedding_id: null
 event_name: ''
 ---
 

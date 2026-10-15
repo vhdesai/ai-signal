@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
 - 2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
-embedding_id: 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
+embedding_id: null
 event_name: ''
 ---
 

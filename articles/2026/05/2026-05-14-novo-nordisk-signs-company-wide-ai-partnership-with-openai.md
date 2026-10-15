@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 - 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
-embedding_id: 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
+embedding_id: null
 event_name: ''
 ---
 

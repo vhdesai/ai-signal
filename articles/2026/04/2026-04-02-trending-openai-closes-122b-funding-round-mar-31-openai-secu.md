@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
-embedding_id: 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
+embedding_id: null
 event_name: ''
 ---
 

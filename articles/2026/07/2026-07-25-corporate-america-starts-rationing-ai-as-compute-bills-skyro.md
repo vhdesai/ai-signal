@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
+embedding_id: null
 event_name: ''
 ---
 

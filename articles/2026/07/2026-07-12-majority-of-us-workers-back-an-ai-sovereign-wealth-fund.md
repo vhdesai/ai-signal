@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund
 related_article_ids: []
-embedding_id: 2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund
+embedding_id: null
 event_name: ''
 ---
 

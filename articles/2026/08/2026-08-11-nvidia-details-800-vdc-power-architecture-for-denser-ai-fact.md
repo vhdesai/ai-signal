@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-embedding_id: 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
+embedding_id: null
 event_name: ''
 ---
 

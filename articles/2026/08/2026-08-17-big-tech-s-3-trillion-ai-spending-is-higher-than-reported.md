@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-07-26-daily-ai-news-digest-july-27-2026
-embedding_id: 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
 related_article_ids: []
-embedding_id: 2026-08-14-samsung-s-xmae-and-himae-show-foundation-model-approaches-fo
+embedding_id: null
 event_name: ''
 ---
 

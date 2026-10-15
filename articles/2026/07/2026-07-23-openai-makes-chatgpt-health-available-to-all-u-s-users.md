@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
 related_article_ids: []
-embedding_id: 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
+embedding_id: null
 event_name: ''
 ---
 

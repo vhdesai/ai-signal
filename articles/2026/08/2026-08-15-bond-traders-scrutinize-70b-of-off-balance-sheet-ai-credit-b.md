@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-big-tech-is-using-guarantees-to-keep-roughly-300bn-of-ai-exp
 - 2026-09-20-big-tech-is-using-guarantees-to-keep-300b-of-ai-exposure-off
 - 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
-embedding_id: 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-03-stanford-hai-2026-ai-index-capability-acceleration-not-plate
-embedding_id: 2026-04-20-stanford-hai-april-2026-the-flagship-2026-ai-index-tracks-co
+embedding_id: null
 event_name: ''
 ---
 

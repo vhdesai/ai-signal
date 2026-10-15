@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
-embedding_id: 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
+embedding_id: null
 event_name: ''
 ---
 

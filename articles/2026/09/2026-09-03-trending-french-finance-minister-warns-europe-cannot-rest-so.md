@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 related_article_ids: []
-embedding_id: 2026-09-03-trending-french-finance-minister-warns-europe-cannot-rest-so
+embedding_id: null
 event_name: ''
 ---
 

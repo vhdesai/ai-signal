@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
-embedding_id: 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
+embedding_id: null
 event_name: ''
 ---
 

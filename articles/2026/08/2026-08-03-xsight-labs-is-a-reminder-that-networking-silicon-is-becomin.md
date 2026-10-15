@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
-embedding_id: 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
+embedding_id: null
 event_name: ''
 ---
 

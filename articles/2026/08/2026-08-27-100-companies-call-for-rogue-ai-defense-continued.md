@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-27-100-companies-rogue-ai-defense-letter-17-hacking-incidents-c
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
-embedding_id: 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
+embedding_id: null
 event_name: ''
 ---
 

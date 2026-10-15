@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-embedding_id: 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+embedding_id: null
 event_name: ''
 ---
 

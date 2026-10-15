@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
 related_article_ids: []
-embedding_id: 2026-08-14-z-ai-s-glm-5-3-posts-frontier-cyber-scores-and-reportedly-fo
+embedding_id: null
 event_name: ''
 ---
 

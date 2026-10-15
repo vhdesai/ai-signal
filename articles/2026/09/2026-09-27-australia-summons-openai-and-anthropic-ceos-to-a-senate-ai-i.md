@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-australian-senate-inquiry-asks-altman-and-amodei-to-testify
 - 2026-09-27-australian-senate-calls-altman-and-amodei-to-testify-after-m
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-embedding_id: 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
+embedding_id: null
 event_name: ''
 ---
 

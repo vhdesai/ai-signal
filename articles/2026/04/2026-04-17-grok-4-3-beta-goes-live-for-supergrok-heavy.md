@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
 - 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
-embedding_id: 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+embedding_id: null
 event_name: ''
 ---
 

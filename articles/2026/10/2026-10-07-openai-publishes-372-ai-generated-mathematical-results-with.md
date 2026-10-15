@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 - 2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof
 - 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
-embedding_id: 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
+embedding_id: null
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
 related_article_ids: []
-embedding_id: 2026-08-20-anthropic-to-give-enterprise-clients-more-control-over-data
+embedding_id: null
 event_name: ''
 ---
 

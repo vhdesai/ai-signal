@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-06-12-state-attorneys-general-open-investigation-into-openai
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
-embedding_id: 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
+embedding_id: null
 event_name: ''
 ---
 

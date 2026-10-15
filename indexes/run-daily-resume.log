@@ -1,31 +1,42 @@
 {
+  "command": "validate-urls",
+  "result": {
+    "checked": 4915,
+    "ok": 3649,
+    "broken": 1266,
+    "missing": 5461,
+    "skipped": 23
+  },
+  "run_log": "indexes\\runs\\run-20261015T180307+0000-d103c8.json"
+}
+{
   "command": "repair-urls",
   "result": {
-    "attempted": 22,
-    "repaired": 10,
-    "unresolved": 12,
+    "attempted": 1,
+    "repaired": 1,
+    "unresolved": 0,
     "skipped": 0,
     "reverted": 0,
     "deferred": 0,
     "terminated": "completed",
-    "elapsed_s": 110.4,
+    "elapsed_s": 247.6,
     "max_workers": 10
   },
-  "run_log": "indexes\\runs\\run-20261002T214001+0000-54d111.json"
+  "run_log": "indexes\\runs\\run-20261015T184923+0000-903aaa.json"
 }
 {
   "command": "build-site-daily",
   "result": {
-    "pages": 286,
-    "articles": 9953,
-    "canonical": 7313,
+    "pages": 298,
+    "articles": 10399,
+    "canonical": 7705,
     "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
     "mode": "incremental",
-    "changed_articles": 174,
-    "written_files": 103,
-    "elapsed_s": 12.29
+    "changed_articles": 596,
+    "written_files": 175,
+    "elapsed_s": 26.08
   },
-  "run_log": "indexes\\runs\\run-20261002T214153+0000-e66153.json"
+  "run_log": "indexes\\runs\\run-20261015T185334+0000-64919a.json"
 }
 {
   "command": "publish",
@@ -33,5 +44,5 @@
     "status": "dry-run",
     "note": "site/ generated locally; no remote publish configured"
   },
-  "run_log": "indexes\\runs\\run-20261002T214207+0000-41716f.json"
+  "run_log": "indexes\\runs\\run-20261015T185401+0000-a02738.json"
 }

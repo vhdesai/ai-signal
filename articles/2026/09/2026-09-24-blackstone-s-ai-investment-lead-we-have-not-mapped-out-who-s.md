@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras
-embedding_id: 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
+embedding_id: null
 event_name: ''
 ---
 

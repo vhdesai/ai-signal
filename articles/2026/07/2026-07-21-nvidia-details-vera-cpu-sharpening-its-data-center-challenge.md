@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-embedding_id: 2026-07-21-nvidia-details-vera-cpu-sharpening-its-data-center-challenge
+embedding_id: null
 event_name: ''
 ---
 

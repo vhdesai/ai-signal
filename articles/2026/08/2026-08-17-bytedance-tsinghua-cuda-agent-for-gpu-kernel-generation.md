@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 related_article_ids: []
-embedding_id: 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
+embedding_id: null
 event_name: ''
 ---
 

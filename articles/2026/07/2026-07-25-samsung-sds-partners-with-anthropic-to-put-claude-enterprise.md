@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-70-000-employees
 - 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
-embedding_id: 2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise
+embedding_id: null
 event_name: ''
 ---
 

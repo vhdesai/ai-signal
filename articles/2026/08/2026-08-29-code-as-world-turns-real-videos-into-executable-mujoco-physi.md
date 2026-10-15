@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
 related_article_ids: []
-embedding_id: 2026-08-29-code-as-world-turns-real-videos-into-executable-mujoco-physi
+embedding_id: null
 event_name: ''
 ---
 

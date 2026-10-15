@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-09-15-nadella-internal-memo-pace-the-frontier-or-lose-permission-t
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
-embedding_id: 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
+embedding_id: null
 event_name: ''
 ---
 

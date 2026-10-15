@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
 - 2026-05-23-openai-connected-chatgpt-to-financial-accounts-through-plaid
-embedding_id: 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
+embedding_id: null
 event_name: ''
 ---
 

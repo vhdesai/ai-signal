@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
-embedding_id: 2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e
+embedding_id: null
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
-embedding_id: 2026-09-10-pentagon-in-talks-to-lend-5b-to-ai-cloud-startup-fluidstack
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: 2026-10-06-openai-and-anthropic-back-mandatory-ai-breach-disclosure-law
+embedding_id: null
 event_name: ''
 ---
 

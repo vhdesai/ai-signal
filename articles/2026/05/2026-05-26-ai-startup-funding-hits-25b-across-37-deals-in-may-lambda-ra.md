@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-venture-c
 - 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
-embedding_id: 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+embedding_id: null
 event_name: ''
 ---
 

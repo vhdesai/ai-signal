@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
-embedding_id: 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
+embedding_id: null
 event_name: ''
 ---
 

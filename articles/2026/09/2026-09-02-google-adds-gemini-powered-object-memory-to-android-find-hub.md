@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
-embedding_id: 2026-09-02-google-adds-gemini-powered-object-memory-to-android-find-hub
+embedding_id: null
 event_name: ''
 ---
 

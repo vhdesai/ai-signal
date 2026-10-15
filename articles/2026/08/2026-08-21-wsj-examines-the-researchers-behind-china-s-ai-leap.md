@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 - 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
-embedding_id: 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
+embedding_id: null
 event_name: ''
 ---
 

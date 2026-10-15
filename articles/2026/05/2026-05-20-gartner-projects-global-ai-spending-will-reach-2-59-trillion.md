@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/global-AI-spend-2026/820656/
 url_canonical: https://www.ciodive.com/news/global-AI-spend-2026/820656/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: b06cf402f50290b89f59732d18df133a32885bdc07ac8bfd92f889be91d46b09
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 - 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
-embedding_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
+embedding_id: null
 event_name: ''
 ---
 

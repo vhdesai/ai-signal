@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: Reuters
 url_original: https://www.yahoo.com/news/world/articles/exclusive-chinese-military-researchers-tap-060340209.html
 url_canonical: https://www.yahoo.com/news/world/articles/exclusive-chinese-military-researchers-tap-060340209.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5e6c56defab34c156111bb06b6458156cca40e9f07fcda148198867cf2cf6fe2
@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 related_article_ids: []
-embedding_id: 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
+embedding_id: null
 event_name: ''
 ---
 

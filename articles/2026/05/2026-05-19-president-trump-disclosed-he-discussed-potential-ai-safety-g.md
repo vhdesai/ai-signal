@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
 - 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
-embedding_id: 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
+embedding_id: null
 event_name: ''
 ---
 

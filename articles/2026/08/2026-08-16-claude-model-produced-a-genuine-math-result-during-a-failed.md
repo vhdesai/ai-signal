@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-wsj-ai-achieves-another-math-breakthrough-on-riemann-hypothe
 - 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
-embedding_id: 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
+embedding_id: null
 event_name: ''
 ---
 

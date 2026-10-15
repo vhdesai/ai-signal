@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/
 url_canonical: https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-24_060708_Inbox_Daily AI News Digest - August 24,
   2026.md
 content_hash: fbe62292293e8c3eb7e401322e7d8a142b8f9e9ca1df1ffca1abb9cab1ec720a
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
 - 2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
-embedding_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
+embedding_id: null
 event_name: ''
 ---
 

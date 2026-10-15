@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-07-16-xai-open-sources-grok-build-after-privacy-backlash
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-embedding_id: 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
+embedding_id: null
 event_name: ''
 ---
 

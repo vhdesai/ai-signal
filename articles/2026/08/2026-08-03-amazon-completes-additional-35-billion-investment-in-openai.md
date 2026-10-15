@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-amazon-completes-another-35b-investment-in-openai
 - 2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-embedding_id: 2026-08-03-amazon-completes-additional-35-billion-investment-in-openai
+embedding_id: null
 event_name: ''
 ---
 

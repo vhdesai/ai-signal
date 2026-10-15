@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation
 related_article_ids: []
-embedding_id: 2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation
+embedding_id: null
 event_name: ''
 ---
 

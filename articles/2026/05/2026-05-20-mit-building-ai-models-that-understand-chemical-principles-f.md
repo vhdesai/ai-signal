@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 related_article_ids: []
-embedding_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
-embedding_id: 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
-embedding_id: 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-08-22-openai-reverses-course-calls-for-california-to-strengthen-sb
 - 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
-embedding_id: 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-embedding_id: 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+embedding_id: null
 event_name: ''
 ---
 

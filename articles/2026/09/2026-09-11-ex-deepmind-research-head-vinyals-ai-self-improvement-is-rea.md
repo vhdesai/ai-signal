@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-embedding_id: 2026-09-11-ex-deepmind-research-head-vinyals-ai-self-improvement-is-rea
+embedding_id: null
 event_name: ''
 ---
 

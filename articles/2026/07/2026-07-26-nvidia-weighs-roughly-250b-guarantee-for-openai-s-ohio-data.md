@@ -25,7 +25,7 @@ canonical_article_id: 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-f
 related_article_ids:
 - 2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s
 - 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
-embedding_id: 2026-07-26-nvidia-weighs-roughly-250b-guarantee-for-openai-s-ohio-data
+embedding_id: null
 event_name: ''
 ---
 

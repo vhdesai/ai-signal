@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-11-ai-agents-breached-395-organizations-across-48-countries-in
-embedding_id: 2026-10-01-security-startup-finds-13-000-internal-company-screenshots-a
+embedding_id: null
 event_name: ''
 ---
 

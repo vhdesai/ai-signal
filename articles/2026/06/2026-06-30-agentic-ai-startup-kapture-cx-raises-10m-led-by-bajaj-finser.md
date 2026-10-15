@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: YourStory
 url_original: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
 url_canonical: https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-30-2026
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 12a1e96c21e2d962935c3b2f023c2639d7837b973d16abbea671645ad3d83c89
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 - 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-embedding_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
+embedding_id: null
 event_name: ''
 ---
 

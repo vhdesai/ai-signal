@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
 related_article_ids:
 - 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13b-taking-aim-at-the
-embedding_id: 2026-09-03-nvidia-agrees-to-buy-hugging-face-for-13-billion-taking-aim
+embedding_id: null
 event_name: ''
 ---
 

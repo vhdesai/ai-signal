@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla
 related_article_ids: []
-embedding_id: 2026-09-05-hikers-rescued-after-relying-on-google-gemini-for-trip-plann
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: MIT News
 url_original: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
 url_canonical: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 26dd04e6bc9127e562001c5c01b37f8db4c8cf818cd3073584a5075562f37210
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
-embedding_id: 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
+embedding_id: null
 event_name: ''
 ---
 

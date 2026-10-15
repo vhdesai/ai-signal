@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-p
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
+embedding_id: null
 event_name: ''
 ---
 

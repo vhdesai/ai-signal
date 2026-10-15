@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
-embedding_id: 2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters
+embedding_id: null
 event_name: ''
 ---
 

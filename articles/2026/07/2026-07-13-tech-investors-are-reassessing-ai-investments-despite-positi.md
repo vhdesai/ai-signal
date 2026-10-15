@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-embedding_id: 2026-07-13-tech-investors-are-reassessing-ai-investments-despite-positi
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 related_article_ids: []
-embedding_id: 2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts
+embedding_id: null
 event_name: ''
 ---
 

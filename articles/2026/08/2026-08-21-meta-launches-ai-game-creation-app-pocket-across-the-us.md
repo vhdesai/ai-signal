@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: ProPakistani
 url_original: https://propakistani.pk/2026/08/21/meta-launches-pocket-app-that-lets-you-create-and-share-games/
 url_canonical: https://propakistani.pk/2026/08/21/meta-launches-pocket-app-that-lets-you-create-and-share-games/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-21_060810_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: eb079bd9866e39b591e30a7dab136321958485dacb5bbc8b9ad143ed0b459033
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 - 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
-embedding_id: 2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
 related_article_ids: []
-embedding_id: 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
+embedding_id: null
 event_name: ''
 ---
 

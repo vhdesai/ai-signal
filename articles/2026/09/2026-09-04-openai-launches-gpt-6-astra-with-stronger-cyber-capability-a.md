@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
 - 2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco
-embedding_id: 2026-09-04-openai-launches-gpt-6-astra-with-stronger-cyber-capability-a
+embedding_id: null
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
-embedding_id: 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
+embedding_id: null
 event_name: ''
 ---
 

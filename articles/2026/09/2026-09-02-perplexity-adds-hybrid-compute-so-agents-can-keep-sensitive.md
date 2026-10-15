@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-01-perplexity-ships-hybrid-compute-on-mac-gating-cloud-calls-be
 - 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
 - 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
-embedding_id: 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
+embedding_id: null
 event_name: ''
 ---
 

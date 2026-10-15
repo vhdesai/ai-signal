@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: SecurityWeek
 url_original: https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/
 url_canonical: https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-05_061510_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: 65d5719157c7e4cea79376977b3c95224f487a14a831261a948592483d95ef16
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 - 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
-embedding_id: 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
+embedding_id: null
 event_name: ''
 ---
 

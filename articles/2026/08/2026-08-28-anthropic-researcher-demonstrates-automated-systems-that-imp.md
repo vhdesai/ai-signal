@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 - 2026-08-28-anthropic-reports-automated-researchers-can-mitigate-alignme
-embedding_id: 2026-08-28-anthropic-researcher-demonstrates-automated-systems-that-imp
+embedding_id: null
 event_name: ''
 ---
 

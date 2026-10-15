@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va
 - 2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund
 - 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
-embedding_id: 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
+embedding_id: null
 event_name: ''
 ---
 

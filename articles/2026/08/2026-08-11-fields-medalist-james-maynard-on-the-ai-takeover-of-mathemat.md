@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-09-22-ai-assisted-team-closes-the-last-sporadic-case-of-the-invers
 - 2026-08-08-wsj-argues-ai-has-reached-its-move-37-moment-in-mathematics
-embedding_id: 2026-08-11-fields-medalist-james-maynard-on-the-ai-takeover-of-mathemat
+embedding_id: null
 event_name: ''
 ---
 

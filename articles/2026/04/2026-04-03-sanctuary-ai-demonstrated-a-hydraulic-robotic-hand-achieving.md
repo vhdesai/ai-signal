@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
-embedding_id: 2026-04-03-sanctuary-ai-demonstrated-a-hydraulic-robotic-hand-achieving
+embedding_id: null
 event_name: ''
 ---
 

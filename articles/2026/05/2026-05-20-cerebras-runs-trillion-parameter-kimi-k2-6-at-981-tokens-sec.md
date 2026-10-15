@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 related_article_ids: []
-embedding_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec
+embedding_id: null
 event_name: ''
 ---
 

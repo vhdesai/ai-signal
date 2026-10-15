@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-weekly-capital-flows-to-physical-substrate-not-applications
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled
-embedding_id: 2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on
+embedding_id: null
 event_name: ''
 ---
 

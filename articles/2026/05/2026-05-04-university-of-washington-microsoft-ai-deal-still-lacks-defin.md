@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
-embedding_id: 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
+embedding_id: null
 event_name: ''
 ---
 

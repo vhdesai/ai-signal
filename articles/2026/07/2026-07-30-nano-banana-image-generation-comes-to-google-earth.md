@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 related_article_ids: []
-embedding_id: 2026-07-30-nano-banana-image-generation-comes-to-google-earth
+embedding_id: null
 event_name: ''
 ---
 

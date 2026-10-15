@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 related_article_ids: []
-embedding_id: 2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis
+embedding_id: null
 event_name: ''
 ---
 

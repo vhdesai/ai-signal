@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
-embedding_id: 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
+embedding_id: null
 event_name: ''
 ---
 

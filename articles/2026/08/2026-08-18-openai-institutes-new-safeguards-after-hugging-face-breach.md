@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-01-techcrunch-citing-reuters-reports-that-openai-s-investigatio
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-embedding_id: 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
+embedding_id: null
 event_name: ''
 ---
 

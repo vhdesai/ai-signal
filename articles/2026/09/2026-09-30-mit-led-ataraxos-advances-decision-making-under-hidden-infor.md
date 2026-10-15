@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: MIT News
 url_original: https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930
 url_canonical: https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-01_062531_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: a27a27b16fa541c0e75596d981878f764de7a0f60828599102b3034fce713257
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
-embedding_id: 2026-09-30-mit-led-ataraxos-advances-decision-making-under-hidden-infor
+embedding_id: null
 event_name: ''
 ---
 

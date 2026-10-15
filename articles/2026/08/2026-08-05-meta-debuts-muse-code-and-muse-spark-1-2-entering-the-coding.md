@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-meta-ships-muse-code-a-terminal-coding-agent-built-on-muse-s
 - 2026-09-02-meta-releases-muse-spark-1-3-for-coding-and-long-horizon-age
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
-embedding_id: 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-kimi-k3-post-trained-coding/
 url_canonical: https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-kimi-k3-post-trained-coding/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-13_070011_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 9ea05d1af573cc836726c31546c155da913d1b3ed26fb260f925d7b72f251c40
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
 - 2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64
-embedding_id: 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
+embedding_id: null
 event_name: ''
 ---
 

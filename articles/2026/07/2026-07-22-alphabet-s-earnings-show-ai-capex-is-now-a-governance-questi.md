@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 - 2026-07-22-google-defends-ai-capex-with-booming-cloud-growth
-embedding_id: 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-deepens-ai-infrastructure-pa
-embedding_id: 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
+embedding_id: null
 event_name: ''
 ---
 

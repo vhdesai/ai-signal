@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-embedding_id: 2026-09-28-cornell-trust-is-the-missing-ingredient-for-ai-driven-food-s
+embedding_id: null
 event_name: ''
 ---
 

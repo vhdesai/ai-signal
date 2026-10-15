@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
-embedding_id: 2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
-embedding_id: 2026-09-03-data-center-dollars-chase-quantum-infrastructure
+embedding_id: null
 event_name: ''
 ---
 

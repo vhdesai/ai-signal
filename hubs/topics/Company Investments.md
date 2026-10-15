@@ -1,15 +1,16 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1296
+member_count: 1297
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1296 connected article(s).
+> Auto-generated topic hub. 1297 connected article(s).
 
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
 - `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
+- `2026-10-14` [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b|Anthropic tells prospective investors revenue reached $16.8 billion]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
 - `2026-10-12` [[2026-10-12-former-plaud-executive-raises-26m-for-ambi-an-always-listeni|Former Plaud executive raises $26M for Ambi, an always-listening AI assistant]]
 - `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]

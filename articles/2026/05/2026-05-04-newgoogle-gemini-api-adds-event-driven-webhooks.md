@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api
 related_article_ids: []
-embedding_id: 2026-05-04-newgoogle-gemini-api-adds-event-driven-webhooks
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re
-embedding_id: 2026-08-21-google-rolls-out-new-personalization-controls-across-search
+embedding_id: null
 event_name: ''
 ---
 

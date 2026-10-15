@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-a-new-ai-czar
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
-embedding_id: 2026-09-22-trump-announces-an-ai-force-signals-new-ai-czar-to-coordinat
+embedding_id: null
 event_name: ''
 ---
 

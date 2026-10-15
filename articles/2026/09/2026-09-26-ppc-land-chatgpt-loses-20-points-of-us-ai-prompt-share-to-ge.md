@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-embedding_id: 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
+embedding_id: null
 event_name: ''
 ---
 

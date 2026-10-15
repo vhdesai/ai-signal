@@ -6,7 +6,7 @@ date: '2026-09-24'
 source: CIO Dive
 url_original: https://www.ciodive.com/
 url_canonical: https://www.ciodive.com/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 392a603b5db2f1fb50b516148a90e0e86dadffdf4d07f75c183df3acb3636bbe
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
-embedding_id: 2026-09-24-bank-of-america-to-double-its-ai-budget-mcdonald-s-commits-8
+embedding_id: null
 event_name: ''
 ---
 

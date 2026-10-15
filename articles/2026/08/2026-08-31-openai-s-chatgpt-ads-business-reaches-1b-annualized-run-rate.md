@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
 related_article_ids: []
-embedding_id: 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
+embedding_id: null
 event_name: ''
 ---
 

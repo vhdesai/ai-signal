@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-embedding_id: 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
+embedding_id: null
 event_name: ''
 ---
 

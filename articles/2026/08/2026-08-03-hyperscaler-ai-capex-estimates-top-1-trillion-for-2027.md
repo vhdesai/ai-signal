@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
 related_article_ids: []
-embedding_id: 2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027
+embedding_id: null
 event_name: ''
 ---
 

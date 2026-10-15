@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-rippling-ships-ai-spend-console-after-discovering-40-of-r-d
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
-embedding_id: 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
+embedding_id: null
 event_name: ''
 ---
 

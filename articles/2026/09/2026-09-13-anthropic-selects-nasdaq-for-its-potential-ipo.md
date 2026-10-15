@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo-openai-rules-out-a
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
-embedding_id: 2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo
+embedding_id: null
 event_name: ''
 ---
 

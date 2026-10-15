@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b
 - 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
-embedding_id: 2026-07-31-amazon-q2-aws-revenue-growth-accelerates-to-37-stock-jumps-9
+embedding_id: null
 event_name: ''
 ---
 

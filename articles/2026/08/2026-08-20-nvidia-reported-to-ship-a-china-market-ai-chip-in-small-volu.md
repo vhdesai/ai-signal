@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-nvidia-plots-china-comeback-with-new-ai-chip
 related_article_ids: []
-embedding_id: 2026-08-20-nvidia-reported-to-ship-a-china-market-ai-chip-in-small-volu
+embedding_id: null
 event_name: ''
 ---
 

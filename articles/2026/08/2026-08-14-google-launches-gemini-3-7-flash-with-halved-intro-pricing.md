@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 - 2026-08-27-google-cuts-gemini-3-7-flash-api-price-by-50
-embedding_id: 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
+embedding_id: null
 event_name: ''
 ---
 

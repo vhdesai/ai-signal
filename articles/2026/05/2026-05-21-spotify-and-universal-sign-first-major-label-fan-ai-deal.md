@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
 - 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-embedding_id: 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+embedding_id: null
 event_name: ''
 ---
 

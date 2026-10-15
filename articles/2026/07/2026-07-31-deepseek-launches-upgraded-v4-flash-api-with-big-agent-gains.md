@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
 - 2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age
-embedding_id: 2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains
+embedding_id: null
 event_name: ''
 ---
 

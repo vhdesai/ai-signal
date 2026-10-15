@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
 - 2026-08-06-openai-launches-codex-security-in-research-preview
-embedding_id: 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
+embedding_id: null
 event_name: ''
 ---
 

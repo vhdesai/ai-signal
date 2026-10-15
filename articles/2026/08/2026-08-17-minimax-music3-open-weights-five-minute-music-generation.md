@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
 - 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
 - 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
-embedding_id: 2026-08-17-minimax-music3-open-weights-five-minute-music-generation
+embedding_id: null
 event_name: ''
 ---
 

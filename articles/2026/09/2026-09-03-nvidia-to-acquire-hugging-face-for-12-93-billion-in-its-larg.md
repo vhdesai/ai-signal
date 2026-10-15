@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-confirms-12-93b-acquisition-of-hugging-face
 related_article_ids: []
-embedding_id: 2026-09-03-nvidia-to-acquire-hugging-face-for-12-93-billion-in-its-larg
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-09-02-trending-alibaba-s-qwen-3-8-max-0902-debuts-at-1-on-code-are
 - 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
-embedding_id: 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
+embedding_id: null
 event_name: ''
 ---
 

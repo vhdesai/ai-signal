@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-embedding_id: 2026-04-01-jpmorgan-chase-is-formally-connecting-software-engineers-per
+embedding_id: null
 event_name: ''
 ---
 

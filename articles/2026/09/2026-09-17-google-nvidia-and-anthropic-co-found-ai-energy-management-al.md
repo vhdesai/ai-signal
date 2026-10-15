@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-17-google-nvidia-and-anthropic-launch-ai-energy-management-alli
 - 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-embedding_id: 2026-09-17-google-nvidia-and-anthropic-co-found-ai-energy-management-al
+embedding_id: null
 event_name: ''
 ---
 

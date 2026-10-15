@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-meta-releases-muse-voice-transcribe-for-real-time-streaming
 - 2026-09-06-meta-superintelligence-labs-releases-muse-voice-transcribe
 - 2026-09-06-meta-s-real-time-audio-model-targets-always-listening-assist
-embedding_id: 2026-08-18-cartesia-ships-sonic-3-6-topping-both-artificial-analysis-sp
+embedding_id: null
 event_name: ''
 ---
 

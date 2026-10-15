@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua
 related_article_ids: []
-embedding_id: 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
+embedding_id: null
 event_name: ''
 ---
 

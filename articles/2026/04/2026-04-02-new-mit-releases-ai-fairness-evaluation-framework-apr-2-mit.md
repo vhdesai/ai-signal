@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
-embedding_id: 2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit
+embedding_id: null
 event_name: ''
 ---
 

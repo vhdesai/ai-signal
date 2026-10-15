@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-15-aiuc-raises-40m-series-a-to-underwrite-enterprise-ai-agent-l
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
-embedding_id: 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
+embedding_id: null
 event_name: ''
 ---
 

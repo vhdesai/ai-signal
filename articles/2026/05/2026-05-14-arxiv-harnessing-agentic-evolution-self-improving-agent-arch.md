@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-08-28-meta-ai-s-evoharness-rl-reportedly-boosts-agent-efficiency
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
-embedding_id: 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
+embedding_id: null
 event_name: ''
 ---
 

@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
-embedding_id: 2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: MarkTechPost / Kyutai
 url_original: https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/
 url_canonical: https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 0c929adeab351e6574e975d4f2b79a20f04dbd8fbea1e0ae8d1e89a46dee34e3
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: 2026-09-22-kyutai-s-voice-of-reason-applies-rl-to-spoken-math-nearly-tr
+embedding_id: null
 event_name: ''
 ---
 

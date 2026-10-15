@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-embedding_id: 2026-05-01-ai-regulation-proxy-war-crypto-investor-spends-3-5m-backing
+embedding_id: null
 event_name: ''
 ---
 

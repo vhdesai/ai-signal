@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
 - 2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s
 - 2026-08-14-spacex-completes-its-acquisition-of-cursor-folding-it-into-s
-embedding_id: 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
+embedding_id: null
 event_name: ''
 ---
 

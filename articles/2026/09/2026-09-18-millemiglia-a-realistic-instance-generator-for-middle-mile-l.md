@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
-embedding_id: 2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-anthropic-opens-a-research-preview-of-the-model-hardware-sta
-embedding_id: 2026-08-31-anthropic-s-model-hardware-standard-draws-enterprise-scrutin
+embedding_id: null
 event_name: ''
 ---
 

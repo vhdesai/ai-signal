@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 184
+member_count: 185
 ---
 
 # IBM
 
-> Auto-generated entity hub. 184 connected article(s).
+> Auto-generated entity hub. 185 connected article(s).
 
+- `2026-10-14` [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove|IBM survey points to a gap between agent deployment and governance]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]
 - `2026-10-07` [[2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens|Youth-safety assessment challenges ChatGPT for Teens]]

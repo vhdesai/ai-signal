@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: MIT News
 url_original: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
 url_canonical: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 29e6d1820dcd4d9d506f9aefc84a593f3f9fd44da3acfbdcd49a199f7298cca1
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener
 - 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
-embedding_id: 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/pentagon-declares-grok-ai-helped-005214359.html
 url_canonical: https://www.yahoo.com/news/politics/articles/pentagon-declares-grok-ai-helped-005214359.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 269cfe775543be4ab52c12a3a6d3046a6d1914191993ea50c59c76f069d4fc48
 normalized_title_hash: 058edb803c3895af
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
-embedding_id: 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 - 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
-embedding_id: 2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler
+embedding_id: null
 event_name: ''
 ---
 

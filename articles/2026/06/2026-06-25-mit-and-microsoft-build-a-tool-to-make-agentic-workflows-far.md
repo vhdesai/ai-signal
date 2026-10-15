@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa
 - 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
 - 2026-10-06-google-amazon-and-oracle-push-deeper-into-enterprise-agent-t
-embedding_id: 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
+embedding_id: null
 event_name: ''
 ---
 

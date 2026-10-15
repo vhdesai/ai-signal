@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
-embedding_id: 2026-04-16-fox-owned-tubi-shipped-a-tubi-integration-in-the-chatgpt-app
+embedding_id: null
 event_name: ''
 ---
 

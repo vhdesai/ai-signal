@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
-embedding_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
+embedding_id: null
 event_name: ''
 ---
 

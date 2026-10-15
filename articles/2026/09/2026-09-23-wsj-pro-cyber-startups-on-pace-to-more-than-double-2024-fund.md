@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-pitchbook-ai-s-safety-slowdown-spooks-the-market-and-slows-i
 - 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
-embedding_id: 2026-09-23-wsj-pro-cyber-startups-on-pace-to-more-than-double-2024-fund
+embedding_id: null
 event_name: ''
 ---
 

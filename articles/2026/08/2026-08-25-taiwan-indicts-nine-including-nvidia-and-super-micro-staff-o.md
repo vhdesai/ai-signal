@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-taiwan-charges-nvidia-and-super-micro-employees-with-ai-serv
 related_article_ids: []
-embedding_id: 2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o
+embedding_id: null
 event_name: ''
 ---
 

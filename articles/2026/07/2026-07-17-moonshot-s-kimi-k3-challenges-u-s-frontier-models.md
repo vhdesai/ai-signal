@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-moonshot-ai-s-kimi-k3-reportedly-challenges-top-u-s-systems
 related_article_ids: []
-embedding_id: 2026-07-17-moonshot-s-kimi-k3-challenges-u-s-frontier-models
+embedding_id: null
 event_name: ''
 ---
 

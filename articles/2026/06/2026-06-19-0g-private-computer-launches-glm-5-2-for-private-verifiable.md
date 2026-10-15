@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: AiThority
 url_original: https://aithority.com/machine-learning/0g-private-computer-launches-glm-5-2-for-private-verifiable-ai-coding/
 url_canonical: https://aithority.com/machine-learning/0g-private-computer-launches-glm-5-2-for-private-verifiable-ai-coding/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: b58ab79532641f9063d868179d6a64573591aa1cad0838bb38f612f62394e67e
 normalized_title_hash: 6e2322cf28233e6a
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights
-embedding_id: 2026-06-19-0g-private-computer-launches-glm-5-2-for-private-verifiable
+embedding_id: null
 event_name: ''
 ---
 

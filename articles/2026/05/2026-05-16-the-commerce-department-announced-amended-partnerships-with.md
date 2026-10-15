@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
-embedding_id: 2026-05-16-the-commerce-department-announced-amended-partnerships-with
+embedding_id: null
 event_name: ''
 ---
 

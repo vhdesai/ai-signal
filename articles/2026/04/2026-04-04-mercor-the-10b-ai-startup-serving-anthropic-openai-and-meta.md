@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 - 2026-04-01-on-march-24-threat-actor-teampcp-executed-a-sophisticated-su
 - 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
-embedding_id: 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
+embedding_id: null
 event_name: ''
 ---
 

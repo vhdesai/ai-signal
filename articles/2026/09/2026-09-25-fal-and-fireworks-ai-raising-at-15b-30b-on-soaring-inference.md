@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
 - 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
-embedding_id: 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users
 - 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-with-rea
-embedding_id: 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
+embedding_id: null
 event_name: ''
 ---
 

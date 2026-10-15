@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 related_article_ids: []
-embedding_id: 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
-embedding_id: 2026-08-21-ai-coding-tools-are-reinforcing-javascript-and-typescript-do
+embedding_id: null
 event_name: ''
 ---
 

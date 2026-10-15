@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 - 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an
 - 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
-embedding_id: 2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem
+embedding_id: null
 event_name: ''
 ---
 

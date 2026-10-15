@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
-embedding_id: 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
+embedding_id: null
 event_name: ''
 ---
 

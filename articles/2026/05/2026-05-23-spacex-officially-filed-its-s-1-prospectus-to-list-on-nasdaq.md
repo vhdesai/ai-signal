@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 - 2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t
-embedding_id: 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
+embedding_id: null
 event_name: ''
 ---
 

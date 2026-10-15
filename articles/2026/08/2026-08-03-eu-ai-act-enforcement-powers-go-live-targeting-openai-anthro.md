@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-eu-stands-up-a-dedicated-ai-act-enforcement-unit-as-key-prov
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
-embedding_id: 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
+embedding_id: null
 event_name: ''
 ---
 

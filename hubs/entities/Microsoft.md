@@ -1,16 +1,17 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1044
+member_count: 1045
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1044 connected article(s).
+> Auto-generated entity hub. 1045 connected article(s).
 
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
-- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns; eyes Trail of Bits]]
+- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns and eyes Trail of Bits]]
+- `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem|Microsoft's split-personality retrosynthetic AI targets chemistry planning]]
 - `2026-10-13` [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le|Microsoft's split-personality retrosynthetic AI is a fast learner]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]
 - `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]

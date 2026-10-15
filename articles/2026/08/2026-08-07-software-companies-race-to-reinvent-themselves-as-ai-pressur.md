@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 - 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
-embedding_id: 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-03-september-4-2026-the-information-2
 - 2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
-embedding_id: 2026-09-03-september-4-2026-the-information
+embedding_id: null
 event_name: ''
 ---
 

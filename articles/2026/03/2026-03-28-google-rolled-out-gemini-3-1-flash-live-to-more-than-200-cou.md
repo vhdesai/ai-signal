@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
-embedding_id: 2026-03-28-google-rolled-out-gemini-3-1-flash-live-to-more-than-200-cou
+embedding_id: null
 event_name: ''
 ---
 

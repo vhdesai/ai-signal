@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 related_article_ids: []
-embedding_id: 2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage
+embedding_id: null
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
 related_article_ids: []
-embedding_id: 2026-07-09-web-data-infrastructure-firm-oxylabs-hits-3-6b-valuation-in
+embedding_id: null
 event_name: ''
 ---
 

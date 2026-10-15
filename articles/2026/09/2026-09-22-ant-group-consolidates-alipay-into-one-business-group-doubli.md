@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/tech-trends/article/3368325/ant-group-consolidates-alipay-operations-big-bet-ai-agentic-commerce
 url_canonical: https://www.scmp.com/tech/tech-trends/article/3368325/ant-group-consolidates-alipay-operations-big-bet-ai-agentic-commerce
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-22_061230_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: c3f957df09395b967df7b875cc321ae8d024b045e70706f05b8602e57cb8ba95
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-ant-international-embeds-ai-agents-across-all-its-global-fin
 - 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 - 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
-embedding_id: 2026-09-22-ant-group-consolidates-alipay-into-one-business-group-doubli
+embedding_id: null
 event_name: ''
 ---
 

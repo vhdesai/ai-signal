@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
-embedding_id: 2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re
+embedding_id: null
 event_name: ''
 ---
 

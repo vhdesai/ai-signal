@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-un-scientific-panel-warns-the-traditional-model-of-ai-safegu
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
-embedding_id: 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
+embedding_id: null
 event_name: ''
 ---
 

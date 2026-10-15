@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
-embedding_id: 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
+embedding_id: null
 event_name: ''
 ---
 

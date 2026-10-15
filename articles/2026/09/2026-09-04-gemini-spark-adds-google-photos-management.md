@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-gemini-spark-can-now-manage-google-photos-libraries
 - 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
 - 2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum
-embedding_id: 2026-09-04-gemini-spark-adds-google-photos-management
+embedding_id: null
 event_name: ''
 ---
 

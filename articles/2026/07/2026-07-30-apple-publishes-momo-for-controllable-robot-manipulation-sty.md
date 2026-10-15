@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 - 2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ
 - 2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe
-embedding_id: 2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty
+embedding_id: null
 event_name: ''
 ---
 

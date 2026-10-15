@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
 - 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
 - 2026-08-27-google-ai-mode-becomes-a-travel-agent-flight-tracking-hotel
-embedding_id: 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking
+embedding_id: null
 event_name: ''
 ---
 

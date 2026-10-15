@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-runtime-that
 - 2026-09-21-aws-debuts-strands-harness-an-open-source-agent-harness-that
-embedding_id: 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
+embedding_id: null
 event_name: ''
 ---
 

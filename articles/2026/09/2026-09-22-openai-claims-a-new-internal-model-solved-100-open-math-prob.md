@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai
 - 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
-embedding_id: 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
+embedding_id: null
 event_name: ''
 ---
 

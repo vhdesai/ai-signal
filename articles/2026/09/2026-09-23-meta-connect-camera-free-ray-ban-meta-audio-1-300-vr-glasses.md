@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
 - 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 - 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
-embedding_id: 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
+embedding_id: null
 event_name: ''
 ---
 

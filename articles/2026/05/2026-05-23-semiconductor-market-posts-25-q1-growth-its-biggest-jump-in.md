@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
-embedding_id: 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
+embedding_id: null
 event_name: ''
 ---
 

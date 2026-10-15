@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-embedding_id: 2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t
+embedding_id: null
 event_name: ''
 ---
 

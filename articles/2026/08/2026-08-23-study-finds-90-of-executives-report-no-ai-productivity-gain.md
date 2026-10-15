@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
-embedding_id: 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
+embedding_id: null
 event_name: ''
 ---
 

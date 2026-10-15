@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-openai-president-urges-enterprises-to-hasten-ai-security-def
 - 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 - 2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa
-embedding_id: 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
+embedding_id: null
 event_name: ''
 ---
 

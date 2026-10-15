@@ -6,7 +6,7 @@ date: '2026-09-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/
 url_canonical: https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: d02913951918e09c09ff433de2d0ccca09c527b8a3f2df83db51ba7afed95528
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
-embedding_id: 2026-09-23-contrastive-lm-releases-clm-8b-scoring-agent-actions-up-to-9
+embedding_id: null
 event_name: ''
 ---
 

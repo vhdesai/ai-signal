@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - event-acm-cais-2026-acm-cais-2026-strategic-implications
 - 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
-embedding_id: event-acm-cais-2026-acm-cais-2026-overview
+embedding_id: null
 event_name: ACM CAIS 2026
 ---
 

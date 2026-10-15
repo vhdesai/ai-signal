@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
 related_article_ids: []
-embedding_id: 2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen
+embedding_id: null
 event_name: ''
 ---
 

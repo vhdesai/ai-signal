@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
-embedding_id: 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
+embedding_id: null
 event_name: ''
 ---
 

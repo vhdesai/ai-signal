@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
-embedding_id: 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
+embedding_id: null
 event_name: ''
 ---
 

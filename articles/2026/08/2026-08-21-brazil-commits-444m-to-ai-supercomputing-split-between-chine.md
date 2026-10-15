@@ -6,7 +6,7 @@ date: '2026-08-21'
 source: Reuters
 url_original: https://www.yahoo.com/news/world/articles/brazil-launches-ai-supercomputer-push-013837788.html
 url_canonical: https://www.yahoo.com/news/world/articles/brazil-launches-ai-supercomputer-push-013837788.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: f0df8705fd5a27d1a073ec6e4284855c2b55e4fda28a62226f13fad5389fd7aa
@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-brazil-commits-444-million-to-domestic-ai-capacity-with-u-s
 related_article_ids: []
-embedding_id: 2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine
+embedding_id: null
 event_name: ''
 ---
 

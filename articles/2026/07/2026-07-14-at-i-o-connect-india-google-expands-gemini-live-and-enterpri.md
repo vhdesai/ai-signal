@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-09-27-google-tests-flipkart-purchasing-via-gemini-and-ai-mode-in-i
-embedding_id: 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
+embedding_id: null
 event_name: ''
 ---
 

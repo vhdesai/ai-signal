@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-04-13-ai-safety-policy
-embedding_id: 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
+embedding_id: null
 event_name: ''
 ---
 

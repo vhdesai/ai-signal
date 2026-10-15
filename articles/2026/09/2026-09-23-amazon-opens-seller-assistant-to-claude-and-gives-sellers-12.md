@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start
 - 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-embedding_id: 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
+embedding_id: null
 event_name: ''
 ---
 

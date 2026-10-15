@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
 - 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
 - 2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
-embedding_id: 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
+embedding_id: null
 event_name: ''
 ---
 

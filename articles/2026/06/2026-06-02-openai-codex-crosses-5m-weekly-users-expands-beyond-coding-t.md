@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
-embedding_id: 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
+embedding_id: null
 event_name: ''
 ---
 

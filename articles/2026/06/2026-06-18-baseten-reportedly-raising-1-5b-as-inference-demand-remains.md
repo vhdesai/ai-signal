@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
 related_article_ids: []
-embedding_id: 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
+embedding_id: null
 event_name: ''
 ---
 

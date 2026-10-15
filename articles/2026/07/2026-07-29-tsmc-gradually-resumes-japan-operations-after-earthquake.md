@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
-embedding_id: 2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake
+embedding_id: null
 event_name: ''
 ---
 

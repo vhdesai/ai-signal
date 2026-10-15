@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
-embedding_id: 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
+embedding_id: null
 event_name: ''
 ---
 

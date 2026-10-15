@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-wo
-embedding_id: 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
+embedding_id: null
 event_name: ''
 ---
 

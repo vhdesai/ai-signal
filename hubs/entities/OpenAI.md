@@ -1,20 +1,22 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2749
+member_count: 2751
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2749 connected article(s).
+> Auto-generated entity hub. 2751 connected article(s).
 
 - `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
+- `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
+- `2026-10-14` [[2026-10-14-eight-states-challenge-openai-s-safety-representations|Eight states challenge OpenAI’s safety representations]]
 - `2026-10-14` [[2026-10-14-alleged-openai-spy-vibe-coded-surveillance-device-using-wife|Alleged OpenAI spy vibe-coded surveillance device using wife's chatbot account]]
 - `2026-10-13` [[2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r|VentureBeat survey shows OpenAI ahead among agent-platform respondents]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro|OpenAI withdraws three AI mathematics papers over proof error]]
-- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns; eyes Trail of Bits]]
+- `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns and eyes Trail of Bits]]
 - `2026-10-13` [[2026-10-13-openai-employee-charged-over-alleged-conference-room-surveil|OpenAI employee charged over alleged conference-room surveillance]]
 - `2026-10-13` [[2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai|Meta unveils Muse Wonder models to compete with OpenAI]]
 - `2026-10-13` [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm|Labs offer UK lawmakers conditional model-withdrawal commitments]]

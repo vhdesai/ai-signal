@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-embedding_id: 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-17-jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next
 - 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 - 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-embedding_id: 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
+embedding_id: null
 event_name: ''
 ---
 

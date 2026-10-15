@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 294
+member_count: 295
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 294 connected article(s).
+> Auto-generated entity hub. 295 connected article(s).
 
+- `2026-10-14` [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans|CoreWeave selloff highlights the financing risk of AI expansion]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-subject-daily-ai-news-digest-october-9-2026|Subject: Daily AI News Digest – October 9, 2026]]

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-drawing-an-analogy-to-the-early-internet-this-paper-proposes
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: 2026-05-14-mit-researchers-introduced-glia-an-ai-system-modeled-on-the
+embedding_id: null
 event_name: ''
 ---
 

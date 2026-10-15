@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-12-microsoft-president-says-uk-is-best-placed-to-drive-ai-regul
 - 2026-10-12-brad-smith-calls-for-binding-ai-safety-controls
-embedding_id: 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
+embedding_id: null
 event_name: ''
 ---
 

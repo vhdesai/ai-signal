@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false
-embedding_id: 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop
 - 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
 - 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
-embedding_id: 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
+embedding_id: null
 event_name: ''
 ---
 

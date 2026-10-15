@@ -38,7 +38,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 related_article_ids: []
-embedding_id: 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
+embedding_id: null
 event_name: ''
 ---
 

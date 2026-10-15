@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down
 - 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-embedding_id: 2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia
+embedding_id: null
 event_name: ''
 ---
 

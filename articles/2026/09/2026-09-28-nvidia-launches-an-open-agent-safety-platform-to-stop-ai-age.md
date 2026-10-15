@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-09-28-nvidia-moves-agent-enforcement-into-silicon-with-the-open-ag
 - 2026-09-28-nvidia-ships-an-open-agent-safety-stack-openshell-runtime-pl
 - 2026-09-28-nvidia-launches-open-agent-safety-platform-moving-agent-cont
-embedding_id: 2026-09-28-nvidia-launches-an-open-agent-safety-platform-to-stop-ai-age
+embedding_id: null
 event_name: ''
 ---
 

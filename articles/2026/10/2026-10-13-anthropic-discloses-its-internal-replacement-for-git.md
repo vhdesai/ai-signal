@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
 - 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
-embedding_id: 2026-10-13-anthropic-discloses-its-internal-replacement-for-git
+embedding_id: null
 event_name: ''
 ---
 

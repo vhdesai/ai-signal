@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 - 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-embedding_id: 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
+embedding_id: null
 event_name: ''
 ---
 

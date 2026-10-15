@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-embedding_id: 2026-08-16-venturebeat-argues-rag-inference-cost-cuts-start-before-cont
+embedding_id: null
 event_name: ''
 ---
 

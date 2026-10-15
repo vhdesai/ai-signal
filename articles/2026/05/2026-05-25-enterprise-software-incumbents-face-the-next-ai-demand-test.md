@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
-embedding_id: 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+embedding_id: null
 event_name: ''
 ---
 

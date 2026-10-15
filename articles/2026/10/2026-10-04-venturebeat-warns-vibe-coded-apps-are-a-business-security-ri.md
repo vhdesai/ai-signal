@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
-embedding_id: 2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
+embedding_id: null
 event_name: ''
 ---
 

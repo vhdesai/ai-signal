@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 - 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-embedding_id: 2026-08-17-goldman-and-intel-back-5-4bn-ai-video-startup-higgsfield
+embedding_id: null
 event_name: ''
 ---
 

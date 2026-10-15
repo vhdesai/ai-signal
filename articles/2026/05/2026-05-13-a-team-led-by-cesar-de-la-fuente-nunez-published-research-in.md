@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
-embedding_id: 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
+embedding_id: null
 event_name: ''
 ---
 

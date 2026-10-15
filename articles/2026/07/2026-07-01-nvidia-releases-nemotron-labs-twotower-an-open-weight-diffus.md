@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
-embedding_id: 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
+embedding_id: null
 event_name: ''
 ---
 

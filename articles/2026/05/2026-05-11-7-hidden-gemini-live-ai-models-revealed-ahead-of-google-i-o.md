@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
-embedding_id: 2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
 related_article_ids: []
-embedding_id: 2026-06-11-openai-and-anthropic-face-pricing-pressure-as-chinese-models
+embedding_id: null
 event_name: ''
 ---
 

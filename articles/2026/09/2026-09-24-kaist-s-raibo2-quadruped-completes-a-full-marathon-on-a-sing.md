@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-dyna-robotics-trains-dyna-2-on-a-million-hours-of-human-vide
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
-embedding_id: 2026-09-24-kaist-s-raibo2-quadruped-completes-a-full-marathon-on-a-sing
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms
 - 2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
-embedding_id: 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
+embedding_id: null
 event_name: ''
 ---
 

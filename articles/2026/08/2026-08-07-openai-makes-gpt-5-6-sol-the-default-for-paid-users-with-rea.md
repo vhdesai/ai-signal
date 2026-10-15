@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
 related_article_ids: []
-embedding_id: 2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-with-rea
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-10-01'
 source: MarkTechPost]
 url_original: https://www.marktechpost.com/2026/10/01/nvidia-kumo-tabular-foundation-models-rows/
 url_canonical: https://www.marktechpost.com/2026/10/01/nvidia-kumo-tabular-foundation-models-rows/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-01_071730_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: e62fba94a60b0fba950bf63ee83e06ec0c0daefc3e1fe83f58c89acfba49cf99
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 - 2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with
-embedding_id: 2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new
+embedding_id: null
 event_name: ''
 ---
 

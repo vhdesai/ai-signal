@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
-embedding_id: 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
+embedding_id: null
 event_name: ''
 ---
 

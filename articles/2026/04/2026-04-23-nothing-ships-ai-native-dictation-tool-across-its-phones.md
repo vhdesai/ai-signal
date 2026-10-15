@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
-embedding_id: 2026-04-23-nothing-ships-ai-native-dictation-tool-across-its-phones
+embedding_id: null
 event_name: ''
 ---
 

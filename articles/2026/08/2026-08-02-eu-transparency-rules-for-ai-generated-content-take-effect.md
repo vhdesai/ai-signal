@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 - 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
-embedding_id: 2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect
+embedding_id: null
 event_name: ''
 ---
 

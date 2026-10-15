@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
-embedding_id: 2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba
+embedding_id: null
 event_name: ''
 ---
 

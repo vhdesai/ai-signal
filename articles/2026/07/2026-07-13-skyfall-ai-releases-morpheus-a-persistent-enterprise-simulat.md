@@ -6,7 +6,7 @@ date: '2026-07-13'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_060810_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 4c3f7b04069ca63a510979f5ed3870bd96374711a3f240f12f3f76dba7091001
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: 2026-07-13-skyfall-ai-releases-morpheus-a-persistent-enterprise-simulat
+embedding_id: null
 event_name: ''
 ---
 

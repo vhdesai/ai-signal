@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
-embedding_id: 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
+embedding_id: null
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
-embedding_id: 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
+embedding_id: null
 event_name: ''
 ---
 

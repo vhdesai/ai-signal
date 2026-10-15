@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
 - 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 - 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
-embedding_id: 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
+embedding_id: null
 event_name: ''
 ---
 

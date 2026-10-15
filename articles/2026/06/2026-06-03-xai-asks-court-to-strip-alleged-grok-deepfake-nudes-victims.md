@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 - 2026-06-11-grok-still-hosting-sexualized-deepfakes-of-famous-women
-embedding_id: 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
+embedding_id: null
 event_name: ''
 ---
 

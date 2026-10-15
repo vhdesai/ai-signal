@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
-embedding_id: 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+embedding_id: null
 event_name: ''
 ---
 

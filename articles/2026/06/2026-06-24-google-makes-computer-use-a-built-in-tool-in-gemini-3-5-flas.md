@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 related_article_ids: []
-embedding_id: 2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas
+embedding_id: null
 event_name: ''
 ---
 

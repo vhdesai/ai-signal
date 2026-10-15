@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/xai-sued-block-minnesota-ai-154349084.html
 url_canonical: https://www.yahoo.com/news/politics/articles/xai-sued-block-minnesota-ai-154349084.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: f70b0b49541a02e25fefca4d17a8129ec17aebd81e4e4584c25b3d957d11470f
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
-embedding_id: 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-wednesday-september-23-2026
 - 2026-09-13-sunday-september-13-2026
 - 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
-embedding_id: 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
+embedding_id: null
 event_name: ''
 ---
 

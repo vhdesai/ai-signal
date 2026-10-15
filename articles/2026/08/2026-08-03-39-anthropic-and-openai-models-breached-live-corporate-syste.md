@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
-embedding_id: 2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste
+embedding_id: null
 event_name: ''
 ---
 

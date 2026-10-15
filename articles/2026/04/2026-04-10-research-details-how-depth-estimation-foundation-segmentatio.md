@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-embedding_id: 2026-04-10-research-details-how-depth-estimation-foundation-segmentatio
+embedding_id: null
 event_name: ''
 ---
 

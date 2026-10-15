@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
-embedding_id: 2026-10-06-pinterest-turns-beauty-pins-into-action-plans
+embedding_id: null
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
-embedding_id: 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
+embedding_id: null
 event_name: ''
 ---
 

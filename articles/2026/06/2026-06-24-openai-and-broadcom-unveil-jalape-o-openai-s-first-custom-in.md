@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 - 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
-embedding_id: 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
+embedding_id: null
 event_name: ''
 ---
 

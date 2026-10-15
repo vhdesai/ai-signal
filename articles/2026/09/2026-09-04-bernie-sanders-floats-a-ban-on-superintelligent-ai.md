@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-04-us-lawmakers-propose-a-permanent-ban-on-artificial-superinte
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
 - 2026-09-03-sanders-and-casar-introduce-a-bill-to-permanently-ban-artifi
-embedding_id: 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
+embedding_id: null
 event_name: ''
 ---
 

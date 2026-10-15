@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 - 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
-embedding_id: 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
+embedding_id: null
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
 related_article_ids: []
-embedding_id: 2026-08-24-meta-hires-openai-veteran-luke-metz
+embedding_id: null
 event_name: ''
 ---
 

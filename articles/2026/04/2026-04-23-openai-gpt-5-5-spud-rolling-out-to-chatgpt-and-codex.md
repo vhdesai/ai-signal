@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 related_article_ids: []
-embedding_id: 2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex
+embedding_id: null
 event_name: ''
 ---
 

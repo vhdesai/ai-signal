@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-09-sergey-brin-is-quietly-reshaping-google-s-gemini-roadmap
 - 2026-08-13-google-tightens-control-over-deepmind-as-gemini-faces-compet
 - 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
-embedding_id: 2026-09-09-sergey-brin-cements-influence-over-google-s-gemini-roadmap
+embedding_id: null
 event_name: ''
 ---
 

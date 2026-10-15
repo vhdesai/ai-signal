@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on-a-finger-worn-inter
 - 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
-embedding_id: 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
+embedding_id: null
 event_name: ''
 ---
 

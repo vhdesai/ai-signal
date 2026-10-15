@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-11-microsoft-targets-38-gigawatts-of-data-center-capacity-by-20
 - 2026-07-21-data-centers-expected-to-use-four-times-more-u-s-electricity
 - 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
-embedding_id: 2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid
+embedding_id: null
 event_name: ''
 ---
 

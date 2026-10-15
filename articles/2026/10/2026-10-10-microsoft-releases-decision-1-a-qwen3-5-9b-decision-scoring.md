@@ -5,7 +5,7 @@ date: '2026-10-10'
 source: Microsoft Command Line
 url_original: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
 url_canonical: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-10_065339_Inbox_Daily AI News Digest - October
   10, 2026.md
 content_hash: 54390f854ad73ca192f2a958252460b4ab726d1e17a366adabaf8ad0c66632ea
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than
 - 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
-embedding_id: 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
+embedding_id: null
 event_name: ''
 ---
 

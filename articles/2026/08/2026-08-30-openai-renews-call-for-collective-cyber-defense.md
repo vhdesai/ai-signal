@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-29-openai-calls-for-collective-action-on-cyber-defense
 - 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
 - 2026-08-28-openai-warns-the-window-to-strengthen-cyber-defenses-is-clos
-embedding_id: 2026-08-30-openai-renews-call-for-collective-cyber-defense
+embedding_id: null
 event_name: ''
 ---
 

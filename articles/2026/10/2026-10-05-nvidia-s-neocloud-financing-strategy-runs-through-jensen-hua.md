@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
-embedding_id: 2026-10-05-nvidia-s-neocloud-financing-strategy-runs-through-jensen-hua
+embedding_id: null
 event_name: ''
 ---
 

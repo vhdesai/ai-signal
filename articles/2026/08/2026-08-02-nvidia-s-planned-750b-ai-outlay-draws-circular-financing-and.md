@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
 related_article_ids: []
-embedding_id: 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
+embedding_id: null
 event_name: ''
 ---
 

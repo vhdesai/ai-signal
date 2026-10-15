@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-nvidia-shows-the-harness-not-the-model-is-the-real-hero-achi
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
-embedding_id: 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
+embedding_id: null
 event_name: ''
 ---
 

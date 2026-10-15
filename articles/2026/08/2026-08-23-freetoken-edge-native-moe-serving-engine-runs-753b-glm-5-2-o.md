@@ -6,7 +6,7 @@ date: '2026-08-23'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/
 url_canonical: https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-24_085500_Final-Daily-AI-News-Digest.md
 content_hash: fcab082a9b96aa158cb6092362495badb4fa24057f7719641941b6350bcfb25b
 normalized_title_hash: a05e737db680f6bf
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 related_article_ids: []
-embedding_id: 2026-08-23-freetoken-edge-native-moe-serving-engine-runs-753b-glm-5-2-o
+embedding_id: null
 event_name: ''
 ---
 

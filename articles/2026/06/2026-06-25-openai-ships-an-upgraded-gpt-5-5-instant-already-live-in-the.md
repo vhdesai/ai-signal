@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
 - 2026-05-08-openai-on-may-5-pushed-gpt-5-5-instant-as-the-default-chatgp
-embedding_id: 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
+embedding_id: null
 event_name: ''
 ---
 

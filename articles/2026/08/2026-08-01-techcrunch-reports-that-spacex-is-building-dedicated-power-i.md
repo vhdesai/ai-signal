@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 - 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 - 2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over
-embedding_id: 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
+embedding_id: null
 event_name: ''
 ---
 

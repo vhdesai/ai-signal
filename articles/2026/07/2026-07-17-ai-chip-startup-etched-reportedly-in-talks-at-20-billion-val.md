@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-18-inference-chip-startup-etched-raises-another-700m-at-21b-val
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month
 - 2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v
-embedding_id: 2026-07-17-ai-chip-startup-etched-reportedly-in-talks-at-20-billion-val
+embedding_id: null
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - 2026-08-05-macpaw-partners-with-liquid-ai-to-bring-on-device-inference
 - 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
-embedding_id: 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
+embedding_id: null
 event_name: ''
 ---
 

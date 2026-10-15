@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-embedding_id: 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
+embedding_id: null
 event_name: ''
 ---
 

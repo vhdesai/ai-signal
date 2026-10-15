@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
-embedding_id: 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
+embedding_id: null
 event_name: ''
 ---
 

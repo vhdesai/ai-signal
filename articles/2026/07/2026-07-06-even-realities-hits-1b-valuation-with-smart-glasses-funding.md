@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te
 related_article_ids: []
-embedding_id: 2026-07-06-even-realities-hits-1b-valuation-with-smart-glasses-funding
+embedding_id: null
 event_name: ''
 ---
 

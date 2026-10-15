@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: 2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d
+embedding_id: null
 event_name: ''
 ---
 

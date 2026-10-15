@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
 - 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
-embedding_id: 2026-09-21-openai-forms-a-mathematics-advisory-group-as-its-models-clai
+embedding_id: null
 event_name: ''
 ---
 

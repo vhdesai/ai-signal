@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-openai-astra-and-anthropic-opus-help-crack-long-unsolved-eni
 - 2026-08-31-researcher-achieves-remote-code-execution-against-claude-cod
-embedding_id: 2026-09-25-astra-and-opus-5-5-finish-turing-s-wwii-codebreaking-work
+embedding_id: null
 event_name: ''
 ---
 

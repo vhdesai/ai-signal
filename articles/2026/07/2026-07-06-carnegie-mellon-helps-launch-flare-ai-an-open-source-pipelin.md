@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
 related_article_ids: []
-embedding_id: 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
+embedding_id: null
 event_name: ''
 ---
 

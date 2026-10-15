@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 - 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
-embedding_id: 2026-09-01-google-research-and-nasa-jpl-map-global-methane-emissions-fr
+embedding_id: null
 event_name: ''
 ---
 

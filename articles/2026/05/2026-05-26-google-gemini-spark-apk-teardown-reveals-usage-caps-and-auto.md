@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte
-embedding_id: 2026-05-26-google-gemini-spark-apk-teardown-reveals-usage-caps-and-auto
+embedding_id: null
 event_name: ''
 ---
 

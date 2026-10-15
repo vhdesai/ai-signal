@@ -6,7 +6,7 @@ date: '2026-07-30'
 source: MIT News
 url_original: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
 url_canonical: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: b415fa2aad6d9155065234a3a7d7a578b2779c296e6bd67cacaf5d8cb57800ae
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
-embedding_id: 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
+embedding_id: null
 event_name: ''
 ---
 

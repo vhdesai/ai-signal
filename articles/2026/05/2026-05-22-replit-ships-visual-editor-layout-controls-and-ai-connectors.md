@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
-embedding_id: 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
+embedding_id: null
 event_name: ''
 ---
 

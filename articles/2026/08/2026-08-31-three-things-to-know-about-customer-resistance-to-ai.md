@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-embedding_id: 2026-08-31-three-things-to-know-about-customer-resistance-to-ai
+embedding_id: null
 event_name: ''
 ---
 

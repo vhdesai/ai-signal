@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking
 related_article_ids: []
-embedding_id: 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
+embedding_id: null
 event_name: ''
 ---
 

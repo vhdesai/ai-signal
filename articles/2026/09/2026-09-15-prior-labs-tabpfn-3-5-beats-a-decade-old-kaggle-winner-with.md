@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
-embedding_id: 2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with
+embedding_id: null
 event_name: ''
 ---
 

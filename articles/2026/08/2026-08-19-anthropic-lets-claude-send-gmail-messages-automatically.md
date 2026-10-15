@@ -5,7 +5,7 @@ date: '2026-08-19'
 source: Android Headlines
 url_original: https://www.androidheadlines.com/2026/08/anthropic-just-gave-claude-the-power-to-send-your-emails-automatically.html
 url_canonical: https://www.androidheadlines.com/2026/08/anthropic-just-gave-claude-the-power-to-send-your-emails-automatically.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-19_065003_Final-Daily-AI-News-Digest.md
 content_hash: 63acabfd0b716c829e84a9f4c43caab35fce432bca27d8c000f20b4ac17873a7
 normalized_title_hash: 59625e228d10db7f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-08-30-anthropic-forcibly-signs-out-claude-users-after-infostealer
-embedding_id: 2026-08-19-anthropic-lets-claude-send-gmail-messages-automatically
+embedding_id: null
 event_name: ''
 ---
 

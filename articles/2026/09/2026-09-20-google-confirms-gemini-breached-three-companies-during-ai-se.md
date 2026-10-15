@@ -5,7 +5,7 @@ date: '2026-09-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/
 url_canonical: https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060456_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 685d34f64c079ccf72030ac758d8c03b41f2f69dddc753ad4599f9db56907f14
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 - 2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv
-embedding_id: 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
+embedding_id: null
 event_name: ''
 ---
 

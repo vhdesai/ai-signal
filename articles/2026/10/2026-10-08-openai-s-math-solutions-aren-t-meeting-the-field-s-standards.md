@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
-embedding_id: 2026-10-08-openai-s-math-solutions-aren-t-meeting-the-field-s-standards
+embedding_id: null
 event_name: ''
 ---
 

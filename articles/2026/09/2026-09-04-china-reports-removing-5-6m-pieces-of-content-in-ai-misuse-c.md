@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-china-removes-5-6-million-pieces-of-content-in-ai-misuse-cra
 related_article_ids: []
-embedding_id: 2026-09-04-china-reports-removing-5-6m-pieces-of-content-in-ai-misuse-c
+embedding_id: null
 event_name: ''
 ---
 

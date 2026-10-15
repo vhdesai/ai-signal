@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch
 - 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 - 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
-embedding_id: 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del
-embedding_id: 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+embedding_id: null
 event_name: ''
 ---
 

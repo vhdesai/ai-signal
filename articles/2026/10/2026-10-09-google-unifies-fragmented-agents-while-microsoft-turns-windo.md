@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
-embedding_id: 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
+embedding_id: null
 event_name: ''
 ---
 

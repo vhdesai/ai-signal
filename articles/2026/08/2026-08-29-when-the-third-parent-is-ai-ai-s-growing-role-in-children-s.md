@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-ai-becomes-part-of-the-american-family
 - 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
-embedding_id: 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
+embedding_id: null
 event_name: ''
 ---
 

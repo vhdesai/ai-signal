@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-embedding_id: 2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley
+embedding_id: null
 event_name: ''
 ---
 

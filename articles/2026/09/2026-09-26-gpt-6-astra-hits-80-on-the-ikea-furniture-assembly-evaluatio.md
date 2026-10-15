@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
-embedding_id: 2026-09-26-gpt-6-astra-hits-80-on-the-ikea-furniture-assembly-evaluatio
+embedding_id: null
 event_name: ''
 ---
 

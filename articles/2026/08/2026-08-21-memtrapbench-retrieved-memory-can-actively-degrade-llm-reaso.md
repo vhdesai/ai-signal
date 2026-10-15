@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-september-4-2026-nvidia-developer-blog
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
-embedding_id: 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
+embedding_id: null
 event_name: ''
 ---
 

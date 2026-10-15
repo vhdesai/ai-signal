@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 - 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
 - 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
-embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
+embedding_id: null
 event_name: ''
 ---
 

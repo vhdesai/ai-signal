@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-figure-commits-3-5b-to-nscale-for-up-to-100-000-nvidia-vera
 related_article_ids: []
-embedding_id: 2026-09-04-figure-commits-billions-to-nscale-for-nvidia-vera-rubin-gpu
+embedding_id: null
 event_name: ''
 ---
 

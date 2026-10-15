@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
-embedding_id: 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
+embedding_id: null
 event_name: ''
 ---
 

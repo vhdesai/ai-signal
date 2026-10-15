@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more
-embedding_id: 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
+embedding_id: null
 event_name: ''
 ---
 

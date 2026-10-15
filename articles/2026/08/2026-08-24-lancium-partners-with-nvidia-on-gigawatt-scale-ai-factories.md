@@ -6,7 +6,7 @@ date: '2026-08-24'
 source: TMCnet
 url_original: https://www.tmcnet.com/usubmit/2026/08/24/10434417.htm
 url_canonical: https://www.tmcnet.com/usubmit/2026/08/24/10434417.htm
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_163610_Inbox_Fw Daily AI News Digest - August
   25, 2026.md
 content_hash: 30c3fd161fae2cf8dcb66ab775179aa2590e9128d2c052af9d309d0a1dadca74
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-embedding_id: 2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories
+embedding_id: null
 event_name: ''
 ---
 

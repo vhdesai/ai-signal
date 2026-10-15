@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-embedding_id: 2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital
+embedding_id: null
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/
 url_canonical: https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-06_061347_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 5be8263b03257d38a421d211e62b51a7b044ef8f0f813b22b80bb5e936e12c8c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-github-s-project-hydrafusion-builds-a-bespoke-workflow-per-c
 - 2026-09-04-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w
 - 2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or
-embedding_id: 2026-09-05-github-introduces-project-hydrafusion-for-per-task-model-orc
+embedding_id: null
 event_name: ''
 ---
 

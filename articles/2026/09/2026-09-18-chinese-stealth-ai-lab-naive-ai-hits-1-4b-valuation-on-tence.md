@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-embedding_id: 2026-09-18-chinese-stealth-ai-lab-naive-ai-hits-1-4b-valuation-on-tence
+embedding_id: null
 event_name: ''
 ---
 

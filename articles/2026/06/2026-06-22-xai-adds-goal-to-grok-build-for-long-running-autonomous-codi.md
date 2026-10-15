@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-embedding_id: 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
+embedding_id: null
 event_name: ''
 ---
 

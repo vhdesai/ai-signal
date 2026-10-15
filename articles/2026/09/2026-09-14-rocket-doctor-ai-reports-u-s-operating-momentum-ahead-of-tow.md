@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
 - 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
-embedding_id: 2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow
+embedding_id: null
 event_name: ''
 ---
 

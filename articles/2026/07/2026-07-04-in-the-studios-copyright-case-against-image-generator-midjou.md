@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled
 - 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
-embedding_id: 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
+embedding_id: null
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-10-13'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone
 url_canonical: https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-13_060853_Inbox_Daily AI News Digest - October
   13, 2026.md
 content_hash: 9541bb3a95a062a2905a87b6a1dd4431db9d7f360fa8b139aeebf470c3fefd24
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
-embedding_id: 2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er
+embedding_id: null
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
-embedding_id: 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
+embedding_id: null
 event_name: ''
 ---
 

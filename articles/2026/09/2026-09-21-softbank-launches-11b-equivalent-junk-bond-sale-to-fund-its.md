@@ -5,7 +5,7 @@ date: '2026-09-21'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
 url_canonical: https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-21_060600_Inbox_Daily AI News Digest - September
   21, 2026.md
 content_hash: 1743f6f300c53c6dd6e467dc8500344f51d2e169524ffe108ceedb6a81d0ffed
@@ -20,7 +20,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-21-softbank-launches-11-billion-bond-sale-to-fund-its-third-ope
 related_article_ids:
 - 2026-09-21-softbank-launches-record-11b-junk-bond-sale-to-fund-its-next
-embedding_id: 2026-09-21-softbank-launches-11b-equivalent-junk-bond-sale-to-fund-its
+embedding_id: null
 event_name: ''
 ---
 

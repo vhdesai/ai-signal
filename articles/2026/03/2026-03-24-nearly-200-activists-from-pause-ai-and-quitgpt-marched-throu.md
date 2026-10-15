@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-protesters-gather-outside-openai-and-anthropic-san-francisco
 - 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools
-embedding_id: 2026-03-24-nearly-200-activists-from-pause-ai-and-quitgpt-marched-throu
+embedding_id: null
 event_name: ''
 ---
 

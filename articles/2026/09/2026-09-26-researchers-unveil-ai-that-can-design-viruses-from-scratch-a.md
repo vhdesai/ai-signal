@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-the-cool-down-reports-researchers-have-demonstrated-an-ai-ca
 - 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 - 2026-09-16-two-more-google-deepmind-researchers-resign-over-ai-safety
-embedding_id: 2026-09-26-researchers-unveil-ai-that-can-design-viruses-from-scratch-a
+embedding_id: null
 event_name: ''
 ---
 

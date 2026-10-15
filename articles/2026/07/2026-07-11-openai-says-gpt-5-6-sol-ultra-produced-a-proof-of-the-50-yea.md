@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 related_article_ids: []
-embedding_id: 2026-07-11-openai-says-gpt-5-6-sol-ultra-produced-a-proof-of-the-50-yea
+embedding_id: null
 event_name: ''
 ---
 

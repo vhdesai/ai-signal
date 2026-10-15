@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
-embedding_id: 2026-08-26-openai-s-first-custom-chip-named-jalape-o
+embedding_id: null
 event_name: ''
 ---
 

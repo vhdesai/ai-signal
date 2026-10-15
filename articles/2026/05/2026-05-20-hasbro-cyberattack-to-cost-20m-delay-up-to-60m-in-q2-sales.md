@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 - 2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr
 - 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
-embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
+embedding_id: null
 event_name: ''
 ---
 

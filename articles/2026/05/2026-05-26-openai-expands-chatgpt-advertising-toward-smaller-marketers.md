@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
-embedding_id: 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
+embedding_id: null
 event_name: ''
 ---
 

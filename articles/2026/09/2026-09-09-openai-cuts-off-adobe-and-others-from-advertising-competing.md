@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
-embedding_id: 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
+embedding_id: null
 event_name: ''
 ---
 

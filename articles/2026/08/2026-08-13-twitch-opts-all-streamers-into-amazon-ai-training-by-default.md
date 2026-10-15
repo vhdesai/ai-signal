@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 - 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
 - 2026-07-17-patreon-blocks-ai-training-bots-instead-of-relying-on-robots
-embedding_id: 2026-08-13-twitch-opts-all-streamers-into-amazon-ai-training-by-default
+embedding_id: null
 event_name: ''
 ---
 

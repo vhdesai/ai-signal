@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 - 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-embedding_id: 2026-07-13-anthropic-begins-localizing-claude-pricing-for-india
+embedding_id: null
 event_name: ''
 ---
 

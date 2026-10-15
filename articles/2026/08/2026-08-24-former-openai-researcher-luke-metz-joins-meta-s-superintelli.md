@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-meta-hires-openai-veteran-luke-metz
 - 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
 - 2026-06-17-noam-shazeer-transformer-co-inventor-and-gemini-co-lead-leav
-embedding_id: 2026-08-24-former-openai-researcher-luke-metz-joins-meta-s-superintelli
+embedding_id: null
 event_name: ''
 ---
 

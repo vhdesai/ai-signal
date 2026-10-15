@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
-embedding_id: 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
+embedding_id: null
 event_name: ''
 ---
 

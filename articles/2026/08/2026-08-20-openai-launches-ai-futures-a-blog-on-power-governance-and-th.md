@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-embedding_id: 2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th
+embedding_id: null
 event_name: ''
 ---
 

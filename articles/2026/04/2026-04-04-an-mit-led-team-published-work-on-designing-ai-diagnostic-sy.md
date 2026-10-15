@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 - 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 - 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
-embedding_id: 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
+embedding_id: null
 event_name: ''
 ---
 

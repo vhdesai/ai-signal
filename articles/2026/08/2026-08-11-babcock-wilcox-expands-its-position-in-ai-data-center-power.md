@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-08-15-big-manufacturers-find-new-demand-in-equipping-ai-data-cente
-embedding_id: 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
+embedding_id: null
 event_name: ''
 ---
 

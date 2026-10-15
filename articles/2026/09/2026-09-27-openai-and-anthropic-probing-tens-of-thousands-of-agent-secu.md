@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
 - 2026-08-08-containment-failures-now-disclosed-by-three-frontier-labs-in
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
-embedding_id: 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
+embedding_id: null
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
-embedding_id: 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
+embedding_id: null
 event_name: ''
 ---
 

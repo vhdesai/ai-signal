@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 - 2026-08-14-deepseek-v4-pro-ga-sharp-price-increases-effective-aug-16
-embedding_id: 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
+embedding_id: null
 event_name: ''
 ---
 

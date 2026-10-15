@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-embedding_id: 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
+embedding_id: null
 event_name: ''
 ---
 

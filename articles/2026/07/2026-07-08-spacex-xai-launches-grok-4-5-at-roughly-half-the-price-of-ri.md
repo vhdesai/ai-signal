@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
-embedding_id: 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
+embedding_id: null
 event_name: ''
 ---
 

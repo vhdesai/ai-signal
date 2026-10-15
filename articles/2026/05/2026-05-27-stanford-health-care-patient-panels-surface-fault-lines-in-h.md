@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-embedding_id: 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+embedding_id: null
 event_name: ''
 ---
 

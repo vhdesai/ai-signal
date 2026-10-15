@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/us/articles/iran-used-anthropics-claude-ai-140118685.html
 url_canonical: https://www.yahoo.com/news/us/articles/iran-used-anthropics-claude-ai-140118685.html
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-13_062313_Inbox_Daily AI News Digest - September
   13, 2026.md
 content_hash: 0973c371af0557123a92ce7920e74e40631119ea0f19e4d536dfdbd9d2298791
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-anthropic-threat-report-names-five-distinct-misuse-patterns
 - 2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: 2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla
+embedding_id: null
 event_name: ''
 ---
 

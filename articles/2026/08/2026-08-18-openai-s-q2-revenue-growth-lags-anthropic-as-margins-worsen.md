@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
-embedding_id: 2026-08-18-openai-s-q2-revenue-growth-lags-anthropic-as-margins-worsen
+embedding_id: null
 event_name: ''
 ---
 

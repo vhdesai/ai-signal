@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-microsoft-anthropic-strategy
 related_article_ids: []
-embedding_id: 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
+embedding_id: null
 event_name: ''
 ---
 

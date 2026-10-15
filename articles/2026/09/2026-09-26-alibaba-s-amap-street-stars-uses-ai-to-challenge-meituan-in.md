@@ -5,7 +5,7 @@ date: '2026-09-26'
 source: South China Morning Post
 url_original: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
 url_canonical: https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-26_061235_Inbox_Daily AI News Digest - September
   26, 2026.md
 content_hash: e5db25bc047c7277719795564506386b8420326091aa870cec5aacf8ea5cf300
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
-embedding_id: 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
+embedding_id: null
 event_name: ''
 ---
 
