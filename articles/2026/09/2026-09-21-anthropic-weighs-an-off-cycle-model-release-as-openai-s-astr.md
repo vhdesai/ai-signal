@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
-embedding_id: null
+embedding_id: 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
 event_name: ''
 ---
 

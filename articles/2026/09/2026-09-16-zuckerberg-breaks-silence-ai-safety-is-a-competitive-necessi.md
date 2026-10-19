@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-embedding_id: null
+embedding_id: 2026-09-16-zuckerberg-breaks-silence-ai-safety-is-a-competitive-necessi
 event_name: ''
 ---
 

@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized
 - 2026-08-29-the-hugging-face-hack-s-chilling-postmortem
 - 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
-embedding_id: null
+embedding_id: 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
 event_name: ''
 ---
 

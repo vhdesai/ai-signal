@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99b-as-it-becomes-a-system
 - 2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 event_name: ''
 ---
 

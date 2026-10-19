@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
-embedding_id: null
+embedding_id: 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 event_name: ''
 ---
 

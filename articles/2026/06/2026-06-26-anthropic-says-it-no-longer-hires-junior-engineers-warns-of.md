@@ -22,11 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x
+- 2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
-- 2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl
-embedding_id: null
+- 2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring
+embedding_id: 2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Co-founder Jack Clark told Reason that Anthropic is “hiring more people with l
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-09-09-anthropic-pretraining-researcher-resigns-says-labs-are-gambl]]
+**Related:** [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x]] · [[2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data]] · [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring]]
 <!-- graph:end -->

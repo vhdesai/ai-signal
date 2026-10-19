@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-embedding_id: null
+embedding_id: 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
 event_name: ''
 ---
 

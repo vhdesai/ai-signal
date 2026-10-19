@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
-embedding_id: null
+embedding_id: 2026-09-13-chinese-researchers-demonstrate-100x-endurance-improvement-i
 event_name: ''
 ---
 

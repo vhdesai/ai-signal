@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
-embedding_id: null
+embedding_id: 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-08-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
 url_canonical: https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-06_061306_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 32a5f59ad85d7f06981d74e0f6ecdb56be87abffaa7aaf82ababf60686749563
@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: null
+embedding_id: 2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ analysis of Microsoft Research's SkillOpt, which turns agent skills into trainab
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and]]
+**Related:** [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

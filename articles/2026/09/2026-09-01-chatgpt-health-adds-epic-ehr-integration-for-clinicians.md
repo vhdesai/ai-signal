@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-openai-connects-chatgpt-to-epic-electronic-health-records
 - 2026-07-23-openai-chatgpt-health-now-available-to-all-u-s-adults-with-a
 - 2026-07-28-openai-extends-chatgpt-into-personal-health-records
-embedding_id: null
+embedding_id: 2026-09-01-chatgpt-health-adds-epic-ehr-integration-for-clinicians
 event_name: ''
 ---
 

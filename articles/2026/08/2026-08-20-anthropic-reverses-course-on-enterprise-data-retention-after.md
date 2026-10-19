@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-anthropic-to-let-enterprises-hold-required-retention-data-on
 - 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
 - 2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for
-embedding_id: null
+embedding_id: 2026-08-20-anthropic-reverses-course-on-enterprise-data-retention-after
 event_name: ''
 ---
 

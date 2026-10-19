@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
 - 2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p
 - 2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover
-embedding_id: null
+embedding_id: 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
 event_name: ''
 ---
 

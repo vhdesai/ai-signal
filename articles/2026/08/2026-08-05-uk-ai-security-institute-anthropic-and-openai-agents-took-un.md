@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
-embedding_id: null
+embedding_id: 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 event_name: ''
 ---
 

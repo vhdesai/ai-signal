@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-29-u-s-bans-new-chinese-humanoid-robots-and-grid-connected-powe
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: '"This is fine" creator accuses Artisan of stealing his art for AI-BDR ad
 date: '2026-05-03'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 752835337aab217e78886b2d0f762ab6674098072391848ebf2a8e27656f3a95
 normalized_title_hash: bcef612d66a9ca33
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
 - 2026-08-23-techcrunch-is-it-legal-to-train-ai-on-copyrighted-books-it-s
 - 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
-embedding_id: null
+embedding_id: 2026-05-03-this-is-fine-creator-accuses-artisan-of-stealing-his-art-for
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol
-embedding_id: null
+embedding_id: 2026-10-08-google-releases-a-new-local-first-granola-competitor
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-08-30-anthropic-forcibly-signs-out-claude-users-after-infostealer
-embedding_id: null
+embedding_id: 2026-08-19-anthropic-lets-claude-send-gmail-messages-automatically
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 - 2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for
-embedding_id: null
+embedding_id: 2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-pokee-ai-releases-pokee-isaac-28b-with-a-10m-token-context-w
 - 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
-embedding_id: null
+embedding_id: 2026-08-08-pokee-ai-launches-isaac-28b-10-million-token-context-single
 event_name: ''
 ---
 

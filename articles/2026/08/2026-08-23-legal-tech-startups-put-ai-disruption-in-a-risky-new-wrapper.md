@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 - 2026-09-20-big-tech-uses-guarantees-to-keep-300b-of-ai-exposure-off-bal
-embedding_id: null
+embedding_id: 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 event_name: ''
 ---
 

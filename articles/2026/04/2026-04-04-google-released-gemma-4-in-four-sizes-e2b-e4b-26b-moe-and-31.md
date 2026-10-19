@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
 - 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
-embedding_id: null
+embedding_id: 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
 event_name: ''
 ---
 

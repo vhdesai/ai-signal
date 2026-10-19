@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 - 2026-09-24-google-openai-and-anthropic-move-closer-to-launching-a-front
 - 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
-embedding_id: null
+embedding_id: 2026-09-24-google-openai-and-anthropic-advance-a-self-regulatory-standa
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: '[NEW] Apple Siri Gets Multi-Command Support in iOS 27 (Apr 1) Apple prev
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techbytes.app/posts/apple-siri-ios-27-gemini-multi-command-integration/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: fc881b88ded624fd4172ada4fff7d5ae7eb2c2a79a1f52b5e0f50b8fa139f2f3
@@ -26,7 +26,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
-embedding_id: null
+embedding_id: 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
 event_name: ''
 ---
 

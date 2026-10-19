@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
-embedding_id: null
+embedding_id: 2026-07-21-white-house-plans-to-redirect-billions-in-research-funds-tow
 event_name: ''
 ---
 

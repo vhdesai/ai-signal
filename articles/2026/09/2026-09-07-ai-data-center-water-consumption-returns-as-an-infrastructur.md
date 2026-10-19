@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-07-19-australia-plans-to-govern-ai-s-water-and-power-use
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-embedding_id: null
+embedding_id: 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/
 url_canonical: https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 41f479cd2def9dbd8078cc9b5838749913e48e4518fd9f555868969b05aec771
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover
 event_name: ''
 ---
 

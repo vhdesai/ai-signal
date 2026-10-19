@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
-embedding_id: null
+embedding_id: 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 event_name: ''
 ---
 

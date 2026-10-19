@@ -4,8 +4,8 @@ title: Unauthorized AI Tool Breaches Bank Data; Foxconn Confirms Cyberattack
 date: '2026-05-13'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dailysecurityreview.com/cyber-security/foxconn-confirms-nitrogen-ransomware-stole-8tb-of-customer-ip/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: bfc5a55ab84cd70cbd207c8cbd63338b6a29024c6cd07067cbf89f4767d81de7
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 event_name: ''
 ---
 

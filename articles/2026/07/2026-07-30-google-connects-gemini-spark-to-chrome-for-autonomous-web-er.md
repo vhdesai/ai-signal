@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-09-18-google-refocuses-its-cc-agent-on-running-the-household
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
-embedding_id: null
+embedding_id: 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
 event_name: ''
 ---
 

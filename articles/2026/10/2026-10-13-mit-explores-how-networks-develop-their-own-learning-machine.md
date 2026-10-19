@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-10-13-mit-explores-how-networks-develop-their-own-learning-machine
 event_name: ''
 ---
 

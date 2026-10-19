@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
-embedding_id: null
+embedding_id: 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 event_name: ''
 ---
 

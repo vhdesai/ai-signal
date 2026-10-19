@@ -4,8 +4,8 @@ title: HKUDS launches CLI-Anything to make all software "agent-native"
 date: '2026-05-23'
 source: GitHub Trending
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.explainx.ai/blog/cli-anything-hkuds-agent-native-software-clis-guide-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 465f189fc399f8152520ea0dcde413938ac1ec7c40e6f7281bea7ef87e95a849
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
-embedding_id: null
+embedding_id: 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 event_name: ''
 ---
 

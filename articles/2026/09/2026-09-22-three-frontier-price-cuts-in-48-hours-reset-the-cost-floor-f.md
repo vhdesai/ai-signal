@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-frontier-pricing-resets-claude-opus-5-5-and-gpt-6-sol-luna-4
-embedding_id: null
+embedding_id: 2026-09-22-three-frontier-price-cuts-in-48-hours-reset-the-cost-floor-f
 event_name: ''
 ---
 

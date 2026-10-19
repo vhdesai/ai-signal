@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
-embedding_id: null
+embedding_id: 2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan
 event_name: ''
 ---
 

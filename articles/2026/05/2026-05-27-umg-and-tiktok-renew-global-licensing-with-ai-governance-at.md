@@ -5,8 +5,8 @@ title: UMG and TikTok renew global licensing with AI governance at the center â€
 date: '2026-05-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/
+url_status: repaired
 digest_source: digests\raw\2026-05-27_071713_Inbox_Daily AI News Digest â€“ May 27,
   2026.md
 content_hash: b62a457ab9ee4e6f2c31fb351906e73044709cd08f5275265d0e7d339ccef5cd
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 - 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-embedding_id: null
+embedding_id: 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
 event_name: ''
 ---
 

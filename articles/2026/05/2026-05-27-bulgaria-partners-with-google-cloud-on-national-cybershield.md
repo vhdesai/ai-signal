@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
-embedding_id: null
+embedding_id: 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati
 event_name: ''
 ---
 

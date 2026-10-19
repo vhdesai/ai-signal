@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
-embedding_id: null
+embedding_id: 2026-10-07-china-s-open-weight-models-are-winning-global-users-but-thir
 event_name: ''
 ---
 

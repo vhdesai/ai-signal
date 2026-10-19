@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 - 2026-07-11-daily-ai-news-digest-july-12-2026
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
-embedding_id: null
+embedding_id: 2026-07-22-daily-ai-news-digest-july-23-2026
 event_name: ''
 ---
 

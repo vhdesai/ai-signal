@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b
 event_name: ''
 ---
 

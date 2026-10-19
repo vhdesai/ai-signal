@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
 related_article_ids:
 - 2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital
-embedding_id: null
+embedding_id: 2026-09-24-google-s-suncatcher-project-sends-first-orbital-ai-datacente
 event_name: ''
 ---
 

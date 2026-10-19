@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip
 event_name: ''
 ---
 

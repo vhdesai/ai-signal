@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
 - 2026-07-20-alibaba-debuts-qwen3-8-max-preview-a-2-4t-parameter-multimod
-embedding_id: null
+embedding_id: 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
 event_name: ''
 ---
 

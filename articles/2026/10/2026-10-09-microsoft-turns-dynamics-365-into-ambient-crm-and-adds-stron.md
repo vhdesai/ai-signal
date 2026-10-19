@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-embedding_id: null
+embedding_id: 2026-10-09-microsoft-turns-dynamics-365-into-ambient-crm-and-adds-stron
 event_name: ''
 ---
 

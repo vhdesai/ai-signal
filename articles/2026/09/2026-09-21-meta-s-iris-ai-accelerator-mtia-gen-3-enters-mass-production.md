@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm
 - 2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio
-embedding_id: null
+embedding_id: 2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production
 event_name: ''
 ---
 

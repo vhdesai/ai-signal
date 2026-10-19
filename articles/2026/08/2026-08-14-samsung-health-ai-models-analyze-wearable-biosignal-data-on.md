@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
-embedding_id: null
+embedding_id: 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
 event_name: ''
 ---
 

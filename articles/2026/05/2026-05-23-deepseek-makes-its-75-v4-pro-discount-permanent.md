@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 - 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
-embedding_id: null
+embedding_id: 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
 event_name: ''
 ---
 

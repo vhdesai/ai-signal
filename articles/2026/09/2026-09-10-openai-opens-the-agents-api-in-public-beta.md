@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: OpenAI
 url_original: https://openai.com/index/introducing-the-agents-api/
 url_canonical: https://openai.com/index/introducing-the-agents-api/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_062119_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 8d098dcf9abc25079f7d059768f90ad9944a29003ef855235f75d9e339446353
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos
-embedding_id: null
+embedding_id: 2026-09-10-openai-opens-the-agents-api-in-public-beta
 event_name: ''
 ---
 

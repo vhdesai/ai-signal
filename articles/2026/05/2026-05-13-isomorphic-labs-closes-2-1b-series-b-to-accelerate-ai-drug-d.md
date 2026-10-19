@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
 - 2026-07-30-google-deepmind-disbands-its-alphafold-team
 - 2026-07-30-google-dissolves-nobel-prize-winning-alphafold-team
-embedding_id: null
+embedding_id: 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-08-27-cohere-ships-parse-5-a-2-3b-vision-language-model-for-enterp
 - 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
-embedding_id: null
+embedding_id: 2026-08-28-cohere-parse-5-reportedly-prioritizes-cost-per-page-over-ben
 event_name: ''
 ---
 

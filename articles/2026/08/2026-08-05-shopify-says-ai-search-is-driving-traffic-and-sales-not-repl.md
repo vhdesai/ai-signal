@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-06-google-deepmind-releases-embeddinggemma-2-a-740m-multimodal
 event_name: ''
 ---
 

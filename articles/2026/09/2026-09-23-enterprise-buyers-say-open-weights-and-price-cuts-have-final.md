@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
-embedding_id: null
+embedding_id: 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 event_name: ''
 ---
 

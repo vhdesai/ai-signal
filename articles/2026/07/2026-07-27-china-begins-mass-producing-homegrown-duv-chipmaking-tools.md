@@ -4,8 +4,8 @@ title: China begins mass-producing homegrown DUV chipmaking tools
 date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20DUV%20chipmaking%20tools
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=China%20DUV%20chipmaking%20tools
-url_status: broken
+url_canonical: https://live.euronext.com/en/financial-news/china-begins-making-homegrown-duv-chipmaking-tools-information-reports
+url_status: repaired
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 349689c3f19c10d82a5f29f9a773fba0aa65bccc6e11fe3a880334ec16680c83
 normalized_title_hash: 24066fd839c8c4dc
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
-embedding_id: null
+embedding_id: 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 event_name: ''
 ---
 

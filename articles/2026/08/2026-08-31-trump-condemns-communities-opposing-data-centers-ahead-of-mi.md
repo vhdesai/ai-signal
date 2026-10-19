@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-embedding_id: null
+embedding_id: 2026-08-31-trump-condemns-communities-opposing-data-centers-ahead-of-mi
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-05-14'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/artificial-intelligence-news/
 url_canonical: https://www.artificialintelligence-news.com/artificial-intelligence-news/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 80b36df2dfc9e01b87f9a61eecb7230b35ebec5546ccde67169b9c4ac3488a92
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-embedding_id: null
+embedding_id: 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 event_name: ''
 ---
 

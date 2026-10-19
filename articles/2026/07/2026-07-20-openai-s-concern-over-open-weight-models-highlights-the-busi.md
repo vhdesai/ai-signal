@@ -5,8 +5,8 @@ title: OpenAI's concern over open-weight models highlights the business-model te
 date: '2026-07-20'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 89af7750419a23b34f7a18dc3d2c3ba05621cfc1b5fdf4152a4d9954b1a07e31
 normalized_title_hash: d6eac7447b53a47f
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-07-24-more-than-20-tech-companies-urge-washington-not-to-restrict
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-embedding_id: null
+embedding_id: 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 event_name: ''
 ---
 

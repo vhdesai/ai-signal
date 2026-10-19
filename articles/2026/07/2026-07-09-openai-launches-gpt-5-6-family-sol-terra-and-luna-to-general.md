@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-6/
 url_canonical: https://openai.com/index/gpt-5-6/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 78c866b44a2828765ae9499459fdcfa6abc81c42df15efa6176ab8b0e2d1588d
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
 event_name: ''
 ---
 

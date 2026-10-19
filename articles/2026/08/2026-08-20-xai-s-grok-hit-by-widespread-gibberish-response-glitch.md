@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-grok-keeps-sending-gibberish-responses-to-users
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
-embedding_id: null
+embedding_id: 2026-08-20-xai-s-grok-hit-by-widespread-gibberish-response-glitch
 event_name: ''
 ---
 

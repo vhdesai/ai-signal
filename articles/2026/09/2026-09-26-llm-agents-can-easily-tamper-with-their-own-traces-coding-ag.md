@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
-embedding_id: null
+embedding_id: 2026-09-26-llm-agents-can-easily-tamper-with-their-own-traces-coding-ag
 event_name: ''
 ---
 

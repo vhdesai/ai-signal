@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin
-embedding_id: null
+embedding_id: 2026-06-21-former-nvidia-leaders-build-evergreen-to-back-ai-startups
 event_name: ''
 ---
 

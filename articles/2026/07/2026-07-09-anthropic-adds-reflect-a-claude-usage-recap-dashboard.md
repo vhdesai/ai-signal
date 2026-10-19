@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-anthropic-launches-reflect-a-usage-analytics-recap-for-claud
 - 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
 - 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
-embedding_id: null
+embedding_id: 2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard
 event_name: ''
 ---
 

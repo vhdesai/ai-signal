@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 - 2026-08-28-federal-judge-strikes-down-pentagon-s-blacklisting-of-anthro
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
-embedding_id: null
+embedding_id: 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
 event_name: ''
 ---
 

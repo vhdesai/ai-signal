@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
-embedding_id: null
+embedding_id: 2026-07-19-pentagon-official-blasts-openai-s-dean-ball-over-regulation
 event_name: ''
 ---
 

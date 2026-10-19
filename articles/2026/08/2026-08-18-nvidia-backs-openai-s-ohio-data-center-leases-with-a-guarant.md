@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-18-nvidia-guarantees-up-to-105-billion-of-openai-s-ohio-data-ce
-embedding_id: null
+embedding_id: 2026-08-18-nvidia-backs-openai-s-ohio-data-center-leases-with-a-guarant
 event_name: ''
 ---
 

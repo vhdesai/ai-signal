@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv
 event_name: ''
 ---
 

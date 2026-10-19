@@ -5,8 +5,8 @@ title: Anthropic and PwC announced an expanded strategic alliance in which PwC w
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/pwc-expanded-partnership
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: e4be43b439438cc6bf03e044e4514e97662dbd37b0c25c76035d16a88a2e4b0a
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 - 2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-and-pwc-announced-an-expanded-strategic-alliance-i
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-15-asml-raises-guidance-again-on-continuing-ai-chip-demand
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-embedding_id: null
+embedding_id: 2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand
 event_name: ''
 ---
 

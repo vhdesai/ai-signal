@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-06-frontier-ai-agents-breach-security-boundaries-in-evaluations
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-embedding_id: null
+embedding_id: 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 event_name: ''
 ---
 

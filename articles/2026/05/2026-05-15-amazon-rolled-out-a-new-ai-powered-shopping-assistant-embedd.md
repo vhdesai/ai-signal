@@ -5,8 +5,8 @@ title: Amazon rolled out a new AI-powered shopping assistant embedded directly i
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3e41fcf883f88719ffe782d6cdc850e05d718b8d2474ddd17e6fc207ab6cec77
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: null
+embedding_id: 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 event_name: ''
 ---
 

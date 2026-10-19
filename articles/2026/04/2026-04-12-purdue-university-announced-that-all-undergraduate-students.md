@@ -55,7 +55,7 @@ related_article_ids:
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-embedding_id: null
+embedding_id: 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 event_name: ''
 ---
 

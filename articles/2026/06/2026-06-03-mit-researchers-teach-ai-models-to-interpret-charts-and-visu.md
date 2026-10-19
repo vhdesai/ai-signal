@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
 - 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-embedding_id: null
+embedding_id: 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 event_name: ''
 ---
 

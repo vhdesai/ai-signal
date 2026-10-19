@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-
 related_article_ids:
 - 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
-embedding_id: null
+embedding_id: 2026-08-31-openai-cutting-off-cursor-ai-model-access-after-spacex-deal
 event_name: ''
 ---
 

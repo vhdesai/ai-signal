@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-embedding_id: null
+embedding_id: 2026-06-22-nvidia-announces-halos-safety-system-for-robotics
 event_name: ''
 ---
 

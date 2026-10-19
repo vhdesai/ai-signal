@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-23-anonymous-ox-alpha-model-on-openrouter-retains-every-develop
 event_name: ''
 ---
 

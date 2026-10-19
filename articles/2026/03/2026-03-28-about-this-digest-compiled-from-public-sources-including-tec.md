@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-04-01-sources-include-bloomberg-techcrunch-venturebeat-cnbc-econom
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
-embedding_id: null
+embedding_id: 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
 event_name: ''
 ---
 

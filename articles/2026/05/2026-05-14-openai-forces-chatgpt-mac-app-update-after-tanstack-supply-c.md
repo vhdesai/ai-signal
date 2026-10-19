@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
-embedding_id: null
+embedding_id: 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 event_name: ''
 ---
 

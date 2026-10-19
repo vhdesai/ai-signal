@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
-embedding_id: null
+embedding_id: 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 event_name: ''
 ---
 

@@ -21,9 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
+- 2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-- 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
-embedding_id: null
+embedding_id: 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ Business Insider reports workers overseeing AI agents describe constant retraini
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]]
+**Related:** [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]]
 <!-- graph:end -->

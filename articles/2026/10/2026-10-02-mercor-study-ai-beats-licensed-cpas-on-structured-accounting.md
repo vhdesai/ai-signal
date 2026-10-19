@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
-embedding_id: null
+embedding_id: 2026-10-02-mercor-study-ai-beats-licensed-cpas-on-structured-accounting
 event_name: ''
 ---
 

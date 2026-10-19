@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 event_name: ''
 ---
 

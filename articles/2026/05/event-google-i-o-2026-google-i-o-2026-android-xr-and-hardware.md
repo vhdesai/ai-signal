@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 related_article_ids: []
-embedding_id: null
+embedding_id: event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
 event_name: Google I/O 2026
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-openai-brings-unlimited-text-chats-to-free-users-rolls-out-g
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-06-openai-upgrades-chatgpt-to-a-smarter-unified-gpt-5-6-sol-and
 event_name: ''
 ---
 

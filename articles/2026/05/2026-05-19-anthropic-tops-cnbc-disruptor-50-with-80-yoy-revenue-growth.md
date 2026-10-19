@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b-up-rough
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
-embedding_id: null
+embedding_id: 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
 event_name: ''
 ---
 

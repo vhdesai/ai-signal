@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 - 2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p
 - 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
-embedding_id: null
+embedding_id: 2026-08-23-chatgpt-for-iphone-adds-long-press-shortcut-to-attach-recent
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-30-mit-led-ataraxos-advances-decision-making-under-hidden-infor
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: null
+embedding_id: 2026-10-01-ai-beats-stratego-s-greatest-player-on-an-8k-training-budget
 event_name: ''
 ---
 

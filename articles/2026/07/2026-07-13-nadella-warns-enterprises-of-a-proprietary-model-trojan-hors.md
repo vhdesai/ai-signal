@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 - 2026-07-13-satya-nadella-warns-enterprises-they-may-be-paying-for-ai-tw
 - 2026-06-18-nadella-warns-enterprises-against-ceding-ip-to-a-few-models
-embedding_id: null
+embedding_id: 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 event_name: ''
 ---
 

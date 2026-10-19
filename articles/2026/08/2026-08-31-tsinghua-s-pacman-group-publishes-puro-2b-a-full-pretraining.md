@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-09-04-september-4-2026-the-information
 - 2026-08-12-nvidia-details-serving-alibaba-s-2-4t-parameter-qwen3-8-mode
-embedding_id: null
+embedding_id: 2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 event_name: ''
 ---
 

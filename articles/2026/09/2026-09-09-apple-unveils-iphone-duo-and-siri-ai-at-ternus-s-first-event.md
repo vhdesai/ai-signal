@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-09-04-john-ternus-takes-the-helm-at-apple-as-ai-pressure-builds
 - 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
-embedding_id: null
+embedding_id: 2026-09-09-apple-unveils-iphone-duo-and-siri-ai-at-ternus-s-first-event
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
 - 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: null
+embedding_id: 2026-08-28-analysis-open-weight-ai-companies-are-the-valley-s-hottest-a
 event_name: ''
 ---
 

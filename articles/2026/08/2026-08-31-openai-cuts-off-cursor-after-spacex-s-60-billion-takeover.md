@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60b-takeover
 - 2026-08-31-openai-cuts-off-cursor-after-spacex-s-takeover-of-anysphere
 - 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
-embedding_id: null
+embedding_id: 2026-08-31-openai-cuts-off-cursor-after-spacex-s-60-billion-takeover
 event_name: ''
 ---
 

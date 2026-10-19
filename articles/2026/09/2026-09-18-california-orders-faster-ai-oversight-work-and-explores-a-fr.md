@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-18-california-orders-faster-ai-oversight-and-explores-a-frontie
 related_article_ids:
 - 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
-embedding_id: null
+embedding_id: 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 event_name: ''
 ---
 

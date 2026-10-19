@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d
 event_name: ''
 ---
 

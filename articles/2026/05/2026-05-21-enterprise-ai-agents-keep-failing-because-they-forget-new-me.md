@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
-embedding_id: null
+embedding_id: 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 event_name: ''
 ---
 

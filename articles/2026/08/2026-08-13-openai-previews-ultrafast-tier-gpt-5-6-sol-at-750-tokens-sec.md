@@ -5,7 +5,7 @@ date: '2026-08-13'
 source: OpenAI · Unite.AI
 url_original: https://openai.com/index/previewing-ultrafast/
 url_canonical: https://openai.com/index/previewing-ultrafast/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-14_084159_Final-Daily-AI-News-Digest.md
 content_hash: f5e06df82a12a656fb411a192e9ccfb4d1d87eb9e77d909bafe22a48da153f67
 normalized_title_hash: 04a98cda23278b1c
@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-openai-previews-ultrafast-tier-gpt-5-6-sol-at-750-tokens-sec
 event_name: ''
 ---
 

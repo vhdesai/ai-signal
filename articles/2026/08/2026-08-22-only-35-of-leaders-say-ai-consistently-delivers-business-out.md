@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
-embedding_id: null
+embedding_id: 2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out
 event_name: ''
 ---
 

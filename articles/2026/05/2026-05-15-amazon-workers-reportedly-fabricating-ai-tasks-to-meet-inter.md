@@ -4,8 +4,8 @@ title: Amazon Workers Reportedly Fabricating AI Tasks to Meet Internal Quotas
 date: '2026-05-15'
 source: Hacker News / Various
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.skysynctech.ca/news/amazon-workers-fabricating-ai-tasks-under-pressure
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 79e31f4ba16714f9596d5e1079e58e25fca04c32b19a1efe394b1c21df41dfe6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
-embedding_id: null
+embedding_id: 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 event_name: ''
 ---
 

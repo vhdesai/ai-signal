@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-embedding_id: null
+embedding_id: 2026-05-27-datacurve-releases-deepswe-a-coding-benchmark-that-produces
 event_name: ''
 ---
 

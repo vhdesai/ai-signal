@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 event_name: ''
 ---
 

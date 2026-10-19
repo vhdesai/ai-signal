@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-anthropic-opens-a-formal-submission-portal-for-claude-plugin
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
-embedding_id: null
+embedding_id: 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 event_name: ''
 ---
 

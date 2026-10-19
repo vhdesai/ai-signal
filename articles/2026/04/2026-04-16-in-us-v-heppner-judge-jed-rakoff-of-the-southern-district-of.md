@@ -5,8 +5,8 @@ title: In US v. Heppner, Judge Jed Rakoff of the Southern District of New York r
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.debevoise.com/insights/publications/2026/02/update-judge-rakoff-issues-written-opinion-that-ai
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: aa5ab962c26d3080cbcc87e18bf2fcdb20c36c1537e9815c8877be962443bc45
@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs
 - 2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled
 - 2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q
 - 2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-embedding_id: null
+embedding_id: 2026-04-16-in-us-v-heppner-judge-jed-rakoff-of-the-southern-district-of
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ In US v. Heppner, Judge Jed Rakoff of the Southern District of New York ruled th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs]] · [[2026-08-23-training-ai-on-copyrighted-books-remains-legally-unsettled]] · [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-09-06-authors-contest-publisher-and-agent-claims-on-anthropic-s-1]]
 <!-- graph:end -->

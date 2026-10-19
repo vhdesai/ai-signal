@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-16-nokia-and-nvidia-unveil-the-first-commercial-ai-ran-platform
 event_name: ''
 ---
 

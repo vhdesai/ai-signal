@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: OpenAI Says GPT-5.6 Sol Ultra Produced a Proof of the 50-Year-Old Cycle D
 date: '2026-07-11'
 source: OfficeChai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://officechai.com/ai/openai-says-gpt-5-6-sol-produced-a-proof-of-the-50-year-old-cycle-double-cover-conjecture-using-64-subagents-in-1-hour/
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: ffbdc071177b77c604dc9f84789be60ff89c53c8aaee90e302206e380f3feb10
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-11-openai-says-gpt-5-6-sol-ultra-produced-a-proof-of-the-50-yea
 event_name: ''
 ---
 

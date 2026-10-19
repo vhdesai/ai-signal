@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
-embedding_id: null
+embedding_id: 2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a
 event_name: ''
 ---
 

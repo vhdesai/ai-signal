@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
 - 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
 - 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
-embedding_id: null
+embedding_id: 2026-06-04-mira-murati-steps-back-into-the-spotlight
 event_name: ''
 ---
 

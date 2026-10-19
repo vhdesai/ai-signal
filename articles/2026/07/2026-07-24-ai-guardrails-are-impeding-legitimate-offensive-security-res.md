@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-08-10-openai-ships-a-less-restricted-cyber-model-for-defenders-und
-embedding_id: null
+embedding_id: 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 event_name: ''
 ---
 

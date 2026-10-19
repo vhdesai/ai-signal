@@ -4,8 +4,8 @@ title: Senator Markey unveils an “AI accountability” package of bills
 date: '2026-07-10'
 source: The Guardian
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills
+url_status: repaired
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: b8b7dd2ffa2c3710ec583cf8dec1c5a56f43d343098a04fa35faa12848ef460b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-09-13-obama-urges-democrats-to-make-ai-safeguards-a-central-agenda
-embedding_id: null
+embedding_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
 event_name: ''
 ---
 

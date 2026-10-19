@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-is-it-legal-to-train-ai-models-on-copyrighted-books-it-s-com
 - 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
 - 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
-embedding_id: null
+embedding_id: 2026-08-23-legal-analysis-is-it-legal-to-train-ai-on-copyrighted-books
 event_name: ''
 ---
 

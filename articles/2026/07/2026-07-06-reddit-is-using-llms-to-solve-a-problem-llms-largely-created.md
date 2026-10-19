@@ -4,8 +4,8 @@ title: Reddit is using LLMs to solve a problem LLMs largely created
 date: '2026-07-06'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: ba0442d18ec39cd2d15fb672c91fa98fb6a75efb9040b67b9299f0aff20dc145
 normalized_title_hash: 10b8b8e5f2e25ee5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
-embedding_id: null
+embedding_id: 2026-07-06-reddit-is-using-llms-to-solve-a-problem-llms-largely-created
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65-billion-ahead-of
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-profitable-qu
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
 event_name: ''
 ---
 

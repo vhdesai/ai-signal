@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
 - 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe
-embedding_id: null
+embedding_id: 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
-embedding_id: null
+embedding_id: 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 event_name: ''
 ---
 

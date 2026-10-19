@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-tencent-backed-ai-chipmaker-enflame-seeks-911-million-in-ipo
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
-embedding_id: null
+embedding_id: 2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m
 event_name: ''
 ---
 

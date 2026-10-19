@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 - 2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo
-embedding_id: null
+embedding_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
 event_name: ''
 ---
 

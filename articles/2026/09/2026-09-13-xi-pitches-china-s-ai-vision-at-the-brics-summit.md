@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-14-china-rejects-us-pacing-proposal-as-fearmongering-xi-pitches
-embedding_id: null
+embedding_id: 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
 event_name: ''
 ---
 

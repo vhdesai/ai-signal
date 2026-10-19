@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
-embedding_id: null
+embedding_id: 2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows
 event_name: ''
 ---
 

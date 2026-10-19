@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
 event_name: ''
 ---
 

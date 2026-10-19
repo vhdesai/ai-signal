@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
 - 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
-embedding_id: null
+embedding_id: 2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance
 event_name: ''
 ---
 

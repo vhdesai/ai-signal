@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-25-densityai-one-year-old-ex-tesla-dojo-startup-nears-10b-valua
 - 2026-09-03-thinking-machines-lab-discusses-a-raise-at-roughly-a-40b-val
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-embedding_id: null
+embedding_id: 2026-09-01-indian-ai-chip-startup-agrani-labs-raising-50m-at-up-to-200m
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
 - 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 - 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
-embedding_id: null
+embedding_id: 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 event_name: ''
 ---
 

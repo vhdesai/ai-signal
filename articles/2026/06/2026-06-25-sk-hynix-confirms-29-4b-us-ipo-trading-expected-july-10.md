@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 - 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
-embedding_id: null
+embedding_id: 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
 - 2026-10-01-aws-releases-a-self-hostable-decision-layer-for-agents
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
-embedding_id: null
+embedding_id: 2026-10-01-aws-previews-an-agent-for-well-architected-reviews
 event_name: ''
 ---
 

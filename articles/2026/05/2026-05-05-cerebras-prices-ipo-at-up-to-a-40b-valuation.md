@@ -4,8 +4,8 @@ title: Cerebras prices IPO at up to a $40B valuation
 date: '2026-05-05'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.neura.market/news/cerebras-targets-40b-valuation-second-ipo-attempt
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: b42a730db3d8a58e46cc0c25281e1fed6d4648556640158efddc380f28c7ef11
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 - 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
-embedding_id: null
+embedding_id: 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 event_name: ''
 ---
 

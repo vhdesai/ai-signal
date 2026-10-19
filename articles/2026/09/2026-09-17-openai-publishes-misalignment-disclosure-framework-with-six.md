@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-embedding_id: null
+embedding_id: 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
 event_name: ''
 ---
 

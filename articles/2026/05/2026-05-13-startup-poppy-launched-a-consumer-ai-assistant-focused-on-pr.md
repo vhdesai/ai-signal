@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 - 2026-08-01-the-information-makes-the-case-for-apple-buying-granola
 - 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
-embedding_id: null
+embedding_id: 2026-05-13-startup-poppy-launched-a-consumer-ai-assistant-focused-on-pr
 event_name: ''
 ---
 

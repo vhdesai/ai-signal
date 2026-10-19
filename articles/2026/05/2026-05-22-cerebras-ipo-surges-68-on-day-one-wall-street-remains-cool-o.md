@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street
 - 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
-embedding_id: null
+embedding_id: 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
 event_name: ''
 ---
 

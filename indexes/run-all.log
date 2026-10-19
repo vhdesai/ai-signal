@@ -1,4 +1,87 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2519.43it/s]
+Loading weights:  53%|█████▎    | 106/199 [00:00<00:00, 1052.34it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1155.99it/s]
+{
+  "command": "run-all",
+  "stages": {
+    "ingest": {
+      "digests_total": 1478,
+      "digests_changed": 10,
+      "changed": [
+        "news\\2026-10-18_000000_Publication-Sources.md",
+        "news\\2026-10-18_060206_Inbox_Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_062116_Inbox_Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_122834_Inbox_ClawPilot - Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_123055_Inbox_Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_123234_Inbox_Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_123246_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-18_123428_Inbox_Daily AI News Digest - October 18, 2026.md",
+        "news\\2026-10-18_123619_Final-Daily-AI-News-Digest.md",
+        "news\\daily-ai-news-digest-2026-10-18.md"
+      ]
+    },
+    "split": {
+      "digests_parsed": 1482,
+      "articles_written": 14382,
+      "events_parsed": 121,
+      "event_articles_written": 78,
+      "skipped_publication_sources": 52,
+      "skipped_thin_articles": 4971
+    },
+    "index": {
+      "articles_indexed": 10449,
+      "embeddings": {
+        "enabled": true,
+        "added": 63,
+        "total": 10449,
+        "md_rewritten": 10448
+      }
+    },
+    "dedupe": {
+      "articles": 10449,
+      "exact_duplicates": 6,
+      "canonical": 7743,
+      "semantic_duplicates": 2700,
+      "related_links": 31906
+    },
+    "build-graph": {
+      "status": "ok",
+      "articles_linked": 10449,
+      "wikilinks_emitted": 71472,
+      "entity_hubs": 34,
+      "topic_hubs": 8,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    },
+    "validate-urls": {
+      "checked": 4940,
+      "ok": 3961,
+      "broken": 979,
+      "missing": 5486,
+      "skipped": 23
+    },
+    "repair-urls": {
+      "attempted": 3291,
+      "repaired": 816,
+      "unresolved": 2475,
+      "skipped": 91,
+      "reverted": 0,
+      "deferred": 3083,
+      "terminated": "timeout",
+      "elapsed_s": 3620.0,
+      "max_workers": 10
+    },
+    "build-site": {
+      "pages": 300,
+      "articles": 10449,
+      "canonical": 7743,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+    },
+    "publish": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  },
+  "run_log": "indexes\\runs\\run-20261018T194049+0000-c50ff9.json"
+}

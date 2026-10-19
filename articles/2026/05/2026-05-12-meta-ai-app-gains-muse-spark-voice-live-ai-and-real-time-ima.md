@@ -4,8 +4,8 @@ title: Meta AI app gains Muse Spark voice, live-AI, and real-time image generati
 date: '2026-05-12'
 source: 9to5Mac
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://9to5mac.com/2026/05/12/meta-ai-app-enhanced-with-new-features-using-muse-spark-heres-whats-new/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 7ec632f61b1711f38d774000442a8f18de32602ce301fca26f63984cf1978dab
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator
 - 2026-09-03-meta-releases-muse-spark-1-3-as-agent-inference-economics-ti
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-embedding_id: null
+embedding_id: 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 event_name: ''
 ---
 

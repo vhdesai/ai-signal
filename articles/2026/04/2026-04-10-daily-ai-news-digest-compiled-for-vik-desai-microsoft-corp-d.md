@@ -5,8 +5,8 @@ title: 'Daily AI News Digest | Compiled for Vik Desai, Microsoft Corp Dev | Apri
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/ai-news-april-2026-in-depth-and-concise/
+url_status: repaired
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 53a036eebc6fe4744fd139cf0b004ab2af527750e5e21f47ead73ddaa96e86bc
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de
-embedding_id: null
+embedding_id: 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Anthropic Expands Project Glasswing to ~200 Partners; Maps Year of AI Cyb
 date: '2026-06-02'
 source: TechCrunch; Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/expanding-project-glasswing
+url_status: repaired
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: d2bba6a026eaa8cf35cea3699021f818fb566bb0cea2254a02909fb81dc122c7
 normalized_title_hash: dba78428629e8bbf
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea
 event_name: ''
 ---
 

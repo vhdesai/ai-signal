@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-google-wins-10-million-auction-for-spirit-airlines-internal
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-google-wins-10m-bid-for-bankrupt-spirit-airlines-data-to-tra
 event_name: ''
 ---
 

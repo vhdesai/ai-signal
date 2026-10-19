@@ -4,8 +4,8 @@ title: SpaceX IPO filing reveals Anthropic's $1.25B/month compute deal with Spac
 date: '2026-05-20'
 source: The Information  · Anthropic / SpaceX
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-filing-discloses-84-5b-212105063.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 406b7c78323a5614935d19b4404b1b7ac625ced54d564da31e2e4bd9ac546c12
@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de
 event_name: ''
 ---
 

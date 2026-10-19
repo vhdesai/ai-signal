@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
 - 2026-04-09-products-tools
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
-embedding_id: null
+embedding_id: 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 event_name: ''
 ---
 

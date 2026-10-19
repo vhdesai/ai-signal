@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-19-alibaba-s-qwen3-8-omni-flash-undercuts-gemini-3-8-flash-on-m
 - 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
-embedding_id: null
+embedding_id: 2026-09-18-alibaba-qwen-releases-qwen3-8-omni-flash-a-1m-context-omni-m
 event_name: ''
 ---
 

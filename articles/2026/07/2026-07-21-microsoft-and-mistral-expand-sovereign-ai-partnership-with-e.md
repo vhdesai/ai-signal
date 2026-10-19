@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
-embedding_id: null
+embedding_id: 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 event_name: ''
 ---
 

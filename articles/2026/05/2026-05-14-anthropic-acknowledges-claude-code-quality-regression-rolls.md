@@ -4,8 +4,8 @@ title: Anthropic Acknowledges Claude Code Quality Regression, Rolls Out Fixes
 date: '2026-05-14'
 source: ToolsCompare.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiforanything.io/blog/claude-code-quality-drop-fix-postmortem-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 530b08ef1626a1d6632c3d0eb1a81866c3a4d672be7bea3a53ce516b98d04291
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 event_name: ''
 ---
 

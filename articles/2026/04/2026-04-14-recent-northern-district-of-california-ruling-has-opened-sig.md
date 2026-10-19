@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
-embedding_id: null
+embedding_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 event_name: ''
 ---
 

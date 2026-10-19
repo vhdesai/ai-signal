@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open
 - 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
 - 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
-embedding_id: null
+embedding_id: 2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us
 event_name: ''
 ---
 

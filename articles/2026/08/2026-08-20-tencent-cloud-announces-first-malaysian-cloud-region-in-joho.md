@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-alibaba-cloud-opens-first-brazil-region-with-agentic-ai-serv
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and
-embedding_id: null
+embedding_id: 2026-08-20-tencent-cloud-announces-first-malaysian-cloud-region-in-joho
 event_name: ''
 ---
 

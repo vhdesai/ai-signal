@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-wants-to-turn-idle-pcs-into-a-personal-home-data-cent
 event_name: ''
 ---
 

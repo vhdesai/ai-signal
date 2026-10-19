@@ -5,8 +5,8 @@ title: Microsoft announced a $10B investment in Japan (2026–2029) to expand AI
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 22de2e73e87cd44088fab7ce6b711017efb477e56d8f74dff2c125ee6328b568
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
-embedding_id: null
+embedding_id: 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
 event_name: ''
 ---
 

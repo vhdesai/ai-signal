@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-09-23-transluce-publishes-30-000-agent-logs-showing-exploit-style
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
-embedding_id: null
+embedding_id: 2026-10-01-researchers-report-failed-agent-probes-of-government-website
 event_name: ''
 ---
 

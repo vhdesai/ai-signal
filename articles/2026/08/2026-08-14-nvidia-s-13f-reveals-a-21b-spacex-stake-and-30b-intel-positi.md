@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-nvidia-13f-reveals-21b-spacex-and-30b-intel-positions
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-nvidia-s-13f-reveals-a-21b-spacex-stake-and-30b-intel-positi
 event_name: ''
 ---
 

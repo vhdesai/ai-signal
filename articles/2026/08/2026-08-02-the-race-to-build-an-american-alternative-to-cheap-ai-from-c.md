@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
-embedding_id: null
+embedding_id: 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 event_name: ''
 ---
 

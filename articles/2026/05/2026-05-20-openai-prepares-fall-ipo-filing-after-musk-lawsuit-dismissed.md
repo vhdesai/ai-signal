@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-embedding_id: null
+embedding_id: 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 - 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
-embedding_id: null
+embedding_id: 2026-07-17-ai-capital-spreads-across-drug-discovery-policy-and-robotics
 event_name: ''
 ---
 

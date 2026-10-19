@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-embedding_id: null
+embedding_id: 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
 event_name: ''
 ---
 

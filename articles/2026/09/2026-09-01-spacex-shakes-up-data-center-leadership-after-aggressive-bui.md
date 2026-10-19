@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: null
+embedding_id: 2026-09-01-spacex-shakes-up-data-center-leadership-after-aggressive-bui
 event_name: ''
 ---
 

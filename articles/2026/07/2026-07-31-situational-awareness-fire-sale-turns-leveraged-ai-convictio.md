@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
 related_article_ids:
 - 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
-embedding_id: null
+embedding_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 event_name: ''
 ---
 

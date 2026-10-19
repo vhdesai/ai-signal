@@ -4,8 +4,8 @@ title: Microsoft and EY Launch $1 Billion Enterprise AI Initiative
 date: '2026-05-21'
 source: The Official Microsoft Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 6fbb72be7a407c5fb565b0bf023d1c0fe1d67451bfd111c7256bceaf6a16b205
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
 - 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
-embedding_id: null
+embedding_id: 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 event_name: ''
 ---
 

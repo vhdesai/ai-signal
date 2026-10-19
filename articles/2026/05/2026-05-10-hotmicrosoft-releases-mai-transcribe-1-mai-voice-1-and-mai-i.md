@@ -28,7 +28,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
-embedding_id: null
+embedding_id: 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 event_name: ''
 ---
 

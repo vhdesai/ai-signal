@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
 - 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
 - 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
-embedding_id: null
+embedding_id: 2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs
 - 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 - 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
-embedding_id: null
+embedding_id: 2026-10-01-ftc-opens-investigation-into-whether-openai-and-anthropic-br
 event_name: ''
 ---
 

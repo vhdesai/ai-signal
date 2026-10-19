@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
-embedding_id: null
+embedding_id: 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 event_name: ''
 ---
 

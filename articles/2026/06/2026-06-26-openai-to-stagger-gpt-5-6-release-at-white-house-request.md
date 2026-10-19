@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-embedding_id: null
+embedding_id: 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 event_name: ''
 ---
 

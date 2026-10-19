@@ -5,7 +5,7 @@ date: '2026-08-20'
 source: OpenAI
 url_original: https://openai.com/index/introducing-ai-futures/
 url_canonical: https://openai.com/index/introducing-ai-futures/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-21_060504_Inbox_Daily AI News Digest - August 21,
   2026.md
 content_hash: 8481b5921ba8d1b406763a67cabf9a332005ef35b3f62878df992ff35bc381e3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-embedding_id: null
+embedding_id: 2026-08-20-openai-launches-ai-futures-a-blog-on-power-governance-and-th
 event_name: ''
 ---
 

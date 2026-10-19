@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
-embedding_id: null
+embedding_id: 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-embedding_id: null
+embedding_id: 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
 event_name: ''
 ---
 

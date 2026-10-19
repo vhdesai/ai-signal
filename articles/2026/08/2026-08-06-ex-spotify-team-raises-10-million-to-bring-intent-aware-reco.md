@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
 - 2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
-embedding_id: null
+embedding_id: 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 event_name: ''
 ---
 

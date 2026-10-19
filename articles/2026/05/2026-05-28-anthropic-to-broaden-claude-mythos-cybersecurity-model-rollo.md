@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 event_name: ''
 ---
 

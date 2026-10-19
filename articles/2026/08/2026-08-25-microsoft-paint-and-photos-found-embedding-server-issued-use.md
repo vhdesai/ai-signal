@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 - 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
 - 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
-embedding_id: null
+embedding_id: 2026-08-25-microsoft-paint-and-photos-found-embedding-server-issued-use
 event_name: ''
 ---
 

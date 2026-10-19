@@ -4,8 +4,8 @@ title: 'Restoring the Sweet Spot: Pass-Rate Weighted Self-Distillation for LLM R
 date: '2026-05-28'
 source: Liu, Cao, Chen, Honavar (Penn State) — arXiv:2605.27765
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.27765
+url_status: repaired
 digest_source: digests\raw\2026-05-28_071047_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: efccf888e9f1ecf17c86f243c62db2dba5e7a3c231b811fc680e074f892bc758
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-memtrapbench-retrieved-memory-can-actively-degrade-llm-reaso
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 - 2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with
-embedding_id: null
+embedding_id: 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 event_name: ''
 ---
 

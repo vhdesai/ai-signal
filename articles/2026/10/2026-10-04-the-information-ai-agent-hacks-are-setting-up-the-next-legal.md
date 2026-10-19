@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: null
+embedding_id: 2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal
 event_name: ''
 ---
 

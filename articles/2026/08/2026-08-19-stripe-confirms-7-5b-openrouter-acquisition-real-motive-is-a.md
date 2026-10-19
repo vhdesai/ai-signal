@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-stripe-confirms-7-5-billion-openrouter-acquisition-gains-lev
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-19-stripe-confirms-7-5b-openrouter-acquisition-real-motive-is-a
 event_name: ''
 ---
 

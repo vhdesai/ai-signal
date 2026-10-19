@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-25-hugging-face-revenue-jumps-50-to-150m-annualized-alabama-pro
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
-embedding_id: null
+embedding_id: 2026-09-14-chewy-targets-50m-in-annual-cost-savings-with-ai
 event_name: ''
 ---
 

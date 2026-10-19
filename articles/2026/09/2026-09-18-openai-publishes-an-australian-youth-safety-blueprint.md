@@ -5,7 +5,7 @@ date: '2026-09-18'
 source: OpenAI
 url_original: https://openai.com/index/australian-youth-safety-blueprint/
 url_canonical: https://openai.com/index/australian-youth-safety-blueprint/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_060243_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: aed468fea4a6afa480b5968b79d1424a73cd64833f0ec8b0a544fb34cb5d893b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-07-16-openai-argues-teens-deserve-access-to-safe-ai
-embedding_id: null
+embedding_id: 2026-09-18-openai-publishes-an-australian-youth-safety-blueprint
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-10-the-stanford-elsevier-world-top-2-scientists-list-continued
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
-embedding_id: null
+embedding_id: 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
 event_name: ''
 ---
 

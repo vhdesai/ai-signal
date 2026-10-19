@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
 - 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 - 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
-embedding_id: null
+embedding_id: 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 event_name: ''
 ---
 

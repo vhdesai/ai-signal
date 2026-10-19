@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-ai-labs-offer-big-money-for-private-slack-dms-and-emails
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
-embedding_id: null
+embedding_id: 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
 event_name: ''
 ---
 

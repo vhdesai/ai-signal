@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
 - 2026-07-11-daily-ai-news-digest-july-12-2026
-embedding_id: null
+embedding_id: 2026-07-08-daily-ai-news-digest-july-9-2026
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev
 event_name: ''
 ---
 

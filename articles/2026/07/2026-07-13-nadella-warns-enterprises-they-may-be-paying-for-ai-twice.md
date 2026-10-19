@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 - 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
-embedding_id: null
+embedding_id: 2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice
 event_name: ''
 ---
 

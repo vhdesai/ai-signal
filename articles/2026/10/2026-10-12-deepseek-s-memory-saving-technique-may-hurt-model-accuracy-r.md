@@ -24,9 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 - 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
+- 2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 - 2026-08-25-deepseek-reportedly-testing-a-new-coding-model
-embedding_id: null
+embedding_id: 2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Researchers from ByteDance, Princeton, Stanford, and UC Berkeley challenged part
 
 **Entities:** [[ByteDance]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with]] · [[2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-08-25-deepseek-reportedly-testing-a-new-coding-model]]
+**Related:** [[2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with]] · [[2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion]] · [[2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-08-25-deepseek-reportedly-testing-a-new-coding-model]]
 <!-- graph:end -->

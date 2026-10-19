@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
 - 2026-08-26-mystery-ox-alpha-model-traced-to-chinese-lab-z-ai
-embedding_id: null
+embedding_id: 2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m
 event_name: ''
 ---
 

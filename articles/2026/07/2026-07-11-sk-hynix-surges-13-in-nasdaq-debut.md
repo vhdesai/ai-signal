@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-sk-hynix-surges-13-in-nasdaq-debut
 - 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
-embedding_id: null
+embedding_id: 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
 event_name: ''
 ---
 

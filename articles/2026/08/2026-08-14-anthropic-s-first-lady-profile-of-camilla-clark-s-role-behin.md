@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
-embedding_id: null
+embedding_id: 2026-08-14-anthropic-s-first-lady-profile-of-camilla-clark-s-role-behin
 event_name: ''
 ---
 

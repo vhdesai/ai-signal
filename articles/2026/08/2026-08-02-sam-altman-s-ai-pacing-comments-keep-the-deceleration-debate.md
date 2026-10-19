@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
-embedding_id: null
+embedding_id: 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 event_name: ''
 ---
 

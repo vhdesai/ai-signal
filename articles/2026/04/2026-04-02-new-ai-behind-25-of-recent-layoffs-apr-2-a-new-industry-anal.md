@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
-embedding_id: null
+embedding_id: 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 event_name: ''
 ---
 

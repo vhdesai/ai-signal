@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-mit-ai-helps-design-new-materials-that-work-in-the-real-worl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
 event_name: ''
 ---
 

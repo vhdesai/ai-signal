@@ -6,7 +6,7 @@ date: '2026-06-11'
 source: Politico; Axios
 url_original: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
 url_canonical: https://www.axios.com/2026/06/11/data-centers-ai-congress-bresnahan-bill
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 19152e98990eaba2acdbb8b52f429db8b3cf2b2ec550228f5934d067833e6843
 normalized_title_hash: 593f65ca9473d05f
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-11-white-house-ties-state-ai-law-preemption-to-kids-safety-cong
 event_name: ''
 ---
 

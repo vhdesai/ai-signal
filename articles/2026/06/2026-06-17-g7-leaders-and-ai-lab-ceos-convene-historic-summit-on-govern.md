@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
-embedding_id: null
+embedding_id: 2026-06-17-g7-leaders-and-ai-lab-ceos-convene-historic-summit-on-govern
 event_name: ''
 ---
 

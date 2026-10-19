@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
-embedding_id: null
+embedding_id: 2026-08-21-civil-society-groups-press-the-ftc-to-investigate-ai-trainin
 event_name: ''
 ---
 

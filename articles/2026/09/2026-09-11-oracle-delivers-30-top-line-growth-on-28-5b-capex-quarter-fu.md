@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-11-oracle-expands-restructuring-by-another-700m-as-ai-data-cent
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
-embedding_id: null
+embedding_id: 2026-09-11-oracle-delivers-30-top-line-growth-on-28-5b-capex-quarter-fu
 event_name: ''
 ---
 

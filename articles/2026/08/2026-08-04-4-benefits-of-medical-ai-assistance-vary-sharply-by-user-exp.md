@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e
 - 2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e
-embedding_id: null
+embedding_id: 2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp
 event_name: ''
 ---
 

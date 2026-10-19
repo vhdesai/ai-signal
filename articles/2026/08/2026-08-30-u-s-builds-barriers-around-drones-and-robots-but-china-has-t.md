@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-retai
 - 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
-embedding_id: null
+embedding_id: 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 event_name: ''
 ---
 

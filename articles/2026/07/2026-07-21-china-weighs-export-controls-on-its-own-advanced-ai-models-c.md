@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-embedding_id: null
+embedding_id: 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
 event_name: ''
 ---
 

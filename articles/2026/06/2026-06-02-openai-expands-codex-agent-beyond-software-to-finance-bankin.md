@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-embedding_id: null
+embedding_id: 2026-06-02-openai-expands-codex-agent-beyond-software-to-finance-bankin
 event_name: ''
 ---
 

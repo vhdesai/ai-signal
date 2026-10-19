@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
-embedding_id: null
+embedding_id: 2026-06-02-meta-expands-teen-content-settings-globally
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-embedding_id: null
+embedding_id: 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 event_name: ''
 ---
 

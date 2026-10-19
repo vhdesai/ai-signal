@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-openai-s-noam-brown-recursive-self-improvement-is-our-top-pr
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
-embedding_id: null
+embedding_id: 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 event_name: ''
 ---
 

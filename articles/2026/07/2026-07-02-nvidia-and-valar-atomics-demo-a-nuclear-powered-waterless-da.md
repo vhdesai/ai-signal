@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-embedding_id: null
+embedding_id: 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
 event_name: ''
 ---
 

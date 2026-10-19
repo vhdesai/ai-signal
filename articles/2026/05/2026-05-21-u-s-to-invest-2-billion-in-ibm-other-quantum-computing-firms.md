@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-embedding_id: null
+embedding_id: 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 event_name: ''
 ---
 

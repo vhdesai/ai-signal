@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
-embedding_id: null
+embedding_id: 2026-04-15-model-releases
 event_name: ''
 ---
 

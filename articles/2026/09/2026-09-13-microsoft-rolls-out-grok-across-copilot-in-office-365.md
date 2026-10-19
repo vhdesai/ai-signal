@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-12-microsoft-begins-rolling-grok-models-into-copilot-for-fronti
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
-embedding_id: null
+embedding_id: 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 event_name: ''
 ---
 

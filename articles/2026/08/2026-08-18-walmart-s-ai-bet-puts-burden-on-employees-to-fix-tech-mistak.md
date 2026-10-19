@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-amazon-rehires-laid-off-workers-for-ai-and-cloud-roles-as-bi
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-embedding_id: null
+embedding_id: 2026-08-18-walmart-s-ai-bet-puts-burden-on-employees-to-fix-tech-mistak
 event_name: ''
 ---
 

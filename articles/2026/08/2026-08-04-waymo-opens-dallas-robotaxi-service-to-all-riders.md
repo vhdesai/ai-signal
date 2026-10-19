@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-08-30-osha-data-shows-robotaxi-test-drivers-injured-by-sudden-auto
-embedding_id: null
+embedding_id: 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 event_name: ''
 ---
 

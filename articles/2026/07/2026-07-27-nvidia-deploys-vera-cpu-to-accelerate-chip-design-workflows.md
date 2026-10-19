@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-deploys-vera-cpu-to-accelerate-chip-design-workflows
 event_name: ''
 ---
 

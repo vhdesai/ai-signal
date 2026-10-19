@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
-embedding_id: null
+embedding_id: 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 event_name: ''
 ---
 

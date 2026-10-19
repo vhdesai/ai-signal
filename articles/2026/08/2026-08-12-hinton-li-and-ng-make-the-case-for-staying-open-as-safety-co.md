@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-hinton-li-and-ng-make-the-case-for-staying-open-as-safety-co
 event_name: ''
 ---
 

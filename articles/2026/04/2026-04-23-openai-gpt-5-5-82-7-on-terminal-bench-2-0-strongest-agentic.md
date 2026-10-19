@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5 — 82.7% on Terminal-Bench 2.0, Strongest Agentic Coding 
 date: '2026-04-23'
 source: OpenAI / AI Tools Recap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/introducing-gpt-5-5/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 225117c7784ec8ed75b556b0351da965c9f7167268a3b7685fe1de27433a3580
@@ -24,7 +24,7 @@ canonical_article_id: 2026-04-23-
 related_article_ids:
 - 2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date
 - 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
-embedding_id: null
+embedding_id: 2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic
 event_name: ''
 ---
 

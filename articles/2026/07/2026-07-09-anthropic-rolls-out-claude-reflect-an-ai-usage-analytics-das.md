@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-anthropic-rolls-out-claude-reflect-an-ai-usage-analytics-das
 event_name: ''
 ---
 

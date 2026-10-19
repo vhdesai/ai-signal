@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
-embedding_id: null
+embedding_id: 2026-09-03-new-cornell-leads-7-5m-usda-center-of-excellence-for-orchard
 event_name: ''
 ---
 

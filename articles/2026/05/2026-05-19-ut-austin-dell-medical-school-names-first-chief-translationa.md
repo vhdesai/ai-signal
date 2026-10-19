@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: UT News
 url_original: https://news.utexas.edu/
 url_canonical: https://news.utexas.edu/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: c26ffb9a937700456a89474fd9a8a5a5ae675980b01ce739a22b8f950a5af7e3
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
-embedding_id: null
+embedding_id: 2026-05-19-ut-austin-dell-medical-school-names-first-chief-translationa
 event_name: ''
 ---
 

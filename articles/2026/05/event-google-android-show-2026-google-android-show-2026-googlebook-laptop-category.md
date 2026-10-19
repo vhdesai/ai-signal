@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
 - 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 - 2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t
-embedding_id: null
+embedding_id: event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
 event_name: Google Android Show 2026
 ---
 

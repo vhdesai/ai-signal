@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
-embedding_id: null
+embedding_id: 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 event_name: ''
 ---
 

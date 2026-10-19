@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
 - 2026-10-09-typesafe-s-jev-funding-shows-investor-appetite-for-non-text
 - 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
-embedding_id: null
+embedding_id: 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
 event_name: ''
 ---
 

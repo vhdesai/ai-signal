@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 - 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
-embedding_id: null
+embedding_id: 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
 event_name: ''
 ---
 

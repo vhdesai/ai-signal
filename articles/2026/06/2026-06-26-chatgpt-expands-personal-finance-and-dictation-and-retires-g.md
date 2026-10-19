@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: OpenAI
 url_original: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 url_canonical: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 86a2340f9936e15515fe3020d49de6dbb6f333245ce65b0a185a78dba9765371
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-chatgpt-default-for-paid-users
-embedding_id: null
+embedding_id: 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
 event_name: ''
 ---
 

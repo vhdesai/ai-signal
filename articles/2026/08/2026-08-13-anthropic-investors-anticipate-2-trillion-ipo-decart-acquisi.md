@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-anthropic-investors-anticipate-2-trillion-ipo-decart-acquisi
 event_name: ''
 ---
 

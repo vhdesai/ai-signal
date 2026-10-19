@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 - 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 - 2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom
-embedding_id: null
+embedding_id: 2026-09-15-palantir-cto-calls-the-ai-safety-movement-an-attempted-coup
 event_name: ''
 ---
 

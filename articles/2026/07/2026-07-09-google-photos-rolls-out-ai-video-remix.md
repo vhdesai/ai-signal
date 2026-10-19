@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 - 2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 - 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
-embedding_id: null
+embedding_id: 2026-07-09-google-photos-rolls-out-ai-video-remix
 event_name: ''
 ---
 

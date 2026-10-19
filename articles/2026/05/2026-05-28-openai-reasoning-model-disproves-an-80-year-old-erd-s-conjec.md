@@ -4,8 +4,8 @@ title: OpenAI reasoning model disproves an 80-year-old Erdős conjecture
 date: '2026-05-28'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 4d240af55f7dad937fb5ee8dbf58f93df36dbaf66a5a162329b6c148325c9795
@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-embedding_id: null
+embedding_id: 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
 event_name: ''
 ---
 

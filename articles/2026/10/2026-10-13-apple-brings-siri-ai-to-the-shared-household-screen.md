@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement
+- 2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering
 - 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 - 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
-- 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
-embedding_id: null
+embedding_id: 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Apple introduced the $299 HomeView with Siri AI and personalized household exper
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]] · [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]] · [[2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27]]
+**Related:** [[2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement]] · [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]] · [[2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon]] · [[2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli]]
 <!-- graph:end -->

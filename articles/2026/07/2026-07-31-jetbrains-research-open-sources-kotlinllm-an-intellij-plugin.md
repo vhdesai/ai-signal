@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/
 url_canonical: https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 5ad8bb41d769528ac67ce0dcb381809c9909155b466045f29d6af2cb242e9467
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a
 - 2026-08-28-vercel-open-sources-vgpu-for-webgpu-shaders
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
-embedding_id: null
+embedding_id: 2026-07-31-jetbrains-research-open-sources-kotlinllm-an-intellij-plugin
 event_name: ''
 ---
 

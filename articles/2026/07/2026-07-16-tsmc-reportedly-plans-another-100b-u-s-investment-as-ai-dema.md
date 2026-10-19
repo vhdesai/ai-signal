@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema
 event_name: ''
 ---
 

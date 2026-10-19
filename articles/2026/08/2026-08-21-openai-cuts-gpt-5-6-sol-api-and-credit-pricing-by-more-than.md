@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-openai-answers-with-gpt-6-sol-and-luna-halving-api-prices
 - 2026-07-31-openai-crosses-1-billion-users-after-cutting-gpt-5-6-prices
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
-embedding_id: null
+embedding_id: 2026-08-21-openai-cuts-gpt-5-6-sol-api-and-credit-pricing-by-more-than
 event_name: ''
 ---
 

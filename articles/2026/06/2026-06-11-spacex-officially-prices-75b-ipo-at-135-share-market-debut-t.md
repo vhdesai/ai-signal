@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-10-spacex-ipo-begins-trading-today-75b-raise-at-1-75t-valuation
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
-embedding_id: null
+embedding_id: 2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t
 event_name: ''
 ---
 

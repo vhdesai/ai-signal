@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w
 event_name: ''
 ---
 

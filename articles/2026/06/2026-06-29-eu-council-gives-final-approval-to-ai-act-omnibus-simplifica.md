@@ -4,8 +4,8 @@ title: EU Council gives final approval to AI Act “Omnibus” simplification
 date: '2026-06-29'
 source: Council of the EU
 url_original: https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/
-url_canonical: https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/
-url_status: broken
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260/
+url_status: repaired
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: b8f37ca7e48c7833a4d2c8f161b296f3cdd085656f104f67cf94c65986d8278c
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 - 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
-embedding_id: null
+embedding_id: 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 event_name: ''
 ---
 

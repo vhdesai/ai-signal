@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-embedding_id: null
+embedding_id: 2026-09-14-chinese-consortium-publishes-5-stage-roadmap-for-recursive-s
 event_name: ''
 ---
 

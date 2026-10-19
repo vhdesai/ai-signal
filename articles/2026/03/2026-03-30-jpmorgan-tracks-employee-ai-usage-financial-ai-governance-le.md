@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
-embedding_id: null
+embedding_id: 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 event_name: ''
 ---
 

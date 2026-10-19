@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-05-hon-hai-precision-foxconn-nvidia-s-key-server-assembly-partn
 event_name: ''
 ---
 

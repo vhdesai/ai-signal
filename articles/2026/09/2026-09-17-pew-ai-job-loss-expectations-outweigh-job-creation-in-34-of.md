@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-embedding_id: null
+embedding_id: 2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of
 event_name: ''
 ---
 

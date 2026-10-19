@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-marvell-framed-as-a-key-beneficiary-of-the-ai-factory-decade
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
-embedding_id: null
+embedding_id: 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
 event_name: ''
 ---
 

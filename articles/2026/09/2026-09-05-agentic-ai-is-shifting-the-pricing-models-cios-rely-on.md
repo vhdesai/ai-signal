@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su
 - 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
-embedding_id: null
+embedding_id: 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 event_name: ''
 ---
 

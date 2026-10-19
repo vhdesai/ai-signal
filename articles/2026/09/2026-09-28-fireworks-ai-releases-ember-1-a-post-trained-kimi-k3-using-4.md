@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-us
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-28-fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-using-4
 event_name: ''
 ---
 

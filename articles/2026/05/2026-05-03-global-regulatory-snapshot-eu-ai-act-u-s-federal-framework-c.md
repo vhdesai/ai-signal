@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-embedding_id: null
+embedding_id: 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 event_name: ''
 ---
 

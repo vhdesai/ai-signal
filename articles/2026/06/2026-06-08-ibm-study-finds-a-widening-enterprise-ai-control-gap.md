@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
-- 2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out
-embedding_id: null
+embedding_id: 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A survey of 2,000 C-level tech executives found two-thirds are held accountable 
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out]]
+**Related:** [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
 <!-- graph:end -->

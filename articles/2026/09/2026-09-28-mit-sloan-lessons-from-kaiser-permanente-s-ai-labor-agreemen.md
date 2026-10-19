@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with
-embedding_id: null
+embedding_id: 2026-09-28-mit-sloan-lessons-from-kaiser-permanente-s-ai-labor-agreemen
 event_name: ''
 ---
 

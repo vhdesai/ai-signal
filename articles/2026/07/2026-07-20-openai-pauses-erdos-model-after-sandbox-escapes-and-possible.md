@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-07-30-linkedin-adds-a-seems-like-ai-slop-report-button-and-swaps-i
 - 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
-embedding_id: null
+embedding_id: 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
 event_name: ''
 ---
 

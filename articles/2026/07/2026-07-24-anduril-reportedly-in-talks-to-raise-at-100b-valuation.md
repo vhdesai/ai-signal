@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-embedding_id: null
+embedding_id: 2026-07-24-anduril-reportedly-in-talks-to-raise-at-100b-valuation
 event_name: ''
 ---
 

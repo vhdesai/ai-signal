@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
 - 2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model
+- 2026-10-14-eight-states-challenge-openai-s-safety-representations
 - 2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
-embedding_id: null
+embedding_id: 2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Florida became the first U.S. state to sue OpenAI and CEO Sam Altman, alleging t
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model]] · [[2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]]
+**Related:** [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety]] · [[2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model]] · [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

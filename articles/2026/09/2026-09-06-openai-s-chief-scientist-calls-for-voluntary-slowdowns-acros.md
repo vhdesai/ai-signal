@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-openai-s-chief-scientist-calls-for-voluntary-slowdowns-acros
 event_name: ''
 ---
 

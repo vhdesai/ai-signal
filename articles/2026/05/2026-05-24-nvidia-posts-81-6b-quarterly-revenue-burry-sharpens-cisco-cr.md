@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
-embedding_id: null
+embedding_id: 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
 event_name: ''
 ---
 

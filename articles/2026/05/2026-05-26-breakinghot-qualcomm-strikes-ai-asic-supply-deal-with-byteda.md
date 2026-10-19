@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 - 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
-embedding_id: null
+embedding_id: 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 event_name: ''
 ---
 

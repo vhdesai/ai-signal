@@ -4,8 +4,8 @@ title: SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic
 date: '2026-06-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+IPO+74+days+OpenAI+Anthropic
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=SpaceX+IPO+74+days+OpenAI+Anthropic
-url_status: broken
+url_canonical: https://www.tradingkey.com/analysis/stocks/us-stocks/261981815-spacex-74-day-ipo-can-openai-and-anthropic-replicate-feat-tradingkey
+url_status: repaired
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 47c4a30bb11d0519b3cc26e30355a691c433481fcefebfead062a41e15cb299d
 normalized_title_hash: b7b9f54d54d3f8b5
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-08-24-anthropic-s-ipo-could-break-spacex-s-recordtrending
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-embedding_id: null
+embedding_id: 2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic
 event_name: ''
 ---
 

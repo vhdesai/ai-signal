@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
 - 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
 - 2026-09-23-september-24-2026
-embedding_id: null
+embedding_id: 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
 event_name: ''
 ---
 

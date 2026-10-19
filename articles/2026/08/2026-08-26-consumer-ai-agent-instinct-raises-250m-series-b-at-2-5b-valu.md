@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 event_name: ''
 ---
 

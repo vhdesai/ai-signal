@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-08-claude-generates-animated-explainers-and-live-dashboards-fro
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
-embedding_id: null
+embedding_id: 2026-10-08-claude-adds-text-to-dashboard-and-text-to-video-beta-feature
 event_name: ''
 ---
 

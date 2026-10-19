@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
-embedding_id: null
+embedding_id: 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-07-24-anthropic-launches-claude-opus-5-a-cheaper-agent-focused-fla
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-embedding_id: null
+embedding_id: 2026-07-24-daily-ai-news-digest-july-25-2026
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
-embedding_id: null
+embedding_id: 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 event_name: ''
 ---
 

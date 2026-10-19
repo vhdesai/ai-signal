@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-04-13-ai-safety-policy
 - 2026-09-03-daily-ai-news-digest-september-4-2026
-embedding_id: null
+embedding_id: 2026-09-14-scienaptic-ai-launches-elevate-conference-for-credit-union-l
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-03-google-deepmind-releases-weathernext-3-with-hourly-5-km-fore
 - 2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h
 - 2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w
-embedding_id: null
+embedding_id: 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
 event_name: ''
 ---
 

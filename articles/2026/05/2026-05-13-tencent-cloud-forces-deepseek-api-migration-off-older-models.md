@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-27-
 - 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 - 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
-embedding_id: null
+embedding_id: 2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models
 event_name: ''
 ---
 

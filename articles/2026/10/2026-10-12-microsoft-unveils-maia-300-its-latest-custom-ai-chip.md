@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 - 2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip
 - 2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at
-embedding_id: null
+embedding_id: 2026-10-12-microsoft-unveils-maia-300-its-latest-custom-ai-chip
 event_name: ''
 ---
 

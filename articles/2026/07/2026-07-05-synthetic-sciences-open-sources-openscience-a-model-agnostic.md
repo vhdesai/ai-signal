@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi
-embedding_id: null
+embedding_id: 2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-embedding_id: null
+embedding_id: 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 event_name: ''
 ---
 

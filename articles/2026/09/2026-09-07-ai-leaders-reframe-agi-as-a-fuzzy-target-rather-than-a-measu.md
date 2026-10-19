@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: null
+embedding_id: 2026-09-07-ai-leaders-reframe-agi-as-a-fuzzy-target-rather-than-a-measu
 event_name: ''
 ---
 

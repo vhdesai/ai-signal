@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
-embedding_id: null
+embedding_id: 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 event_name: ''
 ---
 

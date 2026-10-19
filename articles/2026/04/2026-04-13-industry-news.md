@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
-embedding_id: null
+embedding_id: 2026-04-13-industry-news
 event_name: ''
 ---
 

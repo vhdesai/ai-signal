@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: arXiv
 url_original: https://arxivlens.com/category/cs-ai
 url_canonical: https://arxivlens.com/category/cs-ai
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 9faeca421553c9575fb0c9c23b9c7933d09c7993bde0e240badb6746f8c4d756
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-18-openai-small-doses-of-beneficial-trait-training-make-models
 - 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
-embedding_id: null
+embedding_id: 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
 event_name: ''
 ---
 

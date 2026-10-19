@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 - 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
-embedding_id: null
+embedding_id: 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
 event_name: ''
 ---
 

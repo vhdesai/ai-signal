@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
-embedding_id: null
+embedding_id: 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 event_name: ''
 ---
 

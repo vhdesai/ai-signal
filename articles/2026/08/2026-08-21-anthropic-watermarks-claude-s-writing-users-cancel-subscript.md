@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
 event_name: ''
 ---
 

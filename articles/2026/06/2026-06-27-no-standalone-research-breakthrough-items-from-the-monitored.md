@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
-embedding_id: null
+embedding_id: 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
 event_name: ''
 ---
 

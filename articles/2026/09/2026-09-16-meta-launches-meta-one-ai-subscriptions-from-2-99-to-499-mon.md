@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-16-meta-launches-meta-one-ai-subscriptions-at-2-99-499-month
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
 event_name: ''
 ---
 

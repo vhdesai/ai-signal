@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
-embedding_id: null
+embedding_id: 2026-04-02-source-all-about-lawyer-the-neuron
 event_name: ''
 ---
 

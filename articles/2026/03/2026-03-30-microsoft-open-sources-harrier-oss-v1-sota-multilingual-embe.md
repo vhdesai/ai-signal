@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
-embedding_id: null
+embedding_id: 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
 event_name: ''
 ---
 

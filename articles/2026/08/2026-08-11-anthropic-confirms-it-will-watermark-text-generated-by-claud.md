@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
 - 2026-08-13-anthropic-to-watermark-all-claude-output-for-eu-ai-act-compl
 - 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
-embedding_id: null
+embedding_id: 2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud
 event_name: ''
 ---
 

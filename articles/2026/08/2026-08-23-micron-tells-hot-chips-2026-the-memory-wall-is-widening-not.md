@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 - 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 - 2026-09-24-micron-ends-2gb-gddr7-production-narrowing-an-already-tight
-embedding_id: null
+embedding_id: 2026-08-23-micron-tells-hot-chips-2026-the-memory-wall-is-widening-not
 event_name: ''
 ---
 

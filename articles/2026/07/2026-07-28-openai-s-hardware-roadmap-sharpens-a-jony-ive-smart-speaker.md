@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400
 - 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
 - 2026-07-14-openai-s-first-hardware-device-is-reportedly-a-movable-scree
-embedding_id: null
+embedding_id: 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 event_name: ''
 ---
 

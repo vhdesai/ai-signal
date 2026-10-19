@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-softbank-in-talks-to-buy-majority-stake-in-humanoid-maker-1x
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
-embedding_id: null
+embedding_id: 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 event_name: ''
 ---
 

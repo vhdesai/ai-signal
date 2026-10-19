@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-embedding_id: null
+embedding_id: 2026-09-18-rhodium-top-chinese-ai-models-generate-10-of-openai-anthropi
 event_name: ''
 ---
 

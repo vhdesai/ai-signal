@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
-embedding_id: null
+embedding_id: 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 event_name: ''
 ---
 

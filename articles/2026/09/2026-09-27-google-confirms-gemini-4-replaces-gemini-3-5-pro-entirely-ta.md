@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 - 2026-09-25-google-plans-gemini-4-release-before-year-end
-embedding_id: null
+embedding_id: 2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta
 event_name: ''
 ---
 

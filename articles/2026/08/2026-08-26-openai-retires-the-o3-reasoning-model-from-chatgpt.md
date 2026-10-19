@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
-embedding_id: null
+embedding_id: 2026-08-26-openai-retires-the-o3-reasoning-model-from-chatgpt
 event_name: ''
 ---
 

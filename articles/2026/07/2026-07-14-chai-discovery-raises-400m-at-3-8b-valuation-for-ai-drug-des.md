@@ -4,8 +4,8 @@ title: Chai Discovery Raises $400M at $3.8B Valuation for AI Drug Design
 date: '2026-07-14'
 source: The New York Times (DealBook)**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.biospace.com/press-releases/chai-discovery-announces-400m-series-c-to-advance-ai-driven-molecular-design
+url_status: repaired
 digest_source: digests\raw\2026-07-14_065042_Final-Daily-AI-News-Digest.md
 content_hash: 46732a77519089fac374a4b711d84f11527e0e61c29a57de9c6e512f0ca17183
 normalized_title_hash: 730bbaf52226a200
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-chai-discovery-raises-400m-at-3-8b-valuation-for-ai-drug-des
 event_name: ''
 ---
 

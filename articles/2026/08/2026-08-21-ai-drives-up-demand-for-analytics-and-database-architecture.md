@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 - 2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
-embedding_id: null
+embedding_id: 2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture
 event_name: ''
 ---
 

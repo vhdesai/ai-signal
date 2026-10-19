@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-31-openai-moves-to-cut-cursor-s-access-to-its-models-following
 - 2026-08-28-openai-moves-to-cut-cursor-off-from-its-models-after-spacex
 - 2026-08-29-openai-will-terminate-cursor-s-model-access-on-november-12-a
-embedding_id: null
+embedding_id: 2026-08-29-openai-to-cut-off-model-access-for-spacex-owned-cursor
 event_name: ''
 ---
 

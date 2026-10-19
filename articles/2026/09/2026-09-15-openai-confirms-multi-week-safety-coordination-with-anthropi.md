@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
-embedding_id: null
+embedding_id: 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 event_name: ''
 ---
 

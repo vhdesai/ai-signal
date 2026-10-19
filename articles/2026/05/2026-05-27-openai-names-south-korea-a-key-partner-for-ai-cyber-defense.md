@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 - 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
-embedding_id: null
+embedding_id: 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
 event_name: ''
 ---
 

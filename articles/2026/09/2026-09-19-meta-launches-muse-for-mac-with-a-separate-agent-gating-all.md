@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 - 2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c
-embedding_id: null
+embedding_id: 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 event_name: ''
 ---
 

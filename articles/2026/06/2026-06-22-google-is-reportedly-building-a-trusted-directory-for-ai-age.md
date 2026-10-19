@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
 - 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
 - 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
-embedding_id: null
+embedding_id: 2026-06-22-google-is-reportedly-building-a-trusted-directory-for-ai-age
 event_name: ''
 ---
 

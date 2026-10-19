@@ -4,8 +4,8 @@ title: Alibaba to Embed Qwen AI Directly Into Taobao & Tmall Agentic Commerce Tr
 date: '2026-05-18'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.alibabagroup.com/en-US/document-1991231293551017984
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 83c572c4b1d59ebcfd066da12f4400375dea8311fa9e6780787777eb48d1381a
@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
 event_name: ''
 ---
 

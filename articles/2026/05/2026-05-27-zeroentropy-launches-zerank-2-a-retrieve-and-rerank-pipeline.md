@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
-embedding_id: null
+embedding_id: 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 event_name: ''
 ---
 

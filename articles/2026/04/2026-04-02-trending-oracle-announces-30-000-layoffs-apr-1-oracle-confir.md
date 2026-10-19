@@ -5,8 +5,8 @@ title: '[TRENDING] Oracle Announces 30,000 Layoffs (Apr 1) Oracle confirmed plan
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techrepublic.com/article/news-oracle-thousands-layoffs-ai-data-center-spending/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2df9fc1b4f01c47109b63f04aacb5183df51d92ad5f5a2025d4c63ad89dc44ea
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-oracle-begins-layoffs-as-ellison-cancels-7-5b-stock-sale
 - 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
-embedding_id: null
+embedding_id: 2026-04-02-trending-oracle-announces-30-000-layoffs-apr-1-oracle-confir
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 - 2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c
 - 2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital
-embedding_id: null
+embedding_id: 2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la
 event_name: ''
 ---
 

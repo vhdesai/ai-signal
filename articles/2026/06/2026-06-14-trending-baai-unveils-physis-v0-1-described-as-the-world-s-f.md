@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-embedding_id: null
+embedding_id: 2026-06-14-trending-baai-unveils-physis-v0-1-described-as-the-world-s-f
 event_name: ''
 ---
 

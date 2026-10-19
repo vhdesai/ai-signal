@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-embedding_id: null
+embedding_id: 2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w
 event_name: ''
 ---
 

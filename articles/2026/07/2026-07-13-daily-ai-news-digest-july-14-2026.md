@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-07-26-daily-ai-news-digest-july-27-2026
-embedding_id: null
+embedding_id: 2026-07-13-daily-ai-news-digest-july-14-2026
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
 event_name: ''
 ---
 

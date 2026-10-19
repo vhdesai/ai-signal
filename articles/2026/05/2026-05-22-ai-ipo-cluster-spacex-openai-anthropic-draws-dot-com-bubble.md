@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
 - 2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe
-embedding_id: null
+embedding_id: 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-07-microsoft-s-project-zenith-brings-ai-generated-native-winui
 - 2026-09-07-microsoft-rolls-out-ai-native-winui-3-app-generation-for-win
 - 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
-embedding_id: null
+embedding_id: 2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device
 event_name: ''
 ---
 

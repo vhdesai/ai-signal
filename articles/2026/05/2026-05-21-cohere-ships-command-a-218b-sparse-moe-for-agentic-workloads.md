@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 - 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
-embedding_id: null
+embedding_id: 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 event_name: ''
 ---
 

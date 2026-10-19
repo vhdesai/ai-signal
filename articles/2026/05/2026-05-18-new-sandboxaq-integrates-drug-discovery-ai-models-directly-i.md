@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 - 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
-embedding_id: null
+embedding_id: 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
 event_name: ''
 ---
 

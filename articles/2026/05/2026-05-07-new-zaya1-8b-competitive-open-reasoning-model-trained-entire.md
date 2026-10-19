@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
-embedding_id: null
+embedding_id: 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 event_name: ''
 ---
 

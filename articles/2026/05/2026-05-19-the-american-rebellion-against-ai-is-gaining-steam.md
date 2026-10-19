@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-embedding_id: null
+embedding_id: 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: 'Crunchbase confirmed Q1 2026 shattered all global VC records: $300B acro
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 63296c8024cd895967b8f5b32cc1aa20e0e2619c53dcddb47212645b442b00c9
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
-embedding_id: null
+embedding_id: 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 event_name: ''
 ---
 

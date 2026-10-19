@@ -5,8 +5,8 @@ title: NVIDIA introduced HORIZON, an autonomous agent framework that treats each
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2606.28279
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: a6307450d94ee1b20bf0573f27b3387ef284e2f3c8dd848b3575ba1ea0d825b5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 - 2026-06-19-nvidia-s-research-lab-published-details-on-enpire-a-platform
-embedding_id: null
+embedding_id: 2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that
 event_name: ''
 ---
 

@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-embedding_id: null
+embedding_id: 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 event_name: ''
 ---
 

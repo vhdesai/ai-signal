@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-prime-intellect-open-sources-prime-agent-an-rsi-harness-scor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes
 event_name: ''
 ---
 

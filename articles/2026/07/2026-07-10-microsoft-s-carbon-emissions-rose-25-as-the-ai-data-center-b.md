@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032
 - 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 - 2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim
-embedding_id: null
+embedding_id: 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
 event_name: ''
 ---
 

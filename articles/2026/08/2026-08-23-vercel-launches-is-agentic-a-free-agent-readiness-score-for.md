@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
-embedding_id: null
+embedding_id: 2026-08-23-vercel-launches-is-agentic-a-free-agent-readiness-score-for
 event_name: ''
 ---
 

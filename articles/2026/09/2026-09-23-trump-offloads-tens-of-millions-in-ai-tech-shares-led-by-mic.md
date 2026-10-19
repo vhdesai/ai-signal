@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 - 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-embedding_id: null
+embedding_id: 2026-09-23-trump-offloads-tens-of-millions-in-ai-tech-shares-led-by-mic
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
-embedding_id: null
+embedding_id: 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 event_name: ''
 ---
 

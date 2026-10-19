@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
-embedding_id: null
+embedding_id: 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
 event_name: ''
 ---
 

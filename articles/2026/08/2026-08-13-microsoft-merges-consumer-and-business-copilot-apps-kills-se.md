@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
-embedding_id: null
+embedding_id: 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
 event_name: ''
 ---
 

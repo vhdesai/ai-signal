@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 - 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
-embedding_id: null
+embedding_id: 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 event_name: ''
 ---
 

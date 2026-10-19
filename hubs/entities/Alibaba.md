@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 449
+member_count: 450
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 449 connected article(s).
+> Auto-generated entity hub. 450 connected article(s).
 
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off|Companies still cannot prove their AI spending pays off]]

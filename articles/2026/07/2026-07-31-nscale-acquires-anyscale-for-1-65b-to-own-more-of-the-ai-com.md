@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of
 - 2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute
-embedding_id: null
+embedding_id: 2026-07-31-nscale-acquires-anyscale-for-1-65b-to-own-more-of-the-ai-com
 event_name: ''
 ---
 

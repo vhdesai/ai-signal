@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-microsoft-merges-consumer-and-business-copilot-apps-kills-se
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
-embedding_id: null
+embedding_id: 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 event_name: ''
 ---
 

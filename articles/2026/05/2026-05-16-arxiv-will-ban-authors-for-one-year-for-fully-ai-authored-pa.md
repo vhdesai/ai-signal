@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa
 event_name: ''
 ---
 

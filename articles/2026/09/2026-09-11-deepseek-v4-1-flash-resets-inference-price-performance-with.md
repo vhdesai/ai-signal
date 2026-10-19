@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 - 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 - 2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture
-embedding_id: null
+embedding_id: 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 event_name: ''
 ---
 

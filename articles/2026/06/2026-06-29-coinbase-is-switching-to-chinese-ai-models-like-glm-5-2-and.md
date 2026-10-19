@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
 - 2026-08-31-z-ai-first-half-revenue-rises-nearly-fivefold-but-misses-tar
 - 2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f
-embedding_id: null
+embedding_id: 2026-06-29-coinbase-is-switching-to-chinese-ai-models-like-glm-5-2-and
 event_name: ''
 ---
 

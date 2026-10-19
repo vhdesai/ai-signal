@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
+- 2026-07-25-ai-moves-into-family-life
+- 2026-10-14-ai-home-hardware-heads-toward-the-holiday-market
+- 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
+- 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
+embedding_id: 2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ Axios examines Apple’s new HomeView smart display and broader smart-home push.
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]] · [[2026-07-25-ai-moves-into-family-life]] · [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market]] · [[2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
 <!-- graph:end -->

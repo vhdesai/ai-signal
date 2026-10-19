@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
-embedding_id: null
+embedding_id: 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 event_name: ''
 ---
 

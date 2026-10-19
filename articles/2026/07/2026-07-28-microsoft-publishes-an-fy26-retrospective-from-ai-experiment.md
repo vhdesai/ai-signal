@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-microsoft-closes-up-for-2026-finally
 - 2026-08-21-bcc-research-ai-moved-from-experimentation-to-embedded-infra
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-embedding_id: null
+embedding_id: 2026-07-28-microsoft-publishes-an-fy26-retrospective-from-ai-experiment
 event_name: ''
 ---
 

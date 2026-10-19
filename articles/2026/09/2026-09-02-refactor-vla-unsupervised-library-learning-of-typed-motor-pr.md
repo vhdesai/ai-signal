@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
-embedding_id: null
+embedding_id: 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 event_name: ''
 ---
 

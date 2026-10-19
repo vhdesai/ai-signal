@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-embedding_id: null
+embedding_id: 2026-10-13-delaware-hub-dedicated-to-human-ai-cooperation-launched-with
 event_name: ''
 ---
 

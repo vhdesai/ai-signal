@@ -4,8 +4,8 @@ title: Goldman Sachs Projects SpaceX AI Revenue to Surge 100-Fold by 2030
 date: '2026-06-04'
 source: Reuters (via FT); Tokenist
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-predicts-spacex-revenue-163126173.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 10b2e3c086754e7ef1bcfed3a09bc73231b54123d59a1a6dba1a278e9ad8682f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-27-goldman-sachs-lifts-2027-hyperscaler-ai-capex-forecast-to-1
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-embedding_id: null
+embedding_id: 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-moonshot-ai-opens-kimi-k3-weights-for-public-download
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
 event_name: ''
 ---
 

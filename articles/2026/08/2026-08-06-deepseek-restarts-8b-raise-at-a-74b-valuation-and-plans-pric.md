@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 event_name: ''
 ---
 

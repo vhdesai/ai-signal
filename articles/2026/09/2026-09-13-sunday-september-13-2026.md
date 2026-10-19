@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
 - 2026-09-14-monday-september-14-2026
-embedding_id: null
+embedding_id: 2026-09-13-sunday-september-13-2026
 event_name: ''
 ---
 

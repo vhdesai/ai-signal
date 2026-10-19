@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-to-invest-5b-in-ilya-sutskever-s-safe-superintelligen
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell
 event_name: ''
 ---
 

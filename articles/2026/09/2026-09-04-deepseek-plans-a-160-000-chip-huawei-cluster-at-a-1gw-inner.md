@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-04-hot-deepseek-to-deploy-160-000-huawei-ascend-chips-in-inner
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-09-04-deepseek-plans-major-huawei-chip-order-for-new-ai-data-cente
-embedding_id: null
+embedding_id: 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 event_name: ''
 ---
 

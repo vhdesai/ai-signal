@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t
-embedding_id: null
+embedding_id: 2026-09-23-enveda-raises-311m-at-a-2b-valuation-for-nature-derived-ai-d
 event_name: ''
 ---
 

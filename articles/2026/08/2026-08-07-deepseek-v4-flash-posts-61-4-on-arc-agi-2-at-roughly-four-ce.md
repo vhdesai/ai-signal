@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 - 2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-embedding_id: null
+embedding_id: 2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce
 event_name: ''
 ---
 

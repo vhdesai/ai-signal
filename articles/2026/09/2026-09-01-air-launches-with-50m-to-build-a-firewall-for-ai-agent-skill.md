@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
 event_name: ''
 ---
 

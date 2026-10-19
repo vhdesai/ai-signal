@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
 - 2026-08-21-anthropic-watermarks-claude-s-writing-some-users-cancel-subs
 - 2026-08-21-anthropic-watermarks-claude-s-writing-users-cancel-subscript
-embedding_id: null
+embedding_id: 2026-08-15-claude-subscribers-cancel-over-the-new-watermark
 event_name: ''
 ---
 

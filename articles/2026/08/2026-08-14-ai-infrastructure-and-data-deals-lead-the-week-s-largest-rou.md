@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals
 - 2026-08-28-ai-assistants-lead-a-thinner-week-of-megadeals
 - 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
-embedding_id: null
+embedding_id: 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
-embedding_id: null
+embedding_id: 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 event_name: ''
 ---
 

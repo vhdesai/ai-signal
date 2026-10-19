@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-24-bytedance-merges-ai-teams-to-compete-with-tencenttrending
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
-embedding_id: null
+embedding_id: 2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence
 event_name: ''
 ---
 

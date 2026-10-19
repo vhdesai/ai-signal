@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-embedding_id: null
+embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
 

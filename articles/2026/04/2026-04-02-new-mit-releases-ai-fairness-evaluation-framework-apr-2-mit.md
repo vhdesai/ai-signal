@@ -5,8 +5,8 @@ title: '[NEW] MIT Releases AI Fairness Evaluation Framework (Apr 2) MIT research
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://smart-labs.cloud/designing-for-fairness-implementing-mit-s-ethical-testing-fr
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 43367b77e1930413de7515cc80a162e34bfcc157c355b43d7823d2f87b02c4de
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
-embedding_id: null
+embedding_id: 2026-04-02-new-mit-releases-ai-fairness-evaluation-framework-apr-2-mit
 event_name: ''
 ---
 

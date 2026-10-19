@@ -4,8 +4,8 @@ title: Vatican to release papal encyclical on AI alongside Anthropic co-founder
 date: '2026-05-20'
 source: National Catholic Reporter · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ncronline.org/vatican/vatican-news/pope-leo-anthropic-co-founder-call-church-tech-ethics-partnership-magnifica
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a66af15022d94c750ca7b7466e6b67a24a7bb9f25a201a65bcf96173b8964f16
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
-embedding_id: null
+embedding_id: 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
 event_name: ''
 ---
 

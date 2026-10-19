@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-06-lambda-seeks-a-4b-round-before-a-planned-ipo-keeping-neoclou
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-06-lambda-seeks-up-to-4b-ahead-of-planned-2027-ipo
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-embedding_id: null
+embedding_id: 2026-05-09-sources-cnbc-wall-street-journal-the-decoder-ars-technica-te
 event_name: ''
 ---
 

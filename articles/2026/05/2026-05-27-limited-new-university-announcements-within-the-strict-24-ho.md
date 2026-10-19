@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
-embedding_id: null
+embedding_id: 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
 - 2026-08-07-mistral-releases-shieldstral-1-0-a-3b-safety-classifier-matc
 - 2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model
-embedding_id: null
+embedding_id: 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
 event_name: ''
 ---
 

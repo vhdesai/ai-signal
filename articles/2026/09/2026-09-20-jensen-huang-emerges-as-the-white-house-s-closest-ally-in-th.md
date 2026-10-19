@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
-embedding_id: null
+embedding_id: 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 event_name: ''
 ---
 

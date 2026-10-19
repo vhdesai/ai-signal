@@ -5,8 +5,8 @@ title: Anduril raises $5B, valuation doubles to $61B — TechCrunch, May 13, 202
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: eb9bb80c344d45d45b6e77ba337c2e6bc5222037514ea9cbeab20d17059e2800
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 - 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
 - 2026-06-18-baseten-nears-1-5b-round-at-13b-valuation
-embedding_id: null
+embedding_id: 2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13
 event_name: ''
 ---
 

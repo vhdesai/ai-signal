@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
-embedding_id: null
+embedding_id: 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 event_name: ''
 ---
 

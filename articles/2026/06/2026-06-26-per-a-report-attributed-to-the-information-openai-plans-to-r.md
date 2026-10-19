@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-embedding_id: null
+embedding_id: 2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r
 event_name: ''
 ---
 

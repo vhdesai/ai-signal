@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: null
+embedding_id: 2026-09-03-ollie-bets-privacy-positioning-can-win-the-ai-assistant-race
 event_name: ''
 ---
 

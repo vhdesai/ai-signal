@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-emerald-ai-raises-150m-at-1-05b-to-make-data-centers-flexibl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen
 event_name: ''
 ---
 

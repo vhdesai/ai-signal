@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-06-daily-ai-news-digest-september-7-2026
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
-embedding_id: null
+embedding_id: 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 event_name: ''
 ---
 

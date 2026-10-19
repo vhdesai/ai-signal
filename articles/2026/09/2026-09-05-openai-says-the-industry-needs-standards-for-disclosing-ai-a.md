@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-openai-to-build-a-misalignment-incident-reporting-framework
 - 2026-09-05-independent-coverage-frames-the-incident-as-an-eu-code-of-pr
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
-embedding_id: null
+embedding_id: 2026-09-05-openai-says-the-industry-needs-standards-for-disclosing-ai-a
 event_name: ''
 ---
 

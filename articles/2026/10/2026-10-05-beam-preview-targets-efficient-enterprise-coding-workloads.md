@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context
-embedding_id: null
+embedding_id: 2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads
 event_name: ''
 ---
 

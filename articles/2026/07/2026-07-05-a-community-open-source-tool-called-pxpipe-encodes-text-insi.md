@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 - 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
-embedding_id: null
+embedding_id: 2026-07-05-a-community-open-source-tool-called-pxpipe-encodes-text-insi
 event_name: ''
 ---
 

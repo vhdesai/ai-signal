@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-embedding_id: null
+embedding_id: 2026-09-02-xai-resets-free-grok-token-limits-grok-4-7-teased-for-mid-se
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-09-11'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/
 url_canonical: https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_060708_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: e3b53cca7e6670a91a62624df6eed07949a80e9bf7c86f2057f3c4b835682822
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 - 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
-- 2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their
-embedding_id: null
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
+embedding_id: 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ HarnessDev grades the runnable agent harness a model builds rather than the answ
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their]]
+**Related:** [[2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste]] · [[2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
 <!-- graph:end -->

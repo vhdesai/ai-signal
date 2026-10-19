@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
 - 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
-embedding_id: null
+embedding_id: 2026-09-21-thales-unveils-hexaforce-as-european-sovereign-alternative-t
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
-embedding_id: null
+embedding_id: 2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w
 event_name: ''
 ---
 

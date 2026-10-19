@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op
-embedding_id: null
+embedding_id: 2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric
 event_name: ''
 ---
 

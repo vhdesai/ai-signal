@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-xai-launches-grok-integration-in-kilo-code
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
-embedding_id: null
+embedding_id: 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 event_name: ''
 ---
 

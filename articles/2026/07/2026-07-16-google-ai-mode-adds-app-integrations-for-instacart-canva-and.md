@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-08-27-google-ai-mode-adds-flight-price-tracking-and-hotel-booking
-embedding_id: null
+embedding_id: 2026-07-16-google-ai-mode-adds-app-integrations-for-instacart-canva-and
 event_name: ''
 ---
 

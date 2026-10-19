@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-more-than-100-researchers-including-hinton-demand-independen
 event_name: ''
 ---
 

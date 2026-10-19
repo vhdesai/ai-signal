@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-embedding_id: null
+embedding_id: 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 event_name: ''
 ---
 

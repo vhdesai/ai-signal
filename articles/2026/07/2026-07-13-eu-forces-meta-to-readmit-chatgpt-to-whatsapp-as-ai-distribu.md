@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
-embedding_id: null
+embedding_id: 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-18-nvidia-ceo-forecasts-chip-sales-will-double-in-2027
 event_name: ''
 ---
 

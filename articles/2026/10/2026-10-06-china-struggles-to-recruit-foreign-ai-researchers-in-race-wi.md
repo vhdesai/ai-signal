@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: null
+embedding_id: 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
 event_name: ''
 ---
 

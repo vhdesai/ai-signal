@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
-embedding_id: null
+embedding_id: 2026-09-22-openai-terminates-contractors-who-used-ai-tools-while-rating
 event_name: ''
 ---
 

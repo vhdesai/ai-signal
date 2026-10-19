@@ -4,8 +4,8 @@ title: CMU and Nature publish on AI's effect on research apprenticeship
 date: '2026-05-05'
 source: Nature / CMU
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/nature-index/institution-outputs/united-states-of-america-usa/carnegie-mellon-university-cmu/5139073734d6b65e6a00223d
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: ff811958b016881734a8acf4129675ebc5f781c391d219540bb733712aa81cce
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
-embedding_id: null
+embedding_id: 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 event_name: ''
 ---
 

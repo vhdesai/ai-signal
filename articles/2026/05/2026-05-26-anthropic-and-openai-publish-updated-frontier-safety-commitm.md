@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
 - 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 event_name: ''
 ---
 

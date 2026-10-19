@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-09-11-openai-publishes-cognition-case-study-devin-uses-gpt-6-astra
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
-embedding_id: null
+embedding_id: 2026-09-13-gpt-6-astra-now-beats-human-baseline-on-surveillance-drone-p
 event_name: ''
 ---
 

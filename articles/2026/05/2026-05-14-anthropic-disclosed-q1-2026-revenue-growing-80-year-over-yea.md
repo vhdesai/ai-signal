@@ -5,8 +5,8 @@ title: Anthropic disclosed Q1 2026 revenue growing 80× year-over-year, pushing 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://axis-intelligence.com/anthropic-statistics/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 84dad8548420fbc683c0baf294580bbcb5bd00169020523e9667b7a344293177
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen
 - 2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu
 - 2026-05-07-
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 event_name: ''
 ---
 

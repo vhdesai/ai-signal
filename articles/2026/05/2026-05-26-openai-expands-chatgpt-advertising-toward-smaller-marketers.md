@@ -4,8 +4,8 @@ title: OpenAI expands ChatGPT advertising toward smaller marketers
 date: '2026-05-26'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=openais-next-ad-move-going-small-to-scale-big
-url_status: broken
+url_canonical: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: ad6670b6b3612108dcb5c56b99b258755059d67025fb92ff90bca6d5889173fa
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
-embedding_id: null
+embedding_id: 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 event_name: ''
 ---
 

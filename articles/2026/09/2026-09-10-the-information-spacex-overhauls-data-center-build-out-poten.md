@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-spacex-overhauls-data-center-build-out-under-new-rocket-engi
 - 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: null
+embedding_id: 2026-09-10-the-information-spacex-overhauls-data-center-build-out-poten
 event_name: ''
 ---
 

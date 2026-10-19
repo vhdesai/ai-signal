@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 event_name: ''
 ---
 

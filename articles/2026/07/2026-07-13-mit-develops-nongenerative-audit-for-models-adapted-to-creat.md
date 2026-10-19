@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-mit-develops-gift-to-improve-ai-generated-cad-models-from-2d
 - 2026-08-18-mit-study-ai-generated-images-often-cannot-be-traced-to-any
 - 2026-09-14-mit-s-hardflow-forces-generative-models-to-satisfy-non-negot
-embedding_id: null
+embedding_id: 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 event_name: ''
 ---
 

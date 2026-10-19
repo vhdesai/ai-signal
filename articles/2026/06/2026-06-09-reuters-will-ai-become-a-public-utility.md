@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 - 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 - 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-the
-embedding_id: null
+embedding_id: 2026-06-09-reuters-will-ai-become-a-public-utility
 event_name: ''
 ---
 

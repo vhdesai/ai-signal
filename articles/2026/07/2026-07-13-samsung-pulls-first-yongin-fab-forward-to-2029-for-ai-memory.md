@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-07-13-semiconductors-samsung-capacity
 - 2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans
-embedding_id: null
+embedding_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 event_name: ''
 ---
 

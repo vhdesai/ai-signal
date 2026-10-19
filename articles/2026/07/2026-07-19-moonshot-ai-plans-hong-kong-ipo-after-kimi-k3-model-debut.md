@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut
 event_name: ''
 ---
 

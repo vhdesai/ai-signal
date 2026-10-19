@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-10-04-the-information-ai-agent-hacks-are-setting-up-the-next-legal
-embedding_id: null
+embedding_id: 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 event_name: ''
 ---
 

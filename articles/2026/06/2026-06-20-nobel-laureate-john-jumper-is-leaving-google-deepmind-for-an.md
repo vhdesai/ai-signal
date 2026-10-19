@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-20-john-jumper-the-chemist-and-computer-scientist-who-shared-th
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an
 event_name: ''
 ---
 

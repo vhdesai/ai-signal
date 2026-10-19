@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-insilico-medicine-releases-open-longevity-ai-toolkit-and-lon
 - 2026-09-28-mit-uses-a-small-data-ml-algorithm-to-make-rna-vaccines-stab
 - 2026-10-10-ai-and-living-cell-project-targets-earlier-prediction-of-pro
-embedding_id: null
+embedding_id: 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
 event_name: ''
 ---
 

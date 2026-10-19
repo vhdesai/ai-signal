@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-wsj-examines-the-researchers-behind-china-s-ai-leap
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-08-02-the-race-to-build-an-american-alternative-to-cheap-ai-from-c
-embedding_id: null
+embedding_id: 2026-06-30-a-new-working-paper-from-the-university-of-chicago-s-harris
 event_name: ''
 ---
 

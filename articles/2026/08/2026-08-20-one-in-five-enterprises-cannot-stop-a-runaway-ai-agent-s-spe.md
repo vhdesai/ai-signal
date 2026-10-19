@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-one-in-five-enterprises-can-t-stop-a-runaway-ai-agent-s-spen
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-one-in-five-enterprises-cannot-stop-a-runaway-ai-agent-s-spe
 event_name: ''
 ---
 

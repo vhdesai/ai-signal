@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-08-01-the-ai-brief-august-1-2026
 - 2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
-embedding_id: null
+embedding_id: 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 event_name: ''
 ---
 

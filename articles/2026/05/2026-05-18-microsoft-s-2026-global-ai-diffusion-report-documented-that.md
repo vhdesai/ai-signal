@@ -5,8 +5,8 @@ title: Microsoft's 2026 Global AI Diffusion Report documented that 17.8% of the 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: c1d8f5a3310a255d004669fac524a6e7230a827283be648e8c903265a8a76956
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
-embedding_id: null
+embedding_id: 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
 event_name: ''
 ---
 

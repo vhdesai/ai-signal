@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 - 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
-embedding_id: null
+embedding_id: 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu
-embedding_id: null
+embedding_id: 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 event_name: ''
 ---
 

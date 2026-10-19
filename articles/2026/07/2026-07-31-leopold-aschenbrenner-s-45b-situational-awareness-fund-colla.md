@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 - 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 - 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
-embedding_id: null
+embedding_id: 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
 event_name: ''
 ---
 

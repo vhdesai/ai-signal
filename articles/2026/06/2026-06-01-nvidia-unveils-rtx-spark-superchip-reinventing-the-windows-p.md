@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
-- 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
-embedding_id: null
+- 2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi
+embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ At GTC Taipei, Nvidia introduced the RTX Spark superchip — 1 petaflop of AI co
 
 **Entities:** [[Arm]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026]]
+**Related:** [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window]] · [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi]]
 <!-- graph:end -->

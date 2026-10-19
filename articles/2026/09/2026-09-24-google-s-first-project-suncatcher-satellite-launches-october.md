@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-google-s-first-project-suncatcher-satellite-launches-october
 event_name: ''
 ---
 

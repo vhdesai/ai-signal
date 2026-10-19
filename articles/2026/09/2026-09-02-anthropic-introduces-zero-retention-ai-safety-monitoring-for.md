@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-01-anthropic-debuts-enterprise-frontier-safeguards-with-zero-da
 - 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
-embedding_id: null
+embedding_id: 2026-09-02-anthropic-introduces-zero-retention-ai-safety-monitoring-for
 event_name: ''
 ---
 

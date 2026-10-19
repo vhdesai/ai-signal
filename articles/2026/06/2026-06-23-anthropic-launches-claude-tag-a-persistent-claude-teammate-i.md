@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-embedding_id: null
+embedding_id: 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-embedding_id: null
+embedding_id: 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
 event_name: ''
 ---
 

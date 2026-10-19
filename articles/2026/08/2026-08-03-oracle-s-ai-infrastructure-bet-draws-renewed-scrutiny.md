@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-embedding_id: null
+embedding_id: 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 event_name: ''
 ---
 

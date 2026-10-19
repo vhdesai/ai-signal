@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
-embedding_id: null
+embedding_id: 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 event_name: ''
 ---
 

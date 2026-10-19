@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
-embedding_id: null
+embedding_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 event_name: ''
 ---
 

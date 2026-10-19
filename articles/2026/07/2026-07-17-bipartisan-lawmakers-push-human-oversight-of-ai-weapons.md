@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 - 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-embedding_id: null
+embedding_id: 2026-07-17-bipartisan-lawmakers-push-human-oversight-of-ai-weapons
 event_name: ''
 ---
 

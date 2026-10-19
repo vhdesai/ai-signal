@@ -24,10 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q
 - 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
+- 2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
-embedding_id: null
+embedding_id: 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ The New York Times reports on what the government's fight with Anthropic reveals
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s]]
+**Related:** [[2026-07-13-government-fight-with-anthropic-raises-broader-free-speech-q]] · [[2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated]] · [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

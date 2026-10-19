@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-embedding_id: null
+embedding_id: 2026-07-22-super-micro-surges-on-record-q4-orders-and-a-surprise-margin
 event_name: ''
 ---
 

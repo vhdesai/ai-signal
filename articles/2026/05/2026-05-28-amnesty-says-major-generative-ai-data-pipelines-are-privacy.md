@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-embedding_id: null
+embedding_id: 2026-05-28-amnesty-says-major-generative-ai-data-pipelines-are-privacy
 event_name: ''
 ---
 

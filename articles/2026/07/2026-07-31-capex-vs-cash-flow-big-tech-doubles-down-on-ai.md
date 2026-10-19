@@ -4,8 +4,8 @@ title: 'Capex vs. Cash Flow: Big Tech Doubles Down on AI'
 date: '2026-07-31'
 source: 'Source window: Jul 30, 06:16 – Jul 31, 06:16'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-07-31_062839_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 2071a366b1a9a2965f8a8a91325a77439ab5255a058bfbbc9a22a8ab0a108020
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: null
+embedding_id: 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
 event_name: ''
 ---
 

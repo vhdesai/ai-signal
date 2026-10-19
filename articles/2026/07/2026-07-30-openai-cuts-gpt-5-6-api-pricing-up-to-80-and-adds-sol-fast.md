@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 - 2026-07-30-openai-cuts-gpt-5-6-prices-and-adds-a-faster-sol-mode
 - 2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f
-embedding_id: null
+embedding_id: 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 event_name: ''
 ---
 

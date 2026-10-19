@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-embedding_id: null
+embedding_id: 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 event_name: ''
 ---
 

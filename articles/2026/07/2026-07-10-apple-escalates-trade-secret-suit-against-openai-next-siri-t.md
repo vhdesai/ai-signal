@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
-embedding_id: null
+embedding_id: 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 event_name: ''
 ---
 

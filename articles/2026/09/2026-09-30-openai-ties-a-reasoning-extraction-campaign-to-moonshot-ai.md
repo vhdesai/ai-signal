@@ -5,7 +5,7 @@ date: '2026-09-30'
 source: OpenAI
 url_original: https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/
 url_canonical: https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-01_061253_Inbox_Daily AI News Digest - October
   1, 2026.md
 content_hash: 30c996f3a2aa1c22e39f463d1dba037b20dc57e8682c5227ea783bbf6c235dd8
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
 - 2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
-embedding_id: null
+embedding_id: 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
 event_name: ''
 ---
 

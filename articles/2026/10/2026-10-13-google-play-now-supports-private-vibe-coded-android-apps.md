@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps
 - 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 - 2026-10-05-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
-embedding_id: null
+embedding_id: 2026-10-13-google-play-now-supports-private-vibe-coded-android-apps
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: The Elon Musk vs. Sam Altman civil trial in California has wrapped its ev
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://trial.mts.now/wiki/case-overview
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fd73ce707ef9814fe4613af826e4299ad59af01fea1a88f1473310e8149e5400
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i
-embedding_id: null
+embedding_id: 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 event_name: ''
 ---
 

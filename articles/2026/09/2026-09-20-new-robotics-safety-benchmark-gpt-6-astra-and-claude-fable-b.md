@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-new-roboharm-benchmark-finds-frontier-models-attempt-dangero
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi
-embedding_id: null
+embedding_id: 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 event_name: ''
 ---
 

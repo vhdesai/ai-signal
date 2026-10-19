@@ -4,8 +4,8 @@ title: China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration
 date: '2026-06-22'
 source: DealBook
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/geopolitics/microsoft-deepseek-ai-clash-us-china
+url_status: repaired
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 5084f86bb6d60d91db4c65eeaf49ee26814f8122fc6b1fc39e7f54c66bdc2073
 normalized_title_hash: 0fc36120d82a099c
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
 - 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 - 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
-embedding_id: null
+embedding_id: 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
 event_name: ''
 ---
 

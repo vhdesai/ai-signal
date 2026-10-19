@@ -4,8 +4,8 @@ title: Anthropic moves to close Chinese firms' backdoor access to Claude
 date: '2026-07-03'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.banklesstimes.com/articles/2026/07/03/anthropic-moves-to-block-chinese-firms-using-claude-via-offshore-workarounds/
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 8cf04f49f58663d826b00b864a71fb0aef9613f6157b4630d298e6d33f55f3ee
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 - 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-embedding_id: null
+embedding_id: 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 event_name: ''
 ---
 

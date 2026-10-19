@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 - 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
-embedding_id: null
+embedding_id: 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag
 event_name: ''
 ---
 

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
+- 2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re
-embedding_id: null
+embedding_id: 2026-08-21-google-rolls-out-new-personalization-controls-across-search
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Google introduced a “Preferred Sources” control that lets users prioritize s
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re]]
+**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]]
 <!-- graph:end -->

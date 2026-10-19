@@ -4,8 +4,8 @@ title: Apple Applies Network Science to UMAP's Internal k-Nearest-Neighbor Graph
 date: '2026-07-30'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.kalera.ai/en/articles/apple-tim-ra-cach-khai-thac-do-thi-knn-an-cua-umap-de-hieu-d-story_e0/
+url_status: repaired
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 17b6736b6c6d6778846cb757b8796b26d6905f829a7e6a277ea7c93a07495b75
 normalized_title_hash: 8242d65dcfa9fd94
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-07-06-path-constrained-mixture-of-experts
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-embedding_id: null
+embedding_id: 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 event_name: ''
 ---
 

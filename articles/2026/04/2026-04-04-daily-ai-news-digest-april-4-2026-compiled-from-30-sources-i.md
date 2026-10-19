@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
-embedding_id: null
+embedding_id: 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 event_name: ''
 ---
 

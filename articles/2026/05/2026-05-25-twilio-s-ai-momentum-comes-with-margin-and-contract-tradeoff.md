@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 - 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
-embedding_id: null
+embedding_id: 2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff
 event_name: ''
 ---
 

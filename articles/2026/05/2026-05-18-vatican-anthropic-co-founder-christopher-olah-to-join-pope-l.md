@@ -5,8 +5,8 @@ title: 'Vatican: Anthropic Co-Founder Christopher Olah to Join Pope Leo XI for H
 date: '2026-05-18'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fd8cabd7de925978530773ec1173e28a430078f1ef13007e423c481dcb0a05ad
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
 event_name: ''
 ---
 

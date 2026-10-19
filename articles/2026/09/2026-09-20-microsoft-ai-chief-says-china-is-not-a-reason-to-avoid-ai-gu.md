@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-embedding_id: null
+embedding_id: 2026-09-20-microsoft-ai-chief-says-china-is-not-a-reason-to-avoid-ai-gu
 event_name: ''
 ---
 

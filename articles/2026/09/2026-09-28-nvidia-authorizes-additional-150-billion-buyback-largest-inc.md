@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-nvidia-adds-150-billion-to-its-share-repurchase-authorisatio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-28-nvidia-authorizes-additional-150-billion-buyback-largest-inc
 event_name: ''
 ---
 

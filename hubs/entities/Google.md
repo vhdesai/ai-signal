@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1647
+member_count: 1654
 ---
 
 # Google
 
-> Auto-generated entity hub. 1647 connected article(s).
+> Auto-generated entity hub. 1654 connected article(s).
 
+- `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]
+- `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
+- `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti|Google open-sources Harness² for recursive agent harness optimization]]
+- `2026-10-18` [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie|German courts increasingly hold Google liable for AI Overview outputs]]
+- `2026-10-18` [[2026-10-18-four-gemini-4-argon-agents-beat-minecraft-without-human-help|Four Gemini 4 Argon agents beat Minecraft without human help]]
+- `2026-10-17` [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring|Anthropic report says AI-heavy workflows are changing hiring mix and increasing coordination load]]
 - `2026-10-15` [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ|New research reports that personal AI agents can help networked teams solve complex problems significantly faster. The finding sits in tension with HBR’s warning about weakened team dynamics, suggesting the design of agent use matters. AI can either substitute for collaboration or amplify it depending on workflow, transparency, and team norms.]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-nature-covered-research-finding-that-ai-writing-support-chan|Nature covered research finding that AI writing support changes petition style but does not improve real-world outcomes. The result echoes earlier Cornell reporting: AI can make civic text longer or more polished without making it more effective. It is a valuable reminder that persuasion, trust, and authenticity are not solved by fluent generation alone.]]

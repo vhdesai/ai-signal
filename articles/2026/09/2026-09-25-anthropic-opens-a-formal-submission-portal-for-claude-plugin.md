@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-anthropic-launches-plugins-as-the-primary-path-for-third-par
 - 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-embedding_id: null
+embedding_id: 2026-09-25-anthropic-opens-a-formal-submission-portal-for-claude-plugin
 event_name: ''
 ---
 

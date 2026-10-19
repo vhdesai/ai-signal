@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-embedding_id: null
+embedding_id: 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 event_name: ''
 ---
 

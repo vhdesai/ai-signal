@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-embedding_id: null
+embedding_id: 2026-09-23-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 event_name: ''
 ---
 

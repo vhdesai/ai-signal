@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
 - 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 - 2026-08-21-anthropic-routes-cyber-model-mythos-5-into-claude-security-a
-embedding_id: null
+embedding_id: 2026-07-28-claude-autonomously-finds-new-attacks-on-post-quantum-hawk-a
 event_name: ''
 ---
 

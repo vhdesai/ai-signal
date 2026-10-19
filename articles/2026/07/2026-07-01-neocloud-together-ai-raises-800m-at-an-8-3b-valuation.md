@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
 - 2026-08-17-groq-raises-350m-at-3-5b-valuation-completes-pivot-from-chip
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
-embedding_id: null
+embedding_id: 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 event_name: ''
 ---
 

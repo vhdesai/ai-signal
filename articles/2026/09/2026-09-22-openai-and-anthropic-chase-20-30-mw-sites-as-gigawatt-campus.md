@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-anthropic-and-openai-start-shopping-for-20-30-mw-sites
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-embedding_id: null
+embedding_id: 2026-09-22-openai-and-anthropic-chase-20-30-mw-sites-as-gigawatt-campus
 event_name: ''
 ---
 

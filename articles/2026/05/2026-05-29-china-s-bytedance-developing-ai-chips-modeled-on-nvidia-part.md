@@ -4,8 +4,8 @@ title: China's ByteDance developing AI chips modeled on Nvidia partner Groq
 date: '2026-05-29'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://vff.ai/article/2026/05/29/china-s-bytedance-developing-new-ai-chips-like-those-from-nvidia-partner-groq
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: a02f715b296cbffddc51e3409e8ce2fc5d2a3d9b09cb3ed5c367413c30c32bce
@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 event_name: ''
 ---
 

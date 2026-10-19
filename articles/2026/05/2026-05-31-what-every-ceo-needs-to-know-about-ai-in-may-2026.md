@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 - 2026-05-14-daily-ai-news-digest-may-14-2026
-embedding_id: null
+embedding_id: 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 event_name: ''
 ---
 

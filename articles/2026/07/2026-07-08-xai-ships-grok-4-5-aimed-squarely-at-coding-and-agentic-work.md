@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 event_name: ''
 ---
 

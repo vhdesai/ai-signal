@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
-embedding_id: null
+embedding_id: 2026-04-10-practitioners-who-deployed-agentic-ai-pipelines-in-late-2025
 event_name: ''
 ---
 

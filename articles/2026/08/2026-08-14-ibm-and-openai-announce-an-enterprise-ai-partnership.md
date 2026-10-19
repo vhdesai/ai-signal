@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
-embedding_id: null
+embedding_id: 2026-08-14-ibm-and-openai-announce-an-enterprise-ai-partnership
 event_name: ''
 ---
 

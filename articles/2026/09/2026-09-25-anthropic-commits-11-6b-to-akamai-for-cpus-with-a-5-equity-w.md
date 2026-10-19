@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
-embedding_id: null
+embedding_id: 2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpus-with-a-5-equity-w
 event_name: ''
 ---
 

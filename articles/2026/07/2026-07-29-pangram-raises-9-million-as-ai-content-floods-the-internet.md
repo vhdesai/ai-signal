@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
-embedding_id: null
+embedding_id: 2026-07-29-pangram-raises-9-million-as-ai-content-floods-the-internet
 event_name: ''
 ---
 

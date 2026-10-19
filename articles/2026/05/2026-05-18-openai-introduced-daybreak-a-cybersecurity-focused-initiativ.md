@@ -5,8 +5,8 @@ title: OpenAI introduced Daybreak, a cybersecurity-focused initiative powered by
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/daybreak-securing-the-world/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 29dbf13a5509583c3339f1ff253934e6b0d69c34454b11f2f95881abecbbf5b8
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
-embedding_id: null
+embedding_id: 2026-05-18-openai-introduced-daybreak-a-cybersecurity-focused-initiativ
 event_name: ''
 ---
 

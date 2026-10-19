@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
-embedding_id: null
+embedding_id: 2026-07-31-cogent-unveils-vr-1-a-mythos-class-frontier-ai-model-for-cyb
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: OpenAI announced another internal reorganization in a memo viewed by The 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 68787f8cb46a0f0f1aa60d5ae14cbbeb4504f6ff003632a66a96f5d586738d41
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-techcrunch-analysis-how-do-we-explain-openai-s-executive-exo
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
 - 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
-embedding_id: null
+embedding_id: 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 event_name: ''
 ---
 

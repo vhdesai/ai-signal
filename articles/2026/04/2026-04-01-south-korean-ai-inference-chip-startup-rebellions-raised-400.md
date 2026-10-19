@@ -5,8 +5,8 @@ title: South Korean AI inference chip startup Rebellions raised $400 million in 
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 8ca104dfebb168df7b9fabac357a630b3f034ebf242b2ce3c31f6747cfc37abb
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
-embedding_id: null
+embedding_id: 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 event_name: ''
 ---
 

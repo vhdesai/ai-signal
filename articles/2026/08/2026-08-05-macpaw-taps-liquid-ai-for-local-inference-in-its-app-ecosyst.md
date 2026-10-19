@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-macpaw-partners-with-liquid-ai-for-offline-on-device-inferen
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-macpaw-taps-liquid-ai-for-local-inference-in-its-app-ecosyst
 event_name: ''
 ---
 

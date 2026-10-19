@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-09-25-white-house-tells-openai-and-anthropic-to-withhold-new-model
-embedding_id: null
+embedding_id: 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 event_name: ''
 ---
 

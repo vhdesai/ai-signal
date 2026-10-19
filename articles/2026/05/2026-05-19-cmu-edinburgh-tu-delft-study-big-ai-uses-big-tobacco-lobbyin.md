@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-08-03-chatgpt-s-reported-dominance-in-identifiable-house-spending
-embedding_id: null
+embedding_id: 2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin
 event_name: ''
 ---
 

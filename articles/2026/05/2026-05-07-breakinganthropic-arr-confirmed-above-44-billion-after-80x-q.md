@@ -4,8 +4,8 @@ title: BreakingAnthropic ARR Confirmed Above $44 Billion After 80x Q1 2026 Growt
 date: '2026-05-07'
 source: AIToolsRecap / Multiple Sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://axis-intelligence.com/anthropic-statistics/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: e7cd8dadeafc1c2cd3eb335ba88fc870b44b88cee981fc70bec326913bfb7e71
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 - 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
-embedding_id: null
+embedding_id: 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 event_name: ''
 ---
 

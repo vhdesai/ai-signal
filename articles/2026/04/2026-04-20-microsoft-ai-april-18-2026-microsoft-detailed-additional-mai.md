@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-embedding_id: null
+embedding_id: 2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai
 event_name: ''
 ---
 

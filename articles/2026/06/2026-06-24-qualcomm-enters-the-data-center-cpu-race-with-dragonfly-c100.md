@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 - 2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se
-embedding_id: null
+embedding_id: 2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100
 event_name: ''
 ---
 

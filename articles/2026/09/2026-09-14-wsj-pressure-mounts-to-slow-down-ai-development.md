@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
-embedding_id: null
+embedding_id: 2026-09-14-wsj-pressure-mounts-to-slow-down-ai-development
 event_name: ''
 ---
 

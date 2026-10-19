@@ -5,8 +5,8 @@ title: 'TechCrunch: OpenAI launches GPT‑5.6, Meta enters AI coding, Google exp
 date: '2026-07-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/tag/openai/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md
 content_hash: 5a916b13c62edebd3acc94285baafdd0a286b0a18ec82536a6a25d2f1f28ad31
 normalized_title_hash: fdce87ebfa33c1b2
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
-embedding_id: null
+embedding_id: 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex
 - 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
 - 2026-07-06-xai-officially-rebrands-to-spacexai
-embedding_id: null
+embedding_id: 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 event_name: ''
 ---
 

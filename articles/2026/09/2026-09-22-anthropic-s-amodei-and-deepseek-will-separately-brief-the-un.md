@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un
 event_name: ''
 ---
 

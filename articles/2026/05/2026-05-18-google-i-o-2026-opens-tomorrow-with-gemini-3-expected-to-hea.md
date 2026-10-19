@@ -4,8 +4,8 @@ title: Google I/O 2026 opens tomorrow with Gemini 3 expected to headline
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 734ad88c0c81ec40e85944b76bbc5730c923ba8adf46e37718f3b13e5e119f83
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
-embedding_id: null
+embedding_id: 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
 event_name: ''
 ---
 

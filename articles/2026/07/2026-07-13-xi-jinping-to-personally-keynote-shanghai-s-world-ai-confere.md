@@ -5,8 +5,8 @@ title: Xi Jinping to personally keynote Shanghai's World AI Conference for the f
 date: '2026-07-13'
 source: The Next Web
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/xi-jinping-keynote-world-ai-conference-shanghai-2026
+url_status: repaired
 digest_source: digests\raw\2026-07-13_060930_Inbox_Daily AI News Digest - July 13,
   2026.md
 content_hash: c8005a2862e46e53b9200e0602b32361d8711a6fc069e8ed90e5c16c23ecc01e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-read-at-reuters-via-u-s-news
 - 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
-embedding_id: null
+embedding_id: 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 event_name: ''
 ---
 

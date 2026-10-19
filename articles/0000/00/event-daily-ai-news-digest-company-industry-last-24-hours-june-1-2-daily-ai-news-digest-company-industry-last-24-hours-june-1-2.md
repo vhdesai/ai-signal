@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-08-29-daily-ai-news-digest-august-30-2026
 - 2026-08-17-daily-ai-news-digest-august-18-2026
-embedding_id: null
+embedding_id: event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 event_name: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 ---
 

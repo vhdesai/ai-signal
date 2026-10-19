@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
-embedding_id: null
+embedding_id: 2026-09-12-oracle-reportedly-weighing-further-job-cuts-as-ai-data-cente
 event_name: ''
 ---
 

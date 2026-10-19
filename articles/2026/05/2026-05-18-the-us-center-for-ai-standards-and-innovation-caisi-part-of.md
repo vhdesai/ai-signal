@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 - 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
-embedding_id: null
+embedding_id: 2026-05-18-the-us-center-for-ai-standards-and-innovation-caisi-part-of
 event_name: ''
 ---
 

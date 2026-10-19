@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit
 event_name: ''
 ---
 

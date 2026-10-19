@@ -4,8 +4,8 @@ title: Anthropic expands Project Glasswing cybersecurity initiative
 date: '2026-06-02'
 source: Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/project/glasswing
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: 6d64b157d4d7a9d86c20c5d6c1a687cea6be675bd5657dd1ff51965e771cc364
 normalized_title_hash: b69ac859b7357a6a
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-embedding_id: null
+embedding_id: 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 event_name: ''
 ---
 

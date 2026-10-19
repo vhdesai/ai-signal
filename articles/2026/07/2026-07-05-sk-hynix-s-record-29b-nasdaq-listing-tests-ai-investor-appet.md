@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
-embedding_id: null
+embedding_id: 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
 event_name: ''
 ---
 

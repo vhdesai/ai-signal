@@ -5,8 +5,8 @@ title: '[HOT] Medvi Reports $401M Revenue with 2 Employees (Apr 2) AI-native hea
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://canopy.press/how-a-20000-ai-startup-hit-401m-with-2-employees/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 5510272efba948e0944ec7cb6907fab523b364dcb015b062c678b53c98b46351
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-08-12-ai-coding-startup-lovable-raises-400m-at-13-3b-valuation
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
-embedding_id: null
+embedding_id: 2026-04-02-hot-medvi-reports-401m-revenue-with-2-employees-apr-2-ai-nat
 event_name: ''
 ---
 

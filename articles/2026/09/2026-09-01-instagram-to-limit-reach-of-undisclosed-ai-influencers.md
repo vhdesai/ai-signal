@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la
 - 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
-embedding_id: null
+embedding_id: 2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers
 event_name: ''
 ---
 

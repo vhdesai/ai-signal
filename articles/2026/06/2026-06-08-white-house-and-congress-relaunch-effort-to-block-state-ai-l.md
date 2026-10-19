@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 - 2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie
-embedding_id: null
+embedding_id: 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 event_name: ''
 ---
 

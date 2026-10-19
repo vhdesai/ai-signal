@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
 - 2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio
 - 2026-09-21-meta-s-iris-ai-chip-enters-mass-production-at-tsmc-3nm
-embedding_id: null
+embedding_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
 event_name: ''
 ---
 

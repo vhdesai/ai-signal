@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
-embedding_id: null
+embedding_id: 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
 event_name: ''
 ---
 

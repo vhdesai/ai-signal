@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
-embedding_id: null
+embedding_id: 2026-09-02-fei-fei-li-s-world-labs-unveils-atlas-a-photorealistic-inter
 event_name: ''
 ---
 

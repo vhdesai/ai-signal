@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier
-embedding_id: null
+embedding_id: 2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u
 event_name: ''
 ---
 

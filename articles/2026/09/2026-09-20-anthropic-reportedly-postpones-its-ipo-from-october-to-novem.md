@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-20-anthropic-reportedly-postpones-its-ipo-from-october-to-novem
 event_name: ''
 ---
 

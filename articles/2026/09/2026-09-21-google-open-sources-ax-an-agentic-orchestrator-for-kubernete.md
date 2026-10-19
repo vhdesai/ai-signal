@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-21-google-publishes-ax-an-open-agentic-orchestrator-for-kuberne
 - 2026-09-20-google-publishes-ax-an-apache-2-0-agentic-orchestrator-for-k
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-embedding_id: null
+embedding_id: 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
 event_name: ''
 ---
 

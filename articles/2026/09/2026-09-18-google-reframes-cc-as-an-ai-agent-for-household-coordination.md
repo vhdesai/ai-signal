@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-18-google-expands-cc-into-a-family-and-household-coordination-a
 - 2026-09-18-google-rebuilds-cc-as-a-shared-household-agent-with-its-own
-embedding_id: null
+embedding_id: 2026-09-18-google-reframes-cc-as-an-ai-agent-for-household-coordination
 event_name: ''
 ---
 

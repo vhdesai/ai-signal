@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-08-30-anthropic-forcibly-signs-out-claude-users-after-infostealer
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
-embedding_id: null
+embedding_id: 2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i
 event_name: ''
 ---
 

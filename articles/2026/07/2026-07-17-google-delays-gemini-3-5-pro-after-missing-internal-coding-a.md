@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-21-google-ships-three-lower-cost-gemini-models-flagship-3-5-pro
 - 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
 - 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
-embedding_id: null
+embedding_id: 2026-07-17-google-delays-gemini-3-5-pro-after-missing-internal-coding-a
 event_name: ''
 ---
 

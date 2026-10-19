@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
-embedding_id: null
+embedding_id: 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
 event_name: ''
 ---
 

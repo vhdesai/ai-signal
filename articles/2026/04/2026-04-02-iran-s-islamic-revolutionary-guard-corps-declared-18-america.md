@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 - 2026-08-26-huawei-pitches-egypt-on-ascend-powered-ai-data-centers-for-m
-embedding_id: null
+embedding_id: 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 event_name: ''
 ---
 

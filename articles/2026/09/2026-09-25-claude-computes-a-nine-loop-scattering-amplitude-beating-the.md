@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-one-loop-pa
 - 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
-embedding_id: null
+embedding_id: 2026-09-25-claude-computes-a-nine-loop-scattering-amplitude-beating-the
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
-embedding_id: null
+embedding_id: 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 event_name: ''
 ---
 

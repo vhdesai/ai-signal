@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-embedding_id: null
+embedding_id: 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 event_name: ''
 ---
 

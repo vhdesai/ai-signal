@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: null
+embedding_id: 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
 event_name: ''
 ---
 

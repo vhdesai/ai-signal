@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-05-20-ai-alignment-via-debate-fresh-empirical-results
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
-embedding_id: null
+embedding_id: 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 event_name: ''
 ---
 

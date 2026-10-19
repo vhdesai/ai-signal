@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
-embedding_id: null
+embedding_id: 2026-09-26-julia-1-a-144-3m-parameter-open-decision-model-trained-for-r
 event_name: ''
 ---
 

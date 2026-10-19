@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli
 event_name: ''
 ---
 

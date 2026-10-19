@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
-embedding_id: null
+embedding_id: 2026-09-02-nebius-lifts-year-end-contracted-power-target-from-3-gw-to-5
 event_name: ''
 ---
 

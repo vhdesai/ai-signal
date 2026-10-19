@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi
 - 2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated
 - 2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device
-embedding_id: null
+embedding_id: 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
 event_name: ''
 ---
 

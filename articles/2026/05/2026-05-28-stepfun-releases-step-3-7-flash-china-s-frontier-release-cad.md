@@ -4,8 +4,8 @@ title: StepFun releases Step 3.7 Flash, China's frontier release cadence acceler
 date: '2026-05-28'
 source: LM Market Cap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://latenteast.com/insights/chinas-model-wave-price-of-intelligence
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 985de6d410035e00416fcb6383f9ffab756b844293ad60bf9c5d67c8ca80f484
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 - 2026-08-03-qwen3-8-max-shows-china-s-leading-labs-still-pushing-frontie
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
-embedding_id: null
+embedding_id: 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 event_name: ''
 ---
 

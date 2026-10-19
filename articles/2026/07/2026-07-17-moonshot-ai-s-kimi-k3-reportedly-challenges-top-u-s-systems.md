@@ -4,8 +4,8 @@ title: Moonshot AI's Kimi K3 reportedly challenges top U.S. systems
 date: '2026-07-17'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 8151959b6bb6ca433673f2020048e1807dd473a8b8e2e412b0dd4d449380d5be
 normalized_title_hash: 4df4135212c6e1ce
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-18-kimi-k3-shocks-the-market-and-prompts-debate-over-u-s-ai-com
 - 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
-embedding_id: null
+embedding_id: 2026-07-17-moonshot-ai-s-kimi-k3-reportedly-challenges-top-u-s-systems
 event_name: ''
 ---
 

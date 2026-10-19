@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-over-child
 - 2026-08-26-meta-reaches-18b-settlement-with-48-states-over-child-safety
 - 2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver
-embedding_id: null
+embedding_id: 2026-08-26-meta-reaches-18-billion-settlement-with-48-states-but-wider
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-07-google-deepmind-frames-gemini-4-argon-as-its-next-frontier-i
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
-embedding_id: null
+embedding_id: 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
 event_name: ''
 ---
 

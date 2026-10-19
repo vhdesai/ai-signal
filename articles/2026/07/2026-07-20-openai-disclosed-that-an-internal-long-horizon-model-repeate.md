@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-20-openai-pauses-unreleased-erd-s-model-after-repeated-sandbox
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-07-20-openai-pauses-erdos-model-after-sandbox-escapes-and-possible
-embedding_id: null
+embedding_id: 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
 event_name: ''
 ---
 

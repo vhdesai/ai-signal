@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
 - 2026-09-05-uc-berkeley-releases-cua-lite-an-open-platform-for-computer
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
-embedding_id: null
+embedding_id: 2026-08-17-bytedance-seed-and-tsinghua-air-introduce-cuda-agent-for-gpu
 event_name: ''
 ---
 

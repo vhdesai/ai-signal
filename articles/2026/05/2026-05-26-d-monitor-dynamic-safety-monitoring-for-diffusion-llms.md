@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-embedding_id: null
+embedding_id: 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 - 2026-07-15-rime-raises-24-million-to-improve-enterprise-voice-ai-calls
-embedding_id: null
+embedding_id: 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso
 event_name: ''
 ---
 

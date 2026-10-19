@@ -4,8 +4,8 @@ title: OpenAI model disproves a long-standing discrete-geometry conjecture
 date: '2026-06-01'
 source: Gizmodo
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: f2facf08091d8072bda4f33c3b7a29030f0d5d242d572a41502fe913ad8645a2
 normalized_title_hash: 1b493ed0af44514f
@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-embedding_id: null
+embedding_id: 2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con
 event_name: ''
 ---
 

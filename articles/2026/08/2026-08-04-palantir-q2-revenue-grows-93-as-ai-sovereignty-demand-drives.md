@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
-embedding_id: null
+embedding_id: 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
 event_name: ''
 ---
 

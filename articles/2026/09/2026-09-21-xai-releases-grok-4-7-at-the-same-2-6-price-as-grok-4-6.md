@@ -24,7 +24,7 @@ canonical_article_id: 2026-09-21-grok-4-7-ships-at-2-6-pricing-but-real-cost-per
 related_article_ids:
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing
-embedding_id: null
+embedding_id: 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 event_name: ''
 ---
 

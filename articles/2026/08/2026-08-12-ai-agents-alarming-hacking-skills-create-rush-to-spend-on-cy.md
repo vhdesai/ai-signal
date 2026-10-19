@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
-embedding_id: null
+embedding_id: 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 event_name: ''
 ---
 

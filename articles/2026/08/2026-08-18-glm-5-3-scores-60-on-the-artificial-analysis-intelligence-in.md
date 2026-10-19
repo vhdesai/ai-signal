@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
-embedding_id: null
+embedding_id: 2026-08-18-glm-5-3-scores-60-on-the-artificial-analysis-intelligence-in
 event_name: ''
 ---
 

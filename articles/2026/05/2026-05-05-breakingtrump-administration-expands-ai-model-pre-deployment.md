@@ -5,8 +5,8 @@ title: BreakingTrump Administration Expands AI Model Pre-Deployment Testing — 
 date: '2026-05-05'
 source: CNBC / The Hill / Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: cabf6c90432b76541fb5b75bdba04b95d3232931d7f7e7be0f6120c4e53e9eaf
 normalized_title_hash: 2c8e7871ee79e000
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
-embedding_id: null
+embedding_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 event_name: ''
 ---
 

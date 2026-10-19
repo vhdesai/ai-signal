@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-leading-on-engin
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing
-embedding_id: null
+embedding_id: 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 - 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
 - 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
-embedding_id: null
+embedding_id: 2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p
 event_name: ''
 ---
 

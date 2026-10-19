@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: OpenAI / TechCrunch
 url_original: https://openai.com/index/introducing-gpt-6-sol-and-luna/
 url_canonical: https://openai.com/index/introducing-gpt-6-sol-and-luna/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-23_060328_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 04eda14e1fa7252698a7f9d120d04389c19451d9d2abf840eefbe689845d9042
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-openai-launches-gpt-6-sol-and-luna-halving-api-prices-below
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-amazon-and-meta-ai-bots-account-for-most-website-visits
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
-embedding_id: null
+embedding_id: 2026-07-18-retailers-prepare-for-bots-as-buyers
 event_name: ''
 ---
 

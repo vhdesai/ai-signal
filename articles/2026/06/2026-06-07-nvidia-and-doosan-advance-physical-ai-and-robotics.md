@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
 - 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
-embedding_id: null
+embedding_id: 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 event_name: ''
 ---
 

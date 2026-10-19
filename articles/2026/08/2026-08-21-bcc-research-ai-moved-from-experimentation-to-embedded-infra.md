@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
-embedding_id: null
+embedding_id: 2026-08-21-bcc-research-ai-moved-from-experimentation-to-embedded-infra
 event_name: ''
 ---
 

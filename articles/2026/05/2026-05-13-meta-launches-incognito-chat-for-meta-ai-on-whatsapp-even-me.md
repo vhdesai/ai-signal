@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
-embedding_id: null
+embedding_id: 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
 event_name: ''
 ---
 

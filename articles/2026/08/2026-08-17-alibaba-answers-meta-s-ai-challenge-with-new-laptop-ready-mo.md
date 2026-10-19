@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-embedding_id: null
+embedding_id: 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 event_name: ''
 ---
 

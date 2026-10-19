@@ -4,8 +4,8 @@ title: HOTBig Tech 2026 AI capex tracks to roughly $725B
 date: '2026-05-04'
 source: Invezz
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://valueaddvc.com/pulse/big-tech-ai-capex-725-billion-2026-guidance
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 0da2bce4452fc88fa003e75f680bb2b379c0f86d7e70b816517f6bcaa6ad3a23
 normalized_title_hash: 60900703e0edf05d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+embedding_id: 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 event_name: ''
 ---
 

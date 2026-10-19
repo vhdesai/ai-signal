@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-openai-locks-in-10-gigawatt-ohio-data-center-lease-with-nvid
 event_name: ''
 ---
 

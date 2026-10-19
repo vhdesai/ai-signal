@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-22-deepmind-alumni-inherent-s-faraday-outperforms-claude-and-gp
 related_article_ids:
 - 2026-08-22-inherent-exits-stealth-with-50m-claims-its-agent-beats-front
-embedding_id: null
+embedding_id: 2026-08-22-inherent-exits-stealth-with-50m-claims-agent-beats-frontier
 event_name: ''
 ---
 

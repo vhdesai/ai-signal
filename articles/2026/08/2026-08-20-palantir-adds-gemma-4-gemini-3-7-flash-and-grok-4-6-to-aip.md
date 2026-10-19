@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 - 2026-04-13-products-tools
-embedding_id: null
+embedding_id: 2026-08-20-palantir-adds-gemma-4-gemini-3-7-flash-and-grok-4-6-to-aip
 event_name: ''
 ---
 

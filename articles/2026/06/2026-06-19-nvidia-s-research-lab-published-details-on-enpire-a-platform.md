@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-17-nvidia-enpire-platform-enables-ai-agents-to-autonomously-run
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
-embedding_id: null
+embedding_id: 2026-06-19-nvidia-s-research-lab-published-details-on-enpire-a-platform
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-09-08-openai-publishes-agent-generated-proof-of-finite-time-singul
-embedding_id: null
+embedding_id: 2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining
 event_name: ''
 ---
 

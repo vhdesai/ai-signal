@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
 - 2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
-embedding_id: null
+embedding_id: 2026-09-01-google-launches-google-pics-a-workspace-native-ai-image-crea
 event_name: ''
 ---
 

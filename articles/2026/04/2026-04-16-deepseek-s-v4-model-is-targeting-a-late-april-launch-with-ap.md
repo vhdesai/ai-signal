@@ -5,8 +5,8 @@ title: DeepSeek's V4 model is targeting a late April launch with approximately 1
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://chinabizinsider.com/deepseek-v4-targets-late-april-launch-betting-on-trillion-parameter-efficiency/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 799669c06eb840bc3cb4d182c022143b87cd5c2d0f6c328c042f7f8bbd4740b7
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-embedding_id: null
+embedding_id: 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 event_name: ''
 ---
 

@@ -19,8 +19,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
+- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
+- 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
+- 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
+embedding_id: 2026-10-14-eight-states-challenge-openai-s-safety-representations
 event_name: ''
 ---
 
@@ -33,4 +37,5 @@ Eight states individually sued OpenAI, alleging deceptive safety representations
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
 <!-- graph:end -->

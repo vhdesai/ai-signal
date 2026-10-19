@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-25-cxmt-prices-record-shanghai-chip-ipo-to-fund-domestic-ai-mem
 event_name: ''
 ---
 

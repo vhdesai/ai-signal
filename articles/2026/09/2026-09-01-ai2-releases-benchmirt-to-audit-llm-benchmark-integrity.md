@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-ai2-releases-benchmirt-to-audit-llm-benchmark-integrity
 event_name: ''
 ---
 

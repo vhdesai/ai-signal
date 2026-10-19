@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers
 event_name: ''
 ---
 

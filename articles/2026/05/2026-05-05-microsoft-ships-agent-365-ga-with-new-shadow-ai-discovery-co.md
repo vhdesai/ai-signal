@@ -4,8 +4,8 @@ title: Microsoft ships Agent 365 GA with new shadow-AI discovery controls
 date: '2026-05-05'
 source: Microsoft / SiliconANGLE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://learn.microsoft.com/en-us/microsoft-365/admin/manage/agent-shadow-ai?view=o365-worldwide
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 73825fc271751261b7143b85957a5ce1cb48f16cdd61ccc7520018e7b85deb05
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-05-02-microsoft-agent-365-generally-available
 - 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
-embedding_id: null
+embedding_id: 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 event_name: ''
 ---
 

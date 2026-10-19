@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
-embedding_id: null
+embedding_id: 2026-10-06-amd-plans-more-taiwan-investment-and-a-larger-2027-supply-ra
 event_name: ''
 ---
 

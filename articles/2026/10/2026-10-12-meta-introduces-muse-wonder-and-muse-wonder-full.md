@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-meta-unveils-muse-wonder-models-to-compete-with-openai
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
 - 2026-10-12-meta-releases-muse-wonder-its-first-declared-frontier-model
-embedding_id: null
+embedding_id: 2026-10-12-meta-introduces-muse-wonder-and-muse-wonder-full
 event_name: ''
 ---
 

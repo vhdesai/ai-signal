@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 event_name: ''
 ---
 

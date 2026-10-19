@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
-embedding_id: null
+embedding_id: 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
 event_name: ''
 ---
 

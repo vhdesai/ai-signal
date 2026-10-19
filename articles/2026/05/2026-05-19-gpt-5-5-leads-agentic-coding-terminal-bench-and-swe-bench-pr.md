@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-
 - 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
-embedding_id: null
+embedding_id: 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 event_name: ''
 ---
 

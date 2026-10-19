@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-meta-executive-leaves-for-openai-to-oversee-southeast-asia-o
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-28-meta-executive-sandhya-devanathan-leaves-for-openai-to-overs
 event_name: ''
 ---
 

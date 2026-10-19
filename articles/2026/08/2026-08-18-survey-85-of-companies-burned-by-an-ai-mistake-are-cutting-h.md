@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r
-embedding_id: null
+embedding_id: 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 - 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
-embedding_id: null
+embedding_id: 2026-07-11-when-helsing-s-three-founders-started-the-company-in-2021-wi
 event_name: ''
 ---
 

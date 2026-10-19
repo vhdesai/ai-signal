@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
 - 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 - 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
-embedding_id: null
+embedding_id: 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 event_name: ''
 ---
 

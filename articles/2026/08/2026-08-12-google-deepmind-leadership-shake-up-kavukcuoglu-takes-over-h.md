@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
 related_article_ids:
 - 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
-embedding_id: null
+embedding_id: 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
 event_name: ''
 ---
 

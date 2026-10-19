@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than
 - 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
-embedding_id: null
+embedding_id: 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 event_name: ''
 ---
 

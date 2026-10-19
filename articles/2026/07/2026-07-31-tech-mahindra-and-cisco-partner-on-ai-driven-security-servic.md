@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
-embedding_id: null
+embedding_id: 2026-07-31-tech-mahindra-and-cisco-partner-on-ai-driven-security-servic
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans
 - 2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio
 - 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
-embedding_id: null
+embedding_id: 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Nature frames multimessenger astronomy as a proving ground for frontier A
 date: '2026-07-10'
 source: Nature Astronomy
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/articles/s41550-026-02910-w
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 52b769580fac9f212bd064832388014fdf4b99124f5d021f971d766fcf54f76d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 event_name: ''
 ---
 

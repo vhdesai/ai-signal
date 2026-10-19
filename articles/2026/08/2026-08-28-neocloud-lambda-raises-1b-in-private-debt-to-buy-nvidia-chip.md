@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-28-neocloud-lambda-raises-1b-in-private-debt-to-buy-nvidia-chip
 event_name: ''
 ---
 

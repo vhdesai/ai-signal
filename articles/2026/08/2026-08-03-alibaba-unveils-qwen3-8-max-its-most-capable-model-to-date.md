@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 related_article_ids:
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
-embedding_id: null
+embedding_id: 2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date
 event_name: ''
 ---
 

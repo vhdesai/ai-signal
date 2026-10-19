@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 - 2026-08-05-jeff-dean-and-three-senior-google-researchers-depart-to-laun
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
-embedding_id: null
+embedding_id: 2026-08-17-ai-automation-startup-relay-shuts-down-founder-rejoins-googl
 event_name: ''
 ---
 

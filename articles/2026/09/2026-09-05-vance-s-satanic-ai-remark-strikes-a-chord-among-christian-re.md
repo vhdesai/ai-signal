@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-embedding_id: null
+embedding_id: 2026-09-05-vance-s-satanic-ai-remark-strikes-a-chord-among-christian-re
 event_name: ''
 ---
 

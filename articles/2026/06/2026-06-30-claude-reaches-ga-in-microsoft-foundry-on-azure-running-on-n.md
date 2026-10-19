@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Tech Wire Asia
 url_original: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
 url_canonical: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 9cf6b4d291341644af645726bf5d62f2d57fd6e3e359a747a172b0e9ad88aa60
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 - 2026-09-01-anthropic-signs-reported-35b-cloud-agreement-with-nvidia-bac
-embedding_id: null
+embedding_id: 2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n
 event_name: ''
 ---
 

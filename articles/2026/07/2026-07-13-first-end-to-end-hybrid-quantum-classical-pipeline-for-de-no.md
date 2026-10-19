@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-embedding_id: null
+embedding_id: 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
 event_name: ''
 ---
 

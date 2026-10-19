@@ -5,8 +5,8 @@ title: Mustafa Suleiman, Microsoft's AI Chief, stated today that most profession
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.webpronews.com/microsoft-ai-chiefs-stark-18-month-warning-white-collar-work-faces-rapid-overhaul/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fa7d9c813b50bf892322ddd8c389367e1c71e5f983cebb3741339e1ebcb1116
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 - 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
-embedding_id: null
+embedding_id: 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
 event_name: ''
 ---
 

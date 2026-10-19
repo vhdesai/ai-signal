@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c
 - 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 - 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
-embedding_id: null
+embedding_id: 2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste
 event_name: ''
 ---
 

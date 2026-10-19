@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
-embedding_id: null
+embedding_id: 2026-09-21-chinese-chipmaker-hygon-expands-from-data-center-to-robotics
 event_name: ''
 ---
 

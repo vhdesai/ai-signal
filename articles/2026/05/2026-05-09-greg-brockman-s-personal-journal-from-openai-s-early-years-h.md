@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
-embedding_id: null
+embedding_id: 2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h
 event_name: ''
 ---
 

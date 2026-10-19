@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
-embedding_id: null
+embedding_id: 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 event_name: ''
 ---
 

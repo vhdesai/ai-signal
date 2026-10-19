@@ -5,7 +5,7 @@ date: '2026-10-06'
 source: OpenAI
 url_original: https://openai.com/index/atlassian-partnership/
 url_canonical: https://openai.com/index/atlassian-partnership/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-07_060628_Inbox_Daily AI News Digest - October
   7, 2026.md
 content_hash: 4710ab2ea9d6bfecd2771478aa86ded08ef0529775b5e8edb0a96e6fd8f0a91f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 - 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-embedding_id: null
+embedding_id: 2026-10-06-atlassian-and-openai-expand-partnership-to-turn-enterprise-k
 event_name: ''
 ---
 

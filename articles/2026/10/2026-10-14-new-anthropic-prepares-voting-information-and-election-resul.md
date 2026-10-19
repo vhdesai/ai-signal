@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
+- 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
+- 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
+- 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
+embedding_id: 2026-10-14-new-anthropic-prepares-voting-information-and-election-resul
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ Anthropic plans to integrate Democracy Works voting information and live electio
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]] · [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]]
 <!-- graph:end -->

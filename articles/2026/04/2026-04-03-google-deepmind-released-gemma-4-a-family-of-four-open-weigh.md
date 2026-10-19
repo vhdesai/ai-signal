@@ -5,8 +5,8 @@ title: Google DeepMind released Gemma 4 — a family of four open-weight models 
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/models/gemma/gemma-4/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 9f3ef9a67891b6a8fb80ee204677773221b5673b8fb4b933febca360f08c9ec8
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-google-released-gemma-4-today-under-the-apache-2-0-open-lice
 - 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 - 2026-08-20-google-s-gemma-open-models-pass-1-billion-downloads
-embedding_id: null
+embedding_id: 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 event_name: ''
 ---
 

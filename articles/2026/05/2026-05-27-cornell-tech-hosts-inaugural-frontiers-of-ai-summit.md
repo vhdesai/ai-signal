@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
-embedding_id: null
+embedding_id: 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 event_name: ''
 ---
 

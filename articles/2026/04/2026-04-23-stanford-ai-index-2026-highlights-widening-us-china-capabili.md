@@ -4,8 +4,8 @@ title: Stanford AI Index 2026 highlights widening US–China capability converge
 date: '2026-04-23'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: ab60b9c50c5cb467ac75f4f245a95548fea992fa4c8a4491054672ec6239c22d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
-embedding_id: null
+embedding_id: 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 event_name: ''
 ---
 

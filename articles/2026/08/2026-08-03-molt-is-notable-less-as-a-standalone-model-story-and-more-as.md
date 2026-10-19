@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-08-17-one-ai-module-inflated-86-of-a-pipeline-s-accuracy-gains-by
-embedding_id: null
+embedding_id: 2026-08-03-molt-is-notable-less-as-a-standalone-model-story-and-more-as
 event_name: ''
 ---
 

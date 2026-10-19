@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 - 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
-embedding_id: null
+embedding_id: 2026-08-08-japan-makes-non-consensual-ai-voice-cloning-a-civil-violatio
 event_name: ''
 ---
 

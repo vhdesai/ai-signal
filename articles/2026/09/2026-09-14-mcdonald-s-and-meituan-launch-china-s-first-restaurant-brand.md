@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
-embedding_id: null
+embedding_id: 2026-09-14-mcdonald-s-and-meituan-launch-china-s-first-restaurant-brand
 event_name: ''
 ---
 

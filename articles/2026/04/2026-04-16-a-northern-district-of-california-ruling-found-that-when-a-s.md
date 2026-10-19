@@ -5,8 +5,8 @@ title: A Northern District of California ruling found that when a social media p
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/meta-cases-put-social-media-platforms-at-securities-fraud-risk
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 80eed08ca3bf58835c58152d724c8531ad74e8106a43137dd3ed0a786fcdfd88
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
-embedding_id: null
+embedding_id: 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
 event_name: ''
 ---
 

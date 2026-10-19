@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
 - 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-embedding_id: null
+embedding_id: 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
 event_name: ''
 ---
 

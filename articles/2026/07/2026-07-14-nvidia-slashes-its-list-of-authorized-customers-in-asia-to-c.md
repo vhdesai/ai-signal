@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
-embedding_id: null
+embedding_id: 2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c
 event_name: ''
 ---
 

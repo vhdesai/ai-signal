@@ -5,8 +5,8 @@ title: Microsoft reportedly rations compute, prioritizing its own AI over some A
 date: '2026-07-26'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.metirai.com/blog/microsoft-azure-compute-rationing-gpu-shortage-2026
+url_status: repaired
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 7c1d0363c1fecb0d467ebcf2542d327641b80a383a1d083941163ac22e843e52
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
-embedding_id: null
+embedding_id: 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
-embedding_id: null
+embedding_id: 2026-10-09-openai-s-revenue-reset-sharpens-scrutiny-on-frontier-lab-eco
 event_name: ''
 ---
 

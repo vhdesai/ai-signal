@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin
 event_name: ''
 ---
 

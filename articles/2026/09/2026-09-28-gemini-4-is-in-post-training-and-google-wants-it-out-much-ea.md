@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-google-deepmind-says-gemini-4-is-coming-as-soon-as-possible
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 - 2026-09-25-google-plans-gemini-4-release-before-year-end
-embedding_id: null
+embedding_id: 2026-09-28-gemini-4-is-in-post-training-and-google-wants-it-out-much-ea
 event_name: ''
 ---
 

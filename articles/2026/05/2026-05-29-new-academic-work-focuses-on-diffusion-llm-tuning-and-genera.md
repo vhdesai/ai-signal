@@ -4,8 +4,8 @@ title: New academic work focuses on diffusion LLM tuning and generalization dyna
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2411.07681v1
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 9dc584409dc2883d8192b8b7a7d3a5b64f62746e08c4ed6672c9f7facad9ba50
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 event_name: ''
 ---
 

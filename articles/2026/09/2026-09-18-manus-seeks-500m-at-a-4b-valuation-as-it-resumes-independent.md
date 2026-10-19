@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
 - 2026-09-01-manus-resumes-independent-operations-after-china-blocks-meta
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-embedding_id: null
+embedding_id: 2026-09-18-manus-seeks-500m-at-a-4b-valuation-as-it-resumes-independent
 event_name: ''
 ---
 

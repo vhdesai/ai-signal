@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-embedding_id: null
+embedding_id: 2026-08-27-anthropic-signs-45b-six-year-compute-deal-with-nscale
 event_name: ''
 ---
 

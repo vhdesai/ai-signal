@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
-embedding_id: null
+embedding_id: 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 event_name: ''
 ---
 

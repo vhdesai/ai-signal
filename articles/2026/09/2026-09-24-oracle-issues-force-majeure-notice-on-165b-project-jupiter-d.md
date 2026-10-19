@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
 related_article_ids:
 - 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
-embedding_id: null
+embedding_id: 2026-09-24-oracle-issues-force-majeure-notice-on-165b-project-jupiter-d
 event_name: ''
 ---
 

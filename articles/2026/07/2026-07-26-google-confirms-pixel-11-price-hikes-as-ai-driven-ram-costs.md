@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 - 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
 - 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
-embedding_id: null
+embedding_id: 2026-07-26-google-confirms-pixel-11-price-hikes-as-ai-driven-ram-costs
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went
 event_name: ''
 ---
 

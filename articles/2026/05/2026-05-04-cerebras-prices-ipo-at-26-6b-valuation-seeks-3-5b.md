@@ -4,8 +4,8 @@ title: Cerebras prices IPO at $26.6B valuation, seeks $3.5B
 date: '2026-05-04'
 source: SiliconANGLE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techfundingnews.com/cerebras-nasdaq-ipo-4-8b-valuation-openai-backed/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 3e130b601fb04dad40fb3ce9b2af001e1a77e04272851c5043b69c0ff5d228e8
 normalized_title_hash: 791d3d400cf9666b
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 - 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
 - 2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio
-embedding_id: null
+embedding_id: 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
 event_name: ''
 ---
 

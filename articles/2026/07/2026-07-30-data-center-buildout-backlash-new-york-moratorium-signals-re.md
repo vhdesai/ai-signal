@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-embedding_id: null
+embedding_id: 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 event_name: ''
 ---
 

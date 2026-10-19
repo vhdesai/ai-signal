@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-09-03-new-meta-ships-muse-spark-1-3-but-its-best-results-come-from
-embedding_id: null
+embedding_id: 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 event_name: ''
 ---
 

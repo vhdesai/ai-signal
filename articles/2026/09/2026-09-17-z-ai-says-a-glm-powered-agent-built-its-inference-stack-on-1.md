@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-17-z-ai-says-a-glm-powered-agent-built-its-inference-stack-on-1
 event_name: ''
 ---
 

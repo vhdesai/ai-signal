@@ -30,7 +30,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op
 event_name: ''
 ---
 

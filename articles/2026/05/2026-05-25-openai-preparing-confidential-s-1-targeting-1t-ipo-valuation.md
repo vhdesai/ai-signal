@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 - 2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
-embedding_id: null
+embedding_id: 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
 event_name: ''
 ---
 

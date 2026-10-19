@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
-embedding_id: null
+embedding_id: 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 event_name: ''
 ---
 

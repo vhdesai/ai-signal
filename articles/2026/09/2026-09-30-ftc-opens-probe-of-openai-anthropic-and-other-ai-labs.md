@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
-embedding_id: null
+embedding_id: 2026-09-30-ftc-opens-probe-of-openai-anthropic-and-other-ai-labs
 event_name: ''
 ---
 

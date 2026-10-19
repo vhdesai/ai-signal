@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
 - 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
-embedding_id: null
+embedding_id: 2026-09-23-founders-fund-and-khosla-ventures-quietly-visit-china-as-its
 event_name: ''
 ---
 

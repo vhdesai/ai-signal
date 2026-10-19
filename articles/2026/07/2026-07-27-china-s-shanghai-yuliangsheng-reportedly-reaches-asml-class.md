@@ -5,8 +5,8 @@ title: China's Shanghai Yuliangsheng reportedly reaches ASML-class lithography i
 date: '2026-07-27'
 source: The Information
 url_original: https://www.theinformation.com/search?q=Shanghai+Yuliangsheng
-url_canonical: https://www.theinformation.com/search?q=Shanghai+Yuliangsheng
-url_status: broken
+url_canonical: https://aiweekly.co/alerts/yuliangsheng-starts-mass-producing-chinas-first-duv-scanner
+url_status: repaired
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 215833894b1ff4adb357fc3ec723a189784769b0bf000695df6bf1abb25b6e53
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 - 2026-10-02-china-stockpiled-an-estimated-343-asml-duv-lithography-syste
-embedding_id: null
+embedding_id: 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 event_name: ''
 ---
 

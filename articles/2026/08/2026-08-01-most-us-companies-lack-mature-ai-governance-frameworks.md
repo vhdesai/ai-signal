@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-embedding_id: null
+embedding_id: 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
 event_name: ''
 ---
 

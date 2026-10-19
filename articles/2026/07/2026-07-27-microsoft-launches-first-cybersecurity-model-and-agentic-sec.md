@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-embedding_id: null
+embedding_id: 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 event_name: ''
 ---
 

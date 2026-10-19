@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
 event_name: ''
 ---
 

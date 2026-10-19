@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 - 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
-embedding_id: null
+embedding_id: 2026-08-03-timesfm-2-5-is-notable-because-it-emphasizes-the-full-foreca
 event_name: ''
 ---
 

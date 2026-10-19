@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 - 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
-embedding_id: null
+embedding_id: 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 event_name: ''
 ---
 

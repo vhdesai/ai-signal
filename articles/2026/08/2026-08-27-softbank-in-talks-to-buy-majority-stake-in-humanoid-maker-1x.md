@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-softbank-in-talks-to-buy-majority-stake-in-humanoid-maker-1x
 event_name: ''
 ---
 

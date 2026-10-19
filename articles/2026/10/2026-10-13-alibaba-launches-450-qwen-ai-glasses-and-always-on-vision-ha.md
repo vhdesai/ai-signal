@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-embedding_id: null
+embedding_id: 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha
 event_name: ''
 ---
 

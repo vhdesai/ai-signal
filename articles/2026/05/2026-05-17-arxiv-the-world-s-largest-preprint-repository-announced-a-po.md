@@ -5,8 +5,8 @@ title: ArXiv, the world's largest preprint repository, announced a policy that w
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 1ce642b8e851c07fdee9453dcf81e41977c4444e89822bc14aa74fac9a8a05d0
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
 - 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-embedding_id: null
+embedding_id: 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
 event_name: ''
 ---
 

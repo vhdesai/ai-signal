@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
-embedding_id: null
+embedding_id: 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 event_name: ''
 ---
 

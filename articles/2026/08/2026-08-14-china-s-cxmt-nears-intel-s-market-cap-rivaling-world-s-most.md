@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-rivaling-world-s-most
 event_name: ''
 ---
 

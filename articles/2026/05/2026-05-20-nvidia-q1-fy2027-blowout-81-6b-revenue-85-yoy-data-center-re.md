@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-s-blowout-q2-leaves-investors-unmoved-279-billion-sup
-embedding_id: null
+embedding_id: 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 event_name: ''
 ---
 

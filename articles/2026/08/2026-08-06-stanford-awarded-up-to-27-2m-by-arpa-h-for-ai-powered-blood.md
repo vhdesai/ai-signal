@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: Stanford Report
 url_original: https://news.stanford.edu/stories/2026/08/renee-zhao-grant-ai-powered-micro-robot
 url_canonical: https://news.stanford.edu/stories/2026/08/renee-zhao-grant-ai-powered-micro-robot
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 180f12d02a6b66ec4d9584cdc3d43f6dc04a2a2dd5b3d22b8dd30050a56b2a31
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
 - 2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho
-embedding_id: null
+embedding_id: 2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood
 event_name: ''
 ---
 

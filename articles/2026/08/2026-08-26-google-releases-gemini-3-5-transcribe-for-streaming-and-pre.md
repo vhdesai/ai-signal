@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
 related_article_ids:
 - 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-speech-t
-embedding_id: null
+embedding_id: 2026-08-26-google-releases-gemini-3-5-transcribe-for-streaming-and-pre
 event_name: ''
 ---
 

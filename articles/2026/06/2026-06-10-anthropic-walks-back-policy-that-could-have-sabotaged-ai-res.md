@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
 - 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
-embedding_id: null
+embedding_id: 2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res
 event_name: ''
 ---
 

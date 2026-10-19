@@ -5,8 +5,8 @@ title: MIT students build a wearable AI "Human Operator" that drives the wearer'
 date: '2026-05-04'
 source: India Today
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.indiatoday.in/technology/news/story/mit-students-build-ai-system-that-can-control-your-body-2906168-2026-05-04
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: afea3fab33b9392c02590f2d29525f544be7eb3fd181799615e620ef3606708c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
-embedding_id: null
+embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 event_name: ''
 ---
 

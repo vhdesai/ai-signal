@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
-embedding_id: null
+embedding_id: 2026-08-03-openai-updates-gpt-5-6-price-performance-positioning
 event_name: ''
 ---
 

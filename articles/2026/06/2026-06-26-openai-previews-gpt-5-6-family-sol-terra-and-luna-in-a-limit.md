@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 related_article_ids:
 - 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
-embedding_id: null
+embedding_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-embedding_id: null
+embedding_id: 2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi
 event_name: ''
 ---
 

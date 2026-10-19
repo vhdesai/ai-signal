@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro
 - 2026-09-03-trending-brain-signals-can-sharpen-llm-deductive-reasoning-n
-embedding_id: null
+embedding_id: 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
 event_name: ''
 ---
 

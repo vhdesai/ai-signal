@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 - 2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users
-embedding_id: null
+embedding_id: 2026-07-23-google-s-gemini-nears-one-billion-monthly-users
 event_name: ''
 ---
 

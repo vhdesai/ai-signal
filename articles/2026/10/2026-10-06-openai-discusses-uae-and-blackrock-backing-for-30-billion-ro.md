@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203
-embedding_id: null
+embedding_id: 2026-10-06-openai-discusses-uae-and-blackrock-backing-for-30-billion-ro
 event_name: ''
 ---
 

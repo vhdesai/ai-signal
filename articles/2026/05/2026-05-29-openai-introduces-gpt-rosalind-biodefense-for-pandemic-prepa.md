@@ -4,8 +4,8 @@ title: OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness resea
 date: '2026-05-29'
 source: OpenAI*
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 782e3f89232a606e8f33fb10087f3415f68cdadfa8d664e28c0bb67a4d93b1cc
 normalized_title_hash: 23912773e3d8bf81
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 event_name: ''
 ---
 

@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-09-12-saturday-september-12-2026
 - 2026-09-24-thursday-september-24-2026
-embedding_id: null
+embedding_id: 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 event_name: ''
 ---
 

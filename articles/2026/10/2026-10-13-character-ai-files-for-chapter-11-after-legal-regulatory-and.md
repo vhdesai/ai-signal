@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
+- 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
 - 2026-07-31-ai-at-the-collision-of-capability-and-reality
-embedding_id: null
+embedding_id: 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Character.AI filed for Chapter 11 bankruptcy only five years after launch, listi
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]]
+**Related:** [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]]
 <!-- graph:end -->

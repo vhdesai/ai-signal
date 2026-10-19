@@ -4,8 +4,8 @@ title: Judges and lawyers confront AI's role in the courts
 date: '2026-07-18'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.law.com/newyorklawjournal/2026/06/15/new-york-commercial-judges-embrace-the-promisesand-confront-the-perilsof-generative-ai-in-litigation/
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 20da99145ac450b6b41c6a65bd7036f936c8bec985741e8de73655728cafa2b0
 normalized_title_hash: 82ab2dc11ca43c89
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
 - 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
 - 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
-embedding_id: null
+embedding_id: 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
 event_name: ''
 ---
 

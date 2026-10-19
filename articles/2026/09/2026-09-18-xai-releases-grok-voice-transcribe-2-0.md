@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-18-xai-releases-grok-voice-transcribe-2-0-for-lower-cost-speech
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
-embedding_id: null
+embedding_id: 2026-09-18-xai-releases-grok-voice-transcribe-2-0
 event_name: ''
 ---
 

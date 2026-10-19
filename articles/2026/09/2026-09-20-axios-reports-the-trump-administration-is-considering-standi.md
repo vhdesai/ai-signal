@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
 - 2026-09-19-trump-announces-an-ai-force-and-a-forthcoming-ai-czar-callin
 - 2026-09-21-trump-announces-ai-force-and-plans-to-appoint-new-ai-czar
-embedding_id: null
+embedding_id: 2026-09-20-axios-reports-the-trump-administration-is-considering-standi
 event_name: ''
 ---
 

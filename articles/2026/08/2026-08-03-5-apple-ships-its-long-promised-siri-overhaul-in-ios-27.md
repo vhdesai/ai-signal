@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
-embedding_id: null
+embedding_id: 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 event_name: ''
 ---
 

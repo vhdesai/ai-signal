@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-youtube-adds-ai-custom-feeds-and-gemini-powered-creator-stud
 - 2026-09-25-google-makes-gemini-3-8-live-generally-available-with-live-a
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-embedding_id: null
+embedding_id: 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Novo Nordisk Signs Company-Wide AI Partnership with OpenAI
 date: '2026-05-14'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aibizinsider.com/2026/04/19/novo-nordisk-openai-ai-drug-discovery-partnership/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 58adb44658b68fe5ece8c17b66921a11ba0bcffc0870fc90ee4a57f0978f560c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 - 2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d
-embedding_id: null
+embedding_id: 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
 event_name: ''
 ---
 

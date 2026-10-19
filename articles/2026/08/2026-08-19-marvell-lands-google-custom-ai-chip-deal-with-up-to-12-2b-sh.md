@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2b-sh
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-google-in-talks-for-1-5b-deal-with-coding-agent-startup-mech
 - 2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported
 - 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
-embedding_id: null
+embedding_id: 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
 event_name: ''
 ---
 

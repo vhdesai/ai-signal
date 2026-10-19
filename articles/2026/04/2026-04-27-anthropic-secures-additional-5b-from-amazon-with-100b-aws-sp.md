@@ -5,8 +5,8 @@ title: Anthropic Secures Additional $5B from Amazon with $100B AWS Spending Pled
 date: '2026-04-27'
 source: The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/anthropic-amazon-compute
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: de2cb2ee412aa464fa792fccf602d20017d75eaeb10db09f1b881921096b27a1
@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-embedding_id: null
+embedding_id: 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 event_name: ''
 ---
 

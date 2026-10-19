@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 - 2026-07-08-co-lmlm-continuous-query-limited-memory-language-models
-embedding_id: null
+embedding_id: 2026-07-26-abbel-belief-state-memory-for-llm-agents
 event_name: ''
 ---
 

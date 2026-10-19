@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 - 2026-06-17-daily-ai-news-digest-june-18-2026
 - 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
-embedding_id: null
+embedding_id: 2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is
 event_name: ''
 ---
 

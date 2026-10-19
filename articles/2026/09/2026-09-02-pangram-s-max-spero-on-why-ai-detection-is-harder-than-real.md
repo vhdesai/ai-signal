@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 - 2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme
 - 2026-08-01-ai-and-the-blurring-of-reality
-embedding_id: null
+embedding_id: 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
 event_name: ''
 ---
 

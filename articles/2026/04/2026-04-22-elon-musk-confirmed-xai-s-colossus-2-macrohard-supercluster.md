@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 - 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
-embedding_id: null
+embedding_id: 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
 event_name: ''
 ---
 

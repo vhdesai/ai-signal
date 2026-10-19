@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-nvidia-commits-3-5b-to-mediatek-to-extend-nvlink-fusion-into
 - 2026-09-01-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
-embedding_id: null
+embedding_id: 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-edge-to-c
 event_name: ''
 ---
 

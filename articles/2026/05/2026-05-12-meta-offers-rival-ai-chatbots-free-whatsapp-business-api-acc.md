@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-06-03-meta-launches-business-agent-for-whatsapp-globally
-embedding_id: null
+embedding_id: 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 event_name: ''
 ---
 

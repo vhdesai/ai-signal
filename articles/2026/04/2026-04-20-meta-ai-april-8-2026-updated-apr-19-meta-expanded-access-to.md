@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash
 - 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 - 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
-embedding_id: null
+embedding_id: 2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to
 event_name: ''
 ---
 

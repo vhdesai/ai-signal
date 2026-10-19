@@ -4,8 +4,8 @@ title: Anthropic Brings Live, Shareable Artifacts to Claude Code
 date: '2026-06-19'
 source: DevOps.com
 url_original: https://devops.com/anthropic-brings-live-shareable-artifacts-to-claude-code/
-url_canonical: https://devops.com/anthropic-brings-live-shareable-artifacts-to-claude-code/
-url_status: broken
+url_canonical: https://www.techtimes.com/articles/318691/20260619/claude-code-artifacts-turns-ai-coding-sessions-live-shareable-browser-pages.htm
+url_status: repaired
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: 134792b56acb2d105c58b861d7e346609e931b07042f49b9db1319aa7456dfea
 normalized_title_hash: 78b3a602c29f4935
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
-embedding_id: null
+embedding_id: 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 event_name: ''
 ---
 

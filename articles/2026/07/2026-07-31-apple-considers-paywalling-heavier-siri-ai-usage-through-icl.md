@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
-embedding_id: null
+embedding_id: 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 event_name: ''
 ---
 

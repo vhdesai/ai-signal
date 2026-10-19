@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-01-micron-reports-a-380-revenue-jump-as-ai-memory-demand-lifts
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
-embedding_id: null
+embedding_id: 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 event_name: ''
 ---
 

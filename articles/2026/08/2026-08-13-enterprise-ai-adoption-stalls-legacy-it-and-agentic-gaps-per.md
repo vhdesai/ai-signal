@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
-embedding_id: null
+embedding_id: 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
 event_name: ''
 ---
 

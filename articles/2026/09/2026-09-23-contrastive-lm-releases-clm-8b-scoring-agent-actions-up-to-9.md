@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
-embedding_id: null
+embedding_id: 2026-09-23-contrastive-lm-releases-clm-8b-scoring-agent-actions-up-to-9
 event_name: ''
 ---
 

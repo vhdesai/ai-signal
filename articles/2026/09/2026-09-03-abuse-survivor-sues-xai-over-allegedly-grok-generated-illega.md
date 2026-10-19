@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
-embedding_id: null
+embedding_id: 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
 event_name: ''
 ---
 

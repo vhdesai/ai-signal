@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 - 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
-embedding_id: null
+embedding_id: 2026-09-20-runway-details-real-time-steerable-video-generation-on-its-g
 event_name: ''
 ---
 

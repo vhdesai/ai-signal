@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh
 - 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
 - 2026-09-19-trump-floats-a-federal-ai-czar-and-an-ai-force-modeled-on-sp
-embedding_id: null
+embedding_id: 2026-09-22-treasury-secretary-bessent-emerges-as-frontrunner-for-white
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 event_name: ''
 ---
 

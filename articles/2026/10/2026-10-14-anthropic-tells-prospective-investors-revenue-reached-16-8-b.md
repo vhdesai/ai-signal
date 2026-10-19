@@ -20,8 +20,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
+- 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
+- 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
+embedding_id: 2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b
 event_name: ''
 ---
 
@@ -34,4 +37,5 @@ Reuters reports Anthropic told prospective investors quarterly revenue reached $
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
+**Related:** [[2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b]]
 <!-- graph:end -->

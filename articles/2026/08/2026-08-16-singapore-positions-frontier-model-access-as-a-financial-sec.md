@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr
 - 2026-08-18-uk-assesses-the-economic-risk-of-losing-access-to-foreign-fr
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
-embedding_id: null
+embedding_id: 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
 event_name: ''
 ---
 

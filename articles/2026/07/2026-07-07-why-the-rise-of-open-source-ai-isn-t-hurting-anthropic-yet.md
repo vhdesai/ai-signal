@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-anthropic-and-openai-to-share-the-ai-stage-at-techcrunch-dis
 - 2026-07-17-ai-s-wider-availability-puts-pressure-on-openai-and-anthropi
 - 2026-09-21-anthropic-weighs-an-off-cycle-model-release-as-openai-s-astr
-embedding_id: null
+embedding_id: 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Nvidia's $200B "Vera" Chip Bet and the H200 China Deal
 date: '2026-05-19'
 source: AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://toptechnews.net/articles/nvidia-h200-china-approval-restart-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: fbba8a4d9ab66d188744df2d74a0854cbb45229b58b1ac5c8896b000b6a6ca88
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
-embedding_id: null
+embedding_id: 2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal
 event_name: ''
 ---
 

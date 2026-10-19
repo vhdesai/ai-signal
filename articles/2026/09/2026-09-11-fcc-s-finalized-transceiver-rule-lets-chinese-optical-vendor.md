@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-chinese-optical-chip-stocks-sell-off-on-fears-of-possible-us
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
-embedding_id: null
+embedding_id: 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 event_name: ''
 ---
 

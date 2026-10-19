@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-embedding_id: null
+embedding_id: 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 event_name: ''
 ---
 

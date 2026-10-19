@@ -4,8 +4,8 @@ title: Farmers emerge as a new source of data-center backlash
 date: '2026-07-14'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://farmersforum.com/a-new-foe-has-emerged-for-data-centers-farmers/
+url_status: repaired
 digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: 17b79098720331cefec19b86aa52648ac875fe6f1d2d62c7ffe2c99070162081
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-embedding_id: null
+embedding_id: 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ related_article_ids:
 - 2026-08-14-ukraine-says-an-nvidia-chip-was-found-inside-a-russian-cruis
 - 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
 - 2026-08-24-ukraine-says-a-fully-autonomous-russian-ai-drone-killed-thre
-embedding_id: null
+embedding_id: 2026-07-11-the-videos-from-ukraine-show-a-cat-and-mouse-game
 event_name: ''
 ---
 

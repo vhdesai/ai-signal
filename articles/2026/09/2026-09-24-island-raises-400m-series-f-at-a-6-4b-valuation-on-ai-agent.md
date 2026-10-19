@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-island-raises-400m-at-a-6-4b-valuation-as-enterprises-budget
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-island-raises-400m-series-f-at-a-6-4b-valuation-on-ai-agent
 event_name: ''
 ---
 

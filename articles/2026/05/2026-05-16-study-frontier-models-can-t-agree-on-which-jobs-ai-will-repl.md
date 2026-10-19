@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 - 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
-embedding_id: null
+embedding_id: 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 event_name: ''
 ---
 

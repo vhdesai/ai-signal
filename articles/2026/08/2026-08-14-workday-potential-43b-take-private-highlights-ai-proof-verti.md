@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-embedding_id: null
+embedding_id: 2026-08-14-workday-potential-43b-take-private-highlights-ai-proof-verti
 event_name: ''
 ---
 

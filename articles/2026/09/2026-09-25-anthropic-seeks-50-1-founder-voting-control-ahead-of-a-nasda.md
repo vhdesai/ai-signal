@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
 - 2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc
 - 2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe
-embedding_id: null
+embedding_id: 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
 event_name: ''
 ---
 

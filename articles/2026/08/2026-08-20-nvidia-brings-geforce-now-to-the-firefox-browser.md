@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
 - 2026-08-26-amazon-triples-its-nvidia-gpu-order-adding-2-million-chips
-embedding_id: null
+embedding_id: 2026-08-20-nvidia-brings-geforce-now-to-the-firefox-browser
 event_name: ''
 ---
 

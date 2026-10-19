@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-ibm-partners-with-openai-to-embed-frontier-models-across-con
 event_name: ''
 ---
 

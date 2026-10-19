@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-embedding_id: null
+embedding_id: 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 event_name: ''
 ---
 

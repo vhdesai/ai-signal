@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 related_article_ids:
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
-embedding_id: null
+embedding_id: 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 event_name: ''
 ---
 

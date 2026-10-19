@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-lovable-confirms-400m-raise-at-a-13-3b-valuation
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-as-annualized-revenue
 - 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 - 2026-08-13-databricks-raises-5b-at-190b-valuation-with-revenue-past-7b
-embedding_id: null
+embedding_id: 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
-embedding_id: null
+embedding_id: 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 event_name: ''
 ---
 

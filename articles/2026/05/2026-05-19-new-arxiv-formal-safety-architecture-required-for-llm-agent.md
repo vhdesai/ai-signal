@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-embedding_id: null
+embedding_id: 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 event_name: ''
 ---
 

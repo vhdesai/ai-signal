@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-embedding_id: null
+embedding_id: 2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
 - 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
-embedding_id: null
+embedding_id: 2026-08-01-techcrunch-reports-that-snap-updated-spotlight-monetization
 event_name: ''
 ---
 

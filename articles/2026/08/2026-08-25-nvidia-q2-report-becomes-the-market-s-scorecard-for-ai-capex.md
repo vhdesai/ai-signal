@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape
-embedding_id: null
+embedding_id: 2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex
 event_name: ''
 ---
 

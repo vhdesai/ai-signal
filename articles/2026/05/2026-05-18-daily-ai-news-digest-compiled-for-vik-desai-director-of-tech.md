@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
-embedding_id: null
+embedding_id: 2026-05-18-daily-ai-news-digest-compiled-for-vik-desai-director-of-tech
 event_name: ''
 ---
 

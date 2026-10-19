@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+embedding_id: 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
 event_name: ''
 ---
 

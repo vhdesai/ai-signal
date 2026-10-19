@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis
 - 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
 - 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
-embedding_id: null
+embedding_id: 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
 event_name: ''
 ---
 

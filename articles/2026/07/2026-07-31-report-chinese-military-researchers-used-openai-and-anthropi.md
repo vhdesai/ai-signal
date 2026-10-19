@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
 event_name: ''
 ---
 

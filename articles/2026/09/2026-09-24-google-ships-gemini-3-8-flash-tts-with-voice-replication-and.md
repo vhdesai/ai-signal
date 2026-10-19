@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-23-google-launches-gemini-3-8-flash-tts-and-flash-lite-tts-with
 - 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
-embedding_id: null
+embedding_id: 2026-09-24-google-ships-gemini-3-8-flash-tts-with-voice-replication-and
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-19-the-trump-administration-s-commerce-department-order-forcing
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 - 2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d
-embedding_id: null
+embedding_id: 2026-06-03-ai-music-startup-suno-raises-capital-at-5-4b-valuation
 event_name: ''
 ---
 

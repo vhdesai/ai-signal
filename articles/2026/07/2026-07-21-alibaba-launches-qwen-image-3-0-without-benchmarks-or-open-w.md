@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
 - 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-embedding_id: null
+embedding_id: 2026-07-21-alibaba-launches-qwen-image-3-0-without-benchmarks-or-open-w
 event_name: ''
 ---
 

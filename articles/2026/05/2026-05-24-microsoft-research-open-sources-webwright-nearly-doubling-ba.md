@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag
 - 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: null
+embedding_id: 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 event_name: ''
 ---
 

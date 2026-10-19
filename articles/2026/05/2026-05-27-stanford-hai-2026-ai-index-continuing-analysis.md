@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-embedding_id: null
+embedding_id: 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 event_name: ''
 ---
 

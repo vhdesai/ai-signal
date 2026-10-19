@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-09-07-google-to-build-a-new-ai-chip-in-israel-recruiting-from-hail
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-embedding_id: null
+embedding_id: 2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr
 event_name: ''
 ---
 

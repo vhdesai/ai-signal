@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-openai-discloses-unsecured-agents-posted-53-user-images-publ
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 event_name: ''
 ---
 

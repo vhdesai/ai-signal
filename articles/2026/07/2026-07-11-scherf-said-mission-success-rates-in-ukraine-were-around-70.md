@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-09-17-pew-ai-job-loss-expectations-outweigh-job-creation-in-34-of
-embedding_id: null
+embedding_id: 2026-07-11-scherf-said-mission-success-rates-in-ukraine-were-around-70
 event_name: ''
 ---
 

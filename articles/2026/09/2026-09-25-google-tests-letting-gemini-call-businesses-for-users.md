@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
 - 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
-embedding_id: null
+embedding_id: 2026-09-25-google-tests-letting-gemini-call-businesses-for-users
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai
 related_article_ids:
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
-embedding_id: null
+embedding_id: 2026-08-27-100-companies-including-openai-anthropic-google-and-microsof
 event_name: ''
 ---
 

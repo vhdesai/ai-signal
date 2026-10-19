@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-embedding_id: null
+embedding_id: 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 event_name: ''
 ---
 

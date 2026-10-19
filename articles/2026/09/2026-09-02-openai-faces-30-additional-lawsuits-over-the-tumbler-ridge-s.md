@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
-embedding_id: null
+- 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
+embedding_id: 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Law firm Edelson PC is filing 30 new complaints against OpenAI this week, adding
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]]
+**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue]] · [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety]]
 <!-- graph:end -->

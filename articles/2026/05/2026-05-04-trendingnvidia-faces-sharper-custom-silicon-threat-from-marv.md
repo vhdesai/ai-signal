@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
-embedding_id: null
+embedding_id: 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 event_name: ''
 ---
 

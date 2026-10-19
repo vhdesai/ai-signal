@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 event_name: ''
 ---
 

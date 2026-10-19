@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-01-chatgpt-adds-virtual-try-on-and-a-favorites-library-for-appa
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
-embedding_id: null
+embedding_id: 2026-10-01-shopify-debuts-canvas-letting-merchants-build-storefronts-by
 event_name: ''
 ---
 

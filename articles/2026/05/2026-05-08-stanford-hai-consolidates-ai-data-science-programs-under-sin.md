@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-06-30-stanford-hai-posted-a-revised-version-v3-of-its-ninth-editio
-embedding_id: null
+embedding_id: 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 event_name: ''
 ---
 

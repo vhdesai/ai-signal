@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-multimodal-moe-weights-in-two
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
-embedding_id: null
+embedding_id: 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-anthropic-puts-claude-mythos-5-behind-claude-security-adds-a
 - 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
-embedding_id: null
+embedding_id: 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 event_name: ''
 ---
 

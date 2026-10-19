@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
-embedding_id: null
+embedding_id: 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 - 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 - 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
-embedding_id: null
+embedding_id: 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 event_name: ''
 ---
 

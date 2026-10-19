@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
-embedding_id: null
+embedding_id: 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
 event_name: ''
 ---
 

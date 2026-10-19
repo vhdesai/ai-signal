@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-09-openai-updates-chatgpt-with-interactive-graphics
 event_name: ''
 ---
 

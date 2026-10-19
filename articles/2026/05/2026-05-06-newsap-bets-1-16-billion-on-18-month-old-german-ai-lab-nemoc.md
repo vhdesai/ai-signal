@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-embedding_id: null
+embedding_id: 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 event_name: ''
 ---
 

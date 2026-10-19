@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
-embedding_id: null
+embedding_id: 2026-08-16-kentucky-farmers-refuse-26-million-from-ai-data-center-devel
 event_name: ''
 ---
 

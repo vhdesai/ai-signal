@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-then-raises-ap
-embedding_id: null
+embedding_id: 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 event_name: ''
 ---
 

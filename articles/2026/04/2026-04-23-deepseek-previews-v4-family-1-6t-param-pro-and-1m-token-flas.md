@@ -4,8 +4,8 @@ title: 'DeepSeek previews V4 family: 1.6T-param Pro and 1M-token Flash'
 date: '2026-04-23'
 source: DeepSeek / MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 989156251934bad1bd79f974bced78c4ae53d2814d0fbee4f22588281bea138e
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
-embedding_id: null
+embedding_id: 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 event_name: ''
 ---
 

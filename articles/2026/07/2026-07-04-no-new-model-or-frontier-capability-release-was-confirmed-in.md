@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
 - 2026-04-02-hot-microsoft-sets-frontier-ai-target-for-2027-apr-2-executi
-embedding_id: null
+embedding_id: 2026-07-04-no-new-model-or-frontier-capability-release-was-confirmed-in
 event_name: ''
 ---
 

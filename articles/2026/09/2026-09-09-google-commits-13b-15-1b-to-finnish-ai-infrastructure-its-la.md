@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 - 2026-04-25-google-plans-up-to-40b-anthropic-investment
-embedding_id: null
+embedding_id: 2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuat
 related_article_ids:
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 - 2026-07-07-sambanova-raises-1b-for-inference-silicon
-embedding_id: null
+embedding_id: 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-embedding_id: null
+embedding_id: 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 event_name: ''
 ---
 

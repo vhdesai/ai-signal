@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-embedding_id: null
+embedding_id: 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 event_name: ''
 ---
 

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law
 - 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 - 2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ
-- 2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe
-embedding_id: null
+embedding_id: 2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Apple published MoMo, a two-stage imitation-learning framework that separates ta
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ]] · [[2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe]]
+**Related:** [[2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-08-10-dyna-robotics-unveils-dyna-2-claiming-the-first-scaling-law]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[2026-09-28-sakana-ai-and-the-university-of-tokyo-triple-robot-task-succ]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 - 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
-embedding_id: null
+embedding_id: 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
 event_name: ''
 ---
 

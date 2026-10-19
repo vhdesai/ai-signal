@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
-embedding_id: null
+embedding_id: 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-embedding_id: null
+embedding_id: 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 event_name: ''
 ---
 

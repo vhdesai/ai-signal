@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-embedding_id: null
+embedding_id: 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 event_name: ''
 ---
 

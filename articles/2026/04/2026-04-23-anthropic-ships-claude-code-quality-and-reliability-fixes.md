@@ -4,8 +4,8 @@ title: Anthropic ships Claude Code quality and reliability fixes
 date: '2026-04-23'
 source: Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://headsupai.io/updates/anthropic-ships-50-stability-fixes-harden-claude-code-agentic-workflows
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: cdec2cd9a9835a6a13ff820ff4d326e52d2b053f476c228835a995d8b3bf98c0
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-embedding_id: null
+embedding_id: 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 event_name: ''
 ---
 

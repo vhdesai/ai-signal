@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
 - 2026-09-14-oecd-links-heavy-ai-use-in-schoolwork-to-sharp-learning-decl
 - 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
-embedding_id: null
+embedding_id: 2026-09-02-new-york-city-bans-generative-ai-in-schools-through-eighth-g
 event_name: ''
 ---
 

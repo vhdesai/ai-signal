@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit
 - 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
-embedding_id: null
+embedding_id: 2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr
 event_name: ''
 ---
 

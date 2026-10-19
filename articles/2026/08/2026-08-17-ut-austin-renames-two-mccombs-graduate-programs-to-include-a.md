@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
-embedding_id: null
+embedding_id: 2026-08-17-ut-austin-renames-two-mccombs-graduate-programs-to-include-a
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-09-14-anthropic-preparing-claude-money-for-personal-finance-workfl
 - 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
-embedding_id: null
+embedding_id: 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
 event_name: ''
 ---
 

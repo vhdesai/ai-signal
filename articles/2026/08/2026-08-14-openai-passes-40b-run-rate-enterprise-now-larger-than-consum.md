@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-15-openai-s-enterprise-revenue-tops-consumer-for-the-first-time
 - 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
-embedding_id: null
+embedding_id: 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Meta’s AI spending pressures free cash flow while it explores compute m
 date: '2026-07-30'
 source: DealBook / The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Anthropic%20compute%20lease
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Meta%20Anthropic%20compute%20lease
-url_status: broken
+url_canonical: https://www.globalbankingandfinance.com/analysis-metas-ai-splurge-lays-bare-compute-conundrum/
+url_status: repaired
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 164e3793b05f846269d72887444007d8d044d3092865a315b958e44888d56d0b
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: null
+embedding_id: 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
-embedding_id: null
+embedding_id: 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 event_name: ''
 ---
 

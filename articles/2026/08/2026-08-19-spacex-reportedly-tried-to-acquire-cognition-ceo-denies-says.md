@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-embedding_id: null
+embedding_id: 2026-08-19-spacex-reportedly-tried-to-acquire-cognition-ceo-denies-says
 event_name: ''
 ---
 

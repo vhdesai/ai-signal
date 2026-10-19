@@ -5,8 +5,8 @@ title: This paper examines prompt-injection attacks against LLM-based résumé s
 date: '2026-06-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2509.14285
+url_status: repaired
 digest_source: digests\raw\2026-06-26_060327_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 7fb0a17d844ea4f45309c8b0184b67ee999a9aec241206a4709078ba2f48989e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
-embedding_id: null
+embedding_id: 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
 event_name: ''
 ---
 

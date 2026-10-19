@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
 - 2026-08-24-nvidia-says-groq-racks-will-be-online-this-year-following-20
 - 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
-embedding_id: null
+embedding_id: 2026-09-10-doj-investigating-nvidia-s-20b-groq-license-and-hire-deal-fo
 event_name: ''
 ---
 

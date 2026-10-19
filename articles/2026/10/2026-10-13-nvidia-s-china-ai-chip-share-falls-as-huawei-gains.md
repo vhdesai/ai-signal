@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-13-huawei-narrows-nvidia-s-china-ai-chip-shipment-lead
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-embedding_id: null
+embedding_id: 2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains
 event_name: ''
 ---
 

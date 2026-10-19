@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 - 2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with
-embedding_id: null
+embedding_id: 2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new
 event_name: ''
 ---
 

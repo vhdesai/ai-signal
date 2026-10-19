@@ -4,8 +4,8 @@ title: LLMs can mass-produce finance papers that look human-authored
 date: '2026-05-29'
 source: Academic coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: c68ed121081c5ec34889a4e2f42bbca4fa10e4989816756c02f85ec99e1382e9
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an
-embedding_id: null
+embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
 

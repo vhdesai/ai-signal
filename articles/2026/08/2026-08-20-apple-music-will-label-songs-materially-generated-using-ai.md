@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-apple-music-will-label-songs-materially-generated-using-ai
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-embedding_id: null
+embedding_id: 2026-09-17-house-votes-417-3-to-make-data-centers-pay-their-own-grid-up
 event_name: ''
 ---
 

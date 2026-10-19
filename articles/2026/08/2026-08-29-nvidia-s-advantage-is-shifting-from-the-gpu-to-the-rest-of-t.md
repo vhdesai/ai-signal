@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-08-29-analysis-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
 - 2026-07-16-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-s-advantage-is-shifting-from-the-gpu-to-the-rest-of-t
 event_name: ''
 ---
 

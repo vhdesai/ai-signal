@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 event_name: ''
 ---
 

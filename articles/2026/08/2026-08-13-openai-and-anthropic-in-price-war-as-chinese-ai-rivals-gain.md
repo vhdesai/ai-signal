@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
-embedding_id: null
+embedding_id: 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 event_name: ''
 ---
 

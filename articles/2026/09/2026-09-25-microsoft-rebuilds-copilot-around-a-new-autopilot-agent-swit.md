@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-embedding_id: null
+embedding_id: 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
 event_name: ''
 ---
 

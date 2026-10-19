@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 event_name: ''
 ---
 

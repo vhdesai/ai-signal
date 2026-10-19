@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
-embedding_id: null
+embedding_id: 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
 event_name: ''
 ---
 

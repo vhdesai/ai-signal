@@ -4,8 +4,8 @@ title: Intel-backed edge-AI chipmaker Syntiant files for IPO
 date: '2026-07-06'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/intel-intc-backer-syntiant-files-011501392.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 6aa895a00d1e8142274e6ae317f2d81b8485632fc6f71aa09d000515b73f6167
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
-embedding_id: null
+embedding_id: 2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo
 event_name: ''
 ---
 

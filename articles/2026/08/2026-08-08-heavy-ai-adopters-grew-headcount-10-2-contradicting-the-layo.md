@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
-embedding_id: null
+embedding_id: 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 event_name: ''
 ---
 

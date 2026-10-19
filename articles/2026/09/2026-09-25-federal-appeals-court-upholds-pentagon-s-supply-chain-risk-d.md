@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-25-appeals-court-upholds-pentagon-s-supply-chain-risk-designati
 related_article_ids:
 - 2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri
-embedding_id: null
+embedding_id: 2026-09-25-federal-appeals-court-upholds-pentagon-s-supply-chain-risk-d
 event_name: ''
 ---
 

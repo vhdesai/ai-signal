@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
 event_name: ''
 ---
 

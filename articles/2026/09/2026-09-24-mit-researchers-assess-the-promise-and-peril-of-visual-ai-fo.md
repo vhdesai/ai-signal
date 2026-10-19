@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 - 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
-embedding_id: null
+embedding_id: 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 event_name: ''
 ---
 

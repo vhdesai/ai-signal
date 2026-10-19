@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-21-u-s-and-china-set-first-official-ai-talks-for-september-bess
 event_name: ''
 ---
 

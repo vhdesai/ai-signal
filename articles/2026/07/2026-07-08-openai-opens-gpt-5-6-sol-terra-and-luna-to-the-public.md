@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
 - 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
-embedding_id: null
+embedding_id: 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
 event_name: ''
 ---
 

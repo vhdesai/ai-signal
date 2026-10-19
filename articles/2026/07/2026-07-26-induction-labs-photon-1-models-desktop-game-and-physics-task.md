@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-09-26-supersonic-labs-releases-julia-1-a-144-3m-parameter-open-dec
 - 2026-05-11-
-embedding_id: null
+embedding_id: 2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task
 event_name: ''
 ---
 

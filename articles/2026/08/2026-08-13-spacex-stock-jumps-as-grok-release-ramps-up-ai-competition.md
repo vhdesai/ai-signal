@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-embedding_id: null
+embedding_id: 2026-08-13-spacex-stock-jumps-as-grok-release-ramps-up-ai-competition
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
-embedding_id: null
+embedding_id: 2026-07-29-waymo-an-ai-project-isn-t-ready-until-its-evals-are
 event_name: ''
 ---
 

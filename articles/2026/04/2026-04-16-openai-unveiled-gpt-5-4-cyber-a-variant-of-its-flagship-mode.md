@@ -5,8 +5,8 @@ title: OpenAI unveiled GPT-5.4-Cyber, a variant of its flagship model optimized 
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: bd3946ef79e74f1f3a6a2d28f4a0009c2950fa4bbc31e37f44e873445610ba7a
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
-embedding_id: null
+embedding_id: 2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode
 event_name: ''
 ---
 

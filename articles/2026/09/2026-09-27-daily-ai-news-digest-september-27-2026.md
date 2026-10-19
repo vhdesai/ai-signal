@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-10-09-daily-ai-news-digest-october-10-2026
 - 2026-09-23-daily-ai-news-digest-september-24-2026
-embedding_id: null
+embedding_id: 2026-09-27-daily-ai-news-digest-september-27-2026
 event_name: ''
 ---
 

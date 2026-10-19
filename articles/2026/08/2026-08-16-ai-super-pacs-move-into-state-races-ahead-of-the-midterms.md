@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-16-ai-super-pacs-flood-money-into-state-elections
 - 2026-07-17-pro-ai-and-ai-safety-groups-prepare-for-midterm-policy-fight
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
-embedding_id: null
+embedding_id: 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
 event_name: ''
 ---
 

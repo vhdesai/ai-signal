@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: null
+embedding_id: 2026-09-11-cognition-raises-2b-at-a-48b-valuation-as-agentic-coding-tak
 event_name: ''
 ---
 

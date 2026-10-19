@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-embedding_id: null
+embedding_id: 2026-04-01-microsoft-and-nvidia-announced-expanded-integration-bringing
 event_name: ''
 ---
 

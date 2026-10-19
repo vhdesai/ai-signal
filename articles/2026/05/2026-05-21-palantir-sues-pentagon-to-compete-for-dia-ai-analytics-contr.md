@@ -4,8 +4,8 @@ title: Palantir Sues Pentagon to Compete for DIA AI Analytics Contract  Trending
 date: '2026-05-21'
 source: 'Source: Axios / Newsmax'
 url_original: https://www.newsmax.com/politics/palantir-pentagon-defense/2026/05/21/id/1257081/
-url_canonical: https://www.newsmax.com/politics/palantir-pentagon-defense/2026/05/21/id/1257081/
-url_status: broken
+url_canonical: https://www.ibtimes.com/palantir-challenges-pentagon-intelligence-contract-over-ai-data-system-modernization-3803137
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: bab129439f9b38e6066dae684d1d15b18365879e0c2d8f744acbc70b43c93de0
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-08-29-palantir-in-focus-after-court-strikes-down-pentagon-s-anthro
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-embedding_id: null
+embedding_id: 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 event_name: ''
 ---
 

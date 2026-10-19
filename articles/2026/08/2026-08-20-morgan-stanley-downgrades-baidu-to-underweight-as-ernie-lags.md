@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 - 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
-embedding_id: null
+embedding_id: 2026-08-20-morgan-stanley-downgrades-baidu-to-underweight-as-ernie-lags
 event_name: ''
 ---
 

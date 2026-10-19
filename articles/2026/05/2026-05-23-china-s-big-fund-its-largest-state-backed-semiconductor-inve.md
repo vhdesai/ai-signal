@@ -5,8 +5,8 @@ title: China's "Big Fund" — its largest state-backed semiconductor investment 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://capacityglobal.com/news/china-big-fund-deepseek-investment/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 8e6eaeddec5000cf411cf10b14e2f730767d246559bab5cec07705885353a189
@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
 - 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
-embedding_id: null
+embedding_id: 2026-05-23-china-s-big-fund-its-largest-state-backed-semiconductor-inve
 event_name: ''
 ---
 

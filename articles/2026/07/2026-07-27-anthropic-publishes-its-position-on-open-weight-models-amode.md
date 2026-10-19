@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode
 event_name: ''
 ---
 

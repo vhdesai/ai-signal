@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
-embedding_id: null
+embedding_id: 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 event_name: ''
 ---
 

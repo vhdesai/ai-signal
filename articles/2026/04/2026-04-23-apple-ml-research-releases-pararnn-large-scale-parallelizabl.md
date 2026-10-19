@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-embedding_id: null
+embedding_id: 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 event_name: ''
 ---
 

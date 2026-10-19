@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2196
+member_count: 2206
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2196 connected article(s).
+> Auto-generated topic hub. 2206 connected article(s).
 
+- `2026-10-18` [[2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic|Taste-Bench shows agents still make poor long-term strategic choices]]
+- `2026-10-18` [[2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps|Nvidia enters correction as AI bubble index jumps]]
+- `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
+- `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
+- `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
+- `2026-10-18` [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi|Enterprises adopting AI agents discover they now manage digital workers]]
+- `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
+- `2026-10-18` [[2026-10-18-agent-refund-experiment-shows-agentic-flooding-risk-in-every|Agent refund experiment shows "agentic flooding" risk in everyday disputes]]
+- `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
+- `2026-10-17` [[2026-10-17-daily-ai-news-digest-october-18-2026|Daily AI News Digest – October 18, 2026]]
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
 - `2026-10-14` [[2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic|Ricursive pursues AI-designed chips to improve compute efficiency]]
 - `2026-10-14` [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans|CoreWeave selloff highlights the financing risk of AI expansion]]

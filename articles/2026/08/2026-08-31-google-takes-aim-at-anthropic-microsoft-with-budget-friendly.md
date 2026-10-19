@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: null
+embedding_id: 2026-08-31-google-takes-aim-at-anthropic-microsoft-with-budget-friendly
 event_name: ''
 ---
 

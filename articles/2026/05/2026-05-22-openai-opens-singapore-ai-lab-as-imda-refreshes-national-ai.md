@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 - 2026-07-27-openai-expands-european-footprint-with-new-dublin-hq-and-250
 - 2026-08-17-openai-funds-independent-projects-on-policy-ideas-for-the-in
-embedding_id: null
+embedding_id: 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
 event_name: ''
 ---
 

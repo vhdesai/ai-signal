@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-embedding_id: null
+embedding_id: 2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term
 event_name: ''
 ---
 

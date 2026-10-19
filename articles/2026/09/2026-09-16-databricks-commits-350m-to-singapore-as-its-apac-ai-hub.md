@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-databricks-hits-188b-valuation-doubling-down-on-open-weight
-embedding_id: null
+embedding_id: 2026-09-16-databricks-commits-350m-to-singapore-as-its-apac-ai-hub
 event_name: ''
 ---
 

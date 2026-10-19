@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-cohere-releases-parse-5-a-2-3b-vision-language-model-for-ent
 - 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
-embedding_id: null
+embedding_id: 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 event_name: ''
 ---
 

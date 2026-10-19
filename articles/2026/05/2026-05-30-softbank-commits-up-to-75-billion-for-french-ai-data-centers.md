@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 - 2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c
 - 2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection
-embedding_id: null
+embedding_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 event_name: ''
 ---
 

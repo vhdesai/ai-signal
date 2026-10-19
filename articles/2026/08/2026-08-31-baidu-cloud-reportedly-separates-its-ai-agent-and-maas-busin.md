@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-embedding_id: null
+embedding_id: 2026-08-31-baidu-cloud-reportedly-separates-its-ai-agent-and-maas-busin
 event_name: ''
 ---
 

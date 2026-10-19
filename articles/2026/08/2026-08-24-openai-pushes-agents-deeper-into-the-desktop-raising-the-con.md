@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
 - 2026-08-29-europe-ai-conversations-focus-on-who-controls-agentic-system
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
-embedding_id: null
+embedding_id: 2026-08-24-openai-pushes-agents-deeper-into-the-desktop-raising-the-con
 event_name: ''
 ---
 

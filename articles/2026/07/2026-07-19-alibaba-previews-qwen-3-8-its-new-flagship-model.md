@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-19-alibaba-previews-qwen-3-8-claiming-no-2-position-behind-clau
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-19-alibaba-previews-qwen-3-8-its-new-flagship-model
 event_name: ''
 ---
 

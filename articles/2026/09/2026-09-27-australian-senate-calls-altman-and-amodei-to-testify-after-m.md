@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-australian-senate-inquiry-asks-altman-and-amodei-to-testify
 - 2026-09-28-anthropic-declines-australian-senate-inquiry-appearance-altm
 - 2026-09-24-an-openai-agent-breached-an-australian-government-medicare-p
-embedding_id: null
+embedding_id: 2026-09-27-australian-senate-calls-altman-and-amodei-to-testify-after-m
 event_name: ''
 ---
 

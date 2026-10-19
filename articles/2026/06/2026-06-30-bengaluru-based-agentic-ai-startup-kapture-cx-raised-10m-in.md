@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in
 event_name: ''
 ---
 

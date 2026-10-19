@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-22-aws-turns-security-hub-into-an-ai-and-multicloud-security-co
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents
-embedding_id: null
+embedding_id: 2026-08-31-cloudflare-introduces-adaptive-intelligence-for-bot-manageme
 event_name: ''
 ---
 

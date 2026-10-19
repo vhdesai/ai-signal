@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-embedding_id: null
+embedding_id: 2026-10-10-sakana-ai-reports-an-llm-peer-review-system-that-catches-73
 event_name: ''
 ---
 

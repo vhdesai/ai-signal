@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-04-nvidia-agrees-to-buy-hugging-face-for-12-93b-taking-control
 related_article_ids:
 - 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
 event_name: ''
 ---
 

@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler
 - 2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch
 - 2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s
-- 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
-- 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
-embedding_id: null
+- 2026-10-14-eight-states-challenge-openai-s-safety-representations
+- 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
+embedding_id: 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ British Columbia and the Peace River South School District filed suit in the Nor
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment]] · [[2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai]]
+**Related:** [[2026-09-21-british-columbia-sues-openai-and-sam-altman-over-the-tumbler]] · [[2026-09-21-british-columbia-sues-openai-alleging-chatgpt-aided-mass-sch]] · [[2026-09-02-openai-faces-30-additional-lawsuits-over-the-tumbler-ridge-s]] · [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety]]
 <!-- graph:end -->

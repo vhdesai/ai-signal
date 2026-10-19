@@ -8,8 +8,8 @@ title: New research reports that personal AI agents can help networked teams sol
 date: '2026-10-15'
 source: 'Source: PR Newswire'
 url_original: null
-url_canonical: https://www.prnewswire.com/news-releases/new-research-shows-that-personal-ai-agents-can-help-networked-teams-solve-complex-problems-significantly-faster-302909440.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-15_064721_Inbox_ClawPilot - Daily AI News Digest
   – October 15, 2026.md
 content_hash: 65ea76c4471d70d91e7905ce69d5fe3c22d47a736521d184c5ca216d237d5fd7
@@ -23,8 +23,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
+- 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
+- 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
+- 2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag
+- 2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi
+embedding_id: 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ Publication window: items published Oct 14 – Oct 15, 2026 (last 24 hours). Com
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]] · [[2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy]] · [[2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain]] · [[2026-09-24-ando-targets-slack-with-messaging-built-for-humans-and-ai-ag]] · [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi]]
 <!-- graph:end -->

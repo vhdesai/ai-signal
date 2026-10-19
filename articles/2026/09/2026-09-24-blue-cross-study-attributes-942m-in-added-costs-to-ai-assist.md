@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-blue-cross-analysis-attributes-942m-in-added-costs-to-ai-ass
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-blue-cross-study-attributes-942m-in-added-costs-to-ai-assist
 event_name: ''
 ---
 

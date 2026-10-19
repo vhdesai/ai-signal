@@ -4,8 +4,8 @@ title: Tencent previews Hunyuan 3 with native video and 3D generation
 date: '2026-04-23'
 source: Tencent / VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.deeplearning.ai/the-batch/tencent-releases-hunyuanvideo-an-open-source-model-rivaling-commercial-video-generators
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 9cfe7e841cfcd98108cadfcf8cd76f4eae689e19c8f06d57097a7ca98ba15664
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 - 2026-09-22-tencent-launches-hy-image-3-5-preview-shares-rise-about-5
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
-embedding_id: null
+embedding_id: 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-28-anthropic-s-pentagon-victory-judge-rules-supply-chain-label
 related_article_ids:
 - 2026-08-28-federal-judge-strikes-down-pentagon-s-blacklisting-of-anthro
-embedding_id: null
+embedding_id: 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 event_name: ''
 ---
 

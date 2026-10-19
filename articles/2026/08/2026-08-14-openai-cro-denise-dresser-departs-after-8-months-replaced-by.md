@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-openai-cro-dresser-departs-after-8-months-replaced-by-former
 - 2026-08-13-openai-replaces-cro-after-nine-months-hires-wiz-coo-dali-raj
 - 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
-embedding_id: null
+embedding_id: 2026-08-14-openai-cro-denise-dresser-departs-after-8-months-replaced-by
 event_name: ''
 ---
 

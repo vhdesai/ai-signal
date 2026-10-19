@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
-embedding_id: null
+embedding_id: 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
 event_name: ''
 ---
 

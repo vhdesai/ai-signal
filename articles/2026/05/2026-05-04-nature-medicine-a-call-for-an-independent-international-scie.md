@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-embedding_id: null
+embedding_id: 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 event_name: ''
 ---
 

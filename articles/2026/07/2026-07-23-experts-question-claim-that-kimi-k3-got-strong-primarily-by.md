@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-23-white-house-alleges-covert-distillation-of-anthropic-s-model
 - 2026-07-23-experts-say-exploiting-anthropic-s-fable-is-not-enough-to-ex
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: null
+embedding_id: 2026-07-23-experts-question-claim-that-kimi-k3-got-strong-primarily-by
 event_name: ''
 ---
 

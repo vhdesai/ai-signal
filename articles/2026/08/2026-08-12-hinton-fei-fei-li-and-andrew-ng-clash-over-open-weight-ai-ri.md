@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-hinton-li-and-ng-argue-openness-is-the-safer-path-as-scrutin
 - 2026-08-12-ai-pioneers-argue-for-keeping-ai-open-as-safety-concerns-mou
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
-embedding_id: null
+embedding_id: 2026-08-12-hinton-fei-fei-li-and-andrew-ng-clash-over-open-weight-ai-ri
 event_name: ''
 ---
 

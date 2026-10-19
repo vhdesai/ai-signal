@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-google-expands-gemma-into-multimodal-on-device-retrieval
 - 2026-09-23-google-introduces-server-side-memory-to-private-ai-compute
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-embedding_id: null
+embedding_id: 2026-10-14-google-deepmind-and-singapore-build-on-device-ai-scam-detect
 event_name: ''
 ---
 

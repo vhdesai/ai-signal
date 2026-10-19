@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 - 2026-09-12-deepseek-v4-1-flash-ships-a-new-encoder-decoder-architecture
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-embedding_id: null
+embedding_id: 2026-09-11-deepseek-v4-1-flash-lands-on-third-party-inference-platforms
 event_name: ''
 ---
 

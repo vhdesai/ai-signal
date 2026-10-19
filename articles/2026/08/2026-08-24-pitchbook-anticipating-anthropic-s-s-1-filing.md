@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
 - 2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov
 - 2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11
-embedding_id: null
+embedding_id: 2026-08-24-pitchbook-anticipating-anthropic-s-s-1-filing
 event_name: ''
 ---
 

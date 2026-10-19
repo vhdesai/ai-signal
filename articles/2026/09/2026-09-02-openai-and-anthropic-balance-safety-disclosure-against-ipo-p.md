@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
-embedding_id: null
+embedding_id: 2026-09-02-openai-and-anthropic-balance-safety-disclosure-against-ipo-p
 event_name: ''
 ---
 

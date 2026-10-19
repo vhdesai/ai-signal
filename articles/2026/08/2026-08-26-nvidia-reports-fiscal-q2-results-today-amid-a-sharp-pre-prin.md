@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex
 - 2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev
 - 2026-08-26-nasdaq-futures-edge-lower-ahead-of-pce-data-and-nvidia-earni
-embedding_id: null
+embedding_id: 2026-08-26-nvidia-reports-fiscal-q2-results-today-amid-a-sharp-pre-prin
 event_name: ''
 ---
 

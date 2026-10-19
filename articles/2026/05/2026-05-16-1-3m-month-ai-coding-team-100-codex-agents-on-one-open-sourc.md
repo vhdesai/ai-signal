@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-embedding_id: null
+embedding_id: 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 event_name: ''
 ---
 

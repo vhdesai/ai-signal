@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
-embedding_id: null
+embedding_id: 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
 event_name: ''
 ---
 

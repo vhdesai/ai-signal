@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 event_name: ''
 ---
 

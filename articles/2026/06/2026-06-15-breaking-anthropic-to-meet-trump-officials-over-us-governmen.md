@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 - 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
 - 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
-embedding_id: null
+embedding_id: 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
 - 2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga
-embedding_id: null
+embedding_id: 2026-04-02-research-breakthroughs
 event_name: ''
 ---
 

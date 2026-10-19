@@ -27,10 +27,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-09-daily-ai-news-digest-october-10-2026
 - 2026-10-10-daily-ai-news-digest-october-11-2026
+- 2026-10-17-daily-ai-news-digest-october-18-2026
 - 2026-09-26-daily-ai-news-digest-september-27-2026
 - 2026-09-03-daily-ai-news-digest-september-4-2026
-- 2026-09-21-daily-ai-news-digest-september-22-2026
-embedding_id: null
+embedding_id: 2026-10-12-daily-ai-news-digest-october-13-2026
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ The last 24 hours sharpened three themes: agentic commerce needs explicit author
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]] · [[2026-09-21-daily-ai-news-digest-september-22-2026]]
+**Related:** [[2026-10-09-daily-ai-news-digest-october-10-2026]] · [[2026-10-10-daily-ai-news-digest-october-11-2026]] · [[2026-10-17-daily-ai-news-digest-october-18-2026]] · [[2026-09-26-daily-ai-news-digest-september-27-2026]] · [[2026-09-03-daily-ai-news-digest-september-4-2026]]
 <!-- graph:end -->

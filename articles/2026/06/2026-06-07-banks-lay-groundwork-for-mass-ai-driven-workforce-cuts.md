@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
-embedding_id: null
+embedding_id: 2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts
 event_name: ''
 ---
 

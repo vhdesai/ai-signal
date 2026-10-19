@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1297
+member_count: 1300
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1297 connected article(s).
+> Auto-generated topic hub. 1300 connected article(s).
 
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before|Anthropic commits 5% stake to new public-benefit fund before IPO]]
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
 - `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
 - `2026-10-14` [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b|Anthropic tells prospective investors revenue reached $16.8 billion]]

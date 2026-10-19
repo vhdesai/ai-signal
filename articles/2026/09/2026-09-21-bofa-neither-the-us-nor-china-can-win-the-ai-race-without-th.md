@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
-embedding_id: null
+embedding_id: 2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th
 event_name: ''
 ---
 

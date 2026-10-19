@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-claude-code-adds-cross-session-messaging-for-parallel-agent
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
-embedding_id: null
+embedding_id: 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
 event_name: ''
 ---
 

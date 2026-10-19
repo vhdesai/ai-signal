@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 - 2026-09-02-anthropic-ships-fable-5-1-and-mythos-5-1-with-tiered-access
 - 2026-09-01-anthropic-releases-claude-fable-5-1-and-mythos-5-1-with-a-75
-embedding_id: null
+embedding_id: 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 event_name: ''
 ---
 

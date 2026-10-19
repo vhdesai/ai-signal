@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-09-05-foxconn-says-q3-should-beat-expectations-on-ai-strength
-embedding_id: null
+embedding_id: 2026-08-13-lenovo-profits-soar-past-expectations-on-ai-computers-server
 event_name: ''
 ---
 

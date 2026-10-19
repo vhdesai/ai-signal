@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 906
+member_count: 915
 ---
 
 # Meta
 
-> Auto-generated entity hub. 906 connected article(s).
+> Auto-generated entity hub. 915 connected article(s).
 
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials|MIT model gives AI a 3D view of crystalline materials]]
+- `2026-10-18` [[2026-10-18-mit-combines-crystal-geometry-and-language-for-materials-dis|MIT combines crystal geometry and language for materials discovery]]
+- `2026-10-17` [[2026-10-17-meta-revises-commercial-terms-after-ai-training-concerns|Meta revises commercial terms after AI-training concerns]]
+- `2026-10-17` [[2026-10-17-meta-removes-language-that-raised-scraping-and-ai-training-c|Meta removes language that raised scraping and AI-training concerns]]
+- `2026-10-17` [[2026-10-17-meta-removes-disputed-ai-training-language-from-business-ter|Meta removes disputed AI-training language from business terms]]
+- `2026-10-17` [[2026-10-17-meta-removes-commercial-terms-language-that-raised-scraping|Meta removes commercial-terms language that raised scraping and AI training concerns]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]

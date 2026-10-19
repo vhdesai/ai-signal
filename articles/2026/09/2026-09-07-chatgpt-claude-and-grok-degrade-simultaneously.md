@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-breaking-hot-simultaneous-outage-takes-down-chatgpt-claude-g
 - 2026-09-07-post-mortem-chatgpt-claude-and-grok-all-failed-within-roughl
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
-embedding_id: null
+embedding_id: 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
 event_name: ''
 ---
 

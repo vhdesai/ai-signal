@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-apple-releases-first-ios-26-6-beta-for-developers
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-apple-seeds-ios-26-6-developer-beta-1
 event_name: ''
 ---
 

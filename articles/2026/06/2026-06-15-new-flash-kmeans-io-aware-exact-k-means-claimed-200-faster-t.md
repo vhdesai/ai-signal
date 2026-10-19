@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
 - 2026-09-02-gigapath-flash-and-gigatime-flash-toward-population-scale-di
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: null
+embedding_id: 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
 event_name: ''
 ---
 

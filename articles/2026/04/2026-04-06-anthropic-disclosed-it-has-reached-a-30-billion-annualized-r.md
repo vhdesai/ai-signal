@@ -40,7 +40,7 @@ related_article_ids:
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
 - 2026-05-07-
-embedding_id: null
+embedding_id: 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 event_name: ''
 ---
 

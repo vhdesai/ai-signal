@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
-embedding_id: null
+embedding_id: 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
 event_name: ''
 ---
 

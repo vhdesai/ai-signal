@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-embedding_id: null
+embedding_id: 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
 event_name: ''
 ---
 

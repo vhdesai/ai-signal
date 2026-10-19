@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing
 event_name: ''
 ---
 

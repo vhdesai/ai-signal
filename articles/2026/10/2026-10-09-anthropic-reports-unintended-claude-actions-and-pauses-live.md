@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
-embedding_id: null
+embedding_id: 2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live
 event_name: ''
 ---
 

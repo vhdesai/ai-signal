@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
-embedding_id: null
+embedding_id: 2026-09-26-why-wall-street-s-big-bad-bears-aren-t-ready-to-bet-against
 event_name: ''
 ---
 

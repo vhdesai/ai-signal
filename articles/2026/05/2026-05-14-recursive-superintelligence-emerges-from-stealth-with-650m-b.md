@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-28-recursive-superintelligence-signs-410-million-compute-deal-w
 - 2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro
 - 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
-embedding_id: null
+embedding_id: 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 event_name: ''
 ---
 

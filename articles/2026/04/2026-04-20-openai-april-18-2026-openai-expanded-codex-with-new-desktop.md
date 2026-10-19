@@ -5,8 +5,8 @@ title: 'OpenAI • April 18, 2026 OpenAI expanded Codex with new desktop-agent c
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/codex-for-almost-everything/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 9a61ce335197ae3f582ef3627129369cd0e1e0ea8207a543d8d54225581eceb1
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-06-02-openai-extends-codex-beyond-coding-to-finance-banking-and-sa
-embedding_id: null
+embedding_id: 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 event_name: ''
 ---
 

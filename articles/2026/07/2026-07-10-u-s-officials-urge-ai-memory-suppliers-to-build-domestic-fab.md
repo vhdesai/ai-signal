@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us
 - 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-embedding_id: null
+embedding_id: 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 event_name: ''
 ---
 

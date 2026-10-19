@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-ai-s-memory-crunch-is-coming-for-android-apps
 - 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
 - 2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l
-embedding_id: null
+embedding_id: 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 - 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
-embedding_id: null
+embedding_id: 2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand
 event_name: ''
 ---
 

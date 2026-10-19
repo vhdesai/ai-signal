@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
 - 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
 - 2026-08-31-ai-giants-lean-into-health-care-to-stall-public-backlash
-embedding_id: null
+embedding_id: 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 event_name: ''
 ---
 

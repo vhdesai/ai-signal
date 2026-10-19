@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
-embedding_id: null
+embedding_id: 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 event_name: ''
 ---
 

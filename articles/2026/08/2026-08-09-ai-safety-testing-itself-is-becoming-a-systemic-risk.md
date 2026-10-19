@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
-embedding_id: null
+embedding_id: 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 event_name: ''
 ---
 

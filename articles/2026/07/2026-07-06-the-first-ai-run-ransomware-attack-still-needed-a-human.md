@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
-embedding_id: null
+embedding_id: 2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-19-noam-shazeer-co-author-of-the-foundational-2017-attention-is
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-06-17-daily-ai-news-digest-june-18-2026
-embedding_id: null
+embedding_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 event_name: ''
 ---
 

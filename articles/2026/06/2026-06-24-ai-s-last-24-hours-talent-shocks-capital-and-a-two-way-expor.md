@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-12-july-13-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-embedding_id: null
+embedding_id: 2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor
 event_name: ''
 ---
 

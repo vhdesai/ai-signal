@@ -4,8 +4,8 @@ title: The American Rebellion Against AI Gains Steam
 date: '2026-05-19'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/other/the-american-rebellion-against-ai-is-gaining-steam/ar-AA23w1HH
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 3ac3cea6e8986fb56ed7669c15698e25977afd72ac18b1e3f9227cf73b74e61f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-embedding_id: null
+embedding_id: 2026-05-19-the-american-rebellion-against-ai-gains-steam
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Carnegie Mellon Helps Launch FLARE-AI, an Open AI-Flaw Reporting Platform
 date: '2026-07-06'
 source: Carnegie Mellon University
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.sei.cmu.edu/news/new-ai-flaw-reporting-system-fills-crucial-security-gap/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 45d17109fee3b1dcc0ff708a3f7b8b69e31439b78c038ee4d760861af8e94709
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
-embedding_id: null
+embedding_id: 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
 event_name: ''
 ---
 

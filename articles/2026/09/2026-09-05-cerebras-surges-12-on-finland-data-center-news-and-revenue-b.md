@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb
 - 2026-09-01-cerebras-and-compute-nordic-announce-a-165-mw-ai-data-center
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
-embedding_id: null
+embedding_id: 2026-09-05-cerebras-surges-12-on-finland-data-center-news-and-revenue-b
 event_name: ''
 ---
 

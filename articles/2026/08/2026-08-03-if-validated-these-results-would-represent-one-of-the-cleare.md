@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
-embedding_id: null
+embedding_id: 2026-08-03-if-validated-these-results-would-represent-one-of-the-cleare
 event_name: ''
 ---
 

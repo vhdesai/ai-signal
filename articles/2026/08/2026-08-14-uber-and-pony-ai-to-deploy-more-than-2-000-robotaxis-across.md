@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
 event_name: ''
 ---
 

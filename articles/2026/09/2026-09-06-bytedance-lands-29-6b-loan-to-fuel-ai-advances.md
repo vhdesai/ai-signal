@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
-embedding_id: null
+embedding_id: 2026-09-06-bytedance-lands-29-6b-loan-to-fuel-ai-advances
 event_name: ''
 ---
 

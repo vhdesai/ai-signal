@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-openai-launches-private-safety-processing-to-one-up-anthropi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-19-openai-moves-to-outflank-anthropic-on-enterprise-data-privac
 event_name: ''
 ---
 

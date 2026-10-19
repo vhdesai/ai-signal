@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 event_name: ''
 ---
 

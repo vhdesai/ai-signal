@@ -5,8 +5,8 @@ title: AI models show growing ability to perform cybersecurity tasks — Creati.
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://creati.ai/ai-news/2026-05-14/ai-models-show-growing-cybersecurity-capabilities/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 26fd3992ff27f64b8c10a0cb701a194fe2d518b5a1dd339061a7929c4e3a92cd
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
-embedding_id: null
+embedding_id: 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
 event_name: ''
 ---
 

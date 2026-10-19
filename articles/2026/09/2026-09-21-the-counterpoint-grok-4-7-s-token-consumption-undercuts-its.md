@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-grok-4-7-ships-at-2-6-pricing-but-real-cost-per-task-runs-2
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-21-the-counterpoint-grok-4-7-s-token-consumption-undercuts-its
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
-embedding_id: null
+embedding_id: 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
 event_name: ''
 ---
 

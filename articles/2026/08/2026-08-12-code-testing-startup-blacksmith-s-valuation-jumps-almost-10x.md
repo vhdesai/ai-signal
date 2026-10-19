@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-code-testing-startup-blacksmith-s-valuation-jumps-almost-10x
 event_name: ''
 ---
 

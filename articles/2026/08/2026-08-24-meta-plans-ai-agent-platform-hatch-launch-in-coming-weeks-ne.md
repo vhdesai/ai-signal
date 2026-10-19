@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h
 - 2026-08-31-meta-s-ai-agent-push-puts-focus-on-new-consumer-business
-embedding_id: null
+embedding_id: 2026-08-24-meta-plans-ai-agent-platform-hatch-launch-in-coming-weeks-ne
 event_name: ''
 ---
 

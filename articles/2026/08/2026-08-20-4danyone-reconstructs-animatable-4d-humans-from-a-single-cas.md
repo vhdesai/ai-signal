@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-09-27-google-research-introduces-an-ai-video-co-director-four-agen
-embedding_id: null
+embedding_id: 2026-08-20-4danyone-reconstructs-animatable-4d-humans-from-a-single-cas
 event_name: ''
 ---
 

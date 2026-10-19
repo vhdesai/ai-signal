@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 - 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-embedding_id: null
+embedding_id: 2026-05-11-mit-acemoglu-qje-firms-systematically-use-automation-to-supp
 event_name: ''
 ---
 

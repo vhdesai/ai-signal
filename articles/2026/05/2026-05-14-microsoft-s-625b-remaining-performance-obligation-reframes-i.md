@@ -5,8 +5,8 @@ title: Microsoft's $625B Remaining Performance Obligation Reframes Its $190B AI 
 date: '2026-05-14'
 source: Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fool.com/investing/2026/05/14/the-real-reason-microsoft-just-went-all-in-on-ai-i/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3142cc51968475e9dbbc870f592538047b8998e2189c3f9987174f8775b34973
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-embedding_id: null
+embedding_id: 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 event_name: ''
 ---
 

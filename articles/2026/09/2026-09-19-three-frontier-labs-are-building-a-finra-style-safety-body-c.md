@@ -28,7 +28,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
 event_name: ''
 ---
 

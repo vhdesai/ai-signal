@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-pjm-may-temporarily-cut-power-to-data-centers-to-prevent-bla
 - 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob
-embedding_id: null
+embedding_id: 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
 event_name: ''
 ---
 

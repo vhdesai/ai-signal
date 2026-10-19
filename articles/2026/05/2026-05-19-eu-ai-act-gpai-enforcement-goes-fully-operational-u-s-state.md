@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
-embedding_id: null
+embedding_id: 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 event_name: ''
 ---
 

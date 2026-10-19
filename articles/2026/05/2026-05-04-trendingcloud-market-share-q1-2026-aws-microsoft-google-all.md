@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
 - 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
 - 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
-embedding_id: null
+embedding_id: 2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all
 event_name: ''
 ---
 

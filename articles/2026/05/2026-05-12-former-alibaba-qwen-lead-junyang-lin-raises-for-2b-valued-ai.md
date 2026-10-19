@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-21-alibaba-appoints-dayiheng-liu-head-of-qwen-llm-team-ahead-of
 - 2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-embedding_id: null
+embedding_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai
 event_name: ''
 ---
 

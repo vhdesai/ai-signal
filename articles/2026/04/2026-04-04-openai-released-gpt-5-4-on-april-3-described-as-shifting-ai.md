@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
-embedding_id: null
+embedding_id: 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 event_name: ''
 ---
 

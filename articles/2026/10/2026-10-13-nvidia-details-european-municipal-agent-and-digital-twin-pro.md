@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
-embedding_id: null
+embedding_id: 2026-10-13-nvidia-details-european-municipal-agent-and-digital-twin-pro
 event_name: ''
 ---
 

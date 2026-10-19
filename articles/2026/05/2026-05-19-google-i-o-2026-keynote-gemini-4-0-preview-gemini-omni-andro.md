@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
 event_name: ''
 ---
 

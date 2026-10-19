@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/premium-seats-chatgpt-business/
 url_canonical: https://openai.com/index/premium-seats-chatgpt-business/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-11_061444_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c2a7c33882880233d76ad6a2ad29cfd9ca644bca27f0d448c2a1fcc18fa05f43
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
-embedding_id: null
+embedding_id: 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
 event_name: ''
 ---
 

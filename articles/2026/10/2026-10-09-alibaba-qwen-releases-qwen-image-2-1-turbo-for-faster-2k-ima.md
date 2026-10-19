@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
-embedding_id: null
+embedding_id: 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 event_name: ''
 ---
 

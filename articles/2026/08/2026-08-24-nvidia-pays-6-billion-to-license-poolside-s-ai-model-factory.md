@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-softwar
 - 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
-embedding_id: null
+embedding_id: 2026-08-24-nvidia-pays-6-billion-to-license-poolside-s-ai-model-factory
 event_name: ''
 ---
 

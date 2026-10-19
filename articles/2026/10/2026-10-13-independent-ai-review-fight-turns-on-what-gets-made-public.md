@@ -21,8 +21,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made
+- 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
+- 2026-08-01-ai-and-the-blurring-of-reality
+- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
+embedding_id: 2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ Reuters reports the AI industry's call for independent reviews is colliding with
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made]] · [[2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]]
 <!-- graph:end -->

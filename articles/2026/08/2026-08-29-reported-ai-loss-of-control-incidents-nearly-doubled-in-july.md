@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-ai-loss-of-control-incidents-nearly-doubled-in-july-exceedin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-reported-ai-loss-of-control-incidents-nearly-doubled-in-july
 event_name: ''
 ---
 

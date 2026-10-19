@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
 event_name: ''
 ---
 

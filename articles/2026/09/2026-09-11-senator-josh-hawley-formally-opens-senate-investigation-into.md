@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: null
+embedding_id: 2026-09-11-senator-josh-hawley-formally-opens-senate-investigation-into
 event_name: ''
 ---
 

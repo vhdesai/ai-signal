@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-nvidia-q2-report-becomes-the-market-s-scorecard-for-ai-capex
 - 2026-08-24-korean-investors-net-sell-2-63b-of-nvidia-ahead-of-earnings
 - 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
-embedding_id: null
+embedding_id: 2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark
 event_name: ''
 ---
 

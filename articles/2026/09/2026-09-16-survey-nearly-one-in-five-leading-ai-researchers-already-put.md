@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-09-24-study-top-ai-experts-badly-underestimated-how-fast-the-field
-embedding_id: null
+embedding_id: 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
 event_name: ''
 ---
 

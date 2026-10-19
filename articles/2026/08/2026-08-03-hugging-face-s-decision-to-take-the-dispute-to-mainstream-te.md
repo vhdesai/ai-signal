@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
-embedding_id: null
+embedding_id: 2026-08-03-hugging-face-s-decision-to-take-the-dispute-to-mainstream-te
 event_name: ''
 ---
 

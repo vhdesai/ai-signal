@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers
 related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-embedding_id: null
+embedding_id: 2026-08-27-openai-to-start-showing-ads-on-chatgpt-free-and-go-tiers-in
 event_name: ''
 ---
 

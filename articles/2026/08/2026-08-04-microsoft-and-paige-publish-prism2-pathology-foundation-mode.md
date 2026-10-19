@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 - 2026-07-29-peer-reviewed-study-an-llm-extracts-cancer-staging-data-from
-embedding_id: null
+embedding_id: 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-20-alibaba-debuts-qwen3-8-max-preview-a-2-4t-parameter-multimod
 - 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-embedding_id: null
+embedding_id: 2026-07-19-alibaba-previews-qwen-3-8-claiming-no-2-position-behind-clau
 event_name: ''
 ---
 

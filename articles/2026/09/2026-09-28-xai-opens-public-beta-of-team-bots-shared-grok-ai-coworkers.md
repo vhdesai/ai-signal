@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
 - 2026-09-24-xai-tests-grok-as-a-participant-inside-x-s-xchat-group-chats
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-embedding_id: null
+embedding_id: 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 event_name: ''
 ---
 

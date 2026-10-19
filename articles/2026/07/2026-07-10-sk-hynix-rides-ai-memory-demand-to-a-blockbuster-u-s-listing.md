@@ -4,8 +4,8 @@ title: SK Hynix rides AI-memory demand to a blockbuster U.S. listing
 date: '2026-07-10'
 source: 'Source: AP News'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/companies/sk-hynix-us-listing-29-billion-ai-chips
+url_status: repaired
 digest_source: digests\raw\2026-07-10_060949_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: f48ba636ba20d94e0e02067d0d682665dfbe5fb7c660a5e4dfc6cd1538561e97
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-embedding_id: null
+embedding_id: 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 event_name: ''
 ---
 

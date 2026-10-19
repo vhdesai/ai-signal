@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-28-ai-giants-and-unions-form-a-data-center-coalition-ahead-of-2
 - 2026-09-28-ai-companies-private-equity-and-unions-form-the-american-inf
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-embedding_id: null
+embedding_id: 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 event_name: ''
 ---
 

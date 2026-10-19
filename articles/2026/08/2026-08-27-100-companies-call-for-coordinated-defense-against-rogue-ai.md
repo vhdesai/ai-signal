@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-27-openai-anthropic-google-microsoft-and-100-firms-call-for-joi
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
-embedding_id: null
+embedding_id: 2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai
 event_name: ''
 ---
 

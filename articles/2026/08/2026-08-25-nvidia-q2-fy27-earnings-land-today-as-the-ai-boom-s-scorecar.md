@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
-embedding_id: null
+embedding_id: 2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar
 event_name: ''
 ---
 

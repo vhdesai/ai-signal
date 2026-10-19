@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-embedding_id: null
+embedding_id: 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
 event_name: ''
 ---
 

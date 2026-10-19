@@ -4,8 +4,8 @@ title: HotIBM, Cleveland Clinic & RIKEN Simulate Largest-Ever Protein on Quantum
 date: '2026-05-05'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-05-05-cleveland-clinic,-riken,-and-ibm-model-a-12,635-atom-protein-the-largest-known-to-be-simulated-with-quantum-computers
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 9e484908459df7c3e624b78eea5fd4d3d45f34222da7892e41e2cdb68958ed7a
 normalized_title_hash: 66504a656c699d33
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
 - 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
-embedding_id: null
+embedding_id: 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 event_name: ''
 ---
 

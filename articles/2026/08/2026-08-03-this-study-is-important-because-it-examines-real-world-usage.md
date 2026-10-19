@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
-embedding_id: null
+embedding_id: 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 event_name: ''
 ---
 

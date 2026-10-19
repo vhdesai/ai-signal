@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
 - 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
 - 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
-embedding_id: null
+embedding_id: 2026-10-09-the-information-china-s-ai-model-race-gets-more-crowded-as-x
 event_name: ''
 ---
 

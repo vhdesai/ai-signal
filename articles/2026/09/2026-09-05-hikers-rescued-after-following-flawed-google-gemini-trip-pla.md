@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-hikers-rescued-after-relying-on-gemini-for-trip-planning
 - 2026-09-05-hikers-rescued-after-planning-a-climb-with-google-gemini
 - 2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin
-embedding_id: null
+embedding_id: 2026-09-05-hikers-rescued-after-following-flawed-google-gemini-trip-pla
 event_name: ''
 ---
 

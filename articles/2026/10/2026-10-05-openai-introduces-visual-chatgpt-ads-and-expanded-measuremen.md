@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: OpenAI
 url_original: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
 url_canonical: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-06_060540_Inbox_Daily AI News Digest - October
   6, 2026.md
 content_hash: ed1c98c9be895be9c6c2d953f8582ec3a4badf240e7ad84f41a95bb611ce99d9
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 event_name: ''
 ---
 

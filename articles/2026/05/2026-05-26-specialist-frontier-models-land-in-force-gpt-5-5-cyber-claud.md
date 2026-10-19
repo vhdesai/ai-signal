@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 - 2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia
 - 2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode
-embedding_id: null
+embedding_id: 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 event_name: ''
 ---
 

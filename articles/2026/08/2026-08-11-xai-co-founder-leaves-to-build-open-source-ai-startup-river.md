@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 - 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-embedding_id: null
+embedding_id: 2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river
 event_name: ''
 ---
 

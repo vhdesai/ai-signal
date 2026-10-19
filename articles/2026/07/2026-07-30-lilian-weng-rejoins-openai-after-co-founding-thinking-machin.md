@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
 - 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
-embedding_id: null
+embedding_id: 2026-07-30-lilian-weng-rejoins-openai-after-co-founding-thinking-machin
 event_name: ''
 ---
 

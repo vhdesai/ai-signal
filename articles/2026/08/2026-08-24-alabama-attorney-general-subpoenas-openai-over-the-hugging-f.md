@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-sound-alarm-on
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock
 - 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
-embedding_id: null
+embedding_id: 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-08-28-google-relocates-90-person-gemini-safety-team-out-of-deepmin
-embedding_id: null
+embedding_id: 2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills
 event_name: ''
 ---
 

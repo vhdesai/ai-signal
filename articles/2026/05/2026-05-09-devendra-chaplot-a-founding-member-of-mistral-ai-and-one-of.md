@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: null
+embedding_id: 2026-05-09-devendra-chaplot-a-founding-member-of-mistral-ai-and-one-of
 event_name: ''
 ---
 

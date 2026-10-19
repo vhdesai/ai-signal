@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-embedding_id: null
+embedding_id: 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
 event_name: ''
 ---
 

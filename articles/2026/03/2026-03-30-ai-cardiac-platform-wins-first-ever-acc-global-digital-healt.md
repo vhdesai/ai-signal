@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 - 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
-embedding_id: null
+embedding_id: 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 event_name: ''
 ---
 

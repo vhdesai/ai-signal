@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-meta-adds-walmart-best-buy-and-sephora-to-muse-days-after-am
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
-embedding_id: null
+embedding_id: 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 event_name: ''
 ---
 

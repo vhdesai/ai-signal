@@ -5,8 +5,8 @@ title: BreakingTrump Administration Signs Pre-Deployment AI Testing Agreements w
 date: '2026-05-05'
 source: Ars Technica / Reuters / Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aigovernance.com/news/microsoft-google-xai-caisi-pre-deployment-security-review-agreements-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 9f96811ad9e2ee8d5c0da087486f63b9e16da1f47f400b94946f104b98bf247b
@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-05-breakingtrump-administration-signs-pre-deployment-ai-testing
 event_name: ''
 ---
 

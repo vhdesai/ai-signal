@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-embedding_id: null
+embedding_id: 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-a-1-2-trill
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-techcrunch-world-model-companies-are-collecting-cash-and-buz
 - 2026-08-17-higgsfield-raises-400m-series-b-at-a-5-4b-valuation
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
-embedding_id: null
+embedding_id: 2026-04-16-at-semafor-s-world-economy-summit-runway-ceo-crist-bal-valen
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-embedding_id: null
+embedding_id: 2026-06-30-anthropic-ran-a-livestreamed-event-featuring-product-and-res
 event_name: ''
 ---
 

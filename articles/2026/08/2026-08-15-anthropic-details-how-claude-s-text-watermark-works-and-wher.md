@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
 related_article_ids:
 - 2026-08-15-anthropic-watermark-details-subscriber-cancellations
-embedding_id: null
+embedding_id: 2026-08-15-anthropic-details-how-claude-s-text-watermark-works-and-wher
 event_name: ''
 ---
 

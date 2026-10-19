@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-debuts-on-nasdaq
 event_name: ''
 ---
 

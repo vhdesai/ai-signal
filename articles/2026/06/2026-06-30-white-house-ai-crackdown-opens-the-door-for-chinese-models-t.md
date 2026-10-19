@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
-embedding_id: null
+embedding_id: 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 event_name: ''
 ---
 

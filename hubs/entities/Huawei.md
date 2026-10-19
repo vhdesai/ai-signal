@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 264
+member_count: 265
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 264 connected article(s).
+> Auto-generated entity hub. 265 connected article(s).
 
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-nvidia-s-china-ai-chip-share-falls-as-huawei-gains|Nvidia's China AI-chip share falls as Huawei gains]]
 - `2026-10-13` [[2026-10-13-huawei-passes-100m-kirin-powered-device-milestone|Huawei passes 100M Kirin-powered device milestone]]

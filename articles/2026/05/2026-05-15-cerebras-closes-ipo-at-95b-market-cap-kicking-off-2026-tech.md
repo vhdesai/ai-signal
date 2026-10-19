@@ -25,7 +25,7 @@ canonical_article_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq
 related_article_ids:
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
-embedding_id: null
+embedding_id: 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
 event_name: ''
 ---
 

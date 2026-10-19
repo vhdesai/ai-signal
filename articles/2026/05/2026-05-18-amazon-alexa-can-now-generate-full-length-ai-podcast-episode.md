@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
 - 2026-08-19-amazon-makes-ai-powered-alexa-free-on-all-fire-tv-no-prime-r
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
-embedding_id: null
+embedding_id: 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 event_name: ''
 ---
 

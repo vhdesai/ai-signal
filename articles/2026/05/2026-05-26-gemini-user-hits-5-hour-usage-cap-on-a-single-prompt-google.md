@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
 - 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
 - 2026-07-23-google-s-gemini-nears-one-billion-monthly-users
-embedding_id: null
+embedding_id: 2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-24-thursday-september-24-2026
 - 2026-09-25-saturday-september-26-2026
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-embedding_id: null
+embedding_id: 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 event_name: ''
 ---
 

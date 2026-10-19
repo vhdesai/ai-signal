@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
-embedding_id: null
+embedding_id: 2026-09-09-openai-claims-10-000-agent-system-produced-navier-stokes-pro
 event_name: ''
 ---
 

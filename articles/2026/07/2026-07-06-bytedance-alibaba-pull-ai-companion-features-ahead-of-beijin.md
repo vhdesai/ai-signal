@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and
 - 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
-embedding_id: null
+embedding_id: 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 event_name: ''
 ---
 

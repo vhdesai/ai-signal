@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-embedding_id: null
+embedding_id: 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 event_name: ''
 ---
 

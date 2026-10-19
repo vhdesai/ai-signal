@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-publishes-pace-the-frontier-plan-altman-musk-and-hass
-embedding_id: null
+embedding_id: 2026-09-13-altman-musk-and-hassabis-publicly-back-the-pacing-proposal
 event_name: ''
 ---
 

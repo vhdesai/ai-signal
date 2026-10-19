@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-31-andreessen-horowitz-raises-a-1-1-billion-ai-hardware-fund
 - 2026-08-29-andreessen-horowitz-raises-1-1b-machine-age-fund-for-ai-hard
 - 2026-08-28-a16z-raises-1-1b-machine-age-fund-dedicated-to-ai-s-physical
-embedding_id: null
+embedding_id: 2026-08-31-andreessen-horowitz-adds-1-75-billion-to-its-fifth-growth-fu
 event_name: ''
 ---
 

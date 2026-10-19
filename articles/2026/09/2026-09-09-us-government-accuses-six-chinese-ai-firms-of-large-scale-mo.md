@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-12-chinese-ai-labs-reportedly-extracted-190m-claude-exchanges-a
 - 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
 - 2026-08-17-worldclaw-trump-family-linked-crypto-venture-reselling-us-re
-embedding_id: null
+embedding_id: 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
 event_name: ''
 ---
 

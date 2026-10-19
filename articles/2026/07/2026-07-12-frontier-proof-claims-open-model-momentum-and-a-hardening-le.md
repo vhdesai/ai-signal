@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 - 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
 - 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
-embedding_id: null
+embedding_id: 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
 event_name: ''
 ---
 

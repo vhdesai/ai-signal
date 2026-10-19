@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 - 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
-embedding_id: null
+embedding_id: 2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei
 event_name: ''
 ---
 

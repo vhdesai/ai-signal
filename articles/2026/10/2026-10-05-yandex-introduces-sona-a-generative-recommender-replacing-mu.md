@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-05-yandex-introduces-sona-a-generative-recommender-that-replace
 - 2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex
-embedding_id: null
+embedding_id: 2026-10-05-yandex-introduces-sona-a-generative-recommender-replacing-mu
 event_name: ''
 ---
 

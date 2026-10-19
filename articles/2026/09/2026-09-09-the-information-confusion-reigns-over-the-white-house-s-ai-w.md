@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
 - 2026-09-09-white-house-trusted-partner-ai-whitelist-causes-confusion-in
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
-embedding_id: null
+embedding_id: 2026-09-09-the-information-confusion-reigns-over-the-white-house-s-ai-w
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-10-11-36kr-covered-mit-research-exploring-how-far-interview-driven
 - 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
-embedding_id: null
+embedding_id: 2026-09-29-mit-sherry-turkle-s-artificial-intimacy-on-who-we-become-whe
 event_name: ''
 ---
 

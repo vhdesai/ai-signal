@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-08-20-at-t-plans-to-curb-anthropic-and-openai-spending-by-shifting
-embedding_id: null
+embedding_id: 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: 'Allen Institute + UC Berkeley: EMO Architecture Cuts MoE Inference Cost 
 date: '2026-05-16'
 source: Allen Institute for AI / UC Berkeley / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://allenai.org/blog/emo
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 5388a30f90db684c95298b9541c5d2022d9db0e660c8d5cf4281b331ee2b5b16
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-08-12-allenai-open-instruct-reproducible-tulu-3-post-training-pipe
-embedding_id: null
+embedding_id: 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 event_name: ''
 ---
 

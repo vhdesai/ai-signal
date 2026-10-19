@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-ode-with-anthropic-acquires-ai-services-firm-casper-studios
 - 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
-embedding_id: null
+embedding_id: 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
 event_name: ''
 ---
 

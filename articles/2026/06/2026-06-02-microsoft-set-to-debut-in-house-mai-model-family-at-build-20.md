@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
-embedding_id: null
+embedding_id: 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 event_name: ''
 ---
 

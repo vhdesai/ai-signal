@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-glm-5-3-arrives-with-stronger-long-horizon-coding-and-cyber
 - 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 - 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights
-embedding_id: null
+embedding_id: 2026-06-19-0g-private-computer-launches-glm-5-2-for-private-verifiable
 event_name: ''
 ---
 

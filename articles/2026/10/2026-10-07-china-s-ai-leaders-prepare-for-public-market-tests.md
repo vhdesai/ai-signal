@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-seeks-30b-as-deepseek-and-moonshot-chase-massive-new
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
-embedding_id: null
+embedding_id: 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 event_name: ''
 ---
 

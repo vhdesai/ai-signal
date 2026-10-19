@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-09-23-september-24-2026
-embedding_id: null
+embedding_id: 2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for
 event_name: ''
 ---
 

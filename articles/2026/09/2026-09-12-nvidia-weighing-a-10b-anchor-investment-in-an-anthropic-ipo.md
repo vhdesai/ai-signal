@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-12-nvidia-weighing-a-10b-anchor-investment-in-an-anthropic-ipo
 event_name: ''
 ---
 

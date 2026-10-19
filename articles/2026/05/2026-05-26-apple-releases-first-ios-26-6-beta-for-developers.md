@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
-embedding_id: null
+embedding_id: 2026-05-26-apple-releases-first-ios-26-6-beta-for-developers
 event_name: ''
 ---
 

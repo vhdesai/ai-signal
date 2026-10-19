@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-5-bio-bug-bounty/
 url_canonical: https://openai.com/index/gpt-5-5-bio-bug-bounty/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: e577d47d988542b1947ae3ecd60eb58ee7655b076a881f143b65922e5fb13cbf
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-with-deliberately-reduced-refusal
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
-embedding_id: null
+embedding_id: 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-08-09-historian-jill-lepore-argues-silicon-valley-s-government-by
-embedding_id: null
+embedding_id: 2026-10-13-michael-i-jordan-rejects-ai-doom-rhetoric-as-science-fiction
 event_name: ''
 ---
 

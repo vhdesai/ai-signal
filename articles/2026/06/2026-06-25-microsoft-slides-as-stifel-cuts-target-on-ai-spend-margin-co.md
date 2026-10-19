@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 - 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 - 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-embedding_id: null
+embedding_id: 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 event_name: ''
 ---
 

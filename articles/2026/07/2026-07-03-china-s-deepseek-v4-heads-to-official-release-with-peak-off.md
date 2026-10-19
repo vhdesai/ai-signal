@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
-embedding_id: null
+embedding_id: 2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off
 event_name: ''
 ---
 

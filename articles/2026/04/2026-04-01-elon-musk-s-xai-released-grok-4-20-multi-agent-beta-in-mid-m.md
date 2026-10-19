@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex
-embedding_id: null
+embedding_id: 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
 event_name: ''
 ---
 

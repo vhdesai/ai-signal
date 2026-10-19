@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-nvidia-launches-dsx-ready-to-qualify-ai-factory-power-and-co
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
 event_name: ''
 ---
 

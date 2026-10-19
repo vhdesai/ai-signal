@@ -4,8 +4,8 @@ title: NEWxAI Releases Grok 4.3
 date: '2026-05-01'
 source: Hacker News / x.ai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.scriptbyai.com/spacexai-timeline-grok/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: f28481e7adb6c6f098cf18042c4917f9d7db8e140249d336bd89abd7c730906c
 normalized_title_hash: b0991b545756596d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
-embedding_id: null
+embedding_id: 2026-05-01-newxai-releases-grok-4-3
 event_name: ''
 ---
 

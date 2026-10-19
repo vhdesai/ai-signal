@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-15-woman-alleges-grok-generated-7-000-csam-images-from-single-c
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
 - 2026-08-15-new-plaintiff-joins-federal-class-action-over-grok-generated
-embedding_id: null
+embedding_id: 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
 event_name: ''
 ---
 

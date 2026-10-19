@@ -4,8 +4,8 @@ title: Runway launches model router for generative media workflows
 date: '2026-07-23'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: b602b1bcecebb94b5b3a34a7a23cd1cf611b66f52a089436f18d1559ba76a2fc
 normalized_title_hash: 24d64af9885921b9
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-ramp-launches-ai-model-router-continued
 - 2026-08-20-ramp-launches-its-own-ai-model-router-called-router
 - 2026-08-20-ramp-launches-ai-model-router-entering-market-days-after-str
-embedding_id: null
+embedding_id: 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 event_name: ''
 ---
 

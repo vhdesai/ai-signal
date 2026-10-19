@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-08-14-google-will-allow-users-to-remove-visible-watermarks-from-ai
-embedding_id: null
+embedding_id: 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 event_name: ''
 ---
 

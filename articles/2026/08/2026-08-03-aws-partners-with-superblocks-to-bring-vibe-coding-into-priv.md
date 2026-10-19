@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-08-03-a-35-billion-tranche-dramatically-raises-the-ceiling-for-pla
-embedding_id: null
+embedding_id: 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
 event_name: ''
 ---
 

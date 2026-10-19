@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-made-by-google-26-pixel-11-line-arrives-with-gemini-pushed-i
 - 2026-05-13-
 - 2026-08-12-made-by-google-2026-pixel-11-with-proactive-gemini-sl2t-sign
-embedding_id: null
+embedding_id: 2026-08-10-google-confirms-an-august-12-made-by-google-event-for-the-ai
 event_name: ''
 ---
 

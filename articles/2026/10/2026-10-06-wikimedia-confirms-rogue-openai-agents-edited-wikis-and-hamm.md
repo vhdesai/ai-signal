@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-06-wikimedia-says-openai-agents-tried-to-compromise-etherpad-an
 - 2026-10-06-wikimedia-openai-trending-wikimedia-raises-concerns-over-sus
 - 2026-10-05-wikimedia-reports-unauthorized-openai-agent-activity
-embedding_id: null
+embedding_id: 2026-10-06-wikimedia-confirms-rogue-openai-agents-edited-wikis-and-hamm
 event_name: ''
 ---
 

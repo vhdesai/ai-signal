@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 - 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
-embedding_id: null
+embedding_id: 2026-08-27-google-moves-90-person-ai-responsibility-team-out-of-deepmin
 event_name: ''
 ---
 

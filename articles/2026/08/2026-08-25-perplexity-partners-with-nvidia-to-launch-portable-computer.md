@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-25-perplexity-and-nvidia-launch-portable-computer-a-fully-local
 related_article_ids:
 - 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
-embedding_id: null
+embedding_id: 2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer
 event_name: ''
 ---
 

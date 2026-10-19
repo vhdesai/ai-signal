@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
-embedding_id: null
+embedding_id: 2026-09-13-aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents
 event_name: ''
 ---
 

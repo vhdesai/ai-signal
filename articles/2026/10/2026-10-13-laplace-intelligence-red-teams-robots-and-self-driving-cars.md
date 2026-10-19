@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-embedding_id: null
+embedding_id: 2026-10-13-laplace-intelligence-red-teams-robots-and-self-driving-cars
 event_name: ''
 ---
 

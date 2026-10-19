@@ -4,8 +4,8 @@ title: Oracle Beat Earnings but Fell 11% as AI Capex Guidance Spooked Investors
 date: '2026-06-11'
 source: Barron's; Money Morning; Motley Fool; CIO.com
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ainvest.com/news/oracle-beat-earnings-stock-fell-mechanism-2609/
+url_status: repaired
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: d542e770efa0b7ecc178d097f77e0243510c40918adb020118b3ac22d3ad885a
 normalized_title_hash: 5ba8eeb6ec6212b8
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
-embedding_id: null
+embedding_id: 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-google-cuts-gemini-3-7-flash-api-price-by-50
 - 2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u
 - 2026-09-29-google-opens-gemini-skills-to-all-free-account-users
-embedding_id: null
+embedding_id: 2026-10-05-gemini-access-narrows-for-free-and-lower-tier-subscribers
 event_name: ''
 ---
 

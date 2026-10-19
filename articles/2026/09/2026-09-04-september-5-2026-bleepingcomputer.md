@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
-embedding_id: null
+embedding_id: 2026-09-04-september-5-2026-bleepingcomputer
 event_name: ''
 ---
 

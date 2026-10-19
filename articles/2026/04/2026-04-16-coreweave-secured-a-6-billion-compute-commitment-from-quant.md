@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-08-12-coreweave-and-super-micro-surge-on-evidence-of-sustained-ai
-embedding_id: null
+embedding_id: 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-sony-music-and-warner-sue-anthropic-alleging-brazen-campaign
 event_name: ''
 ---
 

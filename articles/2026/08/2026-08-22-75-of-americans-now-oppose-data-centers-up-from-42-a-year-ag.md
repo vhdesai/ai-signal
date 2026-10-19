@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center
 - 2026-08-29-tech-backlash-roughly-130b-of-data-center-projects-blocked-o
 - 2026-08-22-the-information-reports-that-america-increasingly-dislikes-d
-embedding_id: null
+embedding_id: 2026-08-22-75-of-americans-now-oppose-data-centers-up-from-42-a-year-ag
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
-embedding_id: null
+embedding_id: 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
 event_name: ''
 ---
 

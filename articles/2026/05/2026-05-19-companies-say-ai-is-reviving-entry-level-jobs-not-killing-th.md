@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
-embedding_id: null
+embedding_id: 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
 event_name: ''
 ---
 

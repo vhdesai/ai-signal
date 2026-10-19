@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
 - 2026-05-02-mit-news-featured-beacon-biosignals-which-is-applying-ai-to
-embedding_id: null
+embedding_id: 2026-09-11-uc-berkeley-links-lonely-sleep-waves-to-alzheimer-s-related
 event_name: ''
 ---
 

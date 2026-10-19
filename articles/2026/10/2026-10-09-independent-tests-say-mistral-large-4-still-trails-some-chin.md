@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
-embedding_id: null
+embedding_id: 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-03-goldman-sachs-private-infrastructure-and-real-estate-capital
 event_name: ''
 ---
 

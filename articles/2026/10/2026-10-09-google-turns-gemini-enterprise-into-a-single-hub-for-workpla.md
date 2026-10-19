@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
 - 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
-embedding_id: null
+embedding_id: 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 event_name: ''
 ---
 

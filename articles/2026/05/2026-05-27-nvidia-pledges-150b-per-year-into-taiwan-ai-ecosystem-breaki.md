@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 event_name: ''
 ---
 

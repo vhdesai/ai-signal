@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-apple-s-camera-equipped-airpods-may-avoid-pervert-pods-probl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-apple-s-camera-equipped-airpods-may-avoid-privacy-backlash-v
 event_name: ''
 ---
 

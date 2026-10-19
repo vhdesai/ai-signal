@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-07-28-openai-extends-chatgpt-into-personal-health-records
-embedding_id: null
+embedding_id: 2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p
 event_name: ''
 ---
 

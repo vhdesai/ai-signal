@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en
-embedding_id: null
+embedding_id: 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 event_name: ''
 ---
 

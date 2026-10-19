@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-09-27-daily-ai-news-digest-september-27-2026
 - 2026-09-21-be-transparent-only-if-asked-inside-openai-s-rogue-ai-transc
-embedding_id: null
+embedding_id: 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Meta opens WhatsApp API to AI chatbot rivals — SiliconRepublic, May 13,
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.siliconrepublic.com/business/meta-opens-whatsapp-to-rival-ai-chatbots-to-steer-clear-of-eu-ire
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 53f93b8e4ba893e630c4a74b60a2313af3a0dd237df7c974a3a2af51069597cf
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
-embedding_id: null
+embedding_id: 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 event_name: ''
 ---
 

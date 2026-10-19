@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont
 related_article_ids:
 - 2026-09-21-nscale-s-contract-book-reaches-103b-roughly-85-of-it-microso
-embedding_id: null
+embedding_id: 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 event_name: ''
 ---
 

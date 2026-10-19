@@ -4,8 +4,8 @@ title: MIT researcher works to automate nuclear plant operations
 date: '2026-07-24'
 source: MIT News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 3cc9de895ab7ac0a2a8c66c9f0c19a122249cb693c6bf92bc416b3e045a100b5
 normalized_title_hash: 5474821e9d05a9d1
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-12-taiwan-s-nuclear-regulator-targeted-by-near-autonomous-ai-cy
 - 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
-embedding_id: null
+embedding_id: 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 event_name: ''
 ---
 

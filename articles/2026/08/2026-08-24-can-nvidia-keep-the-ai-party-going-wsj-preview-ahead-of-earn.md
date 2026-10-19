@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going
 - 2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: null
+embedding_id: 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
 event_name: ''
 ---
 

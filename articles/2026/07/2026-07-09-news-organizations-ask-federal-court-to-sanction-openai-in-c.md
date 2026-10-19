@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: UPI
 url_original: https://www.upi.com/Top_News/US/2026/07/09/news-organizations-file-sanctions-openai-copyright-infringement/5221783621572/
 url_canonical: https://www.upi.com/Top_News/US/2026/07/09/news-organizations-file-sanctions-openai-copyright-infringement/5221783621572/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
 content_hash: 1edf7379ba36a94cf25c6a77a84fbcff275ea3e67078650e8236a5e987f4dc33
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 event_name: ''
 ---
 

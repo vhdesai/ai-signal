@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-23-anthropic-s-biggest-ever-week-included-six-major-announcemen
 - 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
-embedding_id: null
+embedding_id: 2026-05-27-anthropic-profiles-its-own-sales-team-s-weekly-workflow-on-c
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-18-unsealed-filings-in-the-nyt-case-put-internal-microsoft-and
 related_article_ids:
 - 2026-09-18-unsealed-filings-show-microsoft-and-openai-staff-privately-c
-embedding_id: null
+embedding_id: 2026-09-18-unsealed-filings-put-microsoft-and-openai-internal-warnings
 event_name: ''
 ---
 

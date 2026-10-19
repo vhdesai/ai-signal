@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-apple-trains-a-china-specific-ai-model-with-alibaba-s-suppor
 - 2026-08-14-apple-trains-china-specific-ai-model-with-alibaba-s-support
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
-embedding_id: null
+embedding_id: 2026-08-14-apple-trained-a-china-specific-large-language-model-with-ali
 event_name: ''
 ---
 

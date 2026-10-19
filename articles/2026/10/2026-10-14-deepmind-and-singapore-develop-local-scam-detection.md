@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
-embedding_id: null
+embedding_id: 2026-10-14-deepmind-and-singapore-develop-local-scam-detection
 event_name: ''
 ---
 

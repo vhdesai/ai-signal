@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 - 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
-embedding_id: null
+embedding_id: 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
 event_name: ''
 ---
 

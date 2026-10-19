@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
-embedding_id: null
+embedding_id: 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
 event_name: ''
 ---
 

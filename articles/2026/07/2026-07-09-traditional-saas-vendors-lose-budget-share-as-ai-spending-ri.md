@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri
 event_name: ''
 ---
 

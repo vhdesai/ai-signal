@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 - 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
-embedding_id: null
+embedding_id: 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 event_name: ''
 ---
 

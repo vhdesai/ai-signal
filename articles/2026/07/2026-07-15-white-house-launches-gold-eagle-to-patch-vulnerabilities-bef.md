@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 - 2026-08-13-white-house-opens-vetted-private-sector-cyber-operations-aga
-embedding_id: null
+embedding_id: 2026-07-15-white-house-launches-gold-eagle-to-patch-vulnerabilities-bef
 event_name: ''
 ---
 

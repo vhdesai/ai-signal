@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
 - 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
-embedding_id: null
+embedding_id: 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 event_name: ''
 ---
 

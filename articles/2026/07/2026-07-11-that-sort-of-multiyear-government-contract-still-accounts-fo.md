@@ -5,8 +5,8 @@ title: That sort of multiyear government contract still accounts for a lot of mi
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.csis.org/analysis/understanding-us-federal-governments-ai-spending
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: a8d0b9d1d5e4bbdb6cfeef340b34d19c77ebb834f00066135603f8d6291f1978
 normalized_title_hash: 1c6635603f711a83
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-07-11-of-the-pentagon-s-1-5-trillion-budget-request-for-next-year
-embedding_id: null
+embedding_id: 2026-07-11-that-sort-of-multiyear-government-contract-still-accounts-fo
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 - 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
-embedding_id: null
+embedding_id: 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 event_name: ''
 ---
 

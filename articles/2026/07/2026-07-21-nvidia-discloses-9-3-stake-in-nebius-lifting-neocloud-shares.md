@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
-embedding_id: null
+embedding_id: 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
 event_name: ''
 ---
 

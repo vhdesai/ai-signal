@@ -5,7 +5,7 @@ date: '2026-08-18'
 source: The Information**
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+Waymo+fears+overblown
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Uber+Waymo+fears+overblown
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-18_065759_Final-Daily-AI-News-Digest.md
 content_hash: 8d07f41e9ebbe440e49b9a5fb7d8599e5ce73328c91329dca76db0f61e3d066d
 normalized_title_hash: 556fc1446cfa4571
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-embedding_id: null
+embedding_id: 2026-08-18-uber-s-waymo-fears-are-overblown-analysts-say-stock-discount
 event_name: ''
 ---
 

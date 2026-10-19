@@ -4,8 +4,8 @@ title: 'Musk vs. Altman Trial: What the Jury Will Decide — A Plain-Language Ex
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 079095bca34a30fa89ae8173de0906e36febc7c241dd09cb1b71eccf103a2224
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
-embedding_id: null
+embedding_id: 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-24-anduril-reportedly-seeks-funding-at-a-roughly-100b-valuation
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
 - 2026-09-14-defense-startup-shield-ai-in-talks-for-a-20b-valuation
-embedding_id: null
+embedding_id: 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 event_name: ''
 ---
 

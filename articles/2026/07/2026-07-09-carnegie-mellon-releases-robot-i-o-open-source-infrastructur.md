@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-embedding_id: null
+embedding_id: 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 event_name: ''
 ---
 

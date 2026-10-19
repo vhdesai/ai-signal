@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/model-ml/
 url_canonical: https://openai.com/index/model-ml/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: c039c0205af1434a4ec8ca39d9a9827b07fc6b2dfa567a311e6b5a51bb49e6d4
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-model-ml-uses-gpt-5-6-sol-for-finance-analysis-and-editable
 event_name: ''
 ---
 

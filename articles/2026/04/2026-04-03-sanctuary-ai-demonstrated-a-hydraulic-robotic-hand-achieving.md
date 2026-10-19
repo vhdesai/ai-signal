@@ -5,8 +5,8 @@ title: Sanctuary AI demonstrated a hydraulic robotic hand achieving fingertip-on
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://sanctuary.ai/news/sanctuary-ai-demonstrates-zero-shot-in-hand-manipulation-on-hydraulic-hand/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 19f8343bf246e6933ffe734c2fb6b6b2964f36bf8b37207e70581c131cd01700
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-plannin
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 - 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-physical-world-model-for-f
-embedding_id: null
+embedding_id: 2026-04-03-sanctuary-ai-demonstrated-a-hydraulic-robotic-hand-achieving
 event_name: ''
 ---
 

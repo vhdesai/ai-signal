@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 - 2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo
-embedding_id: null
+embedding_id: 2026-09-07-tencent-restructures-bilibili-stake-into-debt-as-it-funds-ai
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
-embedding_id: null
+embedding_id: 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 event_name: ''
 ---
 

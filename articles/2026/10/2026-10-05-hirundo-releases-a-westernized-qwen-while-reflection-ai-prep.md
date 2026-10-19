@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
-embedding_id: null
+embedding_id: 2026-10-05-hirundo-releases-a-westernized-qwen-while-reflection-ai-prep
 event_name: ''
 ---
 

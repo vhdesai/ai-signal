@@ -5,8 +5,8 @@ title: 'Stanford HAI 2026 AI Index: Industry Produced 90%+ of Frontier Models; A
 date: '2026-05-12'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 43ca02ab71ee8457fcbe93d1043ebbb80199cd975dc69995544fc0c6a0ac14c6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-embedding_id: null
+embedding_id: 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 event_name: ''
 ---
 

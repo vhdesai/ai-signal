@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-three-ai-hardware-d
 event_name: ''
 ---
 

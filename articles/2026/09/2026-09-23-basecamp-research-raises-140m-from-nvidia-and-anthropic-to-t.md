@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
 - 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 - 2026-09-22-anthropic-details-plans-for-a-biology-lab-where-claude-will
-embedding_id: null
+embedding_id: 2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t
 event_name: ''
 ---
 

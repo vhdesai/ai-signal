@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 - 2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
-embedding_id: null
+embedding_id: 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-08-21-u-s-ai-related-debt-issuance-hits-220b-as-bond-investors-pus
-embedding_id: null
+embedding_id: 2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370
 event_name: ''
 ---
 

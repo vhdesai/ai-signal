@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
-embedding_id: null
+embedding_id: 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 event_name: ''
 ---
 

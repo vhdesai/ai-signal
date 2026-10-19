@@ -4,8 +4,8 @@ title: AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock
 date: '2026-05-29'
 source: The Register
 url_original: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
-url_canonical: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
-url_status: broken
+url_canonical: https://www.theregister.com/columnists/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 9a8ba4716ef5feddfc97dbb4e0258ec677b0141ef996584749bd5af1272f5bb3
 normalized_title_hash: d164b896dba8b4db
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-embedding_id: null
+embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 event_name: ''
 ---
 

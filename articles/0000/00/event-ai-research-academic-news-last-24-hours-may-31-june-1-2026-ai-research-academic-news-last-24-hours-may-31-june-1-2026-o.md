@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
-embedding_id: null
+embedding_id: event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ---
 

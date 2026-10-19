@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
-embedding_id: null
+embedding_id: 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
-embedding_id: null
+embedding_id: 2026-05-15-trump-disclosed-247k-630k-palantir-purchase-in-q1-before-tru
 event_name: ''
 ---
 

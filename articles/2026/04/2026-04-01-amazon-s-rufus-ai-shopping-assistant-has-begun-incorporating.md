@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: null
+embedding_id: 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 event_name: ''
 ---
 

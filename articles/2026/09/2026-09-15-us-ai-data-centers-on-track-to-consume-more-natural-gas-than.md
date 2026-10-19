@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 - 2026-07-21-data-centers-expected-to-use-four-times-more-u-s-electricity
-embedding_id: null
+embedding_id: 2026-09-15-us-ai-data-centers-on-track-to-consume-more-natural-gas-than
 event_name: ''
 ---
 

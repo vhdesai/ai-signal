@@ -4,8 +4,8 @@ title: Oracle Fusion Data Intelligence Goes Live at Heathrow, MTN, and Kent New
 date: '2026-05-21'
 source: Oracle Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.prnewswire.com/news-releases/oracle-fusion-data-intelligence-helps-organizations-across-the-world-accelerate-ai-driven-decision-making-302778597.html
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: bdfc42138e7020667765eef9cb06de2125bb0ea87a3605b744d5c7a9410333dd
@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
-embedding_id: null
+embedding_id: 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
 event_name: ''
 ---
 

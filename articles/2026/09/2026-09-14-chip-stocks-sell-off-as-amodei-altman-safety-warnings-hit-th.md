@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-14-chip-stocks-sell-off-as-amodei-altman-safety-warnings-hit-th
 event_name: ''
 ---
 

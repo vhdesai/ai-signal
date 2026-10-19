@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
-embedding_id: null
+embedding_id: 2026-10-02-china-sets-a-2030-target-to-grow-intelligent-computing-capac
 event_name: ''
 ---
 

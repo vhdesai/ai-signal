@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-embedding_id: null
+embedding_id: event-google-i-o-2026-google-i-o-2026-strategic-implications
 event_name: Google I/O 2026
 ---
 

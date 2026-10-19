@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa
 event_name: ''
 ---
 

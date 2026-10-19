@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-embedding_id: null
+embedding_id: 2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts
 event_name: ''
 ---
 

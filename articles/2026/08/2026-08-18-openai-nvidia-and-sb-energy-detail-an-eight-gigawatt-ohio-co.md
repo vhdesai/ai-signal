@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an
 - 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
-embedding_id: null
+embedding_id: 2026-08-18-openai-nvidia-and-sb-energy-detail-an-eight-gigawatt-ohio-co
 event_name: ''
 ---
 

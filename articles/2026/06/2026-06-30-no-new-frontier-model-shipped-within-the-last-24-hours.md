@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track
-embedding_id: null
+embedding_id: 2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours
 event_name: ''
 ---
 

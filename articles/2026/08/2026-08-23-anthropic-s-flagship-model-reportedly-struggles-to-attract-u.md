@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-13-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
-embedding_id: null
+embedding_id: 2026-08-23-anthropic-s-flagship-model-reportedly-struggles-to-attract-u
 event_name: ''
 ---
 

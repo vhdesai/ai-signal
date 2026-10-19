@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
-embedding_id: null
+embedding_id: 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 event_name: ''
 ---
 

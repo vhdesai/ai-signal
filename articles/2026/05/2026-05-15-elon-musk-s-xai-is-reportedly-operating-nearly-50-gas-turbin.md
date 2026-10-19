@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: null
+embedding_id: 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
 event_name: ''
 ---
 

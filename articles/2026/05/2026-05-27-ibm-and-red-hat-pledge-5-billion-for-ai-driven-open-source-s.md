@@ -4,8 +4,8 @@ title: IBM and Red Hat pledge $5 billion for AI-driven open-source security init
 date: '2026-05-27'
 source: WSJ Tech
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: c4e207744a0abf90262862478cb6c4bf39c1ff0be45228ba46249bdb58d57a93
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
-embedding_id: null
+embedding_id: 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
 event_name: ''
 ---
 

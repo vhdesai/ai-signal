@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 event_name: ''
 ---
 

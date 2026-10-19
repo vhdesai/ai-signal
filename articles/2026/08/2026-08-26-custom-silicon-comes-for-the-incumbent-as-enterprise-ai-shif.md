@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-26-daily-ai-news-digest-june-26-2026
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
-embedding_id: null
+embedding_id: 2026-08-26-custom-silicon-comes-for-the-incumbent-as-enterprise-ai-shif
 event_name: ''
 ---
 

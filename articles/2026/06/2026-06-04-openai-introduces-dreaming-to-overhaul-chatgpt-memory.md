@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-embedding_id: null
+embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
 ---
 

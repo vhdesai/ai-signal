@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-embedding_id: null
+embedding_id: 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 event_name: ''
 ---
 

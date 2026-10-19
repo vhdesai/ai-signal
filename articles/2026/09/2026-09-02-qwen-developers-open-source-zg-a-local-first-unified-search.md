@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 - 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-moves-it-off-apache
-embedding_id: null
+embedding_id: 2026-09-02-qwen-developers-open-source-zg-a-local-first-unified-search
 event_name: ''
 ---
 

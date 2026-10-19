@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte
 - 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
 - 2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits
-embedding_id: null
+embedding_id: 2026-06-30-follow-on-reporting-detailed-that-meta-had-been-running-cust
 event_name: ''
 ---
 

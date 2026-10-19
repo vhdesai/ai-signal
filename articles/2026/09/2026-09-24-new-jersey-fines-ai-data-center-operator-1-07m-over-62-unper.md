@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-embedding_id: null
+embedding_id: 2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper
 event_name: ''
 ---
 

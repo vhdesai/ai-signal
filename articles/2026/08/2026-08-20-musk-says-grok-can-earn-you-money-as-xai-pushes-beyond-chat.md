@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-xai-markets-a-grok-trading-bot-with-a-limited-money-back-pro
 - 2026-10-02-grok-goes-live-in-xchat-tesla-pushes-staff-toward-grok-4-5-u
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-embedding_id: null
+embedding_id: 2026-08-20-musk-says-grok-can-earn-you-money-as-xai-pushes-beyond-chat
 event_name: ''
 ---
 

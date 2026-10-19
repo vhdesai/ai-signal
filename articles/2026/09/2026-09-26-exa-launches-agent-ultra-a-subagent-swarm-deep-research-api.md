@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-embedding_id: null
+embedding_id: 2026-09-26-exa-launches-agent-ultra-a-subagent-swarm-deep-research-api
 event_name: ''
 ---
 

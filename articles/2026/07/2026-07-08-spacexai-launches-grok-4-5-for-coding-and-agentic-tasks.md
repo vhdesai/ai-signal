@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-musk-says-4
 - 2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads
-embedding_id: null
+embedding_id: 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 event_name: ''
 ---
 

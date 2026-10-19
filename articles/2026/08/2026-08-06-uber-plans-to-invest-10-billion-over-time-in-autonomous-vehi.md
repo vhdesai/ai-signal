@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-08-14-pony-ai-and-uber-plan-more-than-2-000-robotaxis-across-five
-embedding_id: null
+embedding_id: 2026-08-06-uber-plans-to-invest-10-billion-over-time-in-autonomous-vehi
 event_name: ''
 ---
 

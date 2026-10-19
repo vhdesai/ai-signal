@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-google-deepmind-frames-sign-language-ai-as-a-governed-deploy
 - 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
-embedding_id: null
+embedding_id: 2026-08-12-google-deepmind-puts-sign-language-ai-into-gboard-and-live-t
 event_name: ''
 ---
 

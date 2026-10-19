@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
 - 2026-08-14-uber-and-pony-ai-to-deploy-more-than-2-000-robotaxis-across
 - 2026-08-14-uber-and-pony-ai-to-deploy-2-000-robotaxis-across-europe
-embedding_id: null
+embedding_id: 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
 event_name: ''
 ---
 

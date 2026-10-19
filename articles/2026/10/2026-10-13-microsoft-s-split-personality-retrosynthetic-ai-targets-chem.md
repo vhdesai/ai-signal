@@ -18,10 +18,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem
 event_name: ''
 ---
 
@@ -34,4 +34,5 @@ Chemistry World covered Microsoft's split-personality retrosynthetic AI, a model
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 - 2026-08-31-perceptron-ai-launches-isaac-0-5-a-36b-open-weight-embodied
-embedding_id: null
+embedding_id: 2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train
 event_name: ''
 ---
 

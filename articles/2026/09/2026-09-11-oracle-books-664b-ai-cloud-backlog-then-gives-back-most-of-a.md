@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
-embedding_id: null
+embedding_id: 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ canonical_article_id: 2026-05-15-new-chatgpt-launches-personal-finance-dashboard
 related_article_ids:
 - 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
 - 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
-embedding_id: null
+embedding_id: 2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank
 event_name: ''
 ---
 

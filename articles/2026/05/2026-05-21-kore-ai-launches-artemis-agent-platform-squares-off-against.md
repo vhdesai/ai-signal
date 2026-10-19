@@ -5,8 +5,8 @@ title: Kore.ai Launches Artemis Agent Platform, Squares Off Against Salesforce a
 date: '2026-05-21'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://business-style.net/tech-ai/kore-ai-artemis-new-ai-agent-platform-challenges-salesforce-servicenow.html
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 8853c4be3d329dfd9f7ae8555d427feaf9d7bd965fd9a38d186db8c0e303a978
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-15-salesforce-and-nvidia-unveil-koa-an-open-weight-nemotron-bas
 - 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 - 2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and
-embedding_id: null
+embedding_id: 2026-05-21-kore-ai-launches-artemis-agent-platform-squares-off-against
 event_name: ''
 ---
 

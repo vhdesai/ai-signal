@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-17-general-compute-lands-400-million-loan-backed-by-inference-c
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
-embedding_id: null
+embedding_id: 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
 event_name: ''
 ---
 

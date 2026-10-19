@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
-embedding_id: null
+embedding_id: 2026-08-12-at-t-bets-on-open-weight-models-to-control-token-cost-and-da
 event_name: ''
 ---
 

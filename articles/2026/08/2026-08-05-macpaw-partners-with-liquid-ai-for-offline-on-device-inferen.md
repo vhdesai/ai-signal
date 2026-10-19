@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-liquid-ai-s-lfm2-5-2-6b-runs-capable-agents-on-device-down-t
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
-embedding_id: null
+embedding_id: 2026-08-05-macpaw-partners-with-liquid-ai-for-offline-on-device-inferen
 event_name: ''
 ---
 

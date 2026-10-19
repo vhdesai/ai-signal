@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
-embedding_id: null
+embedding_id: 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 event_name: ''
 ---
 

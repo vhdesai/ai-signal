@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
 - 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
-embedding_id: null
+embedding_id: 2026-10-07-microsoft-and-nvidia-ceos-to-unveil-ai-powered-surface-lapto
 event_name: ''
 ---
 

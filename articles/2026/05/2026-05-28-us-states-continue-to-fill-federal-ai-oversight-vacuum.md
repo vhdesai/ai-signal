@@ -4,8 +4,8 @@ title: US States Continue to Fill Federal AI-Oversight Vacuum
 date: '2026-05-28'
 source: 'Source: LegalClarity policy roundup'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fintech.global/2026/10/15/state-regulators-fill-the-gap-as-federal-oversight-retreats/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 909072631cb9ba3e6b4f384e848aedac956a289d13ed5acc16538f31c0c3e8a2
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-embedding_id: null
+embedding_id: 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 event_name: ''
 ---
 

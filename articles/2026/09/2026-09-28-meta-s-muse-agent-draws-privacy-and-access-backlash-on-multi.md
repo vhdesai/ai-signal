@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-30-meta-disputes-report-that-its-muse-agent-read-private-messag
 - 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 - 2026-09-20-amazon-cuts-off-meta-s-muse-agent-from-shopping-on-amazon-co
-embedding_id: null
+embedding_id: 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
 event_name: ''
 ---
 

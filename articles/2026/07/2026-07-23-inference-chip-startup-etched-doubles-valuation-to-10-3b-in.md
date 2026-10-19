@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
 - 2026-09-07-wafer-a-non-nvidia-inference-provider-fields-acquisition-off
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-one-month-after-jane-st
-embedding_id: null
+embedding_id: 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
-embedding_id: null
+embedding_id: 2026-09-20-kpmg-forward-deployed-engineer-says-ai-is-moving-the-role-be
 event_name: ''
 ---
 

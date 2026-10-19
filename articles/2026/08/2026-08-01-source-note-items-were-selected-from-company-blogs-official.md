@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-05-27-sources-monitored-30-company-blogs-university-research-feeds
-embedding_id: null
+embedding_id: 2026-08-01-source-note-items-were-selected-from-company-blogs-official
 event_name: ''
 ---
 

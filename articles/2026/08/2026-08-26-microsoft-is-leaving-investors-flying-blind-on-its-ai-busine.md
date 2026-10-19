@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-embedding_id: null
+embedding_id: 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
 event_name: ''
 ---
 

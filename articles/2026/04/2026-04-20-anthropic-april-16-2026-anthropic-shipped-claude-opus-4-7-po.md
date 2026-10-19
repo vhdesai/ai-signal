@@ -5,8 +5,8 @@ title: Anthropic • April 16, 2026 Anthropic shipped Claude Opus 4.7, positione
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiseoshift.com/blog/claude-updates-march-april-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 143a93fd21de3f5bd6e121ea3f4aeb8986fd8e6224e93c10fbbbaf75078da4cd
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
-embedding_id: null
+embedding_id: 2026-04-20-anthropic-april-16-2026-anthropic-shipped-claude-opus-4-7-po
 event_name: ''
 ---
 

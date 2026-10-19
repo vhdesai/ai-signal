@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 - 2026-05-01-newxai-releases-grok-4-3
-embedding_id: null
+embedding_id: 2026-08-29-how-to-use-xai-s-grok-across-mac-iphone-and-ipad
 event_name: ''
 ---
 

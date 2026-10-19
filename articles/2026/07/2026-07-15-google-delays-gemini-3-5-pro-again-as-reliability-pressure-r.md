@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-15-google-delays-gemini-3-5-pro-again-as-reliability-pressure-r
 event_name: ''
 ---
 

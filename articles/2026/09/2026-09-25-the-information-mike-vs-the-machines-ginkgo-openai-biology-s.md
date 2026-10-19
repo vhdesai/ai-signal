@@ -29,7 +29,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-the-information-ginkgo-s-mike-vs-the-machines-puts-openai-ag
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-the-information-mike-vs-the-machines-ginkgo-openai-biology-s
 event_name: ''
 ---
 

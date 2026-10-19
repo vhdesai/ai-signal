@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-embedding_id: null
+embedding_id: 2026-10-08-nvidia-commits-1-billion-to-advance-us-science-over-the-next
 event_name: ''
 ---
 

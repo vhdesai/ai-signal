@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
-embedding_id: null
+embedding_id: 2026-08-03-openai-publicly-disputes-apple-s-lawsuit-claims
 event_name: ''
 ---
 

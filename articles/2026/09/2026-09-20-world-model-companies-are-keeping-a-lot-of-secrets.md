@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-world-model-companies-remain-secretive-about-paths-to-market
 - 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
-embedding_id: null
+embedding_id: 2026-09-20-world-model-companies-are-keeping-a-lot-of-secrets
 event_name: ''
 ---
 

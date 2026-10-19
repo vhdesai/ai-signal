@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
-embedding_id: null
+embedding_id: 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
 event_name: ''
 ---
 

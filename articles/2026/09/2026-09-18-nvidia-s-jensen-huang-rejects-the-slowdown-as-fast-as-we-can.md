@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-nvidia-s-huang-calls-ai-extinction-warnings-doomsday-narrati
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-as-doomsday-narr
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
-embedding_id: null
+embedding_id: 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
-embedding_id: null
+embedding_id: 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 event_name: ''
 ---
 

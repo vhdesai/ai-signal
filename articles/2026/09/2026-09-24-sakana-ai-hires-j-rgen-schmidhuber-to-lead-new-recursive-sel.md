@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
-embedding_id: null
+embedding_id: 2026-09-24-sakana-ai-hires-j-rgen-schmidhuber-to-lead-new-recursive-sel
 event_name: ''
 ---
 

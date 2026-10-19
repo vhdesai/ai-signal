@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-embedding_id: null
+embedding_id: 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 event_name: ''
 ---
 

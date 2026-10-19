@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
 - 2026-09-24-marvell-unveils-2nm-optical-technology-for-ai-data-centers
-embedding_id: null
+embedding_id: 2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit
 event_name: ''
 ---
 

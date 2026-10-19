@@ -21,10 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
+- 2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o
 - 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
-- 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
-- 2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis
-embedding_id: null
+- 2026-10-14-machine-learning-corrections-target-the-subseasonal-weather
+embedding_id: 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ MIT published a four-year progress report on its Climate Grand Challenges projec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]] · [[2026-09-24-mit-s-senseable-city-lab-weighs-the-promise-and-peril-of-vis]]
+**Related:** [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo]] · [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather]]
 <!-- graph:end -->

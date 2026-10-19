@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 - 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
-embedding_id: null
+embedding_id: 2026-07-20-china-s-zhongji-innolight-targets-8b-hong-kong-listing-on-ai
 event_name: ''
 ---
 

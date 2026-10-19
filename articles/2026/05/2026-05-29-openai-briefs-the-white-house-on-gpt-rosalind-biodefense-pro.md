@@ -4,8 +4,8 @@ title: OpenAI briefs the White House on GPT-Rosalind biodefense program
 date: '2026-05-29'
 source: Axios via Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.siliconreport.com/axios-openai-briefed-the-white-house-on-a-new-biodefense-program-using-gpt-rosalind-f54b691c
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 3fb7567f1115522f15550e04ccef2d2da09691ff9deac3fc6f277cb072358f12
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen
 - 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
-embedding_id: null
+embedding_id: 2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro
 event_name: ''
 ---
 

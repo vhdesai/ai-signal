@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-nvidia-chases-records-cerebras-rebounds-and-qualcomm-huawei
 - 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
-embedding_id: null
+embedding_id: 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 event_name: ''
 ---
 

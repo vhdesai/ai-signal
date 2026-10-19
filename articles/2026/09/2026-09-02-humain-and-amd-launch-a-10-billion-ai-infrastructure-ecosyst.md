@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 - 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
-embedding_id: null
+embedding_id: 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 event_name: ''
 ---
 

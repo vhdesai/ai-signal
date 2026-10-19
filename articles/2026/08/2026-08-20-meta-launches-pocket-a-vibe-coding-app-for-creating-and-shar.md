@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued
 - 2026-08-21-meta-launches-ai-game-creation-app-pocket-across-the-us
 - 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
-embedding_id: null
+embedding_id: 2026-08-20-meta-launches-pocket-a-vibe-coding-app-for-creating-and-shar
 event_name: ''
 ---
 

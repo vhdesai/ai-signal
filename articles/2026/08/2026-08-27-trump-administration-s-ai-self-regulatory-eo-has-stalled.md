@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-05-the-trump-administration-is-reportedly-considering-an-execut
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-embedding_id: null
+embedding_id: 2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled
 event_name: ''
 ---
 

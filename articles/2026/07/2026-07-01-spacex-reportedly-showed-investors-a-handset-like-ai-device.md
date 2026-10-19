@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-05-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-08-29-openai-will-reportedly-cut-off-models-for-spacex-owned-curso
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-embedding_id: null
+embedding_id: 2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device
 event_name: ''
 ---
 

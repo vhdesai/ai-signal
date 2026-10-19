@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 - 2026-05-16-researchers-from-uc-berkeley-and-mit-cais-2026-conference-in
 - 2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt
-embedding_id: null
+embedding_id: 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
 event_name: ''
 ---
 

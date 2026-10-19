@@ -4,8 +4,8 @@ title: White House delays AI cybersecurity executive order; HHS embeds AI in ove
 date: '2026-05-27'
 source: JD Supra / Mintz
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.insideprivacy.com/united-states/white-house/white-house-issues-new-cybersecurity-executive-order/
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: f63ac19bf03af4eca69c40e52d3bfede74cf372598e3f04ed34a787315121e3a
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
-embedding_id: null
+embedding_id: 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 event_name: ''
 ---
 

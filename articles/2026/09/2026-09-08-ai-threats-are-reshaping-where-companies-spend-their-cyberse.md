@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-embedding_id: null
+embedding_id: 2026-09-08-ai-threats-are-reshaping-where-companies-spend-their-cyberse
 event_name: ''
 ---
 

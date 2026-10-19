@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 - 2026-09-13-ai-risk-debate-shifts-from-raw-speed-to-autonomy
-embedding_id: null
+embedding_id: 2026-10-09-cyber-chiefs-say-autonomous-ai-defenders-are-not-ready-for-p
 event_name: ''
 ---
 

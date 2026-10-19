@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-bill-gates-proposes-robot-tax-and-human-reserved-jobs-to-mit
 - 2026-08-26-bill-gates-calls-for-a-robot-tax-and-human-reserved-jobs
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-embedding_id: null
+embedding_id: 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 event_name: ''
 ---
 

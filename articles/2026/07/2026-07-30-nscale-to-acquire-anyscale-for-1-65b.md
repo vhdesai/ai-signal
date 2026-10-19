@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-nscale-to-acquire-anyscale-for-1-65b
 event_name: ''
 ---
 

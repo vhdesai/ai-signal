@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-embedding_id: null
+embedding_id: 2026-08-26-meta-s-scrapped-project-ot-saw-ai-agents-take-large-scale-di
 event_name: ''
 ---
 

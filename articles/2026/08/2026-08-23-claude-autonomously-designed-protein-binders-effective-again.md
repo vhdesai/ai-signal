@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 - 2026-09-23-claude-agents-autonomously-identify-a-novel-crispr-like-enzy
-embedding_id: null
+embedding_id: 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 event_name: ''
 ---
 

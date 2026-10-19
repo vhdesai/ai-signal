@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-22-google-invests-in-a24-to-develop-ai-powered-filmmaking-tools
 event_name: ''
 ---
 

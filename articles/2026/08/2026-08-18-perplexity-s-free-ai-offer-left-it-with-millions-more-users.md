@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
-embedding_id: null
+embedding_id: 2026-08-18-perplexity-s-free-ai-offer-left-it-with-millions-more-users
 event_name: ''
 ---
 

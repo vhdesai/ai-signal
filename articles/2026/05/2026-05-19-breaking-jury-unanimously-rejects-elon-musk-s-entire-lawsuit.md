@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
-embedding_id: null
+embedding_id: 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
 event_name: ''
 ---
 

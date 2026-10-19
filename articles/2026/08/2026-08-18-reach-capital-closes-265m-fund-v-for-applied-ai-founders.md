@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-embedding_id: null
+embedding_id: 2026-08-18-reach-capital-closes-265m-fund-v-for-applied-ai-founders
 event_name: ''
 ---
 

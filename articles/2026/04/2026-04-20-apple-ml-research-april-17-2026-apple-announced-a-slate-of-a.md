@@ -5,8 +5,8 @@ title: Apple ML Research • April 17, 2026 Apple announced a slate of accepted 
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://machinelearning.apple.com/updates/apple-at-chi-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: a79afedbe03800dd7332a6396a026871121243a6de5aa228b8ad4f915bb77075
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 - 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-embedding_id: null
+embedding_id: 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 event_name: ''
 ---
 

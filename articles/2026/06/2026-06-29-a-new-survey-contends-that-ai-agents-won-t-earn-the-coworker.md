@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
+- 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
-embedding_id: null
+embedding_id: 2026-06-29-a-new-survey-contends-that-ai-agents-won-t-earn-the-coworker
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ A new survey contends that AI agents won't earn the "coworker" label until they 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]]
+**Related:** [[2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun]] · [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ]] · [[2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us]] · [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: null
+embedding_id: 2026-08-22-reuters-reports-nvidia-customers-were-notified-of-ai-related
 event_name: ''
 ---
 

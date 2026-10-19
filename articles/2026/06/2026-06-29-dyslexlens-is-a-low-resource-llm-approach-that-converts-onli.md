@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-29-dyslexlens-is-a-low-resource-llm-approach-that-converts-onli
 event_name: ''
 ---
 

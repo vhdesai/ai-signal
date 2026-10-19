@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-08-03-cuspai-illustrates-how-capital-is-spreading-into-the-physica
 - 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
-embedding_id: null
+embedding_id: 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 event_name: ''
 ---
 

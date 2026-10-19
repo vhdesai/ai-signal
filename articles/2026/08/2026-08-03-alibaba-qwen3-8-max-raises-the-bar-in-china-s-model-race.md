@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 related_article_ids:
 - 2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date
-embedding_id: null
+embedding_id: 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 event_name: ''
 ---
 

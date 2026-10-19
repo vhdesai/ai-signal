@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 - 2026-07-16-tsmc-reportedly-plans-another-100b-u-s-investment-as-ai-dema
-embedding_id: null
+embedding_id: 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
 event_name: ''
 ---
 

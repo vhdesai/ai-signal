@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
-embedding_id: null
+embedding_id: 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 event_name: ''
 ---
 

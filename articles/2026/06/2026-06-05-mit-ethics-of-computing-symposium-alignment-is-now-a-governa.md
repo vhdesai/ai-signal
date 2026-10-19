@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-13-wsj-reports-deepmind-s-hassabis-pitched-an-ai-oversight-body
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
-embedding_id: null
+embedding_id: 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 event_name: ''
 ---
 

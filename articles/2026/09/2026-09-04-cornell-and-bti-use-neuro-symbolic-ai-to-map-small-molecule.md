@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-cornell-and-bti-s-aime-maps-candidates-for-unidentified-smal
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 - 2026-08-24-carnegie-mellon-spotlights-its-neuroai-pushnew
-embedding_id: null
+embedding_id: 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 event_name: ''
 ---
 

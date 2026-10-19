@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
-embedding_id: null
+embedding_id: 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 event_name: ''
 ---
 

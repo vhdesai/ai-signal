@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f
 - 2026-08-13-alphasense-study-u-s-frontier-models-can-be-cheaper-than-chi
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l
 event_name: ''
 ---
 

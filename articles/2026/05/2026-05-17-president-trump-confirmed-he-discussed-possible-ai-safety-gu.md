@@ -5,8 +5,8 @@ title: President Trump confirmed he discussed possible AI safety guardrails with
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techechelon.com/post/trump-says-he-discussed-ai-guardrails-with-xi-jinping-during-china-talks
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 741e3ad654d40b9f44887b67010b334a48716b723e75c174b96b8ed3ffb4f0a3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-embedding_id: null
+embedding_id: 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
 event_name: ''
 ---
 

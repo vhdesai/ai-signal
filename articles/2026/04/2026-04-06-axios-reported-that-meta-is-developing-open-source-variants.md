@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-embedding_id: null
+embedding_id: 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 event_name: ''
 ---
 

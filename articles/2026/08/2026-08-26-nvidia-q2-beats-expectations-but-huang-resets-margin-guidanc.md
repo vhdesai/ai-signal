@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-25-nvidia-q2-fy27-earnings-land-today-as-the-ai-boom-s-scorecar
-embedding_id: null
+embedding_id: 2026-08-26-nvidia-q2-beats-expectations-but-huang-resets-margin-guidanc
 event_name: ''
 ---
 

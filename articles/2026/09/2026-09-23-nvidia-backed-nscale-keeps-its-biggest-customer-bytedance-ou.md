@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe
 - 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-embedding_id: null
+embedding_id: 2026-09-23-nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-ou
 event_name: ''
 ---
 

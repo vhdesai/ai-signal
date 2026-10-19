@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 - 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
-embedding_id: null
+embedding_id: 2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed
 event_name: ''
 ---
 

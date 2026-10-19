@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 - 2026-07-18-judges-and-lawyers-confront-ai-s-role-in-the-courts
-embedding_id: null
+embedding_id: 2026-08-23-legal-tech-startups-are-repackaging-ai-disruption-in-a-riski
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
 - 2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus
-embedding_id: null
+embedding_id: 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 event_name: ''
 ---
 

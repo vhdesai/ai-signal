@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: null
+embedding_id: 2026-05-26-university-of-california-establishes-systemwide-ai-steering
 event_name: ''
 ---
 

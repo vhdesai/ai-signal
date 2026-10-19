@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
-embedding_id: null
+embedding_id: 2026-08-17-ai-drafted-legislation-is-overwhelming-the-house-office-that
 event_name: ''
 ---
 

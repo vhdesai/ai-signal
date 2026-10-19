@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-ai-auto-remediation-in-data-pipelines-faces-reliability-limi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-13-the-case-against-letting-ai-auto-repair-enterprise-data-pipe
 event_name: ''
 ---
 

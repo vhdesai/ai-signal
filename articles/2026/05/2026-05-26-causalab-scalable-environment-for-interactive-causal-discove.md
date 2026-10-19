@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+embedding_id: 2026-05-26-causalab-scalable-environment-for-interactive-causal-discove
 event_name: ''
 ---
 

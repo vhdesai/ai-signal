@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-nyc-parents-push-back-after-discovering-classroom-ai-use
 - 2026-07-26-new-york-school-district-pauses-humanoid-robot-teacher-after
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
-embedding_id: null
+embedding_id: 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 event_name: ''
 ---
 

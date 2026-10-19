@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-serval-debuts-catalyst-a-roving-agent-that-fixes-it-issues-p
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-serval-s-super-agent-catalyst-deploys-roving-background-agen
 event_name: ''
 ---
 

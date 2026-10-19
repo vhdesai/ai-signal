@@ -5,8 +5,8 @@ title: '[BREAKING] IRGC Threatens 18 AI Technology Firms (Apr 1) Iran’s IRGC i
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.newsx.com/world/google-apple-microsoft-under-irans-threat-why-is-irgc-targeting-us-tech-firms-and-whats-the-role-of-ai-in-executing-operations-against-tehran-191841/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 0185b3901c25ebe66343f1eecb1a4fb242b0b0cac6e57f43546c2664708eb2c6
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-embedding_id: null
+embedding_id: 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 event_name: ''
 ---
 

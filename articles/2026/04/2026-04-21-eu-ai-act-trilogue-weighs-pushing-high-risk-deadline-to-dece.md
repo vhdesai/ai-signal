@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 - 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
-embedding_id: null
+embedding_id: 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 event_name: ''
 ---
 

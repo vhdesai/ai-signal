@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-xiaomi-milm-plus-releases-prove-benchmark-and-metrics-for-ob
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-xiaomi-s-milm-plus-releases-prove-perception-aligned-metrics
 event_name: ''
 ---
 

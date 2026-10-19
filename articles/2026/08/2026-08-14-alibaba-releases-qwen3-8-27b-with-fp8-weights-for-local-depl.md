@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-17-alibaba-answers-meta-s-ai-challenge-with-new-laptop-ready-mo
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-07-20-alibaba-debuts-qwen3-8-max-preview-a-2-4t-parameter-multimod
-embedding_id: null
+embedding_id: 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 event_name: ''
 ---
 

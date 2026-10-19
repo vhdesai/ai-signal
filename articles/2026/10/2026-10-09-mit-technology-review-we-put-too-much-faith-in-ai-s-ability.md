@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 - 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
-embedding_id: null
+embedding_id: 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
 event_name: ''
 ---
 

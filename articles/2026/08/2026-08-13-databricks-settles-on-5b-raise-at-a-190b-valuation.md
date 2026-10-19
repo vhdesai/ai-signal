@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-databricks-raises-5b-at-190b-valuation-after-15b-of-investor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-databricks-settles-on-5b-raise-at-a-190b-valuation
 event_name: ''
 ---
 

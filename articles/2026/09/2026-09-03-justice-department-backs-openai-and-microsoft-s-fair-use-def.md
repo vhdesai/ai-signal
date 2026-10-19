@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
 event_name: ''
 ---
 

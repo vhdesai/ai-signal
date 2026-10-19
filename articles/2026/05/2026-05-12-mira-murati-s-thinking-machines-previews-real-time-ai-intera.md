@@ -4,8 +4,8 @@ title: Mira Murati's Thinking Machines Previews Real-Time AI Interaction Models
 date: '2026-05-12'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thinkingmachines.ai/blog/interaction-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: f40a107ef695acd2a84f1ade3dc3673677438f0f436cde5dda9ee7447465132a
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f
-embedding_id: null
+embedding_id: 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 event_name: ''
 ---
 

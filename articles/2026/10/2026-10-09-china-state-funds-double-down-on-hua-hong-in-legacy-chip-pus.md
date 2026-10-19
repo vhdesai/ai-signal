@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-embedding_id: null
+embedding_id: 2026-10-09-china-state-funds-double-down-on-hua-hong-in-legacy-chip-pus
 event_name: ''
 ---
 

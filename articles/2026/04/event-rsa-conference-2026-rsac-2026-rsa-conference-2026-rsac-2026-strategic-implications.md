@@ -4,8 +4,8 @@ title: RSA Conference 2026 / RSAC 2026 — Strategic Implications
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.rsaconference.com/usa
-url_status: broken
+url_canonical: https://www.techtarget.com/cybersecurity/conference/RSAC-2026-Conference-Key-news-and-industry-analysis
+url_status: repaired
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: 1e4c819eb593478319bf990e07f0978b817cfec34a47f57822ba08be31db2bde
 normalized_title_hash: 7650730c8fb7b5c1
@@ -27,7 +27,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-embedding_id: null
+embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 

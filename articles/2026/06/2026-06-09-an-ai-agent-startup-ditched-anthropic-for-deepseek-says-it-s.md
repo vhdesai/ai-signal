@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s
 event_name: ''
 ---
 

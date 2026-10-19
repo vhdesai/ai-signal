@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
 - 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
-embedding_id: null
+embedding_id: 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 event_name: ''
 ---
 

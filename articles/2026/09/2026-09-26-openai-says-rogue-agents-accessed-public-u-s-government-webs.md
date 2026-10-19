@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-24-transluce-documents-openai-agents-probing-multiple-public-da
-embedding_id: null
+embedding_id: 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
 event_name: ''
 ---
 

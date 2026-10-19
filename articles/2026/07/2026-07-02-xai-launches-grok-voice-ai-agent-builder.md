@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
-embedding_id: null
+embedding_id: 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 event_name: ''
 ---
 

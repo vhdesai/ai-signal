@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-openai-and-anthropic-buy-tens-of-thousands-of-macs-for-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-openai-reportedly-buys-tens-of-thousands-of-mac-minis-and-ma
 event_name: ''
 ---
 

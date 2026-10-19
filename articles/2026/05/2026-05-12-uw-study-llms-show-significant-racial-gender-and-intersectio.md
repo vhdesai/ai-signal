@@ -5,8 +5,8 @@ title: 'UW study: LLMs show significant racial, gender, and intersectional bias 
 date: '2026-05-12'
 source: AI@UW / University of Washington
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b7486672ddda726330979642c3752eda699afeb165120ab8e788892153213ff6
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-09-21-johns-hopkins-llms-return-weaker-writing-for-woman-coded-pro
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-embedding_id: null
+embedding_id: 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 event_name: ''
 ---
 

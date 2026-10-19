@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-embedding_id: null
+embedding_id: 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 event_name: ''
 ---
 

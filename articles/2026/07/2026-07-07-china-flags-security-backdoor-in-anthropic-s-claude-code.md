@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
 - 2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code
-embedding_id: null
+embedding_id: 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 event_name: ''
 ---
 

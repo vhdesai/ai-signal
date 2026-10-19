@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
 - 2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob
-embedding_id: null
+embedding_id: 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 event_name: ''
 ---
 

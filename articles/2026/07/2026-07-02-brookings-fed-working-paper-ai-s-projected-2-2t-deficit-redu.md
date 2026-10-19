@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
-embedding_id: null
+embedding_id: 2026-07-02-brookings-fed-working-paper-ai-s-projected-2-2t-deficit-redu
 event_name: ''
 ---
 

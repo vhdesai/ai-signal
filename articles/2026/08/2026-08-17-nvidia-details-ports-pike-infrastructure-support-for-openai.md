@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi
 - 2026-08-17-nvidia-guarantees-105b-in-leases-and-invests-1-5b-in-sb-ener
 - 2026-08-17-nvidia-guarantees-sb-energy-s-ports-pike-campus-to-exclusive
-embedding_id: null
+embedding_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 event_name: ''
 ---
 

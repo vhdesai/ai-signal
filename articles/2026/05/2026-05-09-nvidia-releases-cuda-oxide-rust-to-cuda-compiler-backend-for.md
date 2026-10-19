@@ -4,8 +4,8 @@ title: 'NVIDIA Releases cuda-oxide: Rust-to-CUDA Compiler Backend for GPU Kernel
 date: '2026-05-09'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6cabbf71839e18b766185b45bff361d0132d8fee0712f881f8593251095eb95f
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-17-bytedance-tsinghua-cuda-agent-for-gpu-kernel-generation
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-embedding_id: null
+embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
 

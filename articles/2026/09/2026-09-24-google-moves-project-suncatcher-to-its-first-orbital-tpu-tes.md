@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-google-s-first-orbital-tpu-test-project-suncatcher-launches
 - 2026-09-24-google-s-first-orbital-tpu-test-flies-october-1-on-spacex-tr
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
-embedding_id: null
+embedding_id: 2026-09-24-google-moves-project-suncatcher-to-its-first-orbital-tpu-tes
 event_name: ''
 ---
 

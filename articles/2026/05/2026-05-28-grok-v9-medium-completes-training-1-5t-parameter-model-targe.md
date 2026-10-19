@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
 - 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 - 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
-embedding_id: null
+embedding_id: 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 event_name: ''
 ---
 

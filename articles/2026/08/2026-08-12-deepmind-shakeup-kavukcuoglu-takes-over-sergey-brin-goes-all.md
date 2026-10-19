@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-12-kavukcuoglu-takes-over-google-deepmind-as-hassabis-moves-to
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
-embedding_id: null
+embedding_id: 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
 event_name: ''
 ---
 

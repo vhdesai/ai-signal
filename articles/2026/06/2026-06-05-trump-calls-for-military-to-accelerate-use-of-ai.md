@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 - 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
-embedding_id: null
+embedding_id: 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 event_name: ''
 ---
 

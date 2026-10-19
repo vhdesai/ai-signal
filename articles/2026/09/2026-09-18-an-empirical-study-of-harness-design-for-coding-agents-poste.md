@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
-embedding_id: null
+embedding_id: 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
-embedding_id: null
+embedding_id: 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 event_name: ''
 ---
 

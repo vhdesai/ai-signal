@@ -4,8 +4,8 @@ title: Databricks reportedly set to reach $188 billion valuation with Coatue inv
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation
+url_status: repaired
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 1ead6e8ddecfa6dff3f3012714f990723b61fc7df2b147dc730494c5655c531e
 normalized_title_hash: ab3270a84627d7d0
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-databricks-reaches-188-billion-valuation-as-ai-infrastructur
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
 event_name: ''
 ---
 

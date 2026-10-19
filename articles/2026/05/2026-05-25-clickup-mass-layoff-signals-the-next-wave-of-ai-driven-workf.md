@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 - 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-embedding_id: null
+embedding_id: 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 event_name: ''
 ---
 

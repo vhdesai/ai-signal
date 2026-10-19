@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-embedding_id: null
+embedding_id: 2026-08-31-independent-analysts-escalate-their-reading-of-the-openai-hu
 event_name: ''
 ---
 

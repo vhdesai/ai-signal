@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-08-22-rare-book-sales-are-booming-they-re-getting-sliced-up-and-fe
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-embedding_id: null
+embedding_id: 2026-08-22-saturday-coverage-ai-content-demand-strains-the-rare-book-ma
 event_name: ''
 ---
 

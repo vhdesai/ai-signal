@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-08-03-xsight-labs-is-a-reminder-that-networking-silicon-is-becomin
-embedding_id: null
+embedding_id: 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 event_name: ''
 ---
 

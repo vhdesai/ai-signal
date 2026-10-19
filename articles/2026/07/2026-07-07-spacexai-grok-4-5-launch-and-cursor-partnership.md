@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: null
+embedding_id: 2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership
 event_name: ''
 ---
 

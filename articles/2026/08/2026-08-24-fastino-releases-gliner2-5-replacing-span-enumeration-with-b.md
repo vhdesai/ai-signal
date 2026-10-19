@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
 - 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
-embedding_id: null
+embedding_id: 2026-08-24-fastino-releases-gliner2-5-replacing-span-enumeration-with-b
 event_name: ''
 ---
 

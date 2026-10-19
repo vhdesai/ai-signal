@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 - 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
-embedding_id: null
+embedding_id: 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 event_name: ''
 ---
 

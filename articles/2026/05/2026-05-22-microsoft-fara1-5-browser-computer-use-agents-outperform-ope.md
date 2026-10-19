@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits
 - 2026-09-13-allspark-releases-open-weight-iris-mini-and-iris-pro-search
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 event_name: ''
 ---
 

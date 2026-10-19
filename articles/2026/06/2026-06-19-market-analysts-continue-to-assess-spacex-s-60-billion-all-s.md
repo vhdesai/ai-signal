@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
 - 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
-embedding_id: null
+embedding_id: 2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s
 event_name: ''
 ---
 

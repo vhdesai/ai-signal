@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 - 2026-07-15-google-delays-gemini-3-5-pro-again-as-reliability-pressure-r
 - 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
-embedding_id: null
+embedding_id: 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 event_name: ''
 ---
 

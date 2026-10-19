@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-ai-chatbots-give-wrong-financial-answers-most-of-the-time-be
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-embedding_id: null
+embedding_id: 2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall
 event_name: ''
 ---
 

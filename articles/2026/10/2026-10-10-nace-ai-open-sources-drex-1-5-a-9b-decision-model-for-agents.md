@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-09-openai-s-decisions-api-points-model-platforms-toward-typed-l
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
-embedding_id: null
+embedding_id: 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 event_name: ''
 ---
 

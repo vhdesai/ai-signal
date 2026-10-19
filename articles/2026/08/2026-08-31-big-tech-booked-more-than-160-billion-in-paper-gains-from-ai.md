@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-embedding_id: null
+embedding_id: 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
 event_name: ''
 ---
 

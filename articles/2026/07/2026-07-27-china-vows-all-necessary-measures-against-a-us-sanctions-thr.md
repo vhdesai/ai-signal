@@ -5,8 +5,8 @@ title: China vows “all necessary measures” against a US sanctions threat on 
 date: '2026-07-27'
 source: Bloomberg
 url_original: https://www.theedgesingapore.com/news/geopolitics/china-vows-response-us-sanctions-threat-against-ai-firms
-url_canonical: https://www.theedgesingapore.com/news/geopolitics/china-vows-response-us-sanctions-threat-against-ai-firms
-url_status: broken
+url_canonical: https://news.bloomberglaw.com/artificial-intelligence/china-vows-response-to-us-sanctions-threat-against-ai-firms
+url_status: repaired
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: b88bd9a6e22c75e8a90a806ee2d731de8abdce9f669384d75129eec9b2187800
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-embedding_id: null
+embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr
 event_name: ''
 ---
 

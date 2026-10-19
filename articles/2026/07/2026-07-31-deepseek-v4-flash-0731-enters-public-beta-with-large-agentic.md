@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-deepseek-v4-flash-0731-enters-public-beta-with-large-agentic
 event_name: ''
 ---
 

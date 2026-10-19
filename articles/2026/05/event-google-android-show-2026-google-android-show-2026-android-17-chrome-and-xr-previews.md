@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
-embedding_id: null
+embedding_id: event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews
 event_name: Google Android Show 2026
 ---
 

@@ -4,8 +4,8 @@ title: Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IP
 date: '2026-06-05'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mccarter.com/insights/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-of-ipo-sources-say/
+url_status: repaired
 digest_source: digests\raw\2026-06-06_060013_Daily-AI-News-Digest.md
 content_hash: 27849c019bf9cddd147326aca69b39bb37ad4fdb07e2bcf49dd0996289c31547
 normalized_title_hash: 0e17e3c6cfe62002
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop
 - 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
 - 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
-embedding_id: null
+embedding_id: 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 event_name: ''
 ---
 

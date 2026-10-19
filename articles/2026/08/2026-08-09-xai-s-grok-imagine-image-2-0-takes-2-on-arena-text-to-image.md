@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-expanded-measureme
-embedding_id: null
+embedding_id: 2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image
 event_name: ''
 ---
 

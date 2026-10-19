@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - 2026-05-17-cmu-at-iclr-2026-194-papers-introduced-the-agent-data-protoc
-embedding_id: null
+embedding_id: 2026-04-22-academic-research
 event_name: ''
 ---
 

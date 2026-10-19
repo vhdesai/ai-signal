@@ -5,8 +5,8 @@ title: 'Forbes: Energy Sovereignty Will Decide the AI Race — Europe Must Compe
 date: '2026-06-21'
 source: Forbes
 url_original: https://www.forbes.com/sites/digital-assets/2026/06/21/ai--energy--life-how-power-will-decide-the-ai-race/
-url_canonical: https://www.forbes.com/sites/digital-assets/2026/06/21/ai--energy--life-how-power-will-decide-the-ai-race/
-url_status: broken
+url_canonical: https://www.worldfinance.com/strategy/financing-europes-race-for-energy-sovereignty
+url_status: repaired
 digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
 content_hash: 5817b687c30eaf0fd91330bb7825734a4ce4f13f6e44440e02a79976237fcd0b
 normalized_title_hash: cea9319d27656410
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-embedding_id: null
+embedding_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus
 event_name: ''
 ---
 

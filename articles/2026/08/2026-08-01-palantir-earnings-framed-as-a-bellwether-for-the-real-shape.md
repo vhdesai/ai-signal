@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-embedding_id: null
+embedding_id: 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
 event_name: ''
 ---
 

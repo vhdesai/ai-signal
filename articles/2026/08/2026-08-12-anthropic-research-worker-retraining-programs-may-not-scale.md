@@ -49,7 +49,7 @@ related_article_ids:
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 - 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
-embedding_id: null
+embedding_id: 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
 event_name: ''
 ---
 

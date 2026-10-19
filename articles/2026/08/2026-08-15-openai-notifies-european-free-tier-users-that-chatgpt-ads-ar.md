@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 event_name: ''
 ---
 

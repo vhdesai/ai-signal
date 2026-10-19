@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-04-intuit-shares-its-agentic-disaster-recovery-architecture
 - 2026-09-04-intuit-shares-agentic-disaster-recovery-architecture-built-a
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
-embedding_id: null
+embedding_id: 2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-embedding_id: null
+embedding_id: 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 event_name: ''
 ---
 

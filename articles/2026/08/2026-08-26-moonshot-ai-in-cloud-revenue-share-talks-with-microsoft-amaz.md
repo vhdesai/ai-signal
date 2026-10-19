@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-embedding_id: null
+embedding_id: 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-read-at-reuters-via-u-s-news
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th
 event_name: ''
 ---
 

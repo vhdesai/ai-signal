@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-aws-and-accenture-sign-six-year-middle-east-ai-and-cloud-agr
 - 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 - 2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a
-embedding_id: null
+embedding_id: 2026-09-02-aws-to-open-its-first-saudi-arabia-region-in-december-anchor
 event_name: ''
 ---
 

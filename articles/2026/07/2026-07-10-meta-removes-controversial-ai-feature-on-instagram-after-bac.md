@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac
 event_name: ''
 ---
 

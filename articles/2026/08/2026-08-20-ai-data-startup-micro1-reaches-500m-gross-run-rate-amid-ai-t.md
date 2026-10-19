@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-ai-data-startup-micro1-hits-500m-gross-run-rate-as-training
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-t
 event_name: ''
 ---
 

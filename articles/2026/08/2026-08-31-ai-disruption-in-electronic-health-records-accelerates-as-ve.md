@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: null
+embedding_id: 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 event_name: ''
 ---
 

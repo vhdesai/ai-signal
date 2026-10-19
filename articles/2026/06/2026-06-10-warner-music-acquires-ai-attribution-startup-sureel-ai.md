@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-sony-music-and-warner-sue-anthropic-over-alleged-music-ip-th
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-embedding_id: null
+embedding_id: 2026-06-10-warner-music-acquires-ai-attribution-startup-sureel-ai
 event_name: ''
 ---
 

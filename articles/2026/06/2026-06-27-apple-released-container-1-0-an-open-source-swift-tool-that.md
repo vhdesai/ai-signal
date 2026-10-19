@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 - 2026-08-20-ports-pike-advances-as-an-8-gw-ai-infrastructure-template-an
 - 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
-embedding_id: null
+embedding_id: 2026-06-27-apple-released-container-1-0-an-open-source-swift-tool-that
 event_name: ''
 ---
 

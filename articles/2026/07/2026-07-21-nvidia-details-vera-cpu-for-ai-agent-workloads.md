@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-up-its-own-chip
-embedding_id: null
+embedding_id: 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 event_name: ''
 ---
 

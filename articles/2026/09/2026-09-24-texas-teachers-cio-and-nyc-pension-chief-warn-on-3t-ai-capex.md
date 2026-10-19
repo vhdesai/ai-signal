@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-texas-teachers-cio-and-nyc-pension-chief-warn-on-3t-ai-capex
 event_name: ''
 ---
 

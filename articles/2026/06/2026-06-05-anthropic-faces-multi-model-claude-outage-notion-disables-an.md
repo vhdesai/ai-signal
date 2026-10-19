@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
-embedding_id: null
+embedding_id: 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 event_name: ''
 ---
 

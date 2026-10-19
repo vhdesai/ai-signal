@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-09-21-meta-s-muse-outpaces-chatgpt-s-early-mobile-launch-in-the-us
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
-embedding_id: null
+embedding_id: 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
 event_name: ''
 ---
 

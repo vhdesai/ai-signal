@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai
+- 2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov
+- 2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit
 - 2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-- 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
-- 2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to
-embedding_id: null
+embedding_id: 2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Trane Technologies announced a collaboration with Eaton to integrate electrical 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai]] · [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to]]
+**Related:** [[2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai]] · [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov]] · [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit]] · [[2026-08-27-cummins-lands-largest-ever-battery-storage-contract-for-a-u]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]]
 <!-- graph:end -->

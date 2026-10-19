@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-embedding_id: null
+embedding_id: 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
 - 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-embedding_id: null
+embedding_id: 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 event_name: ''
 ---
 

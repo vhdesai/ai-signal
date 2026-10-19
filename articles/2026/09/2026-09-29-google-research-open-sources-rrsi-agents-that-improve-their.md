@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf
-- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-embedding_id: null
+embedding_id: 2026-09-29-google-research-open-sources-rrsi-agents-that-improve-their
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Regularized Recursive Self-Improvement lets an LLM agent rewrite its own prompts
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
+**Related:** [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms]] · [[2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel]] · [[2026-09-11-harnessdev-models-are-poor-engineers-of-their-own-agent-scaf]]
 <!-- graph:end -->

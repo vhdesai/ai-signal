@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-black-forest-labs-releases-flux-3-action-an-open-robotics-vi
 - 2026-09-24-black-forest-labs-releases-flux-3-action-a-7b-open-weight-wo
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
-embedding_id: null
+embedding_id: 2026-10-02-black-forest-labs-ships-flux-3-image-with-multi-step-localiz
 event_name: ''
 ---
 

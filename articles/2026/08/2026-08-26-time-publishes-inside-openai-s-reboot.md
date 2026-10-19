@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-09-06-openai-publishes-internal-data-on-how-coding-agents-are-resh
 - 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
-embedding_id: null
+embedding_id: 2026-08-26-time-publishes-inside-openai-s-reboot
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-u-s-and-china-prepare-for-mid-september-ai-safety-talks
 - 2026-09-05-u-s-and-china-prepare-mid-september-ai-safety-talks
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
-embedding_id: null
+embedding_id: 2026-07-21-u-s-and-china-set-first-formal-ai-talks-for-september
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
 event_name: ''
 ---
 

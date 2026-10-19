@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: null
+embedding_id: 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 event_name: ''
 ---
 

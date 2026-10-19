@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-embedding_id: null
+embedding_id: 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 event_name: ''
 ---
 

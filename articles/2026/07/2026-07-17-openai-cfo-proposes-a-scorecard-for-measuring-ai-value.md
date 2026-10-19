@@ -4,8 +4,8 @@ title: OpenAI CFO proposes a scorecard for measuring AI value
 date: '2026-07-17'
 source: OpenAI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/a-scorecard-for-the-ai-age/
+url_status: repaired
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 37d4be866df8c3e8d9dcec45fa3e42543f19d771066750b43dd127882c97a8e2
 normalized_title_hash: d561f6b33eb4d21b
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-09-04-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
-embedding_id: null
+embedding_id: 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 event_name: ''
 ---
 

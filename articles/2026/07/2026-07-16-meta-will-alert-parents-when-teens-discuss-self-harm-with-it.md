@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-16-meta-says-it-will-alert-parents-when-teens-show-distress-in
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it
 event_name: ''
 ---
 

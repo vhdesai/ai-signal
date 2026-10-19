@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
-embedding_id: null
+embedding_id: 2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti
 event_name: ''
 ---
 

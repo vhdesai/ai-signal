@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
 - 2026-09-08-google-attackers-built-and-ran-a-credential-harvesting-campa
-embedding_id: null
+embedding_id: 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 event_name: ''
 ---
 

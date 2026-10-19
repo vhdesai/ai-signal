@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-05-02-microsoft-agent-365-generally-available
-embedding_id: null
+embedding_id: 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 event_name: ''
 ---
 

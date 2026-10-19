@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-09-01-amazon-s-alexa-adds-update-me-when-shifting-shopping-ai-from
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: null
+embedding_id: 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 event_name: ''
 ---
 

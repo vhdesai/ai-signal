@@ -4,8 +4,8 @@ title: Palantir posts blowout Q1 with 85% revenue growth, $892M free cash flow
 date: '2026-05-04'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://investors.palantir.com/news-details/2026/Palantir-Reports-Q4-2025-U-S--Comm-Revenue-Growth-of-137-YY-and-Revenue-Growth-of-70-YY-Issues-FY-2026-Revenue-Guidance-of-61-YY-and-U-S--Comm-Revenue-Guidance-of-115-YY-Crushing-Consensus-Expectations/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: ab0cdbaaef5c1e4d0ad5873cf5fe0d513a38712794232b2f7bd399f41d7dad1e
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
-embedding_id: null
+embedding_id: 2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-22-deepmind-alumni-startup-inherent-claims-its-ai-teammate-beat
-embedding_id: null
+embedding_id: 2026-08-22-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-out
 event_name: ''
 ---
 

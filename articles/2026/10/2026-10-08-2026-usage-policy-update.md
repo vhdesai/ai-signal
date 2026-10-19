@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-03-anthropic-maps-a-year-of-ai-enabled-cyberattacks-onto-mitre
 - 2026-09-19-chinese-state-tv-affiliated-account-flags-anthropic-data-and
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
-embedding_id: null
+embedding_id: 2026-10-08-2026-usage-policy-update
 event_name: ''
 ---
 

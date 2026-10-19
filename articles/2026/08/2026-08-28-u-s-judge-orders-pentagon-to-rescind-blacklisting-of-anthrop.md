@@ -25,7 +25,7 @@ canonical_article_id: 2026-08-28-federal-judge-orders-pentagon-to-rescind-blackl
 related_article_ids:
 - 2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl
 - 2026-09-25-appeals-court-rules-the-pentagon-can-blacklist-anthropic-ove
-embedding_id: null
+embedding_id: 2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop
 event_name: ''
 ---
 

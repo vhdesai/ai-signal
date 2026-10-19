@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-anthropic-asks-congress-to-act-alleging-a-large-scale-alibab
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
-embedding_id: null
+embedding_id: 2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 - 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
-embedding_id: null
+embedding_id: 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 event_name: ''
 ---
 

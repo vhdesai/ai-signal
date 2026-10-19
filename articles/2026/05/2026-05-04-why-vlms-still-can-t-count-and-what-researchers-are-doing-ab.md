@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
-embedding_id: null
+embedding_id: 2026-05-04-why-vlms-still-can-t-count-and-what-researchers-are-doing-ab
 event_name: ''
 ---
 

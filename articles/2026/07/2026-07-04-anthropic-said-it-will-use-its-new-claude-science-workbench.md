@@ -5,8 +5,8 @@ title: Anthropic said it will use its new Claude Science "workbench" — which i
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-science-ai-workbench
+url_status: repaired
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 692fa8367f5c568ba2e06296fee2738eeea6efd9d13c690388aad30c129fbe4b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
-embedding_id: null
+embedding_id: 2026-07-04-anthropic-said-it-will-use-its-new-claude-science-workbench
 event_name: ''
 ---
 

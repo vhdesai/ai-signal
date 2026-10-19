@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
 - 2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs
 - 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
-embedding_id: null
+embedding_id: 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 event_name: ''
 ---
 

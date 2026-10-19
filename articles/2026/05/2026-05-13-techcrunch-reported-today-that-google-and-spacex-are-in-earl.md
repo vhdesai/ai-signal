@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 - 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
-embedding_id: null
+embedding_id: 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 event_name: ''
 ---
 

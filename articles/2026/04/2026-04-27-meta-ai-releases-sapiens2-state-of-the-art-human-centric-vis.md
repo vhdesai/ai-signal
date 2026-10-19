@@ -5,8 +5,8 @@ title: 'Meta AI Releases Sapiens2: State-of-the-Art Human-Centric Vision Foundat
 date: '2026-04-27'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 7a066bf3bb68f5d2e72495e57ed574a3cda3576347bf288d614f5174b9a9f947
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-embedding_id: null
+embedding_id: 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 event_name: ''
 ---
 

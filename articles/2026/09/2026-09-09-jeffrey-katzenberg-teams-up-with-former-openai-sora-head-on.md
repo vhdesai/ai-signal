@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato
 - 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-embedding_id: null
+embedding_id: 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
 event_name: ''
 ---
 

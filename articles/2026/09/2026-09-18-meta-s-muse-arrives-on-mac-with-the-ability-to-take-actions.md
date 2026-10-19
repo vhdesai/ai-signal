@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-meta-s-muse-assistant-lands-on-mac-with-access-to-messages-c
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
-embedding_id: null
+embedding_id: 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 event_name: ''
 ---
 

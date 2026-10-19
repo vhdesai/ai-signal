@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 - 2026-08-24-georgia-tech-ai-governance-through-a-visiting-scholar-s-lens
-embedding_id: null
+embedding_id: 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 event_name: ''
 ---
 

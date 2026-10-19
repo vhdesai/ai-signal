@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a
 - 2026-08-20-varonis-details-cosnitch-one-click-vulnerability-in-microsof
 - 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
-embedding_id: null
+embedding_id: 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 event_name: ''
 ---
 

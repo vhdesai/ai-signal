@@ -4,8 +4,8 @@ title: Alibaba's Qwen3.7-Max Runs Autonomously for 35 Hours, Tops Apex Math Benc
 date: '2026-05-21'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.buildfastwithai.com/qwen-3-7-max-review-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: d48c4f0687ff1d3e397e683e9cebd0b25e9be91a0d72719ff20f9311ec2f3740
@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap
 event_name: ''
 ---
 

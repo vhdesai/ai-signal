@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-07-16-xai-open-sources-grok-build-its-terminal-coding-agent
 - 2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-embedding_id: null
+embedding_id: 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
 event_name: ''
 ---
 

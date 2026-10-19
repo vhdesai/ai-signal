@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
-embedding_id: null
+embedding_id: 2026-09-23-university-of-washington-builds-a-one-gram-hopping-robot-wit
 event_name: ''
 ---
 

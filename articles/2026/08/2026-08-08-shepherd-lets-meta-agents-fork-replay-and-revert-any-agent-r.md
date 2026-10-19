@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-08-shepherd-lets-meta-agents-fork-replay-and-revert-any-agent-r
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
 - 2026-10-07-us-risks-ceding-ai-governance-leadership-to-china-and-the-eu
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-embedding_id: null
+embedding_id: 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 event_name: ''
 ---
 

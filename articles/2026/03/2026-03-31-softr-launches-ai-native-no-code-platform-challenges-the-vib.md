@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-04-venturebeat-warns-vibe-coded-apps-are-a-business-security-ri
 - 2026-08-20-meta-launches-pocket-vibe-coding-app-for-creating-and-sharin
 - 2026-08-20-meta-pocket-vibe-coding-app-launches-in-u-s-continued
-embedding_id: null
+embedding_id: 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 event_name: ''
 ---
 

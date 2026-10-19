@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-19-jeff-dean-s-discovery-loop-targets-a-50b-valuation-in-a-new
 - 2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-embedding_id: null
+embedding_id: 2026-09-11-jeff-dean-reportedly-raising-for-new-ai-startup-at-50b-valua
 event_name: ''
 ---
 

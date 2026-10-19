@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
 related_article_ids:
 - 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
-embedding_id: null
+embedding_id: 2026-09-23-amazon-opens-seller-central-apis-to-third-party-agents-start
 event_name: ''
 ---
 

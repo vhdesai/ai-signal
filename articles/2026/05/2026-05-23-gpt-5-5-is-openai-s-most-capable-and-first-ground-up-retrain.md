@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-embedding_id: null
+embedding_id: 2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain
 event_name: ''
 ---
 

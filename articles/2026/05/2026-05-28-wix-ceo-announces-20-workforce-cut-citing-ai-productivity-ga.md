@@ -4,8 +4,8 @@ title: Wix CEO announces 20% workforce cut, citing AI productivity gains
 date: '2026-05-28'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 22f2bfb384f52f300d6e2e765fa13b66a5ff54e017e9e7e9018540978cdbd951
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: null
+embedding_id: 2026-05-28-wix-ceo-announces-20-workforce-cut-citing-ai-productivity-ga
 event_name: ''
 ---
 

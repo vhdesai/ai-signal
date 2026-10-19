@@ -5,8 +5,8 @@ title: DeepSeek Finalizing $4B Raise at $50B Valuation, Backed by China's State 
 date: '2026-05-16'
 source: 📰 Tech Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm
+url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 2fff2713f67eb41357464e5004616e8ed7b0aa976219f97a31d7cb3e93435c48
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
-embedding_id: null
+embedding_id: 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 - 2026-08-17-pre-ipo-stock-trading-enters-scaling-era-as-wall-street-part
-embedding_id: null
+embedding_id: 2026-05-19-nasdaq-private-market-and-hiive-square-off-over-vc-secondari
 event_name: ''
 ---
 

@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de
-embedding_id: null
+embedding_id: 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
 event_name: ''
 ---
 

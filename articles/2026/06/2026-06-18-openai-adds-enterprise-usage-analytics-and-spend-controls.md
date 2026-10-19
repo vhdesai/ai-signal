@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: OpenAI Blog
 url_original: https://openai.com/index/chatgpt-enterprise-spend-controls
 url_canonical: https://openai.com/index/chatgpt-enterprise-spend-controls
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-19_060000_Daily-AI-News-Digest.md
 content_hash: a095984308c4b3fbb9b09284da05d9a825cdd95ee5de3a2801bc8617fc180986
 normalized_title_hash: 36edcc0016a6c5f6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
-embedding_id: null
+embedding_id: 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 event_name: ''
 ---
 

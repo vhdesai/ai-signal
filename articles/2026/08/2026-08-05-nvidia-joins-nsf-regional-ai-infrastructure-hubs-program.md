@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
 - 2026-10-12-nvidia-and-cisco-propose-denser-pluggable-optics-for-ai-clus
-embedding_id: null
+embedding_id: 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 event_name: ''
 ---
 

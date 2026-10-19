@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 - 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
-embedding_id: null
+embedding_id: 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 event_name: ''
 ---
 

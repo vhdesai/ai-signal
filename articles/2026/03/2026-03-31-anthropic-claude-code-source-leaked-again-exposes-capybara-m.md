@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 - 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-embedding_id: null
+embedding_id: 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 event_name: ''
 ---
 

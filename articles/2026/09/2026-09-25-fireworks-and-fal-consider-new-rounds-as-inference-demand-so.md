@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho
-embedding_id: null
+embedding_id: 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-19-marvell-lands-google-custom-ai-chip-deal-with-up-to-12-2-bil
 - 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
-embedding_id: null
+embedding_id: 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 event_name: ''
 ---
 

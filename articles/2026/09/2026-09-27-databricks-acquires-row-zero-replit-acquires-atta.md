@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
-embedding_id: null
+embedding_id: 2026-09-27-databricks-acquires-row-zero-replit-acquires-atta
 event_name: ''
 ---
 

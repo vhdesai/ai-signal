@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
-embedding_id: null
+embedding_id: 2026-09-24-pension-giants-sound-the-alarm-texas-teacher-s-cio-compares
 event_name: ''
 ---
 

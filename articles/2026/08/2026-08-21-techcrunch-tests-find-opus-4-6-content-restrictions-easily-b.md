@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-10-anthropic-walks-back-policy-that-could-have-sabotaged-ai-res
 - 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 - 2026-08-21-anthropic-s-opus-4-6-readily-generates-explicit-content-desp
-embedding_id: null
+embedding_id: 2026-08-21-techcrunch-tests-find-opus-4-6-content-restrictions-easily-b
 event_name: ''
 ---
 

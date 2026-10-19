@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1045
+member_count: 1050
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1045 connected article(s).
+> Auto-generated entity hub. 1050 connected article(s).
 
+- `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]
+- `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
+- `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-17` [[2026-10-17-deepseek-releases-v4-1-flash-1017-and-opens-search-apis|DeepSeek releases V4.1-Flash-1017 and opens search APIs]]
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns and eyes Trail of Bits]]

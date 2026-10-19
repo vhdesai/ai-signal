@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-tencent-cloud-announces-first-malaysian-cloud-region-in-joho
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-embedding_id: null
+embedding_id: 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 event_name: ''
 ---
 

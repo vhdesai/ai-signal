@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl
 - 2026-08-24-alibaba-plunges-after-announcing-10-2-billion-share-placemen
 - 2026-08-24-alibaba-prices-10-2b-hong-kong-share-placement-to-fund-ai-sh
-embedding_id: null
+embedding_id: 2026-08-24-alibaba-plans-to-raise-10-2-billion-for-ai-investment
 event_name: ''
 ---
 

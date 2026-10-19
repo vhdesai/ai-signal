@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
 - 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
-embedding_id: null
+embedding_id: 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 event_name: ''
 ---
 

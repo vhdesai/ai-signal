@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-20-nsa-reportedly-using-anthropic-s-mythos-despite-pentagon-ten
 event_name: ''
 ---
 

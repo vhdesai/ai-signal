@@ -22,9 +22,9 @@ related_article_ids:
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo
+- 2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
-- 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-embedding_id: null
+embedding_id: 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ The August 2026 update of “Canaries in the Coal Mine?” by Brynjolfsson, Chan
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]]
+**Related:** [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-08-08-heavy-ai-adopters-grew-headcount-10-2-contradicting-the-layo]] · [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]]
 <!-- graph:end -->

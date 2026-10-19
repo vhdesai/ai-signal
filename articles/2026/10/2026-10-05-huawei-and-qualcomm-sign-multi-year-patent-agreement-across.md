@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-05-huawei-and-qualcomm-sign-multi-year-patent-agreement-across
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
-embedding_id: null
+embedding_id: 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
 event_name: ''
 ---
 

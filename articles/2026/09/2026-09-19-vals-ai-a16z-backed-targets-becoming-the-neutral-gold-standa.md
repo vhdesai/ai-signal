@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-03-startup-arr-is-less-secure-than-ever-as-enterprises-constant
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
-embedding_id: null
+embedding_id: 2026-09-19-vals-ai-a16z-backed-targets-becoming-the-neutral-gold-standa
 event_name: ''
 ---
 

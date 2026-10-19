@@ -4,8 +4,8 @@ title: Google Gemini 3.5 Flash continues post-I/O global rollout
 date: '2026-05-23'
 source: 'Source: Google Keyword Blog / AI Track'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 429bbde79ebdaa40a4198e61075b808d700145d14b928e468c90fcbbf873e9b6
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
-embedding_id: null
+embedding_id: 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 event_name: ''
 ---
 

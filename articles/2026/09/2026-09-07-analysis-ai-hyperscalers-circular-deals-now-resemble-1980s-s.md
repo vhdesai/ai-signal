@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
 - 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
-embedding_id: null
+embedding_id: 2026-09-07-analysis-ai-hyperscalers-circular-deals-now-resemble-1980s-s
 event_name: ''
 ---
 

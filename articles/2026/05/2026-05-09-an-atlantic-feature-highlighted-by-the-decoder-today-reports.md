@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-ai-images-are-everywhere-here-s-what-they-do-to-our-brains
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
-embedding_id: null
+embedding_id: 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 event_name: ''
 ---
 

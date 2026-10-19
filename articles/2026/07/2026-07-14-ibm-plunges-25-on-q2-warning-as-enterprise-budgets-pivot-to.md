@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
-embedding_id: null
+embedding_id: 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 event_name: ''
 ---
 

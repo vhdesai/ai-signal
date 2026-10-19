@@ -5,8 +5,8 @@ title: Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Pl
 date: '2026-07-06'
 source: Reuters · TechNode
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/exclusive-beijing-looking-curbing-overseas-101644780.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: f69351029bc2667e055a9518506f54a6ec65b8df98cb5ccaf4e60d78b51775f1
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
-embedding_id: null
+embedding_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 event_name: ''
 ---
 

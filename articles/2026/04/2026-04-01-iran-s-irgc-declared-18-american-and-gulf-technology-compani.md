@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
 - 2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-embedding_id: null
+embedding_id: 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
 - 2026-08-12-anthropic-text-watermarks-trigger-user-backlash-over-transpa
 - 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
-embedding_id: null
+embedding_id: 2026-08-12-anthropic-text-watermarks-trigger-backlash-amazon-twitch-set
 event_name: ''
 ---
 

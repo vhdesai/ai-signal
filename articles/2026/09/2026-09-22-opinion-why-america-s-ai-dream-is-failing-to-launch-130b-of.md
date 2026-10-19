@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 - 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: null
+embedding_id: 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 event_name: ''
 ---
 

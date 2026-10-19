@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-19-investors-and-analysts-are-positioning-micron-technology-s-j
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-driven-rally
 event_name: ''
 ---
 

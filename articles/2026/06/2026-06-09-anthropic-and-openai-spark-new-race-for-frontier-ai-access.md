@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-07-25-openai-and-anthropic-wealth-could-reshape-philanthropy-after
-embedding_id: null
+embedding_id: 2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-roughl
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-09-03-moonshot-ai-files-confidentially-for-hong-kong-ipo-at-50b-va
-embedding_id: null
+embedding_id: 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 event_name: ''
 ---
 

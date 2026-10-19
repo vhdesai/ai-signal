@@ -5,7 +5,7 @@ date: '2026-08-21'
 source: OpenAI
 url_original: https://openai.com/index/introducing-ai-futures/
 url_canonical: https://openai.com/index/introducing-ai-futures/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-22_062347_Inbox_Daily AI News Digest - August 22,
   2026.md
 content_hash: 0da36f46631111e19d85617b33c04fe0c2525e027d43b643e2c4265a81347b01
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 - 2026-09-21-un-scientific-panel-calls-for-stronger-safeguards-as-ai-agen
-embedding_id: null
+embedding_id: 2026-08-21-openai-launches-ai-futures-a-blog-on-power-governance-and-hu
 event_name: ''
 ---
 

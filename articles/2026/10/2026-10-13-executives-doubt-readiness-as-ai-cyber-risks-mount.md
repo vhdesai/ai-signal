@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
 - 2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
-embedding_id: null
+embedding_id: 2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount
 event_name: ''
 ---
 
@@ -34,5 +34,5 @@ CIO Dive reported that executives remain doubtful about readiness as cyber risks
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u]]
+**Related:** [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-10-12-cio-dive-outlines-what-the-c-suite-needs-to-know-about-ai-go]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

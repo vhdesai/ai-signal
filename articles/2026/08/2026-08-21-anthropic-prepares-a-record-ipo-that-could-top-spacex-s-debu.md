@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
 - 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
 - 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
-embedding_id: null
+embedding_id: 2026-08-21-anthropic-prepares-a-record-ipo-that-could-top-spacex-s-debu
 event_name: ''
 ---
 

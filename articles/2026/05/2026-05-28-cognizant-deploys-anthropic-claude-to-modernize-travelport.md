@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-embedding_id: null
+embedding_id: 2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
 - 2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
-embedding_id: null
+embedding_id: 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
 event_name: ''
 ---
 

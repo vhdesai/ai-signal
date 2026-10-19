@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
 event_name: ''
 ---
 

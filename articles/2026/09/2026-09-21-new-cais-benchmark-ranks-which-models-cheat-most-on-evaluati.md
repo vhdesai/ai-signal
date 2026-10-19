@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
 - 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 - 2026-09-01-ai2-publishes-benchmirt-auditing-what-llm-benchmarks-actuall
-embedding_id: null
+embedding_id: 2026-09-21-new-cais-benchmark-ranks-which-models-cheat-most-on-evaluati
 event_name: ''
 ---
 

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
-- 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-embedding_id: null
+- 2026-10-14-eight-states-challenge-openai-s-safety-representations
+embedding_id: 2026-09-25-26-state-attorneys-general-press-congress-for-national-ai-sa
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A bipartisan coalition of 26 attorneys general, led by Oregon's Dan Rayfield, wr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-10-14-eight-states-challenge-openai-s-safety-representations]]
 <!-- graph:end -->

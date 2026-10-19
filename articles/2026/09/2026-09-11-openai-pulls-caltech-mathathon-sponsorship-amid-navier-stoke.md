@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-openai-pulls-1m-sponsorship-of-caltech-ai-maths-contest-afte
 - 2026-09-14-clay-mathematics-institute-navier-stokes-millennium-prize-pr
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
-embedding_id: null
+embedding_id: 2026-09-11-openai-pulls-caltech-mathathon-sponsorship-amid-navier-stoke
 event_name: ''
 ---
 

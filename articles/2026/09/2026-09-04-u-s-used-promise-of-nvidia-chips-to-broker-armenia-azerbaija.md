@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-05-wsj-reports-u-s-used-promise-of-nvidia-chips-in-armenia-azer
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
-embedding_id: null
+embedding_id: 2026-09-04-u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaija
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-dig-bench-isolating-scientific-discovery-ability-in-llms
 - 2026-09-25-explorationbench-measuring-ai-exploration-in-verifiable-alie
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
-embedding_id: null
+embedding_id: 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
 event_name: ''
 ---
 

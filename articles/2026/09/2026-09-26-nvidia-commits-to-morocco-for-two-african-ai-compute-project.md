@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
-embedding_id: null
+embedding_id: 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
 event_name: ''
 ---
 

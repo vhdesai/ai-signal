@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 event_name: ''
 ---
 

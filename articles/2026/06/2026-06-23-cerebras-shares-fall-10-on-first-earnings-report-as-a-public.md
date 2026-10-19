@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
 - 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
 - 2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results
-embedding_id: null
+embedding_id: 2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public
 event_name: ''
 ---
 

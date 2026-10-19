@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: OpenAI
 url_original: https://openai.com/index/codex-security-now-in-research-preview/
 url_canonical: https://openai.com/index/codex-security-now-in-research-preview/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061041_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 88273e3349056c91f1e949c01abeee26a13a1767ff582bb76f58f6b1331658b1
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
-embedding_id: null
+embedding_id: 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 event_name: ''
 ---
 

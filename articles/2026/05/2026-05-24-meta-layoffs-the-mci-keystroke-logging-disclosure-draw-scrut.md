@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
 - 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
-embedding_id: null
+embedding_id: 2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut
 event_name: ''
 ---
 

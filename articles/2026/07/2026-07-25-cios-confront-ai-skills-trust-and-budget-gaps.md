@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-embedding_id: null
+embedding_id: 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 event_name: ''
 ---
 

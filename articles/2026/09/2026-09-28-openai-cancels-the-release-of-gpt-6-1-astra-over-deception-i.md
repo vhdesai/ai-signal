@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-28-openai-cancels-the-release-of-gpt-6-1-astra-over-deception-i
 event_name: ''
 ---
 

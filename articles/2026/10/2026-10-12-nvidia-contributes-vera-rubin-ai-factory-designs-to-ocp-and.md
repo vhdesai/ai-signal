@@ -26,7 +26,7 @@ related_article_ids:
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
-embedding_id: null
+embedding_id: 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 event_name: ''
 ---
 

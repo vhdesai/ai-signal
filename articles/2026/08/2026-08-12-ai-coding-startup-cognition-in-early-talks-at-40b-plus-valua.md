@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-08-12-cognition-reportedly-in-talks-to-raise-at-a-40b-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
-embedding_id: null
+embedding_id: 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
 event_name: ''
 ---
 

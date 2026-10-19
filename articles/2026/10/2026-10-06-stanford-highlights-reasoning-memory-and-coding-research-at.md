@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-embedding_id: null
+embedding_id: 2026-10-06-stanford-highlights-reasoning-memory-and-coding-research-at
 event_name: ''
 ---
 

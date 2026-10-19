@@ -4,8 +4,8 @@ title: Paramount CTO Departs as Media Companies Rewire Around AI
 date: '2026-05-19'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/paramount-cto-steps-down/820515/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: e753c918a638d44d5798825695913f0dffe95c46ee27dcc8ca9ba6c8fa60a3a6
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
-embedding_id: null
+embedding_id: 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
 event_name: ''
 ---
 

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda
 - 2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven
 - 2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe
-- 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
-embedding_id: null
+- 2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund
+embedding_id: 2026-09-28-anthropic-founders-to-retain-control-via-new-founder-llc
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The IPO filing reveals a Founder LLC comprising Anthropic’s seven co-founders,
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe]] · [[2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it]]
+**Related:** [[2026-09-25-anthropic-seeks-50-1-founder-voting-control-ahead-of-a-nasda]] · [[2026-09-24-anthropic-seeks-palantir-style-voting-control-for-its-seven]] · [[2026-09-25-anthropic-s-founders-move-to-lock-in-50-1-voting-control-ahe]] · [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund]]
 <!-- graph:end -->

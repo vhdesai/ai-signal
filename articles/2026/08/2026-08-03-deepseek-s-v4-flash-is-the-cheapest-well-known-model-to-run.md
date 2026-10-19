@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run
 event_name: ''
 ---
 

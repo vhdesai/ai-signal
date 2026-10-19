@@ -4,8 +4,8 @@ title: Hasbro Cyberattack to Cost $20M, Delay Up to $60M in Q2 Sales
 date: '2026-05-20'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/cyberattack-oil-prices-unforeseen-expenses-161016078.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 4f76aa8b3200ffa1eaeb85d5292b870ab6d82395a6d9c7eca7070b8f179c7fa8
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 - 2026-08-28-nvidia-pauses-its-36b-ai-cloud-revenue-share-financing-progr
 - 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
-embedding_id: null
+embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 event_name: ''
 ---
 

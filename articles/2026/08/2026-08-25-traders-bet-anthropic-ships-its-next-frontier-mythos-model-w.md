@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-05-16-analysis-circulating-widely-on-may-15-109-hacker-news-points
 - 2026-09-18-exclusive-anthropic-weighs-a-new-model-release-before-the-ip
-embedding_id: null
+embedding_id: 2026-08-25-traders-bet-anthropic-ships-its-next-frontier-mythos-model-w
 event_name: ''
 ---
 

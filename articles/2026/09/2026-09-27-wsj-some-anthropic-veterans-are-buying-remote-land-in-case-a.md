@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-wsj-anthropic-veterans-quietly-buying-remote-us-parcels-as-p
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
-embedding_id: null
+embedding_id: 2026-09-27-wsj-some-anthropic-veterans-are-buying-remote-land-in-case-a
 event_name: ''
 ---
 

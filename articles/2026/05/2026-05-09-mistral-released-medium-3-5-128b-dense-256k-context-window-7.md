@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-embedding_id: null
+embedding_id: 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 event_name: ''
 ---
 

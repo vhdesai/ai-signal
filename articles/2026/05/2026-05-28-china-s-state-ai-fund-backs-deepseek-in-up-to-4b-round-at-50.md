@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
 - 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
-embedding_id: null
+embedding_id: 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 event_name: ''
 ---
 

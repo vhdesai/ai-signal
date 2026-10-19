@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
 - 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
-embedding_id: null
+embedding_id: 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 event_name: ''
 ---
 

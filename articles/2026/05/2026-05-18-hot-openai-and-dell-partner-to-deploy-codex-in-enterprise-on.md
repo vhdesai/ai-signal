@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: OpenAI News
 url_original: https://openai.com/news/
 url_canonical: https://openai.com/news/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a4c477585eb9bd0a04701949db93aca77703170725da0d0d689b29c782c2f424
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-06-10-openai-models-and-codex-now-available-through-oracle-cloud
-embedding_id: null
+embedding_id: 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 event_name: ''
 ---
 

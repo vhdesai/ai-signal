@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
-embedding_id: null
+embedding_id: 2026-07-07-sambanova-raises-1b-for-inference-silicon
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
 - 2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-the-lan
 - 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
-embedding_id: null
+embedding_id: 2026-04-04-anthropic-researchers-identified-171-internal-representation
 event_name: ''
 ---
 

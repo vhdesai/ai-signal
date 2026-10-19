@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-05-27-how-could-a-superhuman-ai-mathematician-come-about-trending
 event_name: ''
 ---
 

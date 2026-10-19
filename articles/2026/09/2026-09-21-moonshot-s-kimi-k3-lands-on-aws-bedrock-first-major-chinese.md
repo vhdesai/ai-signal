@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: null
+embedding_id: 2026-09-21-moonshot-s-kimi-k3-lands-on-aws-bedrock-first-major-chinese
 event_name: ''
 ---
 

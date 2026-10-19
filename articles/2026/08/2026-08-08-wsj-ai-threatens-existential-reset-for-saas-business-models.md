@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
-embedding_id: null
+embedding_id: 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 event_name: ''
 ---
 

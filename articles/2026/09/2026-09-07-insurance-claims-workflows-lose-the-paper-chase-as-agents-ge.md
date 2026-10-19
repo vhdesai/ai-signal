@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-insurance-claims-lose-the-paper-chase-as-ai-gets-to-work
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-07-insurance-claims-workflows-lose-the-paper-chase-as-agents-ge
 event_name: ''
 ---
 

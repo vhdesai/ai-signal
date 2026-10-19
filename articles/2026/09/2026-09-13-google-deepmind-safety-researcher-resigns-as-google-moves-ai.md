@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-firstpost-moneycontrol-and-storyboard18-report-another-googl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-13-google-deepmind-safety-researcher-resigns-as-google-moves-ai
 event_name: ''
 ---
 

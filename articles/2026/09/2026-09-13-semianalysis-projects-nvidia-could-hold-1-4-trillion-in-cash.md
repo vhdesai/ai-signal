@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
-embedding_id: null
+embedding_id: 2026-09-13-semianalysis-projects-nvidia-could-hold-1-4-trillion-in-cash
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-the-red-hot-book-at-the-center-of-an-ai-mystery
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-08-01-ai-for-car-diagnostics-promise-and-pitfalls-of-consumer-ai-t
-embedding_id: null
+embedding_id: 2026-08-01-ai-and-the-blurring-of-reality
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf
 event_name: ''
 ---
 

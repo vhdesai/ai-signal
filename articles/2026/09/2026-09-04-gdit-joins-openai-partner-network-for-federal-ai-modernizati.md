@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-embedding_id: null
+embedding_id: 2026-09-04-gdit-joins-openai-partner-network-for-federal-ai-modernizati
 event_name: ''
 ---
 

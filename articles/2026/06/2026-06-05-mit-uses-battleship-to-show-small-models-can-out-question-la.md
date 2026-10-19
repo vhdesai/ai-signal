@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la
 event_name: ''
 ---
 

@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: null
+embedding_id: 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 event_name: ''
 ---
 

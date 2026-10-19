@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-meta-removed-more-than-50-ads-containing-ai-generated-child
 - 2026-08-06-meta-confirms-its-muse-spark-1-1-model-breached-a-third-part
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-embedding_id: null
+embedding_id: 2026-09-17-meta-oversight-board-calls-meta-s-ai-deepfake-rules-fundamen
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win
 event_name: ''
 ---
 

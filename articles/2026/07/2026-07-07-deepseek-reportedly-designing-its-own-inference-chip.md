@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-deepseek-is-developing-its-own-ai-inference-chip
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-07-deepseek-reportedly-designing-its-own-inference-chip
 event_name: ''
 ---
 

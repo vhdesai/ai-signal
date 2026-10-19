@@ -5,8 +5,8 @@ title: On May 5, the U.S. Pentagon signed AI infrastructure and model agreements
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techspot.com/news/112269-pentagon-signed-ai-deals-openai-google-microsoft-nvidia.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: e097343a83082ec86303f6172829eb400c0b21bfbf49fe37517b319c68b0f0fe
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-embedding_id: null
+embedding_id: 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
 event_name: ''
 ---
 

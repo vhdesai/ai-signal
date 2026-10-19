@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-rebuild-claude-pretrainin
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-lead-pretraining-research
 - 2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team
-embedding_id: null
+embedding_id: 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 event_name: ''
 ---
 

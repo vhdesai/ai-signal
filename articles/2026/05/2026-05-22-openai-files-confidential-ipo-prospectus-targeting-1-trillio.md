@@ -4,8 +4,8 @@ title: OpenAI Files Confidential IPO Prospectus Targeting $1 Trillion Valuation
 date: '2026-05-22'
 source: AIToolsRecap / Dev Weekly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/openai-ipo-2026-valuation-timeline-what-investors-need-to-know
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: a87b03ebe8b19f637873b13327d79475c8da8e7e9bee19154a2964e335eb9d83
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 - 2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe
-embedding_id: null
+embedding_id: 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 event_name: ''
 ---
 

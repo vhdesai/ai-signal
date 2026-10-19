@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-openai-rolls-out-computer-history-for-the-chatgpt-mac-app
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
-embedding_id: null
+embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory-archit
 event_name: ''
 ---
 

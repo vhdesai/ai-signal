@@ -4,8 +4,8 @@ title: 'IBM CEO Study: C-suite roles being reshaped for the AI era'
 date: '2026-05-04'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 5afc97c7abe77ed8651a14017f9d151eef3391d0ca608de14f053f1995950e35
 normalized_title_hash: 99c549da0d223f1d
@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
 - 2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
-- 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
-embedding_id: null
+embedding_id: 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ IBM's CEO study finds C-suite roles are being restructured around AI accountabil
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]]
+**Related:** [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-09-02-new-ibm-study-finds-ai-adoption-is-outpacing-k-12-readiness]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-google-releases-gemini-3-5-transcribe-with-2-6-average-word
 - 2026-08-27-google-launches-gemini-3-5-transcribe-speech-to-text-model
 - 2026-08-26-google-deepmind-ships-gemini-3-5-transcribe-with-2-6-word-er
-embedding_id: null
+embedding_id: 2026-08-26-google-releases-gemini-3-5-transcribe-85-languages-speaker-a
 event_name: ''
 ---
 

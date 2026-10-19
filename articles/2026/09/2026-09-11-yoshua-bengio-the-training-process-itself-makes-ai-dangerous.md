@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
-embedding_id: null
+embedding_id: 2026-09-11-yoshua-bengio-the-training-process-itself-makes-ai-dangerous
 event_name: ''
 ---
 

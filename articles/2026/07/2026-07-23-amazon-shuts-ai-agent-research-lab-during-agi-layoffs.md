@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
-embedding_id: null
+embedding_id: 2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs
 event_name: ''
 ---
 

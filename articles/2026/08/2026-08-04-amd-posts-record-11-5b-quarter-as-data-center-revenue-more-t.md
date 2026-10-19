@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-and-forecasts-70-revenue-g
-embedding_id: null
+embedding_id: 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 event_name: ''
 ---
 

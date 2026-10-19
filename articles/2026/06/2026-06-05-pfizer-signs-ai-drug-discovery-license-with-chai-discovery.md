@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-at-3-8b-valuation-for-ai-drug-des
 - 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 - 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
-embedding_id: null
+embedding_id: 2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 event_name: ''
 ---
 

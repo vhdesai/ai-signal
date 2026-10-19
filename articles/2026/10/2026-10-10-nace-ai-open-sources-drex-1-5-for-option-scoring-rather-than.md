@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-10-nace-ai-open-sources-drex-1-5-for-option-scoring-rather-than
 event_name: ''
 ---
 

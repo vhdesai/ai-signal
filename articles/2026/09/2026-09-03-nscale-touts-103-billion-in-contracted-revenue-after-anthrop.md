@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-microsoft-and-anthropic-account-for-nearly-all-of-nscale-s-1
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
 - 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-after-45b-anthropic-d
-embedding_id: null
+embedding_id: 2026-09-03-nscale-touts-103-billion-in-contracted-revenue-after-anthrop
 event_name: ''
 ---
 

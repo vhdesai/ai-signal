@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-07-23-experts-question-claim-that-kimi-k3-got-strong-primarily-by
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
-embedding_id: null
+embedding_id: 2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh
 event_name: ''
 ---
 

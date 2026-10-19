@@ -5,8 +5,8 @@ title: For all Helsing's whiz-bang A.I., it is possible that the proliferation o
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/320370/20260713/helsing-closes-18b-round-reaching-18b-europes-defense-ai-giant-scales.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 7aa2368569fad3a17463934447f0f5c27380fb2466dc09490599ee1c6751c06c
 normalized_title_hash: 03563486ed371876
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
-embedding_id: null
+embedding_id: 2026-07-11-for-all-helsing-s-whiz-bang-a-i-it-is-possible-that-the-prol
 event_name: ''
 ---
 

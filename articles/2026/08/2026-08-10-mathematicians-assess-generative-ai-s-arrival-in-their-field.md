@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
-embedding_id: null
+embedding_id: 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
 event_name: ''
 ---
 

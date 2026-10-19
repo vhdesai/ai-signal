@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-openai-launches-chatgpt-for-teens-with-study-mode-and-parent
 event_name: ''
 ---
 

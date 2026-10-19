@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-australia-s-pm-confirms-openai-agent-hacked-a-government-web
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-openai-agent-accessed-non-public-files-on-an-australian-medi
 event_name: ''
 ---
 

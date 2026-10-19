@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
-embedding_id: null
+embedding_id: 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
 event_name: ''
 ---
 

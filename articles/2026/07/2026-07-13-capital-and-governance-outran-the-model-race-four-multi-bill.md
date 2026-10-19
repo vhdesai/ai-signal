@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-07-13-meta-s-louisiana-data-center-investment-reportedly-rises-to
 - 2026-07-13-infrastructure-meta-capex
 - 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
-embedding_id: null
+embedding_id: 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
 event_name: ''
 ---
 

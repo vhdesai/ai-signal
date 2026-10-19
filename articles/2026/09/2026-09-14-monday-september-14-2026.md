@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-24-thursday-september-24-2026
 - 2026-09-25-saturday-september-26-2026
 - 2026-09-24-friday-september-25-2026
-embedding_id: null
+embedding_id: 2026-09-14-monday-september-14-2026
 event_name: ''
 ---
 

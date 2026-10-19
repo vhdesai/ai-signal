@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-phase-2-chip-tariffs-would-strip-data-center-exemptions
 - 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
 - 2026-08-28-washington-weighs-extending-chip-tariffs-to-servers-and-fini
-embedding_id: null
+embedding_id: 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
 event_name: ''
 ---
 

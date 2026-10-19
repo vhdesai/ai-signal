@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-age
 event_name: ''
 ---
 

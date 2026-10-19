@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 - 2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener
 - 2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai
-embedding_id: null
+embedding_id: 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 event_name: ''
 ---
 

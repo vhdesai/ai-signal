@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
-embedding_id: null
+embedding_id: 2026-09-19-techcrunch-this-week-s-ai-safety-conversation-has-become-imp
 event_name: ''
 ---
 

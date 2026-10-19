@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia
-embedding_id: null
+embedding_id: 2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc
 event_name: ''
 ---
 

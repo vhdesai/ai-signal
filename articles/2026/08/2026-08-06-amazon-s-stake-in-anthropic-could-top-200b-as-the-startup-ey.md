@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-embedding_id: null
+embedding_id: 2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey
 event_name: ''
 ---
 

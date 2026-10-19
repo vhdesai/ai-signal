@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-fourth-plaintiff-joins-federal-class-action-over-grok-genera
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
 event_name: ''
 ---
 

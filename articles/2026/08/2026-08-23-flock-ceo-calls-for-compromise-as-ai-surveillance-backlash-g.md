@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-07-31-flock-safety-license-plate-readers-misread-71-of-police-aler
-embedding_id: null
+embedding_id: 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
 event_name: ''
 ---
 

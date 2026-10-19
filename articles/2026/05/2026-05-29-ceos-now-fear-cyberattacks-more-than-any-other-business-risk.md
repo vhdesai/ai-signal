@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-08-17-big-tech-s-3-trillion-ai-spending-is-higher-than-reported
 - 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
-embedding_id: null
+embedding_id: 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
 event_name: ''
 ---
 

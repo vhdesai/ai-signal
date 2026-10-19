@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
-embedding_id: null
+embedding_id: 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 event_name: ''
 ---
 

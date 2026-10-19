@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-08-26-openai-says-its-first-custom-inference-chip-beats-nvidia-bla
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
-embedding_id: null
+embedding_id: 2026-09-04-business-insider-spotlights-lightmatter-as-optical-computing
 event_name: ''
 ---
 

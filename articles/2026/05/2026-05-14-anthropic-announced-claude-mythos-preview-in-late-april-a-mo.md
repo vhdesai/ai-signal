@@ -5,8 +5,8 @@ title: Anthropic announced Claude Mythos Preview in late April — a model that 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/research/mythos-preview
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 998ef4d7e46a54dc64df113c0fbdd597110445a6563d43ef5cde705f642e7cd7
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 event_name: ''
 ---
 

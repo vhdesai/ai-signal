@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
-embedding_id: null
+embedding_id: 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 - 2026-09-17-huawei-forecasts-agents-will-drive-over-90-of-ai-traffic-by
 - 2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index
-embedding_id: null
+embedding_id: 2026-09-12-china-s-ai-industry-pivots-from-models-to-agents-inference-f
 event_name: ''
 ---
 

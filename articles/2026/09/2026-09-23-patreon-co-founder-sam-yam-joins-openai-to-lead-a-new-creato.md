@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creato
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato
 event_name: ''
 ---
 

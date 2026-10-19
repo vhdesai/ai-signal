@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers
 - 2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-embedding_id: null
+embedding_id: 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Anthropic ships Claude Code Agent View with /goal, /loop, /schedule contr
 date: '2026-05-12'
 source: The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://code.claude.com/docs/en/agent-sdk/agent-loop
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 47fda030d213ba7138c8e4ff5d4c60cfb83f227c019ef1d771663c80688cbf79
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
 - 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-embedding_id: null
+embedding_id: 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
 event_name: ''
 ---
 

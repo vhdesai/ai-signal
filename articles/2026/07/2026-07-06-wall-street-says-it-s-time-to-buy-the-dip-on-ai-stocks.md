@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-09-05-wall-street-raises-the-bar-for-ai-stocks
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
-embedding_id: null
+embedding_id: 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 event_name: ''
 ---
 

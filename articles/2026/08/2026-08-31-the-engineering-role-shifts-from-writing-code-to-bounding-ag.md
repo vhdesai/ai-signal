@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
 - 2026-09-18-an-empirical-study-of-harness-design-for-coding-agents-poste
-embedding_id: null
+embedding_id: 2026-08-31-the-engineering-role-shifts-from-writing-code-to-bounding-ag
 event_name: ''
 ---
 

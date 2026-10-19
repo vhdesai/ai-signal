@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
-embedding_id: null
+embedding_id: 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
 event_name: ''
 ---
 

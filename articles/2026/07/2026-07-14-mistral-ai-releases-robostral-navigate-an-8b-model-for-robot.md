@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo
 - 2026-07-09-mistral-enters-physical-ai-with-robostral-navigate
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-embedding_id: null
+embedding_id: 2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot
 event_name: ''
 ---
 

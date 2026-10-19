@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-vantage-data-centers-explores-ipo-at-100b-valuation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-vantage-data-centers-explores-ipo-at-roughly-100b-valuation
 event_name: ''
 ---
 

@@ -19,8 +19,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
+- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
+embedding_id: 2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove
 event_name: ''
 ---
 
@@ -33,4 +37,5 @@ IBM’s survey found widespread executive escalation of AI incidents but limited
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]]
 <!-- graph:end -->

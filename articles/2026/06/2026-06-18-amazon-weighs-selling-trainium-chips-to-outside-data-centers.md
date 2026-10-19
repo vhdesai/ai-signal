@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-09-products-tools
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
-embedding_id: null
+embedding_id: 2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers
 event_name: ''
 ---
 

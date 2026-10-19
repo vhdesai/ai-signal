@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-embedding_id: null
+embedding_id: 2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora
 event_name: ''
 ---
 

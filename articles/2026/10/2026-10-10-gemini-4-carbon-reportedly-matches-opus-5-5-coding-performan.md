@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
 event_name: ''
 ---
 

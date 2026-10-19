@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data
 - 2026-10-09-openai-uncovers-russian-and-iranian-ai-enabled-false-front-i
-embedding_id: null
+embedding_id: 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 event_name: ''
 ---
 

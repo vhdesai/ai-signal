@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-embedding_id: null
+embedding_id: 2026-08-14-anthropic-reportedly-eyeing-6b-acquisition-of-decart
 event_name: ''
 ---
 

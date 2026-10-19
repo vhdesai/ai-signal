@@ -6,7 +6,7 @@ date: '2026-09-12'
 source: OpenAI
 url_original: https://openai.com/index/perplexity-improving-accuracy-with-astra
 url_canonical: https://openai.com/index/perplexity-improving-accuracy-with-astra
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-12_061125_Inbox_Daily AI News Digest - September
   12, 2026.md
 content_hash: 063d1a5757641d5115c8f7b99bbbb5621bb386b9f92df26ec3047ed3b27902bc
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 - 2026-09-04-openai-launches-gpt-6-astra-with-stronger-cyber-capability-a
-embedding_id: null
+embedding_id: 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Greg Brockman testifies his OpenAI stake is worth close to $30B
 date: '2026-05-05'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.bloomberglaw.com/artificial-intelligence/brockman-says-his-stake-in-openai-worth-nearly-30-billion
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: af21021f7d6641b29479a6a03c8dd25ade8d165e6841f9c5bd9b3579b9b73382
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 - 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
-embedding_id: null
+embedding_id: 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
 event_name: ''
 ---
 

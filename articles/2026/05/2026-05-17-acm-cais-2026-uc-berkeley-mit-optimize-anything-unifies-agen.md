@@ -5,8 +5,8 @@ title: 'ACM CAIS 2026: UC Berkeley & MIT "optimize_anything" Unifies Agent Optim
 date: '2026-05-17'
 source: ACM Conference on AI & Agentic Systems
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: e10c0b0d508ffe15551837ca08b6a752594ef3d98aac91913f7ebfc53a458997
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt
 - 2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim
 - event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
-embedding_id: null
+embedding_id: 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 event_name: ''
 ---
 

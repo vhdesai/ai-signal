@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-22-the-information-questions-near-term-claims-that-ai-will-cure
 - 2026-08-23-scientists-say-ai-probably-won-t-cure-cancer-anytime-soon
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-embedding_id: null
+embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
 

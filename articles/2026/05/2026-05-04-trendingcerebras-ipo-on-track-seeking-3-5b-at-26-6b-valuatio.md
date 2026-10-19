@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 - 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
-embedding_id: null
+embedding_id: 2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio
 event_name: ''
 ---
 

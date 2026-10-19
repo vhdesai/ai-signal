@@ -5,8 +5,8 @@ title: NYU finance professor Aswath Damodaran, known as the "Dean of Valuation,"
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/news/new-updates/ai-boom-heading-for-a-dot-com-style-bust-dean-of-valuation-aswath-damodaran-warns-correction-could-be-more-painful-than-2008/articleshow/131870312.cms
+url_status: repaired
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: 4d2c9fc486ac4492957db67fa708541b7bad3bc554c4af38764b8471cc78a8df
 normalized_title_hash: 2b64385f9f18ae17
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 - 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
-embedding_id: null
+embedding_id: 2026-06-20-nyu-finance-professor-aswath-damodaran-known-as-the-dean-of
 event_name: ''
 ---
 

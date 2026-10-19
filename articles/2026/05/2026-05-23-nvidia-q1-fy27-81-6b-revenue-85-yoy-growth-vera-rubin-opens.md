@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
-embedding_id: null
+embedding_id: 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 event_name: ''
 ---
 

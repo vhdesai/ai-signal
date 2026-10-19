@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c
 event_name: ''
 ---
 

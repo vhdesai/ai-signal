@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
-embedding_id: null
+embedding_id: 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 event_name: ''
 ---
 

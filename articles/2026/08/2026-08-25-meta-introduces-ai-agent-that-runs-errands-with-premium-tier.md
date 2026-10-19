@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-16-meta-launches-meta-one-ai-subscriptions-from-2-99-to-499-mon
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: null
+embedding_id: 2026-08-25-meta-introduces-ai-agent-that-runs-errands-with-premium-tier
 event_name: ''
 ---
 

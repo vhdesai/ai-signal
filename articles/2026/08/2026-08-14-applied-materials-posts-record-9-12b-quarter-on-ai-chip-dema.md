@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-applied-materials-record-9-12b-quarter-uber-pony-ai-2-000-eu
 - 2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds
 - 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
-embedding_id: null
+embedding_id: 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
 event_name: ''
 ---
 

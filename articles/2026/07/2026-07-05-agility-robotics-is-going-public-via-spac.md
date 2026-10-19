@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-25-robotics-startup-generalist-reaches-3b-valuation
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
 - 2026-07-17-agility-robotics-opens-new-training-center-near-tesla-s-fact
-embedding_id: null
+embedding_id: 2026-07-05-agility-robotics-is-going-public-via-spac
 event_name: ''
 ---
 

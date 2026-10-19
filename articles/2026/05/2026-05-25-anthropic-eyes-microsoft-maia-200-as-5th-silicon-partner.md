@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
-embedding_id: null
+embedding_id: 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 event_name: ''
 ---
 

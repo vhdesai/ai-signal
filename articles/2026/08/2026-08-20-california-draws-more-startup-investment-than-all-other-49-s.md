@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
-embedding_id: null
+embedding_id: 2026-08-20-california-draws-more-startup-investment-than-all-other-49-s
 event_name: ''
 ---
 

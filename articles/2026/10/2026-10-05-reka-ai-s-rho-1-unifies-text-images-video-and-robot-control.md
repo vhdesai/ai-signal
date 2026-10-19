@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 - 2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod
 - 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
-embedding_id: null
+- 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
+embedding_id: 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ Reka introduced Rho-1, a 19B-parameter omni-model that processes and generates t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]]
+**Related:** [[2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima]] · [[2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag]] · [[2026-10-05-rho-1-brings-language-video-and-robotic-actions-into-one-mod]] · [[2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m]] · [[2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for]]
 <!-- graph:end -->

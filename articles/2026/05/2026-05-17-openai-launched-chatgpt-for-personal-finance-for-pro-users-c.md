@@ -5,8 +5,8 @@ title: OpenAI launched ChatGPT for personal finance for Pro users, connecting to
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://plaid.com/blog/chatgpt-personal-finance-plaid/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 03ec082f77f2dbc0883e0bf7f24040543d4d039abb0a9163700408ad46bcfe99
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 - 2026-05-23-openai-connected-chatgpt-to-financial-accounts-through-plaid
 - 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
-embedding_id: null
+embedding_id: 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
 event_name: ''
 ---
 

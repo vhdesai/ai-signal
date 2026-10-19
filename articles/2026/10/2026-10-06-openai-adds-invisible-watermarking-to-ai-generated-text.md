@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 - 2026-10-05-openai-begins-phased-text-watermarking-under-eu-provenance-r
-embedding_id: null
+embedding_id: 2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text
 event_name: ''
 ---
 

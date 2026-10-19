@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 event_name: ''
 ---
 

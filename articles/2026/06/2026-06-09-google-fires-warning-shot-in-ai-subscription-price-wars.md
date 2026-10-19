@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-11-openai-considers-price-cuts-to-compete-with-anthropic
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
-embedding_id: null
+embedding_id: 2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars
 event_name: ''
 ---
 

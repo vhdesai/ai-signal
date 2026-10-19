@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-09-openai-fires-three-safety-researchers-former-employees-press
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
-embedding_id: null
+embedding_id: 2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of
 event_name: ''
 ---
 

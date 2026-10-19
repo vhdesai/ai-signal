@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
-embedding_id: null
+embedding_id: 2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
 - 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
-embedding_id: null
+embedding_id: 2026-05-25-qwen-3-7-max-and-grok-build-paid-tiers-land-within-48-hours
 event_name: ''
 ---
 

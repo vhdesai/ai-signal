@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-embedding_id: null
+embedding_id: 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 event_name: ''
 ---
 

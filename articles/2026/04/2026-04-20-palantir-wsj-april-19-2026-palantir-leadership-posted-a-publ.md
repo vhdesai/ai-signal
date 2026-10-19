@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-09-21-fortune-published-excerpts-from-openai-s-rogue-agent-transcr
-embedding_id: null
+embedding_id: 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-princeton-researcher-proposes-the-recurrent-looped-transform
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
-embedding_id: null
+embedding_id: 2026-09-21-kaist-s-cure-cuts-server-calls-55-by-letting-on-device-model
 event_name: ''
 ---
 

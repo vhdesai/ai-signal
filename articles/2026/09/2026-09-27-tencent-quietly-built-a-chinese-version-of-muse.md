@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
-embedding_id: null
+embedding_id: 2026-09-27-tencent-quietly-built-a-chinese-version-of-muse
 event_name: ''
 ---
 

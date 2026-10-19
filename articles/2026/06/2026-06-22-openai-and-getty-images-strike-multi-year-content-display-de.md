@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
 - 2026-10-05-openai-launches-visual-ads-alongside-image-generation-result
-embedding_id: null
+embedding_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 event_name: ''
 ---
 

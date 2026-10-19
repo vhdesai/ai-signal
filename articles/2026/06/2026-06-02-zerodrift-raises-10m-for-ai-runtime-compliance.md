@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 - 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
-embedding_id: null
+embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
 

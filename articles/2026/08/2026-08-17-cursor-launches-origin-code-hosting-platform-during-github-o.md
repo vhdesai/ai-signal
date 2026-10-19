@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-cursor-launches-origin-code-hosting-platform-during-github-o
 event_name: ''
 ---
 

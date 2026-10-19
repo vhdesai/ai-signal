@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-research-breakthroughs
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-embedding_id: null
+embedding_id: 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 event_name: ''
 ---
 

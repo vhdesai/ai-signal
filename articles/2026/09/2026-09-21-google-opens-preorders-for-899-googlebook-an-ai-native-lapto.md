@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop
 related_article_ids:
 - 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
-embedding_id: null
+embedding_id: 2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto
 event_name: ''
 ---
 

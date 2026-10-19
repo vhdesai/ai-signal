@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
 event_name: ''
 ---
 

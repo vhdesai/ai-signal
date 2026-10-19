@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
-embedding_id: null
+embedding_id: 2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a
 event_name: ''
 ---
 

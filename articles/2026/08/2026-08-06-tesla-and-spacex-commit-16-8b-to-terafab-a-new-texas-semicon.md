@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 - 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 - 2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t
-embedding_id: null
+embedding_id: 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
 event_name: ''
 ---
 

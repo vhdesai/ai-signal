@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-embedding_id: null
+embedding_id: 2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation
 event_name: ''
 ---
 

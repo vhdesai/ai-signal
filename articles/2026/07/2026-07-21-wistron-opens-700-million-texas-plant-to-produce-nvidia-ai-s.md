@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-pla
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-embedding_id: null
+embedding_id: 2026-07-21-wistron-opens-700-million-texas-plant-to-produce-nvidia-ai-s
 event_name: ''
 ---
 

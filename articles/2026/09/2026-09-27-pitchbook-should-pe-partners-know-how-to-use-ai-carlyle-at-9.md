@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
-embedding_id: null
+embedding_id: 2026-09-27-pitchbook-should-pe-partners-know-how-to-use-ai-carlyle-at-9
 event_name: ''
 ---
 

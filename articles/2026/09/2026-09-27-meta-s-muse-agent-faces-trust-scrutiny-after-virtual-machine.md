@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
 - 2026-09-26-the-weekend-keeping-meta-s-muse-on-a-short-leash
 - 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
-embedding_id: null
+embedding_id: 2026-09-27-meta-s-muse-agent-faces-trust-scrutiny-after-virtual-machine
 event_name: ''
 ---
 

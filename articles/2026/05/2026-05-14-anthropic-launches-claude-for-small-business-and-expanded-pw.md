@@ -4,8 +4,8 @@ title: Anthropic Launches Claude for Small Business and Expanded PwC Alliance
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/pwc-expanded-partnership
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: a220b2a62f70f761948638c54ddf3ae866e2bb8a5047612226c295ff46ae9909
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-bain-joins-anthropic-s-claude-partner-network-at-top-tier
 - 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
 - 2026-05-18-anthropic-launched-claude-for-small-business-a-toggle-inside
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 event_name: ''
 ---
 

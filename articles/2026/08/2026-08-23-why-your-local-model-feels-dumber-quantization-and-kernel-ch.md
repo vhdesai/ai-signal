@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-embedding_id: null
+embedding_id: 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 event_name: ''
 ---
 

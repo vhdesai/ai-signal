@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
-embedding_id: null
+embedding_id: 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 event_name: ''
 ---
 

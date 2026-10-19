@@ -24,7 +24,7 @@ canonical_article_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged
 related_article_ids:
 - 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
 - 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
-embedding_id: null
+embedding_id: 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
 event_name: ''
 ---
 

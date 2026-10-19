@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 - 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-embedding_id: null
+embedding_id: 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 event_name: ''
 ---
 

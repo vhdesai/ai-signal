@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 - 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
-embedding_id: null
+embedding_id: 2026-04-08-source-forbes-msn-the-neuron
 event_name: ''
 ---
 

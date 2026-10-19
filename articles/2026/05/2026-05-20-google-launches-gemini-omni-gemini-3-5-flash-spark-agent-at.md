@@ -4,8 +4,8 @@ title: Google launches Gemini Omni, Gemini 3.5 Flash & Spark agent at I/O 2026
 date: '2026-05-20'
 source: The Next Web  / Google DeepMind Blog  / eWeek  · Google / DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 65c302ece6c892e67fe7460b4db72555fc1f632c92a088eb94570cca89d6f969
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
-embedding_id: null
+embedding_id: 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 event_name: ''
 ---
 

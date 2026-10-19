@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-thinking-machines-lab-co-founder-barret-zoph-reportedly-join
 - 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
 - 2026-08-27-barret-zoph-thinking-machines-co-founder-who-left-for-openai
-embedding_id: null
+embedding_id: 2026-08-27-barret-zoph-returns-to-google-deepmind-as-vp-of-research
 event_name: ''
 ---
 

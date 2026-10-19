@@ -5,8 +5,8 @@ title: Google DeepMind, Microsoft, and xAI agree to give U.S. government pre-rel
 date: '2026-05-05'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aigovernance.com/news/microsoft-google-xai-caisi-pre-deployment-security-review-agreements-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 35fa26d5969f64abd15a02f419d10ca2a025f6a1c92f79230432a27b6e1e5057
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
-embedding_id: null
+embedding_id: 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-08-22-anonymous-ox-alpha-model-draws-developers-with-free-1m-token
-embedding_id: null
+embedding_id: 2026-10-11-orcarouter-releases-orcacyber-zero-1-5-with-1m-token-context
 event_name: ''
 ---
 

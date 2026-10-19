@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
-embedding_id: null
+embedding_id: 2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout
 event_name: ''
 ---
 

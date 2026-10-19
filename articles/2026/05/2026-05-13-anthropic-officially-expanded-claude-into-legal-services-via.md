@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-officially-expanded-claude-into-legal-services-via
 event_name: ''
 ---
 

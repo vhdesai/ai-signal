@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
-embedding_id: null
+embedding_id: 2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business
 event_name: ''
 ---
 

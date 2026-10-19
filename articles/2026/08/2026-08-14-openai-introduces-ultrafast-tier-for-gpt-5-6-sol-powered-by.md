@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-openai-launches-ultrafast-mode-gpt-5-6-sol-at-14x-speed-via
-embedding_id: null
+embedding_id: 2026-08-14-openai-introduces-ultrafast-tier-for-gpt-5-6-sol-powered-by
 event_name: ''
 ---
 

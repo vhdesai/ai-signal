@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 - 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 - 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
-embedding_id: null
+embedding_id: 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 event_name: ''
 ---
 

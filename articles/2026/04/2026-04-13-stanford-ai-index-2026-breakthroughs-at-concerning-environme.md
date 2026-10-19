@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-embedding_id: null
+embedding_id: 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 event_name: ''
 ---
 

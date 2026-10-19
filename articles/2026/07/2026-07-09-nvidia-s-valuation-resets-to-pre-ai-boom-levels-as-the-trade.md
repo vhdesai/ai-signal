@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
-embedding_id: null
+embedding_id: 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
 event_name: ''
 ---
 

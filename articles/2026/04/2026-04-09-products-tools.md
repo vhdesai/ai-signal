@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
 - 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
-embedding_id: null
+embedding_id: 2026-04-09-products-tools
 event_name: ''
 ---
 

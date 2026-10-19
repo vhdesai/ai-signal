@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-25-anthropic-commits-11-6b-over-seven-years-to-akamai-cloud-cap
 - 2026-09-25-anthropic-to-pay-akamai-11-6-billion-over-seven-years-a-cpu
 - 2026-09-25-anthropic-signs-11-6b-akamai-cloud-deal-taking-compute-spend
-embedding_id: null
+embedding_id: 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
 event_name: ''
 ---
 

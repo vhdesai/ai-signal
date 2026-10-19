@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-oxford-let-openai-train-models-on-bodleian-library-texts-sta
 - 2026-09-26-oxford-s-bodleian-library-agrees-to-let-openai-train-on-its
 - 2026-09-03-u-s-government-sides-with-openai-in-new-york-times-training
-embedding_id: null
+embedding_id: 2026-09-26-internal-documents-show-oxford-s-bodleian-scans-populated-op
 event_name: ''
 ---
 

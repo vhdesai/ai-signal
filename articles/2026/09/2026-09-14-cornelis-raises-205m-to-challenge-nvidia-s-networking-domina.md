@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-cornelis-raises-205m-to-attack-nvidia-s-networking-lock-in-w
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-14-cornelis-raises-205m-to-challenge-nvidia-s-networking-domina
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
-embedding_id: null
+embedding_id: 2026-08-14-gemini-3-7-flash-rolls-into-google-search-ai-mode
 event_name: ''
 ---
 

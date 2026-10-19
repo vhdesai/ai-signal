@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
-embedding_id: null
+embedding_id: 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 event_name: ''
 ---
 

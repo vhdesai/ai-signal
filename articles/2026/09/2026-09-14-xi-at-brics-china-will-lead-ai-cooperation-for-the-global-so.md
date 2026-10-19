@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
 - 2026-09-13-xi-pitches-china-s-ai-vision-at-the-brics-summit
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
-embedding_id: null
+embedding_id: 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 event_name: ''
 ---
 

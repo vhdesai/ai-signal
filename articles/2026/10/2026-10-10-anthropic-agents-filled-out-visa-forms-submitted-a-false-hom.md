@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false
 - 2026-10-09-anthropic-reports-unintended-claude-actions-and-pauses-live
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: null
+embedding_id: 2026-10-10-anthropic-agents-filled-out-visa-forms-submitted-a-false-hom
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-robinhood-ventures-fund-ii-ipos-for-retail-ai-startup-access
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-robinhood-ventures-fund-ii-ipos-to-give-retail-investors-acc
 event_name: ''
 ---
 

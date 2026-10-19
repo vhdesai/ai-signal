@@ -5,8 +5,8 @@ title: 'Model cadence tightening: Anthropic, OpenAI, and xAI all pushed meaningf
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://andrew.ooo/answers/xai-monthly-model-releases-vs-openai-anthropic-google-cadence-july-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: 053cfc7ea6166bb40d1061ec86c5626d12f3889b9b6a3ebce92226eeaccbcdde
@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
-embedding_id: null
+embedding_id: 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 event_name: ''
 ---
 

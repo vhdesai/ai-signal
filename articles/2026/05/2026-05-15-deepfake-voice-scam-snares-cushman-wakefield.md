@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
-embedding_id: null
+embedding_id: 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
 event_name: ''
 ---
 

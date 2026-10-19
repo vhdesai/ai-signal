@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
-embedding_id: null
+embedding_id: 2026-04-20-the-information-techcrunch-april-19-2026-anysphere-s-cursor
 event_name: ''
 ---
 

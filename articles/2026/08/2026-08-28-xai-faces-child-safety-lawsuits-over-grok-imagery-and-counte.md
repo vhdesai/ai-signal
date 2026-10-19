@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 - 2026-09-03-abuse-survivor-sues-xai-over-allegedly-grok-generated-illega
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
-embedding_id: null
+embedding_id: 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 event_name: ''
 ---
 

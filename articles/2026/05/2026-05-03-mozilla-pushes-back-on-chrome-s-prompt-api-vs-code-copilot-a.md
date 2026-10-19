@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
-embedding_id: null
+embedding_id: 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 event_name: ''
 ---
 

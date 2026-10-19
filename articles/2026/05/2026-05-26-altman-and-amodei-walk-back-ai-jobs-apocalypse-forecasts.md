@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-13-amodei-the-industry-lied-about-ai-risks-altman-and-hassabis
 - 2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier
-embedding_id: null
+embedding_id: 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 event_name: ''
 ---
 

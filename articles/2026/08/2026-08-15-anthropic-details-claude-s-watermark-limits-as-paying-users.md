@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-anthropic-details-how-claude-s-watermark-works-and-where-it
 - 2026-08-13-anthropic-turns-on-invisible-watermarking-for-claude-text-ou
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
-embedding_id: null
+embedding_id: 2026-08-15-anthropic-details-claude-s-watermark-limits-as-paying-users
 event_name: ''
 ---
 

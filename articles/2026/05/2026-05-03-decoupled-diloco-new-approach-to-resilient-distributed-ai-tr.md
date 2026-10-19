@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
 - 2026-06-26-a-training-methods-preprint-from-martin-jaggi-s-group-propos
-embedding_id: null
+embedding_id: 2026-05-03-decoupled-diloco-new-approach-to-resilient-distributed-ai-tr
 event_name: ''
 ---
 

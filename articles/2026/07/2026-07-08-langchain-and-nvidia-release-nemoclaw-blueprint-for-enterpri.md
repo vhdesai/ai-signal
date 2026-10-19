@@ -26,7 +26,7 @@ related_article_ids:
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-embedding_id: null
+embedding_id: 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 - 2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
-embedding_id: null
+embedding_id: 2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti
 event_name: ''
 ---
 

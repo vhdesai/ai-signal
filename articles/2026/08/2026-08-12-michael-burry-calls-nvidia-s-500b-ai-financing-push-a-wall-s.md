@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
-embedding_id: null
+embedding_id: 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 event_name: ''
 ---
 

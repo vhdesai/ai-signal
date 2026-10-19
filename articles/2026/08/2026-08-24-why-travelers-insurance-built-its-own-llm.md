@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-09-05-agentic-ai-is-shifting-the-pricing-models-cios-rely-on
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
-embedding_id: null
+embedding_id: 2026-08-24-why-travelers-insurance-built-its-own-llm
 event_name: ''
 ---
 

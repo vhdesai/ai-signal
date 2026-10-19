@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
-embedding_id: null
+embedding_id: 2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute
 event_name: ''
 ---
 

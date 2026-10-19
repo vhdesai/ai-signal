@@ -5,8 +5,8 @@ title: Tennessee Governor Bill Lee signed SB 1580 (passed both chambers unanimou
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1580&ga=114
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: 4cd5d761805f1a177296ef111fdb2374791b48a44c4a96eb65254515fafd62f6
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-09-10-california-enacts-adam-s-law-the-first-comprehensive-chatbot
-embedding_id: null
+embedding_id: 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 event_name: ''
 ---
 

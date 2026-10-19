@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
 - 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default-for-pro
 - 2026-08-07-anthropic-makes-auto-mode-the-default-in-claude-code-across
-embedding_id: null
+embedding_id: 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
 event_name: ''
 ---
 

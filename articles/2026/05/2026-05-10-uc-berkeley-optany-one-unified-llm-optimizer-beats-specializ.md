@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim
 - 2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-embedding_id: null
+embedding_id: 2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ
 event_name: ''
 ---
 

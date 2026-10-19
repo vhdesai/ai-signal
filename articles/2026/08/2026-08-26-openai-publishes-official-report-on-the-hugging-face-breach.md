@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 related_article_ids:
 - 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
-embedding_id: null
+embedding_id: 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 event_name: ''
 ---
 

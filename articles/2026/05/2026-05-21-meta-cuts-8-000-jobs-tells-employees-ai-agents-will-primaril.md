@@ -5,8 +5,8 @@ title: Meta Cuts 8,000 Jobs, Tells Employees AI Agents Will Primarily Do the Wor
 date: '2026-05-21'
 source: Entrepreneur
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.entrepreneur.com/business-news/meta-cut-8000-jobs-and-told-employees-that-ai-agents-will-primarily-do-the-work-now
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: f8adb30a481f57713042ad126fc6e78180367b7fc6c9cff349661e17f76f501e
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-embedding_id: null
+embedding_id: 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
 event_name: ''
 ---
 

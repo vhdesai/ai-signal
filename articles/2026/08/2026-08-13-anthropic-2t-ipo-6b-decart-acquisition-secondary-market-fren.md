@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-embedding_id: null
+embedding_id: 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 event_name: ''
 ---
 

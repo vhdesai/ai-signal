@@ -5,8 +5,8 @@ title: Mistral has shipped Medium 3.5, a 128-billion-parameter dense merged mode
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.layer3labs.io/guides/mistral-medium-3-5-explained
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 2f8ecaf62fe741f9a4e971790d690caf79705e8d72d5028e09ac4f2e48e69df0
 normalized_title_hash: 220451fcd0ef5e47
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
-embedding_id: null
+embedding_id: 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 event_name: ''
 ---
 

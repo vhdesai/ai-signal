@@ -4,8 +4,8 @@ title: Silicon Valley and Washington continue to debate Chinese open-weight AI
 date: '2026-07-26'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/
+url_status: repaired
 digest_source: digests\raw\2026-07-27-daily-ai-news-digest.md
 content_hash: 675af70ae7d18ae9903ee5cb4011625654cde4437981b803cff640c4074dcf9e
 normalized_title_hash: 1346f82f3c0e100c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
-embedding_id: null
+embedding_id: 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-04'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/
 url_canonical: https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-05_061544_Inbox_Daily AI News Digest - September
   5, 2026.md
 content_hash: 77453e4c5f635deadec3de0fcf280dc9533020d5c479ad23dc75a6a8b394f71d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-nvidia-wants-to-turn-idle-pcs-into-a-personal-home-data-cent
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
-embedding_id: null
+embedding_id: 2026-07-20-google-works-on-frozen-v2-chip-to-improve-gemini-inference-e
 event_name: ''
 ---
 

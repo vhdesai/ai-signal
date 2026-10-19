@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-openai-contracts-for-8-gw-it-at-the-ports-pike-campus-in-ohi
 event_name: ''
 ---
 

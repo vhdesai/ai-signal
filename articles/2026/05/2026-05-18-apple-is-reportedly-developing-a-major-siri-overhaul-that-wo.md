@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
-embedding_id: null
+embedding_id: 2026-05-18-apple-is-reportedly-developing-a-major-siri-overhaul-that-wo
 event_name: ''
 ---
 

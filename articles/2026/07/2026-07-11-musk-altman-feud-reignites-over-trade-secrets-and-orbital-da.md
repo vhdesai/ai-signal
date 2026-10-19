@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-04-13-industry-news
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
-embedding_id: null
+embedding_id: 2026-07-11-musk-altman-feud-reignites-over-trade-secrets-and-orbital-da
 event_name: ''
 ---
 

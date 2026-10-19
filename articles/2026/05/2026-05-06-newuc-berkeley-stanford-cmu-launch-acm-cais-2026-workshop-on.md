@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - event-acm-cais-2026-acm-cais-2026-overview
-embedding_id: null
+embedding_id: 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 event_name: ''
 ---
 

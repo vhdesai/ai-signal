@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-33-openai-says-internal-astra-model-produced-new-results-on
 - 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
-embedding_id: null
+embedding_id: 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
 event_name: ''
 ---
 

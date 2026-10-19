@@ -4,8 +4,8 @@ title: Cursor 2.5 and Replit Agent Push Coding Tools Past $2B ARR
 date: '2026-05-18'
 source: Tech-Insider / Codersera
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/replit-vs-cursor-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 6ce0f0503993dc2558578c0b3c96556c5dd0a675a3078df9d8db97b8439ad99d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
-embedding_id: null
+embedding_id: 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 event_name: ''
 ---
 

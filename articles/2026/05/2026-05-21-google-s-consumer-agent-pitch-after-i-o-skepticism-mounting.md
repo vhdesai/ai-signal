@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
-embedding_id: null
+embedding_id: 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 event_name: ''
 ---
 

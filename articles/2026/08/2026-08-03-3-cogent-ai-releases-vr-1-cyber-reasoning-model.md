@@ -5,7 +5,7 @@ date: '2026-08-03'
 source: MarkTechPost · Read article →
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_061155_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: e858f0e2edf27ed862d2f27ae9fd041af047a2652f27d6a0601c4f638ad515cb
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
-embedding_id: null
+embedding_id: 2026-08-03-3-cogent-ai-releases-vr-1-cyber-reasoning-model
 event_name: ''
 ---
 

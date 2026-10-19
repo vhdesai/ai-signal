@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
-embedding_id: null
+embedding_id: 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 event_name: ''
 ---
 

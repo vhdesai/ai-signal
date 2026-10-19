@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-24-meta-plans-ai-agent-platform-hatch-launch-in-coming-weeks-ne
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
-embedding_id: null
+embedding_id: 2026-09-03-meta-works-on-action-gates-and-credential-isolation-before-h
 event_name: ''
 ---
 

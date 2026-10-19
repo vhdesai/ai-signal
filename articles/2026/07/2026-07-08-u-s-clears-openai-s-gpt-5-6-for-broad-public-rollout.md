@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-embedding_id: null
+embedding_id: 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 event_name: ''
 ---
 

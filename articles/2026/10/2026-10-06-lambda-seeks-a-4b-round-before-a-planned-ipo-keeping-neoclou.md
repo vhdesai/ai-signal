@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-lambda-seeks-up-to-4b-ahead-of-planned-2027-ipo
 - 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
 - 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
-embedding_id: null
+embedding_id: 2026-10-06-lambda-seeks-a-4b-round-before-a-planned-ipo-keeping-neoclou
 event_name: ''
 ---
 

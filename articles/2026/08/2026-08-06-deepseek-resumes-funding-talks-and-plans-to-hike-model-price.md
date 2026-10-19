@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 - 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
-embedding_id: null
+embedding_id: 2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price
 event_name: ''
 ---
 

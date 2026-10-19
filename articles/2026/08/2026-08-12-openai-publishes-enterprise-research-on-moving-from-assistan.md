@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-enterprises-put-ai-to-work
 url_canonical: https://openai.com/index/how-enterprises-put-ai-to-work
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-12_060916_Inbox_Daily AI News Digest - August 12,
   2026.md
 content_hash: 31db159b03b357bda13a328275860b3415669bd94e9a70f9032c5a800f7f4737
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for
-embedding_id: null
+embedding_id: 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 event_name: ''
 ---
 

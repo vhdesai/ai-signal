@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
 event_name: ''
 ---
 

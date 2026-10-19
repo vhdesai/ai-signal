@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-ai-race-splits-as-china-wages-an-open-weight-model-insurgenc
 - 2026-07-18-kimi-k3-shocks-the-market-and-prompts-debate-over-u-s-ai-com
 - 2026-07-27-moonshot-ai-releases-kimi-k3-weights-the-largest-open-model
-embedding_id: null
+embedding_id: 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 event_name: ''
 ---
 

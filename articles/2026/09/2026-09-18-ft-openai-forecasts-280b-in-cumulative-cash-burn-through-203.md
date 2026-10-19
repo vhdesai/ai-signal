@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-21-both-openai-and-anthropic-are-approaching-public-markets-at
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-embedding_id: null
+embedding_id: 2026-09-18-ft-openai-forecasts-280b-in-cumulative-cash-burn-through-203
 event_name: ''
 ---
 

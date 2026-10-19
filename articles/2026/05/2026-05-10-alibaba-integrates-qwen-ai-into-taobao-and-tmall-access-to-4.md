@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-embedding_id: null
+embedding_id: 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
 event_name: ''
 ---
 

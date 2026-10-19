@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-23-nscale-s-35b-nyse-listing-tests-appetite-for-customer-concen
 - 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
-embedding_id: null
+embedding_id: 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 event_name: ''
 ---
 

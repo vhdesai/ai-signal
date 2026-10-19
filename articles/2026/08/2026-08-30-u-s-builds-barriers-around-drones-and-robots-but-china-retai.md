@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-has-t
 - 2026-08-31-the-u-s-is-building-barriers-around-drones-and-robots-but-ch
 - 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
-embedding_id: null
+embedding_id: 2026-08-30-u-s-builds-barriers-around-drones-and-robots-but-china-retai
 event_name: ''
 ---
 

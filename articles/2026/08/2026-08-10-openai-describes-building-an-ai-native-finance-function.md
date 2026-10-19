@@ -5,7 +5,7 @@ date: '2026-08-10'
 source: OpenAI Blog
 url_original: https://openai.com/index/building-an-ai-native-finance-function/
 url_canonical: https://openai.com/index/building-an-ai-native-finance-function/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-11_060740_Inbox_Daily AI News Digest - August 11,
   2026.md
 content_hash: bcf4c904be4ef57fce139bd4c72316af071e9679c3c2fc617d0b01ba76fe4bae
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-embedding_id: null
+embedding_id: 2026-08-10-openai-describes-building-an-ai-native-finance-function
 event_name: ''
 ---
 

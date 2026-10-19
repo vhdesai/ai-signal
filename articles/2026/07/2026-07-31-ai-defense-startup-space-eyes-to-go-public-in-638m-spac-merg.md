@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
-embedding_id: null
+embedding_id: 2026-07-31-ai-defense-startup-space-eyes-to-go-public-in-638m-spac-merg
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-deepseek-launches-experimental-multimodal-model-v4-flash-vis
 - 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
-embedding_id: null
+embedding_id: 2026-08-25-deepseek-reportedly-testing-a-new-coding-model
 event_name: ''
 ---
 

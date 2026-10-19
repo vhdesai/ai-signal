@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-the-ai-assistant-running-my-life-first-person-account
 - 2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
-embedding_id: null
+embedding_id: 2026-08-28-google-personal-intelligence-a-huge-help-wsj-first-person-re
 event_name: ''
 ---
 

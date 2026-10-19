@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
-embedding_id: null
+embedding_id: 2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Trump administration will oppose a centralized US AI regulator, says outg
 date: '2026-07-03'
 source: Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/outgoing-trump-adviser-rules-out-central-ai-regulator-c4d4e2c3
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 096653980132840641d688e3d32104373d0a8ee66072822207487ebfcc7436f1
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
-embedding_id: null
+embedding_id: 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 event_name: ''
 ---
 

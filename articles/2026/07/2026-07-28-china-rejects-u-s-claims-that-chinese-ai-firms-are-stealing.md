@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 - 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
-embedding_id: null
+embedding_id: 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
-embedding_id: null
+embedding_id: 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 event_name: ''
 ---
 

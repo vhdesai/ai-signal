@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-10-09-oracle-trucks-natural-gas-to-ai-data-centers-as-pipeline-del
 - 2026-10-12-intel-and-broadcom-warn-capital-costs-could-become-an-ai-bot
-embedding_id: null
+embedding_id: 2026-07-18-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 event_name: ''
 ---
 

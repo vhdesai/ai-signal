@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
-embedding_id: null
+embedding_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 event_name: ''
 ---
 

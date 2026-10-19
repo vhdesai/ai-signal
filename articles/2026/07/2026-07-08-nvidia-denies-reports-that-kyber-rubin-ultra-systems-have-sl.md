@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
 - 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
 - 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-embedding_id: null
+embedding_id: 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 event_name: ''
 ---
 

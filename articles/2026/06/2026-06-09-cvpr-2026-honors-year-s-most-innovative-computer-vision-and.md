@@ -4,8 +4,8 @@ title: CVPR 2026 Honors Year's Most Innovative Computer Vision and AI Research
 date: '2026-06-09'
 source: Newswise
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+url_status: repaired
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 7c13ec00cf882ddcd8d9765f12fef92584af79fe912c8ef91fcb72cf89aca032
 normalized_title_hash: 12d90c1f78d7193a
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-06-09-cvpr-2026-honors-year-s-most-innovative-computer-vision-and
 event_name: ''
 ---
 

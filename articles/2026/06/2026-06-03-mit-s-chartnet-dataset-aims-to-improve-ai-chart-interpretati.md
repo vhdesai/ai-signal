@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-arguing-physics-is-ai
 - 2026-08-10-mit-introduces-geopt-to-help-ai-models-simulate-real-world-p
 - 2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se
-embedding_id: null
+embedding_id: 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 event_name: ''
 ---
 

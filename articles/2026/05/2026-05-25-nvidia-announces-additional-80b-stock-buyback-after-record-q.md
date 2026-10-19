@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-28-nvidia-authorizes-an-additional-150b-in-buybacks-total-remai
 - 2026-09-28-nvidia-authorises-an-additional-150b-in-buybacks-raising-the
 - 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
-embedding_id: null
+embedding_id: 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 event_name: ''
 ---
 

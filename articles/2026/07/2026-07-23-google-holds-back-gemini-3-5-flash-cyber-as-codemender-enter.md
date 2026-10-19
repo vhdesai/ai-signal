@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-restricted-gemini-3-8
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
-embedding_id: null
+embedding_id: 2026-07-23-google-holds-back-gemini-3-5-flash-cyber-as-codemender-enter
 event_name: ''
 ---
 

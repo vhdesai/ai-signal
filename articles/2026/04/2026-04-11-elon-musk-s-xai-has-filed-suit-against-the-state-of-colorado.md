@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-embedding_id: null
+embedding_id: 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 event_name: ''
 ---
 

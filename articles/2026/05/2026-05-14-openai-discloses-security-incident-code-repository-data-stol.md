@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
 - 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
-embedding_id: null
+embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
 

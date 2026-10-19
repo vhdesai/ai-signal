@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-a-supply-chain-security-breach-at-mercor-a-platform-widely-u
 - 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
 - 2026-09-11-meta-s-elite-ai-unit-sought-employee-data-for-training-halte
-embedding_id: null
+embedding_id: 2026-08-15-defunct-startups-slack-archives-are-becoming-agent-training
 event_name: ''
 ---
 

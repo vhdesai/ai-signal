@@ -4,8 +4,8 @@ title: Google ships Gemini Flash models and cuts long-horizon agent costs
 date: '2026-07-21'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way
-url_canonical: https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way
-url_status: broken
+url_canonical: https://tech-insider.org/gemini-3-8-flash-launch-pricing-2026/
+url_status: repaired
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 84b9ee1058ed7f20ab4f96cc0ec4b431e6586323a52a1355dc07a09bd7f75946
 normalized_title_hash: 53d4c9626576f828
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3
 - 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
-embedding_id: null
+embedding_id: 2026-07-21-google-ships-gemini-flash-models-and-cuts-long-horizon-agent
 event_name: ''
 ---
 

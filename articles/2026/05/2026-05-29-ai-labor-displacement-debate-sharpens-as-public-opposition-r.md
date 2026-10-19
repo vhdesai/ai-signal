@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
-embedding_id: null
+embedding_id: 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 event_name: ''
 ---
 

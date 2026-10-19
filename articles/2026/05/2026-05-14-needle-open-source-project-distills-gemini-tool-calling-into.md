@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
 - 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
-embedding_id: null
+embedding_id: 2026-05-14-needle-open-source-project-distills-gemini-tool-calling-into
 event_name: ''
 ---
 

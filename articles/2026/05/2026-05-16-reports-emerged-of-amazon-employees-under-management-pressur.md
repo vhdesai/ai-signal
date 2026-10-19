@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
-embedding_id: null
+embedding_id: 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
-embedding_id: null
+embedding_id: 2026-07-26-unionized-workers-are-bargaining-with-the-bots
 event_name: ''
 ---
 

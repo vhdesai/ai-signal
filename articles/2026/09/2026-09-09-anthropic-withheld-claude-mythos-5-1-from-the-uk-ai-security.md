@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
-embedding_id: null
+embedding_id: 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
 event_name: ''
 ---
 

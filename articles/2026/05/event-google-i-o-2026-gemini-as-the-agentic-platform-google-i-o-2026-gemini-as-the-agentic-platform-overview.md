@@ -4,8 +4,8 @@ title: 'Google I/O 2026: Gemini as the Agentic Platform — Overview'
 date: '2026-05-19'
 source: 'Google I/O 2026: Gemini as the Agentic Platform'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026
+url_status: repaired
 digest_source: digests\raw\Google IO 2026 - Gemini Agentic Platform.md
 content_hash: 140ac7d3d7f9a3212fe266d6138739634e78215a403c9bd801c1aeb9b88430fc
 normalized_title_hash: 6166520efcbf4360
@@ -30,7 +30,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-overview
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-embedding_id: null
+embedding_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 event_name: 'Google I/O 2026: Gemini as the Agentic Platform'
 ---
 

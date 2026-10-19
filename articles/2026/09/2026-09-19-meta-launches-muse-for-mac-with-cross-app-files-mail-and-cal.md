@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-meta-launches-muse-for-mac-with-a-separate-agent-gating-all
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-meta-launches-muse-for-mac-with-cross-app-files-mail-and-cal
 event_name: ''
 ---
 

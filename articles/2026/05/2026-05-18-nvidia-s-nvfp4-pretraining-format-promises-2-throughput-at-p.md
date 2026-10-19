@@ -4,8 +4,8 @@ title: NVIDIA's NVFP4 pretraining format promises ~2× throughput at parity
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.nvidia.com/blog/nvfp4-trains-with-precision-of-16-bit-and-speed-and-efficiency-of-4-bit/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 93bddee2a132e6eb4279de7111c1c9663362cecf9eff286e3698387bfe27e867
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model
-embedding_id: null
+embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 event_name: ''
 ---
 

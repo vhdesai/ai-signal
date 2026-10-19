@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-deepseek-ships-v4-pro-and-raises-api-prices-sharply
 - 2026-08-13-deepseek-open-sources-harness-and-moves-v4-pro-to-general-av
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
-embedding_id: null
+embedding_id: 2026-08-13-deepseek-ships-v4-pro-and-open-source-harness-agent-framewor
 event_name: ''
 ---
 

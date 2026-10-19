@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-the-week-that-reset-the-ai-industry
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 - 2026-09-26-daily-ai-news-digest-september-26-2026
-embedding_id: null
+embedding_id: 2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock
 event_name: ''
 ---
 

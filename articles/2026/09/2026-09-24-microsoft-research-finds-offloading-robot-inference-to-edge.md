@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-embedding_id: null
+embedding_id: 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 event_name: ''
 ---
 

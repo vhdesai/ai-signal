@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-github-s-project-hydrafusion-builds-a-bespoke-workflow-per-c
 - 2026-09-04-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w
 - 2026-09-05-github-introduces-project-hydrafusion-runtime-multi-model-or
-embedding_id: null
+embedding_id: 2026-09-05-github-introduces-project-hydrafusion-for-per-task-model-orc
 event_name: ''
 ---
 

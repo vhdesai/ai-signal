@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
-embedding_id: null
+embedding_id: 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 event_name: ''
 ---
 

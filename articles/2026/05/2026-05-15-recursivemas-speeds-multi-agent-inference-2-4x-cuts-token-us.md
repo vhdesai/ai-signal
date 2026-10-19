@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-08-22-open-source-course-maps-three-ways-to-run-an-agent-loop-and
-embedding_id: null
+embedding_id: 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 event_name: ''
 ---
 

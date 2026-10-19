@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
-embedding_id: null
+embedding_id: 2026-10-09-gemini-shifts-free-users-to-automatic-model-selection
 event_name: ''
 ---
 

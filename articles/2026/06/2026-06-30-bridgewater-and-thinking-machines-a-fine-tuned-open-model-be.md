@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
 - 2026-07-19-thinking-machines-leaned-on-chinese-open-source-technology-f
-embedding_id: null
+embedding_id: 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
 event_name: ''
 ---
 

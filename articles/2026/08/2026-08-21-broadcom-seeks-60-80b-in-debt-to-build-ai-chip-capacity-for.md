@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-01-broadcom-to-lend-anthropic-up-to-42b-to-lease-its-chips-from
 - 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 - 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
-embedding_id: null
+embedding_id: 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 event_name: ''
 ---
 

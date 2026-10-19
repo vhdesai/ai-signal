@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-06-anthropic-has-signed-roughly-517-billion-in-compute-deals-ov
 - 2026-08-26-anthropic-commits-45b-to-nscale-for-six-years-of-vera-rubin
 - 2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val
-embedding_id: null
+embedding_id: 2026-09-14-anthropic-s-517b-compute-book-undercuts-its-own-slowdown-mes
 event_name: ''
 ---
 

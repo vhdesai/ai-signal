@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-07-china-s-ai-leaders-prepare-for-public-market-tests
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
-embedding_id: null
+embedding_id: 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 event_name: ''
 ---
 

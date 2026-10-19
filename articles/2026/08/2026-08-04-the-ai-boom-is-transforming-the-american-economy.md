@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-09-wsj-watch-the-ai-boom-s-weakest-link
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
-embedding_id: null
+embedding_id: 2026-08-04-the-ai-boom-is-transforming-the-american-economy
 event_name: ''
 ---
 

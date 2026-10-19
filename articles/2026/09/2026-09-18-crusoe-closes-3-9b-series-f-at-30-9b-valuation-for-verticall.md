@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
 - 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
-embedding_id: null
+embedding_id: 2026-09-18-crusoe-closes-3-9b-series-f-at-30-9b-valuation-for-verticall
 event_name: ''
 ---
 

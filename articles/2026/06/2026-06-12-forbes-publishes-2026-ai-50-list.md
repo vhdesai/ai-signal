@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 - 2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
-embedding_id: null
+embedding_id: 2026-06-12-forbes-publishes-2026-ai-50-list
 event_name: ''
 ---
 

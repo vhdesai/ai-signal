@@ -4,8 +4,8 @@ title: Musk warns of AI extinction risk in OpenAI courtroom battle
 date: '2026-05-26'
 source: MSN
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/offbeat/we-all-could-die-the-chilling-extinction-warning-in-the-musk-vs-altman-trial/ar-AA22aKig
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 85116e4bf0bf979e3f31e224da2dd76be12c34b8733ff8c3ad1c4cfd97766ed7
@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-embedding_id: null
+embedding_id: 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 event_name: ''
 ---
 

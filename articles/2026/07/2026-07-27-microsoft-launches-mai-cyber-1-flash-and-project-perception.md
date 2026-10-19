@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-microsoft-launches-mai-cyber-1-flash-and-project-perception
 event_name: ''
 ---
 

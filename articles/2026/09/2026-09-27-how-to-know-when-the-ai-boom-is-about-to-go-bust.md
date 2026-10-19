@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
-embedding_id: null
+embedding_id: 2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust
 event_name: ''
 ---
 

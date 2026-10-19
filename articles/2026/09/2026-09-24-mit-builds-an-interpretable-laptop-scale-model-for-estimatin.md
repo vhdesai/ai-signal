@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
-embedding_id: null
+embedding_id: 2026-09-24-mit-builds-an-interpretable-laptop-scale-model-for-estimatin
 event_name: ''
 ---
 

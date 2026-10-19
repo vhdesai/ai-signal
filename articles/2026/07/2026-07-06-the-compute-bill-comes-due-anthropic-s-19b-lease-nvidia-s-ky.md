@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-14-anthropic-s-517b-compute-commitments-collide-with-its-own-sl
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-09-24-friday-september-25-2026
-embedding_id: null
+embedding_id: 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
 event_name: ''
 ---
 

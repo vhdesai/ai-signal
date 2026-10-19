@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
-embedding_id: null
+embedding_id: 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 event_name: ''
 ---
 

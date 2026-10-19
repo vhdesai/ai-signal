@@ -5,8 +5,8 @@ title: The White House released a comprehensive National Policy Framework for AI
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/releases/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: d7244034afe09434eb2ff4545e62c8eeebbb1b95f78993857932de0efd76cbff
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 - 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 - 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
-embedding_id: null
+embedding_id: 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
 event_name: ''
 ---
 

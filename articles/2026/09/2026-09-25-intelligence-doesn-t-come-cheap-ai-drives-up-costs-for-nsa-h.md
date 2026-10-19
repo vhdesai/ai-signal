@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-09-26-insurers-say-ai-has-already-added-942-million-to-us-healthca
 - 2026-09-26-blue-cross-analysis-attributes-942m-in-added-healthcare-spen
-embedding_id: null
+embedding_id: 2026-09-25-intelligence-doesn-t-come-cheap-ai-drives-up-costs-for-nsa-h
 event_name: ''
 ---
 

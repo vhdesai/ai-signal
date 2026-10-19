@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
 event_name: ''
 ---
 

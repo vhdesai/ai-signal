@@ -4,8 +4,8 @@ title: Khosla Ventures Bets $10M on Synthetic AI's Autonomous Bookkeeping Platfo
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f8a6edf5c2d719f1147c458fc10a43f19bd336d1d45608bdbc3a6bcd685cdf35
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-09-21-tabby-uses-ai-to-automate-bookkeeping-for-small-businesses
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
-embedding_id: null
+embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
 

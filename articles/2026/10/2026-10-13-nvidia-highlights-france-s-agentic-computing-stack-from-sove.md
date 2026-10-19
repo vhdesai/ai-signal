@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-09-10-nvidia-and-palantir-deploy-a-sovereign-ai-stack-with-nvidia
 - 2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout
-embedding_id: null
+embedding_id: 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 event_name: ''
 ---
 

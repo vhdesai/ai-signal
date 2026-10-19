@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-embedding_id: null
+embedding_id: 2026-10-05-lina-khan-says-ai-companies-are-replaying-big-tech-s-old-pla
 event_name: ''
 ---
 

@@ -21,11 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
 - 2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe
-embedding_id: null
+embedding_id: 2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875
 event_name: ''
 ---
 
@@ -37,5 +38,5 @@ CoreWeave priced $3.7B in convertible bonds on Friday, above the $3B initially m
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe]]
+**Related:** [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-09-25-nscale-secures-3-36b-convertible-from-third-point-nvidia-ahe]]
 <!-- graph:end -->

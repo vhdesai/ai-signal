@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
-embedding_id: null
+embedding_id: 2026-09-17-google-deepmind-launches-the-deepmind-institute-proposes-us
 event_name: ''
 ---
 

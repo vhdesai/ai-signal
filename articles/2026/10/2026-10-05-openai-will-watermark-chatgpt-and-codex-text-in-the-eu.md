@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-05-openai-begins-phased-text-watermarking-under-eu-provenance-r
 - 2026-10-06-openai-adds-invisible-watermarking-to-ai-generated-text
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
-embedding_id: null
+embedding_id: 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
 event_name: ''
 ---
 

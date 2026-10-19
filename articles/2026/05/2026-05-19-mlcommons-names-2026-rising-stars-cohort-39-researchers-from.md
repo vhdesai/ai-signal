@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 - 2026-10-09-stanford-opened-predoctoral-research-fellowship-opportunitie
-embedding_id: null
+embedding_id: 2026-05-19-mlcommons-names-2026-rising-stars-cohort-39-researchers-from
 event_name: ''
 ---
 

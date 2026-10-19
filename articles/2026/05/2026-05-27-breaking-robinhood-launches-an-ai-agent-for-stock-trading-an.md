@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
 - 2026-08-20-binance-launches-agent-os-ai-agents-can-now-trade-crypto-via
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
-embedding_id: null
+embedding_id: 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 event_name: ''
 ---
 

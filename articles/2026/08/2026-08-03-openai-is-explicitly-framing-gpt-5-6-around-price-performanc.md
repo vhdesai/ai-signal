@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 - 2026-08-04-openai-updates-gpt-5-6-price-performance-positioning
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-embedding_id: null
+embedding_id: 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
 event_name: ''
 ---
 

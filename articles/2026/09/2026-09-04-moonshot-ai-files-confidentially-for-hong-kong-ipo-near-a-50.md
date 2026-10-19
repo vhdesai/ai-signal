@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-50b
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-moonshot-ai-files-confidentially-for-hong-kong-ipo-near-a-50
 event_name: ''
 ---
 

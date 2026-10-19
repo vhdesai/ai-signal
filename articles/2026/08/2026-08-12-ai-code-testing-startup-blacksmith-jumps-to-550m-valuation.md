@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-ai-coding-valuations-accelerate-cognition-40b-lovable-13-3b
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
-embedding_id: null
+embedding_id: 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 event_name: ''
 ---
 

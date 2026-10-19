@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-08-27-google-ai-mode-adds-flight-tracking-and-in-chat-hotel-bookin
 - 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
-embedding_id: null
+embedding_id: 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 event_name: ''
 ---
 

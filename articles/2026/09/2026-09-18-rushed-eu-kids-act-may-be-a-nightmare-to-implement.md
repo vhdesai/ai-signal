@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 - 2026-09-18-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
-embedding_id: null
+embedding_id: 2026-09-18-rushed-eu-kids-act-may-be-a-nightmare-to-implement
 event_name: ''
 ---
 

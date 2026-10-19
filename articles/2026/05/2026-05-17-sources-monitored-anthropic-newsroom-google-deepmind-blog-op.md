@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
-embedding_id: null
+embedding_id: 2026-05-17-sources-monitored-anthropic-newsroom-google-deepmind-blog-op
 event_name: ''
 ---
 

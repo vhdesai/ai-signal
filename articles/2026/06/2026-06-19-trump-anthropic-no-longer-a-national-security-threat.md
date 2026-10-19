@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-10-02-trump-orders-us-government-to-cut-ties-with-anthropic-hegset
-embedding_id: null
+embedding_id: 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
 event_name: ''
 ---
 

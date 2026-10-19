@@ -5,8 +5,8 @@ title: 'Daily AI News Digest | Compiled May 18, 2026 | Sources: TechCrunch, Vent
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://daily.dev/blog/best-ai-news-sources/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 344099a90636395d394ad7da05febdaf1672c8d9c25dba798d88d75491d58f0f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
 - 2026-04-01-sources-include-bloomberg-techcrunch-venturebeat-cnbc-econom
 - 2026-04-10-daily-ai-news-digest-compiled-for-vik-desai-microsoft-corp-d
-embedding_id: null
+embedding_id: 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: UC Berkeley's College of Computing, Data Science, and Society polled 11 l
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cdss.berkeley.edu/news/uc-berkeley-experts-monitoring-ai-developments-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fd578361f9314bf3381b4b67b47486fec42d06cf90ac2cb262895d44bde03e5
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 event_name: ''
 ---
 

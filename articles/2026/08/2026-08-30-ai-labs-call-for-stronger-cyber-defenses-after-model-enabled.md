@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
-embedding_id: null
+embedding_id: 2026-08-30-ai-labs-call-for-stronger-cyber-defenses-after-model-enabled
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: SpaceX S-1 Reveals $45B Anthropic Compute Deal
 date: '2026-05-21'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaicronicle.com/en/news/companies/anthropic-spacex-45-billion-computing-deal
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: cc757e0e7a24f814322441585f16a0669645cb6a557b1977ab9e7eb09fa786e6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
-embedding_id: null
+embedding_id: 2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal
 event_name: ''
 ---
 

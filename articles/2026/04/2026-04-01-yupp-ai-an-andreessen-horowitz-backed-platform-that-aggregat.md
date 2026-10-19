@@ -5,8 +5,8 @@ title: Yupp AI, an Andreessen Horowitz-backed platform that aggregated responses
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/startups/a16z-backed-yupp-ai-shuts-down-operations-here-is-why/articleshow/129934965.cms
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: a8c2513a514e098f1b970cd565823f538193220879495eaf671e758190c09738
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-07-23-daily-ai-news-digest-july-24-2026
 - 2026-09-01-pentagon-deploys-chatgpt-gov-and-grok-notably-excludes-anthr
-embedding_id: null
+embedding_id: 2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat
 event_name: ''
 ---
 

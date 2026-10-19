@@ -30,7 +30,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 related_article_ids:
 - 2026-06-01-anthropic-confidentially-files-s-1-for-landmark-ipo
-embedding_id: null
+embedding_id: 2026-06-01-anthropic-confidentially-files-for-u-s-ipo
 event_name: ''
 ---
 

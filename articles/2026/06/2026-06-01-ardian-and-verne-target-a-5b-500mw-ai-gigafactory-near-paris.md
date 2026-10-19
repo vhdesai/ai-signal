@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-embedding_id: null
+embedding_id: 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 event_name: ''
 ---
 

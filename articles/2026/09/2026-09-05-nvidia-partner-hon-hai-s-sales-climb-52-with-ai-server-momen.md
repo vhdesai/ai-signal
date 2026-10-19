@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-05-hon-hai-sales-rise-52-on-ai-server-momentum
 related_article_ids:
 - 2026-09-05-hon-hai-august-sales-rise-52-on-ai-server-demand-as-europe-p
-embedding_id: null
+embedding_id: 2026-09-05-nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momen
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 - 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
-embedding_id: null
+embedding_id: 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 event_name: ''
 ---
 

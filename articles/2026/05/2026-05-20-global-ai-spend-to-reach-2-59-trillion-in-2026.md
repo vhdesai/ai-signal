@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
 event_name: ''
 ---
 

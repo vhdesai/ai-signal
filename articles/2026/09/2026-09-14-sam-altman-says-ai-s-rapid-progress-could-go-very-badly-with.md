@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
-embedding_id: null
+embedding_id: 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
 event_name: ''
 ---
 

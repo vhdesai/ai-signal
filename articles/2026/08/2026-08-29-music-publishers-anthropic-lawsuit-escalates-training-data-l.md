@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-song-lyric
 - 2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co
-embedding_id: null
+embedding_id: 2026-08-29-music-publishers-anthropic-lawsuit-escalates-training-data-l
 event_name: ''
 ---
 

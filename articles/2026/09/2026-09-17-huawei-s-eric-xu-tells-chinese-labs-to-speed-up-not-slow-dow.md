@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: null
+embedding_id: 2026-09-17-huawei-s-eric-xu-tells-chinese-labs-to-speed-up-not-slow-dow
 event_name: ''
 ---
 

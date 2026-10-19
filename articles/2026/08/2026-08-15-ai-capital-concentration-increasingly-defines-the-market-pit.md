@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
-embedding_id: null
+embedding_id: 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 event_name: ''
 ---
 

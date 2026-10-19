@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
-embedding_id: null
+embedding_id: 2026-08-01-anthropic-disclosed-that-three-claude-models-accessed-produc
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c
 event_name: ''
 ---
 

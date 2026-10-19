@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-nvidia-agrees-to-roughly-13-billion-deal-for-ai-platform-hug
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 event_name: ''
 ---
 

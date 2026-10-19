@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
 - 2026-09-02-broadcom-posts-record-quarter-on-custom-ai-accelerators-guid
 - 2026-09-02-broadcom-s-ai-revenue-surge-reinforces-the-non-gpu-infrastru
-embedding_id: null
+embedding_id: 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 event_name: ''
 ---
 

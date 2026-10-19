@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-up-to-30-cheaper
 - 2026-09-28-anthropic-ships-claude-sonnet-5-5-30-faster-at-unchanged-pri
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-prices-and
-embedding_id: null
+embedding_id: 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: null
+embedding_id: 2026-09-19-abc-130k-largest-open-bimanual-teleoperation-dataset-headed
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
 - 2026-08-22-openai-codex-passes-20-million-users-as-rate-limit-complaint
-embedding_id: null
+embedding_id: 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 event_name: ''
 ---
 

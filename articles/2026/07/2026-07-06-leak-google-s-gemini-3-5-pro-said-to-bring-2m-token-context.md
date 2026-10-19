@@ -4,8 +4,8 @@ title: 'Leak: Google''s Gemini 3.5 Pro said to bring 2M-token context and "Deep 
 date: '2026-07-06'
 source: Geeky Gadgets
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.geeky-gadgets.com/google-gemini-3-5-pro-leaks/
+url_status: repaired
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: b9a99fe5fc4cd79e0555365901caab2ef85d947bec1da913be2aa82aeee6f05e
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
 event_name: ''
 ---
 

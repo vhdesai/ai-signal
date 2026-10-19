@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
-embedding_id: null
+embedding_id: 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 event_name: ''
 ---
 

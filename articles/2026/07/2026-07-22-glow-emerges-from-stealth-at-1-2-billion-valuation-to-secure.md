@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
-embedding_id: null
+embedding_id: 2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure
 event_name: ''
 ---
 

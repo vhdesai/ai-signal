@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-together-ai-takes-250-mw-of-saudi-capacity-from-humain-citin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-together-ai-takes-250mw-of-saudi-capacity-from-humain-citing
 event_name: ''
 ---
 

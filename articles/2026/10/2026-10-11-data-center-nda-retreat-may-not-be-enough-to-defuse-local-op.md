@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-embedding_id: null
+embedding_id: 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 event_name: ''
 ---
 

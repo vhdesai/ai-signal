@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo
 event_name: ''
 ---
 

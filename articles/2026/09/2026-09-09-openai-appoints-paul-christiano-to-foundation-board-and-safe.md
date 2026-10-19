@@ -6,7 +6,7 @@ date: '2026-09-09'
 source: OpenAI
 url_original: https://openai.com/index/paul-christiano-joins-openai-foundation-board/
 url_canonical: https://openai.com/index/paul-christiano-joins-openai-foundation-board/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-10_143512_Final-Daily-AI-News-Digest.md
 content_hash: a7ca7d2b2078f12b69d55b7ce462c36fd3081bf8011f186b9a730387a8fdcaf3
 normalized_title_hash: f6bf7dff959eb214
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-former-openai-executive-fidji-simo-joins-nscale-s-board
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-a-cartel-charge
 - 2026-09-19-three-frontier-labs-are-building-a-finra-style-safety-body-c
-embedding_id: null
+embedding_id: 2026-09-09-openai-appoints-paul-christiano-to-foundation-board-and-safe
 event_name: ''
 ---
 

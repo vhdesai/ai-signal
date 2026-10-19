@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 - 2026-09-10-spacex-overhauls-xai-data-center-build-out-reliability-over
-embedding_id: null
+embedding_id: 2026-09-02-vertiv-to-acquire-utilityinnovation-group-to-shorten-time-to
 event_name: ''
 ---
 

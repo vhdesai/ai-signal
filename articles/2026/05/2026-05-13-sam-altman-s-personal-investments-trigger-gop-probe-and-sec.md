@@ -4,8 +4,8 @@ title: Sam Altman's Personal Investments Trigger GOP Probe and SEC Referral
 date: '2026-05-13'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://stackfutures.com/blog/sam-altman-gop-sec-scrutiny-openai-ipo/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 9323a8ff4940cb9f3ba5d89e5385bbd3bdcc406863ed3bac7678a4dede37e0c6
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec
 event_name: ''
 ---
 

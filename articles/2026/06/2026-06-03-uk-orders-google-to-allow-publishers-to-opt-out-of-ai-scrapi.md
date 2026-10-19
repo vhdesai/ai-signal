@@ -4,8 +4,8 @@ title: UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search
 date: '2026-06-03'
 source: ABC News; VideoWeek; The Verge
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out
+url_status: repaired
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 8100d1b30d0be56072fd51b84a0cf070c1f69a9ca7bb42db9a3180e1e35a8d1f
@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
+- 2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie
 - 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
-- 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
-embedding_id: null
+embedding_id: 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The UK’s Competition and Markets Authority ordered Google to provide publisher
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]]
+**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]]
 <!-- graph:end -->

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-28-neocloud-lambda-secures-1b-in-debt-to-buy-nvidia-chips-for-m
 - 2026-08-28-lambda-secures-1-billion-in-private-debt-to-buy-more-nvidia
 - 2026-08-28-neocloud-lambda-raises-1b-in-private-debt-to-buy-nvidia-chip
-embedding_id: null
+embedding_id: 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
 event_name: ''
 ---
 

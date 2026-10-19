@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
-embedding_id: null
+embedding_id: 2026-09-13-anthropic-begins-enforcing-an-18-age-requirement-on-claude
 event_name: ''
 ---
 

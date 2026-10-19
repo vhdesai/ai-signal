@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-embedding_id: null
+embedding_id: 2026-05-08-claude-mythos-anthropic-s-next-generation-model-currently-in
 event_name: ''
 ---
 

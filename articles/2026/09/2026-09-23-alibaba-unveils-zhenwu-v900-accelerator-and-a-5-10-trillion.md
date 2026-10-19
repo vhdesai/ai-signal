@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-alibaba-s-zhenwu-v900-accelerator-supports-500-000-chip-clus
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 event_name: ''
 ---
 

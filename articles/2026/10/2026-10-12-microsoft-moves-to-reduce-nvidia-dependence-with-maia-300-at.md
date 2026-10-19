@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-embedding_id: null
+embedding_id: 2026-10-12-microsoft-moves-to-reduce-nvidia-dependence-with-maia-300-at
 event_name: ''
 ---
 

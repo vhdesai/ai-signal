@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-08-23-alibaba-raises-10-2-billion-in-hong-kong-earmarks-100-for-ai
-embedding_id: null
+embedding_id: 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
 event_name: ''
 ---
 

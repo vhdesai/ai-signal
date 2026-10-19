@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
 event_name: ''
 ---
 

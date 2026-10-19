@@ -5,7 +5,7 @@ date: '2026-07-08'
 source: OpenAI
 url_original: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
 url_canonical: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July
   9, 2026.md
 content_hash: 12c48097a656793c8ab08e55947b321348676ffc75297fd6ff522df0f8729a4c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-07-22-openai-publishes-research-on-capacity-measurement-for-fronti
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
-embedding_id: null
+embedding_id: 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 event_name: ''
 ---
 

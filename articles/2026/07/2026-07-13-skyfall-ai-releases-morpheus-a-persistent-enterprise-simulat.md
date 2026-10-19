@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+embedding_id: 2026-07-13-skyfall-ai-releases-morpheus-a-persistent-enterprise-simulat
 event_name: ''
 ---
 

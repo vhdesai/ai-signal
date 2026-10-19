@@ -26,7 +26,7 @@ related_article_ids:
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview
-embedding_id: null
+embedding_id: 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 event_name: ''
 ---
 

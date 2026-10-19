@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
-embedding_id: null
+embedding_id: 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
 event_name: ''
 ---
 

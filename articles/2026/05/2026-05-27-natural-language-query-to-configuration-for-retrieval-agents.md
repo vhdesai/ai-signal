@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 - 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
-embedding_id: null
+embedding_id: 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 event_name: ''
 ---
 

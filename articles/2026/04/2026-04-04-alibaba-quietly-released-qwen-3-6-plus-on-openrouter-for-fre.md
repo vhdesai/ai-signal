@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
-embedding_id: null
+embedding_id: 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 event_name: ''
 ---
 

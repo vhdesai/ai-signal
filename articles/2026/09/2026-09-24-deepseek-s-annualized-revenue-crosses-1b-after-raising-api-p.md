@@ -25,7 +25,7 @@ canonical_article_id: 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-
 related_article_ids:
 - 2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri
 - 2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise
-embedding_id: null
+embedding_id: 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p
 event_name: ''
 ---
 

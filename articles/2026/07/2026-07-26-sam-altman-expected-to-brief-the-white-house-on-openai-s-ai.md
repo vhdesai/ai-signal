@@ -4,8 +4,8 @@ title: Sam Altman expected to brief the White House on OpenAI's AI agenda
 date: '2026-07-26'
 source: Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/altman-white-house-openai-model-preview-agents
+url_status: repaired
 digest_source: digests\raw\2026-07-27-daily-ai-news-digest.md
 content_hash: 06ad41de2a8e650c0025d7e3d105cc05726a602d7cadd3c980c8466ca3ed4765
 normalized_title_hash: 85fa3e93ffb27fa9
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
 - 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
-embedding_id: null
+embedding_id: 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-embedding_id: null
+embedding_id: 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
 event_name: ''
 ---
 

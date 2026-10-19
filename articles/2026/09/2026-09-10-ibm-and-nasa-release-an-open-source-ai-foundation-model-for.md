@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
-embedding_id: null
+embedding_id: 2026-09-10-ibm-and-nasa-release-an-open-source-ai-foundation-model-for
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
-embedding_id: null
+embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
 

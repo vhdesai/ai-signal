@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: null
+embedding_id: 2026-10-13-venturebeat-survey-shows-openai-ahead-among-agent-platform-r
 event_name: ''
 ---
 

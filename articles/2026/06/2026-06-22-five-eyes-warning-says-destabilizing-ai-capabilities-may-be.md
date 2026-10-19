@@ -4,8 +4,8 @@ title: Five Eyes Warning Says Destabilizing AI Capabilities May Be Months Away
 date: '2026-06-22'
 source: The Guardian
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.independent.co.uk/tech/security/ai-cyber-security-five-eyes-b3001025.html
+url_status: repaired
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: d9e11853dfe2d49778215b2120c478703d6b6c87ca3cf6a50ec214aef9344ca6
 normalized_title_hash: 17b6e45d26c1da43
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 - 2026-08-18-uk-assesses-economic-exposure-to-losing-access-to-foreign-fr
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-embedding_id: null
+embedding_id: 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
 event_name: ''
 ---
 

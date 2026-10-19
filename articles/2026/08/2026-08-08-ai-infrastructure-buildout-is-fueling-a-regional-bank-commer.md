@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
-embedding_id: null
+embedding_id: 2026-08-08-ai-infrastructure-buildout-is-fueling-a-regional-bank-commer
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: 'Google Docs Live: AI voice drafting tool moves toward summer launch for 
 date: '2026-05-23'
 source: Wall Street Journal via Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://intellectia.ai/news/stock/handson-with-a-prerelease-build-of-google-docs-live-an-aipowered-voice-tool-for-drafting-documents-rolling-out-this-summer-to-ai-pro-and-ultra-subscribers-nicole-nguyenwall-street-journal
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: d33dfe8baab43df61dd52b753b265c82e2bc2ca236714332e081e492f89228e8
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-08-26-google-launches-gemini-3-5-transcribe-its-most-precise-speec
 - 2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr
-embedding_id: null
+embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
 

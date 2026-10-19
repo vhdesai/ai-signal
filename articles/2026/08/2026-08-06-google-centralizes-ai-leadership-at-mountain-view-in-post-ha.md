@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 - 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
-embedding_id: null
+embedding_id: 2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-constraining
-embedding_id: null
+embedding_id: 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 event_name: ''
 ---
 

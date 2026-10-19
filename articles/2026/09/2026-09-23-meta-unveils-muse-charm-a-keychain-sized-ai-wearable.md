@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-meta-previews-muse-charm-a-pocket-wearable-for-its-ai-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable
 event_name: ''
 ---
 

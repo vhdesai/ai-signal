@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin
-embedding_id: null
+embedding_id: 2026-04-16-us-federal-agencies-are-quietly-evaluating-anthropic-s-claud
 event_name: ''
 ---
 

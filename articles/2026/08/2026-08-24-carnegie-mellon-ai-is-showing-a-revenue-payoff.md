@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 - 2026-08-22-goldman-sachs-assesses-when-ai-will-begin-delivering-meaning
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
-embedding_id: null
+embedding_id: 2026-08-24-carnegie-mellon-ai-is-showing-a-revenue-payoff
 event_name: ''
 ---
 

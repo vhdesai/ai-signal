@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-moonshot-ai-reportedly-in-revenue-share-talks-to-host-kimi-k
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs
-embedding_id: null
+embedding_id: 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 event_name: ''
 ---
 

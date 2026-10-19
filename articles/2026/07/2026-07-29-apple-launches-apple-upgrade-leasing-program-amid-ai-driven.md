@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-embedding_id: null
+embedding_id: 2026-07-29-apple-launches-apple-upgrade-leasing-program-amid-ai-driven
 event_name: ''
 ---
 

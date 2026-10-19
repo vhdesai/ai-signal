@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-embedding_id: null
+embedding_id: 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 event_name: ''
 ---
 

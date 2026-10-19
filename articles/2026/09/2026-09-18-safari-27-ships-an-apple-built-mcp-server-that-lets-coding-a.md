@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-safari-27-ships-a-built-in-mcp-server-handing-coding-agents
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-18-safari-27-ships-an-apple-built-mcp-server-that-lets-coding-a
 event_name: ''
 ---
 

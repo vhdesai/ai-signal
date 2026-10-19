@@ -6,7 +6,7 @@ date: '2026-08-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/
 url_canonical: https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 883328d95382b5a68eccc19295321befcb606839e7785169f4d2d4f37d478b40
@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
-embedding_id: null
+embedding_id: 2026-08-06-openai-partners-with-the-american-psychological-association
 event_name: ''
 ---
 

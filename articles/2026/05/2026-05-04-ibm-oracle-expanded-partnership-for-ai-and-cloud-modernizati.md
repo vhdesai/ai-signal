@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 - 2026-08-13-ibm-embeds-openai-models-across-its-consulting-delivery-plat
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
-embedding_id: null
+embedding_id: 2026-05-04-ibm-oracle-expanded-partnership-for-ai-and-cloud-modernizati
 event_name: ''
 ---
 

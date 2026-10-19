@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
-embedding_id: null
+embedding_id: 2026-07-09-can-ai-answer-the-3-trillion-question
 event_name: ''
 ---
 

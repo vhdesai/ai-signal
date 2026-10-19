@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
-embedding_id: null
+embedding_id: 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
 event_name: ''
 ---
 

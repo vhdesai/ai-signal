@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-founder-le
 - 2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov
-embedding_id: null
+embedding_id: 2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases
 event_name: ''
 ---
 

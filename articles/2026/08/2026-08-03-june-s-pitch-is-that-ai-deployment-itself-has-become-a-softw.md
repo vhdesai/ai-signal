@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
-embedding_id: null
+embedding_id: 2026-08-03-june-s-pitch-is-that-ai-deployment-itself-has-become-a-softw
 event_name: ''
 ---
 

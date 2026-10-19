@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 - 2026-08-26-openai-s-hugging-face-breach-report-finds-agents-were-reward
-embedding_id: null
+embedding_id: 2026-08-19-researchers-say-openai-revoked-their-access-to-cyber-securit
 event_name: ''
 ---
 

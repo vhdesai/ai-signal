@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-warp-introduces-factories-an-out-of-the-box-infrastructure-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-warp-introduces-factories-out-of-the-box-infrastructure-for
 event_name: ''
 ---
 

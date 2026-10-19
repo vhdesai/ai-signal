@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
-embedding_id: null
+embedding_id: 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
 event_name: ''
 ---
 

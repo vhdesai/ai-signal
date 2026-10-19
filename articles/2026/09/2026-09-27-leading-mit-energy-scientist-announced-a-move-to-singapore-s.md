@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-centers
-embedding_id: null
+embedding_id: 2026-09-27-leading-mit-energy-scientist-announced-a-move-to-singapore-s
 event_name: ''
 ---
 

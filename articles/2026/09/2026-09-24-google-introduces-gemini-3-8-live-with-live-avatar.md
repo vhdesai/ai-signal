@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-15-google-deepmind-releases-gemini-3-8-live-and-3-8-live-extend
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-embedding_id: null
+embedding_id: 2026-09-24-google-introduces-gemini-3-8-live-with-live-avatar
 event_name: ''
 ---
 

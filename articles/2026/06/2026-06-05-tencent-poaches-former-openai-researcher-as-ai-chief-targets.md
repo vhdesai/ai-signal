@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 - 2026-08-26-openai-s-executive-exodus-widens-with-departure-of-data-cent
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
-embedding_id: null
+embedding_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 event_name: ''
 ---
 

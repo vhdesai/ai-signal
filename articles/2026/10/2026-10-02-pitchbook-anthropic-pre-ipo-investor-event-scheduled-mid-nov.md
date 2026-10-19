@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 - 2026-09-20-anthropic-reportedly-delays-ipo-to-november-to-present-a-str
-embedding_id: null
+embedding_id: 2026-10-02-pitchbook-anthropic-pre-ipo-investor-event-scheduled-mid-nov
 event_name: ''
 ---
 

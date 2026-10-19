@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-20-john-jumper-the-chemist-and-computer-scientist-who-shared-th
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 - 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
-embedding_id: null
+embedding_id: 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 event_name: ''
 ---
 

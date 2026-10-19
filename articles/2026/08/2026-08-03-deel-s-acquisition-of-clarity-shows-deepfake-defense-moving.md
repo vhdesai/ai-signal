@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or
 - 2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter
 - 2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter
-embedding_id: null
+embedding_id: 2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
 - 2026-08-11-ltx-2-5-open-weights-video-generation-model-10-second-clips
 - 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
-embedding_id: null
+embedding_id: 2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1
 event_name: ''
 ---
 

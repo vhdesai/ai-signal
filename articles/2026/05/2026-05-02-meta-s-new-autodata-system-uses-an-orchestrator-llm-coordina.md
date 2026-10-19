@@ -5,8 +5,8 @@ title: Meta's new Autodata system uses an orchestrator LLM coordinating four spe
 date: '2026-05-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_071601_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 41d6814935e551004fbd0beb9b18543c1438c6803477bf87d4148f29f8f93f77
 normalized_title_hash: 204e52eec63fba71
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
 - 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
-embedding_id: null
+embedding_id: 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 event_name: ''
 ---
 

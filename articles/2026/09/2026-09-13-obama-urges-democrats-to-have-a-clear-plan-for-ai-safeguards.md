@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-obama-urges-democrats-to-make-ai-safeguards-a-central-agenda
 - 2026-09-13-obama-urges-democrats-to-make-ai-a-central-agenda-item
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
-embedding_id: null
+embedding_id: 2026-09-13-obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards
 event_name: ''
 ---
 

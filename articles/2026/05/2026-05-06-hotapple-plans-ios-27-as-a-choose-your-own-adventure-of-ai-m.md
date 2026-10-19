@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
-embedding_id: null
+embedding_id: 2026-05-06-hotapple-plans-ios-27-as-a-choose-your-own-adventure-of-ai-m
 event_name: ''
 ---
 

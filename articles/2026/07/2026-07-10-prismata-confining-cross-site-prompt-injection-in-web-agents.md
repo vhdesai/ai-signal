@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 - 2026-09-05-uc-berkeley-researchers-release-cua-lite-an-open-platform-fo
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-embedding_id: null
+embedding_id: 2026-07-10-prismata-confining-cross-site-prompt-injection-in-web-agents
 event_name: ''
 ---
 

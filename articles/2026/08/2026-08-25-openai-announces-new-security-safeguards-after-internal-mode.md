@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 - 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
-embedding_id: null
+embedding_id: 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 - 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-embedding_id: null
+embedding_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 event_name: ''
 ---
 

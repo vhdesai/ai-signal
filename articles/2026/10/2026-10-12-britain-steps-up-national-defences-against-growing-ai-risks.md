@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-would-contain-a-ro
 - 2026-09-27-daily-ai-news-digest-september-27-2026
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
-embedding_id: null
+embedding_id: 2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks
 event_name: ''
 ---
 

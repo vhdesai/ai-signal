@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-01-how-the-fda-is-building-a-secure-ai-ready-data-foundation-on
 - 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
 - 2026-09-03-doj-urges-judge-to-rule-for-openai-microsoft-in-new-york-tim
-embedding_id: null
+embedding_id: 2026-08-18-fda-opens-public-docket-on-regulating-generative-ai-enabled
 event_name: ''
 ---
 

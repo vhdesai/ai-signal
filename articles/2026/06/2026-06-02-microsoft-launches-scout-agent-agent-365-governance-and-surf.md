@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
 - event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 - event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
-embedding_id: null
+embedding_id: 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
 event_name: ''
 ---
 

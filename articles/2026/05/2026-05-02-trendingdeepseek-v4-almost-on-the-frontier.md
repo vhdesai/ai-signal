@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-deepseek-releases-v4-pro-with-1m-token-context-at-commodity
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
-embedding_id: null
+embedding_id: 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 event_name: ''
 ---
 

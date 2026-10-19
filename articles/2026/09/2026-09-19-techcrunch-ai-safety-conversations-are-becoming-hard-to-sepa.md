@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: null
+embedding_id: 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 event_name: ''
 ---
 

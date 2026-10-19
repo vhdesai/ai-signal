@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-09-26-engadget-details-the-specifics-census-credentials-an-sec-for
 - 2026-10-05-openai-introduces-visual-chatgpt-ads-and-expanded-measuremen
-embedding_id: null
+embedding_id: 2026-09-21-researcher-documents-a-chatgpt-cross-site-ad-cookie-linking
 event_name: ''
 ---
 

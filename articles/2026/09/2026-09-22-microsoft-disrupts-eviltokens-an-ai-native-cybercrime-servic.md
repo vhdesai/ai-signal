@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets
 - 2026-09-26-first-known-malware-botnet-weaponizes-xai-grok-s-api-for-off
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
-embedding_id: null
+embedding_id: 2026-09-22-microsoft-disrupts-eviltokens-an-ai-native-cybercrime-servic
 event_name: ''
 ---
 

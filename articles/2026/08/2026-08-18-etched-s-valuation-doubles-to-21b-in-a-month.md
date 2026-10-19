@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month
 event_name: ''
 ---
 

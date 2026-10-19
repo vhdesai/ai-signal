@@ -5,8 +5,8 @@ title: MIT disclosed a 20% decline in incoming graduate students — a significa
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://keynews.ai/news/mit-20-drop-in-incoming-graduate-students-19641
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 1f3d387eaa7e90d72f048d1514eacd21ddbc12c24d5587dca19055cb5699d4f3
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-embedding_id: null
+embedding_id: 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-08-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/
 url_canonical: https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-02_061105_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: cb874c0ccd1207b97d3f5e3d3a73862c35b11cdd1d9922c7aee8d88401b3b92e
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 - 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
-embedding_id: null
+embedding_id: 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
 event_name: ''
 ---
 

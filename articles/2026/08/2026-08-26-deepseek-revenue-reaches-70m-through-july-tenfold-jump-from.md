@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-deepseek-revenue-reaches-70-million-through-july-10x-jump-fr
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from
 event_name: ''
 ---
 

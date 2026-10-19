@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
-embedding_id: null
+embedding_id: 2026-07-17-spacex-reportedly-discusses-providing-compute-for-pentagon-a
 event_name: ''
 ---
 

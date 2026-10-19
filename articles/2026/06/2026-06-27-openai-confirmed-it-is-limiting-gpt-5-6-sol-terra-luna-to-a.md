@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
-embedding_id: null
+embedding_id: 2026-06-27-openai-confirmed-it-is-limiting-gpt-5-6-sol-terra-luna-to-a
 event_name: ''
 ---
 

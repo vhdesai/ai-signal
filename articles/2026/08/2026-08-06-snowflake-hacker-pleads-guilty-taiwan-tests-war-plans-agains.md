@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
-embedding_id: null
+embedding_id: 2026-08-06-snowflake-hacker-pleads-guilty-taiwan-tests-war-plans-agains
 event_name: ''
 ---
 

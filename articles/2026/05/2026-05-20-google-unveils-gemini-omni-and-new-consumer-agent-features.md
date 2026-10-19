@@ -4,8 +4,8 @@ title: Google unveils Gemini Omni and new consumer-agent features
 date: '2026-05-20'
 source: The Information
 url_original: https://www.theinformation.com/briefings/google-unveils-new-video-model-search-upgrades
-url_canonical: https://www.theinformation.com/briefings/google-unveils-new-video-model-search-upgrades
-url_status: broken
+url_canonical: https://deepmind.google/models/gemini-omni/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 32a0e3201b2fee140045aeddfa83aace7256c6fa0c0fb0e1041484802817897e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
-embedding_id: null
+embedding_id: 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
 event_name: ''
 ---
 

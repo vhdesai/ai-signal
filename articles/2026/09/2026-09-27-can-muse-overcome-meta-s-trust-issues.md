@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-meta-admits-muse-s-likeness-to-openclaw-isn-t-a-coincidence
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
 - 2026-09-27-meta-s-muse-reportedly-has-a-one-click-vulnerability-smart-g
-embedding_id: null
+embedding_id: 2026-09-27-can-muse-overcome-meta-s-trust-issues
 event_name: ''
 ---
 

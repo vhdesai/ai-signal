@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-usage-priced-co
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
-embedding_id: null
+embedding_id: 2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f
 event_name: ''
 ---
 

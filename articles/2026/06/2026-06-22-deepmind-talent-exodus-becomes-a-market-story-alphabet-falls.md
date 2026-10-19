@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-17-daily-ai-news-digest-june-18-2026
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 - 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
-embedding_id: null
+embedding_id: 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 event_name: ''
 ---
 

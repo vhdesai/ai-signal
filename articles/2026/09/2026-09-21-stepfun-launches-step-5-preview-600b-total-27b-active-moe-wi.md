@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million
 - 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
-embedding_id: null
+embedding_id: 2026-09-21-stepfun-launches-step-5-preview-600b-total-27b-active-moe-wi
 event_name: ''
 ---
 

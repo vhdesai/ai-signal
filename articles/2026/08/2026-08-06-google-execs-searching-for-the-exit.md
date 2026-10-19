@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-09-13-google-deepmind-safety-researcher-resigns-warns-of-terrifyin
 - 2026-08-14-the-great-openai-exec-exodus-pitchbook-maps-the-leadership-d
-embedding_id: null
+embedding_id: 2026-08-06-google-execs-searching-for-the-exit
 event_name: ''
 ---
 

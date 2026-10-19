@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
-embedding_id: null
+embedding_id: 2026-06-11-reuters-anthropic-v-openai-behind-the-bitter-battle-for-ai-s
 event_name: ''
 ---
 

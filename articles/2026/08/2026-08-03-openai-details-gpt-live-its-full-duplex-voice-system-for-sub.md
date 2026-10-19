@@ -6,7 +6,7 @@ date: '2026-08-03'
 source: OpenAI
 url_original: https://openai.com/index/continuous-voice-interaction-with-gpt-live/
 url_canonical: https://openai.com/index/continuous-voice-interaction-with-gpt-live/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_060905_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: fe5ce182382796c84480889fe835a446364a129d01b6efeaef979fb0cd69c591
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
-embedding_id: null
+embedding_id: 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
 event_name: ''
 ---
 

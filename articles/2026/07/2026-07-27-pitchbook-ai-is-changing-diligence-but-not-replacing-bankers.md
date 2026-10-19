@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
-embedding_id: null
+embedding_id: 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 event_name: ''
 ---
 

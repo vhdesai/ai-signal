@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 - 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
-embedding_id: null
+embedding_id: 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
 event_name: ''
 ---
 

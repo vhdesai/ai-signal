@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Cybersecurity News
 url_original: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
 url_canonical: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 824e4f90d23642ec3fc727fd0a2b351de1cc595d2150ef896733ae72471c8c81
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 event_name: ''
 ---
 

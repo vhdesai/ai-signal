@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-22-rare-book-sales-booming-they-re-getting-sliced-up-and-fed-to
 - 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for
 - 2026-08-17-ai-has-plunged-the-book-publishing-industry-into-chaos
-embedding_id: null
+embedding_id: 2026-08-22-rare-book-sales-are-booming-they-re-getting-sliced-up-and-fe
 event_name: ''
 ---
 

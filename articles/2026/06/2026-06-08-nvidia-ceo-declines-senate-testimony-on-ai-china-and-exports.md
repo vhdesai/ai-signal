@@ -4,8 +4,8 @@ title: Nvidia CEO Declines Senate Testimony on AI, China, and Exports
 date: '2026-06-08'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html
+url_status: repaired
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 04fb70c52c319c8d5d5413744f8e94ef09c2f35a7bbdabb17b320d49763203df
 normalized_title_hash: 50019f499e6c762f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 - 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
-embedding_id: null
+embedding_id: 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-google-commits-13b-15-1b-to-finnish-ai-infrastructure-its-la
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar
 event_name: ''
 ---
 

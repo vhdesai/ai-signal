@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-situational-awareness-puts-400m-into-chip-startup-source-fou
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
-embedding_id: null
+embedding_id: 2026-07-19-netflix-paid-587m-for-ben-affleck-s-ai-filmmaking-startup
 event_name: ''
 ---
 

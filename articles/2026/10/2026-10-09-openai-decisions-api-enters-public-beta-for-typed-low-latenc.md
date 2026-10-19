@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
-embedding_id: null
+embedding_id: 2026-10-09-openai-decisions-api-enters-public-beta-for-typed-low-latenc
 event_name: ''
 ---
 

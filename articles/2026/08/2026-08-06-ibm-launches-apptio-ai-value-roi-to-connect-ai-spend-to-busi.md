@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 - 2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand
-embedding_id: null
+embedding_id: 2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi
 event_name: ''
 ---
 

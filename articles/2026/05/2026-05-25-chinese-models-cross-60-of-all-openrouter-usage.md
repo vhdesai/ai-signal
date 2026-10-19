@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro
 - 2026-09-26-chinese-model-providers-take-majority-token-share-on-major-d
-embedding_id: null
+embedding_id: 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 event_name: ''
 ---
 

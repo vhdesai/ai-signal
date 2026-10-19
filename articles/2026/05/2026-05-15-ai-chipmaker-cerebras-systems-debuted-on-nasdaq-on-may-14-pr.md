@@ -5,8 +5,8 @@ title: AI chipmaker Cerebras Systems debuted on Nasdaq on May 14, pricing at $18
 date: '2026-05-15'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html
+url_status: repaired
 digest_source: digests\raw\2026-05-15_070542_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 09eb4e9f17c35fbe5181ebdc862b4d2777a52bc3894ab6ab90a28ab85410f4e5
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 - 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
-embedding_id: null
+embedding_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 event_name: ''
 ---
 

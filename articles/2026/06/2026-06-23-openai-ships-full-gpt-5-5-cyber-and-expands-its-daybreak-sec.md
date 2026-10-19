@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
-embedding_id: null
+embedding_id: 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-embedding_id: null
+embedding_id: 2026-07-06-path-constrained-mixture-of-experts
 event_name: ''
 ---
 

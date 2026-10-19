@@ -5,8 +5,8 @@ title: 'Two Speeds of Learning: a representation-readout decomposition of grokki
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.27078
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 65939ccb538c3fbdfde3a77e6e76b1a9cc9972639ca2661ff0aaf54db154220c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
-embedding_id: null
+embedding_id: 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 event_name: ''
 ---
 

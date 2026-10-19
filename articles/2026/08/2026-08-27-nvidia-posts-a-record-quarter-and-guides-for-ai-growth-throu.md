@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-forecasts-70-ai-chip-growt
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
-embedding_id: null
+embedding_id: 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
 event_name: ''
 ---
 

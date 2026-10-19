@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-15-alibaba-releases-qwen3-8-27b-open-weights-with-long-context
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
-embedding_id: null
+embedding_id: 2026-08-15-alibaba-s-qwen-crosses-3-billion-downloads-overtaking-meta-a
 event_name: ''
 ---
 

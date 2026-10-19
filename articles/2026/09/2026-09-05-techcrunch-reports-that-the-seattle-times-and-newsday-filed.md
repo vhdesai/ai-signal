@@ -30,7 +30,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai
 related_article_ids:
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
-embedding_id: null
+embedding_id: 2026-09-05-techcrunch-reports-that-the-seattle-times-and-newsday-filed
 event_name: ''
 ---
 

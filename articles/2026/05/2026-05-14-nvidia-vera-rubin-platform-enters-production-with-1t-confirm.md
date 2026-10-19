@@ -4,8 +4,8 @@ title: NVIDIA Vera Rubin Platform Enters Production With $1T+ Confirmed Demand
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: ddd48c0c4c919869adba6ed87f84ae4616297c20c35ad5359837fca523d0ff9f
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-embedding_id: null
+embedding_id: 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 event_name: ''
 ---
 

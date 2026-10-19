@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-embedding_id: null
+embedding_id: 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
 event_name: ''
 ---
 

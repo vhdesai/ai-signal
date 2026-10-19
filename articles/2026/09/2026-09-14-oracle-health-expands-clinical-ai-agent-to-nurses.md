@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-26-insurers-say-ai-coding-tools-are-already-increasing-healthca
 - 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-embedding_id: null
+embedding_id: 2026-09-14-oracle-health-expands-clinical-ai-agent-to-nurses
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-15-morgan-stanley-china-now-leads-us-in-consumer-ai-adoption-on
 - 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-embedding_id: null
+embedding_id: 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
 event_name: ''
 ---
 

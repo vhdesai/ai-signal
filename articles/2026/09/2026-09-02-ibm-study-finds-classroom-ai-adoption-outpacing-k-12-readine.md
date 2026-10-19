@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-google-and-microsoft-race-to-wire-us-schools-with-ai
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
-embedding_id: null
+embedding_id: 2026-09-02-ibm-study-finds-classroom-ai-adoption-outpacing-k-12-readine
 event_name: ''
 ---
 

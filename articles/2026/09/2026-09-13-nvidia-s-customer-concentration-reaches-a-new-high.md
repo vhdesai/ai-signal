@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-nvidia-s-growing-dependence-on-a-handful-of-ai-customers
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
-embedding_id: null
+embedding_id: 2026-09-13-nvidia-s-customer-concentration-reaches-a-new-high
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 - 2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis
 - 2026-09-17-the-information-same-flaw-found-across-claude-code-codex-gem
-embedding_id: null
+embedding_id: 2026-08-19-microsoft-patches-one-click-copilot-data-exfiltration-flaw-a
 event_name: ''
 ---
 

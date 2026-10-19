@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
-embedding_id: null
+embedding_id: 2026-07-14-microsoft-opens-dataverse-to-copilot-claude-and-cursor-codin
 event_name: ''
 ---
 

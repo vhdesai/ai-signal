@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-08-21-deepseek-ships-v4-flash-vision-exp-an-experimental-multimoda
-embedding_id: null
+embedding_id: 2026-06-01-smartbear-adds-vision-ai-to-testcomplete-for-visual-testing
 event_name: ''
 ---
 

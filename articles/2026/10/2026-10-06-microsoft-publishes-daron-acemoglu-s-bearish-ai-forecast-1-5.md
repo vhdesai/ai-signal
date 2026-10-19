@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-embedding_id: null
+embedding_id: 2026-10-06-microsoft-publishes-daron-acemoglu-s-bearish-ai-forecast-1-5
 event_name: ''
 ---
 

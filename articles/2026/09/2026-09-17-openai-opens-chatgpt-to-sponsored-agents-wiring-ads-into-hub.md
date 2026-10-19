@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-embedding_id: null
+embedding_id: 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
 event_name: ''
 ---
 

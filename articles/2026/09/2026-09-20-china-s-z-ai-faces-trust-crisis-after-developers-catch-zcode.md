@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: null
+embedding_id: 2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode
 event_name: ''
 ---
 

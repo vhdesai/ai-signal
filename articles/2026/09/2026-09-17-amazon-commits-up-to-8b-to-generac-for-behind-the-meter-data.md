@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-12-hyperscalers-growth-hinges-on-how-fast-they-can-ship-their-o
 - 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-embedding_id: null
+embedding_id: 2026-09-17-amazon-commits-up-to-8b-to-generac-for-behind-the-meter-data
 event_name: ''
 ---
 

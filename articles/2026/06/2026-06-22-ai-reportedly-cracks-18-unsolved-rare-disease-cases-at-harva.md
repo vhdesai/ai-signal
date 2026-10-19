@@ -4,8 +4,8 @@ title: AI Reportedly Cracks 18 Unsolved Rare-Disease Cases at Harvard/Boston Chi
 date: '2026-06-22'
 source: DjamgaTech
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techinformed.com/boston-childrens-uses-ai-to-diagnose-previously-unsolved-rare-diseases/
+url_status: repaired
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: a466508947f4cd3bebdadcebc80d61b2d6c7dd6eae6528de6ba73ab7f28993a7
 normalized_title_hash: 22ce8cb1c831489f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
-embedding_id: null
+embedding_id: 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
 event_name: ''
 ---
 

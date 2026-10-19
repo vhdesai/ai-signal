@@ -4,8 +4,8 @@ title: AWS CEO Pushes Back on AI Job-Apocalypse Warnings
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://lumidanews.com/amazon-aws-ceo-pushes-back-hard-on-ai-job-apocalypse-fears/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: bf0d7aed31291ff3cd9aef18a10b7e50b9a7585aa54e0612d2bae38294a098ec
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
-embedding_id: null
+embedding_id: 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 event_name: ''
 ---
 

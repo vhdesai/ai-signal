@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
-embedding_id: null
+embedding_id: 2026-09-11-google-cloud-publishes-thomas-kurian-s-goldman-sachs-communi
 event_name: ''
 ---
 

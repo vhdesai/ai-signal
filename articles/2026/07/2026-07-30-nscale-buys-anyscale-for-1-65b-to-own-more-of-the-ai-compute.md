@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-nscale-buys-anyscale-to-own-more-of-the-ai-compute-stack
 - 2026-07-30-nscale-s-anyscale-deal-shows-ai-compute-providers-moving-up
 - 2026-07-30-nscale-to-acquire-anyscale-for-1-65b
-embedding_id: null
+embedding_id: 2026-07-30-nscale-buys-anyscale-for-1-65b-to-own-more-of-the-ai-compute
 event_name: ''
 ---
 

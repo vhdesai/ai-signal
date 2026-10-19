@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-09-06-xai-loses-another-round-against-minnesota-s-synthetic-imager
-embedding_id: null
+embedding_id: 2026-08-03-minnesota-s-law-is-a-significant-early-example-of-direct-sta
 event_name: ''
 ---
 

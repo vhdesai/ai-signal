@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-25-samsung-sds-rolls-claude-enterprise-out-to-about-70-000-empl
 event_name: ''
 ---
 

@@ -39,7 +39,7 @@ related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
-embedding_id: null
+embedding_id: 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 event_name: ''
 ---
 

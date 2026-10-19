@@ -21,10 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
+- 2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o
 - 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
-- 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
-- 2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag
-embedding_id: null
+- 2026-10-18-mit-combines-crystal-geometry-and-language-for-materials-dis
+embedding_id: 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ MIT described an ongoing survey comparing accelerator performance and power from
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-10-11-today-s-verified-reporting-centers-on-human-control-of-ai-ag]]
+**Related:** [[2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]] · [[2026-10-18-mit-combines-crystal-geometry-and-language-for-materials-dis]]
 <!-- graph:end -->

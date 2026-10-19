@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/building-abundant-intelligence/
 url_canonical: https://openai.com/index/building-abundant-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_061413_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 73cde1799e538c6e7b4e57a979d086f4de703df3e4d7a35065b8476e343cde13
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-openai-cfo-proposes-a-scorecard-for-measuring-ai-value
 - 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: null
+embedding_id: 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 event_name: ''
 ---
 

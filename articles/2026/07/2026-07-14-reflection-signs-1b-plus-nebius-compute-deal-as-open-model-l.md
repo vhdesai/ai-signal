@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
 event_name: ''
 ---
 

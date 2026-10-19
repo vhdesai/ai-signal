@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable
-embedding_id: null
+embedding_id: 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 event_name: ''
 ---
 

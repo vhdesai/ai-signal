@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
 - 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
-embedding_id: null
+embedding_id: 2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition
 event_name: ''
 ---
 

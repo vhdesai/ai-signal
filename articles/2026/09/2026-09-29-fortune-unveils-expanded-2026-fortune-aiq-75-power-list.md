@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-embedding_id: null
+embedding_id: 2026-09-29-fortune-unveils-expanded-2026-fortune-aiq-75-power-list
 event_name: ''
 ---
 

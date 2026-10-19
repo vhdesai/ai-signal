@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-embedding_id: null
+embedding_id: 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 event_name: ''
 ---
 

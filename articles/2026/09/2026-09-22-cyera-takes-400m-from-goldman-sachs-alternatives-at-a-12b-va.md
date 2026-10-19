@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
 - 2026-09-22-wsj-cybersecurity-is-getting-white-hot-investor-interest-cye
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
-embedding_id: null
+embedding_id: 2026-09-22-cyera-takes-400m-from-goldman-sachs-alternatives-at-a-12b-va
 event_name: ''
 ---
 

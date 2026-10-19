@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 - 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
-embedding_id: null
+embedding_id: 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 event_name: ''
 ---
 

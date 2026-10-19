@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
-embedding_id: null
+embedding_id: 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
 event_name: ''
 ---
 

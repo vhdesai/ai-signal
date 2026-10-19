@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-samsung-health-ai-models-analyze-wearable-biosignal-data-on
 - 2026-08-31-ai-disruption-in-electronic-health-records-accelerates-as-ve
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
-embedding_id: null
+embedding_id: 2026-08-15-ai-powered-wearables-race-to-become-health-intelligence-plat
 event_name: ''
 ---
 

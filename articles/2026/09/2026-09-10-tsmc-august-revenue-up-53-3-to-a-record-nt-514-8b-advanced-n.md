@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
-embedding_id: null
+embedding_id: 2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n
 event_name: ''
 ---
 

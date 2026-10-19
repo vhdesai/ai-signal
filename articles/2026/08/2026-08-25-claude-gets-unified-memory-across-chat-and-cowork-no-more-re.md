@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-claude-cowork-finally-remembers-what-you-told-the-app-in-cha
 - 2026-08-24-anthropic-s-claude-tag-update-reportedly-lets-its-slack-agen
 - 2026-09-17-anthropic-launches-claude-code-projects-in-beta-for-persiste
-embedding_id: null
+embedding_id: 2026-08-25-claude-gets-unified-memory-across-chat-and-cowork-no-more-re
 event_name: ''
 ---
 

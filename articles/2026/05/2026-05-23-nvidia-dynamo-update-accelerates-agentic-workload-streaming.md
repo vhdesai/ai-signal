@@ -4,8 +4,8 @@ title: NVIDIA Dynamo update accelerates agentic workload streaming
 date: '2026-05-23'
 source: Chip Beat Daily Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 1a02fe73e4c26dc60ed2cc132060e38a3b08c8579c09c570e372f00da280ca52
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
-embedding_id: null
+embedding_id: 2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming
 event_name: ''
 ---
 

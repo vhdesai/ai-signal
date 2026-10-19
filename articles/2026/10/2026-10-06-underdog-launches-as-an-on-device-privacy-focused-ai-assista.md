@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
 - 2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an
 - 2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha
-embedding_id: null
+embedding_id: 2026-10-06-underdog-launches-as-an-on-device-privacy-focused-ai-assista
 event_name: ''
 ---
 

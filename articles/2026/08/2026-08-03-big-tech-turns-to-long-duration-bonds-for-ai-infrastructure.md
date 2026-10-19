@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 event_name: ''
 ---
 

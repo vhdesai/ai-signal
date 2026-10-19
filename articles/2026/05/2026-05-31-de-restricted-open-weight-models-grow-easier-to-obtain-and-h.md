@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
-embedding_id: null
+embedding_id: 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 event_name: ''
 ---
 

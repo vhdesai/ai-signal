@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-jensen-huang-emerges-as-the-white-house-s-closest-ally-in-th
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-09-14-jensen-huang-tells-trump-onstage-we-re-not-going-to-let-an-a
-embedding_id: null
+embedding_id: 2026-09-20-altman-huang-cook-and-musk-reported-as-confirmed-for-the-tru
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: KwaiKAT releases KAT-Coder-V2.5 trained on 100,000+ repository environmen
 date: '2026-07-26'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/
+url_status: repaired
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: b0b4bb5639e9325628ebe80e5ae581fc5291ffdd068f3f24dad2677bd3056f78
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-trained-on-100-000-repositor
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 - 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 - 2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-label-on-an
-embedding_id: null
+embedding_id: 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 event_name: ''
 ---
 

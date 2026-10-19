@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: OpenAI
 url_original: https://openai.com/index/ai-native-company-workflows/
 url_canonical: https://openai.com/index/ai-native-company-workflows/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: a7c63bebf083ec1a52a11566142e7c2c79f79f4348b307b11fbf2c56ecdc7da4
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 - 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-embedding_id: null
+embedding_id: 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 event_name: ''
 ---
 

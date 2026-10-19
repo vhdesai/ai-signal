@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
-embedding_id: null
+embedding_id: 2026-05-26-novarc-and-hanwha-ocean-sign-mou-on-ai-powered-shipbuilding
 event_name: ''
 ---
 

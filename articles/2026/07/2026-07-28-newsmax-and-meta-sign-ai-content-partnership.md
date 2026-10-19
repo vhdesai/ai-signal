@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-embedding_id: null
+embedding_id: 2026-07-28-newsmax-and-meta-sign-ai-content-partnership
 event_name: ''
 ---
 

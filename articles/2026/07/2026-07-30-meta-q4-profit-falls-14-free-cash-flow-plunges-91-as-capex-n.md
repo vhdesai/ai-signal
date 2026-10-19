@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b
 - 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
-embedding_id: null
+embedding_id: 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
 event_name: ''
 ---
 

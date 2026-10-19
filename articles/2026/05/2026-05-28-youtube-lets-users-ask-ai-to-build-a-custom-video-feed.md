@@ -4,8 +4,8 @@ title: YouTube lets users ask AI to build a custom video feed
 date: '2026-05-28'
 source: The Verge / Mashable / Engadget
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 3aa7a10a7dc6281dbe6132fae37c572e6944b2792b707b09b3d135a2a6847371
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-07-20-youtube-clarifies-monetization-rules-for-ai-generated-and-lo
-embedding_id: null
+embedding_id: 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 event_name: ''
 ---
 

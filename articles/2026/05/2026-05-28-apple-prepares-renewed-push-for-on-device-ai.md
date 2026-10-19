@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
-embedding_id: null
+embedding_id: 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 - 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
-embedding_id: null
+embedding_id: 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
 event_name: ''
 ---
 

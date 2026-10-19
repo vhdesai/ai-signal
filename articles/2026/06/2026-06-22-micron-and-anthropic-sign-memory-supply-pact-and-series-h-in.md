@@ -4,8 +4,8 @@ title: Micron and Anthropic Sign Memory Supply Pact and Series H Investment
 date: '2026-06-22'
 source: Reuters / CNA
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://investors.micron.com/news/press-release/2026/Micron-and-Anthropic-Announce-Strategic-Agreement-to-Scale-Next-Generation-AI-Infrastructure/default.aspx
+url_status: repaired
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 9c06c54a547e3071de45b3ff28752304127e9370991c67ca4deb09f8d5813ee4
 normalized_title_hash: 37edc881e090dddc
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-09-06-micron-s-fully-booked-advanced-fabs-spotlight-ai-memory-cons
 - 2026-08-21-micron-commits-10b-to-a-boise-research-hub-targeting-post-dr
-embedding_id: null
+embedding_id: 2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in
 event_name: ''
 ---
 

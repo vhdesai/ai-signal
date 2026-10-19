@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-07-reuters-ipsos-poll-finds-most-u-s-voters-say-leaders-are-not
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
-embedding_id: null
+embedding_id: 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 event_name: ''
 ---
 

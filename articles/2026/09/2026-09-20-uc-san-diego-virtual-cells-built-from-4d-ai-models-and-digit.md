@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
-embedding_id: null
+embedding_id: 2026-09-20-uc-san-diego-virtual-cells-built-from-4d-ai-models-and-digit
 event_name: ''
 ---
 

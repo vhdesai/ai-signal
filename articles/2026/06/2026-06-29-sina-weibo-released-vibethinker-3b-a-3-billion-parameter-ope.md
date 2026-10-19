@@ -5,8 +5,8 @@ title: Sina Weibo released VibeThinker‑3B, a 3-billion-parameter open model th
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cryptobriefing.com/sina-weibo-vibethinker-3b-matches-top-ai-models/
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 9aa518668ee9fb24630dd109d108e964e0a2d694a53cf0a6f78f720f60edcfda
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 - 2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l
-embedding_id: null
+embedding_id: 2026-06-29-sina-weibo-released-vibethinker-3b-a-3-billion-parameter-ope
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Infrastructure Markets SK Hynix launches ~$28B US share sale on AI-memory
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/319824/20260707/sk-hynix-launches-record-28b-nasdaq-listing-hbm-shortage-locks-ai-memory-lead.htm
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 52db933d577edc4d891b376dc4b50503dac587ab0b3331b988da2be1abaff04e
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
-embedding_id: null
+embedding_id: 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Trending UC San Diego Admits First Cohort for New Undergraduate AI Major
 date: '2026-05-19'
 source: EdSource
 url_original: https://edsource.org/2026/uc-san-diego-ai-degrees/757604
-url_canonical: https://edsource.org/2026/uc-san-diego-ai-degrees/757604
-url_status: broken
+url_canonical: https://hoodline.com/2026/05/ai-turf-war-breaks-out-as-uc-san-diego-unleashes-new-major/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 5751a74b7a6a999a6694935c4eb4048775fb57b43f0568ef87e26162452fd05b
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-embedding_id: null
+embedding_id: 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 event_name: ''
 ---
 

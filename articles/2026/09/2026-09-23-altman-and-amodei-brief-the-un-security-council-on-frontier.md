@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-altman-and-amodei-brief-the-un-security-council-as-21-nation
 - 2026-09-24-altman-and-amodei-brief-un-security-council-openai-expands-u
-embedding_id: null
+embedding_id: 2026-09-23-altman-and-amodei-brief-the-un-security-council-on-frontier
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-databricks-hits-7b-arr-reveals-5b-round-details-after-15b-of
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 event_name: ''
 ---
 

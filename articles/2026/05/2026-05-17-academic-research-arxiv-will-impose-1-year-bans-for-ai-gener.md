@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
 - 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
-embedding_id: null
+embedding_id: 2026-05-17-academic-research-arxiv-will-impose-1-year-bans-for-ai-gener
 event_name: ''
 ---
 

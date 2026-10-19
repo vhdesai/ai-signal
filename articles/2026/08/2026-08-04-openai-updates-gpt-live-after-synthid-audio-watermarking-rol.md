@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: OpenAI Blog
 url_original: https://openai.com/index/introducing-gpt-live/
 url_canonical: https://openai.com/index/introducing-gpt-live/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-04_061719_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: 5a6536e4f439820ffd5772f2a173b49a76abe36e556975d5e021011629387be6
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
-embedding_id: null
+embedding_id: 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 event_name: ''
 ---
 

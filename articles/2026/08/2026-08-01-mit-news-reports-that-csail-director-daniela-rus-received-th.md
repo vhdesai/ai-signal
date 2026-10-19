@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 event_name: ''
 ---
 

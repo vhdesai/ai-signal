@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-09-13-ai-stock-weakness-collides-with-oil-shock-and-rate-concerns
-embedding_id: null
+embedding_id: 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 event_name: ''
 ---
 

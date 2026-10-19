@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team
 - 2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team
-embedding_id: null
+embedding_id: 2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team
 event_name: ''
 ---
 

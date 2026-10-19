@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
 - 2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte
 - 2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp
-embedding_id: null
+embedding_id: 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
 event_name: ''
 ---
 

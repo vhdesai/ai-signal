@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-27-nvidia-invests-in-naver-and-helps-assemble-south-korea-ai-da
-embedding_id: null
+embedding_id: 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 event_name: ''
 ---
 

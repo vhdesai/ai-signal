@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
 - 2026-08-06-nvidia-staffs-a-new-ai-safety-security-engineering-team
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
-embedding_id: null
+embedding_id: 2026-08-21-nvidia-maps-where-security-belongs-in-the-ai-agent-stack
 event_name: ''
 ---
 

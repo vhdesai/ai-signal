@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-what-would-have-to-be-true-for-agentic-coding-to-replace-jun
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
-embedding_id: null
+embedding_id: 2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c
 event_name: ''
 ---
 

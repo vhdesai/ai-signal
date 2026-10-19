@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
 - 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
 - 2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo
-embedding_id: null
+embedding_id: 2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january
 event_name: ''
 ---
 

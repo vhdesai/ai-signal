@@ -29,7 +29,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
-embedding_id: null
+embedding_id: 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 event_name: ''
 ---
 

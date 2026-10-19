@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
-embedding_id: null
+embedding_id: 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 event_name: ''
 ---
 

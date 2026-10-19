@@ -5,8 +5,8 @@ title: The Commerce Department announced amended partnerships with Google DeepMi
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aigovernance.com/news/microsoft-google-xai-caisi-pre-deployment-security-review-agreements-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f2c527af2b809afc1fd2cf94e6d5f6ee2a260bdabb9fc655711101c0994ee8ad
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
-embedding_id: null
+embedding_id: 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 event_name: ''
 ---
 

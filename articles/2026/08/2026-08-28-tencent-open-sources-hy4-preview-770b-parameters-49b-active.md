@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-tencent-open-sources-hy4-preview-770b-moe-1m-token-context
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 event_name: ''
 ---
 

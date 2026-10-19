@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-embedding_id: null
+embedding_id: 2026-05-18-ex-google-ceo-booed-while-discussing-ai-in-commencement-spee
 event_name: ''
 ---
 

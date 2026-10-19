@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 - 2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all
 - 2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac
-embedding_id: null
+embedding_id: 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 - 2026-10-09-openai-updates-chatgpt-with-interactive-graphics
 - 2026-08-20-chatgpt-gains-an-apple-messages-integration-on-macos
-embedding_id: null
+embedding_id: 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 event_name: ''
 ---
 

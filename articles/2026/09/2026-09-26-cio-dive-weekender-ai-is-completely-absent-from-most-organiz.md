@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 - 2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
-embedding_id: null
+embedding_id: 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 event_name: ''
 ---
 

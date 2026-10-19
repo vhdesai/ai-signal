@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: null
+embedding_id: 2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p
 event_name: ''
 ---
 

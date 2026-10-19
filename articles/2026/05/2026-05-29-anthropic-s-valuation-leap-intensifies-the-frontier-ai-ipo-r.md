@@ -5,8 +5,8 @@ date: '2026-05-29'
 source: DealBook; May 29, 2026 · PitchBook; May 29, 2026 · Business Insider; May 29,
   2026 · The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-raises-65-billion-at-900-billion-valuation
-url_status: broken
+url_canonical: https://tech-insider.org/anthropic-65-billion-series-h-965-billion-valuation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: a465f9ef6ce0948a5668b247adcc79466abbad0fa7d99dc5ee7a62766f43fa91
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-embedding_id: null
+embedding_id: 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 event_name: ''
 ---
 

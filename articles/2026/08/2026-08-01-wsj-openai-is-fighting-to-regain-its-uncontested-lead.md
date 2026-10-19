@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-ppc-land-chatgpt-loses-20-points-of-us-ai-prompt-share-to-ge
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
 - 2026-09-02-google-starts-september-with-ai-momentum-after-a-long-stock
-embedding_id: null
+embedding_id: 2026-08-01-wsj-openai-is-fighting-to-regain-its-uncontested-lead
 event_name: ''
 ---
 

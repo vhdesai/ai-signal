@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t
-embedding_id: null
+embedding_id: 2026-05-27-clickhouse-crosses-250m-arr-launches-agentic-analytics-at-op
 event_name: ''
 ---
 

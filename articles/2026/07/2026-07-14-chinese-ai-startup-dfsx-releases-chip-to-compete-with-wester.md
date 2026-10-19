@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-tpus-while-chinese-startup-dfsx-releases-ai-ch
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-embedding_id: null
+embedding_id: 2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester
 event_name: ''
 ---
 

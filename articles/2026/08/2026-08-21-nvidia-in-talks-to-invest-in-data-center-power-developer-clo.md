@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf-infras
 - 2026-08-21-nvidia-partners-with-cloverleaf-infrastructure-for-data-cent
 - 2026-08-21-nvidia-partners-with-data-center-developer-cloverleaf
-embedding_id: null
+embedding_id: 2026-08-21-nvidia-in-talks-to-invest-in-data-center-power-developer-clo
 event_name: ''
 ---
 

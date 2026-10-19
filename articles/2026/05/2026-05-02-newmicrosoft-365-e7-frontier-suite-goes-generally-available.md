@@ -4,8 +4,8 @@ title: NEWMicrosoft 365 E7 "Frontier Suite" goes generally available at $99/user
 date: '2026-05-02'
 source: Microsoft Learn / Computer Weekly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 12948f92c9c09162e1fa85a281b13072bb58789d468c6e53858ded95400cb807
 normalized_title_hash: 8d86e78885214ec5
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 - 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
-embedding_id: null
+embedding_id: 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 event_name: ''
 ---
 

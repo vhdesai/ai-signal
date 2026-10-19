@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
-embedding_id: null
+embedding_id: 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
 event_name: ''
 ---
 

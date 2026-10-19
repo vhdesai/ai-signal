@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-embedding_id: null
+embedding_id: 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 event_name: ''
 ---
 

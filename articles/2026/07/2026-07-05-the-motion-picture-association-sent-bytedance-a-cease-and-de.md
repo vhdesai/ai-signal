@@ -5,8 +5,8 @@ title: The Motion Picture Association sent ByteDance a cease-and-desist over its
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hollywoodreporter.com/business/business-news/mpa-cease-and-desist-bytedance-seedance-2-0-1236510957/
+url_status: repaired
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 27cbbe040fba3f06b661136e5bc5f9bbc8c74efb6bd6d6453016f764276bbe5f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
-embedding_id: null
+embedding_id: 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 - 2026-08-21-chatgpt-gains-a-messages-integration-on-macos
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
-embedding_id: null
+embedding_id: 2026-09-24-openai-tells-court-the-apple-intelligence-chatgpt-integratio
 event_name: ''
 ---
 

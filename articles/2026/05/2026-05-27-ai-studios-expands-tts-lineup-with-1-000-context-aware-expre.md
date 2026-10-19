@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-02-microsoft-ai-releases-mai-transcribe-2-streaming-and-new-tts
 - 2026-09-23-google-ships-gemini-3-8-flash-tts-and-flash-lite-tts-with-pr
 - 2026-09-26-sarvam-ai-releases-saaras-v4-speech-to-text-model-for-indian
-embedding_id: null
+embedding_id: 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
 event_name: ''
 ---
 

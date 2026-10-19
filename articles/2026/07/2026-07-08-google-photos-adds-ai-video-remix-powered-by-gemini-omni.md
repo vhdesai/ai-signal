@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Iowa Enacts Law Forbidding AI-Only Medical Treatment Denials, Effective J
 date: '2026-05-13'
 source: Des Moines Register / BlueWater
 url_original: https://bluewaterhealthyliving.com/news/national-news/iowa/new-iowa-law-forbids-ai-medical-care-denials-streamlines-preapprovals/
-url_canonical: https://bluewaterhealthyliving.com/news/national-news/iowa/new-iowa-law-forbids-ai-medical-care-denials-streamlines-preapprovals/
-url_status: broken
+url_canonical: https://ailawsusa.com/protection/ia-hf-2635-health-insurance-ai-prior-auth/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 88770b260d9ff2e9f60c15fdea6eaf2091fe102f5fa66ee5c0f1507af24d346f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-04-utah-enacted-legislation-making-it-the-first-u-s
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
-embedding_id: null
+embedding_id: 2026-05-13-iowa-enacts-law-forbidding-ai-only-medical-treatment-denials
 event_name: ''
 ---
 

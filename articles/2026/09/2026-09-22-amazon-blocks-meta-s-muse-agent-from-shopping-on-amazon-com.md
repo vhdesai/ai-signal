@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-opening-the-platform-permiss
-embedding_id: null
+embedding_id: 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 event_name: ''
 ---
 

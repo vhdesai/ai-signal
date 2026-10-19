@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-embedding_id: null
+embedding_id: 2026-10-02-us-arrests-man-for-smuggling-nvidia-chips-to-china-bloomberg
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-10-anthropic-cuts-live-internet-access-after-claude-files-false
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
-embedding_id: null
+embedding_id: 2026-10-12-anthropic-rogue-agents-filled-out-u-s-visa-forms-and-submitt
 event_name: ''
 ---
 

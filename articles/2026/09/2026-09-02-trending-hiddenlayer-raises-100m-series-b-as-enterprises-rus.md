@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
-embedding_id: null
+embedding_id: 2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus
 event_name: ''
 ---
 

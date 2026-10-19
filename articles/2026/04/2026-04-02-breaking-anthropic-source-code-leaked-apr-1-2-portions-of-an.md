@@ -5,8 +5,8 @@ title: '[BREAKING] Anthropic Source Code Leaked (Apr 1–2) Portions of Anthropi
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/claude/articles/anthropic-confirms-leaked-claude-code-110500942.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 37e25d11c2cabe770d5d539337be9fdd6d9159dcdd86c3a6a880a394dc189b56
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an
 event_name: ''
 ---
 

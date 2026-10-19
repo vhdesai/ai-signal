@@ -28,7 +28,7 @@ related_article_ids:
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
-embedding_id: null
+embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a
 - 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
-embedding_id: null
+embedding_id: 2026-09-21-alibaba-open-sources-qwen-image-2-1-but-moves-it-off-apache
 event_name: ''
 ---
 

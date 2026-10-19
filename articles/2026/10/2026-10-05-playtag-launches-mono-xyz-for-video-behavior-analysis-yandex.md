@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-refactor-vla-unsupervised-library-learning-of-typed-motor-pr
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 - 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
-embedding_id: null
+embedding_id: 2026-10-05-playtag-launches-mono-xyz-for-video-behavior-analysis-yandex
 event_name: ''
 ---
 

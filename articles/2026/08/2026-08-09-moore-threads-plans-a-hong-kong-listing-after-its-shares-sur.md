@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
-embedding_id: null
+embedding_id: 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
 event_name: ''
 ---
 

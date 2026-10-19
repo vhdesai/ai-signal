@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-deepmind-shakeup-kavukcuoglu-takes-over-sergey-brin-goes-all
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-kavukcuoglu-takes-over-google-deepmind-as-hassabis-moves-to
 event_name: ''
 ---
 

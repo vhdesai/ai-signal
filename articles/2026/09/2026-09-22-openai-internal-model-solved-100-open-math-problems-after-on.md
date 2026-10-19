@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-openai-claims-a-new-internal-model-solved-100-open-math-prob
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-openai-internal-model-solved-100-open-math-problems-after-on
 event_name: ''
 ---
 

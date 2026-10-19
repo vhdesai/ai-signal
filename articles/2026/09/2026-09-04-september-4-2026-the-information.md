@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-deepseek-shifts-to-huawei-chips-for-large-model-training
 - 2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi
 - 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
-embedding_id: null
+embedding_id: 2026-09-04-september-4-2026-the-information
 event_name: ''
 ---
 

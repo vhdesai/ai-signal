@@ -4,8 +4,8 @@ title: Nvidia Begins Vera CPU Sales Pitch to Chinese Clients Despite Export Cont
 date: '2026-06-12'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-begins-vera-cpu-sales-pitch-chinese-clients-sources
+url_status: repaired
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: e248e3ea8819f5b232edd62e303b948840e3ccee5e06062f186ea4405a51b492
 normalized_title_hash: fa636208f1ba1c1f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-07-27-nvidia-uses-vera-cpus-and-ai-agents-to-speed-its-own-chip-de
 - 2026-07-21-nvidia-details-vera-cpu-sharpening-its-data-center-challenge
-embedding_id: null
+embedding_id: 2026-06-12-nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-despit
 event_name: ''
 ---
 

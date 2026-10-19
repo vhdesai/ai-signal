@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
-embedding_id: null
+embedding_id: 2026-10-11-infrastructure-ai-adjacent-m-a-cloudflare-acquires-deno-to-i
 event_name: ''
 ---
 

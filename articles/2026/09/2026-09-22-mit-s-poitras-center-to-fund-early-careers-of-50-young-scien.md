@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 - 2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op
 - 2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist
-embedding_id: null
+embedding_id: 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
 event_name: ''
 ---
 

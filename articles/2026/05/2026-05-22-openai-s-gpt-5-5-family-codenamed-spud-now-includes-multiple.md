@@ -5,8 +5,8 @@ title: 'OpenAI''s GPT-5.5 family (codenamed "Spud") now includes multiple specia
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://geol.ai/briefing/openai-gpt-gpt-55-spud-release-and-new-model-variants
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 4fd2f3d31e9c65b6423d451e249755aa3946ad6915ed632ea8a2bdf423d63bed
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 - 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
 - 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
-embedding_id: null
+embedding_id: 2026-05-22-openai-s-gpt-5-5-family-codenamed-spud-now-includes-multiple
 event_name: ''
 ---
 

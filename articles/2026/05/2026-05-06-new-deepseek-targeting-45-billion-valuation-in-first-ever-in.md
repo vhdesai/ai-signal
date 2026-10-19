@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 - 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-embedding_id: null
+embedding_id: 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 event_name: ''
 ---
 

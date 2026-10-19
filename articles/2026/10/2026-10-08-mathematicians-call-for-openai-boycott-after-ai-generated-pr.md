@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro
 - 2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
+- 2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
-- 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
-embedding_id: null
+embedding_id: 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The Association for Human Mathematics is calling for an OpenAI boycott after the
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro]] · [[2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with]]
+**Related:** [[2026-10-13-openai-withdraws-three-ai-mathematics-papers-over-proof-erro]] · [[2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]] · [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-embedding_id: null
+embedding_id: 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 event_name: ''
 ---
 

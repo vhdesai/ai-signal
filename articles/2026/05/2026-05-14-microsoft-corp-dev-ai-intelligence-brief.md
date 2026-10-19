@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
-embedding_id: null
+embedding_id: 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
 event_name: ''
 ---
 

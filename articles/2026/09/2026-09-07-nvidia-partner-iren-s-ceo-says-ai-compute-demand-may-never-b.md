@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
-embedding_id: null
+embedding_id: 2026-09-07-nvidia-partner-iren-s-ceo-says-ai-compute-demand-may-never-b
 event_name: ''
 ---
 

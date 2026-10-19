@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 - 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
 - 2026-09-03-hot-university-of-washington-allen-institute-and-fred-hutch
-embedding_id: null
+embedding_id: 2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu
 event_name: ''
 ---
 

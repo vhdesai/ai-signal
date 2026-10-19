@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
-embedding_id: null
+embedding_id: 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: EU AI Act Enters Full Enforcement; New U.S. Federal Guidance and APAC Fra
 date: '2026-05-16'
 source: AI Pilot Daily
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://statt.com/blog/frontier-act-federal-ai-regulation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a03fe8b3aa5aa542e0b962a884ab50efec5a61eca4a74ae21261a7cdcfafeb67
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-embedding_id: null
+embedding_id: 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 event_name: ''
 ---
 

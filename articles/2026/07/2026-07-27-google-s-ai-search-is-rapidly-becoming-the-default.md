@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-08-27-google-s-ai-mode-adds-flight-price-tracking-and-hotel-bookin
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-embedding_id: null
+embedding_id: 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 event_name: ''
 ---
 

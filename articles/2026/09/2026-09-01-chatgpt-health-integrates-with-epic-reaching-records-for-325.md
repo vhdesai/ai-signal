@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-chatgpt-health-adds-epic-ehr-integration-for-clinicians
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-chatgpt-health-integrates-with-epic-reaching-records-for-325
 event_name: ''
 ---
 

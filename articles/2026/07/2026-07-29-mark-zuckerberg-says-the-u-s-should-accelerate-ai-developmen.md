@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
-embedding_id: null
+embedding_id: 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
-embedding_id: null
+embedding_id: 2026-09-21-openai-urges-binding-global-safety-standards-for-frontier-ai
 event_name: ''
 ---
 

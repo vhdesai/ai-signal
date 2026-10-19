@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-texas-halts-new-data-center-grid-connections-after-speculati
 - 2026-09-02-texas-keeps-new-data-center-grid-connections-frozen-over-gho
 - 2026-08-04-texas-pauses-new-data-center-approvals-pending-a-statewide-g
-embedding_id: null
+embedding_id: 2026-09-02-texas-halts-new-data-center-grid-connections-after-ghost-dem
 event_name: ''
 ---
 

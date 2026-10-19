@@ -4,8 +4,8 @@ title: 'DeepSeek V4 Launches: 1M-Token Multimodal Model Debuts on Huawei Silicon
 date: '2026-04-24'
 source: Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://moccet.ai/news/tech/the-download-deepseek-s-latest-ai-breakthrough-and-the-race-to-build-world-model
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 1f62d0e696c518fedf631eca0151558bdb2c947d3031f71179b8a4ded83b8f6d
@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 - 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
-embedding_id: null
+embedding_id: 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-rare-book-sales-are-booming-they-re-getting-sliced-up-and-fe
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-22-rare-book-sales-booming-they-re-getting-sliced-up-and-fed-to
 event_name: ''
 ---
 

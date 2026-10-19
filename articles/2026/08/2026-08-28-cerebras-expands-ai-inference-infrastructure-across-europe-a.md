@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-cerebras-partners-with-callosum-to-expand-agentic-inference
 - 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
-embedding_id: null
+embedding_id: 2026-08-28-cerebras-expands-ai-inference-infrastructure-across-europe-a
 event_name: ''
 ---
 

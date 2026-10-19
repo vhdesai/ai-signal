@@ -5,8 +5,8 @@ title: MIT Technology Review published an in-depth feature examining the emergin
 date: '2026-05-09'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/topic/artificial-intelligence2
+url_status: repaired
 digest_source: digests\raw\2026-05-09_071239_Inbox_Daily AI News Digest – May 9, 2026.md
 content_hash: c3fe5fa17c7e57be1f25a66246be07ea1f2cb5bc1fed27e4850b1120a1eaa509
 normalized_title_hash: a3a513a9e10f35f5
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
-embedding_id: null
+embedding_id: 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 event_name: ''
 ---
 

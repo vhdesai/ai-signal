@@ -5,8 +5,8 @@ title: U.S.–China dialogue on AI guardrails continues as NVIDIA export rules r
 date: '2026-05-28'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: c36905c35d79156e34425a975816ff5cb0dacb453662cecdb390880c1d15426e
@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-embedding_id: null
+embedding_id: 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 event_name: ''
 ---
 

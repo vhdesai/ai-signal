@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
-- 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
-embedding_id: null
+- 2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering
+embedding_id: 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ TechCrunch, citing Bloomberg reporting, says Apple plans a Siri-powered smart-ho
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]]
+**Related:** [[2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t]] · [[2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27]] · [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering]]
 <!-- graph:end -->

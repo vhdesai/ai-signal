@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
 event_name: ''
 ---
 

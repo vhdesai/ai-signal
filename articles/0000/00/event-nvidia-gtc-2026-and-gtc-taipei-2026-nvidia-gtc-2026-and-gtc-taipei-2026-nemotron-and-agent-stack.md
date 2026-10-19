@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
-embedding_id: null
+embedding_id: event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 ---
 

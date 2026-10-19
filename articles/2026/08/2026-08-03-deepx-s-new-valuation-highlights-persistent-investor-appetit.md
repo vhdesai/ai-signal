@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-09-07-non-nvidia-inference-provider-wafer-receives-acquisition-off
-embedding_id: null
+embedding_id: 2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit
 event_name: ''
 ---
 

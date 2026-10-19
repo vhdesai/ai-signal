@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-17-amazon-is-reported-to-be-destroying-rare-books-to-digitize-t
 - 2026-08-17-amazon-reportedly-destroying-rare-books-for-ai-training
 - 2026-08-17-amazon-reportedly-destroying-rare-books-to-digitize-them-for
-embedding_id: null
+embedding_id: 2026-08-17-amazon-is-buying-and-destroying-rare-books-to-scan-them-for
 event_name: ''
 ---
 

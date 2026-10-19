@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-waymo-and-zoox-test-drivers-report-injuries-as-robotaxi-flee
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
-embedding_id: null
+embedding_id: 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 event_name: ''
 ---
 

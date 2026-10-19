@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t
 - 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
 - 2026-09-04-judge-lets-minnesota-enforce-anti-nudification-app-law-over
-embedding_id: null
+embedding_id: 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 event_name: ''
 ---
 

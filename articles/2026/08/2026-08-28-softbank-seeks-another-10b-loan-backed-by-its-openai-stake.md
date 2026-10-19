@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-09-18-softbank-adds-21b-in-new-borrowing-capacity-to-fund-ai-bets
-embedding_id: null
+embedding_id: 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 event_name: ''
 ---
 

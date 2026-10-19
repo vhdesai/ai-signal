@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-embedding_id: null
+embedding_id: 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 event_name: ''
 ---
 

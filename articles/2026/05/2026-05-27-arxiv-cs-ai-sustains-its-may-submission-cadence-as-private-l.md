@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
-embedding_id: null
+embedding_id: 2026-05-27-arxiv-cs-ai-sustains-its-may-submission-cadence-as-private-l
 event_name: ''
 ---
 

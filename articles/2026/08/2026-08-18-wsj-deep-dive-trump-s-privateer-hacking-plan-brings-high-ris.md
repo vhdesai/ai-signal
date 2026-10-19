@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-embedding_id: null
+embedding_id: 2026-08-18-wsj-deep-dive-trump-s-privateer-hacking-plan-brings-high-ris
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 event_name: ''
 ---
 

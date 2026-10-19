@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-anthropic-makes-auto-mode-the-default-in-claude-code-across
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-07-auto-mode-is-now-the-default-in-claude-code-for-pro-max-and
 event_name: ''
 ---
 

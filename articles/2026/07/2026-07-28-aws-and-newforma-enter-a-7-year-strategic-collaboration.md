@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
 - 2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro
 - 2026-04-27-
-embedding_id: null
+embedding_id: 2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration
 event_name: ''
 ---
 

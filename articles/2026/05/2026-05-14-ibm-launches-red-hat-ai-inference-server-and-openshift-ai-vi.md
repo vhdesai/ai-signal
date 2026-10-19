@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 - 2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe
-embedding_id: null
+embedding_id: 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f
 - 2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed
 - 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
-embedding_id: null
+embedding_id: 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
 event_name: ''
 ---
 

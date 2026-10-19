@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-18-openai-established-the-openai-deployment-company-a-majority
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-embedding_id: null
+embedding_id: 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 event_name: ''
 ---
 

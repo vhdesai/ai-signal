@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
 - 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
 - 2026-09-15-typesafe-ai-exits-stealth-with-system-one-typed-output-model
-embedding_id: null
+embedding_id: 2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model
 event_name: ''
 ---
 

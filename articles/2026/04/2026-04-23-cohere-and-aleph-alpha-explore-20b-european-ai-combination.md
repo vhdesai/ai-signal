@@ -4,8 +4,8 @@ title: Cohere and Aleph Alpha explore $20B European AI combination
 date: '2026-04-23'
 source: Axios / VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/cohere-aleph-alpha-merger-20-billion-schwarz-sovereign-ai-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: a036b3662e74e44a3fd858f3a8aec9f6a13d338dfd45533e5921ba849de40fd3
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-embedding_id: null
+embedding_id: 2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination
 event_name: ''
 ---
 

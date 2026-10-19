@@ -5,8 +5,8 @@ title: As enterprises rein in AI bills, customers are tilting toward cheaper, of
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/ai/articles/companies-shifting-toward-cheaper-open-070000198.html
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e4013195b75023dba4801afe60a8bbddf53da3d6015206dfe78cfd21015aeac8
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
-embedding_id: null
+embedding_id: 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
 event_name: ''
 ---
 

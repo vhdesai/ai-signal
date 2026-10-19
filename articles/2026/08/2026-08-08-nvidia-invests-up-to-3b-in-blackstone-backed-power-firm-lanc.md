@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 - 2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene
 - 2026-08-21-nvidia-invests-hundreds-of-millions-in-data-center-power-dev
-embedding_id: null
+embedding_id: 2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc
 event_name: ''
 ---
 

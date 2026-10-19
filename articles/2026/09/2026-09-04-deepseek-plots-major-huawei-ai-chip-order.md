@@ -27,7 +27,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
 related_article_ids:
 - 2026-09-04-september-4-2026-the-information
-embedding_id: null
+embedding_id: 2026-09-04-deepseek-plots-major-huawei-ai-chip-order
 event_name: ''
 ---
 

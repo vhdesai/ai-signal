@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-02-equinix-partners-with-nvidia-to-carve-a-niche-in-the-ai-data
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-embedding_id: null
+embedding_id: 2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories
 event_name: ''
 ---
 

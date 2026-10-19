@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 - 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-09-02-mit-and-motional-build-a-system-that-helps-humans-predict-se
 event_name: ''
 ---
 

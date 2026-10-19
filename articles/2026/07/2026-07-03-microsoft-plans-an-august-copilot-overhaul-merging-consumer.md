@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
-embedding_id: null
+embedding_id: 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 event_name: ''
 ---
 

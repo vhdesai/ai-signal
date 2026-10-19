@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-08-05-4b-open-model-post-trained-to-match-gpt-5-6-sol-on-agentic-r
-embedding_id: null
+embedding_id: 2026-09-01-princeton-stanford-and-ant-group-introduce-aqua-an-agentic-f
 event_name: ''
 ---
 

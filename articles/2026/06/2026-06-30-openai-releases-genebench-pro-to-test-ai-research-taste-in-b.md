@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: OpenAI
 url_original: https://openai.com/index/introducing-genebench-pro/
 url_canonical: https://openai.com/index/introducing-genebench-pro/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 53793a05de708d9ce90c0f22c77fa0dd89947f52a3383ccf66ca4f693ccfaea1
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 event_name: ''
 ---
 

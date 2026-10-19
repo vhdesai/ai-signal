@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-barret-zoph-thinking-machines-co-founder-lands-at-google
 - 2026-08-27-barret-zoph-returns-to-google-deepmind-as-vp-of-research
-embedding_id: null
+embedding_id: 2026-08-29-thinking-machines-lab-co-founder-barret-zoph-reportedly-join
 event_name: ''
 ---
 

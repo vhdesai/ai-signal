@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-09-25-anthropic-opens-a-plugin-submission-portal-for-the-claude-di
 - 2026-08-27-anthropic-previews-model-hardware-standard-to-let-agents-ope
-embedding_id: null
+embedding_id: 2026-07-28-anthropic-ships-mcp-2026-07-28-spec-stateless-core-hardened
 event_name: ''
 ---
 

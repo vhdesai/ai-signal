@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-31-nvidia-and-mediatek-deepen-partnership-across-ai-infrastruct
 related_article_ids:
 - 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-opens-nvlink-fusion-to-c
-embedding_id: null
+embedding_id: 2026-08-31-nvidia-invests-3-5b-in-mediatek-and-extends-nvlink-fusion-to
 event_name: ''
 ---
 

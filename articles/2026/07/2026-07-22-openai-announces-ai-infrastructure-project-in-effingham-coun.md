@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 - 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-embedding_id: null
+embedding_id: 2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun
 event_name: ''
 ---
 

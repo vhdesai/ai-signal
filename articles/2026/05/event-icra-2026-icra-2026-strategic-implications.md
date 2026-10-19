@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-strategic-implications
 event_name: ICRA 2026
 ---
 

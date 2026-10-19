@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-28-mit-ai-report-calls-for-alternative-grading-and-more-social
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 - 2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn
-embedding_id: null
+embedding_id: 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 event_name: ''
 ---
 

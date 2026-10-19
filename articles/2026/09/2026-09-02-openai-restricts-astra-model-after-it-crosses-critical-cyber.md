@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-embedding_id: null
+embedding_id: 2026-09-02-openai-restricts-astra-model-after-it-crosses-critical-cyber
 event_name: ''
 ---
 

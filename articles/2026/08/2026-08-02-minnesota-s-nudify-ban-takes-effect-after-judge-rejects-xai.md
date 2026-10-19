@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
-embedding_id: null
+embedding_id: 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 event_name: ''
 ---
 

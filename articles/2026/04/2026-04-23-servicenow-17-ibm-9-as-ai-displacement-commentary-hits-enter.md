@@ -4,8 +4,8 @@ title: ServiceNow −17%, IBM −9% as AI-displacement commentary hits enterpris
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-IBM-Expand-Collaboration-to-Unlock-Enterprise-Data-for-AI-at-Scale/default.aspx
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 7a0b0696b781a2eec5c7f2826c9293e16e0da0fe30c895d63dd6ca8ece069840
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 - 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-08-16-silver-lake-workday-talks-signal-potential-end-to-ai-driven
-embedding_id: null
+embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 event_name: ''
 ---
 

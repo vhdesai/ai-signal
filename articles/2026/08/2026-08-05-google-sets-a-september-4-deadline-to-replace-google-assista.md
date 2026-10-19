@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-google-is-retiring-gemini-s-gems-in-favour-of-skills
 - 2026-05-13-
 - 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
-embedding_id: null
+embedding_id: 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
 event_name: ''
 ---
 

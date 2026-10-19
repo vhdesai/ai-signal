@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
 - 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-raising-api-p
 - 2026-09-24-deepseek-annualized-revenue-hits-1b-7-5b-round-targeting-clo
-embedding_id: null
+embedding_id: 2026-08-26-deepseek-nears-74b-pre-ipo-round-eyes-2027-star-market-debut
 event_name: ''
 ---
 

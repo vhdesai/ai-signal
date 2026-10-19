@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 - 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-09-14-monday-september-14-2026
-embedding_id: null
+embedding_id: 2026-09-16-microsoft-s-suleyman-publicly-attacks-anthropic-s-ai-conscio
 event_name: ''
 ---
 

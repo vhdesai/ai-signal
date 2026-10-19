@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-embedding_id: null
+embedding_id: 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 event_name: ''
 ---
 

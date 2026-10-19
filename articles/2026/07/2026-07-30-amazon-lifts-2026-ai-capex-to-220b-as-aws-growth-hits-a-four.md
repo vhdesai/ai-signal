@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b
-embedding_id: null
+embedding_id: 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
 event_name: ''
 ---
 

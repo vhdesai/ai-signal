@@ -4,8 +4,8 @@ title: DeepSeek Pauses ~$71B Funding Round After Founder's Leaked Remarks
 date: '2026-07-26'
 source: The Next Web
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng
+url_status: repaired
 digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 00c479bc71edbc2bb15f04b04a6b87a22eb679462360df17d9d7c82366f1a2a8
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks
 - 2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
-embedding_id: null
+embedding_id: 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
-embedding_id: null
+embedding_id: 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-bankers-line-up-inve
 event_name: ''
 ---
 

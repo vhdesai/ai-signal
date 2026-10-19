@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-embedding_id: null
+embedding_id: 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 event_name: ''
 ---
 

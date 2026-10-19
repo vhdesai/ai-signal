@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-liner-closes-36-1m-series-c-for-verifiable-ai-research
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 - 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
-embedding_id: null
+embedding_id: 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 event_name: ''
 ---
 

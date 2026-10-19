@@ -4,8 +4,8 @@ title: Google unveils Coral Board — a tiny on-device AI computer running Gemma
 date: '2026-05-28'
 source: The Decoder / Google Developers
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f5082b701ae1eb933c1e0edbfc4a70785310bc7923cf01edacb07a70fea964d0
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
-embedding_id: null
+embedding_id: 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
 event_name: ''
 ---
 

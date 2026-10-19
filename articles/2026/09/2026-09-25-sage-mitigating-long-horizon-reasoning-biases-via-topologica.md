@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-09-13-long-running-agents-silently-drop-governance-rules-as-contex
-embedding_id: null
+embedding_id: 2026-09-25-sage-mitigating-long-horizon-reasoning-biases-via-topologica
 event_name: ''
 ---
 

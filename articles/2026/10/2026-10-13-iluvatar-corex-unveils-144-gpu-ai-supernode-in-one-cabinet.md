@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
-embedding_id: null
+embedding_id: 2026-10-13-iluvatar-corex-unveils-144-gpu-ai-supernode-in-one-cabinet
 event_name: ''
 ---
 

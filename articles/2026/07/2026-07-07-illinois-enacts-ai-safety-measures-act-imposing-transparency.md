@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 - 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 - 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
-embedding_id: null
+embedding_id: 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 event_name: ''
 ---
 

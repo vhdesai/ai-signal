@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
 - 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-embedding_id: null
+embedding_id: 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 event_name: ''
 ---
 

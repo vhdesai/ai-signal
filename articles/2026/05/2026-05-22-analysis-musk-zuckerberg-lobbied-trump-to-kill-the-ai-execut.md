@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
-embedding_id: null
+embedding_id: 2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut
 event_name: ''
 ---
 

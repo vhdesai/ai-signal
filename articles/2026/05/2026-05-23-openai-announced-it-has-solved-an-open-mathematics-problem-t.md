@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-07-openai-says-an-unreleased-model-solved-hundreds-of-math-prob
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
-embedding_id: null
+embedding_id: 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-and-ironclad-publish-work-on-computer-use-agents-for
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
-embedding_id: null
+embedding_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
 event_name: ''
 ---
 

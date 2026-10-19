@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-26-nvidia-s-1-5-trillion-earnings-question-the-return-on-invest
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
-embedding_id: null
+embedding_id: 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 event_name: ''
 ---
 

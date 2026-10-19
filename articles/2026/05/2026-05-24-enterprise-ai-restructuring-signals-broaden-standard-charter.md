@@ -40,7 +40,7 @@ related_article_ids:
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
-embedding_id: null
+embedding_id: 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 event_name: ''
 ---
 

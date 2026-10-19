@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch
 - 2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and
-embedding_id: null
+embedding_id: 2026-10-01-tencent-leases-100-000-ai-chips-from-oracle-in-a-7b-deal-reo
 event_name: ''
 ---
 

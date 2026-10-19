@@ -23,7 +23,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
 - 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
 - 2026-08-26-gemini-live-gains-agentic-task-execution-through-spark
-embedding_id: null
+embedding_id: 2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026
 event_name: ''
 ---
 

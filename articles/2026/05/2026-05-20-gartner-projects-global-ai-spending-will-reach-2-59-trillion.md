@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 - 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
-embedding_id: null
+embedding_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 event_name: ''
 ---
 

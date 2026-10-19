@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open
 - 2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api
-embedding_id: null
+embedding_id: 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
 event_name: ''
 ---
 

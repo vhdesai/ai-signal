@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex
 - 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
-embedding_id: null
+embedding_id: 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 event_name: ''
 ---
 

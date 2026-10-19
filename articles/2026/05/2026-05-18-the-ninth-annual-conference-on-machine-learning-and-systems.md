@@ -5,8 +5,8 @@ title: The ninth annual Conference on Machine Learning and Systems opened today 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.webmobi.com/discovery/events/archive/mlsys-2026-ninth-annual-conference-on-machine-learning-and-systems-20251127
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: efc00ead8aeb6be3d1c4670e05b16aa604f877191c9f7d315a814ee5952bd060
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-10-02-the-university-of-washington-opened-a-new-global-innovation
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
-embedding_id: null
+embedding_id: 2026-05-18-the-ninth-annual-conference-on-machine-learning-and-systems
 event_name: ''
 ---
 

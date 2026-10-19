@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
 - 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
-embedding_id: null
+embedding_id: 2026-07-17-apple-sends-legal-preservation-letters-to-40-former-staff-no
 event_name: ''
 ---
 

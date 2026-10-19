@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
 - 2026-08-25-openai-s-jalape-o-chip-is-built-for-fast-inference-at-scale
 - 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
-embedding_id: null
+embedding_id: 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 event_name: ''
 ---
 

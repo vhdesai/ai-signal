@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
-embedding_id: null
+embedding_id: 2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable
 event_name: ''
 ---
 

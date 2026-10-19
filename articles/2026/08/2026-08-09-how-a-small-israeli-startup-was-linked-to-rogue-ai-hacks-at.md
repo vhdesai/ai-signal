@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
-embedding_id: null
+embedding_id: 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
 event_name: ''
 ---
 

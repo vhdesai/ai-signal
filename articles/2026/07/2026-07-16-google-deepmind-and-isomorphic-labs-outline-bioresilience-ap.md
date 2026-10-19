@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-06-22-google-deepmind-and-a24-announce-research-partnership
-embedding_id: null
+embedding_id: 2026-07-16-google-deepmind-and-isomorphic-labs-outline-bioresilience-ap
 event_name: ''
 ---
 

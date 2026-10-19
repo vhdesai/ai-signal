@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-embedding_id: null
+embedding_id: 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
 event_name: ''
 ---
 

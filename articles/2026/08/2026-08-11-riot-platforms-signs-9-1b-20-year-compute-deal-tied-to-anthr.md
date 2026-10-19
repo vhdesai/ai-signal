@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr
 event_name: ''
 ---
 

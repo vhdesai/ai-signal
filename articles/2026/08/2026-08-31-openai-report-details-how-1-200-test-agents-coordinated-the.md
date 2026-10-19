@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
-embedding_id: null
+embedding_id: 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
 event_name: ''
 ---
 

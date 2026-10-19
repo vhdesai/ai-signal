@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-04-sam-altman-says-society-may-need-to-accept-some-ai-harms-tec
 - 2026-08-24-altman-warns-ai-could-concentrate-in-the-hands-of-a-few-powe
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-embedding_id: null
+embedding_id: 2026-10-05-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 event_name: ''
 ---
 

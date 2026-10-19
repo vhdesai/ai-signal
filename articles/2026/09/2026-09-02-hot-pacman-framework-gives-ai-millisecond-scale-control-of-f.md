@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 - 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
 - 2026-09-19-clivet-debuts-magnetic-levitation-cooling-platform-at-ai-inf
-embedding_id: null
+embedding_id: 2026-09-02-hot-pacman-framework-gives-ai-millisecond-scale-control-of-f
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: OpenAI rolled out Codex-only seats with pay-as-you-go pricing in ChatGPT 
 date: '2026-04-03'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/codex-flexible-pricing-for-teams/
+url_status: repaired
 digest_source: digests\raw\2026-04-03_091256_Inbox_Daily AI News Digest – April 3,
   2026.md
 content_hash: c510fa9feeb0dbb7dda76912dbb6c660be50b419e5281abb7b6af8d824b781e8
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-embedding_id: null
+embedding_id: 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
 event_name: ''
 ---
 

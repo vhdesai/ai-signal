@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1823
+member_count: 1826
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1823 connected article(s).
+> Auto-generated topic hub. 1826 connected article(s).
 
+- `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
+- `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
+- `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
 - `2026-10-14` [[2026-10-14-ricursive-pursues-ai-designed-chips-to-improve-compute-effic|Ricursive pursues AI-designed chips to improve compute efficiency]]
 - `2026-10-13` [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power|PitchBook asks how much OpenAI is worth now as pricing power gets tested]]
 - `2026-10-13` [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai|NVIDIA says the RTX Spark PC ecosystem is ready for local AI agents]]

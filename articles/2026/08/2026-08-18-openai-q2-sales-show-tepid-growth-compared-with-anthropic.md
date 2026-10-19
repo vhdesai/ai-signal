@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
 - 2026-09-12-anthropic-and-openai-now-capture-89-of-ai-startup-revenues
-embedding_id: null
+embedding_id: 2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic
 event_name: ''
 ---
 

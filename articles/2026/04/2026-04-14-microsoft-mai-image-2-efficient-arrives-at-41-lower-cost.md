@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-embedding_id: null
+embedding_id: 2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost
 event_name: ''
 ---
 

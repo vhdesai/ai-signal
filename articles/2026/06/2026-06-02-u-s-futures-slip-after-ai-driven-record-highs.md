@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
 - 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-embedding_id: null
+embedding_id: 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 event_name: ''
 ---
 

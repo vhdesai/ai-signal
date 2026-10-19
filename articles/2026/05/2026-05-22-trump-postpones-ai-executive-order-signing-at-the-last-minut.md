@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 - 2026-06-02-trump-signs-narrower-than-expected-ai-executive-order
-embedding_id: null
+embedding_id: 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 event_name: ''
 ---
 

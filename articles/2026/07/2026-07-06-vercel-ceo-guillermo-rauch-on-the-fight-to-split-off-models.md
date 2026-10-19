@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
-embedding_id: null
+embedding_id: 2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-ey-creates-ai-value-realization-office-to-govern-ai-spending
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof
-embedding_id: null
+embedding_id: 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 event_name: ''
 ---
 

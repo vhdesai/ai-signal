@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
-embedding_id: null
+embedding_id: 2026-08-24-google-research-and-usc-introduce-me-pois-folding-human-mobi
 event_name: ''
 ---
 

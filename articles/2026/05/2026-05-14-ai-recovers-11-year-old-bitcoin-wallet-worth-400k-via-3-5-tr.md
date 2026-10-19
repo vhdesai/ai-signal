@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-embedding_id: null
+embedding_id: 2026-05-14-ai-recovers-11-year-old-bitcoin-wallet-worth-400k-via-3-5-tr
 event_name: ''
 ---
 

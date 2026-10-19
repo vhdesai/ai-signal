@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-ou
 - 2026-09-16-novo-nordisk-partners-with-anthropic-to-accelerate-drug-disc
-embedding_id: null
+embedding_id: 2026-09-21-accenture-up-6-on-anthropic-ai-safety-evaluation-partnership
 event_name: ''
 ---
 

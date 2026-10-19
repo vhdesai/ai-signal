@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-embedding_id: null
+embedding_id: 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 event_name: ''
 ---
 

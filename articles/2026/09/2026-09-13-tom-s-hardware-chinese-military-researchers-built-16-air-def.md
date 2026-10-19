@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-09-11-anthropic-threat-report-chinese-labs-mined-claude-at-scale-f
 - 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
-embedding_id: null
+embedding_id: 2026-09-13-tom-s-hardware-chinese-military-researchers-built-16-air-def
 event_name: ''
 ---
 

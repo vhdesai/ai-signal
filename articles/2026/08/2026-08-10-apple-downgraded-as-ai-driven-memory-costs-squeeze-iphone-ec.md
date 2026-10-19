@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
 - 2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume
 - 2026-07-17-ai-driven-memory-crunch-hits-india-s-smartphone-market
-embedding_id: null
+embedding_id: 2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec
 event_name: ''
 ---
 

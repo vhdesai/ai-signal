@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 - 2026-09-08-mistral-raises-3b-at-24b-valuation-in-a-samsung-led-series-d
 - 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
-embedding_id: null
+embedding_id: 2026-09-29-mistral-ceo-u-s-ai-safety-debate-is-a-cover-for-the-negligen
 event_name: ''
 ---
 

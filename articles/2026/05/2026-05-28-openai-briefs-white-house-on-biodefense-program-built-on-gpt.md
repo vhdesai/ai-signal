@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen
 - 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
-embedding_id: null
+embedding_id: 2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt
 event_name: ''
 ---
 

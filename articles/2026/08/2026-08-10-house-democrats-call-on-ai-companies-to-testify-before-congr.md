@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
-embedding_id: null
+embedding_id: 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 event_name: ''
 ---
 

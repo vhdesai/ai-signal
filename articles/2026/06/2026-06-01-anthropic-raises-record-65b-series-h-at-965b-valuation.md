@@ -4,8 +4,8 @@ title: Anthropic Raises Record $65B Series H at $965B Valuation
 date: '2026-06-01'
 source: Alternatives Watch; W.Media; fundsforNGOs News
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-65-billion-series-h
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-65-billion-series-h
-url_status: broken
+url_canonical: https://www.anthropic.com/news/series-h
+url_status: repaired
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 71fed674377d7a07610f464f3e78a8d37d2e701ceacfd37d1e18d58d33abf624
 normalized_title_hash: 7dbb307dc5f3e10d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-embedding_id: null
+embedding_id: 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 event_name: ''
 ---
 

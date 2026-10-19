@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
 - 2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr
-embedding_id: null
+embedding_id: 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
 event_name: ''
 ---
 

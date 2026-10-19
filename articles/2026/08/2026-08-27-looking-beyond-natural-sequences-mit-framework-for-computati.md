@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-mit-framework-pushes-computational-protein-design-beyond-nat
 - 2026-08-27-from-in-silico-to-wet-lab-evaluating-ai-protein-design-perfo
 - 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
-embedding_id: null
+embedding_id: 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
 event_name: ''
 ---
 

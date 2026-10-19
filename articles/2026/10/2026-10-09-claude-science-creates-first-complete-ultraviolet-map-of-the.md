@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-solves-erd-s-unit-distance-conject
 - 2026-08-16-claude-model-produced-a-genuine-math-result-during-a-failed
 - 2026-09-22-anthropic-builds-a-bay-area-wet-lab-where-claude-directs-rob
-embedding_id: null
+embedding_id: 2026-10-09-claude-science-creates-first-complete-ultraviolet-map-of-the
 event_name: ''
 ---
 

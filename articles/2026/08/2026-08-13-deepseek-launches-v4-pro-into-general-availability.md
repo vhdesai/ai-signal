@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-deepseek-v4-pro-price-increases-take-effect-today
 - 2026-08-14-deepseek-moves-v4-pro-to-general-availability-with-steep-pri
 - 2026-08-14-deepseek-v4-pro-api-prices-rise-today-peak-off-peak-billing
-embedding_id: null
+embedding_id: 2026-08-13-deepseek-launches-v4-pro-into-general-availability
 event_name: ''
 ---
 

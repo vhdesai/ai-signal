@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
-embedding_id: null
+embedding_id: 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 event_name: ''
 ---
 

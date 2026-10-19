@@ -5,8 +5,8 @@ title: Cognichip, a startup building AI systems that design semiconductor chips,
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 26c18e526bd4c0609594b0be8bb4ecea58e5dfcaaeb33b54a186116ab64a3b76
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 - 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
-embedding_id: null
+embedding_id: 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
 event_name: ''
 ---
 

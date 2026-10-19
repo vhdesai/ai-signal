@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
 - 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
-embedding_id: null
+embedding_id: 2026-05-26-inside-openai-s-new-founder-experience-team-led-by-laura-mod
 event_name: ''
 ---
 

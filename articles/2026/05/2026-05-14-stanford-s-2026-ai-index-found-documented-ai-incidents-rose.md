@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
 event_name: ''
 ---
 

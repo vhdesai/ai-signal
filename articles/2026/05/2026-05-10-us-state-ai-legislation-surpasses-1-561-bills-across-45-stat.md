@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-embedding_id: null
+embedding_id: 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 event_name: ''
 ---
 

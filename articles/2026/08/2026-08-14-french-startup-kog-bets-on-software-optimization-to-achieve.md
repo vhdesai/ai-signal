@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
-embedding_id: null
+embedding_id: 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
 event_name: ''
 ---
 

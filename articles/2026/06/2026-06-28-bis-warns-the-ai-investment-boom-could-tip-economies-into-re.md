@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 - 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
-embedding_id: null
+embedding_id: 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 event_name: ''
 ---
 

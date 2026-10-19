@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-10-08-anthropic-updates-usage-policy-to-ban-model-abuse-election-i
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-embedding_id: null
+embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
 

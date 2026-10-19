@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
-embedding_id: null
+embedding_id: 2026-09-24-openai-expected-to-preview-a-cybersecurity-specific-model-gp
 event_name: ''
 ---
 

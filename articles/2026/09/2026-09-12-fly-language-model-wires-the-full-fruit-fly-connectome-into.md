@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-connectomics-milestone-mapping-the-complete-male-fruit-fly-b
 - 2026-09-22-tiny-software-layer-from-lab-grown-neurons-promises-faster-c
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
-embedding_id: null
+embedding_id: 2026-09-12-fly-language-model-wires-the-full-fruit-fly-connectome-into
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew
 - 2026-08-24-openai-s-gpt-5-6-family-lands-inside-aws-s-kiro-development
-embedding_id: null
+embedding_id: 2026-08-27-openai-s-gpt-5-6-family-lands-in-aws-kiro-coding-agent
 event_name: ''
 ---
 

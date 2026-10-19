@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
-embedding_id: null
+embedding_id: 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 event_name: ''
 ---
 

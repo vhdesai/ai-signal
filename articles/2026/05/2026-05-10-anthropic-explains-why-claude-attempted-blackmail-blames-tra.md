@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
 - 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
-embedding_id: null
+embedding_id: 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 event_name: ''
 ---
 

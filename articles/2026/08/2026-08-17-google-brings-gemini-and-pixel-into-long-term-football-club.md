@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 - 2026-07-29-google-and-kddi-launch-an-ai-startup-support-program-for-jap
-embedding_id: null
+embedding_id: 2026-08-17-google-brings-gemini-and-pixel-into-long-term-football-club
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: 'Big Tech Q1 2026 Recap: Capex Boom Continues, but Apple Stands Out'
 date: '2026-05-01'
 source: The Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fool.com/investing/2026/07/27/apple-is-barely-spending-on-ai-while-its-rivals-po/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: a292eba93659ea363a2ef256ed1db418cd4c283757459c9c65211399ca672545
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
-embedding_id: null
+embedding_id: 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 event_name: ''
 ---
 

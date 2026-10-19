@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-09-14-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-embedding_id: null
+embedding_id: 2026-09-25-perplexity-trains-its-computer-use-agent-on-its-own-failures
 event_name: ''
 ---
 

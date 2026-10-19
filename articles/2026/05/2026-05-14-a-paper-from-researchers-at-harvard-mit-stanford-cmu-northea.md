@@ -5,8 +5,8 @@ title: A paper from researchers at Harvard, MIT, Stanford, CMU, Northeastern, an
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://awesomeagents.ai/news/agents-of-chaos-stanford-harvard-ai-agent-red-team/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 932f6171b3399fb2407ea91f6a961e3466fe8bfaec377a9e22a1da2ce6b530a2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-10-05-researchers-track-ai-swarms-and-a-chinese-agent-fleet-as-rog
-embedding_id: null
+embedding_id: 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 event_name: ''
 ---
 

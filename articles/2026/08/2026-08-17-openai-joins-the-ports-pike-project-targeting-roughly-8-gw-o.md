@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-nvidia-details-ports-pike-infrastructure-support-for-openai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-openai-joins-the-ports-pike-project-targeting-roughly-8-gw-o
 event_name: ''
 ---
 

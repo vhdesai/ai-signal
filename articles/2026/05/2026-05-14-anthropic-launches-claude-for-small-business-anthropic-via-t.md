@@ -5,8 +5,8 @@ title: Anthropic launches Claude for Small Business — Anthropic via The Decode
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: b6d72c1a1279f3d230b8f99048f5d2a7a08b2859a20065cfe277fecb973b68df
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-launches-claude-for-small-business-anthropic-via-t
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-27-cxmt-surges-in-shanghai-debut-as-china-funds-ai-memory-indep
 - 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
 - 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
-embedding_id: null
+embedding_id: 2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe
 event_name: ''
 ---
 

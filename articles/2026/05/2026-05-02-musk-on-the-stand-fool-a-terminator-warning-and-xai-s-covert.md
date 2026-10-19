@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
-embedding_id: null
+embedding_id: 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
 event_name: ''
 ---
 

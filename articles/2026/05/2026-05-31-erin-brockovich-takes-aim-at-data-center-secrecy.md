@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
-embedding_id: null
+embedding_id: 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 event_name: ''
 ---
 

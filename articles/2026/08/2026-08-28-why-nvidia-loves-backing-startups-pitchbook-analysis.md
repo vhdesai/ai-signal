@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-embedding_id: null
+embedding_id: 2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis
 event_name: ''
 ---
 

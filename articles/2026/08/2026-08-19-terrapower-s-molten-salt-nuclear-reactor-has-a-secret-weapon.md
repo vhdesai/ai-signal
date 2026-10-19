@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
-embedding_id: null
+embedding_id: 2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon
 event_name: ''
 ---
 

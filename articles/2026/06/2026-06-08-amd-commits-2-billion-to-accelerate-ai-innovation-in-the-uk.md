@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-embedding_id: null
+embedding_id: 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-05-17-an-open-source-project-called-orthrus-qwen3-claims-up-to-7-8
 - 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
-embedding_id: null
+embedding_id: 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 event_name: ''
 ---
 

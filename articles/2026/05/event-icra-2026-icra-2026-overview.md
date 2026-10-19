@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
 related_article_ids: []
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-overview
 event_name: ICRA 2026
 ---
 

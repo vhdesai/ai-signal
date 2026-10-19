@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust
 - 2026-09-13-anthropic-ceo-s-call-to-slow-frontier-ai-receives-renewed-at
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-embedding_id: null
+embedding_id: 2026-08-06-how-dario-amodei-spread-anthropic-s-religion-and-angered-riv
 event_name: ''
 ---
 

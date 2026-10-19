@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-03-nvidia-acquires-enterprise-ai-startup-kumo-for-400m
 - 2026-08-12-openai-begins-testing-ads-in-chatgpt
 - 2026-04-01-products-tools
-embedding_id: null
+embedding_id: 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
 event_name: ''
 ---
 

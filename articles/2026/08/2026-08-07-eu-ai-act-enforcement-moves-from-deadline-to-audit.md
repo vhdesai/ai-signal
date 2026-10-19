@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
-embedding_id: null
+embedding_id: 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 event_name: ''
 ---
 

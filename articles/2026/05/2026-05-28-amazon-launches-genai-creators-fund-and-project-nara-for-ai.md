@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 - 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
 - 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
-embedding_id: null
+embedding_id: 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 event_name: ''
 ---
 

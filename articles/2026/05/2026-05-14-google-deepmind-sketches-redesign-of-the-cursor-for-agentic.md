@@ -4,8 +4,8 @@ title: Google DeepMind Sketches Redesign of the Cursor for Agentic Interfaces
 date: '2026-05-14'
 source: Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://opendatascience.com/google-deepmind-reimagines-the-mouse-pointer-for-the-ai-era/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: c30202a56ef8642c31ecadb2ca3536b79e099b2e55de9df2fcb035245f00facd
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 - 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
-embedding_id: null
+embedding_id: 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
 event_name: ''
 ---
 

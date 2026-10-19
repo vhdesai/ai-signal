@@ -4,8 +4,8 @@ title: Meta signs multi-billion-dollar chip agreement with AWS on Graviton
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 2abf2c0050bb9f01c6cf62ec1be3976e07b497f77ff7c23768eb7ffa18ed8c8b
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
 - 2026-09-30-synopsys-and-amazon-sign-a-1b-multi-year-custom-silicon-deal
-embedding_id: null
+embedding_id: 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 event_name: ''
 ---
 

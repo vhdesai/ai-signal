@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
-embedding_id: null
+embedding_id: 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 event_name: ''
 ---
 

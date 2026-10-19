@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-microsoft-s-claude-optimization-illustrates-the-next-phase-o
 - 2026-10-05-microsoft-trims-internal-claude-spending-meta-also-pulls-bac
 - 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
-embedding_id: null
+embedding_id: 2026-10-06-microsoft-tries-to-help-copilot-customers-cut-claude-costs
 event_name: ''
 ---
 

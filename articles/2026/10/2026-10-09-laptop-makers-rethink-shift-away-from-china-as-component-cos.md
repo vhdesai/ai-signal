@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
 - 2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an
-embedding_id: null
+embedding_id: 2026-10-09-laptop-makers-rethink-shift-away-from-china-as-component-cos
 event_name: ''
 ---
 

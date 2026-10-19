@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-anthropic-courts-investors-for-fall-ipo-burry-critiques-nvid
 event_name: ''
 ---
 

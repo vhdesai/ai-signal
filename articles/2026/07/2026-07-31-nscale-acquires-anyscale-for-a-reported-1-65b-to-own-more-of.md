@@ -6,7 +6,7 @@ date: '2026-07-31'
 source: Digital Market Reports
 url_original: https://digitalmarketreports.com/news/88257/nscale-acquires-anyscale-in-reported-1-65-billion-ai-infrastructure-deal/
 url_canonical: https://digitalmarketreports.com/news/88257/nscale-acquires-anyscale-in-reported-1-65-billion-ai-infrastructure-deal/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-31_061901_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 8fa23a2340a1d6ca28938b5a53abaf70656e7ab6c835d92fe32ed12d47935de2
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-nscale-acquires-anyscale-for-1-65b-to-own-more-of-the-ai-com
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of
 event_name: ''
 ---
 

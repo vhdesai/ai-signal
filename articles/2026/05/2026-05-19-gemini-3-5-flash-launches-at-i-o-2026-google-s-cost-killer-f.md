@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
-embedding_id: null
+embedding_id: 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 event_name: ''
 ---
 

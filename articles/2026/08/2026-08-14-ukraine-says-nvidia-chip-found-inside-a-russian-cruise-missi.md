@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-14-daily-ai-news-digest-august-15-2026
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-embedding_id: null
+embedding_id: 2026-08-14-ukraine-says-nvidia-chip-found-inside-a-russian-cruise-missi
 event_name: ''
 ---
 

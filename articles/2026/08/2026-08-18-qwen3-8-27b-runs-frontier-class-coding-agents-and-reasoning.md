@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-alibaba-qwen3-8-27b-runs-frontier-class-agents-locally
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning
 event_name: ''
 ---
 

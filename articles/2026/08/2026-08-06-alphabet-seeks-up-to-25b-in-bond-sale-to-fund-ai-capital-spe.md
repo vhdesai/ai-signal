@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
 - 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
-embedding_id: null
+embedding_id: 2026-08-06-alphabet-seeks-up-to-25b-in-bond-sale-to-fund-ai-capital-spe
 event_name: ''
 ---
 

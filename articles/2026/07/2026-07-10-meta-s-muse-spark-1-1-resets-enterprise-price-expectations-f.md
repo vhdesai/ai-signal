@@ -4,8 +4,8 @@ title: Meta's Muse Spark 1.1 resets enterprise price expectations for agentic co
 date: '2026-07-10'
 source: Computerworld
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.computerworld.com/article/4192733/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai-2.html
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 7bb5fb95a3b6226f8c69aaf7b95f88792b2a518e04ae5b46d23fe409a88afdc5
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 - 2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a
-embedding_id: null
+embedding_id: 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 event_name: ''
 ---
 

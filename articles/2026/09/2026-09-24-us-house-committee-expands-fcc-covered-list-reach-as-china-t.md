@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 - 2026-08-27-u-s-weighs-a-broader-semiconductor-tariff-regime-covering-se
 - 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
-embedding_id: null
+embedding_id: 2026-09-24-us-house-committee-expands-fcc-covered-list-reach-as-china-t
 event_name: ''
 ---
 

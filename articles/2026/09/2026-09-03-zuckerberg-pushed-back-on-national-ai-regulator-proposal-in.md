@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
-embedding_id: null
+embedding_id: 2026-09-03-zuckerberg-pushed-back-on-national-ai-regulator-proposal-in
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
-embedding_id: null
+embedding_id: 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 event_name: ''
 ---
 

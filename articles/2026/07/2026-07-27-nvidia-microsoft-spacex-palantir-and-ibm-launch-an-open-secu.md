@@ -29,7 +29,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 related_article_ids:
 - 2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-google-launches-gemini-3-7-flash-with-halved-intro-pricing
 - 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
-embedding_id: null
+embedding_id: 2026-08-13-gemini-3-7-flash-at-half-the-price-of-3-6-flash
 event_name: ''
 ---
 

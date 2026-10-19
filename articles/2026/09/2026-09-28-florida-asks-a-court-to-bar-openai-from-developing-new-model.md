@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-28-florida-ag-seeks-temporary-injunction-barring-openai-from-ne
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-28-florida-asks-a-court-to-bar-openai-from-developing-new-model
 event_name: ''
 ---
 

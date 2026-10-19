@@ -5,7 +5,7 @@ date: '2026-07-28'
 source: OpenAI Blog
 url_original: https://openai.com/index/scientific-computing-agentic-ai/
 url_canonical: https://openai.com/index/scientific-computing-agentic-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 22106ad76f8f6b985ce08659d0395dffabdc1bee89aca16fbe510b492e8f587b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
-embedding_id: null
+embedding_id: 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 event_name: ''
 ---
 

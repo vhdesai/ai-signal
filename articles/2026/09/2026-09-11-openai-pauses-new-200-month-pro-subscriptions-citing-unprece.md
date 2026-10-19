@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
 - 2026-09-11-openai-pauses-200-chatgpt-pro-sign-ups-as-astra-demand-outru
 - 2026-08-08-daily-ai-news-digest-august-8-2026
-embedding_id: null
+embedding_id: 2026-09-11-openai-pauses-new-200-month-pro-subscriptions-citing-unprece
 event_name: ''
 ---
 

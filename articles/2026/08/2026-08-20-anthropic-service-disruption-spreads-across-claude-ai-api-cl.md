@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-claude-hit-by-another-multi-model-outage-disrupting-develope
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-embedding_id: null
+embedding_id: 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 event_name: ''
 ---
 

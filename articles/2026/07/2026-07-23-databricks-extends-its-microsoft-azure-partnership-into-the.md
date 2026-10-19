@@ -29,7 +29,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
 - 2026-09-11-microsoft-aims-to-triple-azure-capacity-to-38gw-by-2032-amid
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
-embedding_id: null
+embedding_id: 2026-07-23-databricks-extends-its-microsoft-azure-partnership-into-the
 event_name: ''
 ---
 

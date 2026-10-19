@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-embedding_id: null
+embedding_id: 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 event_name: ''
 ---
 

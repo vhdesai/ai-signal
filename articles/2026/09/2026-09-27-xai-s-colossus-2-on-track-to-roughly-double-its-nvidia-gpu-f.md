@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
-embedding_id: null
+embedding_id: 2026-09-27-xai-s-colossus-2-on-track-to-roughly-double-its-nvidia-gpu-f
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-04-nvidia-discusses-2-5b-investment-in-mira-murati-s-thinking-m
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
-embedding_id: null
+embedding_id: 2026-09-03-accel-reportedly-in-talks-to-lead-1b-round-for-thinking-mach
 event_name: ''
 ---
 

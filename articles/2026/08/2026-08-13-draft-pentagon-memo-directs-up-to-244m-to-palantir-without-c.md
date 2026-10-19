@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-draft-pentagon-memo-directs-244m-to-palantir-without-competi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-draft-pentagon-memo-directs-up-to-244m-to-palantir-without-c
 event_name: ''
 ---
 

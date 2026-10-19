@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: null
+embedding_id: 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 event_name: ''
 ---
 

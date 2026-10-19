@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
 - 2026-08-01-the-anthropic-institute-published-an-analysis-arguing-that-a
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
-embedding_id: null
+embedding_id: 2026-09-24-study-top-ai-experts-badly-underestimated-how-fast-the-field
 event_name: ''
 ---
 

@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 event_name: ''
 ---
 

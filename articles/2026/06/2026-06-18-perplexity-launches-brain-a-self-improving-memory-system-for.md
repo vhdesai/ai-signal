@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
-embedding_id: null
+embedding_id: 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 event_name: ''
 ---
 

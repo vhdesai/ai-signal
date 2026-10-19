@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 - 2026-09-24-lightspeed-targets-250m-for-an-india-fund-dedicated-entirely
 - 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
-embedding_id: null
+embedding_id: 2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co
 event_name: ''
 ---
 

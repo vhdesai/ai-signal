@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f
 - 2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde
 - 2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26
-- 2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale
-embedding_id: null
+- 2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring
+embedding_id: 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Anthropic's sixth Economic Index ("Cadences") pairs hourly usage telemetry and a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-08-12-anthropic-research-worker-retraining-programs-may-not-scale]]
+**Related:** [[2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads]] · [[2026-09-17-anthropic-reports-claude-now-leads-26-of-its-own-ai-r-d-up-f]] · [[2026-09-17-anthropic-claude-now-leads-26-of-its-own-ai-r-d-up-from-unde]] · [[2026-09-18-anthropic-publishes-an-r-d-automation-index-claude-leads-26]] · [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring]]
 <!-- graph:end -->

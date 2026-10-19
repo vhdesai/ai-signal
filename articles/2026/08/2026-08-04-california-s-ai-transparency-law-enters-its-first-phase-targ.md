@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
 - 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
-embedding_id: null
+embedding_id: 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 event_name: ''
 ---
 

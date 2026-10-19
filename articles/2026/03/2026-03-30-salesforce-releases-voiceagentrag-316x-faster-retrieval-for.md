@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-latency-benchmark-argues-voice-agents-need-ttfs-not-just-ttf
 - 2026-08-30-time-to-first-token-benchmark-for-voice-and-realtime-agent-i
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
-embedding_id: null
+embedding_id: 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 event_name: ''
 ---
 

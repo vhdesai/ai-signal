@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine
 - 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
-embedding_id: null
+embedding_id: 2026-08-21-brazil-commits-444-million-to-domestic-ai-capacity-with-u-s
 event_name: ''
 ---
 

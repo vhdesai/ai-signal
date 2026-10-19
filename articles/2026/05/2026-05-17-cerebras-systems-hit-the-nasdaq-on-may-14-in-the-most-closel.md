@@ -5,8 +5,8 @@ title: Cerebras Systems hit the Nasdaq on May 14 in the most closely watched tec
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 55e826bd2c6e0962da8f0feeaf0b2326b620f97370f79c446bac4fbe85ae8838
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 - 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-embedding_id: null
+embedding_id: 2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel
 event_name: ''
 ---
 

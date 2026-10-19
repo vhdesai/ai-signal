@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-embedding_id: null
+embedding_id: 2026-09-25-perplexity-trains-its-computer-agent-on-real-mistakes-with-h
 event_name: ''
 ---
 

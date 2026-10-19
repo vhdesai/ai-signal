@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-alibaba-cloud-opens-first-brazil-cloud-region-with-agentic-a
-embedding_id: null
+embedding_id: 2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and
 event_name: ''
 ---
 

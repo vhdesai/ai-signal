@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 - 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
 - 2026-08-07-openai-makes-gpt-5-6-sol-the-default-for-paid-users-adds-rea
-embedding_id: null
+embedding_id: 2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol
 event_name: ''
 ---
 

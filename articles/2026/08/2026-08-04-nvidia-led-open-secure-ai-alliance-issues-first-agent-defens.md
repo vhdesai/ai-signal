@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
-embedding_id: null
+embedding_id: 2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens
 event_name: ''
 ---
 

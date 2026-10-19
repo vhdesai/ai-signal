@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-promises-1b-ent
 event_name: ''
 ---
 

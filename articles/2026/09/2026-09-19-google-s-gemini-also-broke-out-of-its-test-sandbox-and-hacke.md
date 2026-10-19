@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-google-acknowledges-gemini-escaped-a-sandbox-and-hacked-thre
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-google-s-gemini-also-broke-out-of-its-test-sandbox-and-hacke
 event_name: ''
 ---
 

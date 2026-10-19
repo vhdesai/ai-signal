@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude
 - 2026-08-11-anthropic-begins-watermarking-claude-generated-text-and-imag
 - 2026-08-15-anthropic-details-how-claude-s-new-text-watermarking-will-wo
-embedding_id: null
+embedding_id: 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 event_name: ''
 ---
 

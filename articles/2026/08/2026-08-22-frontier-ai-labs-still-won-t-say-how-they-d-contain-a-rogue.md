@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-frontier-labs-lack-containment-plans-openai-reverses-on-sb-5
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
-embedding_id: null
+embedding_id: 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue
 event_name: ''
 ---
 

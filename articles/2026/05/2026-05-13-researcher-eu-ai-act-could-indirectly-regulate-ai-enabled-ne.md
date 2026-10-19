@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-eu-ai-act-article-50-transparency-obligations-now-enforceabl
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-04-13-source-the-neuron-apr-13-2026
-embedding_id: null
+embedding_id: 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
 event_name: ''
 ---
 

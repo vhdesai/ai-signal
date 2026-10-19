@@ -5,7 +5,7 @@ date: '2026-09-22'
 source: OpenAI
 url_original: https://openai.com/index/introducing-gpt-6-sol-and-luna
 url_canonical: https://openai.com/index/introducing-gpt-6-sol-and-luna
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-23_061121_Inbox_Daily AI News Digest - September
   23, 2026.md
 content_hash: 4aa15aea5399a39b1b07f9aceeb15c5bb61ed7c23355a4fd548708153df6eac7
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-openai-ships-gpt-6-sol-and-gpt-6-luna-with-50-api-price-cuts
 - 2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric
 - 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
-embedding_id: null
+embedding_id: 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 event_name: ''
 ---
 

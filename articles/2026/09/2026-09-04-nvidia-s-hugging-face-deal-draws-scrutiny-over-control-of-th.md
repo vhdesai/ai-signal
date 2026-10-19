@@ -22,7 +22,7 @@ canonical_article_id: 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-contro
 related_article_ids:
 - 2026-09-04-nvidia-s-hugging-face-deal-sharpens-debate-over-who-controls
 - 2026-09-05-nvidia-s-hugging-face-deal-keeps-reshaping-the-open-model-su
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-s-hugging-face-deal-draws-scrutiny-over-control-of-th
 event_name: ''
 ---
 

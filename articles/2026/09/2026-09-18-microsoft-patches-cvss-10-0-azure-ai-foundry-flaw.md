@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-15-microsoft-patches-record-570-vulnerabilities-citing-ai-assis
 - 2026-07-24-xbow-s-autonomous-security-agent-finds-two-critical-bing-ima
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-embedding_id: null
+embedding_id: 2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw
 event_name: ''
 ---
 

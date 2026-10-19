@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-27-100-companies-including-openai-anthropic-google
 related_article_ids:
 - 2026-08-27-over-100-companies-including-openai-anthropic-google-and-mic
 - 2026-08-27-100-companies-call-for-rogue-ai-defense-continued
-embedding_id: null
+embedding_id: 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-07-openai-slows-astra-model-development-after-cyber-capability
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-embedding_id: null
+embedding_id: 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
 event_name: ''
 ---
 

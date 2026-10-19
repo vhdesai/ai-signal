@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 - 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
-embedding_id: null
+embedding_id: 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
 event_name: ''
 ---
 

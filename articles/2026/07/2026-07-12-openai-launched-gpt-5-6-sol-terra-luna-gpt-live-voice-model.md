@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
-embedding_id: null
+embedding_id: 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 event_name: ''
 ---
 

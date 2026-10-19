@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-google-launches-gemini-3-8-flash-and-a-cyber-defense-variant
-embedding_id: null
+embedding_id: 2026-09-03-google-ships-gemini-3-8-flash-and-a-restricted-gemini-3-8-fl
 event_name: ''
 ---
 

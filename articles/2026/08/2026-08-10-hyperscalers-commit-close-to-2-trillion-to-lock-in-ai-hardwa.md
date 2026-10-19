@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 - 2026-08-03-estimates-above-1-trillion-in-hyperscaler-capex-for-2027-und
-embedding_id: null
+embedding_id: 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 event_name: ''
 ---
 

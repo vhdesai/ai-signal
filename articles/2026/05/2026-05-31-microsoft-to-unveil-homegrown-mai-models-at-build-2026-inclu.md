@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-microsoft-debuts-seven-in-house-mai-models-to-cut-openai-dep
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-embedding_id: null
+embedding_id: 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 event_name: ''
 ---
 

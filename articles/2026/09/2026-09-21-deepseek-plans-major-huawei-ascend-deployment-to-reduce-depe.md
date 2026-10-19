@@ -27,7 +27,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
 related_article_ids:
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
-embedding_id: null
+embedding_id: 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 event_name: ''
 ---
 

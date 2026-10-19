@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-xai-officially-rebrands-to-spacexai
 - 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 - 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
-embedding_id: null
+embedding_id: 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
 event_name: ''
 ---
 

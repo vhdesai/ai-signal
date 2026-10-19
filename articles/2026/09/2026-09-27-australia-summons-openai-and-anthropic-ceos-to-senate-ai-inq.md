@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-a-senate-ai-i
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-27-australia-summons-openai-and-anthropic-ceos-to-senate-ai-inq
 event_name: ''
 ---
 

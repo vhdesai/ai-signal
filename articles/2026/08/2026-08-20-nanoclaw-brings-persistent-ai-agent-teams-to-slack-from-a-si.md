@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-08-20-slack-launches-slack-code-putting-ai-coding-agents-inside-te
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
-embedding_id: null
+embedding_id: 2026-08-20-nanoclaw-brings-persistent-ai-agent-teams-to-slack-from-a-si
 event_name: ''
 ---
 

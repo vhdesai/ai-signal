@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14
 - 2026-05-27-arxiv-cs-ai-submissions-sustain-high-volume-through-the-wind
 - 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
-embedding_id: null
+embedding_id: 2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion
 event_name: ''
 ---
 

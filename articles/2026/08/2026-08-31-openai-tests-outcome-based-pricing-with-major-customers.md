@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-ai-vendors-test-outcome-based-pricing-as-salesforce-style-mo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-openai-tests-outcome-based-pricing-with-major-customers
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: OpenAI
 url_original: https://openai.com/index/an-alien-mind/
 url_canonical: https://openai.com/index/an-alien-mind/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_060333_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: a5be763f2a1cea43f22746bd069c0fec9010df8368f89c8ac8d06edd43efdc4a
@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-06-an-alien-mind-openai-s-chief-scientist-calls-for-voluntary-s
-embedding_id: null
+embedding_id: 2026-09-06-openai-s-chief-scientist-calls-frontier-models-an-alien-mind
 event_name: ''
 ---
 

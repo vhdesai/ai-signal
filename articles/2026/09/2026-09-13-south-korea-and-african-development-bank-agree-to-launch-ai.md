@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
-embedding_id: null
+embedding_id: 2026-09-13-south-korea-and-african-development-bank-agree-to-launch-ai
 event_name: ''
 ---
 

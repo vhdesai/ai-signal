@@ -5,8 +5,8 @@ title: A landmark multi-institution paper by MIT, Stanford, CMU, Harvard, and No
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ragaboutit.com/7-rag-failure-modes-crippling-enterprise-deployments-in-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 61baf63f27f63063ed0107156acfdb67e9480dbd7eb5b41d63ffa67936e13df1
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-09-24-new-study-measures-shutdown-sabotage-propensities-in-multi-a
 - 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
-embedding_id: null
+embedding_id: 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 event_name: ''
 ---
 

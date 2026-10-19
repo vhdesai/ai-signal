@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
-embedding_id: null
+embedding_id: 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
 event_name: ''
 ---
 

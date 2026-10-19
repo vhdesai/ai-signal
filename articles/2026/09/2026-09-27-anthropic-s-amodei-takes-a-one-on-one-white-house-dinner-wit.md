@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 related_article_ids:
 - 2026-09-27-trump-hosts-anthropic-ceo-dario-amodei-for-first-one-on-one
-embedding_id: null
+embedding_id: 2026-09-27-anthropic-s-amodei-takes-a-one-on-one-white-house-dinner-wit
 event_name: ''
 ---
 

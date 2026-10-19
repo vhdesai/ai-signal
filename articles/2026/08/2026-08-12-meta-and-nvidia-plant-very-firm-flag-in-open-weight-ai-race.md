@@ -28,7 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
-embedding_id: null
+embedding_id: 2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race
 event_name: ''
 ---
 

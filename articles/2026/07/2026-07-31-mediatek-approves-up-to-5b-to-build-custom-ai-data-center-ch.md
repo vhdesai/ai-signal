@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
 event_name: ''
 ---
 

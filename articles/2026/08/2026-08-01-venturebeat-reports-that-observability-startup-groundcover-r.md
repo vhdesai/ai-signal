@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-12-lovable-confirms-400m-series-c-at-a-13-3b-valuation
 - 2026-08-13-deepseek-ships-v4-pro-open-source-harness-then-raises-prices
 - 2026-08-20-one-in-five-enterprises-cannot-halt-a-runaway-ai-agent-s-spe
-embedding_id: null
+embedding_id: 2026-08-01-venturebeat-reports-that-observability-startup-groundcover-r
 event_name: ''
 ---
 

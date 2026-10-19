@@ -33,7 +33,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
-embedding_id: null
+embedding_id: 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 event_name: ''
 ---
 

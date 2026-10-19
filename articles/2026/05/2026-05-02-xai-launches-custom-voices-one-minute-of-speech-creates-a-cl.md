@@ -5,8 +5,8 @@ title: 'xAI Launches Custom Voices: One Minute of Speech Creates a Cloneable Voi
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://x.ai/news/grok-custom-voices
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: a01502b61546a12512a319b5d097e5f936e5efe7710abb0a4cf5e739967b25fb
 normalized_title_hash: 671efc862c7d941a
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-09-18-xai-releases-grok-voice-transcribe-2-0-for-lower-cost-speech
-embedding_id: null
+embedding_id: 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 event_name: ''
 ---
 

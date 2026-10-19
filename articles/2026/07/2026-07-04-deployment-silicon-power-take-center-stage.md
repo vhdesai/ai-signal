@@ -4,8 +4,8 @@ title: Deployment, Silicon & Power Take Center Stage
 date: '2026-07-04'
 source: 'Source window: Jul 2 – Jul 4, 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.siliconreport.com/ai-datacenter-power-crunch-electricity-bottleneck-31b33b49
+url_status: repaired
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: b5322cb804957f7b5adafb2013418a6ab66fd39c8406e967b2f4e1bb315970f2
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-12-july-13-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-08-01-the-ai-brief-august-1-2026
-embedding_id: null
+embedding_id: 2026-07-04-deployment-silicon-power-take-center-stage
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-08-16-patients-and-clinicians-increasingly-use-ai-to-identify-rare
 - 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
-embedding_id: null
+embedding_id: 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 event_name: ''
 ---
 

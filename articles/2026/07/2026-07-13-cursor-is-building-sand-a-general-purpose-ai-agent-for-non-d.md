@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d
 event_name: ''
 ---
 

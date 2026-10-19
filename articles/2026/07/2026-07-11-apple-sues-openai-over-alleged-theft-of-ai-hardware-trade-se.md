@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-11-apple-sues-openai-over-alleged-theft-of-ai-hardware-trade-se
 event_name: ''
 ---
 

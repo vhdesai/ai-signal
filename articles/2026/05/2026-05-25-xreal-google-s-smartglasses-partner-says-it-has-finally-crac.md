@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 - 2026-04-10-snap-announced-a-partnership-between-its-ar-glasses-subsidia
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-embedding_id: null
+embedding_id: 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
 event_name: ''
 ---
 

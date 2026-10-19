@@ -4,8 +4,8 @@ title: Google plans up to $40B Anthropic investment
 date: '2026-04-25'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://intellectia.ai/blog/google-anthropic-40b-investment-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: e88ddf2a9f1be59298f44a18ada9147a510c7925daff0416be1c489c993a25bb
 normalized_title_hash: b9b4b2bc3bf9a7a4
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
-embedding_id: null
+embedding_id: 2026-04-25-google-plans-up-to-40b-anthropic-investment
 event_name: ''
 ---
 

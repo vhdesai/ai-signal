@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
 - 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
-embedding_id: null
+embedding_id: 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 event_name: ''
 ---
 

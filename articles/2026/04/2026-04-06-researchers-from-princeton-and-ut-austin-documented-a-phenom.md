@@ -5,8 +5,8 @@ title: Researchers from Princeton and UT Austin documented a phenomenon in which
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hackernoon.com/the-hidden-surprises-of-ai-when-language-models-develop-unexpected-abilities
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: 2a6d92982fc599a5dc80a7972e5fd5748aa09ef64ac67d9c5af54a974ee5cc51
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
-embedding_id: null
+embedding_id: 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
 event_name: ''
 ---
 

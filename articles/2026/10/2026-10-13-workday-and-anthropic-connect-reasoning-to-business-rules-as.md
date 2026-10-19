@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
-embedding_id: null
+embedding_id: 2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as
 event_name: ''
 ---
 

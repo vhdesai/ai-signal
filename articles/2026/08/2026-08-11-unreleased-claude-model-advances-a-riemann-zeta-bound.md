@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
 related_article_ids:
 - 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
-embedding_id: null
+embedding_id: 2026-08-11-unreleased-claude-model-advances-a-riemann-zeta-bound
 event_name: ''
 ---
 

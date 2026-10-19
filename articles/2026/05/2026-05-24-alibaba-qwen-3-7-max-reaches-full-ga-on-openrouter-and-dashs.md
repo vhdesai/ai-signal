@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
 - 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 - 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
-embedding_id: null
+embedding_id: 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 event_name: ''
 ---
 

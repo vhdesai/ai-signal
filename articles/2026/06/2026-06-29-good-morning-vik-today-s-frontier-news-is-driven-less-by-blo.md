@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-07-daily-ai-news-digest-july-8-2026
-embedding_id: null
+embedding_id: 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 - 2026-09-14-apple-s-rebuilt-siri-ships-in-ios-27
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
-embedding_id: null
+embedding_id: 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - event-icra-2026-icra-2026-overview
 - event-icra-2026-icra-2026-multi-task-policy-learning
 - event-icra-2026-icra-2026-strategic-implications
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-dexterous-manipulation-and-perception
 event_name: ICRA 2026
 ---
 

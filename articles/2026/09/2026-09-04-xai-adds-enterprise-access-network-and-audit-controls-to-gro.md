@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-xai-opens-public-beta-of-team-bots-shared-grok-ai-coworkers
 - 2026-09-11-xai-s-grok-bot-adds-salesforce-hubspot-gong-clay-and-microso
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
-embedding_id: null
+embedding_id: 2026-09-04-xai-adds-enterprise-access-network-and-audit-controls-to-gro
 event_name: ''
 ---
 

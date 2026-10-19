@@ -4,8 +4,8 @@ title: Purdue's Anvil supercomputer upgraded with NSF NAIRR AI dataset repositor
 date: '2026-05-20'
 source: ACCESS-CI  · Purdue University
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.rcac.purdue.edu/compute/anvil
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 8cded2df32ef5a44d9c71803eb147ca5f562fa59a2783efaed12b666380d6163
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
 - 2026-05-13-conference-proceedings-published-through-springer-today-high
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
-embedding_id: null
+embedding_id: 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
 event_name: ''
 ---
 

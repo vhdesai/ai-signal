@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-10-10-ai-meets-living-cells-in-a-28-6m-bid-to-predict-protein-misf
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-embedding_id: null
+embedding_id: 2026-10-07-zuckerberg-biohub-us-partners-and-google-build-a-virtual-cel
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
-embedding_id: null
+embedding_id: 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
 event_name: ''
 ---
 

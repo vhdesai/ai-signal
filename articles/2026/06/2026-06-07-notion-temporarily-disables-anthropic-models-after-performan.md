@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-anthropic-cuts-live-internet-access-for-internal-evaluations
 - 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-embedding_id: null
+embedding_id: 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
 event_name: ''
 ---
 

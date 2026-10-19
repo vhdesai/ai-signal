@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
-embedding_id: null
+embedding_id: 2026-08-26-ex-meta-scientists-launch-perceptron-to-bring-visual-ai-to-t
 event_name: ''
 ---
 

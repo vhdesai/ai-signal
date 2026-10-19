@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-embedding_id: null
+embedding_id: 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 event_name: ''
 ---
 

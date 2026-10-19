@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 - 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 event_name: ''
 ---
 

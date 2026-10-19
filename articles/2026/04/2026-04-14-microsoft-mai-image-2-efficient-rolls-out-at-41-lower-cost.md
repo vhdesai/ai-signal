@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost
 event_name: ''
 ---
 

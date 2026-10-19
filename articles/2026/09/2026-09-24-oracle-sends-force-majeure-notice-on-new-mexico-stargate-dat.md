@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-oracle-sends-force-majeure-notice-on-its-new-mexico-stargate
-embedding_id: null
+embedding_id: 2026-09-24-oracle-sends-force-majeure-notice-on-new-mexico-stargate-dat
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
-embedding_id: null
+embedding_id: 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 event_name: ''
 ---
 

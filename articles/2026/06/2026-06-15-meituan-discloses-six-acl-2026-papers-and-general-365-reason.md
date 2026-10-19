@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
-embedding_id: null
+embedding_id: 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
 event_name: ''
 ---
 

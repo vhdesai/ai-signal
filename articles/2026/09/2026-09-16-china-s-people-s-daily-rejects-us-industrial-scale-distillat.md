@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-09-09-us-government-accuses-six-chinese-ai-firms-of-large-scale-mo
 - 2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta
-embedding_id: null
+embedding_id: 2026-09-16-china-s-people-s-daily-rejects-us-industrial-scale-distillat
 event_name: ''
 ---
 

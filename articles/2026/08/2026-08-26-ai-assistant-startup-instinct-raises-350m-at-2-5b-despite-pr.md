@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still
 related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-at-2-5b-privacy-scrut
-embedding_id: null
+embedding_id: 2026-08-26-ai-assistant-startup-instinct-raises-350m-at-2-5b-despite-pr
 event_name: ''
 ---
 

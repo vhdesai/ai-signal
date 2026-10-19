@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 - 2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel
 - 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
-embedding_id: null
+embedding_id: 2026-05-14-cerebras-prices-5-5b-ipo-above-range-wsj-may-13-2026-cerebra
 event_name: ''
 ---
 

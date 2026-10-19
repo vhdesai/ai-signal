@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-emerald-ai-raises-150m-at-a-1-05b-valuation-to-make-data-cen
 - 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 - 2026-08-15-nvidia-in-talks-to-invest-3b-in-softbank-s-sb-energy-for-ope
-embedding_id: null
+embedding_id: 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 event_name: ''
 ---
 

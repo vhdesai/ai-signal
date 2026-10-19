@@ -21,10 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-embedding_id: null
+embedding_id: 2026-10-09-danu-robotics-pushes-ai-waste-sorting-toward-commercial-reli
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Danu Robotics is working on AI-powered recycling robots for mixed recyclable was
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
+**Related:** [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
 <!-- graph:end -->

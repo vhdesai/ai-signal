@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-12-amodei-calls-for-pacing-the-frontier-openai-says-it-will-mat
 event_name: ''
 ---
 

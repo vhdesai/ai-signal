@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-09-19-frontier-labs-finra-style-safety-body-draws-cartel-charge-fr
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
-embedding_id: null
+embedding_id: 2026-09-15-antitrust-exposure-lands-cohere-s-gomez-calls-the-coordinati
 event_name: ''
 ---
 

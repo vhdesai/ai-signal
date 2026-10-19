@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-deepx-s-new-valuation-highlights-persistent-investor-appetit
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-07-23-inference-chip-startup-etched-doubles-valuation-to-10-3b-in
-embedding_id: null
+embedding_id: 2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i
 event_name: ''
 ---
 

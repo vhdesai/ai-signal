@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-14-openai-acquires-smartphone-camera-maker-glass-imaging-for-ov
 - 2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
-embedding_id: null
+embedding_id: 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 event_name: ''
 ---
 

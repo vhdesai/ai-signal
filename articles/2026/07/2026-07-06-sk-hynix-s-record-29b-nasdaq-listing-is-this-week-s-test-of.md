@@ -4,8 +4,8 @@ title: SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor
 date: '2026-07-06'
 source: Fortune
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/07/06/sk-hynix-ipo-stock-offer-nasdaq-29-billion-ai/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_062502_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 665c0d1ebfffa4b2b721deaab5fdcc75101c9c45bdc809c46132dde7120f549b
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-07-11-sk-hynix-surges-13-in-nasdaq-debut
-embedding_id: null
+embedding_id: 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 event_name: ''
 ---
 

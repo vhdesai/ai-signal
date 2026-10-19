@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
-embedding_id: null
+embedding_id: 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 event_name: ''
 ---
 

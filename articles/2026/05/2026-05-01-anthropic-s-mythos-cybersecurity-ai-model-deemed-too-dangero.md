@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 - 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-embedding_id: null
+embedding_id: 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 event_name: ''
 ---
 

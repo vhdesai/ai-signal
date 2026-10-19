@@ -5,8 +5,8 @@ title: Goldman Sachs warns the U.S. will bear the brunt of a global AI-induced i
 date: '2026-07-11'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/us-inflation-outlook-economy-ai-memory-software-prices-goldman-sachs-2026-7
+url_status: repaired
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: dd8812053c78c8bedf6dc244ce1541e6eb021409f268dfc2da92e5b686c7c955
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
-embedding_id: null
+embedding_id: 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
 event_name: ''
 ---
 

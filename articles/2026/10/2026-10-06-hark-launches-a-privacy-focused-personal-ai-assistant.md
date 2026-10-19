@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 - 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: null
+embedding_id: 2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant
 event_name: ''
 ---
 

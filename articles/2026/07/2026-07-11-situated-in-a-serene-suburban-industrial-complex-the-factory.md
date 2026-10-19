@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
-embedding_id: null
+embedding_id: 2026-07-11-situated-in-a-serene-suburban-industrial-complex-the-factory
 event_name: ''
 ---
 

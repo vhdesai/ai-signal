@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-09-taiwan-s-august-exports-hit-record-82-4b-on-ai-and-hpc-deman
 - 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
 - 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
-embedding_id: null
+embedding_id: 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 event_name: ''
 ---
 

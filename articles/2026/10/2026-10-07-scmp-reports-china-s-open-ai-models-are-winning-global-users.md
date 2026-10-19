@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-18-rhodium-top-chinese-ai-models-generate-10-of-openai-anthropi
 - 2026-04-23-the-most-important-ai-developments-across-industry-research
 - 2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai
-embedding_id: null
+embedding_id: 2026-10-07-scmp-reports-china-s-open-ai-models-are-winning-global-users
 event_name: ''
 ---
 

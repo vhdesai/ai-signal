@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
-embedding_id: null
+embedding_id: 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-embedding_id: null
+embedding_id: 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 event_name: ''
 ---
 

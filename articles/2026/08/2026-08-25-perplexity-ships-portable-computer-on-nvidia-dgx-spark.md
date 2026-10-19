@@ -5,7 +5,7 @@ date: '2026-08-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/
 url_canonical: https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-26_061028_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 19e1680eab9dd5573fb43e2c6f6816f0f8e43a099013ffb7dbabc57830140023
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-09-02-perplexity-adds-hybrid-compute-so-agents-can-keep-sensitive
 - 2026-09-05-perplexity-details-the-gpu-serving-stack-behind-pplx-embed
-embedding_id: null
+embedding_id: 2026-08-25-perplexity-ships-portable-computer-on-nvidia-dgx-spark
 event_name: ''
 ---
 

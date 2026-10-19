@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/
 url_canonical: https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: 75f9e34168c762d0200f3511755f8b71a4cf59e9aee2326e0cd3f24873fd0f6e
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 - 2026-08-29-nvidia-developer-updates-point-to-local-tensorrt-llm-deploym
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-earth2studio-tutorial-shows-custom-ensemble-forecasti
 event_name: ''
 ---
 

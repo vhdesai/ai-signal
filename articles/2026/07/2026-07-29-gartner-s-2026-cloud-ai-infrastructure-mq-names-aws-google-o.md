@@ -28,7 +28,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
 event_name: ''
 ---
 

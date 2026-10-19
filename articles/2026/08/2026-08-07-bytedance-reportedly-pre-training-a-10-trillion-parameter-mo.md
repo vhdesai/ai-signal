@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-embedding_id: null
+embedding_id: 2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo
 event_name: ''
 ---
 

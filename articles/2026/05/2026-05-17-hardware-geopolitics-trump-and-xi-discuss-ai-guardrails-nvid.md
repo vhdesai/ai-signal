@@ -5,8 +5,8 @@ title: ⚙️ Hardware & Geopolitics Trump and Xi Discuss AI Guardrails; Nvidia 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theneuralfeed.com/article/trump-xi-weigh-ai-guardrails-as-nvidia-chip-exports-hang-in-the-balance/v2QUznoV
+url_status: repaired
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b6096e9c7634ef45d15f3f25123b48d277bf0f38dc03451d818f357235bf1068
@@ -36,7 +36,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
-embedding_id: null
+embedding_id: 2026-05-17-hardware-geopolitics-trump-and-xi-discuss-ai-guardrails-nvid
 event_name: ''
 ---
 

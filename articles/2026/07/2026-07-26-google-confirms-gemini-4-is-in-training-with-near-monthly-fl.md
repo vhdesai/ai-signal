@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-google-says-flagship-gemini-4-is-nearing-release
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
 - 2026-09-25-google-plans-gemini-4-release-before-year-end
-embedding_id: null
+embedding_id: 2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl
 event_name: ''
 ---
 

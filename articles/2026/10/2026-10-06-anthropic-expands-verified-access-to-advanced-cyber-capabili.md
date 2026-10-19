@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-anthropic-offers-free-vulnerability-finding-service-for-open
 - 2026-08-31-anthropic-publishes-new-alignment-and-security-measures-afte
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+embedding_id: 2026-10-06-anthropic-expands-verified-access-to-advanced-cyber-capabili
 event_name: ''
 ---
 

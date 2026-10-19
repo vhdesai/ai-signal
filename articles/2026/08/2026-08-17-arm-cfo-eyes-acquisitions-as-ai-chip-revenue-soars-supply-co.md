@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 - 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
 - 2026-09-18-nvidia-signals-a-100b-gap-between-ai-chip-demand-and-global
-embedding_id: null
+embedding_id: 2026-08-17-arm-cfo-eyes-acquisitions-as-ai-chip-revenue-soars-supply-co
 event_name: ''
 ---
 

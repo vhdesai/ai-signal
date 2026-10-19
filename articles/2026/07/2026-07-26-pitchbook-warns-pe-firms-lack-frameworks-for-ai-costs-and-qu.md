@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 - 2026-09-27-pitchbook-weekend-pitch-should-pe-partners-actually-know-how
-embedding_id: null
+embedding_id: 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 event_name: ''
 ---
 

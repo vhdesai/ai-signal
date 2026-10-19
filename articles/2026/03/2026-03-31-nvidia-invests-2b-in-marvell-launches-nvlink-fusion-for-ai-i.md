@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-02-jensen-huang-says-marvell-could-be-the-next-trillion-dollar
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-08-31-nvidia-invests-3-5-billion-in-mediatek-and-deepens-its-ai-in
-embedding_id: null
+embedding_id: 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 event_name: ''
 ---
 

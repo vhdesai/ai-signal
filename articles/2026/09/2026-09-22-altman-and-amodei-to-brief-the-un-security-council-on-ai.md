@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-altman-and-amodei-expected-before-the-un-security-council-to
 - 2026-09-22-amodei-and-deepseek-to-separately-brief-the-un-security-coun
 - 2026-09-22-anthropic-s-amodei-and-deepseek-will-separately-brief-the-un
-embedding_id: null
+embedding_id: 2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai
 event_name: ''
 ---
 

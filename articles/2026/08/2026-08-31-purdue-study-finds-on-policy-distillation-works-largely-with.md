@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-two-year-randomized-classroom-study-banning-ai-leaves-studen
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-09-23-studentbench-finds-ai-and-human-tutoring-produce-equivalent
-embedding_id: null
+embedding_id: 2026-08-31-purdue-study-finds-on-policy-distillation-works-largely-with
 event_name: ''
 ---
 

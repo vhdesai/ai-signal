@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
-embedding_id: null
+embedding_id: 2026-07-22-google-defends-ai-capex-with-booming-cloud-growth
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
-embedding_id: null
+embedding_id: 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-embedding_id: null
+embedding_id: 2026-08-26-time-publishes-inside-openai-s-reboot-a-sam-altman-interview
 event_name: ''
 ---
 

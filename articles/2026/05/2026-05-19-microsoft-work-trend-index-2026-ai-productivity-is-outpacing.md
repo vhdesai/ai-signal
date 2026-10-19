@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-for-all-their-talk-about-ai-few-companies-are-quantifying-ga
 - 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
-embedding_id: null
+embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 event_name: ''
 ---
 

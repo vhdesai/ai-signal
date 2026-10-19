@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-label-on-an
 - 2026-08-28-federal-judge-voids-pentagon-s-supply-chain-risk-designation
 - 2026-08-28-federal-judge-rules-pentagon-illegally-labeled-anthropic-a-s
-embedding_id: null
+embedding_id: 2026-08-28-anthropic-s-pentagon-victory-judge-rules-supply-chain-label
 event_name: ''
 ---
 

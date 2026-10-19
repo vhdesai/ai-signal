@@ -5,8 +5,8 @@ title: xAI in Talks with Mistral and Cursor for Three-Way Partnership — SpaceX
 date: '2026-05-17'
 source: Business Insider / WebProNews
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: cf9d0714feef1e1e209557b7048c1c45b0be67db33aebe75b15f7dc5a6afd861
@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
 - 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
-embedding_id: null
+embedding_id: 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 event_name: ''
 ---
 

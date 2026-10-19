@@ -5,8 +5,8 @@ title: U.S. DoC Expands Pre-Release AI Safety Testing to Five Labs — Google De
 date: '2026-05-12'
 source: FutureAGI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.how2shout.com/news/nist-caisi-ai-testing-google-deepmind-microsoft-xai-national-security.html
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 13294bc40afe4f8d2850c14e5a6ae420f4cb299ac074cb3a0e66a24409c4f8da
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-11-uk-regains-pre-release-access-to-frontier-models-for-safety
 - 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-embedding_id: null
+embedding_id: 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 event_name: ''
 ---
 

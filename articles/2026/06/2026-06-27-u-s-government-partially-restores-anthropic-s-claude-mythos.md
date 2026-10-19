@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
 - 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-embedding_id: null
+embedding_id: 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 event_name: ''
 ---
 

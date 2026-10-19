@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
-embedding_id: null
+embedding_id: 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 event_name: ''
 ---
 

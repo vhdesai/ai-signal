@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
 - 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
-embedding_id: null
+embedding_id: 2026-07-21-openai-says-its-pre-release-models-breached-hugging-face-dur
 event_name: ''
 ---
 

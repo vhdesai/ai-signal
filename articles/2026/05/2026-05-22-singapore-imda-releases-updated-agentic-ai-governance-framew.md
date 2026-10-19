@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
 - 2026-09-23-september-24-2026
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
-embedding_id: null
+embedding_id: 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Moment raises $78M Series C to automate fixed-income and equities trading
 date: '2026-05-23'
 source: Bloomberg via Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-19/former-citadel-quants-raise-78-million-for-ai-fintech-moment
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: a29e66a3d11cad36781a081f40b2672e921b4e0c959de8458585a5f49b518ed0
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 - 2026-08-12-ai-coding-startup-cognition-in-talks-to-raise-at-a-40b-valua
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
-embedding_id: null
+embedding_id: 2026-05-23-moment-raises-78m-series-c-to-automate-fixed-income-and-equi
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-29-anthropic-ipo-prospectus-devotes-80-of-261-pages-to-risk-war
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
-embedding_id: null
+embedding_id: 2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev
 event_name: ''
 ---
 

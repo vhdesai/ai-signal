@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-claude-mobile-consumer-revenue-up-nearly-1-200-since-january
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
-embedding_id: null
+embedding_id: 2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026
 event_name: ''
 ---
 

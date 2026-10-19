@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 - 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
-embedding_id: null
+embedding_id: 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 event_name: ''
 ---
 

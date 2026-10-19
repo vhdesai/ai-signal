@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-21-microsoft-and-anthropic-account-for-87-7b-of-nscale-s-103b-b
 event_name: ''
 ---
 

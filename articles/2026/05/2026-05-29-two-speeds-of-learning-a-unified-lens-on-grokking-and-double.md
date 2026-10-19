@@ -4,8 +4,8 @@ title: '"Two Speeds of Learning": a unified lens on grokking and double descent'
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.27078
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f0c324d728a14d8ba4575e44af16a81454e7061c24c1b8bb53c795391f1ebcbd
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double
 event_name: ''
 ---
 

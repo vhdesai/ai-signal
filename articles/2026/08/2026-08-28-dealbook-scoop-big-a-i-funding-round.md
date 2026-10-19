@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-dealbook-what-s-behind-the-a-i-deals-spree
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-08-29-the-a-i-token-tax-how-ai-usage-costs-are-reshaping-enterpris
-embedding_id: null
+embedding_id: 2026-08-28-dealbook-scoop-big-a-i-funding-round
 event_name: ''
 ---
 

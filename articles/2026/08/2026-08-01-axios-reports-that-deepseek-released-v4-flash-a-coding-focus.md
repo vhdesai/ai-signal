@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context-at-c
 - 2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run
-embedding_id: null
+embedding_id: 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
 event_name: ''
 ---
 

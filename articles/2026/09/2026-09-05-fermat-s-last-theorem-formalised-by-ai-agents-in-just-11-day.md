@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s
-embedding_id: null
+embedding_id: 2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day
 event_name: ''
 ---
 

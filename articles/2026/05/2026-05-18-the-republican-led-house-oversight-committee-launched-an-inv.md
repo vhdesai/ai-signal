@@ -5,8 +5,8 @@ title: The Republican-led House Oversight Committee launched an investigation in
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hindustantimes.com/business/sam-altman-s-business-dealings-under-gop-scrutiny-ahead-of-openai-s-ipo-101778683588883.html
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: d395ea10852ed8f510854ec65033511355b0c6682b5a5c3aa2adecaa6014a499
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
-embedding_id: null
+embedding_id: 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
 event_name: ''
 ---
 

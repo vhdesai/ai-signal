@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena
 - 2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories
 - 2026-07-24-20-tech-companies-urge-u-s-against-broad-open-weight-restric
-embedding_id: null
+embedding_id: 2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub
 event_name: ''
 ---
 

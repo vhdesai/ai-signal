@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-08-30-chipmakers-displace-big-tech-as-ai-era-winners-nvidia-s-quar
 - 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
-embedding_id: null
+embedding_id: 2026-08-27-nvidia-v-gates-major-tech-figures-at-odds-on-ai-s-future
 event_name: ''
 ---
 

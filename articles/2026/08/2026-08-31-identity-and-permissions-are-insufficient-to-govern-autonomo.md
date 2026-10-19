@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
-embedding_id: null
+embedding_id: 2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo
 event_name: ''
 ---
 

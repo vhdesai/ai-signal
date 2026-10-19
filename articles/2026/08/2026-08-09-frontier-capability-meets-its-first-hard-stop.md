@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-openai-says-astra-is-its-first-model-to-reach-critical-cyber
 - 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-embedding_id: null
+embedding_id: 2026-08-09-frontier-capability-meets-its-first-hard-stop
 event_name: ''
 ---
 

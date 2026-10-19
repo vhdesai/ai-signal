@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-analysis-argues-glm-5-3-flash-can-absorb-45-of-enterprise-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: OpenAI
 url_original: https://openai.com/index/our-approach-to-the-model-spec/
 url_canonical: https://openai.com/index/our-approach-to-the-model-spec/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-06_061721_Inbox_Daily AI News Digest - August 6,
   2026.md
 content_hash: 6cd67de8585260d3802c9b290b1bcd372b25b50af21f0e8565ae76b951c19d7d
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-embedding_id: null
+embedding_id: 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-anthropic-opens-salesforce-in-claude-beta-with-37-prebuilt-s
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
 - 2026-08-28-salesforce-anthropic-claudeforce-signals-the-end-of-model-ag
-embedding_id: null
+embedding_id: 2026-08-27-salesforce-and-anthropic-launch-claudeforce
 event_name: ''
 ---
 

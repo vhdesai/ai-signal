@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
-embedding_id: null
+embedding_id: 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 event_name: ''
 ---
 

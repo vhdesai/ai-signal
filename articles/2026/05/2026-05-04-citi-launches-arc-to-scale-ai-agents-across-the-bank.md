@@ -4,8 +4,8 @@ title: Citi launches Arc to scale AI agents across the bank
 date: '2026-05-04'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.citigroup.com/global/news/perspectives/2026/introducing-ai-agents-next-phase-citi-artificial-intelligence-journey
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: e97edbf913175a8e2945c9b05d2f63fe2992f84e0a36285e2d1b93499b17283b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-embedding_id: null
+embedding_id: 2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank
 event_name: ''
 ---
 

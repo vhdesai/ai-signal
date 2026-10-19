@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-09-22-openai-proposes-international-coordination-on-ai-safety-thro
-embedding_id: null
+embedding_id: 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 event_name: ''
 ---
 

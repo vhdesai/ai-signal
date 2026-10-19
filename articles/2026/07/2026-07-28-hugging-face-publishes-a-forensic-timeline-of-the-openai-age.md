@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-openai-report-details-how-1-200-test-agents-coordinated-the
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-embedding_id: null
+embedding_id: 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 event_name: ''
 ---
 

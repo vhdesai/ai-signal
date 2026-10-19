@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr
 - 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
 - 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
-embedding_id: null
+embedding_id: 2026-08-03-the-apple-story-reframes-a-headline-grabbing-trade-secrets-d
 event_name: ''
 ---
 

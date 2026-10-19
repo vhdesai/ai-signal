@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-06-google-deepmind-reorganization-exposes-a-london-mountain-vie
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-08-06-jeff-dean-leaves-google-as-demis-hassabis-steps-aside-as-goo
-embedding_id: null
+embedding_id: 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 event_name: ''
 ---
 

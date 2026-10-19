@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 - 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 - 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
-embedding_id: null
+embedding_id: 2026-06-19-a-bipartisan-group-of-house-members-sent-a-letter-to-commerc
 event_name: ''
 ---
 

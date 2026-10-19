@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
 - 2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug
 - 2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain
-embedding_id: null
+embedding_id: 2026-08-11-analysis-frontier-ai-slowdown-legislation-could-trigger-pree
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
-embedding_id: null
+embedding_id: 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 event_name: ''
 ---
 

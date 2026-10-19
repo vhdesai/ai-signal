@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: OpenAI
 url_original: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/
 url_canonical: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 8b6f25ca934e6b4cde385c24e4bdd8c25922ead73f8cdbf29d3c4c132fc9931a
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-island-raises-400m-series-f-at-a-6-4b-valuation-on-ai-agent
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-embedding_id: null
+embedding_id: 2026-09-24-island-raises-400m-at-a-6-4b-valuation-as-enterprises-budget
 event_name: ''
 ---
 

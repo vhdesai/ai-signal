@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-21-google-opens-899-googlebook-preorders-a-gemini-native-laptop
 - 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
 - 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
-embedding_id: null
+embedding_id: 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
 event_name: ''
 ---
 

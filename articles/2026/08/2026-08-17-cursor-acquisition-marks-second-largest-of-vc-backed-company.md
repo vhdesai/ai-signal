@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
-embedding_id: null
+embedding_id: 2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company
 event_name: ''
 ---
 

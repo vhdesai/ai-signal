@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
 - 2026-09-23-anthropic-launches-claude-marketplace-turning-committed-spen
 - 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
-embedding_id: null
+embedding_id: 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
 event_name: ''
 ---
 

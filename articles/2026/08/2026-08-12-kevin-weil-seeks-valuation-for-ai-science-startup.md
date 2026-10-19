@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup
 event_name: ''
 ---
 

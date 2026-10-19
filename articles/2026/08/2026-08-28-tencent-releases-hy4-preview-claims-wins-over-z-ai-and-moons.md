@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-09-03-new-tencent-s-hy4-open-weight-preview-lands-8th-on-code-aren
 - 2026-08-31-tencent-unveils-hy4-preview-open-source-model-for-coding-and
-embedding_id: null
+embedding_id: 2026-08-28-tencent-releases-hy4-preview-claims-wins-over-z-ai-and-moons
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: 'DealBook: Google employee charged in Polymarket insider-trading case'
 date: '2026-05-28'
 source: The New York Times / DealBook
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.justice.gov/usao-sdny/pr/google-employee-charged-insider-trading
+url_status: repaired
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 60d97756490e6e547551196dfc02f4d35b4ef3944ec76b1d87876da0d7ba9d3c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 - 2026-08-18-google-wins-spirit-airlines-bankrupt-data-estate-for-10m
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-embedding_id: null
+embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
 ---
 

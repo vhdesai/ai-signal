@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 - 2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f
-embedding_id: null
+embedding_id: 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 event_name: ''
 ---
 

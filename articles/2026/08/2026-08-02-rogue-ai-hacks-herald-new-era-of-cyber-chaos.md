@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
-embedding_id: null
+embedding_id: 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 event_name: ''
 ---
 

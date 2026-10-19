@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
-embedding_id: null
+embedding_id: 2026-07-04-per-epoch-ai-21-notable-organizations-disclosed-roughly-1-50
 event_name: ''
 ---
 

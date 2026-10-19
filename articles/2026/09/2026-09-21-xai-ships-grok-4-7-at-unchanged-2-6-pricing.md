@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing
 event_name: ''
 ---
 

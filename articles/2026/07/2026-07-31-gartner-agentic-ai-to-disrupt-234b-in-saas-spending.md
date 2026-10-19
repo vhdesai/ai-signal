@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 - 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
 - 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
-embedding_id: null
+embedding_id: 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
 event_name: ''
 ---
 

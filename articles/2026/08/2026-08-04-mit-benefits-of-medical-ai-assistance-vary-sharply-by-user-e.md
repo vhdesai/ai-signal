@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e
 event_name: ''
 ---
 

@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac
 - 2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la
 - 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
-embedding_id: null
+embedding_id: 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 event_name: ''
 ---
 

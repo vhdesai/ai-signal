@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 event_name: ''
 ---
 

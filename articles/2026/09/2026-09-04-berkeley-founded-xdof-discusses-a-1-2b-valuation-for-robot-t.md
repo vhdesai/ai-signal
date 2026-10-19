@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
 - 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 - 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
-embedding_id: null
+embedding_id: 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
 event_name: ''
 ---
 

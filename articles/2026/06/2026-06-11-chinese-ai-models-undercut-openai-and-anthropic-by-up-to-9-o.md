@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-u-s-labs-cut-model-prices-as-low-cost-chinese-competitors-ga
 - 2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-embedding_id: null
+embedding_id: 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
 event_name: ''
 ---
 

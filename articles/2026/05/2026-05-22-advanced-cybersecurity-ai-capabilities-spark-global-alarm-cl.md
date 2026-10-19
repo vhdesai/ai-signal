@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-13-ai-safety-policy
 - 2026-05-22-anthropic-s-mythos-model-is-in-a-tightly-restricted-preview
-embedding_id: null
+embedding_id: 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 event_name: ''
 ---
 

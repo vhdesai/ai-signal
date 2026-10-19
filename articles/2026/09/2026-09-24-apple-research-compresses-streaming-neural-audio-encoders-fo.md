@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-21-apple-studies-calibrated-sparse-attention-to-accelerate-text
 - 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-embedding_id: null
+embedding_id: 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
 event_name: ''
 ---
 

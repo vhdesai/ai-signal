@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-a-w
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-anthropic-commits-11-6b-to-akamai-for-cpu-capacity-takes-war
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-openai-institutes-new-safety-protocols-after-hugging-face-br
 event_name: ''
 ---
 

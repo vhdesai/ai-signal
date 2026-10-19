@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-bubble-ris
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
-embedding_id: null
+embedding_id: 2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba
 event_name: ''
 ---
 

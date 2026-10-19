@@ -5,7 +5,7 @@ date: '2026-09-07'
 source: OpenAI
 url_original: https://openai.com/index/supporting-independent-journalism-in-ukraine
 url_canonical: https://openai.com/index/supporting-independent-journalism-in-ukraine
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_061438_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: fe034a21f947555413fcf5c3bd4dc476dc2466c53b56f7e034b5b6099ebfae42
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-openai-extends-cyber-access-to-ukraine-for-civilian-defense
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
 - 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
-embedding_id: null
+embedding_id: 2026-09-07-openai-launches-ai-program-to-support-independent-journalism
 event_name: ''
 ---
 

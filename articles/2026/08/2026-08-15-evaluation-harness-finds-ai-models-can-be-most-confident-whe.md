@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-embedding_id: null
+embedding_id: 2026-08-15-evaluation-harness-finds-ai-models-can-be-most-confident-whe
 event_name: ''
 ---
 

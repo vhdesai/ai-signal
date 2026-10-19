@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
-embedding_id: null
+embedding_id: 2026-09-25-xi-and-trump-discuss-ai-and-taiwan-at-white-house-state-visi
 event_name: ''
 ---
 

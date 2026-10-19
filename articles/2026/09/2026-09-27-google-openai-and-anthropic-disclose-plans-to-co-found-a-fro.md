@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-13-amodei-s-pace-the-frontier-plan-draws-public-support-from-al
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-embedding_id: null
+embedding_id: 2026-09-27-google-openai-and-anthropic-disclose-plans-to-co-found-a-fro
 event_name: ''
 ---
 

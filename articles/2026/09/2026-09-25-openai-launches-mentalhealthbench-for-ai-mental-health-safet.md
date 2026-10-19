@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
 - 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
-embedding_id: null
+embedding_id: 2026-09-25-openai-launches-mentalhealthbench-for-ai-mental-health-safet
 event_name: ''
 ---
 

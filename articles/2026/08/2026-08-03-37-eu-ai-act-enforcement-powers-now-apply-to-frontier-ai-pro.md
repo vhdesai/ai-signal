@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
-embedding_id: null
+embedding_id: 2026-08-03-37-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-pro
 event_name: ''
 ---
 

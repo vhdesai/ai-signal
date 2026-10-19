@@ -4,8 +4,8 @@ title: TRENDINGElon Musk Takes Stand as OpenAI Trial Begins
 date: '2026-04-28'
 source: Multiple outlets
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/elon-musk-testifies-openai-breach-mission-trial-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 660dd5989749da1fd6563e3c0abe47cd9ca87ce57321334cccf10cf466d93871
 normalized_title_hash: 7f8445bddf92ca15
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
-embedding_id: null
+embedding_id: 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 event_name: ''
 ---
 

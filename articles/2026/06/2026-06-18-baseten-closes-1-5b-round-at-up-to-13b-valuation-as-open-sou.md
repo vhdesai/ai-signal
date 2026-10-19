@@ -5,8 +5,8 @@ title: Baseten Closes $1.5B Round at Up to $13B Valuation as Open-Source Inferen
 date: '2026-06-18'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
-url_canonical: https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603
-url_status: broken
+url_canonical: https://startupfortune.com/baseten-closes-a-15-billion-round-at-up-to-13-billion-valuation-as-inference-becomes-its-own-infrastructure-war/
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 150ea46742d2664849406e2b3fa671f5d093fd237aca68b4f21bbe2897db3c8e
 normalized_title_hash: 365bccf848f9d7df
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-08-13-openai-backed-thrive-holdings-raises-2b-at-12b-valuation
-embedding_id: null
+embedding_id: 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
 event_name: ''
 ---
 

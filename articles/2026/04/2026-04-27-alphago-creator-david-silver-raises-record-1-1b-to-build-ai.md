@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
-embedding_id: null
+embedding_id: 2026-04-27-alphago-creator-david-silver-raises-record-1-1b-to-build-ai
 event_name: ''
 ---
 

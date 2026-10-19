@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-synthesia-moves-from-ai-training-videos-into-live-coaching
 - 2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
-embedding_id: null
+embedding_id: 2026-09-02-build-ai-skills-with-new-ai-powered-learning-experiences
 event_name: ''
 ---
 

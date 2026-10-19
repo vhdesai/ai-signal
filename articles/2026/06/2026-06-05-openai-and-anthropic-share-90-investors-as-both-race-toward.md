@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-embedding_id: null
+embedding_id: 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
 event_name: ''
 ---
 

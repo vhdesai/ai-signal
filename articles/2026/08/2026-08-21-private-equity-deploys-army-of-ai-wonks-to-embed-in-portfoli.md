@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 - 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
-embedding_id: null
+embedding_id: 2026-08-21-private-equity-deploys-army-of-ai-wonks-to-embed-in-portfoli
 event_name: ''
 ---
 

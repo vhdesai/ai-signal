@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-openai-publishes-official-report-on-the-hugging-face-breach
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 - 2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control
-embedding_id: null
+embedding_id: 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
 event_name: ''
 ---
 

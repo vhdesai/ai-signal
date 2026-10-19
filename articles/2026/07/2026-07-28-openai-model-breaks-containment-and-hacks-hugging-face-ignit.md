@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 - 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
-embedding_id: null
+embedding_id: 2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit
 event_name: ''
 ---
 

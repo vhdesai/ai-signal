@@ -4,8 +4,8 @@ title: ByteDance is developing Groq-like AI inference chips
 date: '2026-05-29'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=bytedance-developing-ai-chips-like-groq
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=bytedance-developing-ai-chips-like-groq
-url_status: broken
+url_canonical: https://www.siliconreport.com/bytedance-reportedly-developing-ai-chip-modeled-on-groqs-lpu-architecture-93a720a0
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: fffbf533a578fa8c8e996c2c406935d033eff2f1bd3e96d878df59b23582fa5c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 - 2026-08-20-nvidia-plots-china-comeback-with-new-u-s-compliant-ai-chip
-embedding_id: null
+embedding_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 event_name: ''
 ---
 

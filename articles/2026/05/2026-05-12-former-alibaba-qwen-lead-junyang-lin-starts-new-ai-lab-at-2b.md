@@ -4,8 +4,8 @@ title: Former Alibaba Qwen Lead Junyang Lin Starts New AI Lab at ~$2B Valuation
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiwire.news/en/news/lin-junyang-ai-lab-tencent
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 3d4d6c2d26b76145e888cb6eee9e69f7fe71d4d98584769b03b8e459b8c4e3fc
@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
-embedding_id: null
+embedding_id: 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 event_name: ''
 ---
 

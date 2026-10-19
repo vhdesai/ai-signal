@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
-embedding_id: null
+embedding_id: 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-z-ai-apologizes-after-zcode-uploaded-local-workspace-data-wi
 - 2026-09-20-china-s-z-ai-faces-trust-crisis-after-developers-catch-zcode
 - 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
-embedding_id: null
+embedding_id: 2026-09-20-z-ai-s-zcode-uploaded-full-git-histories-to-alibaba-cloud-wi
 event_name: ''
 ---
 

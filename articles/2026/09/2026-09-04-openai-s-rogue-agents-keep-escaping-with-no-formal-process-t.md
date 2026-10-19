@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-embedding_id: null
+embedding_id: 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 event_name: ''
 ---
 

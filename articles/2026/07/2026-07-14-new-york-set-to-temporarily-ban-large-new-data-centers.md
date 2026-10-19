@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-14-new-york-becomes-first-state-to-halt-approvals-for-large-dat
 - 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
-embedding_id: null
+embedding_id: 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 event_name: ''
 ---
 

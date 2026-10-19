@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 - 2026-08-19-terrapower-s-molten-salt-nuclear-reactor-has-a-secret-weapon
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: null
+embedding_id: 2026-08-18-ai-s-energy-appetite-sparks-activity-at-nuclear-research-fac
 event_name: ''
 ---
 

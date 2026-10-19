@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover
 event_name: ''
 ---
 

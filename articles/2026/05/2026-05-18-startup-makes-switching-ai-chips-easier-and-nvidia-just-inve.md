@@ -4,8 +4,8 @@ title: Startup Makes Switching AI Chips Easier — and Nvidia Just Invested
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/technology/startup-makes-switching-ai-chips-easier-and-nvidia-is-a-new-investor/ar-AA23uu3d
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 76a7dc472d0b88f23a84f1a30520bc7df72b739565ddc102eefe669f69304b57
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-embedding_id: null
+embedding_id: 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
 event_name: ''
 ---
 

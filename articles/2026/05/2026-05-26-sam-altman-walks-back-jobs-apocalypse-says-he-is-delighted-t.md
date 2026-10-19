@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
-embedding_id: null
+embedding_id: 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 event_name: ''
 ---
 

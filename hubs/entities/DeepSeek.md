@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 538
+member_count: 541
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 538 connected article(s).
+> Auto-generated entity hub. 541 connected article(s).
 
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr|DeepSeek rolls out faster, leaner model and prices agent retrieval below rivals]]
+- `2026-10-17` [[2026-10-17-deepseek-releases-v4-1-flash-1017-and-opens-search-apis|DeepSeek releases V4.1-Flash-1017 and opens search APIs]]
 - `2026-10-12` [[2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a|Google DeepMind AlphaProof Nexus solves open math problems and gets peer reviewed]]
 - `2026-10-12` [[2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r|DeepSeek's memory-saving technique may hurt model accuracy, researchers find]]
 - `2026-10-12` [[2026-10-12-deepseek-backs-ex-tencent-scientist-s-400m-robotics-lab|DeepSeek backs ex-Tencent scientist's $400M robotics lab]]

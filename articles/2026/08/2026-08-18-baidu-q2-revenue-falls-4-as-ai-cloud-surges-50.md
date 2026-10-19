@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 - 2026-09-02-baidu-cfo-says-ai-could-soon-match-search-business-in-profit
-embedding_id: null
+embedding_id: 2026-08-18-baidu-q2-revenue-falls-4-as-ai-cloud-surges-50
 event_name: ''
 ---
 

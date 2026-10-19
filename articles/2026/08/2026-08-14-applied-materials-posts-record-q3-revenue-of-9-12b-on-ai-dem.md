@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-applied-materials-posts-record-9-12b-quarter-on-ai-chip-dema
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-applied-materials-posts-record-q3-revenue-of-9-12b-on-ai-dem
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 - 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
-embedding_id: null
+embedding_id: 2026-05-05-virginia-s-joint-legislative-audit-and-review-commission-jla
 event_name: ''
 ---
 

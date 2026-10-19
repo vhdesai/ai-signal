@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
 - 2026-08-31-china-s-cxmt-makes-a-breakthrough-in-advanced-high-bandwidth
-embedding_id: null
+embedding_id: 2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea
 event_name: ''
 ---
 

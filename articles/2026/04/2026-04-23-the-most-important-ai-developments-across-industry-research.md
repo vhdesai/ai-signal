@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-22-wednesday-september-23-2026
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-embedding_id: null
+embedding_id: 2026-04-23-the-most-important-ai-developments-across-industry-research
 event_name: ''
 ---
 

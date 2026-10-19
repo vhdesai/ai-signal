@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
-embedding_id: null
+embedding_id: 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 event_name: ''
 ---
 

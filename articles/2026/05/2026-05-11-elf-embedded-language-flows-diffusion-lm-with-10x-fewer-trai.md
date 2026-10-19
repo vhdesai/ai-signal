@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 - 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
-embedding_id: null
+embedding_id: 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
 event_name: ''
 ---
 

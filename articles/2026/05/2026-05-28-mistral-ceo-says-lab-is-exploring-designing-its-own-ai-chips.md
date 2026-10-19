@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 related_article_ids:
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
-embedding_id: null
+embedding_id: 2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips
 event_name: ''
 ---
 

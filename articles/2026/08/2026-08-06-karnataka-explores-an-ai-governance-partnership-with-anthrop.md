@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-embedding_id: null
+embedding_id: 2026-08-06-karnataka-explores-an-ai-governance-partnership-with-anthrop
 event_name: ''
 ---
 

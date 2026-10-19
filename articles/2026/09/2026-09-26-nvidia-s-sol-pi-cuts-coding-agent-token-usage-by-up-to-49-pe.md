@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe
 event_name: ''
 ---
 

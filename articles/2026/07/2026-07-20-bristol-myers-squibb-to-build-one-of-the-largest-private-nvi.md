@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-20-bristol-myers-squibb-builds-life-sciences-ai-factory-on-nvid
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-20-bristol-myers-squibb-to-build-one-of-the-largest-private-nvi
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-24-stanford-entry-level-employment-in-the-most-ai-exposed-jobs
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-embedding_id: null
+embedding_id: 2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by
 event_name: ''
 ---
 

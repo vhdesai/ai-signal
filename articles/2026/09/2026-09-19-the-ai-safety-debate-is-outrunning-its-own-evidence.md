@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-09-02-openai-s-new-reasoning-technique-alarms-ai-safety-experts
-embedding_id: null
+embedding_id: 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
 event_name: ''
 ---
 

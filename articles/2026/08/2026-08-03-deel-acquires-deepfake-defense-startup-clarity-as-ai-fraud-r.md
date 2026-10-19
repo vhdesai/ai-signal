@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: null
+embedding_id: 2026-08-03-deel-acquires-deepfake-defense-startup-clarity-as-ai-fraud-r
 event_name: ''
 ---
 

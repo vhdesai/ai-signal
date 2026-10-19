@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba
 - 2026-09-19-young-workers-in-china-turn-burnout-and-unemployment-into-ai
-embedding_id: null
+embedding_id: 2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
-embedding_id: null
+embedding_id: 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 event_name: ''
 ---
 

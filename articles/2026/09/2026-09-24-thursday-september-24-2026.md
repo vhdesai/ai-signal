@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-24-anthropic-says-950-claude-agents-autonomously-identified-a-n
 - 2026-09-14-monday-september-14-2026
 - 2026-09-12-saturday-september-12-2026
-embedding_id: null
+embedding_id: 2026-09-24-thursday-september-24-2026
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
-embedding_id: null
+embedding_id: 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-embedding_id: null
+embedding_id: 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 event_name: ''
 ---
 

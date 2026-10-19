@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
 - 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-embedding_id: null
+embedding_id: 2026-05-27-xai-launches-grok-integration-in-kilo-code
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-microsoft-plans-38-gigawatts-of-data-center-capacity-by-2032
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-11-microsoft-targets-more-than-38-gigawatts-of-data-center-capa
 event_name: ''
 ---
 

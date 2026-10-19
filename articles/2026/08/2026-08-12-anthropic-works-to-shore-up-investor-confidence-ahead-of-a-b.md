@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-embedding_id: null
+embedding_id: 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 - 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
-embedding_id: null
+embedding_id: 2026-09-07-eligible-asus-laptops-unlock-bundled-google-ai-experiences
 event_name: ''
 ---
 

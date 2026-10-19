@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-embedding_id: null
+embedding_id: 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
 event_name: ''
 ---
 

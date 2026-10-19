@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-20-apple-music-will-label-songs-materially-generated-using-ai
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
-embedding_id: null
+embedding_id: 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 event_name: ''
 ---
 

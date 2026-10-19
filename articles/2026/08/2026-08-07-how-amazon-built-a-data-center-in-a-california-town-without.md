@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 - 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
-embedding_id: null
+embedding_id: 2026-08-07-how-amazon-built-a-data-center-in-a-california-town-without
 event_name: ''
 ---
 

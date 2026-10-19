@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
 - 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
-embedding_id: null
+embedding_id: 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
 event_name: ''
 ---
 

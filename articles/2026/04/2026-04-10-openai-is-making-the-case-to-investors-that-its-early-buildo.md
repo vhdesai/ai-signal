@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
-embedding_id: null
+embedding_id: 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 event_name: ''
 ---
 

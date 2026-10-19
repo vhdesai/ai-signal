@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2405
+member_count: 2420
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2405 connected article(s).
+> Auto-generated entity hub. 2420 connected article(s).
 
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
+- `2026-10-18` [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x|Anthropic says junior hiring has fallen as AI agents log 6x human work hours]]
+- `2026-10-18` [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to|Anthropic proposes federal AI safety bill with U.S. power to block high-risk models]]
+- `2026-10-18` [[2026-10-18-anthropic-consults-law-firms-on-negotiation-norms-before-age|Anthropic consults law firms on negotiation norms before agents start cutting deals]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before|Anthropic commits 5% stake to new public-benefit fund before IPO]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund|Anthropic commits 5% of shares to new public benefit fund]]
+- `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs|AI wearables run into wiretap-law limits; Anthropic asks outsiders to weigh in on Claude's values]]
+- `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-as-personal-agents|AI wearables run into wiretap-law limits as personal agents enter public space]]
+- `2026-10-17` [[2026-10-17-robotics-technical-potential-outpaces-its-economic-viability|Robotics’ technical potential outpaces its economic viability]]
+- `2026-10-17` [[2026-10-17-replit-shifts-its-default-model-provider-to-openai|Replit shifts its default model provider to OpenAI]]
+- `2026-10-17` [[2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more|Anthropic says its workforce has become less junior and more meeting-heavy]]
+- `2026-10-17` [[2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands|Anthropic reports a shift in hiring and coordination demands]]
+- `2026-10-17` [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring|Anthropic report says AI-heavy workflows are changing hiring mix and increasing coordination load]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-14` [[2026-10-14-anthropic-warns-small-ai-models-could-self-replicate-through|Anthropic warns small AI models could self-replicate through IoT devices]]

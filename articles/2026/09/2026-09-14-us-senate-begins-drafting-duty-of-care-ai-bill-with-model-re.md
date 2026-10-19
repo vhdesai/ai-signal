@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
 event_name: ''
 ---
 

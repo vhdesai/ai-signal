@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
-embedding_id: null
+embedding_id: 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
 event_name: ''
 ---
 

@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st
+- 2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public
 - 2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made
 - 2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private
-- 2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s
-embedding_id: null
+embedding_id: 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ CNBC examined external AI evaluators, their funding models, access to labs and i
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st]] · [[2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made]] · [[2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private]] · [[2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s]]
+**Related:** [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-10-11-policy-openai-anthropic-ai-s-quiet-safety-gatekeepers-are-st]] · [[2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public]] · [[2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made]] · [[2026-08-10-ai-s-cutting-edge-has-migrated-from-universities-to-private]]
 <!-- graph:end -->

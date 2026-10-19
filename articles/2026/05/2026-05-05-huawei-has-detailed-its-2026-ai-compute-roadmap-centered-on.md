@@ -5,8 +5,8 @@ title: Huawei has detailed its 2026 AI compute roadmap, centered on the Ascend 9
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://convly.ai/huawei-ascend-950-pangu-explained-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: b846a116e1402bf5afe1c394d35ae5fde385a42c2b82b58ab6287e51dcbadca1
 normalized_title_hash: 247d6c74fdc298cf
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-04-deepseek-turns-to-huawei-for-160-000-ascend-ai-chips-as-nvid
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: null
+embedding_id: 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 event_name: ''
 ---
 

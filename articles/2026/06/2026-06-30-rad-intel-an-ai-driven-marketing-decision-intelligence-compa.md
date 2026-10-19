@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-08-25-nvidia-s-equity-stakes-in-ai-companies-could-become-john-mal
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-embedding_id: null
+embedding_id: 2026-06-30-rad-intel-an-ai-driven-marketing-decision-intelligence-compa
 event_name: ''
 ---
 

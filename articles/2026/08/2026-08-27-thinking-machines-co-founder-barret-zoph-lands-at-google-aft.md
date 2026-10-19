@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-barret-zoph-thinking-machines-co-founder-lands-at-google
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
 event_name: ''
 ---
 

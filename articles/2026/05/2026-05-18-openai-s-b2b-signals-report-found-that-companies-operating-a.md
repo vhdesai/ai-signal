@@ -5,8 +5,8 @@ title: OpenAI's B2B Signals Report found that companies operating at the AI fron
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/introducing-b2b-signals/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 90e63bc5ead311e255c6168ef552dffff4260248a87ffdb5689d1172630a47e2
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-08-26-microsoft-employees-reveal-how-much-cash-they-re-burning-on
 - 2026-08-20-ramp-data-openai-gaining-on-anthropic-with-business-users-bu
-embedding_id: null
+embedding_id: 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 event_name: ''
 ---
 

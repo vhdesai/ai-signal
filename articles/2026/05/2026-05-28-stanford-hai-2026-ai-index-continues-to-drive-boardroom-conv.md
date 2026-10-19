@@ -4,8 +4,8 @@ title: Stanford HAI 2026 AI Index continues to drive boardroom conversations
 date: '2026-05-28'
 source: May 28, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: f88660641942c2b30b0ef4de938b240f6f0c4077055a9cb3eb0e30589e88d82b
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
-embedding_id: null
+embedding_id: 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+embedding_id: 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 event_name: ''
 ---
 

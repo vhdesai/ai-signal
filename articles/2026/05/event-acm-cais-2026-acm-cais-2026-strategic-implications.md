@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
-embedding_id: null
+embedding_id: event-acm-cais-2026-acm-cais-2026-strategic-implications
 event_name: ACM CAIS 2026
 ---
 

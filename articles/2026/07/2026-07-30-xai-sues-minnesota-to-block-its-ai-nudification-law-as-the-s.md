@@ -5,8 +5,8 @@ title: xAI sues Minnesota to block its AI "nudification" law as the statute near
 date: '2026-07-30'
 source: Firstpost
 url_original: https://www.firstpost.com/tech/how-minnesotas-ai-nudification-law-differs-from-federal-deepfake-laws-and-why-xai-is-fighting-it-14034956.html
-url_canonical: https://www.firstpost.com/tech/how-minnesotas-ai-nudification-law-differs-from-federal-deepfake-laws-and-why-xai-is-fighting-it-14034956.html
-url_status: broken
+url_canonical: https://news.bloomberglaw.com/litigation/musks-xai-fails-to-block-minnesotas-ai-nudification-law
+url_status: repaired
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 9dae36c6a3f3fabdd0e658cba1170b302745e0ae31fab84826749aa4b760c070
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 - 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
-embedding_id: null
+embedding_id: 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 event_name: ''
 ---
 

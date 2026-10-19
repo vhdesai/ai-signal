@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-anthropic-targets-a-november-ipo-as-revenue-surges
 - 2026-09-20-anthropic-reportedly-pushes-ipo-from-october-to-november-2t
 - 2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op
-embedding_id: null
+embedding_id: 2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate
 event_name: ''
 ---
 

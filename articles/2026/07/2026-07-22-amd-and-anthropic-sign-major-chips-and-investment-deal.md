@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
-embedding_id: null
+embedding_id: 2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal
 event_name: ''
 ---
 

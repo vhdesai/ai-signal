@@ -27,7 +27,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 - 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
-embedding_id: null
+embedding_id: 2026-09-06-microsoft-pushes-ai-agents-that-write-native-winui-3-windows
 event_name: ''
 ---
 

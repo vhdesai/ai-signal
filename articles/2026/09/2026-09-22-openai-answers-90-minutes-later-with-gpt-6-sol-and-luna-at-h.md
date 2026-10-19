@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-openai-launches-gpt-6-sol-and-luna-halving-api-prices-below
 - 2026-09-22-openai-counters-90-minutes-later-with-gpt-6-sol-and-luna-at
 - 2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability
-embedding_id: null
+embedding_id: 2026-09-22-openai-answers-90-minutes-later-with-gpt-6-sol-and-luna-at-h
 event_name: ''
 ---
 

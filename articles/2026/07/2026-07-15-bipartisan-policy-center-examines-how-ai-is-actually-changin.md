@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
+- 2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-embedding_id: null
+embedding_id: 2026-07-15-bipartisan-policy-center-examines-how-ai-is-actually-changin
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The Bipartisan Policy Center published new work on AI and the workforce, asking 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
+**Related:** [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
 <!-- graph:end -->

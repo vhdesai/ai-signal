@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-rumor-model-release-reported-gemini-3-5-pro-leak-points-to-2
 - 2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
-embedding_id: null
+embedding_id: 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 event_name: ''
 ---
 

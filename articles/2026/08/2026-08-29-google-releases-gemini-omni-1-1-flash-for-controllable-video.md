@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/
 url_canonical: https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-30_060705_Inbox_Daily AI News Digest - August 30,
   2026.md
 content_hash: d2d8b7fcf02dbdbd8167f1a5fca64e15b07cbd3af5807be26bc80714abd40aa2
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
-embedding_id: null
+embedding_id: 2026-08-29-google-releases-gemini-omni-1-1-flash-for-controllable-video
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 - 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
 - 2026-09-23-youtube-ships-gemini-powered-creator-tools-draft-feedback-a
-embedding_id: null
+embedding_id: 2026-03-24-google-labs-march-18-update-transformed-stitch-from-a-simple
 event_name: ''
 ---
 

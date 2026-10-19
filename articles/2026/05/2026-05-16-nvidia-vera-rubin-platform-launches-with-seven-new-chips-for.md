@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 - 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
-embedding_id: null
+embedding_id: 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 event_name: ''
 ---
 

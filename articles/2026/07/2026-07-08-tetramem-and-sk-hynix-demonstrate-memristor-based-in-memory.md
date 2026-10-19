@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
 event_name: ''
 ---
 

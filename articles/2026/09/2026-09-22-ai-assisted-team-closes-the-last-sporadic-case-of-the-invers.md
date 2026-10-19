@@ -18,7 +18,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-ai-assisted-team-closes-the-last-open-case-of-the-inverse-ga
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-ai-assisted-team-closes-the-last-sporadic-case-of-the-invers
 event_name: ''
 ---
 

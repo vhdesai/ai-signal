@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-embedding_id: null
+embedding_id: 2026-04-01-products-tools
 event_name: ''
 ---
 

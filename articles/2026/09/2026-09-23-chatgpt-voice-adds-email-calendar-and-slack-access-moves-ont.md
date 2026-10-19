@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
 - 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
-embedding_id: null
+embedding_id: 2026-09-23-chatgpt-voice-adds-email-calendar-and-slack-access-moves-ont
 event_name: ''
 ---
 

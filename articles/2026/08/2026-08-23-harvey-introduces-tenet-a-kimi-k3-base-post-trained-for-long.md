@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-23-harvey-introduces-tenet-a-kimi-k3-base-post-trained-for-long
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-09-03'
 source: OpenAI
 url_original: https://openai.com/index/daybreak-for-frontline-defenders/
 url_canonical: https://openai.com/index/daybreak-for-frontline-defenders/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-04_061134_Inbox_Daily AI News Digest – September
   4, 2026.md
 content_hash: dab3879696b4a8280da4a8306e577257adbc04b286145eb0c156488a2adbd4bd
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-03-openai-pairs-astra-with-daybreak-a-1-billion-cyber-defense-p
 - 2026-09-23-openai-extends-daybreak-cyber-defense-program-to-ukraine
 - 2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen
-embedding_id: null
+embedding_id: 2026-09-03-daybreak-for-frontline-defenders-1b-to-protect-essential-ser
 event_name: ''
 ---
 

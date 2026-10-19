@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
-embedding_id: null
+embedding_id: 2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor
 event_name: ''
 ---
 

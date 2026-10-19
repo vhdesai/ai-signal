@@ -4,8 +4,8 @@ title: NVIDIA Advances France's National AI Factory Infrastructure at VivaTech
 date: '2026-06-17'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/france-advances-europes-ai-future/
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 46fcf898c768692b5e8b7a0c7516fa899ed9780265aa3278b239bee61228b2d5
 normalized_title_hash: 3ec0fc5e12212f7a
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
-embedding_id: null
+embedding_id: 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-anthropic-releases-claude-opus-5-5-at-40-lower-cost-than-opu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-anthropic-ships-claude-opus-5-5-at-40-lower-run-cost-than-op
 event_name: ''
 ---
 

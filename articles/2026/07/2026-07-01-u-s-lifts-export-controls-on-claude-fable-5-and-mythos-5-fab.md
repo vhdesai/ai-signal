@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab
 event_name: ''
 ---
 

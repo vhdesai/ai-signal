@@ -5,8 +5,8 @@ title: Pope Leo XIV released the Vatican's first-ever encyclical on artificial i
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: afea52371495bd4e2f7674fbbba2784bcbf807bb40daf45f77ecd0befdb040c1
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
-embedding_id: null
+embedding_id: 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 event_name: ''
 ---
 

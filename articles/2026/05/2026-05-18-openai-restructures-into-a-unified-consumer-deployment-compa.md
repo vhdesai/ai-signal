@@ -4,8 +4,8 @@ title: OpenAI restructures into a unified consumer "Deployment Company"
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/openai-launches-the-deployment-company/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: ff520f798a23506c678ded6881b469bd08195f635f20054d9f6310f2c7d5da6c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
-embedding_id: null
+embedding_id: 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
 event_name: ''
 ---
 

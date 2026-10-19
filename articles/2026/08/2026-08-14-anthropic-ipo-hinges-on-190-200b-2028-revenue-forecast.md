@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
-- 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
-embedding_id: null
+- 2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b
+embedding_id: 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Anthropic projects ~$190–200B annual revenue by 2028 — the figure bankers ar
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200b-2028-revenue-fo]] · [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma]]
+**Related:** [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200b-2028-revenue-fo]] · [[2026-08-14-anthropic-ipo-valuation-hinges-on-a-190-200-billion-2028-rev]] · [[2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi]] · [[2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th]] · [[2026-10-14-anthropic-tells-prospective-investors-revenue-reached-16-8-b]]
 <!-- graph:end -->

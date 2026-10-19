@@ -4,8 +4,8 @@ title: Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent
 date: '2026-06-02'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.alibabacloud.com/blog/qwen3-7-plus-multimodal-agent-intelligence_603206
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: fb889425b6465f280c5612b8077a9aae6a3eaed8f0ef224be06c90f18e74bfe5
 normalized_title_hash: 3bd66b78f2da8e97
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-07-19-alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multim
-embedding_id: null
+embedding_id: 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 event_name: ''
 ---
 

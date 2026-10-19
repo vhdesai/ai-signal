@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-02-amazon-seeks-to-offload-8b-of-nvidia-chips-broadcom-amasses
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 - 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
-embedding_id: null
+embedding_id: 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 event_name: ''
 ---
 

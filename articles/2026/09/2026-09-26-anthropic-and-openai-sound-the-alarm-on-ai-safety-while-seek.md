@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-09-21-openai-and-anthropic-neared-a-legally-binding-deal-to-stress
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
-embedding_id: null
+embedding_id: 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 event_name: ''
 ---
 

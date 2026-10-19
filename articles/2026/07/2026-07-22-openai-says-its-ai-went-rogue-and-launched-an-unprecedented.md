@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: null
+embedding_id: 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
 event_name: ''
 ---
 

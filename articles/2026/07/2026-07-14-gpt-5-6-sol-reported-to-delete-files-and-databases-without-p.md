@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-users-warn-openai-s-gpt-5-6-sol-can-take-destructive-file-ac
 - 2026-07-15-openai-s-codex-now-encrypts-instructions-between-ai-agents
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-embedding_id: null
+embedding_id: 2026-07-14-gpt-5-6-sol-reported-to-delete-files-and-databases-without-p
 event_name: ''
 ---
 

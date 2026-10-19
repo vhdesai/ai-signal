@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-16-sk-hynix-in-early-talks-with-intel-to-make-memory-chips-in-t
 event_name: ''
 ---
 

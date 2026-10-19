@@ -6,7 +6,7 @@ date: '2026-08-01'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/
 url_canonical: https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-02_061105_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: 512e88fbfea83645135a25dcd7a1f250173aaf18515b91d08f4bb039ae167b89
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-supabase-releases-an-open-benchmark-for-claude-code-codex-an
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
-embedding_id: null
+embedding_id: 2026-10-06-axios-ai-tools-are-flooding-underground-cybercrime-markets
 event_name: ''
 ---
 

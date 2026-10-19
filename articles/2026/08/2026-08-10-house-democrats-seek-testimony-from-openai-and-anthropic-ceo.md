@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-10-05-anthropic-openai-google-and-meta-executives-set-to-testify-u
 - 2026-08-10-house-democrats-press-for-openai-and-anthropic-ceos-to-testi
-embedding_id: null
+embedding_id: 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 event_name: ''
 ---
 

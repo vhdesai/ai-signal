@@ -5,7 +5,7 @@ date: '2026-07-09'
 source: OpenAI
 url_original: https://openai.com/index/chatgpt-for-your-most-ambitious-work/
 url_canonical: https://openai.com/index/chatgpt-for-your-most-ambitious-work/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
 content_hash: 7c4f557fe94fa79651e5ee9c6be6ad5a1f761cf0fce62f9a402bb289dc346508
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
-embedding_id: null
+embedding_id: 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 event_name: ''
 ---
 

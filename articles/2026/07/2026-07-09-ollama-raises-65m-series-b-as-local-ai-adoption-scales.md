@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m
 - 2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow
 - 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
-embedding_id: null
+embedding_id: 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
 event_name: ''
 ---
 

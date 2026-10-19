@@ -5,8 +5,8 @@ title: 'Breaking Apple Confirms CEO Transition: Tim Cook to Step Down, John Tern
 date: '2026-04-20'
 source: Financial Times / MacRumors
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: a3f204b2b8c0e7ef58137303bdedefd5f684b31c18b763c2335a75b1f0532bbb
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-01-john-ternus-takes-over-as-apple-ceo-tim-cook-becomes-executi
 - 2026-09-01-john-ternus-becomes-apple-ceo-as-tim-cook-moves-to-executive
 - 2026-08-30-apple-s-john-ternus-becomes-ceo-september-1-facing-a-major-m
-embedding_id: null
+embedding_id: 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-nyt-tr
 - 2026-09-03-justice-department-backs-openai-and-microsoft-s-fair-use-def
 - 2026-09-03-doj-backs-openai-and-microsoft-s-fair-use-position-in-new-yo
-embedding_id: null
+embedding_id: 2026-09-02-the-u-s-government-filed-a-brief-supporting-openai-s-positio
 event_name: ''
 ---
 

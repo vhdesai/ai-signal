@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
-embedding_id: null
+embedding_id: 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 event_name: ''
 ---
 

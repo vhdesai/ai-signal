@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-embedding_id: null
+embedding_id: 2026-09-14-oecd-pisa-2025-students-using-ai-for-specific-schoolwork-tas
 event_name: ''
 ---
 

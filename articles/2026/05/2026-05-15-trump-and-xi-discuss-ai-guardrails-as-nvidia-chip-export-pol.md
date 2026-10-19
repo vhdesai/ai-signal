@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-pol
 event_name: ''
 ---
 

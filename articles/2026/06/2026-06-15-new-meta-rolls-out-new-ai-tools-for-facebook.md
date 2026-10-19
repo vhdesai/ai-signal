@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
-embedding_id: null
+embedding_id: 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 event_name: ''
 ---
 

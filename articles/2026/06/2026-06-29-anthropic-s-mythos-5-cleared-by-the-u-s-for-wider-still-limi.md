@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-embedding_id: null
+embedding_id: 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
 event_name: ''
 ---
 

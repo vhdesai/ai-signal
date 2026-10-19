@@ -6,7 +6,7 @@ date: '2026-07-22'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/
 url_canonical: https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-24_065750_Final-Daily-AI-News-Digest.md
 content_hash: 570c41740844a4ead5ef8c30eb1307aec118140b161d3aed16dec2d316d35318
 normalized_title_hash: e3f77abf1bfb659f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-cursor-ships-projects-one-coordinator-agent-thousands-of-sub
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
-embedding_id: null
+embedding_id: 2026-07-22-cursor-releases-cursor-router-a-request-level-classifier-for
 event_name: ''
 ---
 

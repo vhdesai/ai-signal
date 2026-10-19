@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-apple-ships-siri-ai-and-the-next-generation-of-apple-intelli
 - 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
 - 2026-10-11-apple-s-reported-homeview-hub-would-put-siri-back-at-the-cen
-embedding_id: null
+embedding_id: 2026-09-20-apple-s-new-ceo-builds-up-to-unveiling-the-ideal-ai-device-t
 event_name: ''
 ---
 

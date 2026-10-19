@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 - 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
-embedding_id: null
+embedding_id: 2026-09-11-mit-lincoln-laboratory-s-ai-guide-wins-2026-excellence-in-te
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-26-openai-publishes-first-jalape-o-inference-bench
 related_article_ids:
 - 2026-08-25-openai-publishes-first-jalape-o-benchmarks-claiming-efficien
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
-embedding_id: null
+embedding_id: 2026-08-26-openai-s-jalape-o-chip-beats-nvidia-blackwell-on-inference-e
 event_name: ''
 ---
 

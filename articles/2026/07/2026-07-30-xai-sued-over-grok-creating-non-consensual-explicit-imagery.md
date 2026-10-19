@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
-embedding_id: null
+embedding_id: 2026-07-30-xai-sued-over-grok-creating-non-consensual-explicit-imagery
 event_name: ''
 ---
 

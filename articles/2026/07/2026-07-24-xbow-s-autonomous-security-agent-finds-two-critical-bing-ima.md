@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-09-18-microsoft-patches-cvss-10-0-azure-ai-foundry-flaw-enabling-u
-embedding_id: null
+embedding_id: 2026-07-24-xbow-s-autonomous-security-agent-finds-two-critical-bing-ima
 event_name: ''
 ---
 

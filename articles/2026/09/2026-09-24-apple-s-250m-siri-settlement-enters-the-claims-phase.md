@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-tiktok-to-pay-400-million-to-settle-children-s-privacy-case
 - 2026-08-13-apple-in-talks-to-pay-publishers-nine-figure-budget-to-power
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
-embedding_id: null
+embedding_id: 2026-09-24-apple-s-250m-siri-settlement-enters-the-claims-phase
 event_name: ''
 ---
 

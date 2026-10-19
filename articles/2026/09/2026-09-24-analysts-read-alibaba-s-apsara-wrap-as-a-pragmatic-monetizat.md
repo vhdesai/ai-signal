@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 - 2026-09-26-alibaba-s-amap-street-stars-uses-ai-to-challenge-meituan-in
-embedding_id: null
+embedding_id: 2026-09-24-analysts-read-alibaba-s-apsara-wrap-as-a-pragmatic-monetizat
 event_name: ''
 ---
 

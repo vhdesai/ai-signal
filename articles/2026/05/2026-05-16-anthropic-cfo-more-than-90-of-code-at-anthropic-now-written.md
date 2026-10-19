@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-09-17-anthropic-publishes-an-r-d-automation-index-claude-now-leads
-embedding_id: null
+embedding_id: 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 event_name: ''
 ---
 

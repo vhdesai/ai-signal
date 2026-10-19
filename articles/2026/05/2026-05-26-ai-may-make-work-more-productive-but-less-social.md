@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-study-finds-90-of-executives-report-no-ai-productivity-gain
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
-embedding_id: null
+embedding_id: 2026-05-26-ai-may-make-work-more-productive-but-less-social
 event_name: ''
 ---
 

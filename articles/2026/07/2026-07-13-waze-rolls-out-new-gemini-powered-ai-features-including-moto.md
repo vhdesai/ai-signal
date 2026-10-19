@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto
 event_name: ''
 ---
 

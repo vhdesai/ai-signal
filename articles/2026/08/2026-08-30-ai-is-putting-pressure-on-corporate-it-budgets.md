@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
-embedding_id: null
+embedding_id: 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 event_name: ''
 ---
 

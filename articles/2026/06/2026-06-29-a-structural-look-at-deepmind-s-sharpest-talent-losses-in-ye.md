@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-20-john-jumper-the-chemist-and-computer-scientist-who-shared-th
 - 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 - 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
-embedding_id: null
+embedding_id: 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
 event_name: ''
 ---
 

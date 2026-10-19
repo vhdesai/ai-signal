@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-14-mit-s-hardflow-enforces-hard-constraints-on-pretrained-gener
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
-embedding_id: null
+embedding_id: 2026-09-14-mit-s-hardflow-enables-generative-ai-under-hard-constraints
 event_name: ''
 ---
 

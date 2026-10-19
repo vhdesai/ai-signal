@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-29-anthropic-s-mhs-preview-reports-early-lab-and-quantum-comput
 - 2026-09-23-anthropic-s-claude-autonomously-identifies-a-novel-crispr-li
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
-embedding_id: null
+embedding_id: 2026-08-24-carterra-enables-anthropic-s-autonomous-ai-protein-design-st
 event_name: ''
 ---
 

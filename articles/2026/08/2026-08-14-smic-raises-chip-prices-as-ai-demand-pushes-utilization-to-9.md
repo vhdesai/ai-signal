@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-embedding_id: null
+embedding_id: 2026-08-14-smic-raises-chip-prices-as-ai-demand-pushes-utilization-to-9
 event_name: ''
 ---
 

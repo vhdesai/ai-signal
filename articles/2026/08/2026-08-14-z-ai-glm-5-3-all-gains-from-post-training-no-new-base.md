@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-z-ai-ships-glm-5-3-with-no-new-base-model
 - 2026-08-14-z-ai-unveils-glm-5-3-an-open-weights-model-with-near-frontie
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
-embedding_id: null
+embedding_id: 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 event_name: ''
 ---
 

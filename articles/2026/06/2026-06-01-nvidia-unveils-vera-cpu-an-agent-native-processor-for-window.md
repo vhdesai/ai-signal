@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
-embedding_id: null
+embedding_id: 2026-06-01-nvidia-unveils-vera-cpu-an-agent-native-processor-for-window
 event_name: ''
 ---
 

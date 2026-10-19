@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
 event_name: ''
 ---
 

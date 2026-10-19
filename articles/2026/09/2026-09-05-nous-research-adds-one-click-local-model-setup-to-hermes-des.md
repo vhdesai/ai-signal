@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/
 url_canonical: https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 7b25b888c986fa62aca44499318edaeef57f281f482e43903b0c9d422cf558d0
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-05-nous-research-collapses-local-model-setup-to-one-click-in-he
 - 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
 - 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
-embedding_id: null
+embedding_id: 2026-09-05-nous-research-adds-one-click-local-model-setup-to-hermes-des
 event_name: ''
 ---
 

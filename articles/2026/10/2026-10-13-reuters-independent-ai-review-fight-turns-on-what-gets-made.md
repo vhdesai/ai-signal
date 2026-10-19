@@ -17,14 +17,10 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
-- 2026-08-01-ai-and-the-blurring-of-reality
-- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public
+related_article_ids: []
+embedding_id: 2026-10-13-reuters-independent-ai-review-fight-turns-on-what-gets-made
 event_name: ''
 ---
 
@@ -36,5 +32,5 @@ Reuters reports the AI industry's call for independent reviews is colliding with
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight]] · [[2026-08-01-ai-and-the-blurring-of-reality]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Canonical:** [[2026-10-13-independent-ai-review-fight-turns-on-what-gets-made-public]]
 <!-- graph:end -->

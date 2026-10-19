@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a
 - 2026-03-24-nvidia-released-nemotron-cascade-2-an-open-30-billion-parame
-embedding_id: null
+embedding_id: 2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit
 event_name: ''
 ---
 

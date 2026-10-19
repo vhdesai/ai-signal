@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-openai-published-a-technical-report-describing-ten-ai-assist
 - 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 - 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
-embedding_id: null
+embedding_id: 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 event_name: ''
 ---
 

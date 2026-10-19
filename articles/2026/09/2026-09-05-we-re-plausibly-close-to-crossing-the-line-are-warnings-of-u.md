@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
 - 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
-- 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
-embedding_id: null
+embedding_id: 2026-09-05-we-re-plausibly-close-to-crossing-the-line-are-warnings-of-u
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ The Guardian reports on renewed warnings that AI systems may be approaching hard
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]] · [[2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa]]
+**Related:** [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario]]
 <!-- graph:end -->

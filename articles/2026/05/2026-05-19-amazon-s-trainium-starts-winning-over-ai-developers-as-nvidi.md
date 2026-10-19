@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
-embedding_id: null
+embedding_id: 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 event_name: ''
 ---
 

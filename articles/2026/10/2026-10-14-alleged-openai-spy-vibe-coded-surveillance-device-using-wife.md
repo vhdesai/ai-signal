@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 - 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
-embedding_id: null
+embedding_id: 2026-10-14-alleged-openai-spy-vibe-coded-surveillance-device-using-wife
 event_name: ''
 ---
 

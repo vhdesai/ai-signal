@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+embedding_id: 2026-05-27-juliahub-ships-dyad-3-0-agentic-ai-for-physics-based-enginee
 event_name: ''
 ---
 

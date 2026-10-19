@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-28-mit-uses-small-data-machine-learning-to-make-rna-vaccines-su
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
-embedding_id: null
+embedding_id: 2026-09-28-mit-ml-designed-formulation-lets-rna-vaccines-survive-withou
 event_name: ''
 ---
 

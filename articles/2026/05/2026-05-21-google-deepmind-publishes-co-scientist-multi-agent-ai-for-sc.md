@@ -5,8 +5,8 @@ title: 'Google DeepMind Publishes Co-Scientist: Multi-Agent AI for Scientific Di
 date: '2026-05-21'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 62cc3cce0e2b590d6eeb99e3cacdad5ffa6851e33bedf7b0466f79a5d25d8eb0
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
-embedding_id: null
+embedding_id: 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 event_name: ''
 ---
 

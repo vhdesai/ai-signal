@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-air-launches-with-50m-to-build-a-firewall-for-ai-agent-skill
 - 2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
-embedding_id: null
+embedding_id: 2026-07-15-oak-exits-stealth-with-60m-to-govern-identity-for-ai-agents
 event_name: ''
 ---
 

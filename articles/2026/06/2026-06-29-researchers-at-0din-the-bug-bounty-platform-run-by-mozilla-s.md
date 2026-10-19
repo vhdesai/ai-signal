@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-embedding_id: null
+embedding_id: 2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: Security Researchers document "JadePuffer," described as the first fully 
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-jadepuffer-agentic-ransomware-20260707-csa/
+url_status: repaired
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 6b423ac06237107998af9b8afb7fddd6f2af3ce29fcee80d0d29a53b60346927
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-06-security-researchers-document-jadepuffer-described-as-the-fi
 event_name: ''
 ---
 

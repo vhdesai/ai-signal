@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-04-02-despite-the-record-raise-openai-s-secondary-market-position
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-embedding_id: null
+embedding_id: 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 event_name: ''
 ---
 

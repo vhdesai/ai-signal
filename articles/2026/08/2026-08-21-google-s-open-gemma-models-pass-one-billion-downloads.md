@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-google-s-gemma-open-models-pass-one-billion-downloads
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-21-google-s-open-gemma-models-pass-one-billion-downloads
 event_name: ''
 ---
 

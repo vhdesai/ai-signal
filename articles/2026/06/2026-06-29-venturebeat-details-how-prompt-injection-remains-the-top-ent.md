@@ -5,8 +5,8 @@ title: VentureBeat details how prompt injection remains the top enterprise-AI at
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://al-ice.ai/posts/2026/06/venturebeat-prompt-injection-enterprise-ai-design-flaws/
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 0fb93ea66f3d6d63078b61c53cdf2d565c252099ae6cabacefbcf214642b496c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
-embedding_id: null
+embedding_id: 2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent
 event_name: ''
 ---
 

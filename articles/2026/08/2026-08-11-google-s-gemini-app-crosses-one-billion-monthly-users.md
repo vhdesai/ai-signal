@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users
 event_name: ''
 ---
 

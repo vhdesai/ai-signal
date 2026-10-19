@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 - 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
-embedding_id: null
+embedding_id: 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 event_name: ''
 ---
 

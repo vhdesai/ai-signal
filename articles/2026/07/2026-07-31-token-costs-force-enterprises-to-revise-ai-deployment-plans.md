@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 event_name: ''
 ---
 

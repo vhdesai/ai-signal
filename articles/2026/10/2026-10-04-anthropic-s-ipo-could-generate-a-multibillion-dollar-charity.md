@@ -41,7 +41,7 @@ related_article_ids:
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 - 2026-08-17-daily-ai-news-digest-august-18-2026
 - 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
-embedding_id: null
+embedding_id: 2026-10-04-anthropic-s-ipo-could-generate-a-multibillion-dollar-charity
 event_name: ''
 ---
 

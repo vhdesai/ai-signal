@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-09-17-anthropic-publishes-three-internal-safety-metrics-including
-- 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
-embedding_id: null
+- 2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to
+embedding_id: 2026-08-15-anthropic-s-august-2026-risk-report-warns-automated-ai-r-d-c
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Anthropic published its August 2026 Risk Report, arguing that AI research itself
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]]
+**Related:** [[2026-08-15-anthropic-s-august-2026-risk-report-rates-full-automation-ri]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe]] · [[2026-09-17-anthropic-publishes-three-internal-safety-metrics-including]] · [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to]]
 <!-- graph:end -->

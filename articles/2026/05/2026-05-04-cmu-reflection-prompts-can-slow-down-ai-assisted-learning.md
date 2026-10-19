@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
-embedding_id: null
+embedding_id: 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 event_name: ''
 ---
 

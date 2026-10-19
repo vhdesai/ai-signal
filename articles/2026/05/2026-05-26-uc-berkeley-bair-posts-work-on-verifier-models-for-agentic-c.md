@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
 - 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
 - 2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management
-embedding_id: null
+embedding_id: 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 event_name: ''
 ---
 

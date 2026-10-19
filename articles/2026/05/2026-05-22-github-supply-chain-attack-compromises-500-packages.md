@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
 - 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
 - 2026-08-17-ai-generated-security-fix-introduced-a-shell-injection-in-sn
-embedding_id: null
+embedding_id: 2026-05-22-github-supply-chain-attack-compromises-500-packages
 event_name: ''
 ---
 

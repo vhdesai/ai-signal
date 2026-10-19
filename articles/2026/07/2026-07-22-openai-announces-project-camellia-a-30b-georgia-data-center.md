@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-openai-announces-ai-infrastructure-project-in-effingham-coun
 - 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
 - 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
-embedding_id: null
+embedding_id: 2026-07-22-openai-announces-project-camellia-a-30b-georgia-data-center
 event_name: ''
 ---
 

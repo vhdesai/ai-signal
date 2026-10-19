@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-04-01-products-tools
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
-embedding_id: null
+embedding_id: 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Two major Chinese AI models are expected to debut in April 2026
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.houdao.com/d/10486-April-2026-AI-Model-Roundup-Releases-from-DeepSeek-Qwen-GLM-and-Other-Chinese-Large-Models
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: fb97e57ed60589e36d205b2bd0c5eeac221f4121126496806c8313af57a8b97d
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 - 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
-embedding_id: null
+embedding_id: 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 event_name: ''
 ---
 

@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
-embedding_id: null
+embedding_id: 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines
 event_name: ''
 ---
 

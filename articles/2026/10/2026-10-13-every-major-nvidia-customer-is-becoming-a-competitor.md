@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-08-18-nvidia-s-ai-moat-is-shifting-from-chips-to-capital
-embedding_id: null
+embedding_id: 2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor
 event_name: ''
 ---
 

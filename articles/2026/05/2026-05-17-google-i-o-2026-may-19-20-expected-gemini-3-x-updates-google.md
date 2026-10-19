@@ -5,8 +5,8 @@ title: 'Google I/O 2026 — May 19–20. Expected: Gemini 3.x updates, Googleboo
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: dde59880f908f4f1b46d5d18f7a57d09c9bb52807891a334f6e75005e62a3741
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
-embedding_id: null
+embedding_id: 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 event_name: ''
 ---
 

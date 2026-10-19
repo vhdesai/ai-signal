@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-08-03-openai-is-explicitly-framing-gpt-5-6-around-price-performanc
-embedding_id: null
+embedding_id: 2026-09-27-openai-says-80-90-of-its-research-already-targets-gpt-7-and
 event_name: ''
 ---
 

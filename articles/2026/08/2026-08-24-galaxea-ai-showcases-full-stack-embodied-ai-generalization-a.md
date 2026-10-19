@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
-embedding_id: null
+embedding_id: 2026-08-24-galaxea-ai-showcases-full-stack-embodied-ai-generalization-a
 event_name: ''
 ---
 

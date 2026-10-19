@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-safety-classifier
 - 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
-embedding_id: null
+embedding_id: 2026-08-05-mistral-releases-shieldstral-a-3b-on-device-ai-safety-model
 event_name: ''
 ---
 

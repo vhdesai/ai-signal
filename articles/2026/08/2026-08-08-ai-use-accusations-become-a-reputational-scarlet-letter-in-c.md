@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-03-ai-generated-actors-and-scripts-now-ineligible-for-oscar-nom
 - 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
-embedding_id: null
+embedding_id: 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 event_name: ''
 ---
 

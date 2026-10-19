@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai
-- 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
-embedding_id: null
+- 2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele
+embedding_id: 2026-09-12-mathematicians-push-back-on-openai-s-math-prize-claim-as-imm
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Leading mathematicians are pushing back on OpenAI's claim that GPT-6 Astra solve
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut]]
+**Related:** [[2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai]] · [[2026-09-11-25-fields-medalists-sign-open-letter-against-ai-labs-openai]] · [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele]]
 <!-- graph:end -->

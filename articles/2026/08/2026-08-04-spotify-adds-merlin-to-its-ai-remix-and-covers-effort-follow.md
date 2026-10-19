@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-08-29-record-labels-fight-over-ai-music-as-copyright-battle-intens
-embedding_id: null
+embedding_id: 2026-08-04-spotify-adds-merlin-to-its-ai-remix-and-covers-effort-follow
 event_name: ''
 ---
 

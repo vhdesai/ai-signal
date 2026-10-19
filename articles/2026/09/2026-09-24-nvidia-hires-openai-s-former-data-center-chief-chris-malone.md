@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-openai-s-data-center-chief-chris-malone-departs
 - 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 - 2026-08-26-more-than-a-dozen-openai-executives-have-departed-ahead-of-a
-embedding_id: null
+embedding_id: 2026-09-24-nvidia-hires-openai-s-former-data-center-chief-chris-malone
 event_name: ''
 ---
 

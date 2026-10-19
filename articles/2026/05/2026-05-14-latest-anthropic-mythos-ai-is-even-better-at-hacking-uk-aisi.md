@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-embedding_id: null
+embedding_id: 2026-05-14-latest-anthropic-mythos-ai-is-even-better-at-hacking-uk-aisi
 event_name: ''
 ---
 

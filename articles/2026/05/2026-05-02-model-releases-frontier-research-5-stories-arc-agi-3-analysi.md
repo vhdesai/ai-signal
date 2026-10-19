@@ -42,7 +42,7 @@ related_article_ids:
 - 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-embedding_id: null
+embedding_id: 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
 event_name: ''
 ---
 

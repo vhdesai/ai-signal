@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
+- 2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-embedding_id: null
+embedding_id: 2026-10-14-ai-home-hardware-heads-toward-the-holiday-market
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Apple, Amazon and Microsoft launched AI home devices within a week. Analysts que
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
+**Related:** [[2026-08-03-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-08-02-academic-ai-sources-were-quiet-in-the-date-window]] · [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering]] · [[2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour]]
 <!-- graph:end -->

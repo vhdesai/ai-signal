@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
-embedding_id: null
+embedding_id: 2026-09-18-s-p-asia-pacific-chip-foundries-are-the-most-insulated-segme
 event_name: ''
 ---
 

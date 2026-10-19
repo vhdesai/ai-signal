@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: OCCRP
 url_original: https://www.occrp.org/en/news/documentary-raises-new-concerns-about-protection-measures-of-musks-ai-grok
 url_canonical: https://www.occrp.org/en/news/documentary-raises-new-concerns-about-protection-measures-of-musks-ai-grok
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 162168f1ba081f65d803c5c6a345e3a042e4841e5afc7e374d4450c7fea66e21
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 - 2026-06-10-xai-fired-engineer-who-raised-grok-safety-alarms-lawsuit-cla
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
-embedding_id: null
+embedding_id: 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 event_name: ''
 ---
 

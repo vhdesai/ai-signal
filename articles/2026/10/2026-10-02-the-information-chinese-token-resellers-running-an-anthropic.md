@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 - 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
-embedding_id: null
+embedding_id: 2026-10-02-the-information-chinese-token-resellers-running-an-anthropic
 event_name: ''
 ---
 

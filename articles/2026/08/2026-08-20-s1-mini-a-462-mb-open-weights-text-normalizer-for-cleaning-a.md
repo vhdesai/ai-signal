@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a
 event_name: ''
 ---
 

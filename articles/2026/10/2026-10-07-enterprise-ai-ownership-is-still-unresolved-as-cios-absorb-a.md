@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-embedding_id: null
+embedding_id: 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 event_name: ''
 ---
 

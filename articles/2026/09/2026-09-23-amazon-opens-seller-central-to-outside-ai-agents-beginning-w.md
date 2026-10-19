@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-amazon-opens-seller-assistant-to-claude-and-gives-sellers-12
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-09-24-amazon-gives-sellers-12-months-of-quick-plus-for-free-as-par
-embedding_id: null
+embedding_id: 2026-09-23-amazon-opens-seller-central-to-outside-ai-agents-beginning-w
 event_name: ''
 ---
 

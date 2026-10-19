@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 - 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
-embedding_id: null
+embedding_id: 2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d
 event_name: ''
 ---
 

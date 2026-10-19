@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-embedding_id: null
+embedding_id: 2026-07-31-the-end-to-end-agentic-ai-pipeline
 event_name: ''
 ---
 

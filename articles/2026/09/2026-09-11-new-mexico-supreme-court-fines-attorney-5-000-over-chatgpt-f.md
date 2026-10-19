@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-11-new-mexico-supreme-court-sanctions-attorney-over-ai-hallucin
 - 2026-08-07-meta-ordered-to-pay-additional-567m-in-new-mexico-child-safe
 - 2026-09-22-british-columbia-sues-openai-and-altman-over-tumbler-ridge-s
-embedding_id: null
+embedding_id: 2026-09-11-new-mexico-supreme-court-fines-attorney-5-000-over-chatgpt-f
 event_name: ''
 ---
 

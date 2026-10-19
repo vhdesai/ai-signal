@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
 - 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
-embedding_id: null
+embedding_id: 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 event_name: ''
 ---
 

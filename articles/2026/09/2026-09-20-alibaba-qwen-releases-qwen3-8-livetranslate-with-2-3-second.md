@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
-embedding_id: null
+embedding_id: 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 event_name: ''
 ---
 

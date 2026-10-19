@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-16-anthropic-ceo-ai-backlash-is-fundamentally-a-crisis-of-trust
 - 2026-08-16-anthropic-ceo-dario-amodei-the-ai-backlash-is-fundamentally
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
-embedding_id: null
+embedding_id: 2026-08-16-amodei-calls-the-ai-backlash-fundamentally-a-crisis-of-trust
 event_name: ''
 ---
 

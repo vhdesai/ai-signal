@@ -25,7 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
-embedding_id: null
+embedding_id: 2026-08-15-nvidia-reportedly-close-to-guaranteeing-about-100-billion-in
 event_name: ''
 ---
 

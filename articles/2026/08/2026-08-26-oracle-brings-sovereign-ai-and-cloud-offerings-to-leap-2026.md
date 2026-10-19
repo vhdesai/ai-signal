@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
 - 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
-embedding_id: null
+embedding_id: 2026-08-26-oracle-brings-sovereign-ai-and-cloud-offerings-to-leap-2026
 event_name: ''
 ---
 

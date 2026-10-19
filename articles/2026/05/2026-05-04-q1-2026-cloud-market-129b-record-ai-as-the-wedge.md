@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 - 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
-embedding_id: null
+embedding_id: 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
 event_name: ''
 ---
 

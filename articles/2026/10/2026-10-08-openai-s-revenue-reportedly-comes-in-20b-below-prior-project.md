@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-openai-revenue-confusion-hits-oracle-coreweave-and-the-ai-ch
 - 2026-08-31-openai-s-advertising-business-reaches-a-1-billion-annualized
 - 2026-10-09-openai-seeks-30b-in-fresh-capital-at-1-4t-valuation-after-re
-embedding_id: null
+embedding_id: 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
 event_name: ''
 ---
 

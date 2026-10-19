@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
-embedding_id: null
+embedding_id: 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
 event_name: ''
 ---
 

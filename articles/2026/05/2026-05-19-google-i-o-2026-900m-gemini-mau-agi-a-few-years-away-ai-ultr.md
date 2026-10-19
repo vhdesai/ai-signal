@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-at-google-i-o-ceo-sundar-pichai-declared-the-start-of-the-ag
 - 2026-05-22-at-google-i-o-2026-may-19-20-mountain-view-ceo-sundar-pichai
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
-embedding_id: null
+embedding_id: 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 event_name: ''
 ---
 

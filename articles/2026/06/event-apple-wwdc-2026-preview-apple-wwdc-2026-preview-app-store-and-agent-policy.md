@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-apple-reportedly-preparing-to-allow-agentic-ai-apps-on-app-s
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
-embedding_id: null
+embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
 event_name: Apple WWDC 2026 Preview
 ---
 

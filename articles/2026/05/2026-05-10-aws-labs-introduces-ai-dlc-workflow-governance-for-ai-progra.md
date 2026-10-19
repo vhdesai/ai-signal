@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-collate-launches-ai-governance-studio-for-cross-environment
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
-embedding_id: null
+embedding_id: 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 event_name: ''
 ---
 

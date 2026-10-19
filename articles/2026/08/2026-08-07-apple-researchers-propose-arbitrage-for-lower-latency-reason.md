@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
-embedding_id: null
+embedding_id: 2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason
 event_name: ''
 ---
 

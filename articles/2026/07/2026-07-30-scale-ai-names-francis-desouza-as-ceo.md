@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-27-
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-09-18-anthropic-weighs-an-early-frontier-model-release-ahead-of-it
-embedding_id: null
+embedding_id: 2026-07-30-scale-ai-names-francis-desouza-as-ceo
 event_name: ''
 ---
 

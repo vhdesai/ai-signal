@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
-embedding_id: null
+embedding_id: 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 event_name: ''
 ---
 

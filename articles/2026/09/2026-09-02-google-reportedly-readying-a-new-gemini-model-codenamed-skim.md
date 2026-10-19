@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o
 - 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-10-10-gemini-4-carbon-reportedly-matches-opus-5-5-coding-performan
-embedding_id: null
+embedding_id: 2026-09-02-google-reportedly-readying-a-new-gemini-model-codenamed-skim
 event_name: ''
 ---
 

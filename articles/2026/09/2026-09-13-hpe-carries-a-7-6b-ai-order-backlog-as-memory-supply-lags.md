@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
-embedding_id: null
+embedding_id: 2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags
 event_name: ''
 ---
 

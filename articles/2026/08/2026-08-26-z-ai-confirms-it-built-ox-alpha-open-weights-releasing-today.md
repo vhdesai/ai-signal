@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-china-s-z-ai-confirmed-as-builder-of-free-ox-alpha-stealth-m
 - 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights
-embedding_id: null
+embedding_id: 2026-08-26-z-ai-confirms-it-built-ox-alpha-open-weights-releasing-today
 event_name: ''
 ---
 

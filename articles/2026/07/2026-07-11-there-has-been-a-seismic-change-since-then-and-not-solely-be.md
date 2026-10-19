@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
-embedding_id: null
+embedding_id: 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
 event_name: ''
 ---
 

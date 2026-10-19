@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
-embedding_id: null
+embedding_id: 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 event_name: ''
 ---
 

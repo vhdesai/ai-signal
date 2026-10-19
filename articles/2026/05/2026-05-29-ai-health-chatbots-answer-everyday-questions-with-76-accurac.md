@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-ai-chatbots-frequently-flub-voting-questions-ahead-of-midter
 - 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-embedding_id: null
+embedding_id: 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 event_name: ''
 ---
 

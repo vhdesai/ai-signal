@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
 - 2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi
 - 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
-embedding_id: null
+embedding_id: 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 event_name: ''
 ---
 

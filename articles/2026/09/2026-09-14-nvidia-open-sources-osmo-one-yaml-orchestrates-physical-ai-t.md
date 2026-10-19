@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-14-nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-t
 event_name: ''
 ---
 

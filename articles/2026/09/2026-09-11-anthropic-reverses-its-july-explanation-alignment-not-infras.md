@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-embedding_id: null
+embedding_id: 2026-09-11-anthropic-reverses-its-july-explanation-alignment-not-infras
 event_name: ''
 ---
 

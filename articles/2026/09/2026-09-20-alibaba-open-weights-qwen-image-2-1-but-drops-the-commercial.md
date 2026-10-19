@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
-embedding_id: null
+embedding_id: 2026-09-20-alibaba-open-weights-qwen-image-2-1-but-drops-the-commercial
 event_name: ''
 ---
 

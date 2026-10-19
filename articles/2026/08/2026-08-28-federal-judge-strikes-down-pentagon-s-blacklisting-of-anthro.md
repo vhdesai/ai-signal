@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-28-federal-judge-rules-pentagon-s-supply-chain-risk-designation
 related_article_ids:
 - 2026-08-27-federal-judge-rules-pentagon-s-blacklisting-of-anthropic-unl
-embedding_id: null
+embedding_id: 2026-08-28-federal-judge-strikes-down-pentagon-s-blacklisting-of-anthro
 event_name: ''
 ---
 

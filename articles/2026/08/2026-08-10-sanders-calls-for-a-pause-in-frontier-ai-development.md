@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-bernie-sanders-floats-a-ban-on-superintelligent-ai
 - 2026-09-16-sanders-and-bannon-share-a-stage-to-demand-tighter-ai-restri
 - 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
-embedding_id: null
+embedding_id: 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 event_name: ''
 ---
 

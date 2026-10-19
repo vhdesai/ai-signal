@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
-embedding_id: null
+embedding_id: 2026-09-25-microsoft-launches-all-in-one-copilot-with-home-code-and-aut
 event_name: ''
 ---
 

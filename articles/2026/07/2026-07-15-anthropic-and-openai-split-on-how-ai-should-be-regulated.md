@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
-embedding_id: null
+embedding_id: 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 event_name: ''
 ---
 

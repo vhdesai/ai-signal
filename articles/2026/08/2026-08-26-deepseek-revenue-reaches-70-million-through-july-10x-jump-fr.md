@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-deepseek-revenue-reaches-70m-through-july-tenfold-jump-from
 - 2026-08-26-deepseek-revenue-reaches-70-million-through-july-tenfold-jum
 - 2026-07-15-deepseek-nears-500m-revenue-and-prepares-for-public-market-p
-embedding_id: null
+embedding_id: 2026-08-26-deepseek-revenue-reaches-70-million-through-july-10x-jump-fr
 event_name: ''
 ---
 

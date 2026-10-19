@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-22-openai-s-infrastructure-budget-balloons-to-750b-through-2030
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-750-bil
 event_name: ''
 ---
 

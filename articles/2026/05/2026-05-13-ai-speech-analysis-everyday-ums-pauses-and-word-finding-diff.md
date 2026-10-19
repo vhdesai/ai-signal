@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-study-generative-ai-succumbs-to-conversational-misinformed-p
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
-embedding_id: null
+embedding_id: 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 event_name: ''
 ---
 

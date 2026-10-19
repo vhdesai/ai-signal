@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
-embedding_id: null
+embedding_id: 2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur
 event_name: ''
 ---
 

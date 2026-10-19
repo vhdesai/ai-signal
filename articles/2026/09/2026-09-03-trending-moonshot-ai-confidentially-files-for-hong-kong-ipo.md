@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-china-s-moonshot-ai-confidentially-filed-for-a-hong-kong-ipo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-trending-moonshot-ai-confidentially-files-for-hong-kong-ipo
 event_name: ''
 ---
 

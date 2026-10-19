@@ -4,8 +4,8 @@ title: Cursor 3.7 Ships "Design Mode" — Edit UI by Pointing, Drawing, or Talki
 date: '2026-06-06'
 source: Build Fast with AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.buildfastwithai.com/cursor-design-mode-edit-ui-voice-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: f4e82d80e03a0b10ce6562e49f7e031b58a999bee7b1aa44d36aaefa4a2fd17d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
 - 2026-08-31-runway-introduces-solaris-an-interface-world-model-that-gene
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-embedding_id: null
+embedding_id: 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
 event_name: ''
 ---
 

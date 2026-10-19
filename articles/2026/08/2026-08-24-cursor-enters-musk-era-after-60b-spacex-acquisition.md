@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui
 - 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
 - 2026-08-15-spacex-closes-60b-all-stock-acquisition-of-cursor
-embedding_id: null
+embedding_id: 2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition
 event_name: ''
 ---
 

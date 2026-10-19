@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
 - 2026-08-25-taiwan-indicts-nine-including-nvidia-and-super-micro-staff-o
 - 2026-08-31-taiwan-raids-nvidia-and-intel-pcb-supplier-unimicron-over-al
-embedding_id: null
+embedding_id: 2026-06-30-taiwanese-prosecutors-raided-super-micro-computer-s-taiwan-o
 event_name: ''
 ---
 

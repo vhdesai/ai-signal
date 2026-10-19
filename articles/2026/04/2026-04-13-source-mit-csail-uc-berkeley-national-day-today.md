@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-13-stanford-hai-2026-ai-index-us-china-gap-nearly-closed-ai-inc
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-embedding_id: null
+embedding_id: 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 event_name: ''
 ---
 

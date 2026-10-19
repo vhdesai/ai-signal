@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-15-spacex-completes-60b-all-stock-acquisition-of-ai-coding-star
 - 2026-08-14-spacex-xai-completes-acquisition-of-cursor-at-a-reported-60b
 - 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
-embedding_id: null
+embedding_id: 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 event_name: ''
 ---
 

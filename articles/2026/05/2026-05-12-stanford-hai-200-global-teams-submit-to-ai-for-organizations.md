@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: null
+embedding_id: 2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations
 event_name: ''
 ---
 

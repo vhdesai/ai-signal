@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
 - 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
-embedding_id: null
+embedding_id: 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 event_name: ''
 ---
 

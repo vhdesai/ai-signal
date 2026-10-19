@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
-embedding_id: null
+embedding_id: 2026-05-10-ucsd-aer-ai-optimized-summaries-reduce-reader-knowledge-rete
 event_name: ''
 ---
 

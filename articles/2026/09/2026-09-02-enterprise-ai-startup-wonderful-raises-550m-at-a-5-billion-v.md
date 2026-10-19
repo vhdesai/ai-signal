@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
-embedding_id: null
+embedding_id: 2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v
 event_name: ''
 ---
 

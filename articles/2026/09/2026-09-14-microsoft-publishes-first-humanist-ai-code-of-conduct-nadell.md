@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-monday-september-14-2026
 - 2026-10-10-satya-nadella-argues-ai-systems-need-an-emergency-brake-and
 - 2026-10-11-policy-microsoft-microsoft-s-satya-nadella-says-ai-models-ne
-embedding_id: null
+embedding_id: 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-nadell
 event_name: ''
 ---
 

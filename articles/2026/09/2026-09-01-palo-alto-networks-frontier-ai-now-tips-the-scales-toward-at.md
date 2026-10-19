@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-09-22-palo-alto-networks-launches-unit-42-continuous-frontier-ai-d
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-embedding_id: null
+embedding_id: 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Daily AI News Digest – June 18, 2026
 date: '2026-06-17'
 source: 'Source window: June 17, 2026 06:14 PDT → June 18, 2026 06:14 PDT'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aidailypost.com/daily/2026-06-17-ai-daily-digest-wednesday-june-17-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-18_062214_Final-Daily-AI-News-Digest.md
 content_hash: 22306a159e3656f75eca40eb21b0a6420a1201eec3c5f6cd79091774dcf3c5c8
 normalized_title_hash: afe801e78bb20b2c
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-18-transformer-co-inventor-noam-shazeer-leaves-google-gemini-fo
 - 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: null
+embedding_id: 2026-06-17-daily-ai-news-digest-june-18-2026
 event_name: ''
 ---
 

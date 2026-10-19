@@ -5,8 +5,8 @@ title: ChatGPT Enables Ad Tracking by Default for Free Users as OpenAI Seeks New
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: feeb8f8652a4773ceaca327881a7d485123d9234d92400a7c84f6125869b7fa8
 normalized_title_hash: 5fb4de1532119800
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-15-openai-notifies-european-free-tier-users-that-chatgpt-ads-ar
 - 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
-embedding_id: null
+embedding_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 event_name: ''
 ---
 

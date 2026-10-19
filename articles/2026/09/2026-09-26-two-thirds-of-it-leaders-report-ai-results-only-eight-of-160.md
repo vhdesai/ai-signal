@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-09-27-openai-says-80-90-of-its-research-already-targets-gpt-7-and
 - 2026-08-22-only-35-of-leaders-say-ai-consistently-delivers-business-out
-embedding_id: null
+embedding_id: 2026-09-26-two-thirds-of-it-leaders-report-ai-results-only-eight-of-160
 event_name: ''
 ---
 

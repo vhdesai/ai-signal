@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 - 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-embedding_id: null
+embedding_id: 2026-08-01-techcrunch-reports-that-apple-is-considering-a-model-in-whic
 event_name: ''
 ---
 

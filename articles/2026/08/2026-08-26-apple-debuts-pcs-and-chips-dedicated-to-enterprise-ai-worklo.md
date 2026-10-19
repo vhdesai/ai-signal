@@ -5,7 +5,7 @@ date: '2026-08-26'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
 url_canonical: https://www.ciodive.com/news/apple-debuts-pc-chip-ai-workloads/828762/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-26_111101_Final-Daily-AI-News-Digest.md
 content_hash: b3f7e557dcd4e4bb33f78032b9ef177cb44cc7bcdd8721671095ea4a434a8f76
 normalized_title_hash: 5e3c92fc4bbfc807
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-30-apple-s-mac-sales-surge-as-developers-buy-hardware-for-local
 - 2026-09-16-apple-exploring-return-to-server-market-with-m8-ultra-nvidia
 - 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
-embedding_id: null
+embedding_id: 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 event_name: ''
 ---
 

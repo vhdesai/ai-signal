@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-08-26-moonshot-ai-in-cloud-revenue-share-talks-with-microsoft-amaz
-embedding_id: null
+embedding_id: 2026-09-11-moonshot-ai-targets-2b-annual-revenue-as-kimi-k3-sees-300b-d
 event_name: ''
 ---
 

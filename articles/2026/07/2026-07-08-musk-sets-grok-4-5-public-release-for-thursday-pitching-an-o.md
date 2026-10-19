@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class
-embedding_id: null
+embedding_id: 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 event_name: ''
 ---
 

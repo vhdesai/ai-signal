@@ -26,7 +26,7 @@ related_article_ids:
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
-embedding_id: null
+embedding_id: event-google-android-show-2026-google-android-show-2026-strategic-implications
 event_name: Google Android Show 2026
 ---
 

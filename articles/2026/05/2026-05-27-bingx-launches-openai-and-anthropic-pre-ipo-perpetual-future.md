@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-08-17-anthropic-s-annualized-revenue-surges-to-65b-ipo-expected-th
-embedding_id: null
+embedding_id: 2026-05-27-bingx-launches-openai-and-anthropic-pre-ipo-perpetual-future
 event_name: ''
 ---
 

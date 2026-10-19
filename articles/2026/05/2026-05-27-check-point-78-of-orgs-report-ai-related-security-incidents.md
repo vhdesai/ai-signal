@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 - 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
-embedding_id: null
+embedding_id: 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
 event_name: ''
 ---
 

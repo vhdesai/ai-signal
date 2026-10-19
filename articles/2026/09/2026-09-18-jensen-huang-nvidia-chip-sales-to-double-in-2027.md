@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
 - 2026-09-18-huang-expects-nvidia-to-ship-twice-as-many-chips-next-year
 - 2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c
-embedding_id: null
+embedding_id: 2026-09-18-jensen-huang-nvidia-chip-sales-to-double-in-2027
 event_name: ''
 ---
 

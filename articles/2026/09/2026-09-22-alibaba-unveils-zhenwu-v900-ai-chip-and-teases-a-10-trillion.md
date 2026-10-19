@@ -27,7 +27,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-teases-a-10-trillion
 event_name: ''
 ---
 

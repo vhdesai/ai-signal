@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
 - 2026-07-12-openai-safety-governance
-embedding_id: null
+embedding_id: 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-a-named-rep
 event_name: ''
 ---
 

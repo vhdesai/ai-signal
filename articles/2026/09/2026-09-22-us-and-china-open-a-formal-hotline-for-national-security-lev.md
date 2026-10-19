@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 - 2026-09-20-u-s-and-china-agree-to-a-formal-ai-dialogue-and-incident-not
-embedding_id: null
+embedding_id: 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
 event_name: ''
 ---
 

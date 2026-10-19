@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
-embedding_id: null
+embedding_id: 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
 event_name: ''
 ---
 

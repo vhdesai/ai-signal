@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl
 - 2026-10-08-alibaba-s-ai-cloud-revenue-set-to-surge-more-than-50
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-embedding_id: null
+embedding_id: 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-huawei-first-half-profit-falls-37-amid-record-ai-and-chip-sp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-huawei-first-half-profit-falls-roughly-a-third-as-r-d-hits-2
 event_name: ''
 ---
 

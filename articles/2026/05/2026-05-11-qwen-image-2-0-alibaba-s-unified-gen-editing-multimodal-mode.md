@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-alibaba-qwen-releases-qwen-image-2-1-turbo-for-faster-2k-ima
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-7b-unified-generation-a
-embedding_id: null
+embedding_id: 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-04-daily-ai-news-digest-april-4-2026-compiled-from-30-sources-i
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-embedding_id: null
+embedding_id: 2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai
 event_name: ''
 ---
 

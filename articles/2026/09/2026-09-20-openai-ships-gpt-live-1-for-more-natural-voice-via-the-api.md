@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener
 - 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-embedding_id: null
+embedding_id: 2026-09-20-openai-ships-gpt-live-1-for-more-natural-voice-via-the-api
 event_name: ''
 ---
 

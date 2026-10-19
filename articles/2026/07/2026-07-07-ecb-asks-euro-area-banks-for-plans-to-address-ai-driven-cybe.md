@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina
 - 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 - 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
-embedding_id: null
+embedding_id: 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 event_name: ''
 ---
 

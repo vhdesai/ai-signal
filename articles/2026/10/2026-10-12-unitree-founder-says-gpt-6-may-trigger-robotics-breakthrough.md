@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-early-benchmarks-gpt-6-astra-shows-a-step-change-in-spatial
 - 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 - 2026-08-13-cerebras-runs-openai-s-gpt-5-6-sol-at-750-tokens-per-second
-embedding_id: null
+embedding_id: 2026-10-12-unitree-founder-says-gpt-6-may-trigger-robotics-breakthrough
 event_name: ''
 ---
 

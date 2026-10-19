@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 - 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 - 2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date
-embedding_id: null
+embedding_id: 2026-03-28-openai-s-next-flagship-model-internally-codenamed-spud-compl
 event_name: ''
 ---
 

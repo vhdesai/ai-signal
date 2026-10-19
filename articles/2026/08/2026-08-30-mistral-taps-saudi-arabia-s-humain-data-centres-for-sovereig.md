@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-microsoft-and-humain-expand-strategic-collaboration-at-leap
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-08-31-microsoft-and-humain-expand-collaboration-with-an-enterprise
-embedding_id: null
+embedding_id: 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-new-trending-google-deepmind-introduces-weathernext-3-with-h
 event_name: ''
 ---
 

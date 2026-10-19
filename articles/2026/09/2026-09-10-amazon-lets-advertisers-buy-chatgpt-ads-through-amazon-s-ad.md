@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-17-openai-opens-chatgpt-to-sponsored-agents-wiring-ads-into-hub
-embedding_id: null
+embedding_id: 2026-09-10-amazon-lets-advertisers-buy-chatgpt-ads-through-amazon-s-ad
 event_name: ''
 ---
 

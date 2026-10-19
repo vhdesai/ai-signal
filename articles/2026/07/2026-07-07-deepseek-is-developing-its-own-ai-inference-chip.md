@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia
 related_article_ids:
 - 2026-07-07-deepseek-reportedly-designing-its-own-inference-chip
-embedding_id: null
+embedding_id: 2026-07-07-deepseek-is-developing-its-own-ai-inference-chip
 event_name: ''
 ---
 

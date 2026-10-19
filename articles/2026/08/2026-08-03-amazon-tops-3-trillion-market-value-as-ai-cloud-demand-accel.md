@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel
 event_name: ''
 ---
 

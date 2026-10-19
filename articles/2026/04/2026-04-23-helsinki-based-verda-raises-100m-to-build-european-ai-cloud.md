@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
 - 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-embedding_id: null
+embedding_id: 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 event_name: ''
 ---
 

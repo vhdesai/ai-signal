@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/
 url_canonical: https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 38c55c0119198b13593d823d1bd72612118c374bed9d0ceca883383d3e6c4aaf
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
-embedding_id: null
+embedding_id: 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 event_name: ''
 ---
 

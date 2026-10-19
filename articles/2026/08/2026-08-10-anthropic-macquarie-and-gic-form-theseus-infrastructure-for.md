@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-to-b
 - 2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
-embedding_id: null
+embedding_id: 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
 event_name: ''
 ---
 

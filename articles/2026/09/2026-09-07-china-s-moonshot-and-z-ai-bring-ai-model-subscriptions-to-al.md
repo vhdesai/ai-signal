@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-china-banks-and-carriers-turn-ai-tokens-into-rewards-plans-a
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: null
+embedding_id: 2026-09-07-china-s-moonshot-and-z-ai-bring-ai-model-subscriptions-to-al
 event_name: ''
 ---
 

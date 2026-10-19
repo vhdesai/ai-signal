@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 - 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-embedding_id: null
+embedding_id: 2026-05-20-ai-alignment-via-debate-fresh-empirical-results
 event_name: ''
 ---
 

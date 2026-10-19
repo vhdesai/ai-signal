@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-08-google-releases-a-new-local-first-granola-competitor
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-08-google-releases-local-first-ai-edge-foresight-a-granola-comp
 event_name: ''
 ---
 

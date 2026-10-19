@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-cisco-talos-discloses-closedquorum-the-first-reported-autono
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-cisco-talos-documents-first-autonomous-ai-command-and-contro
 event_name: ''
 ---
 

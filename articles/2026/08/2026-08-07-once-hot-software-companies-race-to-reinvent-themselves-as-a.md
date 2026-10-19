@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-software-companies-race-to-reinvent-themselves-as-ai-pressur
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
 - 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
-embedding_id: null
+embedding_id: 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 event_name: ''
 ---
 

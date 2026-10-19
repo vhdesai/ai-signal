@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-amodei-says-the-industry-lied-about-ai-risks-altman-and-musk
 - 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
 - 2026-09-13-sam-altman-confirms-openai-will-not-ipo-in-2026
-embedding_id: null
+embedding_id: 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 event_name: ''
 ---
 

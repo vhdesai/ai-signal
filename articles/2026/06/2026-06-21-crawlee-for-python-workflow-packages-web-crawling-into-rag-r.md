@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/
 url_canonical: https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 6b134194d35fa6f7e8277fa5cf251fa1f654dbe9b9d1e7c79845d945b543eefa
 normalized_title_hash: 040eb323d87a38bd
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
 - 2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-- 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-embedding_id: null
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
+embedding_id: 2026-06-21-crawlee-for-python-workflow-packages-web-crawling-into-rag-r
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ MarkTechPost published a Crawlee for Python workflow for building web-crawling p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo]]
+**Related:** [[2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with]] · [[2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti]] · [[2026-08-08-shepherd-an-open-source-substrate-that-lets-meta-agents-fork]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
 <!-- graph:end -->

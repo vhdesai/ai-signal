@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-06-china-struggles-to-recruit-foreign-ai-researchers-in-race-wi
-embedding_id: null
+embedding_id: 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 event_name: ''
 ---
 

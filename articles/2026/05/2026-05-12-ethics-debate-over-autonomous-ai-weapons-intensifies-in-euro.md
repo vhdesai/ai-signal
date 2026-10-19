@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-european-defense-officials-resist-the-eu-s-own-cloud-soverei
 - 2026-07-17-bipartisan-lawmakers-push-human-oversight-of-ai-weapons
 - 2026-09-22-openai-calls-for-international-standards-on-recursive-self-i
-embedding_id: null
+embedding_id: 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
 event_name: ''
 ---
 

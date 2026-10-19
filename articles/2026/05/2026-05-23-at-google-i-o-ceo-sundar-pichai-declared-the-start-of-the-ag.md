@@ -5,8 +5,8 @@ title: At Google I/O, CEO Sundar Pichai declared the start of "the agentic Gemin
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 60742b882f7f94df02cb980aa42fe870a2e816e4128ef55f9435678ab98629d4
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
-embedding_id: null
+embedding_id: 2026-05-23-at-google-i-o-ceo-sundar-pichai-declared-the-start-of-the-ag
 event_name: ''
 ---
 

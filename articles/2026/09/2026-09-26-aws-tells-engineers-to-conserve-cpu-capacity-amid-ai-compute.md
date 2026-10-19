@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-29-aws-and-nvidia-to-deploy-two-million-additional-gpus-for-ai
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
 - 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
-embedding_id: null
+embedding_id: 2026-09-26-aws-tells-engineers-to-conserve-cpu-capacity-amid-ai-compute
 event_name: ''
 ---
 

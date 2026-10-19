@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-01-anthropic-launches-claude-for-government-on-fedramp-high-pen
 - 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
 - 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
-embedding_id: null
+embedding_id: 2026-06-29-california-strikes-deal-giving-all-state-and-local-agencies
 event_name: ''
 ---
 

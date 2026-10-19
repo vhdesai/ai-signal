@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
-embedding_id: null
+embedding_id: 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 event_name: ''
 ---
 

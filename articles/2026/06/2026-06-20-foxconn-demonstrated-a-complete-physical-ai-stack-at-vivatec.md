@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-embedding_id: null
+embedding_id: 2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec
 event_name: ''
 ---
 

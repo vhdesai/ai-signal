@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 - 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
 - 2026-09-18-nscale-files-for-nyse-listing-on-103b-of-contracts-and-140m
-embedding_id: null
+embedding_id: 2026-09-21-microsoft-and-anthropic-account-for-85-of-nscale-s-103b-cont
 event_name: ''
 ---
 

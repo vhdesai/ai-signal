@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
 event_name: ''
 ---
 

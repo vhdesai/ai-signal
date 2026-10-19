@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a
 - 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
 - 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight
 event_name: ''
 ---
 

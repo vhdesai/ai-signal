@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-25-fields-medalists-declare-a-severe-misalignment-between-ai
 - 2026-09-12-immature-playground-boasting-mathematicians-uneasy-at-openai
 - 2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a
-embedding_id: null
+embedding_id: 2026-09-12-25-fields-medalists-sign-joint-statement-ai-industry-s-goals
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-18-landmark-29-state-trial-against-meta-over-youth-harm-opens-i
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-18-meta-faces-29-state-trial-over-alleged-harm-to-young-users
 event_name: ''
 ---
 

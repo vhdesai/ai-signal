@@ -4,8 +4,8 @@ title: Amp raises $1.3B to build a shared AI "Grid" democratizing compute access
 date: '2026-05-12'
 source: NYT / DNyuz  · AI Business
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.agenticbrew.ai/news/f1735509-940f-49b8-a2fb-ad32ac256b0d/amp-raises-1-3b-to-build-alternative-ai-compute-grid
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: a06b41dcf1830065c0cc7b4d5b037f90dc109c8dffdc6d6d77abfeb0a092bf69
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation
 - 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-embedding_id: null
+embedding_id: 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
 event_name: ''
 ---
 

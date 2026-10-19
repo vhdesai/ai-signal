@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
-embedding_id: null
+embedding_id: 2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and
 event_name: ''
 ---
 

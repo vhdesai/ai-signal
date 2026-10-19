@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
 - 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
-embedding_id: null
+embedding_id: 2026-09-27-bill-gates-says-unchecked-ai-could-cause-a-billion-deaths-an
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
 - 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
-embedding_id: null
+embedding_id: 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 event_name: ''
 ---
 

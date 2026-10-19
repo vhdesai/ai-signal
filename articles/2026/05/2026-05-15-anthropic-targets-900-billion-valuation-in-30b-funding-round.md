@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
 related_article_ids:
 - 2026-05-17-reports-indicate-anthropic-is-in-final-stages-of-a-funding-r
-embedding_id: null
+embedding_id: 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
 event_name: ''
 ---
 

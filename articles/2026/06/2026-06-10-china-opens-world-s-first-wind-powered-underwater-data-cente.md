@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
-embedding_id: null
+embedding_id: 2026-06-10-china-opens-world-s-first-wind-powered-underwater-data-cente
 event_name: ''
 ---
 

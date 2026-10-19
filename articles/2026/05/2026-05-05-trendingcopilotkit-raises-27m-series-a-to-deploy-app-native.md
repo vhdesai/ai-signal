@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 - 2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance
-embedding_id: null
+embedding_id: 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 event_name: ''
 ---
 

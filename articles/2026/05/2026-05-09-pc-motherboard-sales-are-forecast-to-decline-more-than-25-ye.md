@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-30-chipmakers-displace-big-tech-as-ai-era-winners-nvidia-s-quar
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
-embedding_id: null
+embedding_id: 2026-05-09-pc-motherboard-sales-are-forecast-to-decline-more-than-25-ye
 event_name: ''
 ---
 

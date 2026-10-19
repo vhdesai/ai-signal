@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-xai-faces-child-safety-lawsuits-over-grok-imagery-and-counte
 - 2026-08-15-new-plaintiff-joins-csam-lawsuit-against-xai-over-grok
 - 2026-08-15-lawsuit-expands-over-alleged-use-of-grok-to-create-explicit
-embedding_id: null
+embedding_id: 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 event_name: ''
 ---
 

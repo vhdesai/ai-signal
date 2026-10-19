@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-17-vertu-tests-whether-executives-will-pay-6-880-for-an-ai-agen
 event_name: ''
 ---
 

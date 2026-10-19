@@ -4,8 +4,8 @@ title: 'May API Pricing Shakeup: xAI Raises 10×, DeepSeek & Mistral Cut 75%'
 date: '2026-05-16'
 source: APIpulse
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.getapipulse.com/blog-may-2026-pricing-shakeup.html
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 7f7eab5e82bd32717f87e5229deef1ddaa00bc13facbe1abc2233536855a4de5
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 - 2026-09-21-xai-ships-grok-4-7-at-unchanged-2-6-pricing-with-a-larger-ba
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
-embedding_id: null
+embedding_id: 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 event_name: ''
 ---
 

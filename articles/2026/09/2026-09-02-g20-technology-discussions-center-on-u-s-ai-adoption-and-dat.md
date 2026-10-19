@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-09-01-u-s-pushes-g20-toward-light-touch-ai-regulation-under-the-ca
 - 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
-embedding_id: null
+embedding_id: 2026-09-02-g20-technology-discussions-center-on-u-s-ai-adoption-and-dat
 event_name: ''
 ---
 

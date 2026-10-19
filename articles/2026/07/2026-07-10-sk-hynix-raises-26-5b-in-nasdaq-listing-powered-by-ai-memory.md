@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
 related_article_ids:
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
-embedding_id: null
+embedding_id: 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 event_name: ''
 ---
 

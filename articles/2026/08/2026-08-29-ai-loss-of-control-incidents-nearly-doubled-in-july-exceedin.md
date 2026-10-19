@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-29-reported-ai-loss-of-control-incidents-nearly-doubled-in-july
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
-- 2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c
-embedding_id: null
+embedding_id: 2026-08-29-ai-loss-of-control-incidents-nearly-doubled-in-july-exceedin
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ The Loss of Control Observatory (UK AI Security Institute) recorded 300+ real-wo
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-29-reported-ai-loss-of-control-incidents-nearly-doubled-in-july]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-09-07-openai-sends-eu-incident-report-on-hijacked-german-website-c]]
+**Related:** [[2026-08-29-reported-ai-loss-of-control-incidents-nearly-doubled-in-july]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]]
 <!-- graph:end -->

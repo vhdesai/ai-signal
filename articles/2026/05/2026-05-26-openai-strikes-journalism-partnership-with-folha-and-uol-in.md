@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: OpenAI / WinBuzzer
 url_original: https://openai.com/index/grupo-folha-grupo-uol-partnership/
 url_canonical: https://openai.com/index/grupo-folha-grupo-uol-partnership/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4d91aed7b9de339a033dbf703812d4f0202ea29f178484f8035d6e2cb47e0b88
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
 - 2026-08-24-openai-turns-on-chatgpt-ads-across-31-european-countries
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-embedding_id: null
+embedding_id: 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 event_name: ''
 ---
 

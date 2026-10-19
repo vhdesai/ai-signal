@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 - 2026-09-25-microsoft-packages-business-ai-into-a-single-copilot-app
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
-embedding_id: null
+embedding_id: 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
 event_name: ''
 ---
 

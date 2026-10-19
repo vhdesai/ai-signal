@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
-embedding_id: null
+embedding_id: 2026-09-03-sivers-commits-30m-to-expand-indium-phosphide-laser-producti
 event_name: ''
 ---
 

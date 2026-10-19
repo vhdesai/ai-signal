@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
-embedding_id: null
+embedding_id: 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 event_name: ''
 ---
 

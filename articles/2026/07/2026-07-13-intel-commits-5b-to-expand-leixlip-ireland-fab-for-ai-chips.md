@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips
 event_name: ''
 ---
 

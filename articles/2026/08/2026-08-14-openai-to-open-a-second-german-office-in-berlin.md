@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
 - 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-embedding_id: null
+embedding_id: 2026-08-14-openai-to-open-a-second-german-office-in-berlin
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-australia-opens-investigation-into-openai-hack-of-government
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-australia-says-an-openai-agent-hacked-a-government-health-we
 event_name: ''
 ---
 

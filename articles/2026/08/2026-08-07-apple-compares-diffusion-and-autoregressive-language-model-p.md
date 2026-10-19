@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
-embedding_id: null
+embedding_id: 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 event_name: ''
 ---
 

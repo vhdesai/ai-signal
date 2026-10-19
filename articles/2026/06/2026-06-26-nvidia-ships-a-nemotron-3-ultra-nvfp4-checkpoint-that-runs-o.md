@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 - 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
-embedding_id: null
+embedding_id: 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 event_name: ''
 ---
 

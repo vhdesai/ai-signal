@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry
-embedding_id: null
+embedding_id: 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
 event_name: ''
 ---
 

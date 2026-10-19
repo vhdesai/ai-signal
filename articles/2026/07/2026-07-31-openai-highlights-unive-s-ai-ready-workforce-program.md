@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters
 - 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
-embedding_id: null
+embedding_id: 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 event_name: ''
 ---
 

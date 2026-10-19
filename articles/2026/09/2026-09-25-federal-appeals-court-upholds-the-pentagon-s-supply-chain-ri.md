@@ -25,7 +25,7 @@ canonical_article_id: 2026-09-25-federal-appeals-court-upholds-pentagon-s-supply
 related_article_ids:
 - 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 - 2026-09-25-appeals-court-rules-the-pentagon-can-blacklist-anthropic-ove
-embedding_id: null
+embedding_id: 2026-09-25-federal-appeals-court-upholds-the-pentagon-s-supply-chain-ri
 event_name: ''
 ---
 

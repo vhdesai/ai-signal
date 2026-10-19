@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-embedding_id: null
+embedding_id: 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 event_name: ''
 ---
 

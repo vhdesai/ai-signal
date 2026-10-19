@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-fcc-s-finalized-transceiver-rule-lets-chinese-optical-vendor
 - 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 - 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
-embedding_id: null
+embedding_id: 2026-09-22-china-pushes-miniaturized-han-xin-barcode-into-iso-standardi
 event_name: ''
 ---
 

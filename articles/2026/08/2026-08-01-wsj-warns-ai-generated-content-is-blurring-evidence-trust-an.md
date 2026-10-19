@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-ai-and-the-blurring-of-reality
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-01-wsj-warns-ai-generated-content-is-blurring-evidence-trust-an
 event_name: ''
 ---
 

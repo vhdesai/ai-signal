@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-slips-more-than-a-year-t
 event_name: ''
 ---
 

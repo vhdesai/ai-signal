@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-05-preference-research-exposes-limits-of-automated-evaluation
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-embedding_id: null
+embedding_id: 2026-05-26-claw-anything-benchmark-for-always-on-personal-assistants
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
-embedding_id: null
+embedding_id: 2026-08-03-anthropic-s-move-to-enable-in-country-inference-in-india-add
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
 - 2026-07-13-200-researchers-and-15-nobel-laureates-warn-on-ai-s-economic
 - 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
-embedding_id: null
+embedding_id: 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
 event_name: ''
 ---
 

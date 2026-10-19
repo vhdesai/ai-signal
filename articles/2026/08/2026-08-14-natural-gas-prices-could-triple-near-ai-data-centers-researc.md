@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-natural-gas-prices-could-triple-near-ai-data-centers-researc
 event_name: ''
 ---
 

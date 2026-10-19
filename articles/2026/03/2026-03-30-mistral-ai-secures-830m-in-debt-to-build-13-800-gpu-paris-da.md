@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-09-06-mistral-reportedly-closes-3b-round-with-samsung-nvidia-and-s
 - 2026-09-10-mistral-partners-with-cloudera-on-sovereign-enterprise-ai-ne
-embedding_id: null
+embedding_id: 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 event_name: ''
 ---
 

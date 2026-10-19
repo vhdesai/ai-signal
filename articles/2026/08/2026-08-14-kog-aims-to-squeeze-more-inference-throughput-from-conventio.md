@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-french-startup-kog-bets-on-software-optimization-to-achieve
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-kog-aims-to-squeeze-more-inference-throughput-from-conventio
 event_name: ''
 ---
 

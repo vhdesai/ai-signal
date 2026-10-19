@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
-embedding_id: null
+embedding_id: 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 event_name: ''
 ---
 

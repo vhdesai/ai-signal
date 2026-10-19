@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 - 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
-embedding_id: null
+embedding_id: 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 event_name: ''
 ---
 

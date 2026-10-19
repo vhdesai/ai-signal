@@ -5,8 +5,8 @@ title: 'NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories 
 date: '2026-05-27'
 source: 'NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nvidia.com/en-tw/gtc/taipei/
+url_status: repaired
 digest_source: digests\raw\NVIDIA GTC Taipei 2026 - Blackwell Rubin and AI Factories.md
 content_hash: 8c07bb58fa5890fd1b065db1a4a05304de72c62bdd8abceb8e6f630decc4916b
 normalized_title_hash: 8105e61a27aa4be4
@@ -26,7 +26,7 @@ related_article_ids:
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
-embedding_id: null
+embedding_id: event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2
 event_name: 'NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories'
 ---
 

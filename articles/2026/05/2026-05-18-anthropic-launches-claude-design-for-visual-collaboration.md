@@ -4,8 +4,8 @@ title: Anthropic Launches Claude Design for Visual Collaboration
 date: '2026-05-18'
 source: Anthropic Labs
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/claude-design-anthropic-labs
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 26765a309202bd68c9b935fe9541b75646b0555c1b6bdb7201c84d8b22b74b27
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 event_name: ''
 ---
 

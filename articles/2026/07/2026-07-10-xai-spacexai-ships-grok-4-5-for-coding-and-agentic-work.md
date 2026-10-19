@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 - 2026-09-21-spacexai-releases-grok-4-7-larger-base-model-unchanged-2-6-p
 - 2026-08-12-spacexai-ships-grok-4-6-for-long-running-agents-and-coding
-embedding_id: null
+embedding_id: 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 event_name: ''
 ---
 

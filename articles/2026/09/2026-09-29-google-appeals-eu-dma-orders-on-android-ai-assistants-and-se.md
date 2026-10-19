@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-10-13-google-play-opens-a-private-route-for-ai-built-android-apps
-embedding_id: null
+embedding_id: 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 event_name: ''
 ---
 

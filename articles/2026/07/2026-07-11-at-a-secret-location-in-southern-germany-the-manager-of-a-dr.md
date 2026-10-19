@@ -5,8 +5,8 @@ title: At a secret location in southern Germany, the manager of a drone factory 
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://jumpseataerospacenews.com/2026/07/germany-hosts-secret-drone-factory-for-ukraine/
+url_status: repaired
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 1e056ef694e1c31cd21098832fe7f6473a74adceb8b8a4392d04fd1f9b31304f
 normalized_title_hash: 9e444b87905c49d6
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 - 2026-07-11-for-investors-helsing-s-key-advantage-comes-from-its-role-in
 - 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
-embedding_id: null
+embedding_id: 2026-07-11-at-a-secret-location-in-southern-germany-the-manager-of-a-dr
 event_name: ''
 ---
 

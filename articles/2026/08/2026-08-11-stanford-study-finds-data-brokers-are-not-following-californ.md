@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
 - 2026-08-25-analysis-u-s-and-eu-ai-regulation-continue-to-diverge-struct
 - 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
-embedding_id: null
+embedding_id: 2026-08-11-stanford-study-finds-data-brokers-are-not-following-californ
 event_name: ''
 ---
 

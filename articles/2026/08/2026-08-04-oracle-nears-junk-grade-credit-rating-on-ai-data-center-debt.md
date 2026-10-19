@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
-embedding_id: null
+embedding_id: 2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt
 event_name: ''
 ---
 

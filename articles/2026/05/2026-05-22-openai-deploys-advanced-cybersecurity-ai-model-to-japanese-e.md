@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-embedding_id: null
+embedding_id: 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 event_name: ''
 ---
 

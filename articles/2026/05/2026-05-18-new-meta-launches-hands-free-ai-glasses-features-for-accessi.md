@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
-embedding_id: null
+embedding_id: 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 event_name: ''
 ---
 

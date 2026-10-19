@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-08-ai-data-center-imports-are-largely-exempt-from-us-tariffs
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
-embedding_id: null
+embedding_id: 2026-10-11-infrastructure-supply-chain-the-ai-data-center-build-out-has
 event_name: ''
 ---
 

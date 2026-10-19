@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
 event_name: ''
 ---
 

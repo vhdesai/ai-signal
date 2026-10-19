@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-17-crusoe-raises-3-9b-series-f-at-30-9b-valuation
 event_name: ''
 ---
 

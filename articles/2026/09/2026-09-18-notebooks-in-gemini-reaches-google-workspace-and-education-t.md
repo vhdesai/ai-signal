@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-09-21-google-unveils-899-googlebook-an-ai-native-laptop-built-arou
-embedding_id: null
+embedding_id: 2026-09-18-notebooks-in-gemini-reaches-google-workspace-and-education-t
 event_name: ''
 ---
 

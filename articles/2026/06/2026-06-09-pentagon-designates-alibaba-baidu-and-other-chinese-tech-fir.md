@@ -5,8 +5,8 @@ title: Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aidin
 date: '2026-06-09'
 source: Arab News; Bloomberg; Stock Titan
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehill.com/policy/defense/5916407-alibaba-byd-baidu-pentagon-china-military-list/
+url_status: repaired
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: f72f5668711623f90a4169ffe394af2f9f0b023b0ad1af21ef3c98a7b5fd8d08
 normalized_title_hash: 32e7c56ce7a056dd
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-embedding_id: null
+embedding_id: 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
 event_name: ''
 ---
 

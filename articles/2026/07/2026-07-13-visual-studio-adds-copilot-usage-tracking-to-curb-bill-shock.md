@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
-embedding_id: null
+embedding_id: 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
 event_name: ''
 ---
 

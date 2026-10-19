@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-embedding_id: null
+embedding_id: 2026-09-26-dealbook-ai-efficiency-meets-the-billable-hour-law-firms-fac
 event_name: ''
 ---
 

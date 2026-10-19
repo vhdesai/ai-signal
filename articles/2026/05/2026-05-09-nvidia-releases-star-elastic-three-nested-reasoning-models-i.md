@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
-embedding_id: null
+embedding_id: 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 event_name: ''
 ---
 

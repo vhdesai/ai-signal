@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release
 - 2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-embedding_id: null
+embedding_id: 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 event_name: ''
 ---
 

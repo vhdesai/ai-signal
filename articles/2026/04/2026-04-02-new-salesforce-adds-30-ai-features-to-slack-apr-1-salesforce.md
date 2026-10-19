@@ -5,8 +5,8 @@ title: '[NEW] Salesforce Adds 30 AI Features to Slack (Apr 1) Salesforce announc
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.salesforce.com/news/stories/slack-ai-news-update/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 82f363ead222e5ba5112c5ad335d0a79b086f4266527ea6feb9550197d6812ac
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-09-15-salesforce-and-aws-expand-ai-integrations-across-slack-and-a
-embedding_id: null
+embedding_id: 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
 event_name: ''
 ---
 

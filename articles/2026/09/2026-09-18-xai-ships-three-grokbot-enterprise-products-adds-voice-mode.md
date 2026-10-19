@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-xai-ships-three-grokbot-enterprise-products-grok-bot-adds-vo
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-01-newxai-releases-grok-4-3
-embedding_id: null
+embedding_id: 2026-09-18-xai-ships-three-grokbot-enterprise-products-adds-voice-mode
 event_name: ''
 ---
 

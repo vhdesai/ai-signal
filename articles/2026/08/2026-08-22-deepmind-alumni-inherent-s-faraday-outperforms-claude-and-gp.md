@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-inherent-exits-stealth-with-50m-claims-agent-beats-frontier
 - 2026-08-22-inherent-says-its-faraday-agent-beat-claude-opus-4-8-and-gpt
 - 2026-08-22-inherent-says-its-ai-teammate-outperformed-openai-and-anthro
-embedding_id: null
+embedding_id: 2026-08-22-deepmind-alumni-inherent-s-faraday-outperforms-claude-and-gp
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
 - 2026-08-30-big-tech-profits-get-160b-boost-from-gains-on-stakes-in-othe
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
-embedding_id: null
+embedding_id: 2026-09-14-citigroup-warns-ai-slowdown-could-pressure-stock-market-gain
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-12-security-teardown-xai-s-grok-build-cli-uploads-entire-repos
 event_name: ''
 ---
 

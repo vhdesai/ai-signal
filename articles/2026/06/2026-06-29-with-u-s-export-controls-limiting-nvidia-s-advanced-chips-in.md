@@ -5,8 +5,8 @@ title: With U.S. export controls limiting Nvidia's advanced chips in China, dome
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://startupfortune.com/washingtons-chip-export-controls-handed-huawei-the-chinese-ai-market-nvidia-once-dominated/
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 0845e6e5ccbe9c7d438b4f28cf29dde239ca0688a481bf2a18c84c2e4aaec256
@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in
 event_name: ''
 ---
 

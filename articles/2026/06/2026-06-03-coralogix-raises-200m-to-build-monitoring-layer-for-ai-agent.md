@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-venturebeat-reports-that-observability-startup-groundcover-r
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
-embedding_id: null
+embedding_id: 2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent
 event_name: ''
 ---
 

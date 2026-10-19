@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-eight-states-sue-openai-over-chatgpt-safety
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
+- 2026-10-14-eight-states-challenge-openai-s-safety-representations
 - 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates
-- 2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans
-embedding_id: null
+embedding_id: 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ OpenAI is now defending an accelerating set of consumer-safety and product-liabi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates]] · [[2026-07-19-apple-s-lawsuit-could-complicate-openai-s-hardware-plans]]
+**Related:** [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety]] · [[2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg]] · [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
 <!-- graph:end -->

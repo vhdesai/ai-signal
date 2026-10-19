@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
 - 2026-08-15-anthropic-publishes-technical-details-on-claude-s-text-water
-embedding_id: null
+embedding_id: 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
 event_name: ''
 ---
 

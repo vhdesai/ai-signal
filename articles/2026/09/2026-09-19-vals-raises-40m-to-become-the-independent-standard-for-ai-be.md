@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
-embedding_id: null
+embedding_id: 2026-09-19-vals-raises-40m-to-become-the-independent-standard-for-ai-be
 event_name: ''
 ---
 

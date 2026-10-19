@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
-embedding_id: null
+embedding_id: 2026-07-31-openai-says-two-settings-tripled-its-arc-agi-3-scores
 event_name: ''
 ---
 

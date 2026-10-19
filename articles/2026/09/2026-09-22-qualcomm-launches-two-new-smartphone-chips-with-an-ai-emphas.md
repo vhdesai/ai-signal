@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 - 2026-10-05-huawei-and-qualcomm-expand-cross-licensing-into-ai-and-compu
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-embedding_id: null
+embedding_id: 2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas
 event_name: ''
 ---
 

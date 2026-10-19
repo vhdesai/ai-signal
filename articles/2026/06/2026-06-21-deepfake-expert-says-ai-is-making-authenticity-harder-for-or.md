@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-02-pangram-s-max-spero-on-why-ai-detection-is-harder-than-real
 - 2026-08-03-deel-s-acquisition-of-clarity-shows-deepfake-defense-moving
 - 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
-embedding_id: null
+embedding_id: 2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or
 event_name: ''
 ---
 

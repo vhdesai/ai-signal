@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
-embedding_id: null
+embedding_id: 2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu
 event_name: ''
 ---
 

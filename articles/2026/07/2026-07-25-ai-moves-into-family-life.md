@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: Axios
 url_original: https://www.axios.com/top/2026/07/25
 url_canonical: https://www.axios.com/top/2026/07/25
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 8a9e295256cf28407346f1b7f8a9bccc49495a75a6a045b03ecf824061c9d90f
@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-07-26-ai-becomes-part-of-the-american-family
 - 2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
+- 2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
-- 2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo
-embedding_id: null
+embedding_id: 2026-07-25-ai-moves-into-family-life
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Axios examined how AI is embedding itself into everyday household routines — f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]] · [[2026-07-17-ai-policy-groups-and-researchers-converge-on-regulation-effo]]
+**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r]] · [[2026-07-18-retailers-prepare-for-bots-as-buyers]] · [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering]] · [[2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s]]
 <!-- graph:end -->

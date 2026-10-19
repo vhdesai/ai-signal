@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 related_article_ids:
 - 2026-08-11-nvidia-signs-financing-mous-with-six-major-asset-managers-to
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 event_name: ''
 ---
 

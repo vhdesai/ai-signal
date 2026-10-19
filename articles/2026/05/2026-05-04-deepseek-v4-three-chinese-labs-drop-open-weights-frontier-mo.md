@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-microsoft-announces-project-zenith-a-ready-to-code-on-device
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-microsoft-s-project-zenith-turns-high-memory-windows-pcs-int
 event_name: ''
 ---
 

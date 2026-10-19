@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 - 2026-07-14-deepmind-ceo-proposes-independent-standards-body-for-frontie
-embedding_id: null
+embedding_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: 'Oracle Reports Record Q4: OCI Revenue Surges 93% YoY, AI Backlog Convert
 date: '2026-06-10'
 source: PR Newswire; Barron's; Investing.com
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx
+url_status: repaired
 digest_source: digests\raw\2026-06-11_070054_Final-Daily-AI-News-Digest.md
 content_hash: 877fb976624b74df9bfd879b3f807e2b0f6db05172c465ca8f7e2c24da67d41d
 normalized_title_hash: 9767d230507fdb20
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 - 2026-09-11-oracle-books-664b-ai-cloud-backlog-then-gives-back-most-of-a
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
-embedding_id: null
+embedding_id: 2026-06-10-oracle-reports-record-q4-oci-revenue-surges-93-yoy-ai-backlo
 event_name: ''
 ---
 

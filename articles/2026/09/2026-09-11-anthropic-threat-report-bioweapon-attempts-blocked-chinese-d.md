@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-12-anthropic-threat-report-names-five-distinct-misuse-patterns
 - 2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta
-embedding_id: null
+embedding_id: 2026-09-11-anthropic-threat-report-bioweapon-attempts-blocked-chinese-d
 event_name: ''
 ---
 

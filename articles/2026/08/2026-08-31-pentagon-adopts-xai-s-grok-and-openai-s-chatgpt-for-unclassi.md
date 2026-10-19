@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-01-pentagon-deploys-chatgpt-mil-and-grok-for-government-to-gena
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-embedding_id: null
+embedding_id: 2026-08-31-pentagon-adopts-xai-s-grok-and-openai-s-chatgpt-for-unclassi
 event_name: ''
 ---
 

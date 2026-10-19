@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains
 event_name: ''
 ---
 

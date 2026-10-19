@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
-embedding_id: null
+embedding_id: 2026-07-07-microsoft-mai-model-deployment
 event_name: ''
 ---
 

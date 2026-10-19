@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-tencent-posts-ai-capex-surge-65-while-defending-returns
 - 2026-08-12-tencent-posts-ai-capex-surge-while-defending-returns
 - 2026-08-12-tencent-posts-rmb-204-8b-quarter-with-ai-boosted-marketing-a
-embedding_id: null
+embedding_id: 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
 event_name: ''
 ---
 

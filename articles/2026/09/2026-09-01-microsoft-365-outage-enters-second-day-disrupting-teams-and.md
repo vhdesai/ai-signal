@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 - 2026-08-17-github-goes-down-worldwide-degrading-actions-copilot-issues
 - 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
-embedding_id: null
+embedding_id: 2026-09-01-microsoft-365-outage-enters-second-day-disrupting-teams-and
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-10-12-meta-releases-muse-wonder-its-first-frontier-model
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
-embedding_id: null
+embedding_id: 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 event_name: ''
 ---
 

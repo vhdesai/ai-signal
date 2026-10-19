@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-16-stripe-finalizes-7b-acquisition-of-ai-gateway-openrouter
 - 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
-embedding_id: null
+embedding_id: 2026-08-20-stripe-closes-its-openrouter-deal-at-a-reported-7-5b
 event_name: ''
 ---
 

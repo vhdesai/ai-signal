@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-wall-street-develops-new-financing-structures-for-the-ai-bui
 event_name: ''
 ---
 

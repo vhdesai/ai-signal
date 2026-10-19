@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 - 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
-embedding_id: null
+embedding_id: 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
 event_name: ''
 ---
 

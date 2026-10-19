@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20
 event_name: ''
 ---
 

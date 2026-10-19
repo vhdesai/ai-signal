@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
-embedding_id: null
+embedding_id: 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
 event_name: ''
 ---
 

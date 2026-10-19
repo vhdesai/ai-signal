@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-cursor-enters-musk-era-after-60b-spacex-acquisition
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-24-cursor-officially-enters-its-musk-era-after-60b-spacex-acqui
 event_name: ''
 ---
 

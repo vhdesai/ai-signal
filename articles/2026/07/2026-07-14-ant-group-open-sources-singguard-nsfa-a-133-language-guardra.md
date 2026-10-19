@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter
 - 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 - 2026-09-06-stripping-safety-guardrails-from-open-weight-models-is-now-a
-embedding_id: null
+embedding_id: 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 event_name: ''
 ---
 

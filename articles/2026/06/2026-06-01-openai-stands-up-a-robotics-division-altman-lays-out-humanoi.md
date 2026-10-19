@@ -4,8 +4,8 @@ title: OpenAI stands up a robotics division, Altman lays out humanoid vision
 date: '2026-06-01'
 source: Firstpost**
 url_original: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
-url_canonical: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
-url_status: broken
+url_canonical: https://robotd.net/article/openai-robotics-2026/
+url_status: repaired
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 76fd39535a36b8aadbdd4a2e6f2611857e638f8f7c13a61b3f15fcdab8e9eced
 normalized_title_hash: f386c32afe8a1fe7
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-08-01-how-openai-lost-its-ai-crown-and-the-fight-to-win-it-back
-embedding_id: null
+embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
 

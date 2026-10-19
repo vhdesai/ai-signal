@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-top-ai-companies-are-probing-tens-of-thousands-of-model-secu
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-09-27-openai-and-anthropic-probing-tens-of-thousands-of-agent-secu
-embedding_id: null
+embedding_id: 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
 event_name: ''
 ---
 

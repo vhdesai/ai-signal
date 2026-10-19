@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
-embedding_id: null
+embedding_id: 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
 event_name: ''
 ---
 

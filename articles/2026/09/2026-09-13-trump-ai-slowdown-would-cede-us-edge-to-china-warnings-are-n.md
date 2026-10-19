@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 - 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 - 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
-embedding_id: null
+embedding_id: 2026-09-13-trump-ai-slowdown-would-cede-us-edge-to-china-warnings-are-n
 event_name: ''
 ---
 

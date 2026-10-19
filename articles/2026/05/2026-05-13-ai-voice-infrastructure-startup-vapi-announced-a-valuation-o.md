@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-embedding_id: null
+embedding_id: 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
 event_name: ''
 ---
 

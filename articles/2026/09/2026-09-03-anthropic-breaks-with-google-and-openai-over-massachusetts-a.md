@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-09-15-openai-confirms-multi-week-safety-coordination-with-anthropi
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-embedding_id: null
+embedding_id: 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 event_name: ''
 ---
 

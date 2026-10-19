@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-embedding_id: null
+embedding_id: 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
 event_name: ''
 ---
 

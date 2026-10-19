@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
 event_name: ''
 ---
 

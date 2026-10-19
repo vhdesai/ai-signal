@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
-embedding_id: null
+embedding_id: 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
 event_name: ''
 ---
 

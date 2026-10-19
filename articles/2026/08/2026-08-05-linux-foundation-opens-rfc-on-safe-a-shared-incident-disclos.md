@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 - 2026-08-11-120-organizations-back-safe-a-reporting-framework-for-rogue
-embedding_id: null
+embedding_id: 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 event_name: ''
 ---
 

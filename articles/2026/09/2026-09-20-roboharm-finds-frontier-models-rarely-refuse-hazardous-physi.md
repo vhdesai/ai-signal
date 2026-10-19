@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-new-robotics-safety-benchmark-gpt-6-astra-and-claude-fable-b
 - 2026-10-09-mit-technology-review-we-put-too-much-faith-in-ai-s-ability
 - 2026-09-12-stationerybench-gpt-6-astra-clears-7-of-100-dual-arm-manipul
-embedding_id: null
+embedding_id: 2026-09-20-roboharm-finds-frontier-models-rarely-refuse-hazardous-physi
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: 'Cerebras IPO: Seeking $3.5B at $26.6B Valuation'
 date: '2026-05-10'
 source: SiliconANGLE
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/cerebras-ipo-buy-stay-away-202613287.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: c12523a7d18f612d9f9dbe00774f4b2286d86db5077bac4b7d21e53b249066a8
@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 event_name: ''
 ---
 

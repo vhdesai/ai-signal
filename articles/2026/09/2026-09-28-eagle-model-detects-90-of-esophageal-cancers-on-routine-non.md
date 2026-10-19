@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-09-24-md-anderson-model-flags-immunotherapy-pneumonitis-risk-from
-embedding_id: null
+embedding_id: 2026-09-28-eagle-model-detects-90-of-esophageal-cancers-on-routine-non
 event_name: ''
 ---
 

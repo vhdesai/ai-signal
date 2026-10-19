@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev
 - 2026-09-19-more-than-100-researchers-including-hinton-demand-independen
-embedding_id: null
+embedding_id: 2026-09-18-anthropic-names-accenture-as-its-first-embedded-evaluator-ou
 event_name: ''
 ---
 

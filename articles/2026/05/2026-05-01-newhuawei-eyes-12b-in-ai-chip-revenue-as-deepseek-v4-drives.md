@@ -5,8 +5,8 @@ title: NewHuawei Eyes $12B in AI Chip Revenue as DeepSeek V4 Drives Domestic Chi
 date: '2026-05-01'
 source: The Deep Dive / Financial Times
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thedeepdive.ca/huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-drives-orders-away-from-nvidia/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 40d8a1bfdf468f23db164c3715d83520c9777c03cda738bda4e15e30726959ce
@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: null
+embedding_id: 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
 event_name: ''
 ---
 

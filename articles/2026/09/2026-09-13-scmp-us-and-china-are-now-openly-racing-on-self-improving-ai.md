@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
 - 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-embedding_id: null
+embedding_id: 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 event_name: ''
 ---
 

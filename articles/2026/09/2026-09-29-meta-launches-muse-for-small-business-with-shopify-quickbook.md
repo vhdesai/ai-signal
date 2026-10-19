@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook
 event_name: ''
 ---
 

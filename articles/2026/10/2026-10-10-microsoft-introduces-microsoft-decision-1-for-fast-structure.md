@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
-embedding_id: null
+embedding_id: 2026-10-10-microsoft-introduces-microsoft-decision-1-for-fast-structure
 event_name: ''
 ---
 

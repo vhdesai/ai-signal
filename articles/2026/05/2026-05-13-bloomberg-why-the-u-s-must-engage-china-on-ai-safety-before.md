@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
 - 2026-09-14-trump-downplays-need-to-check-ai-development-citing-competit
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
-embedding_id: null
+embedding_id: 2026-05-13-bloomberg-why-the-u-s-must-engage-china-on-ai-safety-before
 event_name: ''
 ---
 

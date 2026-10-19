@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-10-01-oregon-capital-chronicle-reports-nvidia-s-partnership-with-o
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 - 2026-09-25-saturday-september-26-2026
-embedding_id: null
+embedding_id: 2026-10-02-the-university-of-washington-opened-a-new-global-innovation
 event_name: ''
 ---
 

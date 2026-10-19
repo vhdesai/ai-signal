@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 - 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
-embedding_id: null
+embedding_id: 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 event_name: ''
 ---
 

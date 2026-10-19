@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
 - 2026-07-20-openai-s-concern-over-open-weight-models-highlights-the-busi
 - 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-embedding_id: null
+embedding_id: 2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei
 event_name: ''
 ---
 

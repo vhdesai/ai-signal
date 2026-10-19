@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
-embedding_id: null
+embedding_id: 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 event_name: ''
 ---
 

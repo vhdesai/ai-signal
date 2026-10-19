@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 - 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
-embedding_id: null
+embedding_id: 2026-09-01-apple-s-trade-secrets-suit-against-openai-escalates-openai-d
 event_name: ''
 ---
 

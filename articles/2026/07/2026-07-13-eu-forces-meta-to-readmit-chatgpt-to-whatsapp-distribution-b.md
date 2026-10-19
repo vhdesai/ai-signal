@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b
 event_name: ''
 ---
 

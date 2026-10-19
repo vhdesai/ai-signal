@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-independent-evaluator-finds-openai-s-astra-agi-benchmark-was
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 event_name: ''
 ---
 

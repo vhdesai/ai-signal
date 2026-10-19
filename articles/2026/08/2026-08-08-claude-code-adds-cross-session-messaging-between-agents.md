@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
-embedding_id: null
+embedding_id: 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 event_name: ''
 ---
 

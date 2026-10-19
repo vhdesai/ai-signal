@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-techcrunch-ai-safety-conversations-are-becoming-hard-to-sepa
 - 2026-08-27-100-companies-call-for-coordinated-defense-against-rogue-ai
 - 2026-09-19-the-ai-safety-debate-is-outrunning-its-own-evidence
-embedding_id: null
+embedding_id: 2026-08-27-running-tally-of-ai-systems-that-have-attacked-real-companie
 event_name: ''
 ---
 

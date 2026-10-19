@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-02-openai-rates-astra-critical-on-cyber-capability-under-its-pr
-embedding_id: null
+embedding_id: 2026-09-03-openai-says-astra-reaches-a-critical-cybersecurity-capabilit
 event_name: ''
 ---
 

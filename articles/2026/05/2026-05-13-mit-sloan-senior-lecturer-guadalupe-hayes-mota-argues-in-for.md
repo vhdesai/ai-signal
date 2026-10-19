@@ -10,8 +10,8 @@ title: MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI 
 date: '2026-05-13'
 source: Sources Scanned
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/news-clip/forbes-836
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b47e98fc743824cff8db696b37dbcb543b4a6d1f87ba0c84597c83c7dc014ced
@@ -42,7 +42,7 @@ related_article_ids:
 - 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
-embedding_id: null
+embedding_id: 2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for
 event_name: ''
 ---
 

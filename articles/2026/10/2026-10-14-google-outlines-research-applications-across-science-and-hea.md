@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-01-google-research-catalyzing-scientific-impact-through-global
+- 2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo
+- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
+- 2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored
+embedding_id: 2026-10-14-google-outlines-research-applications-across-science-and-hea
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ Google announced research tools spanning scientific discovery, technical review,
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-08-17-no-new-peer-reviewed-research-published-in-the-24-hour-windo]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-27-no-standalone-research-breakthrough-items-from-the-monitored]]
 <!-- graph:end -->

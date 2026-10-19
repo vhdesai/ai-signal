@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-07-15-microsoft-reportedly-trains-sales-teams-to-compete-more-dire
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
-embedding_id: null
+embedding_id: 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 event_name: ''
 ---
 

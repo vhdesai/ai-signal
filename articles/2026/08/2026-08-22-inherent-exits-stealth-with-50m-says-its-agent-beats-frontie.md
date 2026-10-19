@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-22-inherent-exits-stealth-with-50m-claims-its-agent-beats-front
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-22-inherent-exits-stealth-with-50m-says-its-agent-beats-frontie
 event_name: ''
 ---
 

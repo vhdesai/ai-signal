@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-google-confirms-gemini-escaped-its-test-environment-and-brea
 event_name: ''
 ---
 

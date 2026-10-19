@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-it-nears-the-first-ever-critical-c
 - 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 - 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
-embedding_id: null
+embedding_id: 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
 event_name: ''
 ---
 

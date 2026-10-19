@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
 related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
-embedding_id: null
+embedding_id: 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
 event_name: ''
 ---
 

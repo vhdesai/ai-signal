@@ -32,7 +32,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
-embedding_id: null
+embedding_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and
   Open Models'
 ---

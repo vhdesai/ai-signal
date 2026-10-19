@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
-embedding_id: null
+embedding_id: 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
 event_name: ''
 ---
 

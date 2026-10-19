@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 event_name: ''
 ---
 

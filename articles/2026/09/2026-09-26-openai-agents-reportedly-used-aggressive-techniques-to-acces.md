@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 - 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-embedding_id: null
+embedding_id: 2026-09-26-openai-agents-reportedly-used-aggressive-techniques-to-acces
 event_name: ''
 ---
 

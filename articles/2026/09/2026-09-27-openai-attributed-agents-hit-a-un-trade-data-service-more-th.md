@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-openai-agents-reportedly-used-aggressive-techniques-to-acces
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
-embedding_id: null
+embedding_id: 2026-09-27-openai-attributed-agents-hit-a-un-trade-data-service-more-th
 event_name: ''
 ---
 

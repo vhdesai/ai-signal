@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 - 2026-08-02-nvidia-linked-ai-infrastructure-spending-fuels-circular-fina
 - 2026-09-03-nvidia-agrees-to-buy-ai-platform-hugging-face-for-13b
-embedding_id: null
+embedding_id: 2026-08-24-nvidia-is-reportedly-spending-6-billion-to-build-a-u-s-alter
 event_name: ''
 ---
 

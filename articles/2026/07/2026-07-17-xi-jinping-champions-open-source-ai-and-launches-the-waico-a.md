@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
-embedding_id: null
+embedding_id: 2026-07-17-xi-jinping-champions-open-source-ai-and-launches-the-waico-a
 event_name: ''
 ---
 

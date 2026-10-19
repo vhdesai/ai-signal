@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-z-ai-glm-5-3-all-gains-from-post-training-no-new-base
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-z-ai-ships-glm-5-3-all-gains-from-post-training-no-new-base
 event_name: ''
 ---
 

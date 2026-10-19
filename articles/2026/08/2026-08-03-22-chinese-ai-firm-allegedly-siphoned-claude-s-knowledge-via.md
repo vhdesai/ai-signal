@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-09-14-beijing-formally-rebukes-amodei-s-call-to-curb-china-s-ai-de
 - 2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta
-embedding_id: null
+embedding_id: 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 event_name: ''
 ---
 

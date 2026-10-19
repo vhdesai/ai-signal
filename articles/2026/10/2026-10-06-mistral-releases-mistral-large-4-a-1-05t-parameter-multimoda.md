@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-07-mistral-large-4-coverage-expands-europe-s-strongest-open-wei
 - 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-embedding_id: null
+embedding_id: 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 event_name: ''
 ---
 

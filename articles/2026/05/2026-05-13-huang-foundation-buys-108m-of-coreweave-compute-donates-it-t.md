@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
-embedding_id: null
+embedding_id: 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
 event_name: ''
 ---
 

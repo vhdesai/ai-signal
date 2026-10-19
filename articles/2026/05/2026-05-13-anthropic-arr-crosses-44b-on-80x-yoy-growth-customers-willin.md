@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 - 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
 event_name: ''
 ---
 

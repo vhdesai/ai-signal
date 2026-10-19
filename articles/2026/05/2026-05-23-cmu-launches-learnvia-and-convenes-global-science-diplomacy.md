@@ -4,8 +4,8 @@ title: CMU launches Learnvia and convenes Global Science Diplomacy program
 date: '2026-05-23'
 source: 'Source: AI at CMU'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cmu.edu/leadership/president/campus-comms/01-29-26
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: a30601094494adc02c91ff446a77b5571017ea6da8504a559a00a25679a87329
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-embedding_id: null
+embedding_id: 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
 event_name: ''
 ---
 

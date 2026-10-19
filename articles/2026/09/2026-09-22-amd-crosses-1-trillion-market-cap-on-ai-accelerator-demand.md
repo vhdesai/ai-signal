@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
-embedding_id: null
+embedding_id: 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 event_name: ''
 ---
 

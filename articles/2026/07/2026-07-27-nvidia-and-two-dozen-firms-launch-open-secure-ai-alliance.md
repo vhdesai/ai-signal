@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-09-07-nvidia-transfers-open-secure-ai-alliance-to-the-linux-founda
 - 2026-09-07-sdxcentral-reports-nvidia-has-handed-off-governance-of-the-o
-embedding_id: null
+embedding_id: 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
 event_name: ''
 ---
 

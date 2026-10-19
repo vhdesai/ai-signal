@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-nvidia-agrees-to-buy-hugging-face-taking-control-of-a-key-op
 - 2026-09-03-nvidia-agrees-to-acquire-hugging-face-for-nearly-13-billion
 - 2026-08-26-nvidia-reportedly-agrees-to-acquire-hugging-face-for-12-9-bi
-embedding_id: null
+embedding_id: 2026-08-27-nvidia-confirms-hugging-face-acquisition-for-12-9-billion
 event_name: ''
 ---
 

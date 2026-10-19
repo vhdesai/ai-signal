@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-the-case-that-a-cheap-flash-model-should-absorb-45-of-enterp
 - 2026-09-04-github-s-hydrafusion-router-cuts-ai-coding-costs-in-every-be
-embedding_id: null
+embedding_id: 2026-08-18-snowflake-s-cortex-ai-gateway-auto-routes-queries-cutting-in
 event_name: ''
 ---
 

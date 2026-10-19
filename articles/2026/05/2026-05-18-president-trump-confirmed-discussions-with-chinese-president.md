@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-president-trump-confirmed-he-discussed-possible-ai-safety-gu
 - 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
-embedding_id: null
+embedding_id: 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 event_name: ''
 ---
 

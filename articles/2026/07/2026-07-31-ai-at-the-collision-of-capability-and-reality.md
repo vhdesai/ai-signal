@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-cost-compute-and-consolidation-set-the-tone
 - 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
-embedding_id: null
+embedding_id: 2026-07-31-ai-at-the-collision-of-capability-and-reality
 event_name: ''
 ---
 

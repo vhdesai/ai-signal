@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 - 2026-09-02-cerebras-and-compute-nordic-finland-announce-new-165mw-ai-da
 - 2026-09-02-cerebras-breaks-ground-on-a-165mw-data-center-in-mikkeli-fin
-embedding_id: null
+embedding_id: 2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol
 event_name: ''
 ---
 

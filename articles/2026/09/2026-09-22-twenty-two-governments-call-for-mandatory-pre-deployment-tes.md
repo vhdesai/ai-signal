@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 - 2026-09-23-sam-altman-addresses-the-un-security-council-on-ai-safety-an
 - 2026-05-18-bannon-60-trump-allies-sign-letter-demanding-mandatory-feder
-embedding_id: null
+embedding_id: 2026-09-22-twenty-two-governments-call-for-mandatory-pre-deployment-tes
 event_name: ''
 ---
 

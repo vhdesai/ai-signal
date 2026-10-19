@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 event_name: ''
 ---
 

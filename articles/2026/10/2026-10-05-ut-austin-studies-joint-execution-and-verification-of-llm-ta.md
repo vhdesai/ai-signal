@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 - 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
-embedding_id: null
+embedding_id: 2026-10-05-ut-austin-studies-joint-execution-and-verification-of-llm-ta
 event_name: ''
 ---
 

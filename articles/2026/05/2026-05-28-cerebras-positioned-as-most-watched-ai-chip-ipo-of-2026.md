@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
-embedding_id: null
+embedding_id: 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 - 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
-embedding_id: null
+embedding_id: 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 event_name: ''
 ---
 

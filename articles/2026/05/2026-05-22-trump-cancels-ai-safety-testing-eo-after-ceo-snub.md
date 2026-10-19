@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub
 event_name: ''
 ---
 

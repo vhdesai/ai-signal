@@ -4,8 +4,8 @@ title: 'SpaceX S-1 Deep Dive: Six Charts on the Largest IPO in History'
 date: '2026-05-20'
 source: PitchBook News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.morningstar.com/stocks/6-charts-spacexs-s-1-financials
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: eb78e1a537e69864e27168d9db2887531e26844ddbfc2df7b3897dec67e7d2f5
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-12-spacex-ipo-75b-raise-at-1-75t-musk-becomes-world-s-first-tri
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 - 2026-06-11-spacex-officially-prices-75b-ipo-at-135-share-market-debut-t
-embedding_id: null
+embedding_id: 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
 event_name: ''
 ---
 

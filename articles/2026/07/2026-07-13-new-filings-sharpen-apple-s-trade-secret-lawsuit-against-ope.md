@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope
 event_name: ''
 ---
 

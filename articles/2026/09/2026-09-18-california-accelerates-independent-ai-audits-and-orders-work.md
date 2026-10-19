@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
-embedding_id: null
+embedding_id: 2026-09-18-california-accelerates-independent-ai-audits-and-orders-work
 event_name: ''
 ---
 

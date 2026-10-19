@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
 - 2026-08-26-openai-publishes-first-jalape-o-inference-benchmarks-claimin
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-embedding_id: null
+embedding_id: 2026-06-16-nvidia-blackwell-sweeps-mlperf-training-v6-0-benchmark
 event_name: ''
 ---
 

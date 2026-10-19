@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too
 - 2026-08-03-china-s-progress-on-domestic-immersion-duv-tooling-is-strate
 - 2026-09-20-china-s-cxmt-unveils-g5-memory-platform-claiming-quantum-lea
-embedding_id: null
+embedding_id: 2026-09-19-chinese-researchers-report-progress-on-sub-3nm-chips-using-n
 event_name: ''
 ---
 

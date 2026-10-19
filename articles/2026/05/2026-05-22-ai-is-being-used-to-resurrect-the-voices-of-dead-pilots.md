@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-embedding_id: null
+embedding_id: 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 event_name: ''
 ---
 

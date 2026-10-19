@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-14-z-ai-releases-glm-5-3-with-near-frontier-cybersecurity-perfo
 - 2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should
 - 2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo
-embedding_id: null
+embedding_id: 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 event_name: ''
 ---
 

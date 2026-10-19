@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-09-12-context-engineering-inside-the-agent-harness-four-mechanisms
 - 2026-08-20-liquid-ai-releases-lfm2-5-dspark-draft-models-delivering-up
-embedding_id: null
+embedding_id: 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-22-frontier-pricing-resets-claude-opus-5-5-and-gpt-6-sol-luna-4
 - 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 - 2026-09-18-anthropic-weighs-a-new-frontier-model-before-its-ipo-as-gpt
-embedding_id: null
+embedding_id: 2026-09-22-same-day-releases-mark-the-first-frontier-price-war-since-th
 event_name: ''
 ---
 

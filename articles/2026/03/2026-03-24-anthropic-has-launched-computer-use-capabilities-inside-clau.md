@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-03-24-anthropic-has-launched-computer-use-capabilities-inside-clau
 event_name: ''
 ---
 

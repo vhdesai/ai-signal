@@ -5,8 +5,8 @@ title: 'Thinking Machines Releases Inkling-Small: 276B Open-Weights Model Rivali
 date: '2026-07-30'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thinkingmachines.ai/news/inkling-small/
+url_status: repaired
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 8dfde34a42cb72d7308b35d2738992e868119c76bc1e95d1f0390988f50d21c1
 normalized_title_hash: 31d2e0cbbe1df129
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope
 - 2026-07-15-thinking-machines-releases-inkling-its-first-open-weight-mod
 - 2026-07-16-thinking-machines-lab-releases-inkling-a-975b-parameter-open
-embedding_id: null
+embedding_id: 2026-07-30-thinking-machines-releases-inkling-small-276b-open-weights-m
 event_name: ''
 ---
 

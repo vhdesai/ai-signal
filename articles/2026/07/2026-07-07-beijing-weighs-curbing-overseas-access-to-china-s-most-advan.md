@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: OpenAI brings Codex "computer use" to Windows
 date: '2026-05-29'
 source: OpenAI*
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/codex-for-almost-everything/
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
 content_hash: 5dd5d4608fca29eab4c802c35793b8d41694ffa3bc0769a9af1d162d24a0a0a9
 normalized_title_hash: 8bcb8143e402e33a
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-06-02-openai-codex-expands-beyond-coding-to-knowledge-workers
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-embedding_id: null
+embedding_id: 2026-05-29-openai-brings-codex-computer-use-to-windows
 event_name: ''
 ---
 

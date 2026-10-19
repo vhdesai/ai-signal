@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-08-fired-openai-safety-researchers-dispute-misconduct-claims-an
 - 2026-10-09-openai-safety-crisis-deepens-after-fired-researchers-warn-of
 - 2026-10-01-openai-parts-ways-with-three-safety-researchers
-embedding_id: null
+embedding_id: 2026-10-02-openai-cuts-ties-with-three-safety-researchers-a-fourth-also
 event_name: ''
 ---
 

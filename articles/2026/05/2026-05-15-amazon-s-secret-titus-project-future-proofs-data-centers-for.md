@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
 - 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding-2-million-ch
 - 2026-08-26-amazon-triples-nvidia-gpu-commitment-2-million-chips-through
-embedding_id: null
+embedding_id: 2026-05-15-amazon-s-secret-titus-project-future-proofs-data-centers-for
 event_name: ''
 ---
 

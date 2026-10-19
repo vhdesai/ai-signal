@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 - 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
-embedding_id: null
+embedding_id: 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
 event_name: ''
 ---
 

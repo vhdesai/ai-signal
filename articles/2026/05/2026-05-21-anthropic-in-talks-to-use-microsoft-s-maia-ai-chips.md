@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
 - 2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon
 - 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 event_name: ''
 ---
 

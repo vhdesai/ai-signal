@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
-embedding_id: null
+embedding_id: 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
 event_name: ''
 ---
 

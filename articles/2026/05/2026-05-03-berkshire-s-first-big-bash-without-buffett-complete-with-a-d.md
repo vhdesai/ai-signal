@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d
 event_name: ''
 ---
 

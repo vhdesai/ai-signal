@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/
 url_canonical: https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-21_060000_Daily-AI-News-Digest.md
 content_hash: 612fbfb77a6f3f26e6f5d7444e95aa2221edcd9ce99cf3b3f1e4dcc5b7a91550
 normalized_title_hash: b4ecfbf1999e464f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
-embedding_id: null
+embedding_id: 2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode
 event_name: ''
 ---
 

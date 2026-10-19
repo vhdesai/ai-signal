@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
 - 2026-09-12-altman-confirms-openai-ipo-pushed-to-2027-nvidia-in-talks-to
-embedding_id: null
+embedding_id: 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
-embedding_id: null
+embedding_id: 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
 event_name: ''
 ---
 

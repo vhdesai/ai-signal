@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-wall-street-counts-on-nvidia-to-keep-the-ai-party-going-mark
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going
 event_name: ''
 ---
 

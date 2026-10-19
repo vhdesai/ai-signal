@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
-embedding_id: null
+embedding_id: 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
 event_name: ''
 ---
 

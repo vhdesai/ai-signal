@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
 - event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
-embedding_id: null
+embedding_id: 2026-08-25-google-launches-gemini-enterprise-for-financial-services-wit
 event_name: ''
 ---
 

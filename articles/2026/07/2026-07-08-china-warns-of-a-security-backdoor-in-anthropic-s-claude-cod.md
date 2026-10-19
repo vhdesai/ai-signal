@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod
 event_name: ''
 ---
 

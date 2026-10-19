@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
 - 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
-embedding_id: null
+embedding_id: 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 event_name: ''
 ---
 

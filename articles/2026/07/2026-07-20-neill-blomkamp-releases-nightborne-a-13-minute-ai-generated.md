@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
 - 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
-embedding_id: null
+embedding_id: 2026-07-20-neill-blomkamp-releases-nightborne-a-13-minute-ai-generated
 event_name: ''
 ---
 

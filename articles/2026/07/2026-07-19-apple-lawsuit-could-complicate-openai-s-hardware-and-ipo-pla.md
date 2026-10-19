@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-19-could-apple-s-lawsuit-derail-openai-s-hardware-plans
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-embedding_id: null
+embedding_id: 2026-07-19-apple-lawsuit-could-complicate-openai-s-hardware-and-ipo-pla
 event_name: ''
 ---
 

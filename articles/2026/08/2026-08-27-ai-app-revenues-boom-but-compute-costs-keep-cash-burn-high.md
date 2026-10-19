@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-cognition-and-other-ai-app-revenues-boom-but-compute-costs-k
 - 2026-08-27-cognition-and-ai-app-revenues-boom-but-compute-costs-keep-ca
 - 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
-embedding_id: null
+embedding_id: 2026-08-27-ai-app-revenues-boom-but-compute-costs-keep-cash-burn-high
 event_name: ''
 ---
 

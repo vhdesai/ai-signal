@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-china-s-robotics-industry-has-become-a-major-buyer-of-nvidia
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
 event_name: ''
 ---
 

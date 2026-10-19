@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-07-15-anthropic-moves-closer-to-a-mega-ipo-as-banks-line-up-invest
-embedding_id: null
+embedding_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 event_name: ''
 ---
 

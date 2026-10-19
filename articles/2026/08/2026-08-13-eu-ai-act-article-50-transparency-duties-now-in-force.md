@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-eu-ai-act-article-50-transparency-duties-are-now-in-force
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-eu-ai-act-article-50-transparency-duties-now-in-force
 event_name: ''
 ---
 

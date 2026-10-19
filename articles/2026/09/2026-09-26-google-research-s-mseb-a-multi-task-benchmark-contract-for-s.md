@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-10-06-embeddinggemma-2-brings-multimodal-retrieval-to-devices
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
-embedding_id: null
+embedding_id: 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
 event_name: ''
 ---
 

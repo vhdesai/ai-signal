@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 - 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
-embedding_id: null
+embedding_id: 2026-09-20-washington-post-postmortem-the-researchers-who-hacked-openai
 event_name: ''
 ---
 

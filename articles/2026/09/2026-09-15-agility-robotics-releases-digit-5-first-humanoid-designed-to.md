@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 - 2026-07-05-agility-robotics-is-going-public-via-spac
-embedding_id: null
+embedding_id: 2026-09-15-agility-robotics-releases-digit-5-first-humanoid-designed-to
 event_name: ''
 ---
 

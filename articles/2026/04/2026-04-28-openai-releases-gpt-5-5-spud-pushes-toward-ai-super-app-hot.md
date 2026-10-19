@@ -4,8 +4,8 @@ title: OpenAI Releases GPT-5.5 "Spud," Pushes Toward AI Super App Hot
 date: '2026-04-28'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/openai-gpt-5-5-chatgpt-codex-super-app/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 9c7357aebba97d98912c7ebcc5f63be085c1a65ec34fd050dcc9f22b20895351
 normalized_title_hash: 437653d7c49f7b90
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-22-openai-s-gpt-5-5-family-codenamed-spud-now-includes-multiple
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-embedding_id: null
+embedding_id: 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 event_name: ''
 ---
 

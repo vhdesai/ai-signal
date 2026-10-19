@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo
 - 2026-10-12-windborne-wins-nearly-50m-us-air-force-contract-for-ai-weath
 - 2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai
-embedding_id: null
+embedding_id: 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
 event_name: ''
 ---
 

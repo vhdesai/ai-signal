@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 - 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
-embedding_id: null
+embedding_id: 2026-09-11-combinator-s-garry-tan-urges-us-open-weight-labs-to-distill
 event_name: ''
 ---
 

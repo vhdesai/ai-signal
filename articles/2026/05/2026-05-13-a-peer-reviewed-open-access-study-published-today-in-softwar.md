@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
-embedding_id: null
+embedding_id: 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 event_name: ''
 ---
 

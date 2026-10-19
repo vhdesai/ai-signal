@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-24-can-nvidia-keep-the-ai-party-going-wsj-preview-ahead-of-earn
 - 2026-09-14-nvidia-and-chip-stocks-fall-as-ai-ceos-call-for-a-developmen
 - 2026-09-14-ai-warnings-knock-nasdaq-futures-and-pressure-chip-stocks
-embedding_id: null
+embedding_id: 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
 event_name: ''
 ---
 

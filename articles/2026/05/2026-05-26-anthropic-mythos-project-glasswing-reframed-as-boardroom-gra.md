@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 event_name: ''
 ---
 

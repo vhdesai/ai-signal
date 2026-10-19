@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-06-10-ai-pilled-firms-now-spend-7-500-per-employee-per-month-on-ai
-embedding_id: null
+embedding_id: 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 event_name: ''
 ---
 

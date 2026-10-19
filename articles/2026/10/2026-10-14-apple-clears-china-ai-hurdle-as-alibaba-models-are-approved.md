@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-apple-is-training-a-custom-china-market-ai-model-with-alibab
 - 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 - 2026-07-16-apple-intelligence-cleared-for-china-with-alibaba-s-qwen-and
-embedding_id: null
+embedding_id: 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
 event_name: ''
 ---
 

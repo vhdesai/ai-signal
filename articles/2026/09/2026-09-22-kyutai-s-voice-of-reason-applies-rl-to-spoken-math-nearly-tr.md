@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-08-03-openai-s-gpt-live-update-combines-full-duplex-voice-interact
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: null
+embedding_id: 2026-09-22-kyutai-s-voice-of-reason-applies-rl-to-spoken-math-nearly-tr
 event_name: ''
 ---
 

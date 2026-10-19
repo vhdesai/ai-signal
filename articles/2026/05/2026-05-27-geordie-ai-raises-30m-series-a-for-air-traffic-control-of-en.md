@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation
-embedding_id: null
+embedding_id: 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 event_name: ''
 ---
 

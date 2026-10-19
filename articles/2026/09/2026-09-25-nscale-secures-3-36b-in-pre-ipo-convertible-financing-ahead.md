@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-22-nscale-files-for-35b-nyse-ipo-microsoft-and-anthropic-repres
-embedding_id: null
+embedding_id: 2026-09-25-nscale-secures-3-36b-in-pre-ipo-convertible-financing-ahead
 event_name: ''
 ---
 

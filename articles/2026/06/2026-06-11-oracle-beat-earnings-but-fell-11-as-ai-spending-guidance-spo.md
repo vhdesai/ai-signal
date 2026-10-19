@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-capex-guidance-spooke
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo
 event_name: ''
 ---
 

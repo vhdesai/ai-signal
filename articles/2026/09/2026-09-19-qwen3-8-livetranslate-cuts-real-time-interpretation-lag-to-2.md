@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2
 event_name: ''
 ---
 

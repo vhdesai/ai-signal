@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscrip
 - 2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit
 - 2026-05-27-xai-launches-grok-integration-in-kilo-code
-embedding_id: null
+embedding_id: 2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub
 event_name: ''
 ---
 

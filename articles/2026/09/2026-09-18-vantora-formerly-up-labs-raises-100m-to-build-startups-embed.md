@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
-embedding_id: null
+embedding_id: 2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed
 event_name: ''
 ---
 

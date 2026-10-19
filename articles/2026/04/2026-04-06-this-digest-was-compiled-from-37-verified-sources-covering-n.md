@@ -5,8 +5,8 @@ title: This digest was compiled from 37 verified sources covering news published
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: e6f42ca22f745e46ed6b3b7d2716f4733e48aa536faa9b86222ce177b9b0374b
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
 - 2026-04-01-sources-include-bloomberg-techcrunch-venturebeat-cnbc-econom
 - 2026-03-28-about-this-digest-compiled-from-public-sources-including-tec
-embedding_id: null
+embedding_id: 2026-04-06-this-digest-was-compiled-from-37-verified-sources-covering-n
 event_name: ''
 ---
 

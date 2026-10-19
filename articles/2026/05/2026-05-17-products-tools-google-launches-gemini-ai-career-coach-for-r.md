@@ -5,8 +5,8 @@ title: 🛠️ Products & Tools Google Launches Gemini AI Career Coach for Résu
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.timesofai.com/news/gemini-ai-career-coach-unveiled/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 02272fbd92f2a0daf415b141c42d50c401aebe98f9451c9c43883badac5a227c
@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 - 2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-businesses
-embedding_id: null
+embedding_id: 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 event_name: ''
 ---
 

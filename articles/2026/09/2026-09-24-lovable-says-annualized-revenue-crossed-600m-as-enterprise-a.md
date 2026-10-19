@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin
-embedding_id: null
+embedding_id: 2026-05-12-anthropic-mythos-triggers-us-bank-rush-to-plug-cyber-vulnera
 event_name: ''
 ---
 

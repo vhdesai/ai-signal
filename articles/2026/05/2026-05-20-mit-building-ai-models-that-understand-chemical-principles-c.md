@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-09-04-cornell-and-bti-use-neuro-symbolic-ai-to-map-small-molecule
 - 2026-08-28-deepmind-s-ai-co-scientist-now-plans-experiments-runs-lab-eq
-embedding_id: null
+embedding_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 event_name: ''
 ---
 

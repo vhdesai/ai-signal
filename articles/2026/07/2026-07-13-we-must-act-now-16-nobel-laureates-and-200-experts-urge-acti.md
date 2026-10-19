@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti
 event_name: ''
 ---
 

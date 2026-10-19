@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-06-26-compiled-june-26-2026-every-item-was-confirmed-published-wit
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
-embedding_id: null
+embedding_id: 2026-06-25-no-items-met-the-strict-24-hour-publication-bar
 event_name: ''
 ---
 

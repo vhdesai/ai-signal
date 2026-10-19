@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-oracle-issues-force-majeure-notice-on-its-165b-stargate-camp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-oracle-sends-force-majeure-notice-on-its-165b-new-mexico-sta
 event_name: ''
 ---
 

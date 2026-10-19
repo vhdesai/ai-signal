@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-embedding_id: null
+embedding_id: 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 event_name: ''
 ---
 

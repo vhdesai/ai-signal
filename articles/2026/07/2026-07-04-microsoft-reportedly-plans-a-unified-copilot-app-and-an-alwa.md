@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-sh
 - 2026-07-04-microsoft-to-fold-consumer-and-enterprise-copilot-into-one-a
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-a-persistent
-embedding_id: null
+embedding_id: 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 event_name: ''
 ---
 

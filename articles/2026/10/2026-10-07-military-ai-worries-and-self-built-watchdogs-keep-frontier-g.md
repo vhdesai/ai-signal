@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-11-ai-s-quiet-safety-gatekeepers-step-into-the-spotlight
 - 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 - 2026-08-22-frontier-labs-still-have-limited-public-detail-on-rogue-mode
-embedding_id: null
+embedding_id: 2026-10-07-military-ai-worries-and-self-built-watchdogs-keep-frontier-g
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
-embedding_id: null
+embedding_id: 2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu
 event_name: ''
 ---
 

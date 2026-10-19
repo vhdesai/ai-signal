@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
 - 2026-08-15-bond-traders-scrutinize-70b-of-off-balance-sheet-ai-credit-b
-embedding_id: null
+embedding_id: 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 event_name: ''
 ---
 

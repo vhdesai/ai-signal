@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-embedding_id: null
+embedding_id: 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 event_name: ''
 ---
 

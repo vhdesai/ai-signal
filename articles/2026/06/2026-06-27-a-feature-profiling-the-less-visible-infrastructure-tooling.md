@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-13-applied-materials-and-lam-research-emerge-as-less-obvious-ai
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-03-the-enterprise-bottleneck-has-clearly-shifted-from-gaining-m
-embedding_id: null
+embedding_id: 2026-06-27-a-feature-profiling-the-less-visible-infrastructure-tooling
 event_name: ''
 ---
 

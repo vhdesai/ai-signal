@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
-embedding_id: null
+embedding_id: 2026-05-26-eu-rolls-out-mandatory-ai-inventory-compliance-artifact
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-30-google-s-envharness-turns-static-agent-benchmarks-into-adapt
 - 2026-08-21-envharness-reshaping-static-environments-for-agent-learning
 - 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
-embedding_id: null
+embedding_id: 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
 event_name: ''
 ---
 

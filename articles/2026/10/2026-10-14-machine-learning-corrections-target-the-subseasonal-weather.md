@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o
+- 2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools
+- 2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event
+- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
+- 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
+embedding_id: 2026-10-14-machine-learning-corrections-target-the-subseasonal-weather
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ MIT researchers report machine-learning corrections that improve weather forecas
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Related:** [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o]] · [[2026-09-18-mit-researchers-map-extreme-weather-risks-and-build-ai-tools]] · [[2026-08-24-mit-builds-a-tool-that-generates-unprecedented-extreme-event]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
-embedding_id: null
+embedding_id: 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 event_name: ''
 ---
 

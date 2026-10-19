@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-16-openai-in-early-talks-for-a-new-funding-round-at-1-2t-valuat
 - 2026-09-05-amd-commits-up-to-5b-to-anthropic-as-ipo-prospectus-is-repor
-embedding_id: null
+embedding_id: 2026-09-20-oura-targets-16b-ipo-valuation-as-investors-bet-on-health-da
 event_name: ''
 ---
 

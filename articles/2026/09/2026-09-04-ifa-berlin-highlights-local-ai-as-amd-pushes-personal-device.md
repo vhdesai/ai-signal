@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-08-03-amd-s-release-is-strategically-important-because-it-demonstr
-embedding_id: null
+embedding_id: 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 event_name: ''
 ---
 

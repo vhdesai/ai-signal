@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 - 2026-07-22-meta-reportedly-in-talks-for-a-10b-anthropic-compute-deal
-embedding_id: null
+embedding_id: 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
 event_name: ''
 ---
 

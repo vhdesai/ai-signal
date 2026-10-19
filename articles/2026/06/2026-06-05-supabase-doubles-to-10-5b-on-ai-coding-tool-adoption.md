@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-coding-startup-cognition-reportedly-in-talks-to-raise-at
-embedding_id: null
+embedding_id: 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
 event_name: ''
 ---
 

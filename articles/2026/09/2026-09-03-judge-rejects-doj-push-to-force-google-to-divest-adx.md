@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-01-court-dismisses-publisher-antitrust-challenges-to-ai-overvie
 - 2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check
 - 2026-08-29-ai-stops-being-a-software-category-courts-capital-and-contra
-embedding_id: null
+embedding_id: 2026-09-03-judge-rejects-doj-push-to-force-google-to-divest-adx
 event_name: ''
 ---
 

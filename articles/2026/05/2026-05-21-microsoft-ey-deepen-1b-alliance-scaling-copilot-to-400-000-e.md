@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
 event_name: ''
 ---
 

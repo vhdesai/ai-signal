@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-kimi-k3-intensifies-the-open-weight-challenge-to-u-s-frontie
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-embedding_id: null
+embedding_id: 2026-07-19-ai-race-splits-as-china-wages-an-open-weight-model-insurgenc
 event_name: ''
 ---
 

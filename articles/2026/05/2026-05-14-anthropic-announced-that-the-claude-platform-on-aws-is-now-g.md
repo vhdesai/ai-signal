@@ -5,8 +5,8 @@ title: Anthropic announced that the Claude Platform on AWS is now generally avai
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claude.com/resources/articles/claude-platform-on-aws
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 7029d005ae2edc15e10d2c93b29206b11568db3849fcf60ad2b426610d42fe61
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 event_name: ''
 ---
 

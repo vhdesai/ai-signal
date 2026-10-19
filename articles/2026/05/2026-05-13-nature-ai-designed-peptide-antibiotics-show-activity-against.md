@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 - 2026-08-27-mit-framework-pushes-protein-design-beyond-naturally-occurri
-embedding_id: null
+embedding_id: 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 event_name: ''
 ---
 

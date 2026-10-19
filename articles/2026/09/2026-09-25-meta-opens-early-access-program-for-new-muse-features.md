@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-24-meta-connect-muse-gets-video-avatars-email-addresses-mac-con
 - 2026-09-23-meta-expands-muse-with-retail-partnerships-mac-control-and-a
-embedding_id: null
+embedding_id: 2026-09-25-meta-opens-early-access-program-for-new-muse-features
 event_name: ''
 ---
 

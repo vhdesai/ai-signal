@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
-embedding_id: null
+embedding_id: 2026-09-02-meta-ditches-google-chat-for-slack-citing-ai-agent-workflows
 event_name: ''
 ---
 

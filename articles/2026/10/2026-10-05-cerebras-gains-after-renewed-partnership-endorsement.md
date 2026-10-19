@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-cerebras-raises-full-year-guidance-but-shares-fall-14
 - 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
 - 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
-embedding_id: null
+embedding_id: 2026-10-05-cerebras-gains-after-renewed-partnership-endorsement
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
-embedding_id: null
+embedding_id: 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 event_name: ''
 ---
 

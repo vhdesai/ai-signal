@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 - 2026-08-13-cmu-researchers-challenge-what-it-means-to-say-ai-thinks
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
-embedding_id: null
+embedding_id: 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 event_name: ''
 ---
 

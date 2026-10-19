@@ -28,7 +28,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-china-invites-deepseek-and-moonshot-to-the-un-security-counc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-global-times-reports-china-has-invited-deepseek-and-moonshot
 event_name: ''
 ---
 

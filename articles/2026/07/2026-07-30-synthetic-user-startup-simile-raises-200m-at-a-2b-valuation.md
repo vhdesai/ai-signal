@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 - 2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
-embedding_id: null
+embedding_id: 2026-07-30-synthetic-user-startup-simile-raises-200m-at-a-2b-valuation
 event_name: ''
 ---
 

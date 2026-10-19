@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-nvidia-google-deepmind-and-embl-ebi-release-viral-protein-co
 event_name: ''
 ---
 

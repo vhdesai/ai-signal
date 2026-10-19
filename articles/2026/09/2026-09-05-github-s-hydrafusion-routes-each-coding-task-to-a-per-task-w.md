@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-github-introduces-project-hydrafusion-for-per-task-model-orc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-github-s-hydrafusion-routes-each-coding-task-to-a-per-task-w
 event_name: ''
 ---
 

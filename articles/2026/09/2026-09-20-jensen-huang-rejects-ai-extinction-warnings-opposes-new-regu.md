@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
 related_article_ids:
 - 2026-09-20-huang-ai-ceos-calling-for-regulation-must-be-doing-it-for-ul
-embedding_id: null
+embedding_id: 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-regu
 event_name: ''
 ---
 

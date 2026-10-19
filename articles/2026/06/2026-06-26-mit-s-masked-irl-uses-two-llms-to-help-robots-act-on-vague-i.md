@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
-embedding_id: null
+embedding_id: 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
 event_name: ''
 ---
 

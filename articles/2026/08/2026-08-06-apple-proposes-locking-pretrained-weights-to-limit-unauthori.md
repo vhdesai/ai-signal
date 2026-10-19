@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-09-24-apple-research-compresses-streaming-neural-audio-encoders-fo
-embedding_id: null
+embedding_id: 2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori
 event_name: ''
 ---
 

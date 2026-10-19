@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-15-inside-broadcom-s-bold-move-to-boost-demand-for-its-ai-chips
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-09-03-broadcom-projects-ai-chip-revenue-to-double-in-2027-and-agai
-embedding_id: null
+embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
 

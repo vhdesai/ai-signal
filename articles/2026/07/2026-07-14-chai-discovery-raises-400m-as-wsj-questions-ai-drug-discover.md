@@ -4,8 +4,8 @@ title: Chai Discovery raises $400M as WSJ questions AI drug discovery timelines
 date: '2026-07-14'
 source: The New York Times / DealBook · The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/chai-discovery-400m-series-c-ai-drug-discovery
+url_status: repaired
 digest_source: digests\raw\2026-07-14_065741_Final-Daily-AI-News-Digest.md
 content_hash: be052b272da11a13e1d54ce4b1904ace1165b69f258cb14f9d7399152fe71eb8
 normalized_title_hash: 65eefdbb3c2f30be
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
 - 2026-07-17-ai-capital-spreads-across-drug-discovery-policy-and-robotics
 - 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
-embedding_id: null
+embedding_id: 2026-07-14-chai-discovery-raises-400m-as-wsj-questions-ai-drug-discover
 event_name: ''
 ---
 

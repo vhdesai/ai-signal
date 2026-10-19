@@ -6,7 +6,7 @@ date: '2026-06-25'
 source: AlleyWatch
 url_original: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
 url_canonical: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: dcdb4e596749c967cdddbe0b973b7b0797d4562b70cffd8a2eb9364e2b3cb20d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 - 2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu
-embedding_id: null
+embedding_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
 event_name: ''
 ---
 

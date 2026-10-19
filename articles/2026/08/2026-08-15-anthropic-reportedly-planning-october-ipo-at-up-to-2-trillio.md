@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-anthropic-investors-reportedly-targeting-a-2-trillion-ipo
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
-embedding_id: null
+embedding_id: 2026-08-15-anthropic-reportedly-planning-october-ipo-at-up-to-2-trillio
 event_name: ''
 ---
 

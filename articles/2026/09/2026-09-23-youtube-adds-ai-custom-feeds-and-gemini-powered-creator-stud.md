@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 - 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
 - 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
-embedding_id: null
+embedding_id: 2026-09-23-youtube-adds-ai-custom-feeds-and-gemini-powered-creator-stud
 event_name: ''
 ---
 

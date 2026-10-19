@@ -4,8 +4,8 @@ title: China's top AI event sends a direct competitive message to the U.S.
 date: '2026-07-20'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/technology/china-s-top-ai-event-delivers-message-to-the-us-we-re-coming-for-you/ar-AA28ipOF
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 5f9722a9139c0422b95dc7970c5ec2fcc2c218e5956b8f9533f34df05605f095
 normalized_title_hash: 3158727b0a421000
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-embedding_id: null
+embedding_id: 2026-07-20-china-s-top-ai-event-sends-a-direct-competitive-message-to-t
 event_name: ''
 ---
 

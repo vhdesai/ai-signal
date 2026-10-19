@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-nvidia-warns-largest-customers-of-15-price-increases-on-ai-s
 - 2026-08-22-nvidia-ai-server-prices-to-rise-more-than-15-on-memory-costs
-embedding_id: null
+embedding_id: 2026-08-22-nvidia-customers-reportedly-warned-about-ai-related-price-hi
 event_name: ''
 ---
 

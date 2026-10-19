@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-09-anthropic-appoints-former-fed-chair-ben-bernanke-to-its-long
 - 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
 - 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
-embedding_id: null
+embedding_id: 2026-08-04-anthropic-appoints-tino-cuellar-as-first-chief-global-affair
 event_name: ''
 ---
 

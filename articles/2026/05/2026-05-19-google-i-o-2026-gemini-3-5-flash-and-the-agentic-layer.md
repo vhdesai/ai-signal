@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-07-21-google-ships-three-new-gemini-flash-models-flagship-3-5-pro
-embedding_id: null
+embedding_id: 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 event_name: ''
 ---
 

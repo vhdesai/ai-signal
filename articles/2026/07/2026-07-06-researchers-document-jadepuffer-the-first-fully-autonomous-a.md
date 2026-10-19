@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-embedding_id: null
+embedding_id: 2026-07-06-researchers-document-jadepuffer-the-first-fully-autonomous-a
 event_name: ''
 ---
 

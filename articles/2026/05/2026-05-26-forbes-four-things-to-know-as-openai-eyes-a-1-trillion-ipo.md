@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
-embedding_id: null
+embedding_id: 2026-05-26-forbes-four-things-to-know-as-openai-eyes-a-1-trillion-ipo
 event_name: ''
 ---
 

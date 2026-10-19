@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 event_name: ''
 ---
 

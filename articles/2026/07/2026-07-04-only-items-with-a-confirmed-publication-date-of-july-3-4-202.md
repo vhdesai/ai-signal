@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-28-coverage-note-only-items-with-a-confirmed-publication-date-w
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
-embedding_id: null
+embedding_id: 2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202
 event_name: ''
 ---
 

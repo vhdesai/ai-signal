@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 - 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
 - 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
-embedding_id: null
+embedding_id: 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
 event_name: ''
 ---
 

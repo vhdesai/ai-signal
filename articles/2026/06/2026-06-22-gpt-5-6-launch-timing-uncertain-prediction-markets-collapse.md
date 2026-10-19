@@ -4,8 +4,8 @@ title: GPT-5.6 Launch Timing Uncertain — Prediction Markets Collapse
 date: '2026-06-22'
 source: Yahoo Finance; Geeky Gadgets
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/markets-confident-openai-releases-next-191526916.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: b2f9aa9f70e5779e14463a767c8406b4c66cd0122131a7b0ae07beb359a18fa1
 normalized_title_hash: 3d176d374de64211
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-06-21-speculation-around-openai-s-gpt-5-6-continued-to-intensify-o
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-embedding_id: null
+embedding_id: 2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse
 event_name: ''
 ---
 

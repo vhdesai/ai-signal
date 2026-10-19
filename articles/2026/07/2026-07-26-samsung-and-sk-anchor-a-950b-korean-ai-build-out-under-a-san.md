@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
-embedding_id: null
+embedding_id: 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 event_name: ''
 ---
 

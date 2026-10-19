@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-17-z-ai-details-production-inference-for-glm-5-3-flash-on-100-0
 - 2026-08-25-openai-s-jalape-o-chip-posts-inference-benchmarks-beating-nv
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
-embedding_id: null
+embedding_id: 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 event_name: ''
 ---
 

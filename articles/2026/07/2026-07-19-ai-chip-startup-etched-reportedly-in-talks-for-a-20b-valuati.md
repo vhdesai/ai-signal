@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-18-ai-chip-startup-etched-doubles-valuation-to-21-billion-in-un
 - 2026-08-18-etched-s-valuation-doubles-to-21b-in-a-month
 - 2026-10-05-etched-receives-funding-offers-at-a-reported-40-50-billion-v
-embedding_id: null
+embedding_id: 2026-07-19-ai-chip-startup-etched-reportedly-in-talks-for-a-20b-valuati
 event_name: ''
 ---
 

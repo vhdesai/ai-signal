@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-palo-alto-networks-launches-unit-42-continuous-frontier-ai-d
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-embedding_id: null
+embedding_id: 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 event_name: ''
 ---
 

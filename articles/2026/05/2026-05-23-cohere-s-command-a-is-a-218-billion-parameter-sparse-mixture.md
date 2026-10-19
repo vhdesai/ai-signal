@@ -5,8 +5,8 @@ title: Cohere's Command A+ is a 218-billion-parameter Sparse Mixture-of-Experts 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cohere.com/blog/command-a-plus
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 12eebe118a394262bd84b53670ecd64263b711c4c5603b3d54ab8f8112cfbc89
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 - 2026-03-28-cohere-launched-cohere-transcribe-an-open-source-automatic-s
 - 2026-10-05-cohere-launches-north-2-with-agent-memory-orchestration-and
-embedding_id: null
+embedding_id: 2026-05-23-cohere-s-command-a-is-a-218-billion-parameter-sparse-mixture
 event_name: ''
 ---
 

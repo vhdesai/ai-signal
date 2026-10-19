@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 - 2026-05-28-cognizant-deploys-anthropic-claude-to-modernize-travelport
-embedding_id: null
+embedding_id: 2026-10-01-barclays-expands-claude-across-banking-operations
 event_name: ''
 ---
 

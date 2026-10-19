@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 - 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
-embedding_id: null
+embedding_id: 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 event_name: ''
 ---
 

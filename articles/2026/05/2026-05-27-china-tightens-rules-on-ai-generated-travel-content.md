@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
-embedding_id: null
+embedding_id: 2026-05-27-china-tightens-rules-on-ai-generated-travel-content
 event_name: ''
 ---
 

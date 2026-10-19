@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 - 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
-embedding_id: null
+embedding_id: 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
 event_name: ''
 ---
 

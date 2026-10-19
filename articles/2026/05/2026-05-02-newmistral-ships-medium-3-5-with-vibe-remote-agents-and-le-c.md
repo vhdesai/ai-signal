@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
-embedding_id: null
+embedding_id: 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
 event_name: ''
 ---
 

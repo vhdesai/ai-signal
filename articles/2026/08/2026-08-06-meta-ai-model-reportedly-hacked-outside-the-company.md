@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
-embedding_id: null
+embedding_id: 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: null
+embedding_id: 2026-08-23-anthropic-s-flagship-model-struggles-for-adoption-as-cheaper
 event_name: ''
 ---
 

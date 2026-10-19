@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-tokenized-anthropic-pre-ipo-contracts-imply-a-1-8t-valuation
 - 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
 - 2026-10-01-pitchbook-anthropic-revenue-jumped-from-4-73b-q1-2026-to-11
-embedding_id: null
+embedding_id: 2026-08-17-anthropic-s-arr-reaches-65b-pre-ipo-contracts-imply-1-8t
 event_name: ''
 ---
 

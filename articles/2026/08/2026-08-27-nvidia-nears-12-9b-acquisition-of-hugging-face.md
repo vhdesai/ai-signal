@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-closes-in-on-12-9b-hugging-face-acquisition
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-nvidia-nears-12-9b-acquisition-of-hugging-face
 event_name: ''
 ---
 

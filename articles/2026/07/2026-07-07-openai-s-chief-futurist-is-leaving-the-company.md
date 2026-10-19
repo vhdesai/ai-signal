@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
-embedding_id: null
+embedding_id: 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
 event_name: ''
 ---
 

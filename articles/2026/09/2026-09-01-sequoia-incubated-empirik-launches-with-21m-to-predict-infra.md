@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
 - 2026-08-05-sequoia-capital-goes-all-out-on-ai-under-new-leaders
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f
-embedding_id: null
+embedding_id: 2026-09-01-sequoia-incubated-empirik-launches-with-21m-to-predict-infra
 event_name: ''
 ---
 

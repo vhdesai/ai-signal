@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-08-08-four-agent-coordination-system-outperforms-a-frontier-single
-embedding_id: null
+embedding_id: 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 event_name: ''
 ---
 

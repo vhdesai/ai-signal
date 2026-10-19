@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 event_name: ''
 ---
 

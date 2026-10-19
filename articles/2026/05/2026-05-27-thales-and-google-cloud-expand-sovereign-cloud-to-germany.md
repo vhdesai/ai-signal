@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-09-23-alibaba-cloud-to-open-new-data-centres-in-turkey-finland-and
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
-embedding_id: null
+embedding_id: 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 event_name: ''
 ---
 

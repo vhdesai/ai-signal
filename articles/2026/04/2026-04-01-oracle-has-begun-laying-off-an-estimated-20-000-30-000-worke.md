@@ -4,8 +4,8 @@ title: Oracle has begun laying off an estimated 20,000–30,000 workers in the U
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/328106/20260928/tech-layoffs-top-225000-oracle-borrowed-billions-ai-then-cut-workers-pay-it.htm
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: ae2071309c03c9323684adc66a6885eb7c61b2465f223e13623a003891dd47e9
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+embedding_id: 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 event_name: ''
 ---
 

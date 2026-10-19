@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 event_name: ''
 ---
 

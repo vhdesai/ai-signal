@@ -6,7 +6,7 @@ date: '2026-09-22'
 source: AP / Seattle Times
 url_original: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
 url_canonical: https://www.seattletimes.com/business/alibaba-unveils-zhenwu-v900-ai-chip-10-trillion-parameter-model-apsara-2026
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-22_070538_Inbox_Daily AI News Digest - September
   22, 2026.md
 content_hash: ce36262e8ca2babe3529604462bb62bd845e2d05bb2d288511249e280fe1184d
@@ -30,7 +30,7 @@ canonical_article_id: 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v9
 related_article_ids:
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-embedding_id: null
+embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-ai-chip-and-plans-for-a-10-trill
 event_name: ''
 ---
 

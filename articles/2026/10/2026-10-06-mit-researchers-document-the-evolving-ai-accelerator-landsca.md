@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
-embedding_id: null
+embedding_id: 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 event_name: ''
 ---
 

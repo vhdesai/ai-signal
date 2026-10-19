@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university
-embedding_id: null
+embedding_id: 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 event_name: ''
 ---
 

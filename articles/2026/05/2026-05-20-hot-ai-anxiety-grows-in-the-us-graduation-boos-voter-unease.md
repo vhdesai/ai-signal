@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
-embedding_id: null
+embedding_id: 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 event_name: ''
 ---
 

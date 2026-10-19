@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: OpenAI
 url_original: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
 url_canonical: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_061911_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 0e14c2420d3ce5956332f1763f499f06fa69f085e15d191dc5b77a7a6e8d8487
@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f
 event_name: ''
 ---
 

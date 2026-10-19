@@ -4,8 +4,8 @@ title: arXiv Institutes 1-Year Ban for AI-Generated "Slop" in Scientific Papers
 date: '2026-05-15'
 source: 📰 The Decoder  · Cornell University arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers
+url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: b6fb1851dbbe2170e07cbd36e17e8da86f498b89ae8aa11ee9befc3172f718d5
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 - 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
 - 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
-embedding_id: null
+embedding_id: 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 event_name: ''
 ---
 

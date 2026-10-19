@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
-embedding_id: null
+embedding_id: 2026-10-10-ai-data-center-buildout-is-increasing-u-s-reliance-on-import
 event_name: ''
 ---
 

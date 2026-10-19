@@ -6,7 +6,7 @@ date: '2026-09-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/
 url_canonical: https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-06_060409_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 8a0e18d6ffe869cd7189680072f7fd8558215d64a073c2426e539a7c5f13d293
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-05-perplexity-publishes-the-internals-of-its-gpu-embedding-serv
 - 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
 - 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
-embedding_id: null
+embedding_id: 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 event_name: ''
 ---
 

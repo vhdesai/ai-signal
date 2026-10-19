@@ -5,8 +5,8 @@ title: DeepSeek — the Hangzhou lab behind the V4 model (a 1.6-trillion-paramet
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.codercops.com/blog/deepseek-v4-trillion-parameters-february-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: d9bd87038a437a1264d28d3b94a6c630f690069005e06920c4e65105ec243083
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
-embedding_id: null
+embedding_id: 2026-05-18-deepseek-the-hangzhou-lab-behind-the-v4-model-a-1-6-trillion
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-08-claude-mythos-anthropic-s-next-generation-model-currently-in
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-embedding_id: null
+embedding_id: 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 event_name: ''
 ---
 

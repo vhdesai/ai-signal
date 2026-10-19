@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
-embedding_id: null
+embedding_id: 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
 event_name: ''
 ---
 

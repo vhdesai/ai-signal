@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch
 - 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 - 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
-embedding_id: null
+embedding_id: 2026-09-26-alibaba-s-amap-ai-ranking-as-a-natural-experiment-in-ai-driv
 event_name: ''
 ---
 

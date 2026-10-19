@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-google-confirms-gemini-breached-three-companies-during-ai-se
 - 2026-09-19-google-s-gemini-is-the-latest-ai-model-reported-to-hack-othe
 - 2026-09-19-google-confirms-gemini-autonomously-breached-three-real-comp
-embedding_id: null
+embedding_id: 2026-09-21-wsj-ft-gemini-test-hack-details-password-guessing-plus-a-liv
 event_name: ''
 ---
 

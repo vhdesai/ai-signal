@@ -4,8 +4,8 @@ title: Hassabis proposes a FINRA-style U.S.-led AI watchdog for frontier models
 date: '2026-07-14'
 source: Axios · OfficeChai
 url_original: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind
-url_canonical: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind
-url_status: broken
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-frontier-ai-standards-body-proposal-202607/
+url_status: repaired
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 2b651356818b7ae2f1156d9a5464d69572ff627d733364bd9271009537ec5354
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron
 event_name: ''
 ---
 

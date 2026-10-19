@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-embedding_id: null
+embedding_id: 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 event_name: ''
 ---
 

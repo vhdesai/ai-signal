@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-anthropic-researcher-shows-automated-ai-can-improve-alignmen
 - 2026-08-28-anthropic-shows-automated-ai-researchers-improve-alignment-f
 - 2026-08-28-anthropic-s-automated-alignment-researchers-beat-humans-at-4
-embedding_id: null
+embedding_id: 2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor
 event_name: ''
 ---
 

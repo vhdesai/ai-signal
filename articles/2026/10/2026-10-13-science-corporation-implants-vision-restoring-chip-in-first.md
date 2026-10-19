@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-mit-an-ai-powered-barcode-identifies-senescent-cells-without
-embedding_id: null
+embedding_id: 2026-10-13-science-corporation-implants-vision-restoring-chip-in-first
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement
 - 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
-embedding_id: null
+embedding_id: 2026-08-13-eu-ai-act-article-50-transparency-duties-are-now-in-force
 event_name: ''
 ---
 

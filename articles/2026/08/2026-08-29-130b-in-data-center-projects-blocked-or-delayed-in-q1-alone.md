@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-opinion-why-america-s-ai-dream-is-failing-to-launch-130b-of
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
-embedding_id: null
+embedding_id: 2026-08-29-130b-in-data-center-projects-blocked-or-delayed-in-q1-alone
 event_name: ''
 ---
 

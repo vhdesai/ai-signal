@@ -4,8 +4,8 @@ title: Massive AI supply deals face execution risk
 date: '2026-07-20'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://brooksint.com/2026/07/08/why-execution-risk-must-move-into-deal-thesis/
+url_status: repaired
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: 0bafc006f26888032ea2bf4bf1a1f06842a12cedb9819db9afeab4ff8fa3087f
 normalized_title_hash: f9dd6e35f4cf0a71
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-16-open-weight-ai-is-unlikely-to-reduce-demand-for-ai-infrastru
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
-embedding_id: null
+embedding_id: 2026-07-20-massive-ai-supply-deals-face-execution-risk
 event_name: ''
 ---
 

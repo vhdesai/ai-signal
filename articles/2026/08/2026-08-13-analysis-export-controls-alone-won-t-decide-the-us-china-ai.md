@@ -20,12 +20,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+- 2026-10-18-china-proposes-export-controls-on-ai-agents-and-other-ai-tec
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: null
+embedding_id: 2026-08-13-analysis-export-controls-alone-won-t-decide-the-us-china-ai
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Harvard's Bruno Sergi and economist Kevin Chen argue export controls "do not con
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
+**Related:** [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-10-18-china-proposes-export-controls-on-ai-agents-and-other-ai-tec]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-09-21-bofa-neither-the-us-nor-china-can-win-the-ai-race-without-th]]
 <!-- graph:end -->

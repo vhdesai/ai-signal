@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-07-15-nature-health-1-7m-copilot-health-conversations-mapped-acros
-embedding_id: null
+embedding_id: 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 event_name: ''
 ---
 

@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-09-23-ai-agenda-live-open-source-and-price-cuts-are-keeping-ai-ent
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-embedding_id: null
+embedding_id: 2026-09-23-amazon-promises-30-ai-token-cost-cuts-via-new-cloud-migratio
 event_name: ''
 ---
 

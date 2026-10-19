@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-unreleased-claude-research-model-raises-the-proven-riemann-z
 - 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
 - 2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth
-embedding_id: null
+embedding_id: 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
 event_name: ''
 ---
 

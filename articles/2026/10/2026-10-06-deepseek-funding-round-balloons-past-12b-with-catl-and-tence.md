@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-embedding_id: null
+embedding_id: 2026-10-06-deepseek-funding-round-balloons-past-12b-with-catl-and-tence
 event_name: ''
 ---
 

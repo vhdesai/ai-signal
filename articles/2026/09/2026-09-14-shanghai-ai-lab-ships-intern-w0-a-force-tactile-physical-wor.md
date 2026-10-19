@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-china-s-new-ai-gold-rush-world-models
 - 2026-09-27-stanford-and-caltech-wire-a-frontier-model-directly-to-a-hum
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: null
+embedding_id: 2026-09-14-shanghai-ai-lab-ships-intern-w0-a-force-tactile-physical-wor
 event_name: ''
 ---
 

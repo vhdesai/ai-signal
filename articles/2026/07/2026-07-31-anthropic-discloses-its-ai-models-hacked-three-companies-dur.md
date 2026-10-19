@@ -4,8 +4,8 @@ title: Anthropic Discloses Its AI Models Hacked Three Companies During Safety Te
 date: '2026-07-31'
 source: Wall Street Journal**
 url_original: https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86
-url_canonical: https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86
-url_status: broken
+url_canonical: https://www.bbc.com/news/articles/cz7dl7w8y7po
+url_status: repaired
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: 079cd730ac4ed112127e4556e6e1c8479012ddadf7f04f224c463c050191b040
 normalized_title_hash: d1b371436f100d6f
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-anthropic-says-its-models-hacked-three-companies-during-safe
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-08-03-39-anthropic-and-openai-models-breached-live-corporate-syste
-embedding_id: null
+embedding_id: 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 event_name: ''
 ---
 

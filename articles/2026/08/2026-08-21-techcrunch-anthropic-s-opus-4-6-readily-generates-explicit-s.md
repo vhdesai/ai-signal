@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-21-anthropic-s-opus-4-6-readily-generates-explicit-content-desp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-21-techcrunch-anthropic-s-opus-4-6-readily-generates-explicit-s
 event_name: ''
 ---
 

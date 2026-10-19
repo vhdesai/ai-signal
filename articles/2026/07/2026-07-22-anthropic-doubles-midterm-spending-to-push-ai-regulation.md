@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 - 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-embedding_id: null
+embedding_id: 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
 event_name: ''
 ---
 

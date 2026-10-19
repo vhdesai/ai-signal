@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-20-google-plans-new-frozen-chip-to-run-ai-models-more-efficient
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-07-19-ai-memory-shortage-puts-pressure-on-governments-to-act
-embedding_id: null
+embedding_id: 2026-08-17-are-microsoft-s-ai-plans-being-held-back-by-a-shortage-of-ch
 event_name: ''
 ---
 

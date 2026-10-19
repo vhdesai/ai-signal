@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-xiaomi-s-milm-plus-releases-prove-perception-aligned-object
 - 2026-09-21-xiaomi-releases-mimo-v2-6-pro-and-flash-as-open-weight-omnim
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-embedding_id: null
+embedding_id: 2026-08-11-xiaomi-milm-plus-releases-prove-benchmark-and-metrics-for-ob
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
-embedding_id: null
+embedding_id: 2026-09-30-mit-led-ataraxos-advances-decision-making-under-hidden-infor
 event_name: ''
 ---
 

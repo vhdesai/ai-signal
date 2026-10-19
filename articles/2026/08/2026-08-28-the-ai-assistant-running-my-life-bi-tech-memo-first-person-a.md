@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-the-ai-assistant-running-my-life-first-person-account
 - 2026-08-28-hugging-face-s-answer-to-dystopian-humanoid-robots
 - 2026-10-12-ambi-raises-26m-for-an-always-listening-ai-assistant
-embedding_id: null
+embedding_id: 2026-08-28-the-ai-assistant-running-my-life-bi-tech-memo-first-person-a
 event_name: ''
 ---
 

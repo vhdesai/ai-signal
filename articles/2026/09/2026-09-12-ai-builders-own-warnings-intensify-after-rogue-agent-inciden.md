@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-09-04-openai-s-rogue-agent-incidents-raise-calls-for-formal-indepe
 - 2026-08-03-this-may-be-the-most-operationally-significant-ai-safety-sto
-embedding_id: null
+embedding_id: 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 event_name: ''
 ---
 

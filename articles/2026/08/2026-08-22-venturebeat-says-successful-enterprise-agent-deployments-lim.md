@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-08-23-enterprise-ai-agent-success-is-tied-to-limiting-autonomy
 - 2026-08-22-enterprises-succeeding-with-ai-agents-are-the-ones-constrain
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
-embedding_id: null
+embedding_id: 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
 event_name: ''
 ---
 

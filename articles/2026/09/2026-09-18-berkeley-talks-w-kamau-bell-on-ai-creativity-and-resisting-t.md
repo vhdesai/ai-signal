@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-09-30-group-of-uc-berkeley-researchers-published-a-public-call-for
-embedding_id: null
+embedding_id: 2026-09-18-berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-t
 event_name: ''
 ---
 

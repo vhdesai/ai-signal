@@ -5,7 +5,7 @@ date: '2026-10-14'
 source: OpenAI
 url_original: https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 url_canonical: https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-15_060913_Inbox_Daily AI News Digest – October
   15, 2026.md
 content_hash: 38b45b12fe6362a5fd4d3189c6a2a8ca07454adeb1e5774fc81387913d9aba44
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 - 2026-08-24-openai-is-building-ai-agents-for-everything-will-everyone-us
-embedding_id: null
+embedding_id: 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
 event_name: ''
 ---
 

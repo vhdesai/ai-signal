@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
 event_name: ''
 ---
 

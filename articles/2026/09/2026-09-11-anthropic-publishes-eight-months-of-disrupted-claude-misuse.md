@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-anthropic-details-eight-months-of-disrupted-state-linked-cla
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-11-anthropic-publishes-eight-months-of-disrupted-claude-misuse
 event_name: ''
 ---
 

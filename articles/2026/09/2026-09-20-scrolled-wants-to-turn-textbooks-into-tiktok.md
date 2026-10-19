@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-acquires-presentation-startup-nextslide
 - 2026-08-08-openai-acquires-presentation-startup-nextslide
-embedding_id: null
+embedding_id: 2026-09-20-scrolled-wants-to-turn-textbooks-into-tiktok
 event_name: ''
 ---
 

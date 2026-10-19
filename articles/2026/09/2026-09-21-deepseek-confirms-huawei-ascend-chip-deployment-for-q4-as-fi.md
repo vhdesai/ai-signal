@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-21-deepseek-confirms-huawei-ascend-chips-arriving-q4-as-first-f
 - 2026-09-21-deepseek-plans-160-000-chip-huawei-ascend-deployment-to-bypa
 - 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
-embedding_id: null
+embedding_id: 2026-09-21-deepseek-confirms-huawei-ascend-chip-deployment-for-q4-as-fi
 event_name: ''
 ---
 

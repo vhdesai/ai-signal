@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 - 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
-embedding_id: null
+embedding_id: 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
 event_name: ''
 ---
 

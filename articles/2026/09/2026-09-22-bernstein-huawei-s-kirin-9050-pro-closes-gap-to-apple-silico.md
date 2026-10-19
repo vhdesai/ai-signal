@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 - 2026-10-13-huawei-passes-100m-kirin-device-milestone-since-sanctions-er
-embedding_id: null
+embedding_id: 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 event_name: ''
 ---
 

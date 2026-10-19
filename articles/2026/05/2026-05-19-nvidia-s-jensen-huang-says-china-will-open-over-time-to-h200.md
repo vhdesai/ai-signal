@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
-embedding_id: null
+embedding_id: 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 event_name: ''
 ---
 

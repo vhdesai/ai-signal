@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-15-nvidia-in-talks-to-invest-3-billion-in-sb-energy-for-openai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-15-nvidia-in-talks-to-invest-up-to-3b-in-softbank-backed-sb-ene
 event_name: ''
 ---
 

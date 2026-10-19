@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-trending-oracle-closes-up-5-7-on-ai-infrastructure-demand
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-09-13-hpe-carries-a-7-6b-ai-order-backlog-as-memory-supply-lags
-embedding_id: null
+embedding_id: 2026-09-04-oracle-rallies-as-expanded-hpe-networking-deal-boosts-ai-inf
 event_name: ''
 ---
 

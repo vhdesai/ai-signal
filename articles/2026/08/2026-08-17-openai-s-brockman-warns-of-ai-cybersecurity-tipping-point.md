@@ -5,7 +5,7 @@ date: '2026-08-17'
 source: DealBook (NYT) · OpenAI
 url_original: https://openai.com/index/the-defenders-window/
 url_canonical: https://openai.com/index/the-defenders-window/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-17_163645_Final-Daily-AI-News-Digest.md
 content_hash: bd660be421847e4719d2eed00815e263f5cc4c2f52a2f13730f5904318f09693
 normalized_title_hash: ad4ed2d34e06cef8
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-openai-s-brockman-warns-of-ai-cybersecurity-tipping-point
 event_name: ''
 ---
 

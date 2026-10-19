@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
-embedding_id: null
+embedding_id: 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 event_name: ''
 ---
 

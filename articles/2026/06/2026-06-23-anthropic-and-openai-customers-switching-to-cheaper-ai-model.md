@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
 - 2026-09-23-enterprise-buyers-say-open-weights-and-price-cuts-have-final
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
-embedding_id: null
+embedding_id: 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 event_name: ''
 ---
 

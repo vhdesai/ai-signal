@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
-embedding_id: null
+embedding_id: 2026-09-13-dubai-positions-ai-as-a-central-pillar-of-its-future-city-st
 event_name: ''
 ---
 

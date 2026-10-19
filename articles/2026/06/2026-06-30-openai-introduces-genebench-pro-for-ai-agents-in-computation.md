@@ -4,8 +4,8 @@ title: OpenAI introduces GeneBench-Pro for AI agents in computational biology
 date: '2026-06-30'
 source: OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/introducing-genebench-pro/
+url_status: repaired
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: fd8d2d19dbe3f35be397166e8fa50418b17888336aa70a244aa651572ea241d2
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-embedding_id: null
+embedding_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 event_name: ''
 ---
 

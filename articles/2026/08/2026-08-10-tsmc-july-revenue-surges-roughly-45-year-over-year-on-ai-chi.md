@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 event_name: ''
 ---
 

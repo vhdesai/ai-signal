@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-08-24-lancium-partners-with-nvidia-on-gigawatt-scale-ai-factories
-embedding_id: null
+embedding_id: 2026-09-26-lg-electronics-qualifies-2-6-mw-cooling-distribution-unit-fo
 event_name: ''
 ---
 

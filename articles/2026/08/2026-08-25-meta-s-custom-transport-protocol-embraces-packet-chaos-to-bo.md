@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-25-meta-s-custom-transport-protocol-embraces-packet-chaos-to-bo
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
-embedding_id: null
+embedding_id: 2026-10-13-facebook-gives-users-more-ai-powered-control-over-their-algo
 event_name: ''
 ---
 

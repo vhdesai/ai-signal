@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
 event_name: ''
 ---
 

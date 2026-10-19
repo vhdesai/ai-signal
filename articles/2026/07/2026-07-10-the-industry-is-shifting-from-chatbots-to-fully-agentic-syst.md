@@ -4,8 +4,8 @@ title: The industry is shifting from chatbots to fully agentic systems
 date: '2026-07-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://autophone.org/en/articles/from-chatbots-to-agentic-ai-the-2026-operations-shift-3cf67535-0343-428b-beba-9572149cdd8b
+url_status: repaired
 digest_source: digests\raw\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md
 content_hash: d1d7e85f6d29945014f69022803f94a7542ee5226ee3d4b5f47d9eb6d18956e7
 normalized_title_hash: 311614aaa12a9aa5
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 - 2026-09-23-1-agentic-ai-is-becoming-mainstream-e-g-muse-gpt-6-claude-op
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-embedding_id: null
+embedding_id: 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference
 event_name: ''
 ---
 

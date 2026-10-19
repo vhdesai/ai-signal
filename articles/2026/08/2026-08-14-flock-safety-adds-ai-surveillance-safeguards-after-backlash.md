@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-flock-safety-faces-bipartisan-backlash-as-ai-surveillance-be
 - 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
-embedding_id: null
+embedding_id: 2026-08-14-flock-safety-adds-ai-surveillance-safeguards-after-backlash
 event_name: ''
 ---
 

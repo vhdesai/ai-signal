@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-embedding_id: null
+embedding_id: 2026-09-12-ai-tools-reshape-stock-trading-and-investment-research-in-ch
 event_name: ''
 ---
 

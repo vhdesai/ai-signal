@@ -4,8 +4,8 @@ title: Google DeepMind Previews AI-Enabled Pointer — Contextual Computing Rein
 date: '2026-05-14'
 source: YourStory / Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://opendatascience.com/google-deepmind-reimagines-the-mouse-pointer-for-the-ai-era/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: d5730dfce5e650346e095ad1cccf84ca01ae435b05ff6df027421d628c0b74c4
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-introduces-an-ai-enabled-mouse-pointer-power
 - 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
 - 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
-embedding_id: null
+embedding_id: 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 event_name: ''
 ---
 

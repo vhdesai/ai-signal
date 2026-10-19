@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 - 2026-05-18-sensetime-co-founder-lin-dahua-told-cnbc-that-the-u-s-sancti
 - 2026-09-15-bytedance-h1-profit-drops-to-20b-on-ai-spending-revenue-up-3
-embedding_id: null
+embedding_id: 2026-09-07-sensetime-returns-to-profit-as-it-pivots-from-model-size-rac
 event_name: ''
 ---
 

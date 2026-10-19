@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo
 - 2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg
+- 2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-- 2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint
-embedding_id: null
+embedding_id: 2026-09-30-ted-cruz-blocks-a-senate-bill-that-would-have-created-a-fede
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A Senate bill sponsored by a group of Democrats to establish enforceable AI safe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]] · [[2026-09-04-u-s-lawmakers-propose-a-permanent-ban-on-artificial-superint]]
+**Related:** [[2026-09-14-senate-drafts-ai-duty-of-care-bill-that-could-block-risky-mo]] · [[2026-09-12-thune-cruz-and-klobuchar-move-ai-safety-from-voluntary-pledg]] · [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to]] · [[2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego]]
 <!-- graph:end -->

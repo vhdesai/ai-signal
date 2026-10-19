@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-zoom-ai-companion-degradation-in-u-s-region-resolved-after-o
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig
 event_name: ''
 ---
 

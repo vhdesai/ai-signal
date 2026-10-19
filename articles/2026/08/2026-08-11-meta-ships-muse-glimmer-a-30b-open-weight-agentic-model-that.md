@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that
 event_name: ''
 ---
 

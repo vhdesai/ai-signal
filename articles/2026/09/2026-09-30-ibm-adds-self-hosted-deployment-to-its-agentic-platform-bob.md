@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 - 2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-embedding_id: null
+embedding_id: 2026-09-30-ibm-adds-self-hosted-deployment-to-its-agentic-platform-bob
 event_name: ''
 ---
 

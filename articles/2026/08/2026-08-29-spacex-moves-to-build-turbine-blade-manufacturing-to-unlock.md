@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-musk-bets-on-in-house-turbine-casting-to-accelerate-ai-power
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-compute-carries-en
 - 2026-08-30-musk-s-faster-path-to-gas-turbines-for-ai-power-carries-a-po
-embedding_id: null
+embedding_id: 2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock
 event_name: ''
 ---
 

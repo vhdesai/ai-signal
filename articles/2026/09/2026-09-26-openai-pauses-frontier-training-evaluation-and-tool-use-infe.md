@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-28-openai-pauses-training-evaluation-and-tool-use-on-its-most-c
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
 - 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
-embedding_id: null
+embedding_id: 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
 event_name: ''
 ---
 

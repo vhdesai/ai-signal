@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-embedding_id: null
+embedding_id: 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
 event_name: ''
 ---
 

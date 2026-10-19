@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-09-21-alibaba-qwen-releases-qwen-image-2-1-a-7b-model-for-image-ge
-embedding_id: null
+embedding_id: 2026-09-07-alibaba-releases-qwen-drive-1-0-a-unified-perception-and-pla
 event_name: ''
 ---
 

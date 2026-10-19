@@ -4,8 +4,8 @@ title: Five Eyes nations urge “careful adoption” of AI agents
 date: '2026-05-04'
 source: WSJ Pro Cybersecurity / CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-cisa-agentic-ai-guidance-20260503-csa-styl/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 40ae9797ee33bf7aa95f2bb3288bcc97089e3f7d4b8f1871ef4715a5214c1631
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
-embedding_id: null
+- 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
+embedding_id: 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Cybersecurity authorities across the Five Eyes alliance issued joint guidance wa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]]
+**Related:** [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]]
 <!-- graph:end -->

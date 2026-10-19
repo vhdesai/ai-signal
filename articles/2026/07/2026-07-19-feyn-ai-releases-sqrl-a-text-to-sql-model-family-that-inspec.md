@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
+embedding_id: 2026-07-19-feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspec
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ MarkTechPost reports that Feyn AI released SQRL, a text-to-SQL model family desi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]]
 <!-- graph:end -->

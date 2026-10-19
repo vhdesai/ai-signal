@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
-embedding_id: null
+embedding_id: 2026-08-23-gpu-neocloud-comparison-ranks-coreweave-nebius-lambda-crusoe
 event_name: ''
 ---
 

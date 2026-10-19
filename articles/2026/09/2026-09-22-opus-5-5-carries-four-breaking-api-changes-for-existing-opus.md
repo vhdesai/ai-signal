@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud
-embedding_id: null
+embedding_id: 2026-09-22-opus-5-5-carries-four-breaking-api-changes-for-existing-opus
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: Stanford Report
 url_original: https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages
 url_canonical: https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061741_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 2199e7d41d4249ce6d579849f55fedb4a31bc6c36e8f7b028b06305591062428
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-09-23-claude-autonomously-identified-a-novel-crispr-like-enzyme-sy
 - 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
-embedding_id: null
+embedding_id: 2026-08-06-stanford-s-evo-2-model-designs-a-functional-bacteriophage-th
 event_name: ''
 ---
 

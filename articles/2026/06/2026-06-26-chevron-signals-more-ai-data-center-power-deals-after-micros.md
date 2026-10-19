@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: null
+embedding_id: 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 event_name: ''
 ---
 

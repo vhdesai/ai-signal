@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
-embedding_id: null
+embedding_id: 2026-10-12-blueprint-ai-says-it-can-generate-permit-ready-construction
 event_name: ''
 ---
 

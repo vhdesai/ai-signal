@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
 - 2026-09-13-china-says-it-will-create-an-open-source-ai-development-plat
 - 2026-09-21-nvidia-highlights-clean-energy-ai-use-cases-from-grid-interc
-embedding_id: null
+embedding_id: 2026-05-22-china-s-ai-maps-its-entire-renewable-energy-grid-a-strategic
 event_name: ''
 ---
 

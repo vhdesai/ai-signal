@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-ibm-and-together-ai-sign-240m-deal-for-an-nvidia-powered-inf
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-ibm-and-together-ai-sign-240m-nvidia-powered-inference-deal
 event_name: ''
 ---
 

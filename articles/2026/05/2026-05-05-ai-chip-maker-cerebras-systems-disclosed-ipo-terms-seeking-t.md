@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
 - 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
-embedding_id: null
+embedding_id: 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 event_name: ''
 ---
 

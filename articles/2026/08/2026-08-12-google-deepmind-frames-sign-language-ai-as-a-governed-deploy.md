@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-google-deepmind-ships-sl2t-sign-language-translation-into-an
 - 2026-08-12-google-deepmind-ships-sign-language-translation-to-android-p
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-embedding_id: null
+embedding_id: 2026-08-12-google-deepmind-frames-sign-language-ai-as-a-governed-deploy
 event_name: ''
 ---
 

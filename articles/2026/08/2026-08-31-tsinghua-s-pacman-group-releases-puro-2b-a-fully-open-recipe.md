@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-tsinghua-s-pacman-group-publishes-puro-2b-a-full-pretraining
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-tsinghua-s-pacman-group-releases-puro-2b-a-fully-open-recipe
 event_name: ''
 ---
 

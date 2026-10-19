@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-15-google-gemini-spark-autonomous-agent-leaks-ahead-of-i-o-2026
 event_name: ''
 ---
 

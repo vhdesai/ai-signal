@@ -5,7 +5,7 @@ date: '2026-09-17'
 source: OpenAI
 url_original: https://openai.com/index/astra-for-law/
 url_canonical: https://openai.com/index/astra-for-law/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-19_060730_Inbox_Daily AI News Digest - September
   19, 2026.md
 content_hash: b2f5b39beb6d8fb7b97350fd9d966048b94daab0072de90df123199da84d63d9
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-17-openai-ships-astra-for-law-a-gpt-6-configuration-for-legal-w
 - 2026-09-17-openai-ships-astra-for-law-a-gpt-6-astra-configuration-for-l
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
-embedding_id: null
+embedding_id: 2026-09-17-openai-launches-astra-for-law-with-a-230-million-url-legal-s
 event_name: ''
 ---
 

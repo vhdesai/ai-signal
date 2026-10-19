@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-jeff-dean-and-senior-google-ai-researchers-depart-to-launch
 - 2026-08-05-jeff-dean-and-three-senior-google-researchers-leave-to-found
 - 2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover
-embedding_id: null
+embedding_id: 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
 event_name: ''
 ---
 

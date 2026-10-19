@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-21-microsoft-and-mistral-expand-partnership-for-regulated-indus
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
-embedding_id: null
+embedding_id: 2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d
 event_name: ''
 ---
 

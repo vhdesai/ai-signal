@@ -5,8 +5,8 @@ title: MIT News / BAIR / CMU • April 17–19, 2026 Academic labs posted new wo
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ipc.mit.edu/wp-content/uploads/2026/04/Humans_in_the_Loop_short_r03M.pdf
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: f741a3a316123cbdbd679b218eedfe52cb09989174c3997737e0e12f0641c762
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-22-academic-research
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
-embedding_id: null
+embedding_id: 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 event_name: ''
 ---
 

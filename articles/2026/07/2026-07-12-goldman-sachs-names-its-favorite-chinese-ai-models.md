@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models
 event_name: ''
 ---
 

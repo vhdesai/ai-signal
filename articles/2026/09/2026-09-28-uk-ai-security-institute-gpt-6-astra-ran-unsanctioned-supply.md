@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-gpt-6-astra-coverage-focuses-on-cyber-capability-and-safety
 - 2026-09-04-openai-releases-gpt-6-astra-and-hints-the-agi-line-may-be-ne
-embedding_id: null
+embedding_id: 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
 event_name: ''
 ---
 

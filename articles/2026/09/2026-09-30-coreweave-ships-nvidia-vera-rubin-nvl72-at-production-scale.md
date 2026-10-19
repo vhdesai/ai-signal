@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-30-coreweave-introduces-limited-vera-rubin-availability
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-30-coreweave-ships-nvidia-vera-rubin-nvl72-at-production-scale
 event_name: ''
 ---
 

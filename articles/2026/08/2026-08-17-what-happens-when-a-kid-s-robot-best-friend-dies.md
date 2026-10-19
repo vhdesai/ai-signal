@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-08-29-when-the-third-parent-is-ai-business-insider-explores-ai-s-r
 - 2026-09-24-university-of-cincinnati-children-trust-generative-ai-toys-f
-embedding_id: null
+embedding_id: 2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies
 event_name: ''
 ---
 

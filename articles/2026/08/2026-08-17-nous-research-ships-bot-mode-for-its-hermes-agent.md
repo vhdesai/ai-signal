@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
 - 2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode
-embedding_id: null
+embedding_id: 2026-08-17-nous-research-ships-bot-mode-for-its-hermes-agent
 event_name: ''
 ---
 

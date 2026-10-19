@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-01-the-information-briefing-microsoft-s-exodus-ryan-roslansky-a
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
-embedding_id: null
+embedding_id: 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
 event_name: ''
 ---
 

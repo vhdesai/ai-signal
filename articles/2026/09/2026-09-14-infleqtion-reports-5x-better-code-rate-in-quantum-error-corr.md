@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-develo
 - 2026-09-14-nvidia-adds-cuda-q-logical-for-fault-tolerant-quantum-codesi
 - 2026-09-14-nvidia-expands-cuda-q-to-fault-tolerant-quantum-processors
-embedding_id: null
+embedding_id: 2026-09-14-infleqtion-reports-5x-better-code-rate-in-quantum-error-corr
 event_name: ''
 ---
 

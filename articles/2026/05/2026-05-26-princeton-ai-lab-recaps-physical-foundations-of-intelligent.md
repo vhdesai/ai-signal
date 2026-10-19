@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-09-13-princeton-and-ucla-mathematicians-press-for-norms-on-ai-assi
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
-embedding_id: null
+embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord
 - 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-embedding_id: null
+embedding_id: 2026-06-30-california-signs-anthropic-deal-giving-state-and-local-agenc
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-30-eu-delays-high-risk-ai-act-deadlines-and-bans-non-consensual
 - 2026-08-01-minnesota-nudify-app-ban-remains-in-effect-after-judge-denie
 - 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
-embedding_id: null
+embedding_id: 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
 event_name: ''
 ---
 

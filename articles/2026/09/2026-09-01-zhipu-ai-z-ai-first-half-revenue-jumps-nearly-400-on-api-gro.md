@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-31-z-ai-first-half-revenue-rises-nearly-fivefold-but-misses-tar
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
-embedding_id: null
+embedding_id: 2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro
 event_name: ''
 ---
 

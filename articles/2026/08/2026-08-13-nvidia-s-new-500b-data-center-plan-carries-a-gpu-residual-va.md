@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
 related_article_ids:
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
-embedding_id: null
+embedding_id: 2026-08-13-nvidia-s-new-500b-data-center-plan-carries-a-gpu-residual-va
 event_name: ''
 ---
 

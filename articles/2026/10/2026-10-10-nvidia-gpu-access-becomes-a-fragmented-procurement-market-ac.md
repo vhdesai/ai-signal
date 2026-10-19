@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
-embedding_id: null
+embedding_id: 2026-10-10-nvidia-gpu-access-becomes-a-fragmented-procurement-market-ac
 event_name: ''
 ---
 

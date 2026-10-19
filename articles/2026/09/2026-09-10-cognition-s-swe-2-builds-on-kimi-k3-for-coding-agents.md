@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-cognition-s-swe-2-matches-frontier-coding-scores-at-64-lower
 - 2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64
 - 2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo
-embedding_id: null
+embedding_id: 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
 event_name: ''
 ---
 

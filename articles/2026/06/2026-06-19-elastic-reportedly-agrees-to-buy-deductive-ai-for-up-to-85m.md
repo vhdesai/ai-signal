@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-openai-and-anthropic-data-demand-turns-startups-slack-thread
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
-embedding_id: null
+embedding_id: 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 event_name: ''
 ---
 

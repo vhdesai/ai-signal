@@ -4,8 +4,8 @@ title: Secretive defense-tech factory highlights AI-adjacent drone manufacturing
 date: '2026-07-11'
 source: DealBook
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.geekwire.com/2026/echodyne-opens-40m-radar-factory-near-seattle-to-meet-booming-demand-for-drone-detection/
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 4c5e99c17ef450580ec3da7126a7b271657ff6592e95f52369475ef688598f01
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
 - 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
 - 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
-embedding_id: null
+embedding_id: 2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone
 event_name: ''
 ---
 

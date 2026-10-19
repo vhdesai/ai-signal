@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-08-30-openai-received-5-5b-in-sb-energy-warrants-ahead-of-softbank
 - 2026-08-31-sb-energy-granted-openai-5-5b-in-warrants-to-secure-a-20-yea
-embedding_id: null
+embedding_id: 2026-08-31-the-5-5-billion-perk-softbank-s-data-center-venture-offered
 event_name: ''
 ---
 

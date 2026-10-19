@@ -5,8 +5,8 @@ title: The All England Club rolled out new IBM-built AI features across the Wimb
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-06-22-wimbledon-and-ibm-introduce-new-ai-powered-fan-experiences-and-modernized-digital-platforms-for-the-championships-2026
+url_status: repaired
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 3b1652577af51dc99f9124f5620c326da67f7c75867562dc6687217ef19c9152
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-12-fortune-reports-ibm-has-deployed-ai-limb-tracking-at-the-us
 - 2026-09-12-ibm-deploys-ai-limb-tracking-at-the-us-open
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-embedding_id: null
+embedding_id: 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
 event_name: ''
 ---
 

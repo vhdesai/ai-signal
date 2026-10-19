@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-08-26-softbank-weighs-a-10-20b-bond-sale-to-refinance-its-openai-p
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
-embedding_id: null
+embedding_id: 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
 event_name: ''
 ---
 

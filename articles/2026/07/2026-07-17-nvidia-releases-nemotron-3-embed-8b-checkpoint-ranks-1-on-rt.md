@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
-embedding_id: null
+embedding_id: 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 event_name: ''
 ---
 

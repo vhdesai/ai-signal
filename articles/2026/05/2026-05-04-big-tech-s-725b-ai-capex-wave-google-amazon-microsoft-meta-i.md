@@ -4,8 +4,8 @@ title: 'Big Tech''s $725B AI Capex Wave: Google, Amazon, Microsoft & Meta in 202
 date: '2026-05-04'
 source: Invezz / MSN
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4b24ec0f26ad6906dcb3d80060c3b03875245e96533d08d3db63464811d93965
@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 event_name: ''
 ---
 

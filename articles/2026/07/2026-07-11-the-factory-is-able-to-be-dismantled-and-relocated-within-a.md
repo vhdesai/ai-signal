@@ -18,7 +18,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-11-the-factory-is-able-to-be-dismantled-and-relocated-within-a
 event_name: ''
 ---
 

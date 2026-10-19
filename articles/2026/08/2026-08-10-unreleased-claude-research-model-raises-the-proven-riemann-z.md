@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-unreleased-claude-research-model-raises-the-proven-riemann-z
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-bank-of-england-governor-warns-frontier-ai-models-raise-syst
 - 2026-08-31-financial-stability-board-chair-flags-ai-cyber-risk-as-immed
 - 2026-05-08-the-international-monetary-fund-issued-a-formal-warning-on-m
-embedding_id: null
+embedding_id: 2026-08-31-bank-of-england-s-bailey-warns-g20-that-frontier-ai-threaten
 event_name: ''
 ---
 

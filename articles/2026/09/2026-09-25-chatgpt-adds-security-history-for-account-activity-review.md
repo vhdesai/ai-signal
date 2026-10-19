@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-08-07-gpt-5-6-sol-becomes-the-chatgpt-default-for-paid-users
-embedding_id: null
+embedding_id: 2026-09-25-chatgpt-adds-security-history-for-account-activity-review
 event_name: ''
 ---
 

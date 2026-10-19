@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-10-12-uk-regains-pre-release-access-to-openai-and-anthropic-models
 - 2026-09-09-anthropic-withheld-claude-mythos-5-1-from-the-uk-ai-security
-embedding_id: null
+embedding_id: 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 event_name: ''
 ---
 

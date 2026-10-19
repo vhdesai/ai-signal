@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-specifically-fo
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
-embedding_id: null
+embedding_id: 2026-08-06-cloudflare-introduces-kitesurf-an-agent-first-browser-runnin
 event_name: ''
 ---
 

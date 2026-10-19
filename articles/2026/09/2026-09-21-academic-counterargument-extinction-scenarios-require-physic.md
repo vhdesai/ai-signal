@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
-embedding_id: null
+embedding_id: 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 event_name: ''
 ---
 

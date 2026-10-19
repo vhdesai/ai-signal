@@ -5,8 +5,8 @@ title: Huawei projects its AI chip revenue will grow 60% to approximately $12 bi
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero
+url_status: repaired
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 5071328bbcf2f7f75b86542a9ec67bfaf50884e1e61443d660d1fea40cf99c2f
@@ -32,7 +32,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
-embedding_id: null
+embedding_id: 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 event_name: ''
 ---
 

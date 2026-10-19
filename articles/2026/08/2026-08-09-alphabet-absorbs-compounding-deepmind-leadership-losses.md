@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-alphabet-absorbs-compounding-deepmind-leadership-losses-gemi
-embedding_id: null
+embedding_id: 2026-08-09-alphabet-absorbs-compounding-deepmind-leadership-losses
 event_name: ''
 ---
 

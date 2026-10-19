@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-us-and-china-agree-to-a-formal-super-intelligence-dialogue
 event_name: ''
 ---
 

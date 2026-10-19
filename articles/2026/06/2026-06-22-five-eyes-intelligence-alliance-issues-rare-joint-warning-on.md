@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 - 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
-embedding_id: null
+embedding_id: 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: null
+embedding_id: 2026-04-10-anthropic-s-decision-to-develop-but-withhold-claude-mythos-f
 event_name: ''
 ---
 

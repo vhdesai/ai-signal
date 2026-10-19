@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-ibm-plunges-25-on-q2-warning-as-enterprise-budgets-pivot-to
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-ibm-plunges-about-25-on-q2-warning-as-enterprise-budgets-piv
 event_name: ''
 ---
 

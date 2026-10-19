@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-softbank-seeks-another-10b-loan-backed-by-its-openai-stake
 - 2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest
 - 2026-09-21-softbank-plans-11b-in-risky-bonds-to-fund-another-openai-sta
-embedding_id: null
+embedding_id: 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 event_name: ''
 ---
 

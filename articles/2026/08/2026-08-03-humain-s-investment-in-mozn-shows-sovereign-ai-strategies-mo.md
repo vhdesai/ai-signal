@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-02-humain-and-amd-launch-a-10-billion-ai-infrastructure-ecosyst
 - 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-embedding_id: null
+embedding_id: 2026-08-03-humain-s-investment-in-mozn-shows-sovereign-ai-strategies-mo
 event_name: ''
 ---
 

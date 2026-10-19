@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 - 2026-08-15-ai-capital-concentration-increasingly-defines-the-market-pit
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-embedding_id: null
+embedding_id: 2026-07-31-ai-leaders-dominate-venture-secondary-trading-but-concentrat
 event_name: ''
 ---
 

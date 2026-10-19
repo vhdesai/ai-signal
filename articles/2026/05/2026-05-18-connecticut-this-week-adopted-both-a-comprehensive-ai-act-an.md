@@ -5,8 +5,8 @@ title: Connecticut this week adopted both a Comprehensive AI Act and an AI Respo
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.pag.law/publications/connecticut-cart-act-comprehensive-ai-regulation
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 32d542de1c7221afd2dc26ec4d5746fded5e119ce96dc31e34bfcde91996916f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
-embedding_id: null
+embedding_id: 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
 event_name: ''
 ---
 

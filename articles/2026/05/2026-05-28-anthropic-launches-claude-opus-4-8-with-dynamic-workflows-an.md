@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
 - 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 - 2026-07-24-anthropic-launches-claude-opus-5-as-a-cheaper-agent-focused
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 event_name: ''
 ---
 

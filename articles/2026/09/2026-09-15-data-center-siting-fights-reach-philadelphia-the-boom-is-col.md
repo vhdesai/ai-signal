@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
-embedding_id: null
+embedding_id: 2026-09-15-data-center-siting-fights-reach-philadelphia-the-boom-is-col
 event_name: ''
 ---
 

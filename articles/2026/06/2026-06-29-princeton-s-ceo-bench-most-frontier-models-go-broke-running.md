@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running
 event_name: ''
 ---
 

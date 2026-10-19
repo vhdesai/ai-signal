@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-08-25-openai-announces-new-security-safeguards-after-internal-mode
 - 2026-08-26-openai-publishes-official-hugging-face-breach-postmortem
-embedding_id: null
+embedding_id: 2026-08-21-openai-slows-frontier-training-and-adds-safeguards-after-hug
 event_name: ''
 ---
 

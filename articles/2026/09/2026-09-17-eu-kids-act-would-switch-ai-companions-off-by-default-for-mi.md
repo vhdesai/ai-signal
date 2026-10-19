@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-al
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
 event_name: ''
 ---
 

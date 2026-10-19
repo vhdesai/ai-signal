@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-12-anthropic-threat-report-names-five-distinct-misuse-patterns
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-09-10-anthropic-details-eight-months-of-claude-misuse-and-four-con
-embedding_id: null
+embedding_id: 2026-09-10-anthropic-publishes-its-most-detailed-misuse-casebook-weapon
 event_name: ''
 ---
 

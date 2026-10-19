@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-insurers-say-hospital-ai-tools-added-942m-to-healthcare-spen
 event_name: ''
 ---
 

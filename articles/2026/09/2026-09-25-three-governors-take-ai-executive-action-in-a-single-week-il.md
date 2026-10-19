@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 - 2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc
 - 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
-embedding_id: null
+embedding_id: 2026-09-25-three-governors-take-ai-executive-action-in-a-single-week-il
 event_name: ''
 ---
 

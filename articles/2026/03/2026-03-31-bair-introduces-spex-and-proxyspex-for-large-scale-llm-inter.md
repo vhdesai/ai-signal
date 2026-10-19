@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-embedding_id: null
+embedding_id: 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 event_name: ''
 ---
 

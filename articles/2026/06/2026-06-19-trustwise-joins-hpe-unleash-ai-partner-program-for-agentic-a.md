@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
-embedding_id: null
+embedding_id: 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
 event_name: ''
 ---
 

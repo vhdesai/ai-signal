@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
-embedding_id: null
+embedding_id: 2026-05-27-indian-government-infosys-tcs-join-anthropic-s-project-glass
 event_name: ''
 ---
 

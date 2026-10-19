@@ -26,7 +26,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-embedding_id: null
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 event_name: Microsoft Build 2026 Preview
 ---
 

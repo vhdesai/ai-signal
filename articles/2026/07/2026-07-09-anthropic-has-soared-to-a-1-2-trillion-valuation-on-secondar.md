@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-anthropic-reportedly-weighing-2t-ipo-valuation-secondary-mar
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-embedding_id: null
+embedding_id: 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
 event_name: ''
 ---
 

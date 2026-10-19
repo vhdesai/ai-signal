@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-ai-data-center-demand-is-squeezing-memory-for-android-phones
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-ai-s-memory-crunch-hits-android-google-sets-new-app-memory-l
 event_name: ''
 ---
 

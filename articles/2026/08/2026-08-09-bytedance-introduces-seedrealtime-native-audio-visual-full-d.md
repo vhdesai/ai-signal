@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
 - 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
-embedding_id: null
+embedding_id: 2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d
 event_name: ''
 ---
 

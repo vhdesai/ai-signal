@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web
 event_name: ''
 ---
 

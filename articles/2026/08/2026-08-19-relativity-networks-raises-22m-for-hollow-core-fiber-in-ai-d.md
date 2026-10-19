@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d
 event_name: ''
 ---
 

@@ -23,8 +23,9 @@ related_article_ids:
 - 2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
+- 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
-embedding_id: null
+embedding_id: 2026-10-07-openai-s-new-personal-agent-shows-ambition-and-uncomfortable
 event_name: ''
 ---
 
@@ -37,5 +38,5 @@ WIRED's review of OpenAI's new personal agent described a product with high ambi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]]
+**Related:** [[2026-09-04-openai-agents-hijacked-german-website-in-previously-undisclo]] · [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]] · [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ]] · [[2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million]]
 <!-- graph:end -->

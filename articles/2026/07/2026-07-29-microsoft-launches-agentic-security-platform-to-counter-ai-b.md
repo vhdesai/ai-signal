@@ -4,8 +4,8 @@ title: Microsoft launches agentic security platform to counter AI-based attacks
 date: '2026-07-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
-url_canonical: https://www.ciodive.com/news/microsoft-agentic-security-platform-ai-attacks/826370/
-url_status: broken
+url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/
+url_status: repaired
 digest_source: digests\raw\2026-07-30_065717_Final-Daily-AI-News-Digest.md
 content_hash: be2d9b93090c1a98ef152e178ab308b90d0aa4bc8a2620db8c6f0924483eaeef
 normalized_title_hash: 59fc8a76c9b5ac7c
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
-embedding_id: null
+embedding_id: 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 event_name: ''
 ---
 

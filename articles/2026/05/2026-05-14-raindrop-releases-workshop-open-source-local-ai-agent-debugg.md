@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
-embedding_id: null
+embedding_id: 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 event_name: ''
 ---
 

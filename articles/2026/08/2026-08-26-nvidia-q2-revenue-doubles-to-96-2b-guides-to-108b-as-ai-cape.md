@@ -26,7 +26,7 @@ canonical_article_id: 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-
 related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-108b-shares-slip-a
-embedding_id: null
+embedding_id: 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi
 - 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-embedding_id: null
+embedding_id: 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 event_name: ''
 ---
 

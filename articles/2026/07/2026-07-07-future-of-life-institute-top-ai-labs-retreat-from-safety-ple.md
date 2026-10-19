@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
-embedding_id: null
+embedding_id: 2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple
 event_name: ''
 ---
 

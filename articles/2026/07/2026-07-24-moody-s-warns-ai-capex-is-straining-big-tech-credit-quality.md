@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
-embedding_id: null
+embedding_id: 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 event_name: ''
 ---
 

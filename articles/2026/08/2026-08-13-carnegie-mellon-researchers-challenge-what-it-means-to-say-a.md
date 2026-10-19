@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-17-ai-commoditization-pressures-proprietary-model-economics
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
-embedding_id: null
+embedding_id: 2026-08-13-carnegie-mellon-researchers-challenge-what-it-means-to-say-a
 event_name: ''
 ---
 

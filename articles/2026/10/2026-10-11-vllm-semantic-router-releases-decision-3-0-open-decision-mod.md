@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-10-microsoft-releases-decision-1-a-qwen3-5-9b-decision-scoring
 - 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 - 2026-10-06-openai-opens-a-decisions-api-for-structured-model-outputs
-embedding_id: null
+embedding_id: 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t
-embedding_id: null
+embedding_id: 2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
 - 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
-embedding_id: null
+embedding_id: 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 event_name: ''
 ---
 

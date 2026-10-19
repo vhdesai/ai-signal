@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
-embedding_id: null
+embedding_id: 2026-08-12-google-s-gemini-app-crosses-1-billion-monthly-active-users
 event_name: ''
 ---
 

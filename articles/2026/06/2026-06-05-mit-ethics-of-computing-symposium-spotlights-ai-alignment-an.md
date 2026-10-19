@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 event_name: ''
 ---
 

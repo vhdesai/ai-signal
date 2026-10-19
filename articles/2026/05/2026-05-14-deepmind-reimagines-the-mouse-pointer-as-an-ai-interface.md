@@ -4,8 +4,8 @@ title: DeepMind Reimagines the Mouse Pointer as an AI Interface
 date: '2026-05-14'
 source: Google DeepMind Blog / TechBooky
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/ai-pointer/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 2b8ff53df023c6cb1b2011abff2e88febeafbd84d79ed9c78bb3fcca3547cab6
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
 - 2026-05-14-google-deepmind-introduces-an-ai-enabled-mouse-pointer-power
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
-embedding_id: null
+embedding_id: 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
 event_name: ''
 ---
 

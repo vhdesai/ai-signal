@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 - 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
-embedding_id: null
+embedding_id: 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Microsoft GitHub's AI lead is eroding, per The Information
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marketscreener.com/news/microsoft-executives-warn-that-github-s-ai-lead-is-eroding-the-information-reports-ce7f5adadf81ff23
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 4e51656b16fce155977d1538ef5c5071c9115c64ed51f8075f95a7a725be190c
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
-embedding_id: null
+embedding_id: 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
 event_name: ''
 ---
 

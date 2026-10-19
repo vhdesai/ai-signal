@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
 - 2026-08-12-anthropic-text-watermarks-trigger-ongoing-user-backlash
 - 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
-embedding_id: null
+embedding_id: 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
 event_name: ''
 ---
 

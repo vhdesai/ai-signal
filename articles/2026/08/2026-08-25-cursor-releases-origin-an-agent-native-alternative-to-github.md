@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-18-cursor-capitalizes-on-github-frustration-launches-rival-host
 - 2026-08-17-cursor-launches-origin-code-hosting-as-a-github-outage-hits
-embedding_id: null
+embedding_id: 2026-08-25-cursor-releases-origin-an-agent-native-alternative-to-github
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-microsoft-publishes-its-2026-responsible-ai-transparency-rep
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 - 2026-10-05-microsoft-copilot-in-word-adds-answer-provenance-aws-demonst
-embedding_id: null
+embedding_id: 2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and
 event_name: ''
 ---
 

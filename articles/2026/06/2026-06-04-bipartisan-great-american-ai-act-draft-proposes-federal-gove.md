@@ -5,8 +5,8 @@ title: Bipartisan "Great American AI Act" Draft Proposes Federal Governance Fram
 date: '2026-06-04'
 source: Politico; FedScoop; Nextgov/FCW
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fedscoop.com/bipartisan-great-american-ai-act-draft-proposes-new-federal-ai-governance-framework/
+url_status: repaired
 digest_source: digests\raw\2026-06-05_060001_Daily-AI-News-Digest.md
 content_hash: 58f0e8e897b2d590ed8a66979e7d62b96ba9c087b39bcb250681cf64baf5cfbb
 normalized_title_hash: 43501734b73562ee
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-09-14-us-senate-begins-drafting-duty-of-care-ai-bill-with-model-re
-embedding_id: null
+embedding_id: 2026-06-04-bipartisan-great-american-ai-act-draft-proposes-federal-gove
 event_name: ''
 ---
 

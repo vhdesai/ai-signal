@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99b
 - 2026-09-04-nvidia-s-disclosed-equity-portfolio-reaches-99-billion
-embedding_id: null
+embedding_id: 2026-08-14-nvidia-13f-reveals-21b-spacex-and-30b-intel-positions
 event_name: ''
 ---
 

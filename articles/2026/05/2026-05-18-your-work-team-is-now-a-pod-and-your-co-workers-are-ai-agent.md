@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business
+- 2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-07-29-ai-shifts-mainframe-modernization-strategy
-- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-embedding_id: null
+embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ WSJ profiled enterprises restructuring teams around “pods” that intermix hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
+**Related:** [[2026-07-31-uber-deploys-agentic-pods-sending-ai-engineers-into-business]] · [[2026-10-15-new-research-reports-that-personal-ai-agents-can-help-networ]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-07-29-ai-shifts-mainframe-modernization-strategy]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-situational-awareness-sells-most-of-its-public-portfolio-aft
 event_name: ''
 ---
 

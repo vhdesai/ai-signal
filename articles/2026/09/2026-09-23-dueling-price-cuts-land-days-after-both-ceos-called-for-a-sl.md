@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-06-11-openai-considers-drastic-price-cuts-to-compete-with-anthropi
 - 2026-08-18-openai-q2-sales-show-tepid-growth-compared-with-anthropic
-embedding_id: null
+embedding_id: 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 event_name: ''
 ---
 

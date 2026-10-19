@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
 - 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 - 2026-08-26-nvidia-posts-record-96-2b-quarter-guides-to-70-revenue-growt
-embedding_id: null
+embedding_id: 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-09-01-google-pics-targets-canva-and-adobe-with-a-prompt-first-desi
 - 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
-embedding_id: null
+embedding_id: 2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us
 event_name: ''
 ---
 

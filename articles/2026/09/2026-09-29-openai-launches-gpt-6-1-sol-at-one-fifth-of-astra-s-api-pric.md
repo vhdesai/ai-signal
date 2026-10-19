@@ -5,7 +5,7 @@ date: '2026-09-29'
 source: OpenAI
 url_original: https://openai.com/index/introducing-gpt-6-1-sol
 url_canonical: https://openai.com/index/introducing-gpt-6-1-sol
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-10-02_061216_Inbox_Daily AI News Digest – October
   2, 2026.md
 content_hash: bf16008d8cc9bd8e8f508647aa4ffc5033cdea361a2d050b88e0416ccd9242ad
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-openai-launches-gpt-6-sol-and-luna-at-roughly-half-the-token
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
-embedding_id: null
+embedding_id: 2026-09-29-openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-s-api-pric
 event_name: ''
 ---
 

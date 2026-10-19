@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a
 - 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
-embedding_id: null
+embedding_id: 2026-08-13-google-announces-gemini-3-7-flash-three-weeks-after-its-prev
 event_name: ''
 ---
 

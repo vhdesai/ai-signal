@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-nvidia-announces-new-vera-cpu-and-groq-lpx-rack-customers
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-07-21-nvidia-details-vera-cpu-for-ai-agent-workloads
-embedding_id: null
+embedding_id: 2026-08-25-nvidia-announces-new-customers-for-vera-cpu-and-groq-lpx-rac
 event_name: ''
 ---
 

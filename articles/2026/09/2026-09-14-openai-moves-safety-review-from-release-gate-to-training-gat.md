@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-28-openai-publishes-safety-case-guidelines-gating-frontier-rein
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 - 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-failure
-embedding_id: null
+embedding_id: 2026-09-14-openai-moves-safety-review-from-release-gate-to-training-gat
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-13-meta-quietly-rebuilds-ai-management-layers-after-its-flatten
 - 2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap
 - 2026-08-24-luke-metz-leaves-openai-for-meta-superintelligence-labs
-embedding_id: null
+embedding_id: 2026-08-21-meta-fair-researcher-zeyuan-allen-zhu-departs-after-four-yea
 event_name: ''
 ---
 

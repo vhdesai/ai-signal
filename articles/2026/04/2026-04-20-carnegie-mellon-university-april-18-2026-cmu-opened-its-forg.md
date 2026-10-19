@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-embedding_id: null
+embedding_id: 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 event_name: ''
 ---
 

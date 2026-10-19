@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-the-ipo-s-big-demotion-blue-collar-tech-drives-deals
 event_name: ''
 ---
 

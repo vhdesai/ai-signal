@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-29-meta-launches-muse-for-small-business-with-shopify-quickbook
 - 2026-09-09-meta-ships-muse-a-consumer-ai-agent-with-payment-email-and-s
 - 2026-09-08-meta-launches-muse-a-consumer-personal-agent-with-payment-an
-embedding_id: null
+embedding_id: 2026-09-29-meta-launches-muse-for-small-business-with-connectors-to-sla
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-02-tencent-backed-enflame-draws-6-000x-retail-oversubscription
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-02-tencent-backed-enflame-s-ipo-draws-4-073-times-retail-demand
 event_name: ''
 ---
 

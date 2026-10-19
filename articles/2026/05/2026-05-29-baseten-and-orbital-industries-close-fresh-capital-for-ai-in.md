@@ -4,8 +4,8 @@ title: Baseten and Orbital Industries close fresh capital for AI inference and c
 date: '2026-05-29'
 source: Industry coverage
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.orbitalindustries.com/news/press/orbital-industries-series-b-50-million
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 32a4390a5dd6f168a8a5a8844df7fed8e1fd9801512404b9185067cea1ee314c
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-08-21-starcloud-raises-250-million-for-orbital-ai-data-centers
-embedding_id: null
+embedding_id: 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 event_name: ''
 ---
 

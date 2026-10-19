@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-05-chatgpt-adds-visual-advertising-tests-and-measurement-capabi
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-09-05-campaigns-use-ai-generated-ads-despite-chatgpt-restrictions
-embedding_id: null
+embedding_id: 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 event_name: ''
 ---
 

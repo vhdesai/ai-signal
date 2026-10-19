@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
-embedding_id: null
+embedding_id: 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
 event_name: ''
 ---
 

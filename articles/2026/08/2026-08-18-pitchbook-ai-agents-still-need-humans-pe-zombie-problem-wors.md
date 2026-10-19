@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 - 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
-embedding_id: null
+embedding_id: 2026-08-18-pitchbook-ai-agents-still-need-humans-pe-zombie-problem-wors
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
-embedding_id: null
+embedding_id: 2026-09-13-skyworth-showcases-all-in-one-ai-home-hub-powered-by-amlogic
 event_name: ''
 ---
 

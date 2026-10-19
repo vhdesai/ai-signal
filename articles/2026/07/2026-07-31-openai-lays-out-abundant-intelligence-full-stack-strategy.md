@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/building-abundant-intelligence/
 url_canonical: https://openai.com/index/building-abundant-intelligence/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_061707_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: 2b52a98fd94fb3fab352123c419852813eb04c92d6a84cd343d9116e90df1554
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
-embedding_id: null
+embedding_id: 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 event_name: ''
 ---
 

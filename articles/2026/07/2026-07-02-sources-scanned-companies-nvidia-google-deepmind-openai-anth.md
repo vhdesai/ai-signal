@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op
 - 2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
 - 2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
-embedding_id: null
+embedding_id: 2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth
 event_name: ''
 ---
 

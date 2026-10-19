@@ -28,7 +28,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-05-google-in-advanced-talks-for-a-1-5b-deal-with-ai-coding-star
-embedding_id: null
+embedding_id: 2026-09-12-google-deepmind-acqui-hires-mechanize-ai-talent-in-reported
 event_name: ''
 ---
 

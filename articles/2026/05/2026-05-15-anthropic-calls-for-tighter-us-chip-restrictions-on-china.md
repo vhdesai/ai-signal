@@ -4,8 +4,8 @@ title: Anthropic Calls for Tighter US Chip Restrictions on China
 date: '2026-05-15'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: d1052e05a35eb451e162d023202962256e2c7bbecc1c12aaa9144e367819efd3
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
-embedding_id: null
+embedding_id: 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 event_name: ''
 ---
 

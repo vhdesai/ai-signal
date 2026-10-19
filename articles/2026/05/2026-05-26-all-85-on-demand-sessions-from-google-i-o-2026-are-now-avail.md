@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-embedding_id: null
+embedding_id: 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
 event_name: ''
 ---
 

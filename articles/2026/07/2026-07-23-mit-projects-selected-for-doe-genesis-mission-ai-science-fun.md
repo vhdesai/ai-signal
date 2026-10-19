@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-google-commits-40-million-in-ai-credits-to-the-genesis-missi
 - 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 - 2026-09-02-from-mit-to-ibm-expediting-ai-and-quantum-deployment
-embedding_id: null
+embedding_id: 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 event_name: ''
 ---
 

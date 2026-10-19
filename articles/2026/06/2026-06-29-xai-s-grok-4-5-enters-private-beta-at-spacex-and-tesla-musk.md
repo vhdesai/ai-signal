@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 - 2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: null
+embedding_id: 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 event_name: ''
 ---
 

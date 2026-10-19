@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-embedding_id: null
+embedding_id: 2026-10-06-south-korea-commits-3-49b-to-build-a-homegrown-frontier-mode
 event_name: ''
 ---
 

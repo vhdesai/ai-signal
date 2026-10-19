@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-nvidia-s-12-9b-hugging-face-deal-shows-why-ipos-are-now-opti
 event_name: ''
 ---
 

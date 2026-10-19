@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-11-deezer-launches-free-ai-music-detector-across-streaming-plat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-11-deezer-launches-free-ai-music-detector-for-spotify-apple-mus
 event_name: ''
 ---
 

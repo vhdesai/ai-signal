@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-20-carnegie-mellon-university-april-18-2026-cmu-opened-its-forg
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
-embedding_id: null
+embedding_id: 2026-07-28-carnegie-mellon-brings-middle-schoolers-into-robotics-throug
 event_name: ''
 ---
 

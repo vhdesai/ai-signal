@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
 - 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 - 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
-embedding_id: null
+embedding_id: 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 event_name: ''
 ---
 

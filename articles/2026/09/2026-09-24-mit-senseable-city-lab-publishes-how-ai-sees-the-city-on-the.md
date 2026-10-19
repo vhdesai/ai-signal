@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-mit-researchers-assess-the-promise-and-peril-of-visual-ai-fo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-mit-senseable-city-lab-publishes-how-ai-sees-the-city-on-the
 event_name: ''
 ---
 

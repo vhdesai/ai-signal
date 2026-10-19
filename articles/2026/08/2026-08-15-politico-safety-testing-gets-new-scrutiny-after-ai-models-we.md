@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
-embedding_id: null
+embedding_id: 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 event_name: ''
 ---
 

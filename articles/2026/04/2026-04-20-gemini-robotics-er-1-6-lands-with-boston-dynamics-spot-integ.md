@@ -4,8 +4,8 @@ title: Gemini Robotics-ER 1.6 Lands With Boston Dynamics Spot Integration
 date: '2026-04-20'
 source: Google DeepMind / The Robot Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.therobotreport.com/boston-dynamics-and-google-deepmind-are-using-gemini-to-make-spot-smarter/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 381170412cbfe968cda92ac34311575a11439d0fa772a7de74f403c6ea407ba7
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2
 - 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
-embedding_id: null
+embedding_id: 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 event_name: ''
 ---
 

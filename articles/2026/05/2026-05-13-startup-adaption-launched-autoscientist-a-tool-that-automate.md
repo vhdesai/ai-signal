@@ -5,8 +5,8 @@ title: Startup Adaption launched AutoScientist, a tool that automates the proces
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://adaptionlabs.ai/blog/autoscientist
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b8762822fc64374f5e0cd51e67836b8fe3c852daaee39aa28e566e5b5bb73040
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-08-21-autofigure-agentic-document-pipelines-for-generating-scienti
-embedding_id: null
+embedding_id: 2026-05-13-startup-adaption-launched-autoscientist-a-tool-that-automate
 event_name: ''
 ---
 

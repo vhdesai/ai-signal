@@ -4,8 +4,8 @@ title: Decart Raises $300M at ~$4B Valuation for Real-Time Generative Video Hot
 date: '2026-05-18'
 source: Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://en.globes.co.il/en/article-decart-raises-300m-including-nvidia-investment-report-1001543260
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 8d969be92c50df380c39a5ad88a00cbf5f01fde3c9ed11f23b0f750d8949a8c3
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
 - 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
-embedding_id: null
+embedding_id: 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
 event_name: ''
 ---
 

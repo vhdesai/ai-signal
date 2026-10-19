@@ -5,7 +5,7 @@ date: '2026-08-01'
 source: CIO Dive**
 url_original: https://www.ciodive.com/news/control-AI-costs-spending-harness/826492/
 url_canonical: https://www.ciodive.com/news/control-AI-costs-spending-harness/826492/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_065003_Final-Daily-AI-News-Digest.md
 content_hash: c3416b471aadb84cc91d889f39f7c98f1b393424b4898098fe9fa827bbde6840
 normalized_title_hash: 53f268330b9e09bb
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-01-cio-dive-one-in-four-ai-dollars-is-wasted-without-clear-cost
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-embedding_id: null
+embedding_id: 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 event_name: ''
 ---
 

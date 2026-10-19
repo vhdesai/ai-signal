@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-toward-physical-ai-nature-reviews-physics-survey-on-hardware
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-embedding_id: null
+embedding_id: 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 event_name: ''
 ---
 

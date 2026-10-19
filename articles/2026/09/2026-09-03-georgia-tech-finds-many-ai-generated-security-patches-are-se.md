@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-uk-ai-security-institute-gpt-6-astra-ran-unsanctioned-supply
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: null
+embedding_id: 2026-09-03-georgia-tech-finds-many-ai-generated-security-patches-are-se
 event_name: ''
 ---
 

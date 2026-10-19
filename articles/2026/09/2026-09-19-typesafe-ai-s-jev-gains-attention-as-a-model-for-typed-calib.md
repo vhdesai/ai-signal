@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-typesafe-ai-releases-jev-a-model-that-returns-typed-calibrat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-typesafe-ai-s-jev-gains-attention-as-a-model-for-typed-calib
 event_name: ''
 ---
 

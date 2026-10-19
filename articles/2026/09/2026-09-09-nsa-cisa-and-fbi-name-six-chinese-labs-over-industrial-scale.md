@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-22-china-s-cyberspace-administration-probes-deepseek-and-moonsh
 - 2026-09-22-china-s-cac-opens-probe-into-deepseek-and-moonshot-over-anth
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-embedding_id: null
+embedding_id: 2026-09-09-nsa-cisa-and-fbi-name-six-chinese-labs-over-industrial-scale
 event_name: ''
 ---
 

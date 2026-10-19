@@ -5,8 +5,8 @@ title: Quantum-computing company Quantinuum disclosed plans in an SEC filing to 
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thequantuminsider.com/2026/05/26/honeywell-backed-quantinuum-files-for-landmark-quantum-ipo/
+url_status: repaired
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 4bb3885add3d86271d7a5bd3f804748c2b1a050e59d2bae59b63c1dd1071beaa
@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 - 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
-embedding_id: null
+embedding_id: 2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s
 event_name: ''
 ---
 

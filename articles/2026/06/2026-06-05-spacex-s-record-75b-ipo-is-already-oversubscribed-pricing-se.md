@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 event_name: ''
 ---
 

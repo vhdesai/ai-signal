@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-05-trendingopenai-gpt-5-5-instant-becomes-chatgpt-s-universal-d
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
-embedding_id: null
+embedding_id: 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
 event_name: ''
 ---
 

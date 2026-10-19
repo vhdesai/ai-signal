@@ -4,8 +4,8 @@ title: Apple Intelligence is approved for China with Alibaba's Qwen AI
 date: '2026-07-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/
+url_status: repaired
 digest_source: digests\raw\2026-07-16-daily-ai-news-digest.md
 content_hash: c97688c36644b2c8f88f86becabda1d61e7e1733b1205b8ab5f10c346bcdad7b
 normalized_title_hash: d7b921a298ac3e72
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-15-apple-receives-approval-for-alibaba-powered-ai-service-in-ch
 - 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 - 2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved
-embedding_id: null
+embedding_id: 2026-07-15-apple-intelligence-is-approved-for-china-with-alibaba-s-qwen
 event_name: ''
 ---
 

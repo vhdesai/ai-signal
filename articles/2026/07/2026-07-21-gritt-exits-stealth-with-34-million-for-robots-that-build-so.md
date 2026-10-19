@@ -4,8 +4,8 @@ title: Gritt exits stealth with $34 million for robots that build solar plants
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
+url_status: repaired
 digest_source: digests\raw\2026-07-21-daily-ai-news-digest.md
 content_hash: 15841529aa09348e44bd01ecc1063f6f57ee10bffb705b5a006ceb29bdf1fc82
 normalized_title_hash: bf6f64ce5af36eeb
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 - 2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp
 - 2026-08-30-caterpillar-applies-mining-automation-lessons-to-enterprise
-embedding_id: null
+embedding_id: 2026-07-21-gritt-exits-stealth-with-34-million-for-robots-that-build-so
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-20-robots-rewiring-construction
 - 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - 2026-08-18-google-says-its-ai-can-automate-forward-deployed-engineers-w
-embedding_id: null
+embedding_id: 2026-08-30-caterpillar-is-bringing-to-ai-deployment-what-it-learned-fro
 event_name: ''
 ---
 

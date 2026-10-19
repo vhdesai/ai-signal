@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
-embedding_id: null
+embedding_id: 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
 event_name: ''
 ---
 

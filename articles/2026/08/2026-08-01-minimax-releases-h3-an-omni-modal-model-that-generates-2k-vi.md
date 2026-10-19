@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-01-minimax-releases-h3-an-omni-modal-video-model-with-native-st
 - 2026-08-01-minimax-releases-h3-an-omni-modal-video-model-for-15-second
 - 2026-07-31-china-s-minimax-releases-h3-multimodal-video-model
-embedding_id: null
+embedding_id: 2026-08-01-minimax-releases-h3-an-omni-modal-model-that-generates-2k-vi
 event_name: ''
 ---
 

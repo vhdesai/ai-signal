@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
-embedding_id: null
+embedding_id: 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-14-buildots-raises-130m-at-a-near-1b-valuation-on-data-center-c
 - 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-embedding_id: null
+embedding_id: 2026-09-14-buildots-raises-130m-as-ai-data-center-construction-becomes
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-09-subject-daily-ai-news-digest-october-9-2026
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-26-bill-gates-warns-about-ai-risks
-embedding_id: null
+embedding_id: 2026-08-14-tesla-fsd-eliminates-speeding-tickets-in-real-world-testing
 event_name: ''
 ---
 

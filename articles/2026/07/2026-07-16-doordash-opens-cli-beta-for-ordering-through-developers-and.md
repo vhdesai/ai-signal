@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
-embedding_id: null
+embedding_id: 2026-07-16-doordash-opens-cli-beta-for-ordering-through-developers-and
 event_name: ''
 ---
 

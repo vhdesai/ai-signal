@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 - 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
-embedding_id: null
+embedding_id: 2026-09-02-kkr-backs-10b-ai-infrastructure-venture-helix-digital-infras
 event_name: ''
 ---
 

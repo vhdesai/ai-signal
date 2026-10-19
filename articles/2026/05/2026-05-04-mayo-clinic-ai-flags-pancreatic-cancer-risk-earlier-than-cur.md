@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-embedding_id: null
+embedding_id: 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
 event_name: ''
 ---
 

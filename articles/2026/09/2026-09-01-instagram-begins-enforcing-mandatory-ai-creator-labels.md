@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-01-instagram-to-limit-reach-of-undisclosed-ai-influencers
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
-embedding_id: null
+embedding_id: 2026-09-01-instagram-begins-enforcing-mandatory-ai-creator-labels
 event_name: ''
 ---
 

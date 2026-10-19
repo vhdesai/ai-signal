@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices
 - 2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri
 - 2026-09-24-deepseek-s-annualized-revenue-crosses-1b-after-price-hikes-t
-embedding_id: null
+embedding_id: 2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i
 event_name: ''
 ---
 

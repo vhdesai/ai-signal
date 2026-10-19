@@ -5,7 +5,7 @@ date: '2026-08-29'
 source: OpenAI
 url_original: https://openai.com/collective-cyberdefense/
 url_canonical: https://openai.com/collective-cyberdefense/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-29_060713_Inbox_Daily AI News Digest - August 29,
   2026.md
 content_hash: c0ecd9c2ccb3179105f9df2119b7327096523b9ee51a122b118cacf3c627a77a
@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-openai-renews-call-for-collective-cyber-defense
 - 2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru
-embedding_id: null
+embedding_id: 2026-08-29-openai-calls-for-collective-action-on-cyber-defense
 event_name: ''
 ---
 

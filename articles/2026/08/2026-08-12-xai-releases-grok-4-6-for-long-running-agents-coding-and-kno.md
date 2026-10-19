@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-12-xai-ships-grok-4-6-with-500k-context-reaching-parity-with-gp
 - 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
-embedding_id: null
+embedding_id: 2026-08-12-xai-releases-grok-4-6-for-long-running-agents-coding-and-kno
 event_name: ''
 ---
 

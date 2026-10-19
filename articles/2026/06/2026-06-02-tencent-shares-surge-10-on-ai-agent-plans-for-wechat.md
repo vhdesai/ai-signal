@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-02-tencent-shares-jump-10-on-ai-agent-plans-for-wechat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 event_name: ''
 ---
 

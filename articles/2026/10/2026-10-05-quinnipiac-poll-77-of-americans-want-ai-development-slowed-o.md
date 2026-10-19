@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 - 2026-08-19-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
 - 2026-08-18-survey-85-of-companies-burned-by-an-ai-mistake-are-cutting-h
-embedding_id: null
+embedding_id: 2026-10-05-quinnipiac-poll-77-of-americans-want-ai-development-slowed-o
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
-embedding_id: null
+embedding_id: 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-08-31-big-tech-booked-more-than-160-billion-in-paper-gains-from-ai
 - 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
-embedding_id: null
+embedding_id: 2026-08-14-121-billion-in-one-time-gains-boosting-big-tech-profits
 event_name: ''
 ---
 

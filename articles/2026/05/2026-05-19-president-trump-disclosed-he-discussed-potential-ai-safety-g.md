@@ -11,8 +11,8 @@ title: President Trump disclosed he discussed potential AI safety guardrails wit
 date: '2026-05-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070632_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 496686c49877fd33ca7cc9696cbe44d907d643f9bf1c81100a62d28e622a1887
@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
 - 2026-05-18-the-pentagon-signed-ai-contracts-with-spacex-openai-google-m
-embedding_id: null
+embedding_id: 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
 event_name: ''
 ---
 

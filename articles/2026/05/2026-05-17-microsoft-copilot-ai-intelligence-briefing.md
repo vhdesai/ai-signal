@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-09-12-saturday-september-12-2026
-embedding_id: null
+embedding_id: 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 - 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
-embedding_id: null
+embedding_id: 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
 event_name: ''
 ---
 

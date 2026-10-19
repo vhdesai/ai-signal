@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights
-embedding_id: null
+embedding_id: 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 event_name: ''
 ---
 

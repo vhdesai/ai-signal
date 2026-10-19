@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - 2026-09-22-kyutai-s-voice-of-reason-applies-rl-to-spoken-math-nearly-tr
-embedding_id: null
+embedding_id: 2026-09-26-sarvam-ai-releases-saaras-v4-covering-all-22-scheduled-india
 event_name: ''
 ---
 

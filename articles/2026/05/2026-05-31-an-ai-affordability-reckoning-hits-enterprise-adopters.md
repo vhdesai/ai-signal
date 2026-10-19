@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-embedding_id: null
+embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a
 event_name: ''
 ---
 

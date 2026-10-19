@@ -4,8 +4,8 @@ title: NVIDIA and South Korea outline full-stack AI collaboration
 date: '2026-07-24'
 source: NVIDIA Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
+url_status: repaired
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 47a950d67523c7307a51b58ca1f6d78ce9dfd138e2ac0503149aedf013adeaba
 normalized_title_hash: 3336821e26fc78c9
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 event_name: ''
 ---
 

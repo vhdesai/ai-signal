@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
-embedding_id: null
+embedding_id: 2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation
 event_name: ''
 ---
 

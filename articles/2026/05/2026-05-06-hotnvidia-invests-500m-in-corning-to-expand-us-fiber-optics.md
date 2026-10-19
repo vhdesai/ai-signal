@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 - 2026-08-19-relativity-networks-raises-22m-for-hollow-core-fiber-in-ai-d
 - 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
-embedding_id: null
+embedding_id: 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 event_name: ''
 ---
 

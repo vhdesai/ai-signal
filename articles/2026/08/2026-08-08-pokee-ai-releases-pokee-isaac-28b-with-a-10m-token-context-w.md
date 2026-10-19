@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-08-pokee-ai-launches-isaac-28b-10-million-token-context-single
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-08-pokee-ai-releases-pokee-isaac-28b-with-a-10m-token-context-w
 event_name: ''
 ---
 

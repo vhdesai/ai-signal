@@ -5,8 +5,8 @@ title: Anthropic's next-generation flagship, Claude Mythos, remains restricted t
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aieatingtheworld.com/articles/claude-mythos-project-glasswing-expansion
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: fc6ad150396e8238809ca499e315e0b14f6886e7ccdd815ef8adfda90957d692
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r
 event_name: ''
 ---
 

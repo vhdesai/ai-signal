@@ -37,7 +37,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 event_name: ''
 ---
 

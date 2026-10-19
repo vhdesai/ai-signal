@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu
 event_name: ''
 ---
 

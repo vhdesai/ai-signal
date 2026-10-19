@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-anthropic-ships-claude-opus-5-5-at-20-lower-token-price-40-l
 - 2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe
 - 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
-embedding_id: null
+embedding_id: 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 event_name: ''
 ---
 

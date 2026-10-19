@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-05-llamaindex-published-legal-kb-a-public-reference-application
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app
 event_name: ''
 ---
 

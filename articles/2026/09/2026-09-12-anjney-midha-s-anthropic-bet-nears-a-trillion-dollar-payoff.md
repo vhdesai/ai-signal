@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar
-embedding_id: null
+embedding_id: 2026-09-12-anjney-midha-s-anthropic-bet-nears-a-trillion-dollar-payoff
 event_name: ''
 ---
 

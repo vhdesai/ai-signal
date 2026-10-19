@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million
 - 2026-08-24-xpeng-s-robotics-arm-raises-900m-at-a-6-3b-valuation-in-its
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
-embedding_id: null
+embedding_id: 2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising
 event_name: ''
 ---
 

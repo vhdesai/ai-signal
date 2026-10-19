@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 - 2026-09-02-ipronics-raises-125-million-for-programmable-optical-network
-embedding_id: null
+embedding_id: 2026-08-19-relativity-networks-raises-22-million-for-hollow-core-fiber
 event_name: ''
 ---
 

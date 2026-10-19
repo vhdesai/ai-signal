@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Windows, local agents, and developer devices'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.microsoft.com/build-2026/
+url_status: repaired
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 3a5d2ee6c3bee0d52a94950c5fea29740da43a638c91f676ad6b63c199777e2a
 normalized_title_hash: 6522f8a6d0ccb56a
@@ -30,8 +30,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 - 2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2
-- 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
-embedding_id: null
+- 2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi
+embedding_id: event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
 event_name: Microsoft Build 2026
 ---
 
@@ -44,5 +44,5 @@ Surface RTX Spark Dev Box: New compact AI developer box powered by NVIDIA RTX Sp
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
+**Related:** [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-06-03-microsoft-and-nvidia-unveil-surface-rtx-spark-dev-box-maia-2]] · [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
-embedding_id: null
+embedding_id: 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 event_name: ''
 ---
 

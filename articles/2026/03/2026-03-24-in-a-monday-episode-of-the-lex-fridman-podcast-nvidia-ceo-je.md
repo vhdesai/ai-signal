@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 - 2026-09-07-openai-s-astra-ships-and-reignites-the-agi-has-arrived-debat
-embedding_id: null
+embedding_id: 2026-03-24-in-a-monday-episode-of-the-lex-fridman-podcast-nvidia-ceo-je
 event_name: ''
 ---
 

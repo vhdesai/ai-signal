@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-rokid-opens-fully-self-service-ai-glasses-flagship-store-in
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 - 2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall
-- 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
-embedding_id: null
+embedding_id: 2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Rokid, a global smart eyewear manufacturer, announced it will integrate Google's
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]]
+**Related:** [[2026-10-18-rokid-opens-fully-self-service-ai-glasses-flagship-store-in]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-09-15-meta-to-ship-camera-free-luna-smart-glasses-this-fall]]
 <!-- graph:end -->

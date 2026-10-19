@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-18-openai-expanded-its-codex-agentic-coding-assistant-to-mobile
-embedding_id: null
+embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 event_name: ''
 ---
 

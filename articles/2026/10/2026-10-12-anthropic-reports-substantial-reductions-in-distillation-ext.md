@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
-embedding_id: null
+embedding_id: 2026-10-12-anthropic-reports-substantial-reductions-in-distillation-ext
 event_name: ''
 ---
 

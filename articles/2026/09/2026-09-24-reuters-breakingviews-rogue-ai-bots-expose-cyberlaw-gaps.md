@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
-embedding_id: null
+embedding_id: 2026-09-24-reuters-breakingviews-rogue-ai-bots-expose-cyberlaw-gaps
 event_name: ''
 ---
 

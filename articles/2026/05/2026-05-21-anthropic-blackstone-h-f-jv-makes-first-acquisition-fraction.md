@@ -4,8 +4,8 @@ title: 'Anthropic–Blackstone–H&F JV Makes First Acquisition: Fractional AI B
 date: '2026-05-21'
 source: Bloomberg / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-21/anthropic-s-new-consulting-venture-makes-its-first-acquisition
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 9308de966c4af8c3f624f1d7f8af1268ce5ff053468a0127a7727f41c54ca0cc
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
 - 2026-08-20-anthropic-s-enterprise-ai-joint-venture-acquires-consultancy
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
-embedding_id: null
+embedding_id: 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
 event_name: ''
 ---
 

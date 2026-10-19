@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
-embedding_id: null
+embedding_id: 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-07-21-jack-dorsey-s-buzz-puts-humans-and-ai-agents-in-the-same-wor
-embedding_id: null
+embedding_id: 2026-09-02-adobe-is-making-its-tools-available-in-slack
 event_name: ''
 ---
 

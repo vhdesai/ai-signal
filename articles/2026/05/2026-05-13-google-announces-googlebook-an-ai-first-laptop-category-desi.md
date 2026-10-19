@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
 - 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
-embedding_id: null
+embedding_id: 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 event_name: ''
 ---
 

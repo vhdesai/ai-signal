@@ -4,8 +4,8 @@ title: OpenAI Moves Toward Product-Specific Ads on ChatGPT
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: f452c1abd9510646d8bb2d242f7a94f92b05fcc576a5350f5cade4f6c683ec0d
 normalized_title_hash: 640bf979b2e85f04
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-embedding_id: null
+embedding_id: 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-19-more-than-100-researchers-including-geoffrey-hinton-demand-e
 - 2026-09-18-anthropic-and-accenture-commit-1b-each-to-embedded-model-eva
-embedding_id: null
+embedding_id: 2026-09-18-accenture-pick-draws-scrutiny-as-the-first-test-of-amodei-s
 event_name: ''
 ---
 

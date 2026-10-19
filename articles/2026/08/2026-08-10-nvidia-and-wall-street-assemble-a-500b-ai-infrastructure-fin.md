@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
 - 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-embedding_id: null
+embedding_id: 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 event_name: ''
 ---
 

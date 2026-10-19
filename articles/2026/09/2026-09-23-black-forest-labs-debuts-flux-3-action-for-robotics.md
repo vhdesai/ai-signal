@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-23-black-forest-labs-debuts-flux-3-action-for-robotics
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 - 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
-embedding_id: null
+embedding_id: 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
 event_name: ''
 ---
 

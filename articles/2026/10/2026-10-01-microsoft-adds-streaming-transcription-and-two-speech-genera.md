@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-10-01-microsoft-launches-streaming-transcription-and-multilingual
 - 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
-embedding_id: null
+embedding_id: 2026-10-01-microsoft-adds-streaming-transcription-and-two-speech-genera
 event_name: ''
 ---
 

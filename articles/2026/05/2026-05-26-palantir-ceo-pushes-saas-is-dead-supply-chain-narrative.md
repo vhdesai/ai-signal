@@ -4,8 +4,8 @@ title: Palantir CEO pushes "SaaS is dead" supply-chain narrative
 date: '2026-05-26'
 source: TheStreet / Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.saasrise.com/news/palantir-declares-saas-is-dead-as-it-targets-supplychain-software-183d1f94-6b49-4f39-95b5-b72600cf405f
+url_status: repaired
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 679aff9f7f6bbdff1062f7d6844ab5ee03b4926db226a489985d309ae7793605
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-30-trump-super-intelligence-lunch-six-labs-sign-a-voluntary-saf
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
-embedding_id: null
+embedding_id: 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
 event_name: ''
 ---
 

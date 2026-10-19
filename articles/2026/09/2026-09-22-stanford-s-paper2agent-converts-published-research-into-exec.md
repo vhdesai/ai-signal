@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-09-22-stanford-s-paper2agent-converts-published-research-into-exec
 event_name: ''
 ---
 

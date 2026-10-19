@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 - 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
-embedding_id: null
+embedding_id: 2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has
 event_name: ''
 ---
 

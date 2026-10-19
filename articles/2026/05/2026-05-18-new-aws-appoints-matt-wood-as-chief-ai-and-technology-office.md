@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 event_name: ''
 ---
 

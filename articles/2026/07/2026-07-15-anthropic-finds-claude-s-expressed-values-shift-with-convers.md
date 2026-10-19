@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-04-04-anthropic-researchers-identified-171-internal-representation
-embedding_id: null
+embedding_id: 2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers
 event_name: ''
 ---
 

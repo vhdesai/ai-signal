@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
 - 2026-09-03-tencent-releases-hy4-preview-an-open-weight-model-trained-on
-embedding_id: null
+embedding_id: 2026-09-29-company-releases-holo4-open-weight-computer-use-models
 event_name: ''
 ---
 

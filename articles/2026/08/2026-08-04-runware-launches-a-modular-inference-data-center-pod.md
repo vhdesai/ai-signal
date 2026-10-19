@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
 - 2026-08-23-the-custom-silicon-behind-waymo-s-robotaxi-economics
 - 2026-08-13-community-labs-launches-cascadia-open-source-distributed-inf
-embedding_id: null
+embedding_id: 2026-08-04-runware-launches-a-modular-inference-data-center-pod
 event_name: ''
 ---
 

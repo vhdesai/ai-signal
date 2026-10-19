@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-10-09-independent-tests-say-mistral-large-4-still-trails-some-chin
 - 2026-10-06-mistral-large-4-is-europe-s-trillion-parameter-answer-to-us
 - 2026-10-06-mistral-previews-large-4-adding-pressure-to-the-open-weight
-embedding_id: null
+embedding_id: 2026-10-06-mistral-debuts-large-4-le-chonk-a-1t-parameter-open-weight-f
 event_name: ''
 ---
 

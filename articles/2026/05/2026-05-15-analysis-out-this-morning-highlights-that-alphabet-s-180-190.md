@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-22-alphabet-s-earnings-show-ai-capex-is-now-a-governance-questi
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-08-20-meta-s-ai-positioning-lags-alphabet-microsoft-and-amazon-as
-embedding_id: null
+embedding_id: 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 event_name: ''
 ---
 

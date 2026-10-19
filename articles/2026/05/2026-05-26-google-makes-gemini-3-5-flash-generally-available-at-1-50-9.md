@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-09-02-google-releases-gemini-3-8-flash-and-a-restricted-cybersecur
 - 2026-09-02-google-ships-gemini-3-8-flash-to-general-availability-plus-a
-embedding_id: null
+embedding_id: 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 event_name: ''
 ---
 

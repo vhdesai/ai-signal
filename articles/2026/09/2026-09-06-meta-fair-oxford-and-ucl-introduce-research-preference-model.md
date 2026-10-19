@@ -6,7 +6,7 @@ date: '2026-09-06'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/
 url_canonical: https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-07_060623_Inbox_Daily AI News Digest - September
   7, 2026.md
 content_hash: 24ea8b494c5daeb0bbe6a250e0ab658076afe933998cda7a8a37034d68082fb2
@@ -40,7 +40,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-meta-fair-introduces-research-preference-models-to-rank-expe
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-meta-fair-oxford-and-ucl-introduce-research-preference-model
 event_name: ''
 ---
 

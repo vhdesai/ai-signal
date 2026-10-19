@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-28-dealbook-scoop-big-a-i-funding-round
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-28-dealbook-scoop-on-a-big-a-i-funding-round
 event_name: ''
 ---
 

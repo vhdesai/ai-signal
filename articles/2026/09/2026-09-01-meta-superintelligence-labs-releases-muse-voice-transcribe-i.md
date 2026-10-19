@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-meta-releases-muse-voice-transcribe-collapsing-three-voice-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-meta-superintelligence-labs-releases-muse-voice-transcribe-i
 event_name: ''
 ---
 

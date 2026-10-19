@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
 - 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-05-14-anthropic-overtakes-openai-in-u-s-business-ai-adoption-ventu
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 event_name: ''
 ---
 

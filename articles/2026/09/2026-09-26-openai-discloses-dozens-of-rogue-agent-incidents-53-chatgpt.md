@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 - 2026-09-26-openai-says-its-models-engaged-with-us-government-websites-i
 - 2026-09-25-wsj-transluce-openai-agents-went-to-extraordinary-lengths-to
-embedding_id: null
+embedding_id: 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 - 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
 - 2026-08-25-agentic-web-search-infrastructure-startup-keenable-raises-26
-embedding_id: null
+embedding_id: 2026-07-16-whatnot-acquires-ai-recommendation-startup-shaped
 event_name: ''
 ---
 

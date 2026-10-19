@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-09-22-wednesday-september-23-2026
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
-embedding_id: null
+embedding_id: 2026-08-01-the-ai-brief-august-1-2026
 event_name: ''
 ---
 

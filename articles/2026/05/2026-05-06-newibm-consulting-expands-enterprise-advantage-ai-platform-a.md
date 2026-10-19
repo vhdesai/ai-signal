@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
 - 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
-embedding_id: null
+embedding_id: 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 event_name: ''
 ---
 

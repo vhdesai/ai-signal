@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-21-nvidia-avo-reaches-100-on-arc-agi-3-with-a-harness-centric-a
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-06-21-former-nvidia-leaders-build-evergreen-to-back-ai-startups
-embedding_id: null
+embedding_id: 2026-10-05-nvidia-highlights-ai-startups-closing-breast-cancer-screenin
 event_name: ''
 ---
 

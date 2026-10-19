@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-openai-anthropic-google-and-xai-hit-simultaneous-service-dis
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-simultaneous-ai-service-outages-expose-correlated-dependency
 event_name: ''
 ---
 

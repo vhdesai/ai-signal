@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 - 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
-embedding_id: null
+embedding_id: 2026-09-17-huawei-details-full-ascend-roadmap-ascend-960dt-pulled-to-q1
 event_name: ''
 ---
 

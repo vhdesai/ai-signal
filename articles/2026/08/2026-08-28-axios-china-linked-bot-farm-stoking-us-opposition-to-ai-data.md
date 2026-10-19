@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-12-openai-accuses-china-of-influence-campaign-to-shape-u-s-atti
 - 2026-07-24-white-house-draws-new-ai-line-on-china
 - 2026-08-16-farmers-become-symbol-of-resistance-to-ai-data-center-land-d
-embedding_id: null
+embedding_id: 2026-08-28-axios-china-linked-bot-farm-stoking-us-opposition-to-ai-data
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-15-anthropic-and-openai-split-on-how-ai-should-be-regulated
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
-embedding_id: null
+embedding_id: 2026-06-03-openai-and-anthropic-jointly-urge-congress-to-regulate-synth
 event_name: ''
 ---
 

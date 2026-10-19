@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-02-academic-research
 - 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
 - 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
-embedding_id: null
+embedding_id: 2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed
 event_name: ''
 ---
 

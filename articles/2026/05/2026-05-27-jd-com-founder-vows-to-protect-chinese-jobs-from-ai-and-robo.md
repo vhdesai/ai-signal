@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot
 - 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
-embedding_id: null
+embedding_id: 2026-05-27-jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robo
 event_name: ''
 ---
 

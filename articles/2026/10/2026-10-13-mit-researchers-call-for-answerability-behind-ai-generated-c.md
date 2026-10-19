@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-13-mit-interview-emphasizes-human-accountability-for-ai-assiste
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-13-mit-researchers-call-for-answerability-behind-ai-generated-c
 event_name: ''
 ---
 

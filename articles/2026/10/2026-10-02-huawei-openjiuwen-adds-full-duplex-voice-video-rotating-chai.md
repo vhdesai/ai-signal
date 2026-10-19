@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round
 - 2026-09-20-huawei-opens-10-000-npu-access-for-ai-developers-at-cloud-co
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
-embedding_id: null
+embedding_id: 2026-10-02-huawei-openjiuwen-adds-full-duplex-voice-video-rotating-chai
 event_name: ''
 ---
 

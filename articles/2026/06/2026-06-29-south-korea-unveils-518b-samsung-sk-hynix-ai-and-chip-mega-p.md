@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
 - 2026-08-07-sk-hynix-approves-54-trillion-won-for-two-new-ai-memory-fabs
-embedding_id: null
+embedding_id: 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 event_name: ''
 ---
 

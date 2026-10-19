@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-07-20-coreweave-s-gpu-expansion-highlights-infrastructure-arms-rac
 - 2026-07-26-alphabet-leans-on-neoclouds-as-it-struggles-to-build-fast-en
-embedding_id: null
+embedding_id: 2026-08-21-gpu-neocloud-comparison-ranks-providers-by-pricing-and-contr
 event_name: ''
 ---
 

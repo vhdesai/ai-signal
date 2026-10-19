@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge
 - 2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate
 - 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
-embedding_id: null
+embedding_id: 2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat
 event_name: ''
 ---
 

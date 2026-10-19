@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n
-embedding_id: null
+embedding_id: 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 event_name: ''
 ---
 

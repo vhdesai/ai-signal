@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-purdue-libraries-and-school-of-information-studies-advance-a
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-09-11-purdue-ai-racing-sets-autonomous-track-record-at-laguna-seca
-embedding_id: null
+embedding_id: 2026-08-26-purdue-ece-leads-4-8m-nsf-project-for-ai-powered-disaster-re
 event_name: ''
 ---
 

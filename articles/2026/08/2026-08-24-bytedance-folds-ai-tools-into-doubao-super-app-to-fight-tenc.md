@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-bytedance-folds-trae-and-coze-into-doubao-to-challenge-tence
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-07-05-bytedance-and-alibaba-pull-ai-companion-features-ahead-of-ch
-embedding_id: null
+embedding_id: 2026-08-24-bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tenc
 event_name: ''
 ---
 

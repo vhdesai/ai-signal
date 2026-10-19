@@ -4,8 +4,8 @@ title: NVIDIA Partners with David Silver's Ineffable Intelligence to Build RL "S
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 912e9bb75abf41b7f682c54332f355df52884e299b1fee4c7a18e9795b1a5c3f
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 - 2026-07-27-nvidia-to-take-5b-stake-in-ilya-sutskever-s-safe-superintell
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
-embedding_id: null
+embedding_id: 2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t
 event_name: ''
 ---
 

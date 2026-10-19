@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-03-snowflake-lifts-fy27-product-revenue-outlook-to-6-07b-as-ai
 - 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
-embedding_id: null
+embedding_id: 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 event_name: ''
 ---
 

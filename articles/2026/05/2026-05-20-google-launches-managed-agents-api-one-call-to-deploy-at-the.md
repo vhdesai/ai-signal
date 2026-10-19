@@ -5,8 +5,8 @@ title: Google Launches Managed Agents API — One Call to Deploy, at the Cost of
 date: '2026-05-20'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 561425882b7ae2956a9360c99d071326d748f4f653e734093398989230f34223
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-09-10-openai-opens-the-agents-api-in-public-beta
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
-embedding_id: null
+embedding_id: 2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the
 event_name: ''
 ---
 

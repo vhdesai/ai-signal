@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
-embedding_id: null
+embedding_id: 2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and
 event_name: ''
 ---
 

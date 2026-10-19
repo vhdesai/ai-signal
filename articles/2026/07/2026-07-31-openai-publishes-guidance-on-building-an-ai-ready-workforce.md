@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
-embedding_id: null
+embedding_id: 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
 event_name: ''
 ---
 

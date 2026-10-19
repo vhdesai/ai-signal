@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
-embedding_id: null
+embedding_id: 2026-07-27-enigma-raises-71-million-to-make-robot-control-intuitive
 event_name: ''
 ---
 

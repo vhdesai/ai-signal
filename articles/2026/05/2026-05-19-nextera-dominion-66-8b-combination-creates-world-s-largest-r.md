@@ -5,8 +5,8 @@ title: NextEra–Dominion $66.8B Combination Creates World's Largest Regulated E
 date: '2026-05-19'
 source: PitchBook News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/05-18-2026-123054903
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 2dc1a13e0c80280be1b2b7b84e7ed81605009a1277f99fc95b1af724cea3e6c3
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 - 2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe
 - 2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont
-embedding_id: null
+embedding_id: 2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r
 event_name: ''
 ---
 

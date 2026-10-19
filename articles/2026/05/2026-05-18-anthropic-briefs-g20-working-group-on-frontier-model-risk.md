@@ -4,8 +4,8 @@ title: Anthropic briefs G20 working group on frontier-model risk
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiweekly.co/alerts/anthropic-briefs-g20-watchdog-on-mythos-cyber-risks
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 0629047279c9769820e16c8bd9f1e77e5ce5379aea80075eb4dfa3cc6d376672
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 event_name: ''
 ---
 

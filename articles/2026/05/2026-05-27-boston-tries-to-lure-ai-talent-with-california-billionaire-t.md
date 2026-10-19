@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-japan-s-preferred-networks-seeks-an-ipo-to-fund-chip-mass-pr
 - 2026-08-29-how-tax-alpha-mania-took-over-silicon-valley
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-embedding_id: null
+embedding_id: 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
 event_name: ''
 ---
 

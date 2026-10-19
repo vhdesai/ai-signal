@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode
 - 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-embedding_id: null
+embedding_id: 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 event_name: ''
 ---
 

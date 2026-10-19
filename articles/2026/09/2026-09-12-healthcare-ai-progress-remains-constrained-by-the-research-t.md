@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-screening
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
-embedding_id: null
+embedding_id: 2026-09-12-healthcare-ai-progress-remains-constrained-by-the-research-t
 event_name: ''
 ---
 

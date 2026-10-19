@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
 - 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
-embedding_id: null
+embedding_id: 2026-09-24-alphafold-database-adds-predicted-protein-complexes-for-more
 event_name: ''
 ---
 

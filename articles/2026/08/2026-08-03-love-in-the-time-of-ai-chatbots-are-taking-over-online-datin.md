@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
-embedding_id: null
+embedding_id: 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-07-17-xai-launches-grok-4-5-for-coding-agents-and-knowledge-work
 - 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
-embedding_id: null
+embedding_id: 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
 event_name: ''
 ---
 

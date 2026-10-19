@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-09-21-daily-ai-news-digest-september-22-2026
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
-embedding_id: null
+embedding_id: 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 event_name: ''
 ---
 

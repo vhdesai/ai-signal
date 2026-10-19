@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-microsoft-consolidates-copilot-into-a-single-enterprise-ai-p
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-09-25-microsoft-rebuilds-copilot-around-a-new-autopilot-agent-swit
-embedding_id: null
+embedding_id: 2026-07-29-uk-cma-investigates-microsoft-over-copilot-linked-microsoft
 event_name: ''
 ---
 

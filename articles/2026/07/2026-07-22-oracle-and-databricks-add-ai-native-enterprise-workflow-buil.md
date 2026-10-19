@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 - 2026-08-01-aws-announced-a-preview-of-an-agentic-catalog-experience-in
-embedding_id: null
+embedding_id: 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 event_name: ''
 ---
 

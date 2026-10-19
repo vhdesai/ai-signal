@@ -4,8 +4,8 @@ title: 'SenseNova-U1: SenseTime''s NEO-Unify Native Multimodal Architecture'
 date: '2026-05-12'
 source: arXiv / SenseTime
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.12500
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 59898b1aad0fa1b394c73fc19cc8172a548c508488862c1d4d25ba1ee0924571
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-embedding_id: null
+embedding_id: 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 event_name: ''
 ---
 

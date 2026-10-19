@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-helsinki-s-verda-raises-189m-becoming-europe-s-newest-ai-clo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-verda-raises-189m-series-b-becomes-europe-s-newest-ai-cloud
 event_name: ''
 ---
 

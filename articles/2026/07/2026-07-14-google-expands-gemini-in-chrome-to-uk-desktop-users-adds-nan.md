@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-embedding_id: null
+embedding_id: 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 event_name: ''
 ---
 

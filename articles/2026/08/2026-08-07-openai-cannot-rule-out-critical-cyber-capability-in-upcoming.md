@@ -6,7 +6,7 @@ date: '2026-08-07'
 source: OpenAI
 url_original: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
 url_canonical: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-08_060927_Inbox_Daily AI News Digest - August 8,
   2026.md
 content_hash: 7b5c142acabed6fd7d4f76bd9c62b0c36c57d6a71426bc56a59c8149cd5ddf24
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-07-openai-pauses-parts-of-astra-model-development-after-crossin
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 - 2026-08-07-openai-pauses-astra-after-first-ever-critical-cyber-risk-cla
-embedding_id: null
+embedding_id: 2026-08-07-openai-cannot-rule-out-critical-cyber-capability-in-upcoming
 event_name: ''
 ---
 

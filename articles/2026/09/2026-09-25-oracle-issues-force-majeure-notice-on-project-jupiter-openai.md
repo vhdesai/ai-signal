@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-oracle-invokes-force-majeure-on-the-2-45gw-project-jupiter-a
-embedding_id: null
+embedding_id: 2026-09-25-oracle-issues-force-majeure-notice-on-project-jupiter-openai
 event_name: ''
 ---
 

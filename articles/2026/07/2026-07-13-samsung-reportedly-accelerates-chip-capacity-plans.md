@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
 - 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 - 2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me
-embedding_id: null
+embedding_id: 2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir
-embedding_id: null
+embedding_id: 2026-09-24-fervo-delivers-first-power-from-cape-station-the-first-utili
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-anthropic-s-ipo-prospectus-will-test-assumptions-behind-the
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
 - 2026-08-22-anthropic-targets-an-ipo-that-could-match-or-beat-spacex-s-r
-embedding_id: null
+embedding_id: 2026-08-21-anthropic-s-record-setting-ipo-ambitions
 event_name: ''
 ---
 

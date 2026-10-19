@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 - 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-08-05-coreweave-signs-multi-year-storage-agreement-with-solidigm
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-embedding_id: null
+embedding_id: 2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia
 event_name: ''
 ---
 

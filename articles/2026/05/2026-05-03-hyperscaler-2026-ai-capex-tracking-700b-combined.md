@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-04-02-source-all-about-lawyer-the-neuron
-embedding_id: null
+embedding_id: 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 event_name: ''
 ---
 

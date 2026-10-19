@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 event_name: ''
 ---
 

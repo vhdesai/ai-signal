@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-09-13-scmp-us-and-china-are-now-openly-racing-on-self-improving-ai
 - 2026-07-20-alibaba-unveils-new-model-as-chinese-ai-firms-shake-up-silic
-embedding_id: null
+embedding_id: 2026-10-06-china-says-model-fatigue-is-becoming-the-next-ai-competition
 event_name: ''
 ---
 

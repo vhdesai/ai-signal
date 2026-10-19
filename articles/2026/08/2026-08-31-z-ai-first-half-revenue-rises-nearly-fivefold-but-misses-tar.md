@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-31-china-s-zhipu-z-ai-posts-5x-revenue-growth-on-api-and-coding
 - 2026-09-01-zhipu-ai-z-ai-first-half-revenue-jumps-nearly-400-on-api-gro
 - 2026-09-14-z-ai-raises-5b-shares-fall-more-than-10-on-dilution
-embedding_id: null
+embedding_id: 2026-08-31-z-ai-first-half-revenue-rises-nearly-fivefold-but-misses-tar
 event_name: ''
 ---
 

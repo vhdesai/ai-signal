@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-oracle-and-databricks-add-ai-native-enterprise-workflow-buil
 - 2026-07-19-feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspec
 - 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
-embedding_id: null
+embedding_id: 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 event_name: ''
 ---
 

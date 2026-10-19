@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-mistral-releases-shieldstral-a-3b-open-weights-policy-adapti
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-mistral-releases-shieldstral-for-policy-adaptive-safety-scre
 event_name: ''
 ---
 

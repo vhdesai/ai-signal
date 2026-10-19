@@ -4,8 +4,8 @@ title: OpenAI Codex 0.122.0 Ships Broad Platform Update
 date: '2026-04-20'
 source: OpenAI Release Notes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/products/release-notes/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 8ba745975676adb68411643cd0757bf1a12cb42abe1675d23be095f6641853bd
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
 - 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
-embedding_id: null
+embedding_id: 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 event_name: ''
 ---
 

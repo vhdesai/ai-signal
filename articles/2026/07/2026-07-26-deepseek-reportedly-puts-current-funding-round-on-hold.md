@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
-embedding_id: null
+embedding_id: 2026-07-26-deepseek-reportedly-puts-current-funding-round-on-hold
 event_name: ''
 ---
 

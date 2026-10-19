@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-08-28-subject-daily-ai-news-digest-august-28-2026
 - 2026-10-07-subject-daily-ai-news-digest-october-7-2026
-embedding_id: null
+embedding_id: 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 event_name: ''
 ---
 

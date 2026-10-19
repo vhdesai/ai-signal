@@ -5,8 +5,8 @@ title: Researchers at MIT analyzed 809 large language models released between Oc
 date: '2026-04-01'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2602.07238
+url_status: repaired
 digest_source: digests\raw\2026-04-01_084004_Inbox_Daily AI News Digest – April 1,
   2026.md
 content_hash: 6ce4dfea4ece4bccc39f299403fe942508ce2977149379d24af1f1bcc4fe91f6
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-embedding_id: null
+embedding_id: 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 - 2026-09-07-wsj-data-center-backlash-gets-a-partisan-reframe
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-embedding_id: null
+embedding_id: 2026-09-16-wsj-an-ai-slowdown-has-to-happen-regardless-of-safety
 event_name: ''
 ---
 

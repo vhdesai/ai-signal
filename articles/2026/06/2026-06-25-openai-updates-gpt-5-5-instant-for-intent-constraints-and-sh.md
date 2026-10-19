@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-25-openai-updates-gpt-5-5-instant-for-intent-constraints-and-sh
 event_name: ''
 ---
 

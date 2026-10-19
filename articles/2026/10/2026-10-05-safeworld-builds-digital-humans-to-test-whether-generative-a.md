@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
-embedding_id: null
+embedding_id: 2026-10-05-safeworld-builds-digital-humans-to-test-whether-generative-a
 event_name: ''
 ---
 

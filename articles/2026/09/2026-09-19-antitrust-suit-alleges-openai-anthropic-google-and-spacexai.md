@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-15-amodei-s-pace-the-frontier-draws-endorsements-from-altman-mu
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
-embedding_id: null
+embedding_id: 2026-09-19-antitrust-suit-alleges-openai-anthropic-google-and-spacexai
 event_name: ''
 ---
 

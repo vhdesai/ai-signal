@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-09-24-lovable-s-annualized-revenue-crosses-600m-as-vibe-coding-tak
-embedding_id: null
+embedding_id: 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 event_name: ''
 ---
 

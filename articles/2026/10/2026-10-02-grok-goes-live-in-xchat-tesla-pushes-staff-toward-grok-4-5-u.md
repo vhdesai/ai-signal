@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-09-22-xai-ships-grok-4-7-at-same-2-6-price-with-faster-coding
-embedding_id: null
+embedding_id: 2026-10-02-grok-goes-live-in-xchat-tesla-pushes-staff-toward-grok-4-5-u
 event_name: ''
 ---
 

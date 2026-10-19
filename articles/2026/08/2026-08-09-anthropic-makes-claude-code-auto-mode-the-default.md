@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-09-anthropic-makes-claude-code-auto-mode-default-catches-89-of
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-google-launches-preferred-sources-button-to-help-publishers
 event_name: ''
 ---
 

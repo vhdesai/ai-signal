@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-13-microsoft-rolls-out-grok-across-copilot-in-office-365
 - 2026-09-12-microsoft-adds-xai-s-grok-models-to-the-copilot-lineup
-embedding_id: null
+embedding_id: 2026-09-12-microsoft-begins-rolling-grok-models-into-copilot-for-fronti
 event_name: ''
 ---
 

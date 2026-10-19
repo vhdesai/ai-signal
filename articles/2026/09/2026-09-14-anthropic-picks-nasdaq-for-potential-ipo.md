@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-anthropic-in-talks-for-a-record-100b-ipo-at-a-2-trillion-val
 - 2026-09-13-anthropic-selects-nasdaq-for-its-potential-ipo
 - 2026-09-11-nvidia-in-talks-to-anchor-anthropic-ipo-at-2-trillion-valuat
-embedding_id: null
+embedding_id: 2026-09-14-anthropic-picks-nasdaq-for-potential-ipo
 event_name: ''
 ---
 

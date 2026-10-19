@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
-embedding_id: null
+embedding_id: 2026-06-18-trump-s-shadow-ai-policy-emerges-case-by-case-interventions
 event_name: ''
 ---
 

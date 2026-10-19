@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-23-alibaba-unveils-zhenwu-v900-accelerator-and-a-5-10-trillion
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20gw-data-cent
 - 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-and-a-20-gigawatt-cl
-embedding_id: null
+embedding_id: 2026-09-22-alibaba-unveils-zhenwu-v900-accelerator-20gw-capacity-target
 event_name: ''
 ---
 

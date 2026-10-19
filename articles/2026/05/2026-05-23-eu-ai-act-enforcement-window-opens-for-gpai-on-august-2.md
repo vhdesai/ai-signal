@@ -4,8 +4,8 @@ title: EU AI Act enforcement window opens for GPAI on August 2
 date: '2026-05-23'
 source: 'Source: Beyond Tomorrow / GDPR Local'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://beyondtmrw.org/article/ai-regulation-update-2026-eu-ai-act-enforcement-and-us-state-rules
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: eca4d06ec78e20485fe9afa27b573718fe4cc37ec8837ba0890825359dd3ce71
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
-embedding_id: null
+embedding_id: 2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-07-12-new-warning-in-race-to-superintelligence
 - 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
-embedding_id: null
+embedding_id: 2026-07-20-ai-is-supercharging-drug-development
 event_name: ''
 ---
 

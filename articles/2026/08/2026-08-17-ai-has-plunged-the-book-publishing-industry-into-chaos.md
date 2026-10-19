@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-rare-book-sales-booming-they-re-getting-sliced-up-and-fed-to
 - 2026-08-14-anthropic-s-book-scanning-training-method-ruled-fair-use-but
 - 2026-08-16-wsj-examines-how-ai-models-from-openai-and-anthropic-went-ro
-embedding_id: null
+embedding_id: 2026-08-17-ai-has-plunged-the-book-publishing-industry-into-chaos
 event_name: ''
 ---
 

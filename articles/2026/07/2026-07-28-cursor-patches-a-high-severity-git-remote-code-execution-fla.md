@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-09-26-cursor-s-ai-bots-gain-security-flaw-detection-and-bad-deploy
 - 2026-08-14-z-ai-glm-5-3-reportedly-found-a-serious-vulnerability-in-cur
-embedding_id: null
+embedding_id: 2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla
 event_name: ''
 ---
 

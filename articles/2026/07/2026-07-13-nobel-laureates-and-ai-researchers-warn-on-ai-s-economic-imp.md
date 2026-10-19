@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
 event_name: ''
 ---
 

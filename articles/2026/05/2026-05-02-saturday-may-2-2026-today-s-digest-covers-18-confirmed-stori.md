@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-27-daily-ai-news-digest-september-27-2026
 - 2026-10-09-daily-ai-news-digest-october-10-2026
 - 2026-09-03-daily-ai-news-digest-september-4-2026
-embedding_id: null
+embedding_id: 2026-05-02-saturday-may-2-2026-today-s-digest-covers-18-confirmed-stori
 event_name: ''
 ---
 

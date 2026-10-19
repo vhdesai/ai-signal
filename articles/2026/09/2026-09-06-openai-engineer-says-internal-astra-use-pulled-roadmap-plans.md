@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-openai-developer-says-astra-s-internal-use-pulled-roadmap-pl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-openai-engineer-says-internal-astra-use-pulled-roadmap-plans
 event_name: ''
 ---
 

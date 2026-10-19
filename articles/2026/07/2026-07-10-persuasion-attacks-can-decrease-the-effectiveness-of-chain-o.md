@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-09-02-openai-s-recurrent-depth-reasoning-technique-draws-safety-ob
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
-embedding_id: null
+embedding_id: 2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o
 event_name: ''
 ---
 

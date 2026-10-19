@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu
 - 2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu
 - 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
-embedding_id: null
+embedding_id: 2026-07-30-google-deepmind-s-gemini-robotics-2-extends-physical-ai-to-w
 event_name: ''
 ---
 

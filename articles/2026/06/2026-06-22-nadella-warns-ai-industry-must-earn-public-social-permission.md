@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 - 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
-embedding_id: null
+embedding_id: 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 event_name: ''
 ---
 

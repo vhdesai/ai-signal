@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-30-google-opened-gemini-s-nano-banana-powered-personalized-imag
 event_name: ''
 ---
 

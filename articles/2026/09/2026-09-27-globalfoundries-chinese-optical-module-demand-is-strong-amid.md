@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-19-marvell-and-globalfoundries-rise-after-expanded-sige-capacit
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-embedding_id: null
+embedding_id: 2026-09-27-globalfoundries-chinese-optical-module-demand-is-strong-amid
 event_name: ''
 ---
 

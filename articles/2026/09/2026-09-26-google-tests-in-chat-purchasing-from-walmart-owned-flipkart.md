@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-google-tests-buying-from-flipkart-through-gemini-and-ai-mode
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-google-tests-in-chat-purchasing-from-walmart-owned-flipkart
 event_name: ''
 ---
 

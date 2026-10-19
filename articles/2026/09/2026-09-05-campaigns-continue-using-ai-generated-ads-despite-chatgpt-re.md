@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-09-16-openai-launches-chatgpt-advertising-surface-with-creator-rev
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-embedding_id: null
+embedding_id: 2026-09-05-campaigns-continue-using-ai-generated-ads-despite-chatgpt-re
 event_name: ''
 ---
 

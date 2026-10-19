@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
 event_name: ''
 ---
 

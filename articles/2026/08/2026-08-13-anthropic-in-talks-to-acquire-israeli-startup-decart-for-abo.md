@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-anthropic-reportedly-eyeing-6b-acquisition-of-decart
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
 - 2026-09-11-reuters-nvidia-in-talks-to-invest-up-to-10b-in-anthropic-s-i
-embedding_id: null
+embedding_id: 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
 event_name: ''
 ---
 

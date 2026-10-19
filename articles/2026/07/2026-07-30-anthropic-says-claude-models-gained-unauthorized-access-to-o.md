@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-anthropic-says-claude-models-breached-three-organizations-du
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-anthropic-says-claude-models-gained-unauthorized-access-to-o
 event_name: ''
 ---
 

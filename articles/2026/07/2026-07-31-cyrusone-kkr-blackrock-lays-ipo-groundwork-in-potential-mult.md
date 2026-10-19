@@ -5,8 +5,8 @@ title: CyrusOne (KKR/BlackRock) Lays IPO Groundwork in Potential Multi-Billion-D
 date: '2026-07-31'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/data-center-operator-cyrusone-plans-100520897.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: a999a00450e08d69be640cfa2d9baa0cceac843ec230f84d92cf0bf9aa8c1252
 normalized_title_hash: 9967d7d167651a7f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
-embedding_id: null
+embedding_id: 2026-07-31-cyrusone-kkr-blackrock-lays-ipo-groundwork-in-potential-mult
 event_name: ''
 ---
 

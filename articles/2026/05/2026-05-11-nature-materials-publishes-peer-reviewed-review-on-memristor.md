@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 - 2026-04-02-research-breakthroughs
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
-embedding_id: null
+embedding_id: 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 event_name: ''
 ---
 

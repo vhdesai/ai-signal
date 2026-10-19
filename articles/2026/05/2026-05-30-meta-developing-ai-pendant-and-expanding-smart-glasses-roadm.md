@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-meta-unveils-muse-charm-a-keychain-sized-ai-wearable
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-09-24-meta-unveils-muse-charm-a-keychain-sized-ai-agent-device-tar
-embedding_id: null
+embedding_id: 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 event_name: ''
 ---
 

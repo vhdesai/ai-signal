@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-anthropic-signs-a-35b-cloud-deal-with-nvidia-backed-lambda
 event_name: ''
 ---
 

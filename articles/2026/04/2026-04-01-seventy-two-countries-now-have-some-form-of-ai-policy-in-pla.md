@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
-embedding_id: null
+embedding_id: 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 event_name: ''
 ---
 

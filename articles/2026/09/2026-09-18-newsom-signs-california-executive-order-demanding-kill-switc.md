@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-california-orders-faster-ai-oversight-and-explores-a-frontie
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 - 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
-embedding_id: null
+embedding_id: 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
 event_name: ''
 ---
 

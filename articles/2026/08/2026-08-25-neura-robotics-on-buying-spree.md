@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-20-unitree-raises-904m-in-shanghai-ipo-physical-ai-factory-auto
 - 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
-embedding_id: null
+embedding_id: 2026-08-25-neura-robotics-on-buying-spree
 event_name: ''
 ---
 

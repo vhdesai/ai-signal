@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-study-ai-access-nearly-eliminates-people-s-willingness-to-sa
 - 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 - 2026-08-19-analysis-ai-was-supposed-to-win-people-over-by-now-it-hasn-t
-embedding_id: null
+embedding_id: 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 event_name: ''
 ---
 

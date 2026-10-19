@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-01-mit-news-reports-that-csail-director-daniela-rus-received-th
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
-embedding_id: null
+embedding_id: 2026-08-03-16-alexander-rakhlin-named-director-of-mit-s-statistics-and
 event_name: ''
 ---
 

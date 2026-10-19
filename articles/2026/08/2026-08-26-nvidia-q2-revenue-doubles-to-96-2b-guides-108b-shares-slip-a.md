@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-as-ai-cape
 - 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
-embedding_id: null
+embedding_id: 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-108b-shares-slip-a
 event_name: ''
 ---
 

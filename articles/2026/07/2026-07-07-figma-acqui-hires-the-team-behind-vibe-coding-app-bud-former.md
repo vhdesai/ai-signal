@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 - 2026-03-24-google-labs-march-18-update-transformed-stitch-from-a-simple
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
-embedding_id: null
+embedding_id: 2026-07-07-figma-acqui-hires-the-team-behind-vibe-coding-app-bud-former
 event_name: ''
 ---
 

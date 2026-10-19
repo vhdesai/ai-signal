@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company
 - 2026-06-19-market-analysts-continue-to-assess-spacex-s-60-billion-all-s
-embedding_id: null
+embedding_id: 2026-08-27-ransomware-crew-used-spacex-s-cursor-ai-agent-to-breach-seve
 event_name: ''
 ---
 

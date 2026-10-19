@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-05-26-causalab-scalable-environment-for-interactive-causal-discove
 - 2026-08-24-arxiv-agentweave-routing-before-reasoning-for-efficient-func
-embedding_id: null
+embedding_id: 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
 event_name: ''
 ---
 

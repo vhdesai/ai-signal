@@ -5,8 +5,8 @@ title: $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs 
 date: '2026-06-07'
 source: Bloomberg; Intellectia AI; Crypto Briefing; Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-10-14/chip-stocks-set-to-erase-1-trillion-in-value-as-rout-deepens
+url_status: repaired
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: dcf0ab9f5019e4a14ad199f7dcc9c5f04c09ac70ae8008998bac57540c07dead
 normalized_title_hash: 92bd4932df677528
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
-embedding_id: null
+embedding_id: 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 event_name: ''
 ---
 

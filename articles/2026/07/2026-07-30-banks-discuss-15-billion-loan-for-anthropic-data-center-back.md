@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 - 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
-embedding_id: null
+embedding_id: 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 event_name: ''
 ---
 

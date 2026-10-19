@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials
 - 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual
-- 2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70
-embedding_id: null
+embedding_id: 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Hyunsoo Park and Aron Walsh (Imperial College London) introduce a reinforcement-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual]] · [[2026-08-26-mit-s-crysvcd-raises-ai-generated-materials-stability-to-70]]
+**Related:** [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials]] · [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-08-26-mit-s-crysvcd-designs-ai-generated-materials-that-are-actual]]
 <!-- graph:end -->

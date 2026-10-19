@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 - 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
 - 2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts
-embedding_id: null
+embedding_id: 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 event_name: ''
 ---
 

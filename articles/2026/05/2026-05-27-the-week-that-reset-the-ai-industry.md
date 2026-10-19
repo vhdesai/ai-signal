@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 - 2026-05-17-microsoft-corp-dev-ai-intelligence
 - 2026-08-14-daily-ai-news-digest-august-15-2026
-embedding_id: null
+embedding_id: 2026-05-27-the-week-that-reset-the-ai-industry
 event_name: ''
 ---
 

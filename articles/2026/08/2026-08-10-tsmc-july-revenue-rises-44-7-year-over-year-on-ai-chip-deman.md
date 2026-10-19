@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c
 - 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 - 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
-embedding_id: null
+embedding_id: 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 event_name: ''
 ---
 

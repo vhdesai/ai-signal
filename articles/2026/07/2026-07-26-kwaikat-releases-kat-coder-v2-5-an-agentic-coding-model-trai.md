@@ -6,7 +6,7 @@ date: '2026-07-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/
 url_canonical: https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 37d947f371f30c1e9ce37278746c87dca0a5b975d675d6af7cf7da1549b77cba
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-09-10-cognition-s-swe-2-builds-on-kimi-k3-for-coding-agents
-embedding_id: null
+embedding_id: 2026-07-26-kwaikat-releases-kat-coder-v2-5-an-agentic-coding-model-trai
 event_name: ''
 ---
 

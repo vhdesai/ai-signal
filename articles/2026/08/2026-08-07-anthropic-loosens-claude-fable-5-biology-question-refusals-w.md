@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-guardrails-while-wa
 related_article_ids:
 - 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
-embedding_id: null
+embedding_id: 2026-08-07-anthropic-loosens-claude-fable-5-biology-question-refusals-w
 event_name: ''
 ---
 

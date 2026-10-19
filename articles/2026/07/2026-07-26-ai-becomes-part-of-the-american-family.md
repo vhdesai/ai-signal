@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-29-when-the-third-parent-is-ai-ai-s-growing-role-in-children-s
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
 - 2026-07-11-openai-bets-on-families-as-chatgpt-goes-deeper-into-househol
-embedding_id: null
+embedding_id: 2026-07-26-ai-becomes-part-of-the-american-family
 event_name: ''
 ---
 

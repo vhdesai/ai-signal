@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
+- 2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
-- 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
-embedding_id: null
+embedding_id: 2026-09-02-asus-unveils-proart-pcs-on-nvidia-rtx-spark-at-ifa-2026
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ ASUS announced ProArt P16/P14 laptops and a GR1X mini PC built on NVIDIA's RTX S
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]]
+**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]]
 <!-- graph:end -->

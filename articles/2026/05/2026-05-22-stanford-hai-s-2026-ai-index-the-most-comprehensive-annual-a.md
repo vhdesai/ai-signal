@@ -5,8 +5,8 @@ title: Stanford HAI's 2026 AI Index — the most comprehensive annual analysis o
 date: '2026-05-22'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070841_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 92ffacb4a36b5169e374316ac8cf7468fccf262861eb0b9bf57538db83262e3b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: null
+embedding_id: 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
 event_name: ''
 ---
 

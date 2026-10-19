@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-26-ai-assistant-instinct-raises-350m-at-2-5b-one-year-old-still
 - 2026-08-27-consumer-ai-assistant-instinct-raises-250m-series-b-at-2-5b
-embedding_id: null
+embedding_id: 2026-09-22-instinct-at-10b-bi-profiles-the-23-year-old-college-dropout
 event_name: ''
 ---
 

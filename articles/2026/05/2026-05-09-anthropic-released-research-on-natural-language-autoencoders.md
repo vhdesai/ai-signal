@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-14-anthropic-details-how-claude-s-text-watermarking-works-under
 - 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-08-14-anthropic-details-claude-text-watermarking-under-eu-ai-act
-embedding_id: null
+embedding_id: 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 event_name: ''
 ---
 

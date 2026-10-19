@@ -4,8 +4,8 @@ title: Isomorphic Labs raises $2.1B Series B led by Thrive Capital
 date: '2026-05-12'
 source: TMCnet / CNW
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: d26abf5c8e5c64ca1a5079dfed87e38d74a600f68347c7eb17201b61a1c53090
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-isomorphic-labs-reportedly-seeks-funding-at-a-40b-valuation
 - 2026-08-12-openai-backed-thrive-holdings-raises-2-billion-to-bring-ai-i
 - 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-the
-embedding_id: null
+embedding_id: 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 event_name: ''
 ---
 

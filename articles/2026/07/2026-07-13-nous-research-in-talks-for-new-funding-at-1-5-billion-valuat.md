@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 event_name: ''
 ---
 

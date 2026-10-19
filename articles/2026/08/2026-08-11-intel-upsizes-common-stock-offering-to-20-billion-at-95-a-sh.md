@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-intel-raises-20b-in-upsized-common-stock-offering-to-fund-ai
 - 2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d
-embedding_id: null
+embedding_id: 2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh
 event_name: ''
 ---
 

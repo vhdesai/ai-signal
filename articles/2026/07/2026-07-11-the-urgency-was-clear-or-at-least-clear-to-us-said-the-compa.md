@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-12-ai-rivals-converge-on-slowing-frontier-development-while-rus
 - 2026-08-29-at-techbbq-european-ai-discussion-converged-on-control-and-s
 - 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
-embedding_id: null
+embedding_id: 2026-07-11-the-urgency-was-clear-or-at-least-clear-to-us-said-the-compa
 event_name: ''
 ---
 

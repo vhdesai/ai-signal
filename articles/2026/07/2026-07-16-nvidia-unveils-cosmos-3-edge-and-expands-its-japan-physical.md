@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 - 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
-embedding_id: null
+embedding_id: 2026-07-16-nvidia-unveils-cosmos-3-edge-and-expands-its-japan-physical
 event_name: ''
 ---
 

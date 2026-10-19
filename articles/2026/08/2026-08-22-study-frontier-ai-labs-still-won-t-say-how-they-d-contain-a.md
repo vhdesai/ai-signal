@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-22-frontier-ai-labs-still-won-t-say-how-they-d-contain-a-rogue
 related_article_ids:
 - 2026-08-22-study-frontier-labs-have-few-published-plans-for-containing
-embedding_id: null
+embedding_id: 2026-08-22-study-frontier-ai-labs-still-won-t-say-how-they-d-contain-a
 event_name: ''
 ---
 

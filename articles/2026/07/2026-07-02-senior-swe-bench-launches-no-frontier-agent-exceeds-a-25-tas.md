@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-02-senior-swe-bench-launches-no-frontier-agent-exceeds-a-25-tas
 event_name: ''
 ---
 

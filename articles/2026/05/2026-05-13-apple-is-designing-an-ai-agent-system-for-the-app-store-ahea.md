@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-apple-reportedly-preparing-to-allow-agentic-ai-apps-on-app-s
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-embedding_id: null
+embedding_id: 2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea
 event_name: ''
 ---
 

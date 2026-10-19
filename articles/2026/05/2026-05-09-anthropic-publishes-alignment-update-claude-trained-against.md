@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
-embedding_id: null
+embedding_id: 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 event_name: ''
 ---
 

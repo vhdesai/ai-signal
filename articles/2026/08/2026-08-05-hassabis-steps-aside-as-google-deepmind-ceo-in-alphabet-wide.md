@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
 - 2026-08-12-google-deepmind-leadership-shake-up-kavukcuoglu-takes-over-h
-embedding_id: null
+embedding_id: 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-in-alphabet-wide
 event_name: ''
 ---
 

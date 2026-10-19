@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-helsing-s-next-innovation-sits-on-a-sunbaked-airfield-90-min
-embedding_id: null
+embedding_id: 2026-07-20-anduril-and-archer-unveil-thunder-a-jointly-developed-autono
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-08-19-white-house-ai-model-testing-framework-leaves-companies-with
 - 2026-08-28-the-eu-ai-act-moves-from-drafting-into-enforcement
-embedding_id: null
+embedding_id: 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 event_name: ''
 ---
 

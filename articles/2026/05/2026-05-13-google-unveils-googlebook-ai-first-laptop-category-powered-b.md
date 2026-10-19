@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b
 event_name: ''
 ---
 

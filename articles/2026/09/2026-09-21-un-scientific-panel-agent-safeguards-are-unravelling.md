@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-science-panel-no-assurance-humans-will-keep-control-over
 - 2026-09-21-un-ai-panel-invokes-precautionary-principle-after-openai-hug
-embedding_id: null
+embedding_id: 2026-09-21-un-scientific-panel-agent-safeguards-are-unravelling
 event_name: ''
 ---
 

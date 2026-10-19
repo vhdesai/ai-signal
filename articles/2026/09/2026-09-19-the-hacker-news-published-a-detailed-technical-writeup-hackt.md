@@ -27,7 +27,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
-embedding_id: null
+embedding_id: 2026-09-19-the-hacker-news-published-a-detailed-technical-writeup-hackt
 event_name: ''
 ---
 

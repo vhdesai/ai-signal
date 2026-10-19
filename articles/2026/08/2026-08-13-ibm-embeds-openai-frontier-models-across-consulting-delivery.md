@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-13-ibm-embeds-openai-frontier-models-into-its-consulting-delive
 - 2026-08-13-ibm-partners-with-openai-to-accelerate-its-enterprise-ai-pus
 - 2026-08-13-ibm-partners-with-openai-to-train-tens-of-thousands-of-consu
-embedding_id: null
+embedding_id: 2026-08-13-ibm-embeds-openai-frontier-models-across-consulting-delivery
 event_name: ''
 ---
 

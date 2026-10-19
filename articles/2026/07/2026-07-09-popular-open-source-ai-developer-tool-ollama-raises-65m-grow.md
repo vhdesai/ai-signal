@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow
 event_name: ''
 ---
 

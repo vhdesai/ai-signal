@@ -5,8 +5,8 @@ title: Bloomberg reports Anthropic's latest funding round — at least $30 billi
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: bff1dbc9aaadedfd6c7feb399b86b31be2b9c16df7be2fc5eb7f0a05935c270f
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-embedding_id: null
+embedding_id: 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 event_name: ''
 ---
 

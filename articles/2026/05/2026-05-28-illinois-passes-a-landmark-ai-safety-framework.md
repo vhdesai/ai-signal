@@ -4,8 +4,8 @@ title: Illinois passes a landmark AI safety framework
 date: '2026-05-28'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 10e60e53d8d703f16c128a45797738ae9067175d65ab15711dcf576b6af0d0ec
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
 - 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
-embedding_id: null
+embedding_id: 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 event_name: ''
 ---
 

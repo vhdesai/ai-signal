@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-28-university-of-tokyo-work-anchors-the-inference-compute-for-r
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
-embedding_id: null
+embedding_id: 2026-09-28-sakana-ai-and-the-university-of-tokyo-raise-robot-task-succe
 event_name: ''
 ---
 

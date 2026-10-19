@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-06-claude-can-now-open-and-edit-google-docs-sheets-and-slides
 - 2026-10-06-claude-moves-into-google-workspace-as-assistants-converge-on
 - 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
-embedding_id: null
+embedding_id: 2026-08-23-claude-deepens-google-workspace-integration-chatgpt-gains-dr
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale
 - 2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers
 - 2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai
-embedding_id: null
+embedding_id: 2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg
 event_name: ''
 ---
 

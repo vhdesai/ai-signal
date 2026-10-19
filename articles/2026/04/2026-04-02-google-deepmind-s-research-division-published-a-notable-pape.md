@@ -5,8 +5,8 @@ title: Google DeepMind's research division published a notable paper arguing tha
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/research/publications/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: ff47a2f2b88a8664a3198e70dc28d6924e997fcdc76fd93c11a63dd36255a980
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
-embedding_id: null
+embedding_id: 2026-04-02-google-deepmind-s-research-division-published-a-notable-pape
 event_name: ''
 ---
 

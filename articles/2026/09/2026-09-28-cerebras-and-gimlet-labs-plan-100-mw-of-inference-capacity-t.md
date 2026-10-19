@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-gimlet-labs-raises-300m-for-disaggregated-multi-silicon-infe
 - 2026-09-06-cerebras-announces-200mw-european-ai-compute-expansion
 - 2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste
-embedding_id: null
+embedding_id: 2026-09-28-cerebras-and-gimlet-labs-plan-100-mw-of-inference-capacity-t
 event_name: ''
 ---
 

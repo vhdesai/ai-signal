@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-anthropic-reports-a-complete-lean-formalization-of-fermat-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-anthropic-reports-an-11-day-lean-formalization-of-fermat-s-l
 event_name: ''
 ---
 

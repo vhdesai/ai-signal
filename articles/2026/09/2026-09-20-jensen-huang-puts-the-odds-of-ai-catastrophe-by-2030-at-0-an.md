@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-19-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-18-nvidia-s-jensen-huang-rejects-the-slowdown-as-fast-as-we-can
 - 2026-09-20-jensen-huang-rejects-ai-extinction-warnings-opposes-new-ai-s
-embedding_id: null
+embedding_id: 2026-09-20-jensen-huang-puts-the-odds-of-ai-catastrophe-by-2030-at-0-an
 event_name: ''
 ---
 

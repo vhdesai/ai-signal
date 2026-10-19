@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
 - 2026-10-06-hark-launches-a-privacy-focused-personal-ai-assistant
-embedding_id: null
+embedding_id: 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 event_name: ''
 ---
 

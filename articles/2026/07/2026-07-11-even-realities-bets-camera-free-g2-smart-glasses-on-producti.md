@@ -4,8 +4,8 @@ title: Even Realities bets camera-free G2 smart glasses on productivity over rec
 date: '2026-07-11'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/
+url_status: repaired
 digest_source: digests\raw\2026-07-12_062259_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: dc9fae82f680992c32882f12a4acb0a3a8bb3c3701319f0c37eb9a0da629427b
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-09-23-meta-introduces-camera-free-ray-ban-ai-glasses-to-address-pr
 - 2026-09-26-meta-connect-wrap-ai-glasses-everywhere-muse-charm-keychain
-embedding_id: null
+embedding_id: 2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti
 event_name: ''
 ---
 

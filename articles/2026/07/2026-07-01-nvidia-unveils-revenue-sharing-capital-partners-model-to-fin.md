@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin
 event_name: ''
 ---
 

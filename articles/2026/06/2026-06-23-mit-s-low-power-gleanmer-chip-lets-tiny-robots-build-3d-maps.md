@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-research-breakthroughs
 - 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 - 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
-embedding_id: null
+embedding_id: 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 event_name: ''
 ---
 

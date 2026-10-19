@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-17-groq-raises-350m-at-a-3-5b-valuation-to-pivot-from-inference
 - 2026-08-17-groq-raises-350m-series-a-at-a-3-5b-valuation-pivoting-from
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-custom-silicon-to-neo
-embedding_id: null
+embedding_id: 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
 event_name: ''
 ---
 

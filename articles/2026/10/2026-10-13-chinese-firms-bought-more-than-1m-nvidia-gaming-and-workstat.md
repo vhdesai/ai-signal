@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
-embedding_id: null
+embedding_id: 2026-10-13-chinese-firms-bought-more-than-1m-nvidia-gaming-and-workstat
 event_name: ''
 ---
 

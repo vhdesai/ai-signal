@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b
 - 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
-embedding_id: null
+embedding_id: 2026-08-21-ai-accounting-startup-rillet-reaches-unicorn-status-in-a-48
 event_name: ''
 ---
 

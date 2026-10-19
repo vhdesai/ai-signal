@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b
 - 2026-07-15-indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
-embedding_id: null
+embedding_id: 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
 event_name: ''
 ---
 

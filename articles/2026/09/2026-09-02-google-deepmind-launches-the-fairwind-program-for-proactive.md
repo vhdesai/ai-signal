@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-google-releases-gemini-3-8-flash-and-gates-its-cyber-variant
 - 2026-09-03-google-ships-gemini-3-8-flash-and-a-restricted-gemini-3-8-fl
 - 2026-09-02-google-ships-gemini-3-8-flash-and-gates-its-cyber-variant-be
-embedding_id: null
+embedding_id: 2026-09-02-google-deepmind-launches-the-fairwind-program-for-proactive
 event_name: ''
 ---
 

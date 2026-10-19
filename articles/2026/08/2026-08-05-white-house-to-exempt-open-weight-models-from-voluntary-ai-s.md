@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-05-white-house-frontier-model-review-framework-exempts-open-wei
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
-embedding_id: null
+embedding_id: 2026-08-05-white-house-to-exempt-open-weight-models-from-voluntary-ai-s
 event_name: ''
 ---
 

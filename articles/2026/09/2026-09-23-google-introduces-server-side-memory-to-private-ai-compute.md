@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 - 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
-embedding_id: null
+embedding_id: 2026-09-23-google-introduces-server-side-memory-to-private-ai-compute
 event_name: ''
 ---
 

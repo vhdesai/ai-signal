@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 - 2026-09-06-ai-investment-figures-reach-a-new-order-of-magnitude
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-embedding_id: null
+embedding_id: 2026-07-12-industry-news-markets-ai-trade-investing
 event_name: ''
 ---
 

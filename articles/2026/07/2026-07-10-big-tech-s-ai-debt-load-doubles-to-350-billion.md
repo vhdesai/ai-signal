@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 - 2026-08-28-lambda-1b-debt-400b-global-ai-debt-continued
 - 2026-08-28-lambda-1b-debt-global-ai-debt-crosses-400b-continued
-embedding_id: null
+embedding_id: 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
 event_name: ''
 ---
 

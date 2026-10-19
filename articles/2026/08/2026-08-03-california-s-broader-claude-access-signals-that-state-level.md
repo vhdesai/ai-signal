@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-16-singapore-positions-frontier-model-access-as-a-financial-sec
 - 2026-08-03-the-smaller-ticket-funding-landscape-remains-strategically-i
 - 2026-08-16-ai-super-pacs-move-into-state-races-ahead-of-the-midterms
-embedding_id: null
+embedding_id: 2026-08-03-california-s-broader-claude-access-signals-that-state-level
 event_name: ''
 ---
 

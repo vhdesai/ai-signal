@@ -4,8 +4,8 @@ title: 'The Briefing: Microsoft Faces Renewed Activist Risk as Shares Lag'
 date: '2026-05-12'
 source: Martin Peers
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.knowesg.com/social-governance/microsoft-faces-shareholder-activism-over-human-rights-in-ai-era
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: cf9882cc163eb7178879f6345d37e58b5dd9f35fb627e4a57898b0b6c38f2838
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-09-14-global-ai-stocks-sell-off-after-lab-ceos-jointly-urge-a-slow
 - 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
-embedding_id: null
+embedding_id: 2026-05-12-the-briefing-microsoft-faces-renewed-activist-risk-as-shares
 event_name: ''
 ---
 

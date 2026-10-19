@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu
 - 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
-embedding_id: null
+embedding_id: 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 event_name: ''
 ---
 

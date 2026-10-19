@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 - 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-embedding_id: null
+embedding_id: 2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang
 event_name: ''
 ---
 

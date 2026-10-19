@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-afterquery-becomes-y-combinator-s-fastest-unicorn-at-a-3-2b
 event_name: ''
 ---
 

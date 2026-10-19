@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-20-foxconn-demonstrated-a-complete-physical-ai-stack-at-vivatec
 - 2026-06-17-nvidia-enpire-platform-enables-ai-agents-to-autonomously-run
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-embedding_id: null
+embedding_id: 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 event_name: ''
 ---
 

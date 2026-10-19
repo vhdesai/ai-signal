@@ -4,8 +4,8 @@ title: 'HOTHarvard study: AI outperformed two human ER doctors on diagnostic acc
 date: '2026-05-02'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 71e92c0628f2e1ffc9cdd96b2f873631c3d01648794b34712e1bb8d47c00e2a3
 normalized_title_hash: c93415628018307a
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
-embedding_id: null
+embedding_id: 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 event_name: ''
 ---
 

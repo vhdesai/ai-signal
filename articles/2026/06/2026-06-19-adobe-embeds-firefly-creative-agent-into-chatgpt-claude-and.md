@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-05-06-
-embedding_id: null
+embedding_id: 2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/
 url_canonical: https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 799bec3f9ed8f12b2f7bae04a2c5416bd54205638c3862931de7f919e94afd0d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 - 2026-08-30-openclaw-ships-2-0-its-largest-release-built-by-933-contribu
-embedding_id: null
+embedding_id: 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 event_name: ''
 ---
 

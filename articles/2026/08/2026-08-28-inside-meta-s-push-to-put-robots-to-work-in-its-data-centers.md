@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
-embedding_id: null
+embedding_id: 2026-08-28-inside-meta-s-push-to-put-robots-to-work-in-its-data-centers
 event_name: ''
 ---
 

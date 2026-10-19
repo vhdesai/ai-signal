@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 - 2026-08-01-venturebeat-reports-that-thinking-machines-led-by-former-ope
 - 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
-embedding_id: null
+embedding_id: 2026-07-19-mira-murati-s-thinking-machines-leaned-on-chinese-tech-for-i
 event_name: ''
 ---
 

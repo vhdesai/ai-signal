@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-nscale-files-for-35b-us-ipo-microsoft-and-anthropic-account
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 event_name: ''
 ---
 

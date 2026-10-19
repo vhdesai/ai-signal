@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
 - 2026-09-23-september-24-2026
-embedding_id: null
+embedding_id: 2026-10-09-uk-regulators-push-agentic-ai-evidence-and-data-protection-c
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-11-pentagon-in-talks-on-a-5b-loan-to-ai-cloud-startup-fluidstac
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-11-pentagon-in-talks-to-lend-fluidstack-5b-for-data-center-supp
 event_name: ''
 ---
 

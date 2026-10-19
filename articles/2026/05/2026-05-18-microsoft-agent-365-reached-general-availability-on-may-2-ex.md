@@ -5,8 +5,8 @@ title: Microsoft Agent 365 reached general availability on May 2, extending ente
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: c4e3c5ea9b00d3ead22f8dd87eaaa14c68124e94d3cf04300b02fa5c5d0634a7
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
-embedding_id: null
+embedding_id: 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 event_name: ''
 ---
 

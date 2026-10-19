@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese
 event_name: ''
 ---
 

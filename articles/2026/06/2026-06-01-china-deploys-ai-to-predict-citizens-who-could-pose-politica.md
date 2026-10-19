@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
-embedding_id: null
+embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
 

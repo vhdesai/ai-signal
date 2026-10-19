@@ -4,8 +4,8 @@ title: BIS warns the AI capex boom could turn into a "protracted investment bust
 date: '2026-06-28'
 source: Bank for International Settlements
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bis.org/publications/working-paper-1367-ai-investment-race
+url_status: repaired
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: 1780b369d884d8884708ef6103acc8989b64ebc85548296da6cf4cdab41daf5d
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-ecb-blog-predicts-ai-tech-stock-market-correction-is-likely
 - 2026-08-14-michael-burry-warns-ai-capex-resembles-dot-com-and-housing-b
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
-embedding_id: null
+embedding_id: 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 event_name: ''
 ---
 

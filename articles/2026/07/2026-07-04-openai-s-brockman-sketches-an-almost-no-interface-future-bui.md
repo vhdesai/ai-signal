@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-19-unity-ships-official-plugins-for-claude-code-and-openai-code
 - 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
 - 2026-09-27-openai-says-80-90-percent-of-its-research-already-targets-gp
-embedding_id: null
+embedding_id: 2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui
 event_name: ''
 ---
 

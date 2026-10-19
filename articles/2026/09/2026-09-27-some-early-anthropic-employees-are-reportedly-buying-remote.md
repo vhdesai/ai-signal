@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-an-anthropic-researcher-s-doomsday-warning-lands-at-a-pointe
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
 - 2026-08-21-anthropic-ipo-filing-expected-to-name-ai-backlash-as-a-risk
-embedding_id: null
+embedding_id: 2026-09-27-some-early-anthropic-employees-are-reportedly-buying-remote
 event_name: ''
 ---
 

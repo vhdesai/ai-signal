@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-25-microsoft-adds-copilot-ai-capabilities-across-excel-in-augus
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
-embedding_id: null
+embedding_id: 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-openai-details-chatgpt-work-agent-strategy-cites-20-million
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-s-free-and-go-tiers-in
 - 2026-08-31-openai-s-chatgpt-ads-business-reaches-1b-annualized-run-rate
-embedding_id: null
+embedding_id: 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 event_name: ''
 ---
 

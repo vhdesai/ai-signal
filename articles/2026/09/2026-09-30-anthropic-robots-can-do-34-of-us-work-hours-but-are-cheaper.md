@@ -21,9 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-17-robotics-technical-potential-outpaces-its-economic-viability
+- 2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x
 - 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
 - 2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor
-embedding_id: null
+embedding_id: 2026-09-30-anthropic-robots-can-do-34-of-us-work-hours-but-are-cheaper
 event_name: ''
 ---
 
@@ -36,5 +38,5 @@ Anthropic estimates robotic capability covers 34% of working hours. Only 0.3% of
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a]] · [[2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor]]
+**Related:** [[2026-10-17-robotics-technical-potential-outpaces-its-economic-viability]] · [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x]] · [[2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a]] · [[2026-08-13-anthropic-review-finds-retraining-programs-unlikely-to-absor]]
 <!-- graph:end -->

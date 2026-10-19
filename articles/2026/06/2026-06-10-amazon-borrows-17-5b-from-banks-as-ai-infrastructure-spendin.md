@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 - 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
-embedding_id: null
+embedding_id: 2026-06-10-amazon-borrows-17-5b-from-banks-as-ai-infrastructure-spendin
 event_name: ''
 ---
 

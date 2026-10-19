@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
-embedding_id: null
+embedding_id: 2026-05-11-openai-launches-campus-network-global-student-ai-ambassador
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-new-york-city-and-los-angeles-school-districts-impose-new-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-nyc-and-los-angeles-school-districts-impose-new-ai-moratoriu
 event_name: ''
 ---
 

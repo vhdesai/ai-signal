@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
 event_name: ''
 ---
 

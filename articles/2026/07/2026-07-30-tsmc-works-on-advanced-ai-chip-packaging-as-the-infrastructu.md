@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu
 event_name: ''
 ---
 

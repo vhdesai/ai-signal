@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
-embedding_id: null
+embedding_id: 2026-08-28-can-notion-escape-airtable-s-dismal-fate-ai-forces-adapt-or
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-07-malaysia-weighs-adopting-huawei-ai-chips-despite-explicit-us
 - 2026-05-13-huawei-is-projecting-roughly-12-billion-in-ai-chip-revenue-i
-embedding_id: null
+embedding_id: 2026-09-07-malaysia-weighs-huawei-chips-for-rm2b-national-ai-project-de
 event_name: ''
 ---
 

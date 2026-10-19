@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-27-pitchbook-should-pe-partners-know-how-to-use-ai-carlyle-at-9
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-27-pitchbook-should-pe-partners-master-ai-carlyle-at-90-adoptio
 event_name: ''
 ---
 

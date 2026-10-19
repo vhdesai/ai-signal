@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-29-the-a-i-token-tax-enterprise-ai-costs-become-unpredictable-b
 - 2026-10-10-dealbook-frames-ai-s-verification-tax-as-a-human-bottleneck
-embedding_id: null
+embedding_id: 2026-08-29-the-a-i-token-tax-how-ai-costs-are-reshaping-enterprise-budg
 event_name: ''
 ---
 

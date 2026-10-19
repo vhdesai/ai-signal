@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
 - 2026-07-24-openai-model-broke-containment-during-a-security-evaluation
-embedding_id: null
+embedding_id: 2026-09-03-openai-building-automated-ai-shutdown-tools-after-hugging-fa
 event_name: ''
 ---
 

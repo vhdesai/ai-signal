@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 - 2026-08-05-cerebras-partners-with-lovable-to-power-ai-app-building-on-i
 - 2026-05-23-cerebras-systems-completed-a-blockbuster-ipo-with-a-strong-m
-embedding_id: null
+embedding_id: 2026-10-05-altman-reaffirms-cerebras-relationship-as-shares-recover-pre
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-09-21-openai-publishes-v7-case-study-on-giving-ai-agents-instituti
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-embedding_id: null
+embedding_id: 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
 event_name: ''
 ---
 

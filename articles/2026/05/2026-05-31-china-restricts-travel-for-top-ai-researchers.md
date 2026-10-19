@@ -4,8 +4,8 @@ title: China Restricts Travel for Top AI Researchers
 date: '2026-05-31'
 source: Australian Financial Review
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.afr.com/world/asia/china-ai-industry-alarmed-by-travel-curbs-on-top-talent-20260531-p602d4
+url_status: repaired
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 3fd9c07e4f295db16f3df4759e1f4b44de5d1352d8a8d1616da6bd3ca6b3547a
 normalized_title_hash: 28accbad627c02d7
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
-embedding_id: null
+embedding_id: 2026-05-31-china-restricts-travel-for-top-ai-researchers
 event_name: ''
 ---
 

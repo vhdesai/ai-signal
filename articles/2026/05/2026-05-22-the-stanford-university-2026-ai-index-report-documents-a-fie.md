@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-embedding_id: null
+embedding_id: 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 event_name: ''
 ---
 

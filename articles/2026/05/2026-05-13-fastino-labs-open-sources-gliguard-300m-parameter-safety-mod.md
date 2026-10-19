@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod
 event_name: ''
 ---
 

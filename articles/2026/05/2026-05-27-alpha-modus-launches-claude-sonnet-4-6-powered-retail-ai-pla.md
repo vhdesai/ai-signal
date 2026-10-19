@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-13-meta-acquires-stilla-ai-to-expand-business-agent-commerce
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
-embedding_id: null
+embedding_id: 2026-05-27-alpha-modus-launches-claude-sonnet-4-6-powered-retail-ai-pla
 event_name: ''
 ---
 

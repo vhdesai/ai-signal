@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-24-wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going
 - 2026-08-24-ai-complex-slips-as-markets-brace-for-nvidia-earnings-and-ja
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-embedding_id: null
+embedding_id: 2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid
 event_name: ''
 ---
 

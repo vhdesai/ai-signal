@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
-embedding_id: null
+embedding_id: 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
 event_name: ''
 ---
 

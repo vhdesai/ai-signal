@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
-embedding_id: null
+embedding_id: 2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
-embedding_id: null
+embedding_id: 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 event_name: ''
 ---
 

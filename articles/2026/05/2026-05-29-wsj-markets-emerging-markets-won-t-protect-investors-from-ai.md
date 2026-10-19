@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
-embedding_id: null
+embedding_id: 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 event_name: ''
 ---
 

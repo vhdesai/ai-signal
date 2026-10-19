@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-microsoft-ai-s-mai-transcribe-2-undercuts-rivals-at-0-10-per
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-microsoft-ai-ships-mai-transcribe-2-at-0-10-an-hour-undercut
 event_name: ''
 ---
 

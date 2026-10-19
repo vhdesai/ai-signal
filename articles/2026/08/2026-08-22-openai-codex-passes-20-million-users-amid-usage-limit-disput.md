@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
 - 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-embedding_id: null
+embedding_id: 2026-08-22-openai-codex-passes-20-million-users-amid-usage-limit-disput
 event_name: ''
 ---
 

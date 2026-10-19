@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-09-05-zoom-ai-companion-outage-in-us-region-resolved-after-overnig
 - 2026-09-04-chatgpt-claude-and-grok-reportedly-face-simultaneous-outages
 - 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
-embedding_id: null
+embedding_id: 2026-09-05-zoom-ai-companion-degradation-in-u-s-region-resolved-after-o
 event_name: ''
 ---
 

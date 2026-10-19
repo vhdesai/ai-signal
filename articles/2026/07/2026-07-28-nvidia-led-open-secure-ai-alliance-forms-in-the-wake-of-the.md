@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
 event_name: ''
 ---
 

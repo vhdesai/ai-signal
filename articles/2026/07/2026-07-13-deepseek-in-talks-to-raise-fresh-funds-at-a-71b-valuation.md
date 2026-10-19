@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-03-deepseek-prepares-7-billion-maiden-fundraise
 - 2026-06-03-deepseek-nears-7-4b-maiden-fundraise-led-by-tencent-and-catl
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-embedding_id: null
+embedding_id: 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
 event_name: ''
 ---
 

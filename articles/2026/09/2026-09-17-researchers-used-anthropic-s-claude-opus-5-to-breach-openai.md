@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-researchers-used-anthropic-s-claude-to-breach-openai
 - 2026-09-18-researchers-used-claude-opus-5-to-breach-openai-employee-acc
 - 2026-09-18-researchers-used-claude-to-breach-openai-employee-accounts-a
-embedding_id: null
+embedding_id: 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 event_name: ''
 ---
 

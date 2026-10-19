@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-embedding_id: null
+embedding_id: 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
 event_name: ''
 ---
 

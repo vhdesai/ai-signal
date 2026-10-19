@@ -4,8 +4,8 @@ title: Moonshot AI adds pressure to the chip selloff
 date: '2026-07-18'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/general/china-s-moonshot-ai-adds-to-chip-investors-worries/ar-AA2896p7
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: add30cbb0da720e7d91f7e864a03a069e1084ce6a52c1da70a92cf1f9b95aa0c
 normalized_title_hash: 2ffbe1cd651a2eb2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 - 2026-09-14-chip-and-ai-linked-equities-sell-off-on-slowdown-talk
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-embedding_id: null
+embedding_id: 2026-07-18-moonshot-ai-adds-pressure-to-the-chip-selloff
 event_name: ''
 ---
 

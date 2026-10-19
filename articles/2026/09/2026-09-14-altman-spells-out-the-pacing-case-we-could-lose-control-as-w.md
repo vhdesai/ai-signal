@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-09-20-jensen-huang-says-ai-ceos-have-ulterior-reasons-for-warning
 - 2026-09-14-sam-altman-says-ai-s-rapid-progress-could-go-very-badly-with
-embedding_id: null
+embedding_id: 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
 event_name: ''
 ---
 

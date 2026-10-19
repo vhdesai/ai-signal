@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-california-enacts-the-first-state-ai-auditing-framework-and
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 - 2026-09-17-eu-kids-act-would-switch-ai-companions-off-by-default-for-mi
-embedding_id: null
+embedding_id: 2026-09-10-california-enacts-adam-s-law-and-bans-addictive-feeds-for-un
 event_name: ''
 ---
 

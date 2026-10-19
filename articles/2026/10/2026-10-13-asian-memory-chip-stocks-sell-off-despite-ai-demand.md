@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-07-cxmt-points-to-smartphone-and-ai-gains-as-it-climbs-the-memo
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand
-embedding_id: null
+embedding_id: 2026-10-13-asian-memory-chip-stocks-sell-off-despite-ai-demand
 event_name: ''
 ---
 

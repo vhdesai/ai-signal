@@ -1,13 +1,34 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4900
+member_count: 4921
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4900 connected article(s).
+> Auto-generated topic hub. 4921 connected article(s).
 
+- `2026-10-18` [[2026-10-18-voxel51-3-0-targets-multimodal-data-operations-for-robotics|Voxel51 3.0 targets multimodal data operations for robotics, vehicles, and factories]]
+- `2026-10-18` [[2026-10-18-violoop-launches-399-ai-box-that-controls-mouse-and-keyboard|Violoop launches $399 AI box that controls mouse and keyboard; Grok gets an email identity]]
+- `2026-10-18` [[2026-10-18-rokid-opens-fully-self-service-ai-glasses-flagship-store-in|Rokid opens fully self-service AI-glasses flagship store in Hong Kong]]
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-jetbrains-air-expands-to-five-ides-as-claude-code-plugins-go|JetBrains Air expands to five IDEs as Claude Code plugins go official]]
+- `2026-10-18` [[2026-10-18-jetbrains-air-expands-as-claude-code-plugins-become-official|JetBrains Air expands as Claude Code plugins become official]]
+- `2026-10-18` [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti|Google open-sources Harness² for recursive agent harness optimization]]
+- `2026-10-18` [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce|Disney to hire majority of Character.AI workforce]]
+- `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce|Disney agrees to hire most of Character.AI's workforce]]
+- `2026-10-18` [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x|Anthropic says junior hiring has fallen as AI agents log 6x human work hours]]
+- `2026-10-18` [[2026-10-18-anthropic-consults-law-firms-on-negotiation-norms-before-age|Anthropic consults law firms on negotiation norms before agents start cutting deals]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before|Anthropic commits 5% stake to new public-benefit fund before IPO]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund|Anthropic commits 5% of shares to new public benefit fund]]
+- `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
+- `2026-10-17` [[2026-10-17-meta-removes-language-that-raised-scraping-and-ai-training-c|Meta removes language that raised scraping and AI-training concerns]]
+- `2026-10-17` [[2026-10-17-meta-removes-commercial-terms-language-that-raised-scraping|Meta removes commercial-terms language that raised scraping and AI training concerns]]
+- `2026-10-17` [[2026-10-17-daily-ai-news-digest-october-18-2026|Daily AI News Digest – October 18, 2026]]
+- `2026-10-17` [[2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more|Anthropic says its workforce has become less junior and more meeting-heavy]]
+- `2026-10-17` [[2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands|Anthropic reports a shift in hiring and coordination demands]]
+- `2026-10-17` [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring|Anthropic report says AI-heavy workflows are changing hiring mix and increasing coordination load]]
 - `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
 - `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
 - `2026-10-14` [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove|IBM survey points to a gap between agent deployment and governance]]

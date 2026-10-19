@@ -26,7 +26,7 @@ canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-lu
 related_article_ids:
 - 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
-embedding_id: null
+embedding_id: 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 event_name: ''
 ---
 

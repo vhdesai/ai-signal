@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-10-oracle-books-664b-ai-backlog-and-negative-free-cash-flow
 - 2026-06-11-oracle-beat-earnings-but-fell-11-as-ai-spending-guidance-spo
 - 2026-09-11-oracle-posts-664b-ai-cloud-backlog-and-negative-free-cash-fl
-embedding_id: null
+embedding_id: 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 event_name: ''
 ---
 

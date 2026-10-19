@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
 - 2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-embedding_id: null
+embedding_id: 2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente
 event_name: ''
 ---
 

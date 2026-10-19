@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-seattle-times-sues-microsoft-and-openai-alleging-they-traine
 event_name: ''
 ---
 

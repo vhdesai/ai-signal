@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-memory-supercycle-shows-no-near-term-break-as-hbm-remains-th
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-23-memory-supercycle-shows-no-near-term-break-hbm-is-the-bottle
 event_name: ''
 ---
 

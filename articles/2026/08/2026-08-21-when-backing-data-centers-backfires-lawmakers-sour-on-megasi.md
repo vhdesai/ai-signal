@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
 - 2026-09-05-data-center-backlash-becomes-a-midterm-political-issue
-embedding_id: null
+embedding_id: 2026-08-21-when-backing-data-centers-backfires-lawmakers-sour-on-megasi
 event_name: ''
 ---
 

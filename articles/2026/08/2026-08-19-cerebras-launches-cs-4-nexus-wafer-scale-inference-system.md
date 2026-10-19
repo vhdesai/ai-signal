@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-19-cerebras-launches-cs-4-its-first-multi-wafer-inference-syste
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-19-cerebras-launches-cs-4-nexus-wafer-scale-inference-system
 event_name: ''
 ---
 

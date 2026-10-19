@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
 - 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
 - 2026-09-15-meta-bundles-ai-plus-premium-features-into-meta-one-subscrip
-embedding_id: null
+embedding_id: 2026-09-15-meta-ships-whatsapp-business-mcp-server-claude-cursor-codex
 event_name: ''
 ---
 

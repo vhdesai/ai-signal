@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
-embedding_id: null
+embedding_id: 2026-09-18-google-home-mcp-server-opens-third-party-agent-access-claude
 event_name: ''
 ---
 

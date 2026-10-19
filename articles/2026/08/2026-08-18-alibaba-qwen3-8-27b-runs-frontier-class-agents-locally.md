@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning
 - 2026-08-18-alibaba-s-qwen3-8-27b-runs-frontier-class-coding-agents-loca
 - 2026-08-18-alibaba-s-qwen3-8-27b-brings-frontier-class-local-coding-and
-embedding_id: null
+embedding_id: 2026-08-18-alibaba-qwen3-8-27b-runs-frontier-class-agents-locally
 event_name: ''
 ---
 

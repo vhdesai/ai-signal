@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-anthropic-reports-an-unreleased-claude-model-advanced-a-riem
 related_article_ids:
 - 2026-08-11-unreleased-claude-model-advances-a-riemann-zeta-bound
-embedding_id: null
+embedding_id: 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
 event_name: ''
 ---
 

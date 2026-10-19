@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-google-will-allow-users-to-remove-visible-watermarks-from-ai
 event_name: ''
 ---
 

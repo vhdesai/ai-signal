@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-20-swe-bench-science-coding-agents-score-below-50-on-scientific
 - 2026-08-21-swe-bench-science-coding-agents-still-fail-on-real-scientifi
 - 2026-08-01-supabase-releases-an-open-source-benchmark-for-claude-code-c
-embedding_id: null
+embedding_id: 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 event_name: ''
 ---
 

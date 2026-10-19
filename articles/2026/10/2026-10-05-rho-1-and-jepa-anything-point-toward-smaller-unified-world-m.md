@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-06-reka-releases-rho-1-a-19b-omni-reasoning-model-for-video-ima
 - 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 - 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
-embedding_id: null
+embedding_id: 2026-10-05-rho-1-and-jepa-anything-point-toward-smaller-unified-world-m
 event_name: ''
 ---
 

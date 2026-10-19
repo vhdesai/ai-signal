@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-09-20-kpmg-forward-deployed-engineer-says-ai-is-moving-the-role-be
 - 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
-embedding_id: null
+embedding_id: 2026-09-11-andrew-ng-ai-engineering-skill-is-changing-the-scope-of-the
 event_name: ''
 ---
 

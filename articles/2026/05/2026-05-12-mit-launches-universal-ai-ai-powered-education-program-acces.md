@@ -5,8 +5,8 @@ title: 'MIT launches Universal AI: AI-powered education program "accessible to a
 date: '2026-05-12'
 source: MIT News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 66311d35d9f37ca21092f789c55a4d2dbabb91e4ea7d76980a761859d04101a0
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
-embedding_id: null
+embedding_id: 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-13-apple-brings-siri-ai-to-the-shared-household-screen
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-09-11-apple-s-rebuilt-siri-ships-next-week-with-ios-27
-embedding_id: null
+embedding_id: 2026-09-22-apple-opens-claims-for-250m-siri-ai-delay-settlement
 event_name: ''
 ---
 

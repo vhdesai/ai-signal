@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense
 - 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
 - 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
-embedding_id: null
+embedding_id: 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
 - 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
-embedding_id: null
+embedding_id: 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 event_name: ''
 ---
 

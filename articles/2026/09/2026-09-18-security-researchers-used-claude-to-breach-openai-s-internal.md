@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-17-researchers-used-anthropic-s-claude-opus-5-to-breach-openai
 - 2026-08-21-anthropic-deploys-claude-mythos-5-in-claude-security-adds-35
-embedding_id: null
+embedding_id: 2026-09-18-security-researchers-used-claude-to-breach-openai-s-internal
 event_name: ''
 ---
 

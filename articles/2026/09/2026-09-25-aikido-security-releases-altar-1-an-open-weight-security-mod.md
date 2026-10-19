@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 - 2026-09-19-open-weight-models-hit-a-record-78-4-of-token-volume-on-verc
-embedding_id: null
+embedding_id: 2026-09-25-aikido-security-releases-altar-1-an-open-weight-security-mod
 event_name: ''
 ---
 

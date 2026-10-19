@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-01-nvidia-kumo-tabular-open-foundation-models-that-predict-new
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 - 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
-embedding_id: null
+embedding_id: 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 event_name: ''
 ---
 

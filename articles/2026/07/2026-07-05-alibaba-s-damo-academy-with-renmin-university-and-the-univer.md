@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-embedding_id: null
+embedding_id: 2026-07-05-alibaba-s-damo-academy-with-renmin-university-and-the-univer
 event_name: ''
 ---
 

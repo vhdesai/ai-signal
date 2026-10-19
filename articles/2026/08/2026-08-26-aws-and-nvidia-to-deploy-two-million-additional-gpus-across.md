@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-adding
 related_article_ids:
 - 2026-08-27-aws-and-nvidia-to-deploy-2-million-additional-gpus
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
-embedding_id: null
+embedding_id: 2026-08-26-aws-and-nvidia-to-deploy-two-million-additional-gpus-across
 event_name: ''
 ---
 

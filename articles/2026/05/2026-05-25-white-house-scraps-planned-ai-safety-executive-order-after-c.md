@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 event_name: ''
 ---
 

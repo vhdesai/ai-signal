@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem
 - 2026-07-06-reinforcement-learning-steers-generative-models-toward-novel
-- 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
-embedding_id: null
+embedding_id: 2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-is-a-fast-le
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Chemistry World covered Microsoft's split-personality retrosynthetic AI, a model
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]]
+**Related:** [[2026-10-13-microsoft-s-split-personality-retrosynthetic-ai-targets-chem]] · [[2026-07-06-reinforcement-learning-steers-generative-models-toward-novel]]
 <!-- graph:end -->

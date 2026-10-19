@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-08-04-spacex-revenue-nearly-doubles-on-ai-compute-deals-and-starli
 - 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
-embedding_id: null
+embedding_id: 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 event_name: ''
 ---
 

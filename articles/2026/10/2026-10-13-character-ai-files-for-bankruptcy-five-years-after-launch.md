@@ -21,9 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
+- 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
-- 2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane
-embedding_id: null
+- 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
+- 2026-10-18-disney-to-hire-majority-of-character-ai-workforce
+embedding_id: 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 event_name: ''
 ---
 
@@ -35,5 +37,5 @@ Character.AI filed for bankruptcy and plans to sell some assets to Disney for $2
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-09-03-crusoe-raises-3-billion-at-a-30-billion-valuation-after-jane]]
+**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]] · [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]]
 <!-- graph:end -->

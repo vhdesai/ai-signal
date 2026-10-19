@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-09-23-openai-blog-focused-on-new-models-and-evaluation-principles
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
-embedding_id: null
+embedding_id: 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 event_name: ''
 ---
 

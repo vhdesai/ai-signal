@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-to-defuse
 event_name: ''
 ---
 

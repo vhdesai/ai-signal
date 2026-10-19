@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
 - 2026-08-06-openai-details-how-test-agents-built-a-covert-message-board
 - 2026-09-16-reuters-exclusive-openai-s-rogue-agents-probed-hugging-face
-embedding_id: null
+embedding_id: 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 event_name: ''
 ---
 

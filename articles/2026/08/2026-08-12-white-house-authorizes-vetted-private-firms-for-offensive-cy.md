@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-trump-memo-lets-private-companies-hack-foreign-cybercriminal
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 - 2026-08-05-lawmakers-criticize-ad-hoc-federal-ai-strategy-as-firms-nego
-embedding_id: null
+embedding_id: 2026-08-12-white-house-authorizes-vetted-private-firms-for-offensive-cy
 event_name: ''
 ---
 

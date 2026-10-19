@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-07-advocacy-group-urges-openai-to-keep-teens-off-chatgpt
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
 - 2026-08-18-openai-launches-a-safer-chatgpt-for-teens
-embedding_id: null
+embedding_id: 2026-10-07-independent-testing-challenges-chatgpt-teen-safeguards
 event_name: ''
 ---
 

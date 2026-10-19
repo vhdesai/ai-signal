@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-up-to-49-pe
 - 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
 - 2026-08-21-nvidia-research-the-agent-harness-not-the-base-model-drives
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 event_name: ''
 ---
 

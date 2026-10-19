@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
-embedding_id: null
+embedding_id: 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing
 event_name: ''
 ---
 

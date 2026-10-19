@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-08-11-daily-ai-news-digest-august-12-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
-embedding_id: null
+embedding_id: 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 event_name: ''
 ---
 

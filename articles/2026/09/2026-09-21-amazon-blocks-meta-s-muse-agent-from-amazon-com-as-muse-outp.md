@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-22-amazon-blocks-meta-s-muse-agent-from-shopping-on-amazon-com
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-opening-a-platform-control-f
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
-embedding_id: null
+embedding_id: 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
 event_name: ''
 ---
 

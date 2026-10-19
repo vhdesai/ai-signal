@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-embedding_id: null
+embedding_id: 2026-10-10-petra-power-pitches-solid-oxide-fuel-cells-for-future-data-c
 event_name: ''
 ---
 

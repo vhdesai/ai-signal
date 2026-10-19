@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-10-12-palantir-and-ondas-launch-regna-ai-for-sovereign-defense-ope
 - 2026-09-12-nebius-and-palantir-announce-sovereign-ai-partnership-behind
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-embedding_id: null
+embedding_id: 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 event_name: ''
 ---
 

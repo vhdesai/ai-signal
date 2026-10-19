@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 event_name: ''
 ---
 

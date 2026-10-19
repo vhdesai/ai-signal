@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 - 2026-08-17-cursor-acquisition-marks-second-largest-of-vc-backed-company
 - 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-embedding_id: null
+embedding_id: 2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla
 event_name: ''
 ---
 

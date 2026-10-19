@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-22-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-out
 - 2026-08-22-inherent-exits-stealth-with-50m-claims-its-agent-beats-front
 - 2026-08-22-inherent-exits-stealth-with-50m-says-its-agent-beats-frontie
-embedding_id: null
+embedding_id: 2026-08-22-deepmind-alumni-startup-inherent-claims-its-ai-teammate-beat
 event_name: ''
 ---
 

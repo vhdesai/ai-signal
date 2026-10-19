@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-rea
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-bottlecap-ai-releases-thinkingcap-qwen3-8-27b-to-reduce-reas
 event_name: ''
 ---
 

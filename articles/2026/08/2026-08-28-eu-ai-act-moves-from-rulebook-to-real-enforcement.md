@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
-embedding_id: null
+embedding_id: 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 event_name: ''
 ---
 

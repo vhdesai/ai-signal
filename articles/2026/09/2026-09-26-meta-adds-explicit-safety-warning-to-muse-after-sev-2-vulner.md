@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-meta-adds-explicit-safety-warning-to-muse-after-sev-2-vulner
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-22-altman-and-amodei-to-brief-the-un-security-council-on-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-22-amodei-and-altman-to-brief-the-un-security-council-on-ai-wed
 event_name: ''
 ---
 

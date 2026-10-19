@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: OpenAI
 url_original: https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/
 url_canonical: https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
 content_hash: 7d0f3ca474bc01e5271e85879f94150da65bad3a84721c80e77baf5993252ef2
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
-embedding_id: null
+embedding_id: 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
 event_name: ''
 ---
 

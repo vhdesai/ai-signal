@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-19-barret-zoph-exits-openai-again-after-five-months-leading-ent
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-07-12-openai-safety-governance
-embedding_id: null
+embedding_id: 2026-08-22-openai-s-americas-sales-vp-resigns-after-five-months-returni
 event_name: ''
 ---
 

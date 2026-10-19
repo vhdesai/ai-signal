@@ -4,8 +4,8 @@ title: Terence Tao Resurrects Two Dozen 1999 Math Applets Using an AI Coding Age
 date: '2026-07-11'
 source: Terence Tao Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.augmentcode.com/learn/terence-tao-java-applets-ai-agent-port
+url_status: repaired
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: d44692a2c16c8d22e1eb005d4c1fd8e314fe6a01650cd32412994fae2ea44316
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-05-fermat-s-last-theorem-formalised-by-ai-agents-in-just-11-day
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-embedding_id: null
+embedding_id: 2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
 - 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
-embedding_id: null
+embedding_id: 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
 event_name: ''
 ---
 

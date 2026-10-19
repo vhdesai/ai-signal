@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
 - 2026-07-30-openai-cuts-gpt-5-6-prices-luna-down-80-adds-sol-fast-mode
 - 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
-embedding_id: null
+embedding_id: 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-09-22-axios-published-a-striking-analytical-piece-arguing-that-wit
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
-embedding_id: null
+embedding_id: 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
 event_name: ''
 ---
 

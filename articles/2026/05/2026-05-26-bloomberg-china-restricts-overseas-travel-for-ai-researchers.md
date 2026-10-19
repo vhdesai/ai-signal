@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba
 - 2026-05-26-china-formally-requires-government-sign-off-before-top-aliba
 - 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
-embedding_id: null
+embedding_id: 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 event_name: ''
 ---
 

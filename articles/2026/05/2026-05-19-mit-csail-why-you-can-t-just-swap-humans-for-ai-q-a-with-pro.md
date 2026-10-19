@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio
 - 2026-09-22-mit-s-poitras-center-to-fund-early-careers-of-50-young-scien
-embedding_id: null
+embedding_id: 2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro
 event_name: ''
 ---
 

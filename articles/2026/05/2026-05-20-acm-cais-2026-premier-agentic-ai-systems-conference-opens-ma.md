@@ -33,7 +33,7 @@ related_article_ids:
 - event-acm-cais-2026-acm-cais-2026-overview
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 - 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
-embedding_id: null
+embedding_id: 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 event_name: ''
 ---
 

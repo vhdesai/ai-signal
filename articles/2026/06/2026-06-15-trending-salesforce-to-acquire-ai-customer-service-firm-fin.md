@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
-embedding_id: null
+embedding_id: 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 event_name: ''
 ---
 

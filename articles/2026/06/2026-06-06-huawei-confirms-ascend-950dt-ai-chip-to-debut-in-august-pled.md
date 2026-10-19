@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled
 event_name: ''
 ---
 

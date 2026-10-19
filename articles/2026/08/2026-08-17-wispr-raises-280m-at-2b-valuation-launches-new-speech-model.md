@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-17-wispr-raises-280m-at-a-2b-valuation-expanding-beyond-ai-dict
 - 2026-08-17-wispr-raises-280m-at-a-2b-valuation-to-expand-beyond-dictati
 - 2026-08-17-higgsfield-raises-400m-at-5-4b-wispr-raises-280m-at-2b
-embedding_id: null
+embedding_id: 2026-08-17-wispr-raises-280m-at-2b-valuation-launches-new-speech-model
 event_name: ''
 ---
 

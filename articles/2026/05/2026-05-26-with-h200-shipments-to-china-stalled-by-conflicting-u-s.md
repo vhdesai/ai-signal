@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-embedding_id: null
+embedding_id: 2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s
 event_name: ''
 ---
 

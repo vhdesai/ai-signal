@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 - 2026-08-27-ut-austin-to-lead-30m-nsf-center-on-human-robot-co-adaptatio
-embedding_id: null
+embedding_id: 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 event_name: ''
 ---
 

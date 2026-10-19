@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-16-the-white-house-released-a-comprehensive-national-policy-fra
-embedding_id: null
+embedding_id: 2026-06-11-white-house-pushes-to-block-state-ai-laws-by-tying-preemptio
 event_name: ''
 ---
 

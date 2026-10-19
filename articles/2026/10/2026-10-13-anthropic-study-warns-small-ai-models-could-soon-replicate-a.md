@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-12-anthropic-examines-replication-risks-beyond-datacenter-hardw
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-embedding_id: null
+embedding_id: 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 event_name: ''
 ---
 

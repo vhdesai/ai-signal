@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-12-daily-ai-news-digest-august-13-2026
 - 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 - 2026-05-27-the-week-that-reset-the-ai-industry
-embedding_id: null
+embedding_id: 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
 event_name: ''
 ---
 

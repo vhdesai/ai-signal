@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-amazon-brings-openai-meta-and-anthropic-models-to-aws-govclo
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 - 2026-10-07-anthropic-widens-access-to-ai-cyber-capabilities-for-vetted
-embedding_id: null
+embedding_id: 2026-10-07-anthropic-and-aws-formalize-the-forward-deployed-engineer-pu
 event_name: ''
 ---
 

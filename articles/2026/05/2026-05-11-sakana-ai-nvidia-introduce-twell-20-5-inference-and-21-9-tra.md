@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
 - 2026-08-07-counterpoint-92-of-sovereign-llms-trained-on-nvidia-silicon
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
-embedding_id: null
+embedding_id: 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-09-03-snowflake-resists-outcome-based-pricing-as-coco-adoption-gro
 - 2026-09-24-software-discounts-and-free-tier-offers-bloom-as-ai-pricing
-embedding_id: null
+embedding_id: 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 event_name: ''
 ---
 

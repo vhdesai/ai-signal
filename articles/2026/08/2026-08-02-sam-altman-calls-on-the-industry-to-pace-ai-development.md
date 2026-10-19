@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
-embedding_id: null
+embedding_id: 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 event_name: ''
 ---
 

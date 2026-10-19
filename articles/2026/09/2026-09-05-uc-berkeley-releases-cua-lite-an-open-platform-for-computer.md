@@ -5,7 +5,7 @@ date: '2026-09-05'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/
 url_canonical: https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 99947e4814b8a8149b4ab669875bae9feef3fb313c18e601f3671f663fcdad54
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-05-uc-berkeley-releases-cua-lite-a-unified-platform-for-compute
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-05-uc-berkeley-releases-cua-lite-an-open-platform-for-computer
 event_name: ''
 ---
 

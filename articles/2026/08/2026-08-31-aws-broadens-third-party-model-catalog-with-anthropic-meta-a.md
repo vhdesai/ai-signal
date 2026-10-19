@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-aws-broadens-third-party-model-catalog-with-anthropic-meta-a
 event_name: ''
 ---
 

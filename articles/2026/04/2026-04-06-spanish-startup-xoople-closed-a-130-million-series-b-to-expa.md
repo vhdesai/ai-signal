@@ -5,8 +5,8 @@ title: Spanish startup Xoople closed a $130 million Series B to expand its const
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: eda91194473cde5482adc55e3858f119c891edcec1b596608c2e39aa16630593
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 - 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 - 2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la
-embedding_id: null
+embedding_id: 2026-04-06-spanish-startup-xoople-closed-a-130-million-series-b-to-expa
 event_name: ''
 ---
 

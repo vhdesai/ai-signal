@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 - 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
-embedding_id: null
+embedding_id: 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 event_name: ''
 ---
 

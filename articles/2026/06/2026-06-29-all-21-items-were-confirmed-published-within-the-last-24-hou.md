@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 - 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
-embedding_id: null
+embedding_id: 2026-06-29-all-21-items-were-confirmed-published-within-the-last-24-hou
 event_name: ''
 ---
 

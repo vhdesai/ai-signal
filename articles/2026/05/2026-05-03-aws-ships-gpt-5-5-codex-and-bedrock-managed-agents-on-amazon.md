@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-24-openai-brings-the-gpt-5-6-model-family-to-aws-s-kironew
 - 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
 - 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
-embedding_id: null
+embedding_id: 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 event_name: ''
 ---
 

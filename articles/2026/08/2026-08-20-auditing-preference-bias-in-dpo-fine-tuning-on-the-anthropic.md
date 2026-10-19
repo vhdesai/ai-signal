@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-08-09-applied-methods-walkthrough-distilbert-lora-fine-tuning-for
-embedding_id: null
+embedding_id: 2026-08-20-auditing-preference-bias-in-dpo-fine-tuning-on-the-anthropic
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-embedding_id: null
+embedding_id: 2026-10-05-preference-research-exposes-limits-of-automated-evaluation
 event_name: ''
 ---
 

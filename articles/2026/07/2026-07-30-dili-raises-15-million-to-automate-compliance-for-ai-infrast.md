@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-naive-raises-28-5-million-to-automate-company-setup-and-back
 - 2026-08-12-thrive-holdings-raises-2b-to-push-ai-into-regulated-workflow
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
-embedding_id: null
+embedding_id: 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
 event_name: ''
 ---
 

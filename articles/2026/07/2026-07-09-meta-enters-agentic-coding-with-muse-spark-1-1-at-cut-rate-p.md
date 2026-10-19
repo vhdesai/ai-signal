@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 - 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 - 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
-embedding_id: null
+embedding_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
 event_name: ''
 ---
 

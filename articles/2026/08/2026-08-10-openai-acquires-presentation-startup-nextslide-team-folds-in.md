@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-acquires-presentation-startup-nextslide
 related_article_ids:
 - 2026-08-08-openai-acquires-presentation-startup-nextslide
-embedding_id: null
+embedding_id: 2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-20-alibaba-qwen-releases-qwen3-8-livetranslate-with-2-3-second
 - 2026-09-19-qwen3-8-livetranslate-cuts-real-time-interpretation-lag-to-2
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-embedding_id: null
+embedding_id: 2026-09-19-alibaba-qwen-releases-qwen3-8-livetranslate-for-low-latency
 event_name: ''
 ---
 

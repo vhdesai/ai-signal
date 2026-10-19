@@ -5,8 +5,8 @@ title: MIT researchers published a testing framework that identifies when AI dec
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 872807a3cab6b91c71768df001a14d19ea03976fef651cd379856d236e034da0
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-05-02-carnegie-mellon-researchers-and-collaborators-published-towa
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
-embedding_id: null
+embedding_id: 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
 event_name: ''
 ---
 

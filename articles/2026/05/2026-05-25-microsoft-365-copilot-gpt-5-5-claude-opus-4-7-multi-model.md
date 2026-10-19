@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
-embedding_id: null
+embedding_id: 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
 event_name: ''
 ---
 

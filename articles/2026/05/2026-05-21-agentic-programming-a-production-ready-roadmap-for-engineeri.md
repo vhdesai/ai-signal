@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-24-machine-learning-mastery-publishes-guidance-on-integrating-a
 - 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: null
+embedding_id: 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 event_name: ''
 ---
 

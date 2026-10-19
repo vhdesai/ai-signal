@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-21-broadcom-seeks-60-80b-in-debt-to-build-ai-chip-capacity-for
 - 2026-08-14-bofa-warns-broadcom-s-chip-financing-vehicle-could-carry-370
 - 2026-10-09-oracle-broadcom-and-spacex-seek-large-debt-packages-to-fund
-embedding_id: null
+embedding_id: 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 event_name: ''
 ---
 

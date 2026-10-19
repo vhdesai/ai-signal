@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
-embedding_id: null
+embedding_id: 2026-10-05-new-survey-puts-google-first-as-primary-ai-platform-with-sam
 event_name: ''
 ---
 

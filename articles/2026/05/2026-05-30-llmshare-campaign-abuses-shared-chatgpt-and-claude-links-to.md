@@ -4,8 +4,8 @@ title: '"LLMShare" Campaign Abuses Shared ChatGPT and Claude Links to Spread Mal
 date: '2026-05-30'
 source: Cybernews
 url_original: https://cybernews.com/cybercrime/hackers-turn-chatgpt-into-a-malware-delivery-platform/
-url_canonical: https://cybernews.com/cybercrime/hackers-turn-chatgpt-into-a-malware-delivery-platform/
-url_status: broken
+url_canonical: https://pushsecurity.com/blog/llmshare-malvertising-campaign
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: c9be760bbf32a9332af9cfb2976ca5044e9b9357b456de6b629718254d5f7107
 normalized_title_hash: fe70cd3ddb4750fc
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-simultaneous-outages-hit-chatgpt-claude-and-grok
 - 2026-09-07-chatgpt-claude-and-grok-degrade-simultaneously
 - 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
-embedding_id: null
+embedding_id: 2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to
 event_name: ''
 ---
 

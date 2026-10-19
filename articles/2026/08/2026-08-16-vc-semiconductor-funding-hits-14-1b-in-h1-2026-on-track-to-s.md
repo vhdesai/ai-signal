@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 - 2026-08-18-vcs-poured-47-4b-into-physical-ai-in-the-first-half-of-2026
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: null
+embedding_id: 2026-08-16-vc-semiconductor-funding-hits-14-1b-in-h1-2026-on-track-to-s
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-08-20-apple-music-to-apply-visible-made-with-ai-labels-to-generate
-embedding_id: null
+embedding_id: 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 event_name: ''
 ---
 

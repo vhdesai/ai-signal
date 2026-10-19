@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
-embedding_id: null
+embedding_id: 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 event_name: ''
 ---
 

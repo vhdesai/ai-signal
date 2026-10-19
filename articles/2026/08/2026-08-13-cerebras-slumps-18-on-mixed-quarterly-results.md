@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-08-13-cerebras-shares-fall-16-despite-revenue-growth-and-25b-backl
-embedding_id: null
+embedding_id: 2026-08-13-cerebras-slumps-18-on-mixed-quarterly-results
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-embedding_id: null
+embedding_id: 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 event_name: ''
 ---
 

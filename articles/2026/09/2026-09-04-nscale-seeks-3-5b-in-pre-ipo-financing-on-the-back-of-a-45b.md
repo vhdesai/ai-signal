@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-ai-compute-provider-nscale-seeks-3-5b-in-pre-ipo-financing
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-nscale-seeks-3-5b-in-pre-ipo-financing-on-the-back-of-a-45b
 event_name: ''
 ---
 

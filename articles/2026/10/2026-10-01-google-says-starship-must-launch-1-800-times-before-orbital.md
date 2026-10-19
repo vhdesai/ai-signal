@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-01-google-says-starship-must-launch-1-800-times-before-orbital
 event_name: ''
 ---
 

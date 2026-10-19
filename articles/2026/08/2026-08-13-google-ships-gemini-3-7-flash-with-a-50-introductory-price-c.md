@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-13-google-releases-gemini-3-7-flash-as-a-coding-and-agent-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-13-google-ships-gemini-3-7-flash-with-a-50-introductory-price-c
 event_name: ''
 ---
 

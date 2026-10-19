@@ -4,8 +4,8 @@ title: Liquid AI releases CPU-friendly LFM2.5 encoder models
 date: '2026-07-29'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
+url_status: repaired
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
 content_hash: 6762d5a83b796e0f2867aa1e7df585af08e98766718580084b1236dfbcc08452
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-09-25-liquid-ai-brings-speculative-decoding-to-vision-language-mod
 - 2026-09-25-liquid-ai-releases-lfm2-5-vl-3b-dspark-for-faster-vision-lan
-embedding_id: null
+embedding_id: 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-12-microsoft-president-says-the-uk-is-best-positioned-to-lead-g
 - 2026-10-12-brad-smith-says-washing-machines-face-more-safety-rules-than
 - 2026-09-23-microsoft-s-brad-smith-formally-endorses-a-mandated-emergenc
-embedding_id: null
+embedding_id: 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 event_name: ''
 ---
 

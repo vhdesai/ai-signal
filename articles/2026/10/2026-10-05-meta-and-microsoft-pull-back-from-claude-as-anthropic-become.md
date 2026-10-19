@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-anthropic-gives-startups-a-free-year-of-claude-team-and-1-00
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-08-31-meta-internally-projected-spending-up-to-10-billion-a-year-o
-embedding_id: null
+embedding_id: 2026-10-05-meta-and-microsoft-pull-back-from-claude-as-anthropic-become
 event_name: ''
 ---
 

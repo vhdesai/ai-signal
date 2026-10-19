@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-flock-ceo-calls-for-compromise-as-ai-surveillance-backlash-g
 - 2026-08-23-ai-surveillance-joins-data-centers-as-a-2026-midterm-flashpo
 - 2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a
-embedding_id: null
+embedding_id: 2026-08-23-flock-safety-ceo-calls-for-compromise-as-ai-surveillance-fac
 event_name: ''
 ---
 

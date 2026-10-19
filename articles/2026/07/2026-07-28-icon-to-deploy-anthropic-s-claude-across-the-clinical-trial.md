@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-embedding_id: null
+embedding_id: 2026-07-28-icon-to-deploy-anthropic-s-claude-across-the-clinical-trial
 event_name: ''
 ---
 

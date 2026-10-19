@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 - 2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
-embedding_id: null
+embedding_id: 2026-10-10-openai-docs-list-a-gpt-rosalind-discovery-model-but-launch-d
 event_name: ''
 ---
 

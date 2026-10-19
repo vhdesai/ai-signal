@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 - 2026-09-04-deepseek-plans-a-160-000-chip-huawei-cluster-at-a-1gw-inner
-embedding_id: null
+embedding_id: 2026-10-13-china-mobile-triples-capacity-at-inner-mongolia-ai-compute-h
 event_name: ''
 ---
 

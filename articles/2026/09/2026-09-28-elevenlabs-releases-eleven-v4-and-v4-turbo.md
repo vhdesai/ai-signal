@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t
 - 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
-embedding_id: null
+embedding_id: 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo
 event_name: ''
 ---
 

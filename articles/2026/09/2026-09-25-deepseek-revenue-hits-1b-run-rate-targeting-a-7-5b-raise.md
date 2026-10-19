@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-25-deepseek-crosses-1b-annualized-revenue-after-raising-api-pri
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-25-deepseek-revenue-hits-1b-run-rate-targeting-a-7-5b-raise
 event_name: ''
 ---
 

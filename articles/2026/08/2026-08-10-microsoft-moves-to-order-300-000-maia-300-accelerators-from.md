@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip
 - 2026-10-12-microsoft-s-maia-300-push-aims-to-reduce-nvidia-dependence-a
 - event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
-embedding_id: null
+embedding_id: 2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from
 event_name: ''
 ---
 

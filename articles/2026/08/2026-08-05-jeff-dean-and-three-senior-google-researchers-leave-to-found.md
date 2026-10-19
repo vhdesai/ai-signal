@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-jeff-dean-and-three-senior-google-researchers-leave-to-found
 event_name: ''
 ---
 

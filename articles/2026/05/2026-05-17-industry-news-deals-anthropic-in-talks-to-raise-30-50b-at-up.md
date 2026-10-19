@@ -5,8 +5,8 @@ title: 💼 Industry News & Deals Anthropic in Talks to Raise $30–50B at Up to
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://annlive.com/news/anthropic-passed-openai-950-billion-valuation-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 80bce0b231c3c3586dce0bac23d02bad9ea1a0db7c7b54a146ba74821c99085e
@@ -34,7 +34,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
-embedding_id: null
+embedding_id: 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
 event_name: ''
 ---
 

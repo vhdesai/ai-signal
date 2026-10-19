@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
-embedding_id: null
+embedding_id: 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
 event_name: ''
 ---
 

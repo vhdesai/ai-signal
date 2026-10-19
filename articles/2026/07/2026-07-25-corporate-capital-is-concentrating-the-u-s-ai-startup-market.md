@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
 - 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
-embedding_id: null
+embedding_id: 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 event_name: ''
 ---
 

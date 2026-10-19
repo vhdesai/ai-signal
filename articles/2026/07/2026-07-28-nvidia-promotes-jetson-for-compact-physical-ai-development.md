@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
 - 2026-07-20-nvidia-releases-cosmos-3-edge-for-on-device-physical-ai
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-embedding_id: null
+embedding_id: 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 event_name: ''
 ---
 

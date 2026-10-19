@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-embedding_id: null
+embedding_id: 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 event_name: ''
 ---
 

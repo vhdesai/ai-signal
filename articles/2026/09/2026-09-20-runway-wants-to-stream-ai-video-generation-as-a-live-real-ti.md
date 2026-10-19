@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 - 2026-09-18-techcrunch-world-model-companies-are-unusually-secretive-abo
 - 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
-embedding_id: null
+embedding_id: 2026-09-20-runway-wants-to-stream-ai-video-generation-as-a-live-real-ti
 event_name: ''
 ---
 

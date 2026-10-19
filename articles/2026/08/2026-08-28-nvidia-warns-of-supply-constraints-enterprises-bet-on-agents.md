@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-26-bill-gates-warns-about-ai-risks
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 - 2026-09-22-nvidia-releases-isaac-ros-5-0-for-agentic-open-source-roboti
-embedding_id: null
+embedding_id: 2026-08-28-nvidia-warns-of-supply-constraints-enterprises-bet-on-agents
 event_name: ''
 ---
 

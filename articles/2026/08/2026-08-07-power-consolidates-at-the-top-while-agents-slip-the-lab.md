@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
 - 2026-08-05-daily-ai-news-digest-august-6-2026
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-embedding_id: null
+embedding_id: 2026-08-07-power-consolidates-at-the-top-while-agents-slip-the-lab
 event_name: ''
 ---
 

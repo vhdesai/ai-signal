@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
-embedding_id: null
+embedding_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
 event_name: ''
 ---
 

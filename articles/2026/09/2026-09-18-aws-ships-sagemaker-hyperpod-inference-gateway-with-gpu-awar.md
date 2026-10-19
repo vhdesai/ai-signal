@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 - 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
 - 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
-embedding_id: null
+embedding_id: 2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar
 event_name: ''
 ---
 

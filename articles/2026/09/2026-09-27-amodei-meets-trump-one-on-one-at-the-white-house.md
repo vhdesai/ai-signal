@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-28-amodei-dines-with-trump-as-both-labs-decline-australia-s-sen
 - 2026-06-20-president-trump-told-axios-in-a-pre-taped-interview-that-he
 - 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
-embedding_id: null
+embedding_id: 2026-09-27-amodei-meets-trump-one-on-one-at-the-white-house
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: AWS Taps Apple Executive to Lead Key AI Products
 date: '2026-07-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AWS+Apple+executive+AI+products
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=AWS+Apple+executive+AI+products
-url_status: broken
+url_canonical: https://www.msn.com/en-us/money/general/aws-hires-former-apple-google-executive-to-lead-key-ai-services/ar-AA297ERx
+url_status: repaired
 digest_source: digests\raw\2026-07-31_065022_Final-Daily-AI-News-Digest.md
 content_hash: 1b93914218b9c3eaf7ef04c728391ebbf725fac28f2495119c76cac78fbceb1e
 normalized_title_hash: c7845dec5ab6e0a3
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 - 2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-to-accelerate
-embedding_id: null
+embedding_id: 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 event_name: ''
 ---
 

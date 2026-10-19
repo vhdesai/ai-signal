@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
-embedding_id: null
+embedding_id: 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 event_name: ''
 ---
 

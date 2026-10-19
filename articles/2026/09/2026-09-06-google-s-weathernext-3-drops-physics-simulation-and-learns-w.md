@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: China blocks Meta's $2B+ acquisition of Manus
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aimagazine.com/news/why-is-china-blocking-metas-us-2bn-manus-acquisition
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 8e8b0c1cafa8189d1480394a23eaf9e3c17e6960f70edb586e1a330958063d2f
 normalized_title_hash: 8df73da56f52b8d4
@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-27-china-blocks-meta-s-2b-acquisition-of-manus
 event_name: ''
 ---
 

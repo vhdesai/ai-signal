@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 - 2026-09-21-openai-stands-up-advisory-group-on-mathematics-and-ai-at-the
-embedding_id: null
+embedding_id: 2026-10-13-western-mathematicians-resist-ai-proofs-as-china-builds-an-a
 event_name: ''
 ---
 

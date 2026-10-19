@@ -4,8 +4,8 @@ title: Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/xbox-cuts-employees-with-plans-to-shed-more-workforce-2026-7
+url_status: repaired
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: 563993469e365158d4f2a0fa42e3e9a59d82001023db9b7c7078db90fd781c0e
 normalized_title_hash: 79fbfb0dc9b6edd9
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-08-26-microsoft-leaving-investors-flying-blind-on-ai-businesses
 - 2026-08-26-microsoft-is-leaving-investors-flying-blind-on-its-ai-busine
-embedding_id: null
+embedding_id: 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 event_name: ''
 ---
 

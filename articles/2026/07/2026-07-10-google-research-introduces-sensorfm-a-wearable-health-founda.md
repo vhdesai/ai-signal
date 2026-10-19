@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-26-google-research-introduces-glucofm-a-0-72m-parameter-foundat
 - 2026-08-31-google-research-releases-timesfm-3-a-330m-parameter-zero-sho
 - 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
-embedding_id: null
+embedding_id: 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 event_name: ''
 ---
 

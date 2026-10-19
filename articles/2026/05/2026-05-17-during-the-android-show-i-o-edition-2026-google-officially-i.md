@@ -5,8 +5,8 @@ title: 'During The Android Show: I/O Edition 2026, Google officially introduced 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.android.com/new-features-on-android/io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 788635a32ffd00800c2d73571101e1a821e7cc837f84362f3f82b1c76612e336
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
 - 2026-09-21-google-opens-preorders-for-899-googlebook-an-ai-native-lapto
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
-embedding_id: null
+embedding_id: 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
 event_name: ''
 ---
 

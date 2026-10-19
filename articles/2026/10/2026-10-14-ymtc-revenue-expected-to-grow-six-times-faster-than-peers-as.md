@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-china-s-cxmt-debuts-on-shanghai-s-star-market-with-an-8-6b-r
 - 2026-08-14-china-s-cxmt-nears-intel-s-market-cap-becoming-one-of-the-wo
-embedding_id: null
+embedding_id: 2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as
 event_name: ''
 ---
 

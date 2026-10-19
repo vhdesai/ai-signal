@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-08-28-salesforce-rockets-23-saasaissance-declared-as-software-stoc
-embedding_id: null
+embedding_id: 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 event_name: ''
 ---
 

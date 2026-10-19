@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 - 2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat
 - 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
-embedding_id: null
+embedding_id: 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 event_name: ''
 ---
 

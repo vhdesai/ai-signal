@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-10-huawei-lifts-ascend-950dt-pricing-60-as-hbm-shortage-reaches
 - 2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
-embedding_id: null
+embedding_id: 2026-09-10-china-s-ai-chip-prices-jump-20-50-as-hbm-shortage-bites
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 - 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
-embedding_id: null
+embedding_id: 2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil
 event_name: ''
 ---
 

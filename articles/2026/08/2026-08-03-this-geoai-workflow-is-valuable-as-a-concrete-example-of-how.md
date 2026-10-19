@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-how-ai-native-companies-turn-workflows-into-operating-capabi
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-08-31-planetary-prediction-engine-automating-global-models-via-ear
-embedding_id: null
+embedding_id: 2026-08-03-this-geoai-workflow-is-valuable-as-a-concrete-example-of-how
 event_name: ''
 ---
 

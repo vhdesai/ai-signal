@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip
 - 2026-10-02-baidu-chip-unit-pursues-50b-hong-kong-ipo-infinigence-files
 - 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
-embedding_id: null
+embedding_id: 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 event_name: ''
 ---
 

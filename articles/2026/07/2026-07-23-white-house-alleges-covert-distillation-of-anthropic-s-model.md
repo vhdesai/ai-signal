@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh
 - 2026-07-23-experts-question-claim-that-kimi-k3-got-strong-primarily-by
 - 2026-07-23-experts-say-exploiting-anthropic-s-fable-is-not-enough-to-ex
-embedding_id: null
+embedding_id: 2026-07-23-white-house-alleges-covert-distillation-of-anthropic-s-model
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-07-mit-advances-collision-free-drone-planning-under-uncertainty
 - 2026-09-18-millemiglia-a-realistic-instance-generator-for-middle-mile-l
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
-embedding_id: null
+embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
 

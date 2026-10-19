@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-embedding_id: null
+embedding_id: 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: null
+embedding_id: 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 event_name: ''
 ---
 

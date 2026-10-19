@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
 event_name: ''
 ---
 

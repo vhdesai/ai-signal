@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 - 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 - 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
-embedding_id: null
+embedding_id: 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
 event_name: ''
 ---
 

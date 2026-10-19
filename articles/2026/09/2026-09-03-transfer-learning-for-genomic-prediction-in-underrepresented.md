@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-15-google-research-offers-a-mathematical-account-of-diffusion-m
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-08-20-auditing-preference-bias-in-dpo-fine-tuning-on-the-anthropic
-embedding_id: null
+embedding_id: 2026-09-03-transfer-learning-for-genomic-prediction-in-underrepresented
 event_name: ''
 ---
 

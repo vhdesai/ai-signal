@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-14-anthropic-reportedly-weighing-2-trillion-valuation-for-an-oc
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-08-13-anthropic-2t-ipo-6b-decart-acquisition-secondary-market-fren
-embedding_id: null
+embedding_id: 2026-08-13-anthropic-reportedly-weighing-2t-valuation-for-october-ipo
 event_name: ''
 ---
 

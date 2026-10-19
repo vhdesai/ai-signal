@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-05-planetizen-reports-mit-is-creating-an-ai-powered-hub-for-pub
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-embedding_id: null
+embedding_id: 2026-09-30-mit-transit-lab-to-build-an-ai-decision-support-hub-for-tran
 event_name: ''
 ---
 

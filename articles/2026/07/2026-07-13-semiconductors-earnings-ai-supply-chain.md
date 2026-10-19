@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-semiconductors-earnings-ai-supply-chain
 event_name: ''
 ---
 

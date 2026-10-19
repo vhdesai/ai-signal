@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin
-embedding_id: null
+embedding_id: 2026-08-27-meta-closes-smart-glasses-loophole-that-allowed-recording-wi
 event_name: ''
 ---
 

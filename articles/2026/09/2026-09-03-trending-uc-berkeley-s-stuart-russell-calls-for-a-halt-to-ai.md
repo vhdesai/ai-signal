@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
 - 2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr
 - 2026-09-23-daily-ai-news-digest-september-24-2026
-embedding_id: null
+embedding_id: 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 event_name: ''
 ---
 

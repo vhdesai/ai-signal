@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-09-25-china-overtakes-us-as-the-top-workplace-for-elite-ai-researc
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-embedding_id: null
+embedding_id: 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 event_name: ''
 ---
 

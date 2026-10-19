@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-ai-leaders-warn-the-un-about-security-risks-as-systems-grow
 - 2026-09-23-altman-and-amodei-address-the-un-security-council-as-washing
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
-embedding_id: null
+embedding_id: 2026-09-14-un-calls-for-urgent-action-on-ai-framing-unprecedented-risks
 event_name: ''
 ---
 

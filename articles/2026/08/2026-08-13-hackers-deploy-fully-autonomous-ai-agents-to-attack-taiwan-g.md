@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-12-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-08-13-autonomous-ai-agents-breach-taiwan-s-nuclear-regulator-in-a
 - 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
-embedding_id: null
+embedding_id: 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
 event_name: ''
 ---
 

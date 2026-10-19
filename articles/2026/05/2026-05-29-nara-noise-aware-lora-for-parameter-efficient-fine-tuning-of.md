@@ -4,8 +4,8 @@ title: 'NaRA: Noise-Aware LoRA for parameter-efficient fine-tuning of diffusion 
 date: '2026-05-29'
 source: arXiv cs.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.29716
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073426_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 7d2848eade7bf98da2dd9fce57ed36ddba892a21881cab6e0d80fc1c3b51f4fe
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 event_name: ''
 ---
 

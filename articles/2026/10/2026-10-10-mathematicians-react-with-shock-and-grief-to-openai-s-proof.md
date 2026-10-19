@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-10-06-openai-publishes-ai-generated-mathematics-for-external-scrut
 - 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
-embedding_id: null
+embedding_id: 2026-10-10-mathematicians-react-with-shock-and-grief-to-openai-s-proof
 event_name: ''
 ---
 

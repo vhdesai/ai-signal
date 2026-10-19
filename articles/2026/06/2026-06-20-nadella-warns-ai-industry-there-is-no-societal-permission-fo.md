@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 - 2026-09-01-air-emerges-from-stealth-with-50m-to-police-the-ai-agent-sof
 - 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
-embedding_id: null
+embedding_id: 2026-09-23-ema-raises-77m-as-ai-agents-start-eating-into-enterprise-sof
 event_name: ''
 ---
 

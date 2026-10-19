@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-eu-ai-act-moves-from-statute-to-enforcement
 - 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 - 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
-embedding_id: null
+embedding_id: 2026-08-28-the-eu-ai-act-moves-from-drafting-into-enforcement
 event_name: ''
 ---
 

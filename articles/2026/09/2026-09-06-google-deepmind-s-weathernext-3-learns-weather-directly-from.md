@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-google-s-weathernext-3-drops-physics-simulation-and-learns-w
 - 2026-09-06-google-s-weathernext-3-learns-weather-directly-from-satellit
 - 2026-09-03-google-deepmind-releases-weathernext-3-with-higher-resolutio
-embedding_id: null
+embedding_id: 2026-09-06-google-deepmind-s-weathernext-3-learns-weather-directly-from
 event_name: ''
 ---
 

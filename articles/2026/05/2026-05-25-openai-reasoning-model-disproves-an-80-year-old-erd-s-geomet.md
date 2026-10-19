@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 event_name: ''
 ---
 

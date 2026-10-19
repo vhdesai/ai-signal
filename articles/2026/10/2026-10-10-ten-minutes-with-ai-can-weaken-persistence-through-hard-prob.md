@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-21-academic-counterargument-extinction-scenarios-require-physic
 - 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-09-27-scientists-download-a-frontier-ai-model-into-a-self-driving
-embedding_id: null
+embedding_id: 2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob
 event_name: ''
 ---
 

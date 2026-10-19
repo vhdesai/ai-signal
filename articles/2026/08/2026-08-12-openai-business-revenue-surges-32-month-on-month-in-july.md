@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits
 - 2026-08-14-openai-passes-40b-run-rate-enterprise-now-larger-than-consum
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
-embedding_id: null
+embedding_id: 2026-08-12-openai-business-revenue-surges-32-month-on-month-in-july
 event_name: ''
 ---
 

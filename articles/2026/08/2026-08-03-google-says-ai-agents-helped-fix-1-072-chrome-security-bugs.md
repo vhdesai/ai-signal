@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 - 2026-07-30-google-ai-helped-chrome-fix-1-072-security-bugs-in-two-relea
 - 2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa
-embedding_id: null
+embedding_id: 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
 event_name: ''
 ---
 

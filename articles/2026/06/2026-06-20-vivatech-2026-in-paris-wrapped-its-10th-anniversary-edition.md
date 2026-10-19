@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 - 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
-embedding_id: null
+embedding_id: 2026-06-20-vivatech-2026-in-paris-wrapped-its-10th-anniversary-edition
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-27-hugging-face-opens-orders-for-microduck-a-399-open-source-ro
 - 2026-08-27-hugging-face-ships-microduck-a-399-open-source-robot
 - 2026-08-26-nvidia-hugging-face-12-9b-deal-still-progressing-continued
-embedding_id: null
+embedding_id: 2026-08-27-hugging-face-launches-399-open-source-microduck-robot-for-ph
 event_name: ''
 ---
 

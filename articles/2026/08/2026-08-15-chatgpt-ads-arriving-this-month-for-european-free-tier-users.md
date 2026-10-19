@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-tier-in-india
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-free-and-go-tiers-in-in
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
-embedding_id: null
+embedding_id: 2026-08-15-chatgpt-ads-arriving-this-month-for-european-free-tier-users
 event_name: ''
 ---
 

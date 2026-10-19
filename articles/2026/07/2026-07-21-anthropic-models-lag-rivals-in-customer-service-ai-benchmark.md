@@ -4,8 +4,8 @@ title: Anthropic models lag rivals in customer-service AI benchmarks
 date: '2026-07-21'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20customer%20service%20AI
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20customer%20service%20AI
-url_status: broken
+url_canonical: https://vinpatel.com/dispatch/anthropic-s-flagship-model-losing-ground-to-cheaper-rivals/
+url_status: repaired
 digest_source: digests\raw\2026-07-22_065707_Final-Daily-AI-News-Digest.md
 content_hash: 6bf3fb679d891422609615ec3c2e30ad295de013ee786c4febe0fc9d69b89478
 normalized_title_hash: 3daa4b6d858d85a1
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-inside-anthropic-moving-beyond-bigger-models-to-win-the-ente
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
-embedding_id: null
+embedding_id: 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Hot Amazon Commits $25B More to Anthropic; $100B AWS Capex
 date: '2026-04-20'
 source: CNBC / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 6728f49bec8a2e99d9efad5183ca842cc4a779a58dc67ece693dfbd77c0ab381
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-embedding_id: null
+embedding_id: 2026-04-20-hot-amazon-commits-25b-more-to-anthropic-100b-aws-capex
 event_name: ''
 ---
 

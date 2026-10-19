@@ -28,7 +28,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-20-microsoft-s-studentsim-realistic-simulated-learners-let-ai-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-20-microsoft-s-studentsim-simulated-learners-let-ai-tutors-trai
 event_name: ''
 ---
 

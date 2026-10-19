@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
 - 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
-embedding_id: null
+embedding_id: 2026-08-15-china-s-infiforce-raises-150m-for-an-embodied-ai-world-model
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
-embedding_id: null
+embedding_id: 2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders
 event_name: ''
 ---
 

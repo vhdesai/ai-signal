@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-07-20-alibaba-s-tongyi-lab-releases-qwen-audio-3-0-tts-across-16-l
 - 2026-09-28-elevenlabs-releases-eleven-v4-and-v4-turbo-adding-90-languag
-embedding_id: null
+embedding_id: 2026-05-27-omnivoice-studio-debuts-as-an-open-source-elevenlabs-alterna
 event_name: ''
 ---
 

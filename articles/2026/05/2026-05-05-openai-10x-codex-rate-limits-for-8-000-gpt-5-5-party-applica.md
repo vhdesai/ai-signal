@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-embedding_id: null
+embedding_id: 2026-05-05-openai-10x-codex-rate-limits-for-8-000-gpt-5-5-party-applica
 event_name: ''
 ---
 

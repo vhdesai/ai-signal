@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: OpenAI
 url_original: https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
 url_canonical: https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: b9ac6e67494302514f78331f13ba22c36b36bd51fe256ad45cd95bf77a8bb9bd
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-11-gpt-rosalind-exits-research-preview-for-life-sciences-organi
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 - 2026-04-20-openai-blog-april-18-2026-openai-introduced-gpt-rosalind-a-s
-embedding_id: null
+embedding_id: 2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research
 event_name: ''
 ---
 

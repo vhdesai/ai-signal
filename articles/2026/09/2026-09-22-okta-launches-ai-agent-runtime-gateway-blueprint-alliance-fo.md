@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-17-cloudways-launches-managed-ai-agents-with-openclaw-and-herme
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-10-02-aws-unveils-well-architected-ai-agent-that-acts-like-a-cloud
-embedding_id: null
+embedding_id: 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-embedding_id: null
+embedding_id: 2026-10-09-wall-street-builds-a-new-financial-system-around-nvidia-chip
 event_name: ''
 ---
 

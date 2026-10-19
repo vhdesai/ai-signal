@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-saudi-arabia-s-humain-launches-a-428b-arabic-model-built-on
 - 2026-09-04-saudi-arabia-s-humain-launches-428b-parameter-arabic-model-b
 - 2026-09-04-saudi-arabia-s-humain-launches-arabic-llm-built-on-china-s-m
-embedding_id: null
+embedding_id: 2026-08-26-microsoft-and-humain-to-bring-allam-arabic-models-into-found
 event_name: ''
 ---
 

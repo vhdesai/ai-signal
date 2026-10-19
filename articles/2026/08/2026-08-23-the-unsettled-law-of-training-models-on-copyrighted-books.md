@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-13-companies-still-cannot-prove-their-ai-spending-pays-off
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
-embedding_id: null
+embedding_id: 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
 event_name: ''
 ---
 

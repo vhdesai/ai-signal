@@ -4,8 +4,8 @@ title: 🔥 HOT Anthropic Surpasses OpenAI in U.S. Business AI Adoption
 date: '2026-05-13'
 source: VentureBeat / Ramp AI Index
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ramp.com/data/ai-index-may-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 4fcea46791c398845b8a30d9286ba7b2dd1285f4aac9a85783b40bffee1a43e9
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
 event_name: ''
 ---
 

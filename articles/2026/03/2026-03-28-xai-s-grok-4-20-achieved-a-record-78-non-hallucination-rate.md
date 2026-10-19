@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 - 2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl
 - 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-embedding_id: null
+embedding_id: 2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate
 event_name: ''
 ---
 

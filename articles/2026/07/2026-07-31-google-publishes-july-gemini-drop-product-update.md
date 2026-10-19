@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 - 2026-08-13-google-announces-gemini-3-7-flash-three-weeks-after-its-prev
 - 2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl
-embedding_id: null
+embedding_id: 2026-07-31-google-publishes-july-gemini-drop-product-update
 event_name: ''
 ---
 

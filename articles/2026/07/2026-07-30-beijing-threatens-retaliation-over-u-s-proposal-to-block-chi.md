@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 - 2026-08-30-u-s-raises-barriers-on-foreign-drones-and-robots-china-s-sca
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-embedding_id: null
+embedding_id: 2026-07-30-beijing-threatens-retaliation-over-u-s-proposal-to-block-chi
 event_name: ''
 ---
 

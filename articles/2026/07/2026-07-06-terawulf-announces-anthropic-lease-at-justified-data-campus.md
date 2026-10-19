@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio
-embedding_id: null
+embedding_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
 event_name: ''
 ---
 

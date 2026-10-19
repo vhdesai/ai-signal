@@ -27,7 +27,7 @@ canonical_article_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-in
 related_article_ids:
 - 2026-07-10-openai-introduces-chatgpt-work-as-a-gpt-5-6-powered-professi
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-embedding_id: null
+embedding_id: 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 event_name: ''
 ---
 

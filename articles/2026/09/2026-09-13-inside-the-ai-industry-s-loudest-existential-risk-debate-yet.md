@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-29-anthropic-warns-of-existential-ai-risks-to-humanity-in-ipo-d
 - 2026-09-30-anthropic-s-1-explicitly-names-ai-existential-risk-50-of-rev
 - 2026-09-13-techcrunch-what-s-actually-behind-the-industry-s-coordinated
-embedding_id: null
+embedding_id: 2026-09-13-inside-the-ai-industry-s-loudest-existential-risk-debate-yet
 event_name: ''
 ---
 

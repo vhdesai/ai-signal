@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-french-finance-minister-warns-europe-cannot-rely-on-mistral
 - 2026-09-14-beijing-pushes-back-on-anthropic-ceo-s-call-to-curb-china-s
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-embedding_id: null
+embedding_id: 2026-09-14-germany-says-halting-ai-development-is-not-viable-and-calls
 event_name: ''
 ---
 

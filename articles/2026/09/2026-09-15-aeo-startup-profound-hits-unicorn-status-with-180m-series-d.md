@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-afterquery-becomes-y-combinator-s-fastest-ever-unicorn-at-a
 - 2026-09-02-enterprise-ai-startup-wonderful-raises-550m-at-a-5-billion-v
 - 2026-06-18-baseten-closes-1-5b-round-at-up-to-13b-valuation-as-open-sou
-embedding_id: null
+embedding_id: 2026-09-15-aeo-startup-profound-hits-unicorn-status-with-180m-series-d
 event_name: ''
 ---
 

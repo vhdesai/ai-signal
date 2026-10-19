@@ -4,8 +4,8 @@ title: Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze
 date: '2026-06-29'
 source: 'Source window: last 24 hours'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://alphagalactica.com/article/2026-10-03-WEEKLY-compute-price-hikes-data-center-pushback-squeeze
+url_status: repaired
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 2ac5bc9dec52d601b8e83c6a30c262180b97800623ec5f22b205bec7afa4bd6b
@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-09-22-wednesday-september-23-2026
-embedding_id: null
+embedding_id: 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 event_name: ''
 ---
 

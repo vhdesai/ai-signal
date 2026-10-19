@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 - 2026-09-20-siri-ai-settlement-website-goes-live-apple-to-pay-some-iphon
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
-embedding_id: null
+embedding_id: 2026-08-12-apple-in-talks-to-pay-publishers-for-news-to-power-ai-siri
 event_name: ''
 ---
 

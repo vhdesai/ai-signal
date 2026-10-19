@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-08-28-open-weight-ai-companies-become-major-acquisition-targets
-embedding_id: null
+embedding_id: 2026-08-17-business-insider-the-hottest-ai-models-aren-t-the-ones-devel
 event_name: ''
 ---
 

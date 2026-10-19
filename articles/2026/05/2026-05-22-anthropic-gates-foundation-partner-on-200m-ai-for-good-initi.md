@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-anthropic-gates-foundation-partner-on-200m-ai-for-good-initi
 event_name: ''
 ---
 

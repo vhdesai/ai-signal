@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to
 - 2026-07-30-microsoft-s-azure-tops-100b-as-fiscal-q4-beat-rewards-capex
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-embedding_id: null
+embedding_id: 2026-07-22-alphabet-beats-on-revenue-and-82-cloud-growth-but-205b-capex
 event_name: ''
 ---
 

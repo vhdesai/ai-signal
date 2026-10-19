@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software
 - 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
-embedding_id: null
+embedding_id: 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
 event_name: ''
 ---
 

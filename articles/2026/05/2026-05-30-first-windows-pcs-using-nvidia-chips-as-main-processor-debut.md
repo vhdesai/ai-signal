@@ -4,8 +4,8 @@ title: First Windows PCs Using Nvidia Chips as Main Processor Debut at Computex
 date: '2026-05-30'
 source: Axios
 url_original: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
-url_canonical: https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell
-url_status: broken
+url_canonical: https://indianexpress.com/article/technology/tech-news-technology/nvidia-windows-pcs-to-make-debut-computex-2026-report-10716539/
+url_status: repaired
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 2345bccc183825760174b61d07941e7367d28e62a981a252d1ffd54b24827f14
 normalized_title_hash: 4a3131c6e9c674f5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
-embedding_id: null
+embedding_id: 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 event_name: ''
 ---
 

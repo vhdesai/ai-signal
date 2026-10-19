@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: AI News
 url_original: https://artificialintelligence-news.com/
 url_canonical: https://artificialintelligence-news.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4075ce793f9c25405a67479b0e1cb9cbfc16705f65055a19ac66b60f6a184919
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 - 2026-10-09-autonomous-ai-defenders-are-not-ready-for-full-autonomy-cybe
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
-embedding_id: null
+embedding_id: 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 event_name: ''
 ---
 

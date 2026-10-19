@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-08-27-trump-administration-s-ai-self-regulatory-eo-has-stalled
-embedding_id: null
+embedding_id: 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
 event_name: ''
 ---
 

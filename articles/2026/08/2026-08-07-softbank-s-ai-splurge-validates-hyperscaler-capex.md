@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
-embedding_id: null
+embedding_id: 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 event_name: ''
 ---
 

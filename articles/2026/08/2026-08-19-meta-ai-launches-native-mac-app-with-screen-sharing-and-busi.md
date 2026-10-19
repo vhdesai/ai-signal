@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-09-18-meta-s-muse-arrives-on-mac-with-the-ability-to-take-actions
-embedding_id: null
+embedding_id: 2026-08-19-meta-ai-launches-native-mac-app-with-screen-sharing-and-busi
 event_name: ''
 ---
 

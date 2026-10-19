@@ -5,8 +5,8 @@ title: 'HOTClass-action copyright lawsuit: Hachette, Macmillan, McGraw Hill, Els
 date: '2026-05-05'
 source: York Times / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hachettebookgroup.com/articles/publishers-and-authors-file-class-action-lawsuit-against-meta-and-zuckerberg-for-willful-copyright-infringement-to-develop-llama-ai-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: ed5a63db6094e6a185665a608333214950c0230d0bc9c62bb70b953cc8173391
 normalized_title_hash: 2daa9caf122e9cb7
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-07-14-major-publishers-sue-google-over-gemini-ai-training
 - 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
-embedding_id: null
+embedding_id: 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 event_name: ''
 ---
 

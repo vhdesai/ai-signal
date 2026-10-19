@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-23-
 - 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
-embedding_id: null
+embedding_id: 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
 event_name: ''
 ---
 

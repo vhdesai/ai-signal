@@ -33,7 +33,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-30-envharness-turns-static-agent-training-environments-into-ada
 - 2026-09-20-google-open-sources-envharness-for-training-agents-in-evolvi
-embedding_id: null
+embedding_id: 2026-08-30-google-ai-introduces-envharness-to-turn-static-agent-benchma
 event_name: ''
 ---
 

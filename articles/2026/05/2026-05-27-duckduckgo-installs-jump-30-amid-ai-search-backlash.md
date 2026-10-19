@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-09-20-us-daily-ai-usage-doubled-in-six-months-ipsos-epoch-8-19-of
-embedding_id: null
+embedding_id: 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 event_name: ''
 ---
 

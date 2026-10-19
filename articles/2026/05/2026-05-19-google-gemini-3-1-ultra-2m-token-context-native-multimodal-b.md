@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-gemini-3-1-ultra-2m-token-context-native-multimodal-b
 event_name: ''
 ---
 

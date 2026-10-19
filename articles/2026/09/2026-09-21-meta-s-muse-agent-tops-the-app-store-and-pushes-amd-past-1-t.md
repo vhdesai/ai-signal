@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
-embedding_id: null
+embedding_id: 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
 event_name: ''
 ---
 

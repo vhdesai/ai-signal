@@ -23,7 +23,7 @@ canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-ag
 related_article_ids:
 - 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
 - 2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that
-embedding_id: null
+embedding_id: 2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: The U.S. Commerce Department granted Anthropic permission to release Clau
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 33b21848c91873a2af549e192c7be4b5e138755c1c3cd5c0808b13d5fca92802
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-embedding_id: null
+embedding_id: 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 event_name: ''
 ---
 

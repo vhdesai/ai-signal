@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-minimax-releases-minimax-music3-an-open-weights-five-minute
 - 2026-08-17-minimax-releases-music3-an-open-weights-five-minute-music-mo
 - 2026-09-06-google-rolls-out-lyria-3-5-music-generation-to-the-gemini-ap
-embedding_id: null
+embedding_id: 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
 event_name: ''
 ---
 

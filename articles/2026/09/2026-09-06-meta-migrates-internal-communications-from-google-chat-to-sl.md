@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
-embedding_id: null
+embedding_id: 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 event_name: ''
 ---
 

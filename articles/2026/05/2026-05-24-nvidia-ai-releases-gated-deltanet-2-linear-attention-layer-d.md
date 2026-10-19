@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d
 event_name: ''
 ---
 

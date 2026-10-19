@@ -25,7 +25,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 event_name: ''
 ---
 

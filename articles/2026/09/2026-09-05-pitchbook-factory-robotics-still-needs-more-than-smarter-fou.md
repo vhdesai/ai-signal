@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-08-20-robots-rewiring-construction
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
-embedding_id: null
+embedding_id: 2026-09-05-pitchbook-factory-robotics-still-needs-more-than-smarter-fou
 event_name: ''
 ---
 

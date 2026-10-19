@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-06-sk-hynix-launches-28b-us-share-sale-on-ai-memory-demand
-embedding_id: null
+embedding_id: 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 event_name: ''
 ---
 

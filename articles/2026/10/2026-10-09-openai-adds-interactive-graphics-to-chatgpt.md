@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 - 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-embedding_id: null
+embedding_id: 2026-10-09-openai-adds-interactive-graphics-to-chatgpt
 event_name: ''
 ---
 

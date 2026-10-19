@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-09-10-huawei-raises-ascend-ai-chip-prices-60-as-china-s-nvidia-alt
-embedding_id: null
+embedding_id: 2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si
 event_name: ''
 ---
 

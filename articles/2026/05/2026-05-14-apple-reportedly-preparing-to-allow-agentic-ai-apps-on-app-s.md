@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
-embedding_id: null
+embedding_id: 2026-05-14-apple-reportedly-preparing-to-allow-agentic-ai-apps-on-app-s
 event_name: ''
 ---
 

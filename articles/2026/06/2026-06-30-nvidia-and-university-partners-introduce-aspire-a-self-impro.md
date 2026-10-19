@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-17-nvidia-enpire-platform-enables-ai-agents-to-autonomously-run
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
-embedding_id: null
+embedding_id: 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 event_name: ''
 ---
 

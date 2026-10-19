@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-27b-active-1m-c
 - 2026-09-20-stepfun-ships-step-5-preview-600b-sparse-moe-at-1-per-millio
 - 2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million
-embedding_id: null
+embedding_id: 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
 event_name: ''
 ---
 

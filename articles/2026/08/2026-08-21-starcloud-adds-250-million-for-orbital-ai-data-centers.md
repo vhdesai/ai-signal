@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c
 - 2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-embedding_id: null
+embedding_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-centers
 event_name: ''
 ---
 

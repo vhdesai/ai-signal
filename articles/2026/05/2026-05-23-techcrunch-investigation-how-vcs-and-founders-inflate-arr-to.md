@@ -4,8 +4,8 @@ title: 'TechCrunch Investigation: How VCs and Founders Inflate "ARR" to Crown AI
 date: '2026-05-23'
 source: TechCrunch
 url_original: https://tera.fm/episodes/techcrunch/2026-05-23
-url_canonical: https://tera.fm/episodes/techcrunch/2026-05-23
-url_status: broken
+url_canonical: https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 72ba41400b4aab75efdd8b4dabfd319ede1a5176069c7fa417a27a6325349f99
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-08-12-cognition-reportedly-seeks-a-new-round-at-a-40-billion-valua
-embedding_id: null
+embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
 

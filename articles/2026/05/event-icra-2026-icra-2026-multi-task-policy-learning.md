@@ -25,7 +25,7 @@ related_article_ids:
 - event-icra-2026-icra-2026-strategic-implications
 - event-icra-2026-icra-2026-nvidia-research-robotics-papers
 - event-icra-2026-icra-2026-sim-to-real-transfer
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-multi-task-policy-learning
 event_name: ICRA 2026
 ---
 

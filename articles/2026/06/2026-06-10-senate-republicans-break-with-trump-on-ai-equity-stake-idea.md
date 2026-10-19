@@ -4,8 +4,8 @@ title: Senate Republicans Break with Trump on AI Equity-Stake Idea
 date: '2026-06-10'
 source: NOTUS
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://politicalwire.com/2026/06/10/republicans-break-with-trump-on-his-ai-equity-idea/
+url_status: repaired
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 0c75efeffdd24ca0368f11c7e42c468a7b923c79fad7984c09afeb247ad53de5
 normalized_title_hash: a0b736d6884acfda
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
-embedding_id: null
+embedding_id: 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 event_name: ''
 ---
 

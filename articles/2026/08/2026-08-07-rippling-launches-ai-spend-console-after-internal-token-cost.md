@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-07-rippling-disclosed-it-was-burning-40-of-r-d-payroll-on-ai-to
 related_article_ids:
 - 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
-embedding_id: null
+embedding_id: 2026-08-07-rippling-launches-ai-spend-console-after-internal-token-cost
 event_name: ''
 ---
 

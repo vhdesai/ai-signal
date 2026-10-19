@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 related_article_ids: []
-embedding_id: null
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
 event_name: Microsoft Build 2026 Preview
 ---
 

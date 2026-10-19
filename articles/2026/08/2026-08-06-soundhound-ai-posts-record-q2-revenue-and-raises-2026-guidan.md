@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-embedding_id: null
+embedding_id: 2026-08-06-soundhound-ai-posts-record-q2-revenue-and-raises-2026-guidan
 event_name: ''
 ---
 

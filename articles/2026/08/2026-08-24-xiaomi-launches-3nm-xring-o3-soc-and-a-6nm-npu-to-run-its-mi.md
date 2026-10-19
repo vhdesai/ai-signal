@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-xiaomi-s-mimo-v2-6-pro-tops-open-model-leaderboards-on-a-2-6
 - 2026-09-21-meta-s-iris-ai-accelerator-mtia-gen-3-enters-mass-production
 - 2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses
-embedding_id: null
+embedding_id: 2026-08-24-xiaomi-launches-3nm-xring-o3-soc-and-a-6nm-npu-to-run-its-mi
 event_name: ''
 ---
 

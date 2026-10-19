@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-09-21-un-publishes-first-thematic-brief-warning-governments-to-rei
 - 2026-09-21-we-co-led-the-un-s-dialogue-on-safe-and-secure-ai-here-s-wha
-embedding_id: null
+embedding_id: 2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva
 event_name: ''
 ---
 

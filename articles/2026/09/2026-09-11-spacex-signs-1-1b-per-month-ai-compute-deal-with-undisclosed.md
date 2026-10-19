@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-11-spacex-signs-another-1-11b-month-compute-rental-deal-targets
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
-embedding_id: null
+embedding_id: 2026-09-11-spacex-signs-1-1b-per-month-ai-compute-deal-with-undisclosed
 event_name: ''
 ---
 

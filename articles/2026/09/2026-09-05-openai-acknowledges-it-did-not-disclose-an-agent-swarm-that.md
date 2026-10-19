@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-07-openai-files-eu-incident-report-on-hijacked-german-wiki
-embedding_id: null
+embedding_id: 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 event_name: ''
 ---
 

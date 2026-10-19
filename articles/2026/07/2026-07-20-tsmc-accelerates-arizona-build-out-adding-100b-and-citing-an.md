@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-16-tsmc-plans-another-100-billion-u-s-investment-as-ai-demand-l
 - 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-sustained-ai-c
-embedding_id: null
+embedding_id: 2026-07-20-tsmc-accelerates-arizona-build-out-adding-100b-and-citing-an
 event_name: ''
 ---
 

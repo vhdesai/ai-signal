@@ -5,8 +5,8 @@ title: The April 15 update to OpenAI's Agents SDK adds native sandbox execution,
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://openai.com/index/the-next-evolution-of-the-agents-sdk/
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: e55b8769a2aa2dfb919d3f31f48ddf967834318ea0a0a762aef888a264698640
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-openai-s-agents-api-enters-public-beta-renting-out-the-codex
 - 2026-09-12-openai-s-agents-api-puts-the-codex-harness-behind-a-single-c
 - 2026-09-12-openai-expands-agents-api-documentation-including-a-self-hos
-embedding_id: null
+embedding_id: 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 event_name: ''
 ---
 

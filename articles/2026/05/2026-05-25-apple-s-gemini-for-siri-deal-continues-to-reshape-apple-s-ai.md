@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
-embedding_id: null
+embedding_id: 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 event_name: ''
 ---
 

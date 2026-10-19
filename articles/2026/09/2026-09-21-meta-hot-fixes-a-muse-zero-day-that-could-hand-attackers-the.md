@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-18-meta-s-muse-assistant-lands-on-mac-with-computer-use-actions
 - 2026-09-28-meta-s-muse-agent-draws-privacy-and-access-backlash-on-multi
 - 2026-09-26-meta-adds-an-explicit-safety-warning-to-muse-after-a-sev-2-v
-embedding_id: null
+embedding_id: 2026-09-21-meta-hot-fixes-a-muse-zero-day-that-could-hand-attackers-the
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi
-embedding_id: null
+embedding_id: 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 event_name: ''
 ---
 

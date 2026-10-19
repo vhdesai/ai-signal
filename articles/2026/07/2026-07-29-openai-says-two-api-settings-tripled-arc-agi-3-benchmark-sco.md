@@ -5,7 +5,7 @@ date: '2026-07-29'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/
 url_canonical: https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 1621efbfa0e399eae1e7a0c7902ac1fb52d3060448f2902c3ee5ee5f8ae5f75e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 - 2026-09-06-openai-s-agi-number-came-from-a-harness-not-the-model
 - 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
-embedding_id: null
+embedding_id: 2026-07-29-openai-says-two-api-settings-tripled-arc-agi-3-benchmark-sco
 event_name: ''
 ---
 

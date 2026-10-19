@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-01-minnesota-nudify-app-ban-remains-in-effect-after-judge-denie
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-27-goldman-sachs-hyperscalers-will-spend-1-2t-on-ai-infrastruct
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 - 2026-09-25-brookings-paper-projects-a-10-3t-us-ai-buildout-through-2032
-embedding_id: null
+embedding_id: 2026-09-25-goldman-sachs-lifts-hyperscaler-ai-capex-trajectory-toward-1
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-16-salesforce-ships-aiforce-plus-nvidia-built-koa-crm-reasoning
 - 2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
-embedding_id: null
+embedding_id: 2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas
 event_name: ''
 ---
 

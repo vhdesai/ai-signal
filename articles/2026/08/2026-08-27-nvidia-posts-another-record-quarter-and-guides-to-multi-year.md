@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-27-nvidia-posts-a-record-quarter-and-guides-for-ai-growth-throu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-27-nvidia-posts-another-record-quarter-and-guides-to-multi-year
 event_name: ''
 ---
 

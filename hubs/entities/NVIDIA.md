@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1684
+member_count: 1687
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1684 connected article(s).
+> Auto-generated entity hub. 1687 connected article(s).
 
+- `2026-10-18` [[2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps|Nvidia enters correction as AI bubble index jumps]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-asml-signals-persistent-capacity-pressure-from-ai-demand|ASML signals persistent capacity pressure from AI demand]]
 - `2026-10-13` [[2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending|Tech stocks slide as investors worry about AI overspending]]

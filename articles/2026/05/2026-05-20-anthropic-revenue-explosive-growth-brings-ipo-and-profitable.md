@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-first-profitable-quarter
 - 2026-08-15-anthropic-posts-11-5b-q2-revenue-and-its-first-quarter-in-th
 - 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
-embedding_id: null
+embedding_id: 2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable
 event_name: ''
 ---
 

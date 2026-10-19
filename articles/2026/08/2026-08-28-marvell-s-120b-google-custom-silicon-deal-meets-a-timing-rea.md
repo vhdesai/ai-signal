@@ -24,7 +24,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 related_article_ids:
 - 2026-08-28-marvell-sells-off-8-as-google-custom-silicon-revenue-slips-t
-embedding_id: null
+embedding_id: 2026-08-28-marvell-s-120b-google-custom-silicon-deal-meets-a-timing-rea
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
 - 2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-embedding_id: null
+embedding_id: 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 event_name: ''
 ---
 

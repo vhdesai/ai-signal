@@ -6,7 +6,7 @@ date: '2026-07-29'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/
 url_canonical: https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-30_060704_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 847fb96bb04cf1aa759b915dac2bf298219c97cc1924d17ff15d733faddaac0e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-30-openai-ties-a-reasoning-extraction-campaign-to-moonshot-ai
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-10-05-reflection-ai-introduces-beam-a-501b-open-weight-moe-model-f
-embedding_id: null
+embedding_id: 2026-07-29-moonshot-ai-open-sources-moonep-a-balanced-expert-parallelis
 event_name: ''
 ---
 

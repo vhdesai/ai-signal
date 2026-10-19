@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 - 2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
-embedding_id: null
+embedding_id: 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 event_name: ''
 ---
 

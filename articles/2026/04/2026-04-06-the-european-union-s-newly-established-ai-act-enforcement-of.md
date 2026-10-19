@@ -5,8 +5,8 @@ title: The European Union's newly established AI Act Enforcement Office issued i
 date: '2026-04-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiweekly.co/alerts/eu-ai-office-opens-first-ai-act-probes-into-openai-anthropic
+url_status: repaired
 digest_source: digests\raw\2026-04-06_070950_Inbox_Daily AI News Digest – April 6,
   2026.md
 content_hash: b73f5e65975bf384e0877b6463ffd61ce3a19df8fc3cbb8365d08c332a5448d7
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-embedding_id: null
+embedding_id: 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
 event_name: ''
 ---
 

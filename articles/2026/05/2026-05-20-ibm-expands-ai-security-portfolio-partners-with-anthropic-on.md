@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 - 2026-06-02-anthropic-expands-project-glasswing-to-200-partners-maps-yea
 - 2026-09-30-anthropic-flags-chinese-z-ai-glm-5-3-as-having-elite-hacking
-embedding_id: null
+embedding_id: 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
 event_name: ''
 ---
 

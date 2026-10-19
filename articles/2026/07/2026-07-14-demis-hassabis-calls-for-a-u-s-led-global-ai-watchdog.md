@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
-embedding_id: null
+embedding_id: 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 event_name: ''
 ---
 

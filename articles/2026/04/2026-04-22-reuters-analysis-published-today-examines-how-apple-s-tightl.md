@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
-embedding_id: null
+embedding_id: 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
 event_name: ''
 ---
 

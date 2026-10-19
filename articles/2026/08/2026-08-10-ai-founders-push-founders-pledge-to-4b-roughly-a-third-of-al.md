@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-14-ft-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
-embedding_id: null
+embedding_id: 2026-08-10-ai-founders-push-founders-pledge-to-4b-roughly-a-third-of-al
 event_name: ''
 ---
 

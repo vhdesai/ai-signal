@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-alabama-demands-details-from-openai-lawmakers-alarm-on-flock
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
-embedding_id: null
+embedding_id: 2026-08-24-alabama-attorney-general-subpoenas-openai-over-hugging-face
 event_name: ''
 ---
 

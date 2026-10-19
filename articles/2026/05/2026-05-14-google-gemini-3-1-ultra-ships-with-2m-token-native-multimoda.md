@@ -4,8 +4,8 @@ title: Google Gemini 3.1 Ultra Ships With 2M-Token Native Multimodal Context
 date: '2026-05-14'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://codelucky.com/google-gemini-3-1-ultra-2m-token-context-multimodal/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: e32fb739d0eacafa7b54172492d470291f06fdb38b90f87755521354094034e4
@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-context-and-nati
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-native-multimoda
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: Anthropic's "Honesty First" Framing of Opus 4.8 Lands as a Policy Signal
 date: '2026-05-28'
 source: 'Source: Unite.AI'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digitechbytes.com/emerging-consumer-tech-explained/opus-4-8-lands-and-the-quiet-headline-is-honesty/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 1d8d3a7046f37a738058742e9f8fa8d9b12a662f4e57b0e7e9cf4df67129e7c0
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-08-12-anthropic-s-claude-watermarking-draws-user-backlash-and-comp
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 event_name: ''
 ---
 

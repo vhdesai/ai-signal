@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 - 2026-09-05-perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
-embedding_id: null
+embedding_id: 2026-09-19-linkup-releases-sparseup-a-149m-parameter-open-source-sparse
 event_name: ''
 ---
 

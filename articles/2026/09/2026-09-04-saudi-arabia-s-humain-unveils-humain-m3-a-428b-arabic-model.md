@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-humain-previews-an-arabic-model-built-with-minimax
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-saudi-arabia-s-humain-unveils-humain-m3-a-428b-arabic-model
 event_name: ''
 ---
 

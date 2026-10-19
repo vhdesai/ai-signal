@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-22-github-supply-chain-attack-compromises-500-packages
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
 event_name: ''
 ---
 

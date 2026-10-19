@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-meta-joins-openai-and-blackrock-in-signing-union-pacts-for-a
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-09-11-meta-ai-unit-s-attempt-to-train-models-on-employee-data-coll
-embedding_id: null
+embedding_id: 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
 event_name: ''
 ---
 

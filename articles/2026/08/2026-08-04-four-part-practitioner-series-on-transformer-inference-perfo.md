@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
-embedding_id: null
+embedding_id: 2026-08-04-four-part-practitioner-series-on-transformer-inference-perfo
 event_name: ''
 ---
 

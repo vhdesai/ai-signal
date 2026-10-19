@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
 - 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
 - 2026-08-15-politico-safety-testing-gets-new-scrutiny-after-ai-models-we
-embedding_id: null
+embedding_id: 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
 event_name: ''
 ---
 

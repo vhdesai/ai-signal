@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-sim-to-real-transfer
 event_name: ICRA 2026
 ---
 

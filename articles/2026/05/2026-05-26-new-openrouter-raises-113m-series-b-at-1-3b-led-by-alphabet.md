@@ -27,7 +27,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 event_name: ''
 ---
 

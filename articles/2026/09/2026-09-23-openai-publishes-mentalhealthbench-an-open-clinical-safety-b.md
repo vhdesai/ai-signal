@@ -5,7 +5,7 @@ date: '2026-09-23'
 source: OpenAI Blog
 url_original: https://openai.com/index/introducing-mentalhealthbench/
 url_canonical: https://openai.com/index/introducing-mentalhealthbench/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-24_060331_Inbox_Daily AI News Digest - September
   24, 2026.md
 content_hash: 54510bd90f51cc6bf27540d8311750226c34901c3695987f7ac3f4f0af3dbb61
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
-embedding_id: null
+embedding_id: 2026-09-23-openai-publishes-mentalhealthbench-an-open-clinical-safety-b
 event_name: ''
 ---
 

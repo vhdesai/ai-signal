@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
-embedding_id: null
+embedding_id: 2026-08-05-spacex-falls-13-as-ai-capital-spending-rises-sixfold
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-08-grok-4-5-benchmarks-strong-tool-use-but-54-hallucination-rat
 event_name: ''
 ---
 

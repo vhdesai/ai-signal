@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-28-openai-cancels-the-gpt-6-1-astra-release-over-safety-and-sco
 - 2026-09-30-openai-halts-a-new-astra-model-over-safety-its-second-pause
 - 2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo
-embedding_id: null
+embedding_id: 2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer
 event_name: ''
 ---
 

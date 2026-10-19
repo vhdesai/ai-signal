@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-27-stanford-and-caltech-drive-a-humanoid-robot-directly-with-gp
 related_article_ids:
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-gpt-6-astra-directly
-embedding_id: null
+embedding_id: 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 event_name: ''
 ---
 

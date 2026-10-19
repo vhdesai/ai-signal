@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
-embedding_id: null
+embedding_id: 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 event_name: ''
 ---
 

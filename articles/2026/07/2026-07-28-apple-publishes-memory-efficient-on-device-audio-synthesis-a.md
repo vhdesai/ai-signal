@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-google-research-s-mseb-a-multi-task-benchmark-contract-for-s
 - 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
 - 2026-05-26-stability-ai-releases-stable-audio-3
-embedding_id: null
+embedding_id: 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 event_name: ''
 ---
 

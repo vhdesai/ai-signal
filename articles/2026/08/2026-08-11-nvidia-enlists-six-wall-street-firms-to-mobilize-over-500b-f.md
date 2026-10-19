@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 related_article_ids:
 - 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
-embedding_id: null
+embedding_id: 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 event_name: ''
 ---
 

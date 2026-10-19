@@ -5,7 +5,7 @@ date: '2026-09-10'
 source: OpenAI**
 url_original: https://openai.com/index/introducing-the-agents-api/
 url_canonical: https://openai.com/index/introducing-the-agents-api/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-11_065100_Final-Daily-AI-News-Digest.md
 content_hash: 39e3c7450766bae05843c6683dc3be1da5e11d628989ff64fcaf3998a9577133
 normalized_title_hash: 872eef8eba8d79d1
@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-openai-opens-the-agents-api-in-public-beta
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-10-openai-opens-the-codex-harness-to-developers-via-the-agents
 event_name: ''
 ---
 

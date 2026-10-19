@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-new-jersey-fines-ai-data-center-operator-1-07m-over-62-unper
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-new-jersey-issues-record-1-07m-data-center-fine-over-62-unpe
 event_name: ''
 ---
 

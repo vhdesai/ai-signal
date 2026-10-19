@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
 - 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
-embedding_id: null
+embedding_id: 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 event_name: ''
 ---
 

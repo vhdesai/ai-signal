@@ -5,8 +5,8 @@ title: '[TRENDING] Arm Holdings Unveils First AGI-Optimized CPU Architecture (Ap
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.arm.com/products/cloud-datacenter/arm-agi-cpu
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082607_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2f668ed4cd3bc2b1528f1d0b9fe8e29e43a283c360c3545c3cc81aa23a7cf938
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-embedding_id: null
+embedding_id: 2026-04-02-trending-arm-holdings-unveils-first-agi-optimized-cpu-archit
 event_name: ''
 ---
 

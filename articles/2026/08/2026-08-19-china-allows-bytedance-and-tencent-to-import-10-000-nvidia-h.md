@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 - 2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
-embedding_id: null
+embedding_id: 2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h
 event_name: ''
 ---
 

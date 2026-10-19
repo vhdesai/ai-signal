@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
-embedding_id: null
+embedding_id: 2026-09-21-bytedance-launches-dramagic-a-full-pipeline-ai-system-for-pr
 event_name: ''
 ---
 

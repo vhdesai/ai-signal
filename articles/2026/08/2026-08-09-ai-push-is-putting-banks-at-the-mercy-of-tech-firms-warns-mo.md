@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-06-12-u-s-bank-regulators-ramp-up-scrutiny-of-ai-use-at-financial
-embedding_id: null
+embedding_id: 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 event_name: ''
 ---
 

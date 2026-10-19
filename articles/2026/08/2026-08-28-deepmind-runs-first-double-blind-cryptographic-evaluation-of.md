@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-hot-google-deepmind-launches-gemini-3-8-flash-and-gemini-3-8
 - 2026-10-12-google-deepmind-alphaproof-nexus-solves-open-math-problems-a
 - 2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc
-embedding_id: null
+embedding_id: 2026-08-28-deepmind-runs-first-double-blind-cryptographic-evaluation-of
 event_name: ''
 ---
 

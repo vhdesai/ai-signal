@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
 - 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
-embedding_id: null
+embedding_id: 2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows
 event_name: ''
 ---
 

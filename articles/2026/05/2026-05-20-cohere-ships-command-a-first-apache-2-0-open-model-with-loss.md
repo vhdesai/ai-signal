@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 - 2026-10-05-cohere-launches-north-2-with-memory-orchestration-and-cost-c
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-embedding_id: null
+embedding_id: 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
 event_name: ''
 ---
 

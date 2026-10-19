@@ -5,7 +5,7 @@ date: '2026-08-12'
 source: OpenAI Blog
 url_original: https://openai.com/index/testing-ads-in-chatgpt/
 url_canonical: https://openai.com/index/testing-ads-in-chatgpt/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-13_095216_Final-Daily-AI-News-Digest.md
 content_hash: 54ac54c36baf0d9a7cf17f8e6eab204c527aef6b1bbcc945b4a2fb01c3e2a693
 normalized_title_hash: c3957bdb57f1b1c0
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-openai-rolls-out-ads-on-select-chatgpt-plans-in-india
 - 2026-08-27-openai-to-show-ads-on-chatgpt-free-and-go-tiers-in-india
 - 2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis
-embedding_id: null
+embedding_id: 2026-08-12-openai-begins-testing-ads-in-chatgpt
 event_name: ''
 ---
 

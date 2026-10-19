@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
-- 2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i
-embedding_id: null
+- 2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov
+embedding_id: 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ The Wall Street Journal reported that Chevron reached a power agreement with Mic
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-08-01-techcrunch-reports-that-spacex-is-building-dedicated-power-i]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent]] · [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov]]
 <!-- graph:end -->

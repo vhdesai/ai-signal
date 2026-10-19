@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
-embedding_id: null
+embedding_id: 2026-05-05-today-s-biggest-themes-the-ai-enterprise-land-grab-intensifi
 event_name: ''
 ---
 

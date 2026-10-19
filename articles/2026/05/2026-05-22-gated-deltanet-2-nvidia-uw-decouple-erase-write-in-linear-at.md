@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-embedding_id: null
+embedding_id: 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 event_name: ''
 ---
 

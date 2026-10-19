@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-08-27-looking-beyond-natural-sequences-mit-framework-for-computati
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
-embedding_id: null
+embedding_id: 2026-08-31-how-an-mit-research-project-became-a-global-programming-lang
 event_name: ''
 ---
 

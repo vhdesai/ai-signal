@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 - 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
-embedding_id: null
+embedding_id: 2026-07-26-making-sense-of-the-panic-over-chinese-ai
 event_name: ''
 ---
 

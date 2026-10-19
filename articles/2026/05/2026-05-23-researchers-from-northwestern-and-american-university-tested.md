@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 - 2026-10-09-new-reporting-examines-chatgpt-for-teens-safety-assessment
-embedding_id: null
+embedding_id: 2026-05-23-researchers-from-northwestern-and-american-university-tested
 event_name: ''
 ---
 

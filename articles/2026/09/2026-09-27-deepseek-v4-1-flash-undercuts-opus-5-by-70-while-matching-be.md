@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-11-deepseek-v4-1-flash-resets-inference-price-performance-with
 - 2026-08-01-axios-reports-that-deepseek-released-v4-flash-a-coding-focus
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-embedding_id: null
+embedding_id: 2026-09-27-deepseek-v4-1-flash-undercuts-opus-5-by-70-while-matching-be
 event_name: ''
 ---
 

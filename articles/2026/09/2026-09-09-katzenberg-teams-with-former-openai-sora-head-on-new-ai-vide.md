@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-jeffrey-katzenberg-teams-up-with-former-openai-sora-head-on
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-09-katzenberg-teams-with-former-openai-sora-head-on-new-ai-vide
 event_name: ''
 ---
 

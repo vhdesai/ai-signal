@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-nature-medicine-publishes-practical-lessons-from-scaling-cli
 - 2026-09-23-nature-medicine-lessons-from-scaling-a-clinical-ai-tool-past
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-embedding_id: null
+embedding_id: 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
 event_name: ''
 ---
 

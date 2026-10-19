@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
-embedding_id: null
+embedding_id: 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
 event_name: ''
 ---
 

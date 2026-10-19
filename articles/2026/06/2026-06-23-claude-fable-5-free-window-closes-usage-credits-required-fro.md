@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
 - 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
-embedding_id: null
+embedding_id: 2026-06-23-claude-fable-5-free-window-closes-usage-credits-required-fro
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-agent-to-agent-payment-rails-move-from-pilot-to-production
 - 2026-07-18-retailers-prepare-for-bots-as-buyers
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
-embedding_id: null
+embedding_id: 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
 event_name: ''
 ---
 

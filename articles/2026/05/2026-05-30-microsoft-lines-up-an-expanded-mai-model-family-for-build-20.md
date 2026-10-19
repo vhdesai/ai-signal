@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
-embedding_id: null
+embedding_id: 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-chatgpt-can-now-send-texts-for-you-with-new-apple-messages-p
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-chatgpt-launches-apple-messages-plug-in-can-send-texts-on-yo
 event_name: ''
 ---
 

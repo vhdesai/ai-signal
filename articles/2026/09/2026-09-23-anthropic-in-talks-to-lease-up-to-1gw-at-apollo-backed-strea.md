@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-11-anthropic-pursues-data-center-leases-seeks-financial-backing
 - 2026-08-31-anthropic-signs-35-billion-compute-deal-with-nvidia-backed-l
-embedding_id: null
+embedding_id: 2026-09-23-anthropic-in-talks-to-lease-up-to-1gw-at-apollo-backed-strea
 event_name: ''
 ---
 

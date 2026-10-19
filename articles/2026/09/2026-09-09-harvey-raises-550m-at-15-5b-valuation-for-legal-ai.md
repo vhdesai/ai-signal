@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-15-5b-valuat
 - 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
-embedding_id: null
+embedding_id: 2026-09-09-harvey-raises-550m-at-15-5b-valuation-for-legal-ai
 event_name: ''
 ---
 

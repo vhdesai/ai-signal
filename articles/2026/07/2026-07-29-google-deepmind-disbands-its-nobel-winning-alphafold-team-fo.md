@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-google-deepmind-disbands-its-alphafold-team
 - 2026-07-30-google-dissolves-nobel-prize-winning-alphafold-team
 - 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
-embedding_id: null
+embedding_id: 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
 event_name: ''
 ---
 

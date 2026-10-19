@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-25-superstep-capital-backs-zencore-to-build-independent-google
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-25-superstep-capital-invests-in-zencore-to-build-an-independent
 event_name: ''
 ---
 

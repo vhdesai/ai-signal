@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-identity-and-permissions-are-insufficient-to-govern-autonomo
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
-embedding_id: null
+embedding_id: 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 event_name: ''
 ---
 

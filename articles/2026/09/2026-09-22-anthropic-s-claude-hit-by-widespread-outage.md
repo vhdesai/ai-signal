@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-chatgpt-claude-and-grok-hit-by-overlapping-outages
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-embedding_id: null
+embedding_id: 2026-09-22-anthropic-s-claude-hit-by-widespread-outage
 event_name: ''
 ---
 

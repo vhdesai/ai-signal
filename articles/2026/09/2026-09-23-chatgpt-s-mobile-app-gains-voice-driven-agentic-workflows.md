@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-24-chatgpt-desktop-voice-mode-now-works-with-chatgpt-work-and-c
 - 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-embedding_id: null
+embedding_id: 2026-09-23-chatgpt-s-mobile-app-gains-voice-driven-agentic-workflows
 event_name: ''
 ---
 

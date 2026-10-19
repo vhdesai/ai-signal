@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-17-first-loan-backed-by-inference-chips-general-compute-lands-u
 - 2026-07-17-inference-chips-pledged-as-loan-collateral-in-a-400m-financi
 - 2026-08-17-groq-raises-350m-at-3-5b-to-pivot-from-inference-silicon-to
-embedding_id: null
+embedding_id: 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 event_name: ''
 ---
 

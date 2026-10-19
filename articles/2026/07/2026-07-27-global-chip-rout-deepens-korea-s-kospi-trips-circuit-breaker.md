@@ -5,7 +5,7 @@ date: '2026-07-27'
 source: Digital Journal
 url_original: https://www.digitaljournal.com/article/seoul-tokyo-lead-asian-plunge-as-tech-stocks-suffer-fresh-rout/
 url_canonical: https://www.digitaljournal.com/article/seoul-tokyo-lead-asian-plunge-as-tech-stocks-suffer-fresh-rout/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: ebb06a7bf303f648bc70fb54a6915004e89cc6977a7b35690821dc326619dfa6
@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
-embedding_id: null
+embedding_id: 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-traini
 - 2026-09-22-snorkel-ai-raises-350m-at-a-3-5b-valuation-as-training-data
-embedding_id: null
+embedding_id: 2026-09-22-snorkel-ai-raises-350m-at-3-5b-as-training-data-demand-compo
 event_name: ''
 ---
 

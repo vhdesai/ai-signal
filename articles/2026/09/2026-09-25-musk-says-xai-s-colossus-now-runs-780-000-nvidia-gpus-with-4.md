@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-10-01-the-information-spacex-s-ai-unit-is-now-selling-compute-to-m
 - 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 - 2026-09-20-huang-says-nvidia-will-sell-twice-as-many-chips-next-year-as
-embedding_id: null
+embedding_id: 2026-09-25-musk-says-xai-s-colossus-now-runs-780-000-nvidia-gpus-with-4
 event_name: ''
 ---
 

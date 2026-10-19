@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-14-openai-s-annualized-revenue-run-rate-tops-40-billion-ahead-o
 - 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 - 2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation
-embedding_id: null
+embedding_id: 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
 event_name: ''
 ---
 

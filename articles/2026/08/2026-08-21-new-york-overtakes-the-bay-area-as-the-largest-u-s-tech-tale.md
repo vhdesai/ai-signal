@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley
 - 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
-embedding_id: null
+embedding_id: 2026-08-21-new-york-overtakes-the-bay-area-as-the-largest-u-s-tech-tale
 event_name: ''
 ---
 

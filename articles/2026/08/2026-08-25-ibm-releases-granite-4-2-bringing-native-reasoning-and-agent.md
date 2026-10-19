@@ -6,7 +6,7 @@ date: '2026-08-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/
 url_canonical: https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-26_060307_Inbox_Daily AI News Digest - August 26,
   2026.md
 content_hash: 0c5a05d04d25f35cfdcd9586888e8a4a79f18db127bdcfa0c7e038b4f464675b
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
-embedding_id: null
+embedding_id: 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 event_name: ''
 ---
 

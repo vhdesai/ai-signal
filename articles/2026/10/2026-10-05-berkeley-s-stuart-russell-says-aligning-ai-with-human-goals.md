@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-10-12-hardwired-frontier-ai-pause-is-technically-feasible-uc-berke
 - 2026-09-22-stanford-hai-experts-on-whether-ai-can-be-slowed-down-the-ki
-embedding_id: null
+embedding_id: 2026-10-05-berkeley-s-stuart-russell-says-aligning-ai-with-human-goals
 event_name: ''
 ---
 

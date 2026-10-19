@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 - 2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr
 - 2026-06-02-trump-administration-at-war-with-itself-over-ai-regulation
-embedding_id: null
+embedding_id: 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 event_name: ''
 ---
 

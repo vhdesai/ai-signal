@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-19-chinese-ai-firms-tap-restricted-nvidia-compute-offshore-as-u
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-embedding_id: null
+embedding_id: 2026-09-21-scmp-chinese-labs-still-access-frontier-compute-via-cross-bo
 event_name: ''
 ---
 

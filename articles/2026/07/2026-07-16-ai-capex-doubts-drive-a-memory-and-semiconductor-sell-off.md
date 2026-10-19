@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-ai-stock-pullback-barely-dents-broader-market-but-concentrat
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
-embedding_id: null
+embedding_id: 2026-07-16-ai-capex-doubts-drive-a-memory-and-semiconductor-sell-off
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-18-google-rebuilds-cc-as-a-shared-household-agent-with-its-own
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-18-google-refocuses-its-cc-agent-on-running-the-household
 event_name: ''
 ---
 

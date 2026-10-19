@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-02-microsoft-build-2026-scout-agent-project-solara-and-frontier
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
-embedding_id: null
+embedding_id: event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 event_name: Microsoft Build 2026
 ---
 

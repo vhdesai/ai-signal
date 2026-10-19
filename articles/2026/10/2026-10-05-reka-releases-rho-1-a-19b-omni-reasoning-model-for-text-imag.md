@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-reka-ai-s-rho-1-unifies-text-images-video-and-robot-control
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
 event_name: ''
 ---
 

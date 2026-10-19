@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
 - 2026-09-22-cmu-takes-no-1-for-undergraduate-ai-berkeley-no-1-in-data-sc
-embedding_id: null
+embedding_id: 2026-07-28-sayash-kapoor-joins-uc-berkeley-with-a-focus-on-ai-evaluatio
 event_name: ''
 ---
 

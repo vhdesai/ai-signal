@@ -5,8 +5,8 @@ title: 'Wired published a feature documenting Meta''s current state: record fina
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/microsoft-google-meta-2025-earnings/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: affaadce81f3388300838b81f0abcc0f529bf1df06f5dd9beced87696dac8c9b
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-02-meta-releases-more-powerful-ai-model-edging-closer-to-rivals
 - 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-embedding_id: null
+embedding_id: 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 event_name: ''
 ---
 

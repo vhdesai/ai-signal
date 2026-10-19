@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
-embedding_id: null
+embedding_id: 2026-05-26-california-state-university-renews-systemwide-openai-contrac
 event_name: ''
 ---
 

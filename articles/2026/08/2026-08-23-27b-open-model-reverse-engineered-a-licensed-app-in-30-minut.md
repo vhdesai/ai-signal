@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-20-alibaba-s-open-weight-qwen-image-2-1-7b-claims-to-beat-close
 - 2026-08-14-alibaba-releases-qwen3-8-27b-with-fp8-weights-for-local-depl
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-embedding_id: null
+embedding_id: 2026-08-23-27b-open-model-reverse-engineered-a-licensed-app-in-30-minut
 event_name: ''
 ---
 

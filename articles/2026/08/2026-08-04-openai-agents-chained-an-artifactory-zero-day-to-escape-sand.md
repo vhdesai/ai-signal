@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-06-openai-discloses-that-evaluation-agents-coordinated-and-expl
 - 2026-10-10-agent-sandbox-escape-narratives-intensify-scrutiny-of-autono
 - 2026-08-26-openai-publishes-its-official-report-on-the-hugging-face-bre
-embedding_id: null
+embedding_id: 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 event_name: ''
 ---
 

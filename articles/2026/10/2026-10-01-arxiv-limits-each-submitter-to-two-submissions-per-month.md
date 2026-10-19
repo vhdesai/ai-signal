@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14
 - 2026-05-27-arxiv-cs-ai-submissions-sustain-high-volume-through-the-wind
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-embedding_id: null
+embedding_id: 2026-10-01-arxiv-limits-each-submitter-to-two-submissions-per-month
 event_name: ''
 ---
 

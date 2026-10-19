@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-27-openai-anthropic-google-and-100-firms-call-for-action-agains
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-an-industry-ai
 - 2026-09-13-anthropic-openai-and-google-quietly-discussed-forming-an-ind
-embedding_id: null
+embedding_id: 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 event_name: ''
 ---
 

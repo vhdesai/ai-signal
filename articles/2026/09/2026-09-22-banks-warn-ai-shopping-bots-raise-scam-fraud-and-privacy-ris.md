@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 - 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 - 2026-08-15-business-insider-maps-how-major-wall-street-banks-are-using
-embedding_id: null
+embedding_id: 2026-09-22-banks-warn-ai-shopping-bots-raise-scam-fraud-and-privacy-ris
 event_name: ''
 ---
 

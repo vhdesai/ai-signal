@@ -4,8 +4,8 @@ title: Moonshot AI Restructures for Hong Kong IPO as Chinese AI Funding Surges
 date: '2026-05-19'
 source: Bloomberg / TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: e4d7429d5b1ac5b0cd2f0841bc12db80679c1f14be438905fbd2e0b5be0ff4af
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-19-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 - 2026-07-19-china-s-moonshot-plans-a-30b-hong-kong-ipo-within-six-months
 - 2026-07-19-moonshot-ai-plans-hong-kong-ipo-after-kimi-k3-model-debut
-embedding_id: null
+embedding_id: 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 event_name: ''
 ---
 

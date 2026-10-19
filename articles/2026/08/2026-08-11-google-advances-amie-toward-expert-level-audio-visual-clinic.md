@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-google-demonstrates-amie-real-time-clinical-video-consultati
 - 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
-embedding_id: null
+embedding_id: 2026-08-11-google-advances-amie-toward-expert-level-audio-visual-clinic
 event_name: ''
 ---
 

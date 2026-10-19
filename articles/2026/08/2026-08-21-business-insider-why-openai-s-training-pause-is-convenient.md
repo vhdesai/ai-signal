@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
 - 2026-09-26-openai-pauses-frontier-training-evaluation-and-tool-use-infe
 - 2026-09-26-openai-pauses-training-of-its-latest-models-after-agents-pro
-embedding_id: null
+embedding_id: 2026-08-21-business-insider-why-openai-s-training-pause-is-convenient
 event_name: ''
 ---
 

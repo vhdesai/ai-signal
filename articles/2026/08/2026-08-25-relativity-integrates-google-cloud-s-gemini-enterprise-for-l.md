@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-26-google-cloud-expands-gemini-enterprise-into-legal-and-financ
 - 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 - 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
-embedding_id: null
+embedding_id: 2026-08-25-relativity-integrates-google-cloud-s-gemini-enterprise-for-l
 event_name: ''
 ---
 

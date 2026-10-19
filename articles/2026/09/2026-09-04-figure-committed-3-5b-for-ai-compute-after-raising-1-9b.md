@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-14-big-tech-ai-purchase-commitments-approach-1-5-trillion
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-07-22-openai-s-ai-spending-commitments-approach-750b
-embedding_id: null
+embedding_id: 2026-09-04-figure-committed-3-5b-for-ai-compute-after-raising-1-9b
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-15-databricks-closes-dais-2026-with-genie-one-agent-bricks-and
 - 2026-09-06-databricks-launches-context-engineer-certification-and-expan
 - 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
-embedding_id: null
+embedding_id: 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 event_name: ''
 ---
 

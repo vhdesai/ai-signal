@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-11-senators-from-both-parties-question-openai-over-the-hugging
 - 2026-09-23-september-24-2026
 - 2026-09-30-openai-hit-with-a-first-of-its-kind-lawsuit-tied-to-the-hugg
-embedding_id: null
+embedding_id: 2026-10-01-senate-hearing-weighs-threats-from-unrestrained-ai-agents-af
 event_name: ''
 ---
 

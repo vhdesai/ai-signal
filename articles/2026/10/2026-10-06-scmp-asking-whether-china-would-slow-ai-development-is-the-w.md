@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-03-sam-altman-s-suggestion-that-the-industry-should-slow-the-pa
 - 2026-09-23-scmp-us-china-race-dynamics-still-overwhelm-the-pacing-call
 - 2026-09-14-altman-spells-out-the-pacing-case-we-could-lose-control-as-w
-embedding_id: null
+embedding_id: 2026-10-06-scmp-asking-whether-china-would-slow-ai-development-is-the-w
 event_name: ''
 ---
 

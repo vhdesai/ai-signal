@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-26-sarvam-ai-releases-saaras-v4-covering-all-22-scheduled-india
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-26-sarvam-ai-releases-saaras-v4-speech-to-text-model-for-indian
 event_name: ''
 ---
 

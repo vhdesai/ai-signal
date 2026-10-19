@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 - 2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
-embedding_id: null
+embedding_id: 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 event_name: ''
 ---
 

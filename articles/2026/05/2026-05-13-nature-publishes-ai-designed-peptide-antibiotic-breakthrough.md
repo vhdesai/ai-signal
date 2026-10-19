@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough
 event_name: ''
 ---
 

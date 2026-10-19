@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-05-deepseek-orders-160-000-huawei-ascend-chips-for-inner-mongol
 - 2026-09-05-deepseek-plans-160-000-huawei-ascend-950dt-chips-for-gigawat
 - 2026-09-06-deepseek-reportedly-plans-160-000-huawei-ascend-950dt-accele
-embedding_id: null
+embedding_id: 2026-09-05-deepseek-orders-160-000-huawei-ascend-950dt-chips-for-inner
 event_name: ''
 ---
 

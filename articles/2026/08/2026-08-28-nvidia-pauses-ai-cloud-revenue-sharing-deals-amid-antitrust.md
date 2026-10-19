@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-28-nvidia-36b-ai-compute-partnership-paused-company-disputes
 - 2026-08-27-nvidia-pauses-revenue-sharing-deals-with-ai-cloud-providers
-embedding_id: null
+embedding_id: 2026-08-28-nvidia-pauses-ai-cloud-revenue-sharing-deals-amid-antitrust
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
-embedding_id: null
+embedding_id: 2026-10-07-nvidia-s-100b-dealmaking-engine-moves-toward-robots-self-dri
 event_name: ''
 ---
 

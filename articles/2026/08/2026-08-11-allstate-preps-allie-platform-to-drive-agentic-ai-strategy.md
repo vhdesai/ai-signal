@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 - 2026-10-05-researchers-track-a-chinese-agent-fleet-on-tencent-infrastru
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
-embedding_id: null
+embedding_id: 2026-08-11-allstate-preps-allie-platform-to-drive-agentic-ai-strategy
 event_name: ''
 ---
 

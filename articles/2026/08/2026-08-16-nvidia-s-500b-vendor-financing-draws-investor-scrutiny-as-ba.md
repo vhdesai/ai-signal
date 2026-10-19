@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
-embedding_id: null
+embedding_id: 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
 event_name: ''
 ---
 

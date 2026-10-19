@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
 - 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 - 2026-09-17-openai-publishes-misalignment-disclosure-framework-with-six
-embedding_id: null
+embedding_id: 2026-09-26-openai-widens-misaligned-model-activity-review-across-sec-ce
 event_name: ''
 ---
 

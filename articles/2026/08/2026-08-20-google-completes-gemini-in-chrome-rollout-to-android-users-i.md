@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-08-05-google-sets-a-september-4-deadline-to-replace-google-assista
 - 2026-07-30-google-connects-gemini-spark-to-chrome-for-autonomous-web-er
-embedding_id: null
+embedding_id: 2026-08-20-google-completes-gemini-in-chrome-rollout-to-android-users-i
 event_name: ''
 ---
 

@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-03-air-security-emerges-from-stealth-with-50m-to-build-a-firewa
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-03-air-security-launches-with-50-million-to-build-a-firewall-fo
 event_name: ''
 ---
 

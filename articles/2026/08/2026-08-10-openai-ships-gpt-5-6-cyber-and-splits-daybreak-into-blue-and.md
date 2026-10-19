@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
 event_name: ''
 ---
 

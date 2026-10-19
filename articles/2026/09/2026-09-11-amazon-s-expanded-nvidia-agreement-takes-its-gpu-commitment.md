@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-28-aws-commits-to-roughly-2-million-more-nvidia-gpus
-embedding_id: null
+embedding_id: 2026-09-11-amazon-s-expanded-nvidia-agreement-takes-its-gpu-commitment
 event_name: ''
 ---
 

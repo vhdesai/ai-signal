@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-14-weekly-funding-concentrates-in-data-ai-infrastructure-defens
 event_name: ''
 ---
 

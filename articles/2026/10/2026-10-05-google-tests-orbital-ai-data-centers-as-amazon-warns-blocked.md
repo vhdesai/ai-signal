@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-05-google-puts-ai-chips-in-space-to-test-orbital-data-center-co
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 event_name: ''
 ---
 

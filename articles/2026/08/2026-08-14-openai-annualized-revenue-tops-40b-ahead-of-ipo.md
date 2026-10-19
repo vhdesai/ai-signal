@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-14-openai-passes-40b-annualized-run-rate-as-revenue-chief-exits
 - 2026-08-14-openai-nears-ipo-at-a-40b-run-rate-amid-continued-executive
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
-embedding_id: null
+embedding_id: 2026-08-14-openai-annualized-revenue-tops-40b-ahead-of-ipo
 event_name: ''
 ---
 

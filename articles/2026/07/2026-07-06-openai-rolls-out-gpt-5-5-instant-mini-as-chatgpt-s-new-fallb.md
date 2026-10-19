@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-embedding_id: null
+embedding_id: 2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb
 event_name: ''
 ---
 

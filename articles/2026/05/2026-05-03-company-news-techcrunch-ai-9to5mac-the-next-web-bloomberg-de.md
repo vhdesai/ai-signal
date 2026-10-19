@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-news-research-outlets-wsj-marktechpost-techcrunch-ai-venture
 - 2026-05-18-daily-ai-news-digest-compiled-for-vik-desai-director-of-tech
 - 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
-embedding_id: null
+embedding_id: 2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de
 event_name: ''
 ---
 

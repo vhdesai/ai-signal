@@ -24,7 +24,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal
 event_name: ''
 ---
 

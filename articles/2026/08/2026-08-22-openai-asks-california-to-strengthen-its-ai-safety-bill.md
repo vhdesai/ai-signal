@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-31-openai-wants-california-to-strengthen-its-newly-passed-ai-sa
 - 2026-08-22-openai-reverses-course-asks-california-to-strengthen-sb-53
 - 2026-08-22-openai-says-california-should-strengthen-its-ai-safety-bill
-embedding_id: null
+embedding_id: 2026-08-22-openai-asks-california-to-strengthen-its-ai-safety-bill
 event_name: ''
 ---
 

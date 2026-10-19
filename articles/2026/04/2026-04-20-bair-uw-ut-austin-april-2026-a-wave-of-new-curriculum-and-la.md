@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-embedding_id: null
+embedding_id: 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-23-dueling-price-cuts-land-days-after-both-ceos-called-for-a-sl
 - 2026-06-11-chinese-ai-models-undercut-openai-and-anthropic-by-up-to-9-o
 - 2026-09-02-frontier-capability-and-frontier-cost-moved-on-the-same-day
-embedding_id: null
+embedding_id: 2026-09-23-both-frontier-labs-cut-flagship-prices-on-the-same-day-even
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-08-14-spacex-completes-60b-all-stock-acquisition-of-cursor-maker-a
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
-embedding_id: null
+embedding_id: 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
 event_name: ''
 ---
 

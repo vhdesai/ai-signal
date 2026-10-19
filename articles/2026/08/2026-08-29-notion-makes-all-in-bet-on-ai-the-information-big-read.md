@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
-embedding_id: null
+embedding_id: 2026-08-29-notion-makes-all-in-bet-on-ai-the-information-big-read
 event_name: ''
 ---
 

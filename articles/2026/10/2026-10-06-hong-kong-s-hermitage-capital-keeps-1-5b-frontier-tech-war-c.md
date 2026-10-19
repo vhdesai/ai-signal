@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-08-28-chinese-embodied-ai-startup-psibot-raises-over-100-million
 - 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
-embedding_id: null
+embedding_id: 2026-10-06-hong-kong-s-hermitage-capital-keeps-1-5b-frontier-tech-war-c
 event_name: ''
 ---
 

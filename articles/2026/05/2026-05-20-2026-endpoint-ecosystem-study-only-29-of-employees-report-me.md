@@ -5,8 +5,8 @@ title: '2026 Endpoint Ecosystem Study: Only 29% of Employees Report Meaningful V
 date: '2026-05-20'
 source: Mobile Mentor / AiThority
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mobile-mentor.com/insights/what-the-2026-endpoint-ecosystem-study-reveals-about-the-future-of-work/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b8e1f54d9aeecfe9b0b7be9e28ba466ac5b3c05592d77030b6255953ca8dc9a7
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 event_name: ''
 ---
 

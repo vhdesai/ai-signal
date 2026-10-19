@@ -4,8 +4,8 @@ title: Microsoft .NET team ships "skills" repository to equip AI agents with C# 
 date: '2026-05-23'
 source: GitHub Trending
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6051319d52d96e9147212dd2f9b9999294b8cb2c1373d2cf4453d1101f7fbe64
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
-embedding_id: null
+embedding_id: 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 event_name: ''
 ---
 

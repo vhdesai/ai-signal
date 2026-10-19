@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
-embedding_id: null
+embedding_id: 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 event_name: ''
 ---
 

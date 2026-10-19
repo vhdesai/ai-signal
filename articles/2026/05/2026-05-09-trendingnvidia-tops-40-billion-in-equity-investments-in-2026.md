@@ -5,8 +5,8 @@ title: TrendingNvidia Tops $40 Billion in Equity Investments in 2026 — Now Fin
 date: '2026-05-09'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: de2092f683c7a91017fba1ba91602fb7fa783f2175fbe40432e1c458d7880d42
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026
 event_name: ''
 ---
 

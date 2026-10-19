@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-09-09-google-commits-15-1b-to-ai-infrastructure-in-finland-its-lar
 - 2026-09-21-kairos-power-secures-up-to-100m-from-samsung-c-t-for-its-fir
-embedding_id: null
+embedding_id: 2026-09-08-us-closes-1-9b-loan-to-restart-the-iowa-reactor-already-cont
 event_name: ''
 ---
 

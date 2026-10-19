@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
-embedding_id: null
+embedding_id: 2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm
 event_name: ''
 ---
 

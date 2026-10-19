@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-27-nvidia-agrees-to-acquire-hugging-face-for-12-9b
 - 2026-09-03-nvidia-confirms-12-9b-hugging-face-acquisition-huang-defends
-embedding_id: null
+embedding_id: 2026-08-29-nvidia-agrees-to-acquire-hugging-face-for-12-9-billion
 event_name: ''
 ---
 

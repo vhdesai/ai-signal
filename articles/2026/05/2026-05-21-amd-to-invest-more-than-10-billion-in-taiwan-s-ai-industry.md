@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-07-30-eu-commits-10b-to-seven-ai-gigafactories-in-race-with-u-s-an
 - 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
-embedding_id: null
+embedding_id: 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 event_name: ''
 ---
 

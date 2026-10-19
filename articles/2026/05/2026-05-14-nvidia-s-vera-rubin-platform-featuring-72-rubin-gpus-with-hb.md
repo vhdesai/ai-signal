@@ -5,8 +5,8 @@ title: NVIDIA's Vera Rubin platform — featuring 72 Rubin GPUs with HBM4 at 22 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: f28db33e81d12890a2fdaebc3b01a31cc755debb3d8e09f598f8a495e00fb576
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-24-nvidia-puts-the-groq-3-lpx-inference-rack-into-full-producti
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
-embedding_id: null
+embedding_id: 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
 event_name: ''
 ---
 

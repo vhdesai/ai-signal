@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-09-legal-ai-startup-harvey-reaches-15-5b-valuation-on-a-550m-ro
 - 2026-10-13-z-ai-releases-glm-legal-for-agentic-legal-work
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
-embedding_id: null
+embedding_id: 2026-08-23-harvey-introduces-harvey-tenet-a-kimi-k3-base-post-trained-f
 event_name: ''
 ---
 

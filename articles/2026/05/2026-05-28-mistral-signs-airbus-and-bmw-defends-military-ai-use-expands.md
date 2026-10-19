@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-30-mistral-taps-saudi-arabia-s-humain-data-centres-for-sovereig
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-embedding_id: null
+embedding_id: 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 - 2026-07-15-vint-cerf-backs-effort-to-create-identity-standards-for-inte
 - 2026-10-13-amex-introduces-framework-to-prevent-unauthorized-ai-agent-p
-embedding_id: null
+embedding_id: 2026-09-06-hkt-pilots-identity-verification-for-ai-agent-payment-flows
 event_name: ''
 ---
 

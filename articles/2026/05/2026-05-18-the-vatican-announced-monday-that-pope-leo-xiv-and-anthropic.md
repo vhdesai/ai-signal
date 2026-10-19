@@ -5,8 +5,8 @@ title: The Vatican announced Monday that Pope Leo XIV and Anthropic co-founder C
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 6ffa261939bf105e5382e1480d439f6866342e240b4da49dc60c2ce369d91f0b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
-embedding_id: null
+embedding_id: 2026-05-18-the-vatican-announced-monday-that-pope-leo-xiv-and-anthropic
 event_name: ''
 ---
 

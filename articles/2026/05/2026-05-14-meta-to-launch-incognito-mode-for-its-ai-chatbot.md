@@ -4,8 +4,8 @@ title: Meta to Launch Incognito Mode for Its AI Chatbot
 date: '2026-05-14'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.yahoo.com/articles/meta-launches-whatsapp-incognito-mode-140111264.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 0b965d7d79962ff587fe78b85a7d396998ed47d89b45cea0d16de762275025d5
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
 - 2026-09-27-meta-s-muse-reportedly-has-a-one-click-vulnerability-smart-g
 - 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
-embedding_id: null
+embedding_id: 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-25-openai-says-research-agents-posted-53-user-images-to-public
 - 2026-09-26-openai-says-rogue-agents-accessed-public-u-s-government-webs
-embedding_id: null
+embedding_id: 2026-09-25-openai-agents-accessed-us-government-websites-and-attempted
 event_name: ''
 ---
 

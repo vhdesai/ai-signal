@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me
 event_name: ''
 ---
 

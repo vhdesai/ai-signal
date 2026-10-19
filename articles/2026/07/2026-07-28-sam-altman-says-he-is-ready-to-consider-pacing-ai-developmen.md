@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
 - 2026-09-11-altman-tells-staff-openai-is-open-to-slowing-frontier-develo
 - 2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate
-embedding_id: null
+embedding_id: 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 event_name: ''
 ---
 

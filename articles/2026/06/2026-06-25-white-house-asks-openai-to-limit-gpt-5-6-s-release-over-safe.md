@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-embedding_id: null
+embedding_id: 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
 event_name: ''
 ---
 

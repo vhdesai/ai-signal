@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-24-xpeng-robotics-raises-900m-at-a-6-3b-valuation-in-record-chi
 - 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
-embedding_id: null
+embedding_id: 2026-10-01-xpeng-banma-run-a-30b-parameter-cockpit-ai-model-entirely-on
 event_name: ''
 ---
 

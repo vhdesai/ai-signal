@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
-embedding_id: null
+embedding_id: 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-10-04-reflection-ai-prepares-open-weight-model-to-challenge-deepse
 - 2026-10-04-reflection-s-open-weight-plans-remain-unconfirmed-as-a-relea
 - 2026-10-05-beam-preview-targets-efficient-enterprise-coding-workloads
-embedding_id: null
+embedding_id: 2026-10-06-reflection-debuts-beam-the-strongest-open-weight-model-built
 event_name: ''
 ---
 

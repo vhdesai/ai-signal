@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-06-meta-s-ai-breached-testing-firm-irregular-the-third-rogue-mo
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 - 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
-embedding_id: null
+embedding_id: 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
 event_name: ''
 ---
 

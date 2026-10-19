@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
 - 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
-embedding_id: null
+embedding_id: 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 event_name: ''
 ---
 

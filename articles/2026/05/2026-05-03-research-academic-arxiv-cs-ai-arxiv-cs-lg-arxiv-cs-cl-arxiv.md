@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 - 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-embedding_id: null
+embedding_id: 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
 event_name: ''
 ---
 

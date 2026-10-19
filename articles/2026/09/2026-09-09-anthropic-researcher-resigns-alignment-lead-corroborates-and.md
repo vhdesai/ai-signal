@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-09-anthropic-researcher-resigns-alignment-lead-corroborates-and
 event_name: ''
 ---
 

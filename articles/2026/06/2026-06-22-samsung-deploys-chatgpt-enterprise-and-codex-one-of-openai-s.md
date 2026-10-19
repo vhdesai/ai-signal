@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
-embedding_id: null
+embedding_id: 2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s
 event_name: ''
 ---
 

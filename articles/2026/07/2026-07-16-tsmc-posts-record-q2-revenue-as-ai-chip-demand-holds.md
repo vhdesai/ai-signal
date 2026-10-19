@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 - 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 - 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
-embedding_id: null
+embedding_id: 2026-07-16-tsmc-posts-record-q2-revenue-as-ai-chip-demand-holds
 event_name: ''
 ---
 

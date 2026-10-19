@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
-embedding_id: null
+embedding_id: 2026-09-21-ntnu-review-of-173-studies-generative-ai-cuts-both-ways-on-c
 event_name: ''
 ---
 

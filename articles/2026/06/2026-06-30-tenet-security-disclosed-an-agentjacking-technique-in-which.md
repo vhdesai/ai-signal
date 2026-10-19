@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-09-04-september-5-2026-bleepingcomputer
 - 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
-embedding_id: null
+embedding_id: 2026-06-30-tenet-security-disclosed-an-agentjacking-technique-in-which
 event_name: ''
 ---
 

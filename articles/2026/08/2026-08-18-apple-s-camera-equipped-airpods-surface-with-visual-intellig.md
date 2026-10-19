@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-18-apple-s-camera-equipped-airpods-may-avoid-pervert-pods-probl
 - 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
 - 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
-embedding_id: null
+embedding_id: 2026-08-18-apple-s-camera-equipped-airpods-surface-with-visual-intellig
 event_name: ''
 ---
 

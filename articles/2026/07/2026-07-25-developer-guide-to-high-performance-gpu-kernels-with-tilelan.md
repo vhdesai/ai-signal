@@ -5,7 +5,7 @@ date: '2026-07-25'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/
 url_canonical: https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: 9b3e58fca5a74a8acdb44f5e7add62c2ba357acb95e47c66e58bf5f5d336efcf
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-23-freetoken-edge-native-moe-serving-engine-runs-753b-glm-5-2-o
 - 2026-09-05-perplexity-details-the-gpu-embedding-stack-behind-pplx-embed
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
-embedding_id: null
+embedding_id: 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
 - 2026-07-30-thursday-july-30-2026
-embedding_id: null
+embedding_id: 2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida
 event_name: ''
 ---
 

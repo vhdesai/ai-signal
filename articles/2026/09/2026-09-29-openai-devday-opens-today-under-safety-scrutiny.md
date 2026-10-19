@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-09-29-openai-devday-2026-opens-under-safety-scrutiny-rather-than-l
 related_article_ids:
 - 2026-09-29-openai-devday-opens-under-safety-scrutiny-with-strong-revenu
-embedding_id: null
+embedding_id: 2026-09-29-openai-devday-opens-today-under-safety-scrutiny
 event_name: ''
 ---
 

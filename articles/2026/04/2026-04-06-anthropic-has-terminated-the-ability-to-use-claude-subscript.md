@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-30-anthropic-forcibly-signs-out-claude-users-after-infostealer
 - 2026-08-05-global-anthropic-outage-disrupts-claude-chat-api-and-claude
 - 2026-08-05-global-anthropic-outage-disrupted-claude-chat-api-and-claude
-embedding_id: null
+embedding_id: 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 event_name: ''
 ---
 

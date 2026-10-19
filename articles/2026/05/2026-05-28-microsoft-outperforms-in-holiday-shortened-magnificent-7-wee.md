@@ -4,8 +4,8 @@ title: Microsoft Outperforms in Holiday-Shortened Magnificent 7 Week
 date: '2026-05-28'
 source: 'Source: Money Morning'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://moneymorning.com/2026/08/06/magnificent-7-weekly-report-august-6-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 4952555f6f3766d2a15dce8e30d789e20704a0513ada3d43aaf4121ae530c18d
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-07-30-thursday-july-30-2026
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
-embedding_id: null
+embedding_id: 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-05-artificial-analysis-overhauls-its-intelligence-index-after-a
 - 2026-09-22-openai-s-gpt-6-astra-overtakes-anthropic-s-claude-opus-5-in
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-embedding_id: null
+embedding_id: 2026-09-04-benchmarks-split-on-gpt-6-astra-but-arc-agi-3-efficiency-pul
 event_name: ''
 ---
 

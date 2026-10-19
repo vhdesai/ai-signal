@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-nvidia-s-sol-pi-ai-discovered-harness-optimizations-cut-codi
 - 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
-embedding_id: null
+embedding_id: 2026-09-26-nvidia-s-sol-pi-cuts-coding-agent-token-usage-by-49-via-harn
 event_name: ''
 ---
 

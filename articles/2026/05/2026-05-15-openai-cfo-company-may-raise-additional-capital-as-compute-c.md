@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-26-nvidia-weighs-250b-financing-backstop-for-openai-s-10-gigawa
 - 2026-08-14-nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-d
 - 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
-embedding_id: null
+embedding_id: 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 event_name: ''
 ---
 

@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
+- 2026-10-14-eight-states-challenge-openai-s-safety-representations
 - 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
-- 2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill
-embedding_id: null
+embedding_id: 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A coalition of 15 GOP state attorneys general, led by Iowa’s Brenna Bird, issu
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br]] · [[2026-08-22-openai-asks-california-to-strengthen-its-own-ai-safety-bill]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-10-14-eight-states-challenge-openai-s-safety-representations]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f]] · [[2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br]]
 <!-- graph:end -->

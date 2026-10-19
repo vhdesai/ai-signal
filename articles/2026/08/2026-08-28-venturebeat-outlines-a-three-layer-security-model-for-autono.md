@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
 - 2026-08-27-the-enterprise-agent-risk-is-inter-agent-complexity-not-auto
 - 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
-embedding_id: null
+embedding_id: 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 event_name: ''
 ---
 

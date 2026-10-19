@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-embedding_id: null
+embedding_id: 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 event_name: ''
 ---
 

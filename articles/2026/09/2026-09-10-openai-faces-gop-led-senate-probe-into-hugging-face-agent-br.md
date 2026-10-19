@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-10-openai-faces-gop-led-senate-investigation-over-hugging-face
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-10-openai-faces-gop-led-senate-probe-into-hugging-face-agent-br
 event_name: ''
 ---
 

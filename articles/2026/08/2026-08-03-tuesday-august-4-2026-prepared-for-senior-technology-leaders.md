@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-01-the-ai-brief-august-1-2026
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-07-12-july-13-2026
-embedding_id: null
+embedding_id: 2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders
 event_name: ''
 ---
 

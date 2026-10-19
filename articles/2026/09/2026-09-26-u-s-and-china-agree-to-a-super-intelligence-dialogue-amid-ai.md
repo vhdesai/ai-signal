@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 - 2026-09-20-u-s-and-china-discuss-a-mechanism-to-warn-each-other-about-a
-embedding_id: null
+embedding_id: 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
 event_name: ''
 ---
 

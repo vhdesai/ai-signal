@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-09-20-nscale-files-for-us-ipo-at-35b-discloses-103b-contracted-rev
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-embedding_id: null
+embedding_id: 2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i
 event_name: ''
 ---
 

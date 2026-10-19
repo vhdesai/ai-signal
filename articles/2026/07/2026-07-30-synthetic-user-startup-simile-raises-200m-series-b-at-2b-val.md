@@ -4,8 +4,8 @@ title: Synthetic-User Startup Simile Raises $200M Series B at $2B Valuation
 date: '2026-07-30'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/
+url_status: repaired
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 2d0b240799cd5f70e2cb2b9d66c33eab852d927b34f01413770eb513cfc39fef
 normalized_title_hash: 1b8eda91a3cfed9b
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-a-2-5b-va
 - 2026-08-26-consumer-ai-agent-instinct-raises-250m-series-b-at-2-5b-valu
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-embedding_id: null
+embedding_id: 2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val
 event_name: ''
 ---
 

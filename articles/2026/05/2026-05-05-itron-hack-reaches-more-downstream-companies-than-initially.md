@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
 - 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
-embedding_id: null
+embedding_id: 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-08-01'
 source: OpenAI Blog / Gizmodo
 url_original: https://openai.com/index/ten-advances-in-mathematics/
 url_canonical: https://openai.com/index/ten-advances-in-mathematics/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-02_061105_Inbox_Daily AI News Digest - August 2,
   2026.md
 content_hash: 31d00bfcb743f17c7768c5659038204571941b77ccd469ee621f95183552c22c
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-01-openai-quietly-reveals-astra-through-a-mathematics-research
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai
 event_name: ''
 ---
 

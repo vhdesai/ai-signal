@@ -5,7 +5,7 @@ date: '2026-08-06'
 source: OpenAI Blog
 url_original: https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/
 url_canonical: https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-07_061331_Inbox_Daily AI News Digest - August 7,
   2026.md
 content_hash: 67932667d9869c7dbe6059ef84bec847afe5ca5f63ea3cb72a3a3973b36e5242
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-embedding_id: null
+embedding_id: 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 event_name: ''
 ---
 

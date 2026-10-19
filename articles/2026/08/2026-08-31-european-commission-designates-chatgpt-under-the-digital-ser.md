@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-eu-designates-chatgpt-a-very-large-online-search-engine-unde
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-european-commission-designates-chatgpt-under-the-digital-ser
 event_name: ''
 ---
 

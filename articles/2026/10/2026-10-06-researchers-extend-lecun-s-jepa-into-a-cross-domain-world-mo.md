@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 - 2026-09-21-robert-langer-and-yann-lecun-join-the-board-of-cellular-inte
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
-embedding_id: null
+embedding_id: 2026-10-06-researchers-extend-lecun-s-jepa-into-a-cross-domain-world-mo
 event_name: ''
 ---
 

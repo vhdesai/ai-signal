@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
-embedding_id: null
+embedding_id: 2026-06-19-microsoft-confirmed-two-significant-copilot-cowork-changes-i
 event_name: ''
 ---
 

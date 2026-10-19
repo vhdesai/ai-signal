@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-nvidia-beats-on-fiscal-q2-with-96-22b-revenue-shares-still-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-nvidia-q2-revenue-doubles-to-96-2b-guides-to-108b-shares-sli
 event_name: ''
 ---
 

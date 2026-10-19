@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-26-insurers-say-hospital-ai-tools-added-942m-to-healthcare-spen
 - 2026-09-26-insurers-claim-ai-has-added-942m-to-us-healthcare-costs-in-t
 - 2026-09-14-rocket-doctor-ai-reports-u-s-operating-momentum-ahead-of-tow
-embedding_id: null
+embedding_id: 2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa
 event_name: ''
 ---
 

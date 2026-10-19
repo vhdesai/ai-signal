@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-09-20-business-insider-the-timing-of-the-ai-slowdown-call-looks-to
-embedding_id: null
+embedding_id: 2026-09-26-the-information-why-wall-street-s-big-bad-bears-aren-t-ready
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-20-nvidia-denies-report-it-will-ship-a-china-specific-ai-chip-b
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-20-nvidia-denies-report-that-it-will-ship-a-china-specific-ai-c
 event_name: ''
 ---
 

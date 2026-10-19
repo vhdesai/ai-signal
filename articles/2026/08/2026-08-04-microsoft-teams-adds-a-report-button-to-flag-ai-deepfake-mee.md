@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
 event_name: ''
 ---
 

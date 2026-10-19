@@ -4,8 +4,8 @@ title: Anthropic Calls for Coordinated Global Pause in Frontier AI Development
 date: '2026-06-04'
 source: WSJ; BBC; Semafor; Tom's Hardware; ABC News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techtimes.com/articles/317803/20260605/anthropic-calls-global-pause-ai-development-amid-rising-concern-over-self-improving-models.htm
+url_status: repaired
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 916529ba88a1a3abb947735a34f95ed008f30077c44b11a9c6272c4e9339f7d2
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
-embedding_id: null
+embedding_id: 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
 event_name: ''
 ---
 

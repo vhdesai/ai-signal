@@ -4,8 +4,8 @@ title: 'WSJ: Record Insider Selling at AI Companies Is a "Giant Warning Sign"'
 date: '2026-06-21'
 source: Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-17/us-corporate-insiders-are-selling-stocks-at-a-near-record-pace
+url_status: repaired
 digest_source: digests\raw\2026-06-21_070014_Final-Daily-AI-News-Digest.md
 content_hash: 3394cd04dc56c0e9980780a69e80277a13bda3bb2fdfb041929787b2d6e81ef8
 normalized_title_hash: 24385d31f3c9c059
@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-21-wsj-record-insider-selling-at-ai-companies-is-a-giant-warnin
 event_name: ''
 ---
 

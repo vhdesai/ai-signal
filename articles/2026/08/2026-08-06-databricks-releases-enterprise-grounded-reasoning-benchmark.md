@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-17-moonshot-ai-releases-kimi-k3-an-open-weight-model-that-tops
 - 2026-07-16-moonshot-ai-releases-kimi-k3-a-2-8t-parameter-open-moe-model
 - 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
-embedding_id: null
+embedding_id: 2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark
 event_name: ''
 ---
 

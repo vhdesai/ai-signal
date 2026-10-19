@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere
 - 2026-09-14-xi-at-brics-china-will-lead-ai-cooperation-for-the-global-so
 - 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
-embedding_id: null
+embedding_id: 2026-07-13-read-at-reuters-via-u-s-news
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
 - 2026-09-03-broadcom-s-custom-ai-chip-revenue-surges-221-to-16-7b-q4-gui
 - 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
-embedding_id: null
+embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-28-federal-judge-nullifies-pentagon-s-supply-chain-risk-designa
 related_article_ids:
 - 2026-08-28-u-s-judge-orders-pentagon-to-rescind-blacklisting-of-anthrop
-embedding_id: null
+embedding_id: 2026-08-28-federal-judge-orders-pentagon-to-rescind-blacklisting-of-ant
 event_name: ''
 ---
 

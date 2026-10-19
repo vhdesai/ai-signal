@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-13-deepseek-formally-releases-v4-pro-with-1m-token-context
 - 2026-08-14-deepseek-launches-v4-pro-and-sharply-raises-api-prices
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
-embedding_id: null
+embedding_id: 2026-08-13-deepseek-v4-pro-launches-to-mixed-reviews-priced-at-a-fracti
 event_name: ''
 ---
 

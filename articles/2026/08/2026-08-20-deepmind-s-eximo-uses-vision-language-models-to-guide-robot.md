@@ -23,8 +23,9 @@ related_article_ids:
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for
 - 2026-07-26-abbel-belief-state-memory-for-llm-agents
-embedding_id: null
+embedding_id: 2026-08-20-deepmind-s-eximo-uses-vision-language-models-to-guide-robot
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ DeepMind researchers introduce EXIMO, a three-stage explore-imitate-optimize alg
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
+**Related:** [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-10-17-kyutai-releases-reki-a-2-4b-vision-language-action-model-for]] · [[2026-07-26-abbel-belief-state-memory-for-llm-agents]]
 <!-- graph:end -->

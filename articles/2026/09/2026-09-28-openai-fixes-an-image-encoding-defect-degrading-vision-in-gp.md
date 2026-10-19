@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-07-openai-rolls-gpt-5-6-luna-out-to-chatgpt-free-and-go-users
-embedding_id: null
+embedding_id: 2026-09-28-openai-fixes-an-image-encoding-defect-degrading-vision-in-gp
 event_name: ''
 ---
 

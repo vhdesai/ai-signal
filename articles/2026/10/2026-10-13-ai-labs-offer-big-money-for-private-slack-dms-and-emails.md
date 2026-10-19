@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 - 2026-09-06-meta-migrates-internal-communications-from-google-chat-to-sl
 - 2026-08-14-business-insider-launches-the-ai-data-grab-series-on-workpla
-embedding_id: null
+embedding_id: 2026-10-13-ai-labs-offer-big-money-for-private-slack-dms-and-emails
 event_name: ''
 ---
 

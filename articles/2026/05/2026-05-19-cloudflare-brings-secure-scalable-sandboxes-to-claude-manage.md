@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 - 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-embedding_id: null
+embedding_id: 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 event_name: ''
 ---
 

@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-10-07-youth-safety-assessment-challenges-chatgpt-for-teens
 - 2026-10-12-openai-makes-progress-reducing-chatgpt-delusions
 - 2026-10-11-chatgpt-for-teens-puts-openai-s-age-aware-safeguards-into-th
-embedding_id: null
+embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
 

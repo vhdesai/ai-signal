@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-15-anthropic-ipo-valuation-reportedly-hinges-on-a-190-200-billi
 - 2026-08-14-anthropic-ipo-hinges-on-190-200b-2028-revenue-forecast
 - 2026-08-24-investor-speculation-builds-around-a-potential-2-trillion-an
-embedding_id: null
+embedding_id: 2026-08-26-anthropic-to-pitch-investors-on-a-30-trillion-addressable-ma
 event_name: ''
 ---
 

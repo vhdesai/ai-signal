@@ -4,8 +4,8 @@ title: Stanford Convenes AI-for-Mental-Health Symposium
 date: '2026-06-03'
 source: Forbes
 url_original: https://www.forbes.com/sites/lanceeliot/2026/06/03/bold-symposium-at-stanford-illuminates-the-future-of-ai-for-mental-health/
-url_canonical: https://www.forbes.com/sites/lanceeliot/2026/06/03/bold-symposium-at-stanford-illuminates-the-future-of-ai-for-mental-health/
-url_status: broken
+url_canonical: https://med.stanford.edu/psychiatry/special-initiatives/ai4mh/events/symposium2026.html
+url_status: repaired
 digest_source: digests\raw\2026-06-04_071147_Daily-AI-News-Digest.md
 content_hash: 53a5cbcb07731e6defe25f50e87a71ee779aebbd506fced5d3eda191a59b48fa
 normalized_title_hash: e159ff32990c69ea
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-23-openai-publishes-mentalhealthbench-for-evaluating-ai-in-ment
 - 2026-09-06-psychiatry-debates-whether-ai-psychosis-is-a-distinct-diagno
 - 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
-embedding_id: null
+embedding_id: 2026-06-03-stanford-convenes-ai-for-mental-health-symposium
 event_name: ''
 ---
 

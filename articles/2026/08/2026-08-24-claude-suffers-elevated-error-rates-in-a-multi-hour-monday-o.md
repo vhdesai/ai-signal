@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
-embedding_id: null
+embedding_id: 2026-08-24-claude-suffers-elevated-error-rates-in-a-multi-hour-monday-o
 event_name: ''
 ---
 

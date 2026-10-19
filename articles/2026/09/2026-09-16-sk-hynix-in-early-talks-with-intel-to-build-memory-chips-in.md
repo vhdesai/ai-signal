@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-16-sk-hynix-in-talks-with-intel-to-make-memory-chips-in-the-us
 - 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-embedding_id: null
+embedding_id: 2026-09-16-sk-hynix-in-early-talks-with-intel-to-build-memory-chips-in
 event_name: ''
 ---
 

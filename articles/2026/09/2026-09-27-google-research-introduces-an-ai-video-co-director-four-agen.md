@@ -24,9 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into
+- 2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti
 - 2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
-embedding_id: null
+embedding_id: 2026-09-27-google-research-introduces-an-ai-video-co-director-four-agen
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Google Research published a model-agnostic orchestration layer over Gemini and V
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-08-29-code-as-world-an-agentic-loop-that-rewrites-real-video-into]] · [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti]] · [[2026-09-21-google-research-procedural-graphs-meaningfully-improve-llm-a]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
 <!-- graph:end -->

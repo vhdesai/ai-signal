@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-embedding_id: null
+embedding_id: 2026-05-26-trisplat-simulation-ready-feed-forward-3d-scene-reconstructi
 event_name: ''
 ---
 

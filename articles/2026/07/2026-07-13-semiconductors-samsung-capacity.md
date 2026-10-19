@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-samsung-reportedly-accelerates-chip-capacity-plans
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-13-semiconductors-samsung-capacity
 event_name: ''
 ---
 

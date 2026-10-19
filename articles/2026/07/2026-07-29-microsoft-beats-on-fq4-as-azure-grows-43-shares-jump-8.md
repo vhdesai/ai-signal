@@ -4,8 +4,8 @@ title: Microsoft beats on FQ4 as Azure grows 43%; shares jump 8%
 date: '2026-07-29'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/msft-stock-posts-best-quarter-084616308.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-07-30_061857_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 395e3a5c3c2c1cfc9cbc35f8d483ad7a1d6fba50869fce88957dfb34ad98066d
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-microsoft-q4-blowout-profit-jumps-31-cloud-posts-fastest-gro
 - 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
-embedding_id: null
+embedding_id: 2026-07-29-microsoft-beats-on-fq4-as-azure-grows-43-shares-jump-8
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
-embedding_id: null
+embedding_id: 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 event_name: ''
 ---
 

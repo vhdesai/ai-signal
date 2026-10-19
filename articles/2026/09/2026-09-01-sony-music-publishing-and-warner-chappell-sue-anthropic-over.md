@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-29-sony-music-and-warner-chappell-sue-anthropic-over-alleged-co
 - 2026-08-31-sony-music-publishing-and-warner-chappell-sue-anthropic-over
 - 2026-08-30-business-insider-reported-that-sony-and-warner-chappell-accu
-embedding_id: null
+embedding_id: 2026-09-01-sony-music-publishing-and-warner-chappell-sue-anthropic-over
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-09-06-report-china-s-ai-giants-stretch-each-compute-dollar-further
 - 2026-08-27-microsoft-cracks-down-on-employee-ai-tokenmaxxing
-embedding_id: null
+embedding_id: 2026-09-15-chinese-tech-giants-are-now-rationing-employee-ai-token-budg
 event_name: ''
 ---
 

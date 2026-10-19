@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
-embedding_id: null
+embedding_id: 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 event_name: ''
 ---
 

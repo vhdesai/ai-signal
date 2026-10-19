@@ -26,7 +26,7 @@ related_article_ids:
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - 2026-07-14-apple-opens-redesigned-siri-ai-through-the-ios-27-public-bet
-embedding_id: null
+embedding_id: 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
 event_name: ''
 ---
 

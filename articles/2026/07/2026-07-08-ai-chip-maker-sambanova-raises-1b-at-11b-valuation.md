@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
-embedding_id: null
+embedding_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 event_name: ''
 ---
 

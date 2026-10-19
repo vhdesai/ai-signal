@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 - 2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
-embedding_id: null
+embedding_id: 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 event_name: ''
 ---
 

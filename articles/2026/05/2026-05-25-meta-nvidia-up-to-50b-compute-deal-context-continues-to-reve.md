@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-08-14-nvidia-s-500b-compute-financing-platform-draws-private-credi
-embedding_id: null
+embedding_id: 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 event_name: ''
 ---
 

@@ -5,7 +5,7 @@ date: '2026-07-14'
 source: OpenAI Blog
 url_original: https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/
 url_canonical: https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
 content_hash: c452dffcd1253f9bdbe930c4c958a77f7fb7313d56a697903b673ad1dc49a8ef
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 - 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
-embedding_id: null
+embedding_id: 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 event_name: ''
 ---
 

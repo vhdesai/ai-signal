@@ -5,8 +5,8 @@ title: Google announces "Googlebook," a Gemini-first laptop category — TLDL / 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.91mobiles.com/hub/google-announces-googlebook-laptop-built-around-gemini-intelligence/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: fb3013294dd2b8b14b881e38f3e34474692fc308ca47b14571edb17e006a35b9
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
-embedding_id: null
+embedding_id: 2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t
 event_name: ''
 ---
 

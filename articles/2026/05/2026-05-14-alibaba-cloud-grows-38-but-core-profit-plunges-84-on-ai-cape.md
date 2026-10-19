@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-23-alibaba-raises-10-2bn-in-hong-kong-earmarks-100-for-ai
 - 2026-08-24-alibaba-plunges-after-10-2b-placement-to-fund-ai-push
 - 2026-08-24-alibaba-sells-10-2b-in-stock-to-fund-ai-shares-plunge-roughl
-embedding_id: null
+embedding_id: 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 event_name: ''
 ---
 

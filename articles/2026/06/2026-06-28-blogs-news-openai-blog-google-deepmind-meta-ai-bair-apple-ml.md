@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-05-news-sites-wsj-ai-marktechpost-techcrunch-ai-venturebeat-ai
 - 2026-05-23-sources-monitored-this-edition-openai-blog-google-deepmind-m
 - 2026-05-18-daily-ai-news-digest-compiled-may-18-2026-sources-techcrunch
-embedding_id: null
+embedding_id: 2026-06-28-blogs-news-openai-blog-google-deepmind-meta-ai-bair-apple-ml
 event_name: ''
 ---
 

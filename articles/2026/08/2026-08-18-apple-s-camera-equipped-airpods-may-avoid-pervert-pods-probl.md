@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-17-zoom-do-not-record-me-hack-highlights-friction-from-ai-trans
 - 2026-08-28-meta-closes-smart-glasses-recording-loophole-launches-privac
-embedding_id: null
+embedding_id: 2026-08-18-apple-s-camera-equipped-airpods-may-avoid-pervert-pods-probl
 event_name: ''
 ---
 

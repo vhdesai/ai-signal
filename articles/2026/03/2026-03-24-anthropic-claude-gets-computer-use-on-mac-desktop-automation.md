@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-27-anthropic-adds-a-native-browser-to-the-claude-cowork-desktop
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
-embedding_id: null
+embedding_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 event_name: ''
 ---
 

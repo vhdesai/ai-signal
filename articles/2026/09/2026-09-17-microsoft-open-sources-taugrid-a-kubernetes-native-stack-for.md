@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 - 2026-08-13-cascadia-launches-open-source-distributed-inference-for-inte
 - 2026-09-14-nvidia-open-sources-osmo-one-yaml-file-orchestrates-physical
-embedding_id: null
+embedding_id: 2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for
 event_name: ''
 ---
 

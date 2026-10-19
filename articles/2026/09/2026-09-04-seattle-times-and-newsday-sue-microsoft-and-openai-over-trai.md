@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
 - 2026-09-05-seattle-times-and-newsday-are-the-latest-publications-to-sue
 - 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-trai
-embedding_id: null
+embedding_id: 2026-09-04-seattle-times-and-newsday-sue-microsoft-and-openai-over-trai
 event_name: ''
 ---
 

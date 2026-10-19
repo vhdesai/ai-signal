@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-03-google-research-released-timesfm-time-series-foundation-mode
 - 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
 - 2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p
-embedding_id: null
+embedding_id: 2026-09-01-timesfm-3-a-zero-shot-foundation-model-for-multivariate-fore
 event_name: ''
 ---
 

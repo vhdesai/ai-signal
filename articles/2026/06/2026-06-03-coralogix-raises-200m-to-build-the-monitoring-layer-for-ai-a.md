@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-03-coralogix-raises-200m-to-build-monitoring-layer-for-ai-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-03-coralogix-raises-200m-to-build-the-monitoring-layer-for-ai-a
 event_name: ''
 ---
 

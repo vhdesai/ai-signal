@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 - 2026-09-23-openai-expands-chatgpt-ads-across-southeast-asia-and-taiwan
 - 2026-08-27-openai-begins-showing-ads-on-chatgpt-in-india-its-largest-no
-embedding_id: null
+embedding_id: 2026-08-24-chatgpt-ads-go-live-across-europe-as-openai-becomes-a-media
 event_name: ''
 ---
 

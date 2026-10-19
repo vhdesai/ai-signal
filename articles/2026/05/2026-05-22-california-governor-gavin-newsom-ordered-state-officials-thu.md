@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-18-california-orders-faster-ai-oversight-work-and-explores-a-fr
 - 2026-09-01-california-legislature-sends-newsom-a-slate-of-ai-bills-incl
 - 2026-09-18-newsom-signs-california-executive-order-demanding-kill-switc
-embedding_id: null
+embedding_id: 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
 event_name: ''
 ---
 

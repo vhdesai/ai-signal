@@ -4,8 +4,8 @@ title: Illinois passes nation's toughest AI safety law as federal authority rece
 date: '2026-05-28'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/
+url_status: repaired
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 4bd9f3b92dcf7e5e2de926039b786d28beb541c7513900efed627eeae1284617
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 event_name: ''
 ---
 

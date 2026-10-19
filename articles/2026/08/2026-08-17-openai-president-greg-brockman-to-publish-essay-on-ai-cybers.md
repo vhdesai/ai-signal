@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-17-openai-s-greg-brockman-argues-the-defender-s-window-for-ai-a
 - 2026-08-17-openai-publishes-the-defender-s-window-on-automating-enterpr
 - 2026-08-28-openai-leads-new-call-for-cyberdefense-of-critical-infrastru
-embedding_id: null
+embedding_id: 2026-08-17-openai-president-greg-brockman-to-publish-essay-on-ai-cybers
 event_name: ''
 ---
 

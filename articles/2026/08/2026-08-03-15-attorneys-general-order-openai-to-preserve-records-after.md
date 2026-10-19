@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-24-alabama-attorney-general-subpoenas-openai-over-the-hugging-f
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
 - 2026-08-18-openai-institutes-new-safeguards-after-hugging-face-breach
-embedding_id: null
+embedding_id: 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 event_name: ''
 ---
 

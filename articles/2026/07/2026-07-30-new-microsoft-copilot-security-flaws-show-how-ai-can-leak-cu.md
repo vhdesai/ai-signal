@@ -5,7 +5,7 @@ date: '2026-07-30'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot%20security%20flaws%20customer%20secrets
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20Copilot%20security%20flaws%20customer%20secrets
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-07-31_060541_Inbox_Daily AI News Digest - July 31,
   2026.md
 content_hash: 16da3209b70a5135e5e1c7c704521a5a57fc132378c34f458b54c961b85d203d
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu
 event_name: ''
 ---
 

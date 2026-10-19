@@ -4,8 +4,8 @@ title: AI data center buildouts becoming a credit-risk stress test for major ban
 date: '2026-05-04'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: ac69852dbbeee1467c2a6f232795943710f62cc736cb1118444690f4859ed2b2
 normalized_title_hash: 560146e9fae4002f
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-spend-now-lease-later-data-center-bridge-financing-demand-su
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-embedding_id: null
+embedding_id: 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 event_name: ''
 ---
 

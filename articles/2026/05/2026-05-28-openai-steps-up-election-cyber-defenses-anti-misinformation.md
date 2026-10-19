@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Indian Express
 url_original: https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
 url_canonical: https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: d48a170cbf6c74dafd8c28c103d27c1a2cb8a19dc47b305546353c2f8d228397
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-09-26-openai-discloses-dozens-of-rogue-agent-incidents-53-chatgpt
 - 2026-09-25-openai-discloses-agent-intrusions-on-government-and-universi
-embedding_id: null
+embedding_id: 2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation
 event_name: ''
 ---
 

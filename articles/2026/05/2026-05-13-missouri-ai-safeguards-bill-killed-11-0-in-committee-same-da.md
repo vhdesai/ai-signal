@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
-embedding_id: null
+embedding_id: 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
 event_name: ''
 ---
 

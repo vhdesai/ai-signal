@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-14-us-clears-nvidia-h200-sales-to-10-chinese-firms-including-al
 - 2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del
 - 2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda
-embedding_id: null
+embedding_id: 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 event_name: ''
 ---
 

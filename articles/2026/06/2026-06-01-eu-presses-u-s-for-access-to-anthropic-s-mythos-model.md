@@ -4,8 +4,8 @@ title: EU presses U.S. for access to Anthropic's Mythos model
 date: '2026-06-01'
 source: Mobile World Live
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mobileworldlive.com/ai-cloud/us-agency-pursues-access-to-new-anthropic-ai-model/
+url_status: repaired
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
 content_hash: 4cf98106bbdbe6b079637a2ff6094aa17405575332a246f34296abe715f295a9
 normalized_title_hash: 9f68c99318294463
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
-embedding_id: null
+embedding_id: 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
-embedding_id: null
+embedding_id: 2026-08-13-south-korea-s-kospi-enters-bull-market-in-one-month-on-ai-tr
 event_name: ''
 ---
 

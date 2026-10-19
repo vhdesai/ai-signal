@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
-embedding_id: null
+embedding_id: 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-28-mit-committee-report-calls-for-alternative-grading-and-more
 - 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
-embedding_id: null
+embedding_id: 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 event_name: ''
 ---
 

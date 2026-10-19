@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-arc
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-07-huawei-ships-kirin-9050-pro-built-on-its-tau-scaling-law-chi
 event_name: ''
 ---
 

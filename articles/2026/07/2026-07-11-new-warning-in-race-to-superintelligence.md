@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-09-new-warning-in-race-to-superintelligence
 - 2026-09-13-four-largest-ai-labs-endorse-a-slower-development-pace-in-a
 - 2026-09-26-u-s-and-china-agree-to-a-super-intelligence-dialogue-amid-ai
-embedding_id: null
+embedding_id: 2026-07-11-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
 

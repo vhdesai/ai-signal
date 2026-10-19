@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-09-11-500k-in-grants-funds-non-transformer-architecture-research-a
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
-embedding_id: null
+embedding_id: 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 event_name: ''
 ---
 

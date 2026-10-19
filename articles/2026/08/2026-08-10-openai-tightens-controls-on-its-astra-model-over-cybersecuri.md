@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-10-openai-tightens-controls-on-its-astra-model-over-cybersecuri
 event_name: ''
 ---
 

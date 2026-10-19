@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d
 - 2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch
 - 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
-embedding_id: null
+embedding_id: 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
 event_name: ''
 ---
 

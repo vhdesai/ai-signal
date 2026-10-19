@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-14-ai-infrastructure-and-data-deals-lead-the-week-s-largest-rou
 - 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 - 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
-embedding_id: null
+embedding_id: 2026-08-28-ai-assistants-dominate-a-thinner-week-of-megadeals
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-03-hot-breaking-openai-launches-gpt-6-astra-a-computer-use-flag
 - 2026-09-05-openai-publishes-gpt-6-astra-prompting-guide-including-a-slo
 - 2026-09-05-gpt-6-astra-draws-scrutiny-over-cybersecurity-capability-sco
-embedding_id: null
+embedding_id: 2026-09-04-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidd
 event_name: ''
 ---
 

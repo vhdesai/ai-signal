@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
-embedding_id: null
+embedding_id: 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
 event_name: ''
 ---
 

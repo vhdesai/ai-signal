@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-mit-vs-stanford-vs-georgia-tech-ai-admissions-policies-compa
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
-embedding_id: null
+embedding_id: 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 event_name: ''
 ---
 

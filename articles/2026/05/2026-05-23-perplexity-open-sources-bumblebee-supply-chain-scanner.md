@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-01-perplexity-ships-hybrid-compute-that-keeps-confidential-file
 - 2026-09-02-perplexity-introduces-hybrid-compute-splitting-agent-tasks-b
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-embedding_id: null
+embedding_id: 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 event_name: ''
 ---
 

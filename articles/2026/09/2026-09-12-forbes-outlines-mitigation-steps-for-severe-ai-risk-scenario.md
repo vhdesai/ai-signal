@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-24-mit-generating-scenarios-for-extreme-events-without-extreme
 - 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
-embedding_id: null
+embedding_id: 2026-09-12-forbes-outlines-mitigation-steps-for-severe-ai-risk-scenario
 event_name: ''
 ---
 

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-08-12-daily-ai-news-digest-august-13-2026
 - 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
-embedding_id: null
+embedding_id: 2026-06-26-daily-ai-news-digest-june-26-2026
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-27-google-confirms-gemini-4-replaces-gemini-3-5-pro-entirely-ta
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-coding-performance
 - 2026-07-15-google-delays-gemini-3-5-pro-a-third-time-gemini-3-6-flash-f
-embedding_id: null
+embedding_id: 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 event_name: ''
 ---
 

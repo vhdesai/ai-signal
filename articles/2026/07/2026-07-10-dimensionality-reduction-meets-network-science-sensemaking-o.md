@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-embedding_id: null
+embedding_id: 2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o
 event_name: ''
 ---
 

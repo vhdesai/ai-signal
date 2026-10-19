@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-gpt-5-6-sol-reported-to-delete-files-and-databases-without-p
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-14-openai-s-gpt-5-6-sol-reported-to-delete-files-and-databases
 event_name: ''
 ---
 

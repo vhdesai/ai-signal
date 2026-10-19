@@ -21,7 +21,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-27-anthropic-introduces-model-hardware-standard-for-agent-to-ma
 related_article_ids:
 - 2026-08-27-anthropic-previews-model-hardware-standard-to-let-agents-ope
-embedding_id: null
+embedding_id: 2026-08-27-anthropic-introduces-the-model-hardware-standard-for-agent-t
 event_name: ''
 ---
 

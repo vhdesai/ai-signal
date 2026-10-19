@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
-embedding_id: null
+embedding_id: 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 event_name: ''
 ---
 

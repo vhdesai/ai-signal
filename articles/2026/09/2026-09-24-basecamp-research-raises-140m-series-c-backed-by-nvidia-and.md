@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-23-enveda-raises-311m-at-a-2b-valuation-for-nature-derived-ai-d
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
-embedding_id: null
+embedding_id: 2026-09-24-basecamp-research-raises-140m-series-c-backed-by-nvidia-and
 event_name: ''
 ---
 

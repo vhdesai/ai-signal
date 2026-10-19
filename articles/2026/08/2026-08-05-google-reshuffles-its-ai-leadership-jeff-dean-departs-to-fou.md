@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 related_article_ids:
 - 2026-08-05-jeff-dean-and-sanjay-ghemawat-leave-google-to-co-found-disco
-embedding_id: null
+embedding_id: 2026-08-05-google-reshuffles-its-ai-leadership-jeff-dean-departs-to-fou
 event_name: ''
 ---
 

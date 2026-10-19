@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b
 event_name: ''
 ---
 

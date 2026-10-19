@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-01-mit-s-ila-kumar-on-designing-technology-with-child-welfare-c
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
-embedding_id: null
+embedding_id: 2026-10-02-mit-profiles-ai-powered-youth-entrepreneurship-platform
 event_name: ''
 ---
 

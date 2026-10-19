@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-21-deezer-says-more-than-half-of-daily-uploads-are-ai-generated
 - 2026-09-13-elevenlabs-releases-music-v2-5-via-app-and-api-licensed-trai
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-embedding_id: null
+embedding_id: 2026-07-15-hack-suggests-suno-scraped-youtube-and-other-sources-for-ai
 event_name: ''
 ---
 

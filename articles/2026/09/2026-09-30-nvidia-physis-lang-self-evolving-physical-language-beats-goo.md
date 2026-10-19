@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-10-06-subject-daily-ai-news-digest-october-6-2026
-embedding_id: null
+embedding_id: 2026-09-30-nvidia-physis-lang-self-evolving-physical-language-beats-goo
 event_name: ''
 ---
 

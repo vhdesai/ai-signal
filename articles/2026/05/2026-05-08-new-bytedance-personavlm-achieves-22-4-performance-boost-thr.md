@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo
 - 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
 - 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
-embedding_id: null
+embedding_id: 2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-08-03-the-robotaxi-market-is-entering-a-phase-where-federal-approv
-embedding_id: null
+embedding_id: 2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system
 event_name: ''
 ---
 

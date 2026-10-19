@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-google-research-timesfm-3-forecasts-from-sales-weather-and-p
 - 2026-09-12-google-research-releases-timesfm-3-for-single-pass-exogenous
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-embedding_id: null
+embedding_id: 2026-08-31-google-releases-timesfm-3-a-330m-parameter-zero-shot-forecas
 event_name: ''
 ---
 

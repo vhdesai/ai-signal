@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-24-google-openai-and-anthropic-advance-standards-authority-for
 - 2026-08-13-hassabis-pitched-an-independent-ai-oversight-body-to-rival-l
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
-embedding_id: null
+embedding_id: 2026-09-23-google-deepmind-launches-deepmind-institute-for-safe-agi-has
 event_name: ''
 ---
 

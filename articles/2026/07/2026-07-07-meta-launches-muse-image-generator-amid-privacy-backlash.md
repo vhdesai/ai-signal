@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash
 event_name: ''
 ---
 

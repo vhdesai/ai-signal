@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-18-anthropic-s-annualized-revenue-tops-65-billion-ahead-of-ipo
 - 2026-08-17-anthropic-s-annualized-revenue-run-rate-reaches-65b
 - 2026-09-18-anthropic-shifts-planned-ipo-to-november-as-revenue-run-rate
-embedding_id: null
+embedding_id: 2026-09-18-anthropic-s-annualized-revenue-passes-100b-ahead-of-a-novemb
 event_name: ''
 ---
 

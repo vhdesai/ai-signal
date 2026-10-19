@@ -5,8 +5,8 @@ title: Nadella Warns Enterprises Against Ceding IP to "a Few Models That Eat Eve
 date: '2026-06-18'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibtimes.co.uk/satya-nadella-warns-ai-economy-dominance-1803020
+url_status: repaired
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: ce455df44173342d5550aaeeb7890ebce3e9dee768bd40743be8efb3ac84cb0f
 normalized_title_hash: f23823e3b5718746
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
-embedding_id: null
+embedding_id: 2026-06-18-nadella-warns-enterprises-against-ceding-ip-to-a-few-models
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
-embedding_id: null
+embedding_id: 2026-09-22-china-s-mlcc-market-splits-in-two-ai-server-components-hold
 event_name: ''
 ---
 

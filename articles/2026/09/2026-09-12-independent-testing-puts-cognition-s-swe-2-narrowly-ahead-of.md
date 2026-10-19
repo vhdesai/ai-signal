@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-11-cognition-s-swe-2-reaches-near-frontier-coding-scores-at-64
 - 2026-09-10-cognition-s-swe-2-post-trains-a-chinese-open-model-to-near-f
 - 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
-embedding_id: null
+embedding_id: 2026-09-12-independent-testing-puts-cognition-s-swe-2-narrowly-ahead-of
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-to-build-an-artificial-ge
 - 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
 - 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
-embedding_id: null
+embedding_id: 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 event_name: ''
 ---
 

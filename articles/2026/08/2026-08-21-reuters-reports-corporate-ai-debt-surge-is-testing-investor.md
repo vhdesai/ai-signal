@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
-embedding_id: null
+embedding_id: 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 event_name: ''
 ---
 

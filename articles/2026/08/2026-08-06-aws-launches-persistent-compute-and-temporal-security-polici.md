@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-08-27-benchmarking-agent-sandboxes-cold-start-per-second-pricing-n
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
-embedding_id: null
+embedding_id: 2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici
 event_name: ''
 ---
 

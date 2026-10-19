@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-google-s-project-suncatcher-will-fly-its-first-tpus-to-orbit
 - 2026-10-05-google-tests-orbital-ai-data-centers-as-amazon-warns-blocked
 - 2026-10-01-google-s-project-suncatcher-takes-ai-chips-into-orbit
-embedding_id: null
+embedding_id: 2026-09-24-google-outlines-project-suncatcher-a-moonshot-to-put-ai-in-s
 event_name: ''
 ---
 

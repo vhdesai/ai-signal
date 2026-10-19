@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
 - 2026-08-20-stripe-acquires-ai-marketplace-openrouter-for-7-5-billion
 - 2026-08-29-the-ipo-s-big-demotion-alternative-liquidity-paths-rise
-embedding_id: null
+embedding_id: 2026-09-01-pitchbook-m-a-not-ipos-is-now-the-default-exit-for-ai-startu
 event_name: ''
 ---
 

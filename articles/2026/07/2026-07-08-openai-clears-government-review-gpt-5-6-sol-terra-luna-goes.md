@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 - 2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
-embedding_id: null
+embedding_id: 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 event_name: ''
 ---
 

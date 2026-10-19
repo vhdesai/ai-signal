@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-25-us-and-china-signal-a-super-intelligence-dialogue-channel-af
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-22-us-and-china-open-a-formal-hotline-for-national-security-lev
-embedding_id: null
+embedding_id: 2026-09-21-china-and-the-us-compete-for-ai-dominance-but-share-safety-c
 event_name: ''
 ---
 

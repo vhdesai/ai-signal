@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-13-nvidia-anchors-a-500b-financing-consortium-to-fund-ai-data-c
 - 2026-08-13-nvidia-unveils-500b-plan-with-wall-street-to-finance-ai-data
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
-embedding_id: null
+embedding_id: 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 event_name: ''
 ---
 

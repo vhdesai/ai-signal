@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-20-multiple-developers-reported-markedly-different-performance
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
-embedding_id: null
+embedding_id: 2026-09-13-openai-retires-gpt-5-3-codex-spark-after-seven-months
 event_name: ''
 ---
 

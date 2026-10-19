@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
 - 2026-08-03-this-earnings-cycle-reinforces-that-markets-are-no-longer-re
 - 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
-embedding_id: null
+embedding_id: 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 event_name: ''
 ---
 

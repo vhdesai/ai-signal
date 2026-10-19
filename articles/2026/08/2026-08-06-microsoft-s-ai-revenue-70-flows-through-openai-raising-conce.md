@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 event_name: ''
 ---
 

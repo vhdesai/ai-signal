@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-09-13-safety-becomes-the-frontier-story-and-capital-keeps-accelera
 - 2026-09-13-sunday-september-13-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-embedding_id: null
+embedding_id: 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 event_name: ''
 ---
 

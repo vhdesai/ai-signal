@@ -18,8 +18,13 @@ themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i
+- 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
+- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
+- 2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount
+- 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
+embedding_id: 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ CIO Dive reports IT executives are bracing for AI-agent security incidents, and 
 <!-- graph:start -->
 ## Connections
 
+**Related:** [[2026-07-23-survey-says-54-of-enterprises-have-already-had-an-ai-agent-i]] · [[2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-10-13-executives-doubt-readiness-as-ai-cyber-risks-mount]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]]
 <!-- graph:end -->

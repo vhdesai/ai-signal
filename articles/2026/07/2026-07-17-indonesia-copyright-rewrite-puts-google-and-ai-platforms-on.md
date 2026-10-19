@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr
 - 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
 - 2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery
-- 2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle
-embedding_id: null
+embedding_id: 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Reuters reports that Indonesia's copyright rewrite is putting Google and AI plat
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]] · [[2026-09-05-seattle-times-and-newsday-sue-openai-and-microsoft-over-alle]]
+**Related:** [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-09-03-u-s-government-backs-openai-s-fair-use-position-in-nyt-copyr]] · [[2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals]] · [[2026-08-31-google-approaches-disney-universal-and-warner-bros-discovery]]
 <!-- graph:end -->

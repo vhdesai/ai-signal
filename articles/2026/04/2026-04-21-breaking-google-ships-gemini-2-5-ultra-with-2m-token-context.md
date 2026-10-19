@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-native-multimoda
 - 2026-05-15-hot-google-gemini-3-1-ultra-2m-token-native-multimodal-flags
 - 2026-05-19-gemini-3-1-ultra-already-shipping-with-2m-token-native-multi
-embedding_id: null
+embedding_id: 2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context
 event_name: ''
 ---
 

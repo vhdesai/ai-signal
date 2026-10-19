@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-17-safari-27-ships-a-native-mcp-server-letting-coding-agents-dr
 - 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 - 2026-05-23-chrome-devtools-mcp-gives-ai-agents-direct-access-to-browser
-embedding_id: null
+embedding_id: 2026-09-18-safari-27-ships-a-built-in-mcp-server-handing-coding-agents
 event_name: ''
 ---
 

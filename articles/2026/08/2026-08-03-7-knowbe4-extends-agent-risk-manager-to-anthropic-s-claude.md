@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-09-02-anthropic-launches-claude-commerce-agent-blueprints-for-reta
-embedding_id: null
+embedding_id: 2026-08-03-7-knowbe4-extends-agent-risk-manager-to-anthropic-s-claude
 event_name: ''
 ---
 

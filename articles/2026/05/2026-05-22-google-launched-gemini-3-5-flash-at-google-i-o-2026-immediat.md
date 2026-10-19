@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-embedding_id: null
+embedding_id: 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 event_name: ''
 ---
 

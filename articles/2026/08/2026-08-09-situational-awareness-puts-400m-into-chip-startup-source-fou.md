@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-09-hedge-fund-situational-awareness-invests-400m-in-stealth-chi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-09-situational-awareness-puts-400m-into-chip-startup-source-fou
 event_name: ''
 ---
 

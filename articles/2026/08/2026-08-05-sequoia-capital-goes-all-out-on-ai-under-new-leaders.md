@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 - 2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r
-embedding_id: null
+embedding_id: 2026-08-05-sequoia-capital-goes-all-out-on-ai-under-new-leaders
 event_name: ''
 ---
 

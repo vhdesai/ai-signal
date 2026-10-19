@@ -4,8 +4,8 @@ title: Mistral Medium 3.5 Released as Open Source with 256K Context Window New
 date: '2026-04-29'
 source: AI Flash Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://docs.mistral.ai/models/mistral-medium-3-5-26-04
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 1a740e72047150d87c3a530c1e5a5b995541a1abbf668cb8ae801e23da00ba78
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
 - 2026-10-06-mistral-releases-mistral-large-4-a-1-05t-parameter-multimoda
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-embedding_id: null
+embedding_id: 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 event_name: ''
 ---
 

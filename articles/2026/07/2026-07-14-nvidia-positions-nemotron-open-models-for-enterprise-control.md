@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-embedding_id: null
+embedding_id: 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
 event_name: ''
 ---
 

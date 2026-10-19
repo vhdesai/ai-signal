@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-22-qualcomm-launches-two-new-smartphone-chips-with-an-ai-emphas
 - 2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
-embedding_id: null
+embedding_id: 2026-09-24-prismml-brings-tiny-llms-to-qualcomm-powered-smart-glasses
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
 - 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
 - 2026-08-16-techcrunch-analysis-why-people-aren-t-buying-zuckerberg-s-ai
-embedding_id: null
+embedding_id: 2026-08-16-meta-ai-glasses-face-continued-backlash-despite-instagram-cr
 event_name: ''
 ---
 

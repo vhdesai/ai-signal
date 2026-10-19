@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
 - 2026-09-25-anthropic-says-its-ai-models-hacked-three-organizations-duri
 - 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
-embedding_id: null
+embedding_id: 2026-09-02-anthropic-follows-openai-in-pausing-some-ai-training-followi
 event_name: ''
 ---
 

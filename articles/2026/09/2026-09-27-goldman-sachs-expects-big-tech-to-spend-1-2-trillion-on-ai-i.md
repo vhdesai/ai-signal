@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-embedding_id: null
+embedding_id: 2026-09-27-goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-i
 event_name: ''
 ---
 

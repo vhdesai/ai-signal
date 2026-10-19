@@ -5,8 +5,8 @@ title: Arm Holdings — whose instruction set architecture underpins chips from 
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2023/11/09/how-arm-gained-chip-dominance-with-apple-nvidia-amazon-and-qualcomm.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_080231_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: f769985844037ae91679dceb1f2dcf01349ddea0fedb609828a9d4bcdb0c8e42
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-08-26-apple-debuts-pcs-and-chips-dedicated-to-enterprise-ai-worklo
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-09-08-arm-doubles-its-semi-custom-server-ceiling-with-neoverse-css
-embedding_id: null
+embedding_id: 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-09-23-basecamp-research-raises-140m-from-nvidia-and-anthropic-to-t
-embedding_id: null
+embedding_id: 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
-embedding_id: null
+embedding_id: 2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains
 event_name: ''
 ---
 

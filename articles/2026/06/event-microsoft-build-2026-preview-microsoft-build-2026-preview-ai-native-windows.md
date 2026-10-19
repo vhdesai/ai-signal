@@ -27,7 +27,7 @@ related_article_ids:
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
 - event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
-embedding_id: null
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 event_name: Microsoft Build 2026 Preview
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-17-what-happens-when-a-kid-s-robot-best-friend-dies
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
-embedding_id: null
+embedding_id: 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 event_name: ''
 ---
 

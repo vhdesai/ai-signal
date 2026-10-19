@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
 event_name: ''
 ---
 

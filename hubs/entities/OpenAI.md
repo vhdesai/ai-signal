@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2751
+member_count: 2756
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2751 connected article(s).
+> Auto-generated entity hub. 2756 connected article(s).
 
+- `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
+- `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety|Eight states sue OpenAI over ChatGPT safety]]
+- `2026-10-17` [[2026-10-17-replit-shifts-its-default-model-provider-to-openai|Replit shifts its default model provider to OpenAI]]
 - `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-eight-states-challenge-openai-s-safety-representations|Eight states challenge OpenAI’s safety representations]]

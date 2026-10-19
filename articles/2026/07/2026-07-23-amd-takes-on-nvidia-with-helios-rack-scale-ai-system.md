@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-embedding_id: null
+embedding_id: 2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 event_name: ''
 ---
 

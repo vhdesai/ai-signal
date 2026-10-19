@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-11-compromised-jscrambler-npm-release-drops-a-rust-infostealer
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai
 event_name: ''
 ---
 

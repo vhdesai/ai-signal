@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 event_name: ''
 ---
 

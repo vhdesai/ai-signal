@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-08-18-anthropic-prepares-supervoting-power-for-dario-amodei-as-it
-embedding_id: null
+embedding_id: 2026-07-09-anthropic-appoints-former-fed-chair-ben-bernanke-to-its-long
 event_name: ''
 ---
 

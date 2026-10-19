@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-06-nvidia-says-telecom-operators-are-building-ai-strategies-on
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-and-china-is-an-eager
 - 2026-08-29-nvidia-wants-to-run-the-world-s-robots-china-is-an-eager-cus
-embedding_id: null
+embedding_id: 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
 event_name: ''
 ---
 

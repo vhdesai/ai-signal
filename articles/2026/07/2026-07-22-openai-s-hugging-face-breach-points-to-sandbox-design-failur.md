@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur
 event_name: ''
 ---
 

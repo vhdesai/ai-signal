@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
-embedding_id: null
+embedding_id: 2026-10-12-andreessen-horowitz-and-general-catalyst-race-to-secure-chip
 event_name: ''
 ---
 

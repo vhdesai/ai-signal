@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-27-twenty-agentic-use-cases-for-typed-calibrated-decision-model
 - 2026-09-18-typesafe-ai-releases-jev-a-non-llm-model-for-calibrated-soft
 - 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-embedding_id: null
+embedding_id: 2026-09-23-nokia-open-sources-anyjev-a-training-free-layer-that-turns-a
 event_name: ''
 ---
 

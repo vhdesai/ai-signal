@@ -1,13 +1,25 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2257
+member_count: 2269
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2257 connected article(s).
+> Auto-generated topic hub. 2269 connected article(s).
 
+- `2026-10-18` [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials|MIT model gives AI a 3D view of crystalline materials]]
+- `2026-10-18` [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie|German courts increasingly hold Google liable for AI Overview outputs]]
+- `2026-10-18` [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety|Eight states sue OpenAI over ChatGPT safety]]
+- `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
+- `2026-10-18` [[2026-10-18-china-proposes-export-controls-on-ai-agents-and-other-ai-tec|China proposes export controls on AI agents and other AI technologies]]
+- `2026-10-18` [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi|China proposes export controls on 23 AI technologies, including AI agents]]
+- `2026-10-18` [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to|Anthropic proposes federal AI safety bill with U.S. power to block high-risk models]]
+- `2026-10-18` [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund|Anthropic commits 5% of shares to new public benefit fund]]
+- `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs|AI wearables run into wiretap-law limits; Anthropic asks outsiders to weigh in on Claude's values]]
+- `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-as-personal-agents|AI wearables run into wiretap-law limits as personal agents enter public space]]
+- `2026-10-17` [[2026-10-17-meta-revises-commercial-terms-after-ai-training-concerns|Meta revises commercial terms after AI-training concerns]]
+- `2026-10-17` [[2026-10-17-meta-removes-commercial-terms-language-that-raised-scraping|Meta removes commercial-terms language that raised scraping and AI training concerns]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-machine-learning-corrections-target-the-subseasonal-weather|Machine-learning corrections target the subseasonal weather-forecasting gap]]
 - `2026-10-14` [[2026-10-14-eight-states-challenge-openai-s-safety-representations|Eight states challenge OpenAI’s safety representations]]

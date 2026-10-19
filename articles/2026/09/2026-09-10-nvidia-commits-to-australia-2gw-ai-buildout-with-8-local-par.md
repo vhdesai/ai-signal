@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-09-nvidia-partners-with-australia-on-a-2gw-buildout-with-eight
 - 2026-09-10-mistral-and-cloudera-partner-on-sovereign-enterprise-ai
 - 2026-09-26-nvidia-commits-to-morocco-for-two-african-ai-compute-project
-embedding_id: null
+embedding_id: 2026-09-10-nvidia-commits-to-australia-2gw-ai-buildout-with-8-local-par
 event_name: ''
 ---
 

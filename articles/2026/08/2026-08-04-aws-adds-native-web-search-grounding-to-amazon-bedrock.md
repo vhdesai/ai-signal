@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-31-aws-broadens-bedrock-model-roster-with-anthropic-meta-and-op
 - 2026-09-28-xai-s-grok-4-7-arrives-on-amazon-bedrock-with-a-500k-context
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
-embedding_id: null
+embedding_id: 2026-08-04-aws-adds-native-web-search-grounding-to-amazon-bedrock
 event_name: ''
 ---
 

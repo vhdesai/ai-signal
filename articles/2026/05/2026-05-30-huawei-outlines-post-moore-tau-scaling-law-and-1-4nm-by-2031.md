@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-22-bernstein-huawei-s-kirin-9050-pro-closes-gap-to-apple-silico
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-embedding_id: null
+embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 event_name: ''
 ---
 

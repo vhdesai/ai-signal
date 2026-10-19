@@ -4,8 +4,8 @@ title: Google I/O 2026 Turns Gemini Into an Agent Platform
 date: '2026-05-21'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 39be647a5ee660b0a87c9f95a7ed68940aa6e2c45e54ec1dc77b82300a4e7b31
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-embedding_id: null
+embedding_id: 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 event_name: ''
 ---
 

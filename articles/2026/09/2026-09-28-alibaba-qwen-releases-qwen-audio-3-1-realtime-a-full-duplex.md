@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-24-alibaba-ships-qwen-audio-3-1-and-cuts-voice-api-prices-by-up
 - 2026-09-26-alibaba-s-qwen-audio-3-1-cuts-voice-api-pricing-by-up-to-95
 - 2026-09-23-alibaba-launches-qwen-audio-3-1-and-cuts-audio-model-prices
-embedding_id: null
+embedding_id: 2026-09-28-alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-06-microsoft-s-ai-revenue-70-flows-through-openai-raising-conce
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
-embedding_id: null
+embedding_id: 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 event_name: ''
 ---
 

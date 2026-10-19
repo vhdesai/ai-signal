@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-china-leads-us-in-top-ai-talent-40-6-of-elite-researchers-no
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-china-overtakes-the-u-s-as-the-top-destination-for-elite-ai
 event_name: ''
 ---
 

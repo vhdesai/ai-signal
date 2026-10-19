@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
-embedding_id: null
+embedding_id: 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
 event_name: ''
 ---
 

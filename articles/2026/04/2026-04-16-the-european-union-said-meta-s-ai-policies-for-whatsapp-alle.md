@@ -5,8 +5,8 @@ title: The European Union said Meta's AI policies for WhatsApp allegedly block r
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bbc.com/news/articles/cqxdj77welpo
+url_status: repaired
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 45bfc7a7a115d6a724539743a441b0a4acc990c344cafc6c9cdb250fb89de87e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 - 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b
-embedding_id: null
+embedding_id: 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 event_name: ''
 ---
 

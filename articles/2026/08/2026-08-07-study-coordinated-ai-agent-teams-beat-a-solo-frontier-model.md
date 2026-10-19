@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-22-agent-loop-architecture-not-model-choice-drives-cost-and-rel
 - 2026-08-08-claude-code-adds-cross-session-messaging-between-agents
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
-embedding_id: null
+embedding_id: 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 event_name: ''
 ---
 

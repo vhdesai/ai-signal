@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 - 2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv
-embedding_id: null
+embedding_id: 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 event_name: ''
 ---
 

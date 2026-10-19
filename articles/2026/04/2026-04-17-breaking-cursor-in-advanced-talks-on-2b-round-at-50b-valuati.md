@@ -4,8 +4,8 @@ title: Breaking Cursor in Advanced Talks on $2B Round at $50B+ Valuation
 date: '2026-04-17'
 source: Bloomberg / OpenTools
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-04-17/ai-coding-startup-cursor-in-talks-to-raise-2-billion-in-funding
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 6731badd704939235d5218378e31fece3b03f139b83f1c90077b142b3a817c26
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-08-14-spacex-completes-60b-acquisition-of-cursor-maker-anysphere
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-embedding_id: null
+embedding_id: 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
 event_name: ''
 ---
 

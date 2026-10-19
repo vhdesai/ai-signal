@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-in-house-ma
 - 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-embedding_id: null
+embedding_id: 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 event_name: ''
 ---
 

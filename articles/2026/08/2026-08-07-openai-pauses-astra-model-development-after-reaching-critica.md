@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-09-openai-pauses-astra-after-it-nears-first-ever-critical-cyber
 - 2026-09-02-openai-says-forthcoming-astra-model-crosses-critical-cyberse
 - 2026-09-02-openai-says-astra-crosses-its-critical-cybersecurity-thresho
-embedding_id: null
+embedding_id: 2026-08-07-openai-pauses-astra-model-development-after-reaching-critica
 event_name: ''
 ---
 

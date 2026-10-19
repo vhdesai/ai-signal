@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-30-data-center-backlash-continues-to-shape-ai-infrastructure-po
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
-embedding_id: null
+embedding_id: 2026-07-19-ai-enters-the-debate-over-grid-reliability
 event_name: ''
 ---
 

@@ -5,8 +5,8 @@ title: A team led by Cesar de la Fuente-Nunez published research in Nature Machi
 date: '2026-05-13'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://delafuentelab.engineering.upenn.edu/a-generative-artificial-intelligence-approach-for-peptide-antibiotic-optimization/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_070635_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 50a40640d2af8f784264441ed5fa58cca9ac5838ebb96002b2be21e9f6e56240
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
-embedding_id: null
+embedding_id: 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 event_name: ''
 ---
 

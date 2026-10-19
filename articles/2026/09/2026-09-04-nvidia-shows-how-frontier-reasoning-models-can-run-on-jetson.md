@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-07-15-nvidia-introduces-jetson-thor-t3000-t2000-for-mainstream-rob
 - 2026-08-25-nvidia-unveils-jetson-orin-nano-2-for-entry-level-edge-ai-an
-embedding_id: null
+embedding_id: 2026-09-04-nvidia-shows-how-frontier-reasoning-models-can-run-on-jetson
 event_name: ''
 ---
 

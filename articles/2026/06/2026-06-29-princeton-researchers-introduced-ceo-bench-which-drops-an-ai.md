@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-04-15-research-breakthroughs
 - 2026-09-06-openai-says-it-reached-its-automated-research-intern-goal-at
-embedding_id: null
+embedding_id: 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-08-14-hyperscaler-natural-gas-bets-may-create-new-ai-data-center-c
 - 2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b
-embedding_id: null
+embedding_id: 2026-08-13-ai-may-extend-fossil-fuel-dominance-more-than-data-center-po
 event_name: ''
 ---
 

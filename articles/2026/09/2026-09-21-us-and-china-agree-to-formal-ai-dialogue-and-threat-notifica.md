@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-21-bessent-us-and-china-discussed-setting-up-an-ai-safety-notif
 - 2026-09-21-u-s-and-china-agree-to-an-ai-incident-notification-channel-a
 - 2026-09-25-us-and-china-agree-to-open-a-super-intelligence-dialogue-cha
-embedding_id: null
+embedding_id: 2026-09-21-us-and-china-agree-to-formal-ai-dialogue-and-threat-notifica
 event_name: ''
 ---
 

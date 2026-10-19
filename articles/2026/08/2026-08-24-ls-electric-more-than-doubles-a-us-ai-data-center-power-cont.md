@@ -5,7 +5,7 @@ date: '2026-08-24'
 source: '[UPI]'
 url_original: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
 url_canonical: https://www.upi.com/Top_News/World-News/2026/08/24/ls-electric-ai-data-center-deal/4801787611247/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-25_061146_Inbox_Daily AI News Digest - August 25,
   2026.md
 content_hash: 73924aca80f4ed61060a07141b975d4ed8b4a6ec97979818422f91f34df6f431
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-24-ls-electric-expands-u-s-ai-data-center-power-contract-to-166
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-24-ls-electric-more-than-doubles-a-us-ai-data-center-power-cont
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement
 event_name: ''
 ---
 

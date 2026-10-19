@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 - 2026-08-27-subject-daily-ai-news-digest-august-27-2026
-embedding_id: null
+embedding_id: 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 event_name: ''
 ---
 

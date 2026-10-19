@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-intuit-puts-a-bedrock-reasoning-layer-above-deterministic-di
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-intuit-shares-its-agentic-disaster-recovery-architecture
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-06-openai-shares-new-ai-progress-in-mathematics
 - 2026-10-07-openai-publishes-372-ai-generated-mathematical-results-with
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
-embedding_id: null
+embedding_id: 2026-10-06-openai-publishes-ai-generated-mathematics-with-proof-artifac
 event_name: ''
 ---
 

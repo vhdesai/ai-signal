@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-20-openai-keeps-its-largest-frontier-rl-run-on-hold-over-cyber
 - 2026-08-18-openai-pauses-frontier-rl-runs-over-critical-cyber-capabilit
 - 2026-08-10-openai-tightens-controls-on-astra-after-it-could-not-rule-ou
-embedding_id: null
+embedding_id: 2026-08-19-openai-keeps-its-largest-frontier-training-run-on-hold-over
 event_name: ''
 ---
 

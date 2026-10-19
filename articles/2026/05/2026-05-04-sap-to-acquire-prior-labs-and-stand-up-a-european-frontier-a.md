@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-15-prior-labs-tabpfn-3-5-beats-a-decade-old-kaggle-winner-with
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 - 2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p
-embedding_id: null
+embedding_id: 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 event_name: ''
 ---
 

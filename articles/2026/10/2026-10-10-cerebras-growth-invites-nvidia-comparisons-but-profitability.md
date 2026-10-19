@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-embedding_id: null
+embedding_id: 2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability
 event_name: ''
 ---
 

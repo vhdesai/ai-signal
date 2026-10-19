@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 - 2026-09-23-apple-releases-lensvlm-9b-open-weights-for-document-understa
 - 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
-embedding_id: null
+embedding_id: 2026-07-20-apple-introduces-lvsum-benchmark-for-timestamp-aware-long-vi
 event_name: ''
 ---
 

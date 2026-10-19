@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-09-apple-acqui-hires-huxe-founded-by-former-notebooklm-develope
 - 2026-10-10-apple-huxe-talent-and-licensing-agreement-receives-new-cover
 - 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
-embedding_id: null
+embedding_id: 2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe
 event_name: ''
 ---
 

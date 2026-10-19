@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-z-ai-ships-glm-5-3-flash-320b-moe-1m-context-claimed-chinese
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-z-ai-ships-glm-5-3-flash-a-320b-multimodal-moe-with-weights
 event_name: ''
 ---
 

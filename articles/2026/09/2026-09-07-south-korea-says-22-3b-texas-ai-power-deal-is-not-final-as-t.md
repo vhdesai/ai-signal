@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
-embedding_id: null
+embedding_id: 2026-09-07-south-korea-says-22-3b-texas-ai-power-deal-is-not-final-as-t
 event_name: ''
 ---
 

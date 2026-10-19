@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 - 2026-07-11-claude-opus-4-7-is-now-generally-available
 - 2026-09-25-openai-astra-and-anthropic-opus-help-crack-long-unsolved-eni
-embedding_id: null
+embedding_id: 2026-08-21-anthropic-s-opus-4-6-readily-generates-explicit-content-desp
 event_name: ''
 ---
 

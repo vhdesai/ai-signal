@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
-embedding_id: null
+embedding_id: 2026-03-24-nvidia-released-nemotron-cascade-2-an-open-30-billion-parame
 event_name: ''
 ---
 

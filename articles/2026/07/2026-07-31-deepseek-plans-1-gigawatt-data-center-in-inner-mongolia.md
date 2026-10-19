@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-07-31-deepseek-planning-1gw-data-center-in-inner-mongolia
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia
 event_name: ''
 ---
 

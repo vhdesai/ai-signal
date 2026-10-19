@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-28-venturebeat-outlines-a-three-layer-security-model-for-autono
 - 2026-08-22-venturebeat-says-successful-enterprise-agent-deployments-lim
 - 2026-08-12-4-of-5-enterprises-that-secured-ai-agent-identities-still-ca
-embedding_id: null
+embedding_id: 2026-09-25-venturebeat-ai-agents-route-around-blocks-but-few-organizati
 event_name: ''
 ---
 

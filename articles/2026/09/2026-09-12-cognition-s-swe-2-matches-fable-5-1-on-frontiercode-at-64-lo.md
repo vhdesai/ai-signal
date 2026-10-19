@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-12-cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-12-cognition-s-swe-2-matches-fable-5-1-on-frontiercode-at-64-lo
 event_name: ''
 ---
 

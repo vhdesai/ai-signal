@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 - 2026-09-25-microsoft-rebuilds-copilot-around-home-code-and-autopilot-na
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-embedding_id: null
+embedding_id: 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 event_name: ''
 ---
 

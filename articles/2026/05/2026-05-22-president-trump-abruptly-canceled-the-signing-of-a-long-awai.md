@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
-embedding_id: null
+embedding_id: 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 event_name: ''
 ---
 

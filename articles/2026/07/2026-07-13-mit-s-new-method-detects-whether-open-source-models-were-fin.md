@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-08-14-google-open-sources-heir-a-compiler-that-runs-ai-inference-o
-embedding_id: null
+embedding_id: 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 event_name: ''
 ---
 

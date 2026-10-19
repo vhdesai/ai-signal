@@ -4,8 +4,8 @@ title: Microsoft’s “AI Independence Day” frames a post-OpenAI platform nar
 date: '2026-05-31'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
-url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Microsoft%20AI%20Independence%20Day
-url_status: broken
+url_canonical: https://www.studioglobal.ai/discover/answers/what-major-ai-and-hardware-announcements-did-6a2007752354ec6e1b5f1923
+url_status: repaired
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: bd08a0d24eccf3ca51887ecff356bacdd9944cab0d63862e5264b91ac36dc6e5
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-embedding_id: null
+embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
 

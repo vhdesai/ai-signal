@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-23-legal-tech-startups-put-ai-disruption-in-a-risky-new-wrapper
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
-embedding_id: null
+embedding_id: 2026-09-17-microsoft-publishes-frontier-playbook-proprietary-process-da
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-19-big-tech-pressed-to-justify-ai-spending-as-investors-dump-st
 - 2026-08-19-chip-stocks-sell-off-as-investors-worry-about-ai-spending-sl
 - 2026-09-14-chip-and-memory-stocks-sell-off-as-coordinated-safety-warnin
-embedding_id: null
+embedding_id: 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
 event_name: ''
 ---
 

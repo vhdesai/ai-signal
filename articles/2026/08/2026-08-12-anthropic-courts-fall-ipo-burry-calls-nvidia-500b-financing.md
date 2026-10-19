@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-08-12-michael-burry-calls-nvidia-s-500b-ai-financing-push-a-wall-s
 - 2026-09-30-the-information-silicon-valley-and-wall-street-split-on-ai-i
 - 2026-08-12-anthropic-works-to-shore-up-investor-confidence-ahead-of-a-b
-embedding_id: null
+embedding_id: 2026-08-12-anthropic-courts-fall-ipo-burry-calls-nvidia-500b-financing
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ canonical_article_id: 2026-08-21-starcloud-adds-250-million-for-orbital-ai-data-
 related_article_ids:
 - 2026-08-21-starcloud-raises-250m-at-2-3b-for-orbital-data-centers-as-la
 - 2026-08-21-starcloud-raises-250m-at-a-2-3b-valuation-for-orbital-data-c
-embedding_id: null
+embedding_id: 2026-08-21-starcloud-raises-250m-at-2-3-billion-valuation-for-orbital-d
 event_name: ''
 ---
 

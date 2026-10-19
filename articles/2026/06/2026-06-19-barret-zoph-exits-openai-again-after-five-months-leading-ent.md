@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-25-openai-s-head-of-data-centers-has-left-the-company-anthropic
 - 2026-08-27-thinking-machines-co-founder-barret-zoph-lands-at-google-aft
 - 2026-08-26-analysis-openai-s-executive-exodus-explained-brockman-reasse
-embedding_id: null
+embedding_id: 2026-06-19-barret-zoph-exits-openai-again-after-five-months-leading-ent
 event_name: ''
 ---
 

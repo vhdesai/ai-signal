@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-embedding_id: null
+embedding_id: 2026-07-31-moonshot-s-kimi-cluster-runs-on-20-000-nvidia-chips-leased-f
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
 - 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
-embedding_id: null
+embedding_id: 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 event_name: ''
 ---
 

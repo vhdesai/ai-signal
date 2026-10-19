@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-09-23-nvidia-and-partners-showcase-production-scale-ai-across-sout
-embedding_id: null
+embedding_id: 2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied
 event_name: ''
 ---
 

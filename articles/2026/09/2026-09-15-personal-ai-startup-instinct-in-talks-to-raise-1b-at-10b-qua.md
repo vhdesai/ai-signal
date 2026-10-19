@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-15-instinct-in-talks-to-raise-1b-at-10b-valuation-up-from-2-25b
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-15-personal-ai-startup-instinct-in-talks-to-raise-1b-at-10b-qua
 event_name: ''
 ---
 

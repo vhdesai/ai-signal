@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-09-23-patreon-co-founder-sam-yam-joins-openai-to-lead-a-new-creato
-embedding_id: null
+embedding_id: 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 event_name: ''
 ---
 

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
-embedding_id: null
+embedding_id: 2026-07-02-meta-says-its-next-model-watermelon-now-matches-gpt-5-5-on-i
 event_name: ''
 ---
 

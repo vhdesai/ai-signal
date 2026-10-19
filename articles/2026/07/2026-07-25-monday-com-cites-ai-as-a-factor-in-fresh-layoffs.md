@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-09-11-tech-layoffs-pass-180-000-in-2026-as-capex-reallocates-towar
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
-embedding_id: null
+embedding_id: 2026-07-25-monday-com-cites-ai-as-a-factor-in-fresh-layoffs
 event_name: ''
 ---
 

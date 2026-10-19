@@ -4,8 +4,8 @@ title: 'Nvidia: Remains central to AI infrastructure; demand for GPUs is high'
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.datacenterknowledge.com/data-center-chips/-out-of-hyperbole-nvidia-s-ai-boom-tests-data-center-infrastructure-limits
+url_status: repaired
 digest_source: digests\raw\2026-07-12_010725_Automated_Your-Daily-AI-News-Digest.md
 content_hash: b4ba0bfc27e8ba5b1c81a812278a220558070d48a324cca577b34fd133657b8e
 normalized_title_hash: 355f44042eecef3d
@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-23-nvidia-released-isaac-ros-5-0-for-robotics-expanded-ai-infra
 - 2026-08-11-daily-ai-news-digest-august-12-2026
 - 2026-10-06-nvidia-heads-toward-6t-while-openai-and-anthropic-face-custo
-embedding_id: null
+embedding_id: 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 event_name: ''
 ---
 

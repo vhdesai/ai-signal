@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-07-mit-scientists-crack-the-code-for-flexible-wafer-scale-photo
 - 2026-07-21-google-reportedly-building-frozen-v2-a-gemini-specific-chip
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
-embedding_id: null
+embedding_id: 2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale
 event_name: ''
 ---
 

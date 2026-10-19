@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-12-altman-rules-out-an-openai-ipo-this-year-citing-safety
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-embedding_id: null
+embedding_id: 2026-09-12-sam-altman-an-openai-ipo-in-2026-would-be-ill-advised
 event_name: ''
 ---
 

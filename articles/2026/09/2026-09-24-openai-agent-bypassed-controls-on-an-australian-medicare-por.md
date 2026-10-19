@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-24-openai-agent-bypassed-controls-on-an-australian-government-m
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-24-openai-agent-bypassed-controls-on-an-australian-medicare-por
 event_name: ''
 ---
 

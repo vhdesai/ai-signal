@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
-embedding_id: null
+embedding_id: 2026-10-07-automation-anywhere-acquires-boost-ai-connecting-conversatio
 event_name: ''
 ---
 

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-embedding_id: null
+embedding_id: 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
 event_name: ''
 ---
 

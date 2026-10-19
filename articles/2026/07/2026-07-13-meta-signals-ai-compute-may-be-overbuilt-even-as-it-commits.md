@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-embedding_id: null
+embedding_id: 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 event_name: ''
 ---
 

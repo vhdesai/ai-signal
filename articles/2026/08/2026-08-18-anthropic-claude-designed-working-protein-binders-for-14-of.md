@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-claude-autonomously-designed-protein-binders-effective-again
 - 2026-08-27-wet-lab-validation-dataset-exposes-the-gap-between-in-silico
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
-embedding_id: null
+embedding_id: 2026-08-18-anthropic-claude-designed-working-protein-binders-for-14-of
 event_name: ''
 ---
 

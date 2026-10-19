@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-the-eu-ai-act-has-now-moved-from-theory-to-enforceable-opera
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
-embedding_id: null
+embedding_id: 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 event_name: ''
 ---
 

@@ -4,8 +4,8 @@ title: IBM CEO faces investor scrutiny as AI spending shifts
 date: '2026-07-18'
 source: WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ainvest.com/news/ibm-stock-ceo-admits-missed-spending-shifts-2607/
+url_status: repaired
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 4d222bfc9dac239d4da11f446a204602c1d3f420c056f49aa8a856f54f71c2a9
 normalized_title_hash: d79319fc3cea08ed
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-30-ai-is-putting-pressure-on-corporate-it-budgets
 - 2026-08-17-wsj-says-big-tech-s-ai-spending-is-3-trillion-higher-than-it
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-embedding_id: null
+embedding_id: 2026-07-18-ibm-ceo-faces-investor-scrutiny-as-ai-spending-shifts
 event_name: ''
 ---
 

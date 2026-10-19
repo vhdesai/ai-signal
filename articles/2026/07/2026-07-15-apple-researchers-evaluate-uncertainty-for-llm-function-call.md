@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-23-why-your-local-model-feels-dumber-quantization-and-kernel-ch
 - 2026-07-21-apple-proposes-environment-free-synthetic-data-generation-fo
 - 2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas
-embedding_id: null
+embedding_id: 2026-07-15-apple-researchers-evaluate-uncertainty-for-llm-function-call
 event_name: ''
 ---
 

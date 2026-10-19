@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 - 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
-embedding_id: null
+embedding_id: event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 event_name: 'Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models,
   and Privacy AI'
 ---

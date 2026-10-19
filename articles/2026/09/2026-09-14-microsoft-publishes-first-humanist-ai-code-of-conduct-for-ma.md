@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
 - 2026-09-21-un-scientific-panel-s-first-thematic-brief-says-agent-safegu
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
-embedding_id: null
+embedding_id: 2026-09-14-microsoft-publishes-first-humanist-ai-code-of-conduct-for-ma
 event_name: ''
 ---
 

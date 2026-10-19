@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
-embedding_id: null
+embedding_id: 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 event_name: ''
 ---
 

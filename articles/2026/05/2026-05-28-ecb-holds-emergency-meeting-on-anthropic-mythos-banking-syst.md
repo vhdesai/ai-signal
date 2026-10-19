@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-13-ai-safety-policy
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
-embedding_id: null
+embedding_id: 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 event_name: ''
 ---
 

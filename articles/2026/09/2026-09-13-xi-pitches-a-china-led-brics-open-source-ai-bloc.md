@@ -20,7 +20,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-09-13-xi-pitches-a-brics-open-source-ai-bloc-as-the-counterweight
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-13-xi-pitches-a-china-led-brics-open-source-ai-bloc
 event_name: ''
 ---
 

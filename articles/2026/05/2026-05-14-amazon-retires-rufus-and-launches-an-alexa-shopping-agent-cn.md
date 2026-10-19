@@ -5,8 +5,8 @@ title: Amazon retires Rufus and launches an Alexa shopping agent — CNBC, May 1
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_075211_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: ece1f3d7ba439a823996772ee1f5d01f90aaacfce60449c5a21ccdd9cfdfef6f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
 - 2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware
-embedding_id: null
+embedding_id: 2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn
 event_name: ''
 ---
 

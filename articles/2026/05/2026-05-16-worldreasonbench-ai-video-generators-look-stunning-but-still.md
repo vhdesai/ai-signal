@@ -4,8 +4,8 @@ title: 'WorldReasonBench: AI Video Generators Look Stunning But Still Can''t Rea
 date: '2026-05-16'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 5f2ca3c74b23873fe5d41b40383dfc8ef6a8965fab39b0b9b400ce36016a8c4d
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
-embedding_id: null
+embedding_id: 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
 event_name: ''
 ---
 

@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: OpenAI Blog
 url_original: https://openai.com/index/advancing-content-provenance/
 url_canonical: https://openai.com/index/advancing-content-provenance/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: c1e2d64b05bbd58f05af603b7634347d0dbb391c0b037674dfbb3a3a82192b53
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-10-05-openai-will-watermark-chatgpt-and-codex-text-in-the-eu
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-08-14-google-makes-visible-ai-watermarks-optional-keeps-invisible
-embedding_id: null
+embedding_id: 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 event_name: ''
 ---
 

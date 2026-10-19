@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-embedding_id: null
+embedding_id: 2026-08-24-uc-san-diego-to-test-novel-power-technology-for-ai-data-cent
 event_name: ''
 ---
 

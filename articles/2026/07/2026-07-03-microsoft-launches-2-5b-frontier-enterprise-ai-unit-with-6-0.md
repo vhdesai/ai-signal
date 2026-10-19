@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
-embedding_id: null
+embedding_id: 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
 event_name: ''
 ---
 

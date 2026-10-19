@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-09-03-trending-uc-berkeley-s-stuart-russell-calls-for-a-halt-to-ai
 - 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-embedding_id: null
+embedding_id: 2026-10-06-uc-berkeley-placed-a-6m-order-with-bruker-according-to-ad-ho
 event_name: ''
 ---
 

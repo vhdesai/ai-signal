@@ -5,7 +5,7 @@ date: '2026-09-28'
 source: Cornell Chronicle
 url_original: https://news.cornell.edu/categories/artificial-intelligence
 url_canonical: https://news.cornell.edu/categories/artificial-intelligence
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-29_060257_Inbox_Daily AI News Digest - September
   29, 2026.md
 content_hash: 6bcad0dd3fcdba18c7ff524828e1ff7a3c29a8f2717985f308cc4a024f2f8a4c
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
-embedding_id: null
+embedding_id: 2026-09-28-cornell-trust-is-the-missing-ingredient-for-ai-driven-food-s
 event_name: ''
 ---
 

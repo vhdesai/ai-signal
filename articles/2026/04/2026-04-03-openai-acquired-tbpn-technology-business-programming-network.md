@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 - 2026-08-08-openai-acquires-presentation-startup-nextslide-team-joins-ch
 - 2026-08-31-openai-s-chatgpt-advertising-business-reaches-a-1b-annualize
-embedding_id: null
+embedding_id: 2026-04-03-openai-acquired-tbpn-technology-business-programming-network
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-02-xinhua-reported-that-chinese-authorities-removed-5-6-million
 - 2026-08-21-brazil-commits-444m-to-ai-supercomputing-split-between-chine
 - 2026-08-04-microsoft-closes-up-for-2026-finally
-embedding_id: null
+embedding_id: 2026-08-13-microsoft-narrows-its-china-footprint-while-keeping-an-ai-an
 event_name: ''
 ---
 

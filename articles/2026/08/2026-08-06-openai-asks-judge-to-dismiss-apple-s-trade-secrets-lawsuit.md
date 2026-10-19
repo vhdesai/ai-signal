@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames
 - 2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-embedding_id: null
+embedding_id: 2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit
 event_name: ''
 ---
 

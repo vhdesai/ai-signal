@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-09-24-white-house-asks-openai-and-anthropic-to-withhold-new-models
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
-embedding_id: null
+embedding_id: 2026-08-05-u-s-national-cyber-director-pushes-american-open-source-ai-f
 event_name: ''
 ---
 

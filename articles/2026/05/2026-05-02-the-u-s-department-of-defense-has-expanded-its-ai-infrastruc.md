@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-embedding_id: null
+embedding_id: 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 event_name: ''
 ---
 

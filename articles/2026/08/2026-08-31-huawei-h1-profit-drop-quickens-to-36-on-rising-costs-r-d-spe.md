@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-08-31-huawei-h1-2026-net-profit-falls-36-as-ai-related-r-d-spendin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-31-huawei-h1-profit-drop-quickens-to-36-on-rising-costs-r-d-spe
 event_name: ''
 ---
 

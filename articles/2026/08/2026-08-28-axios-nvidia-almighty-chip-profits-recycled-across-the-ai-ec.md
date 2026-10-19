@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 - 2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor
 - 2026-08-28-executive-analysis-why-nvidia-backs-and-buys-ai-startups
-embedding_id: null
+embedding_id: 2026-08-28-axios-nvidia-almighty-chip-profits-recycled-across-the-ai-ec
 event_name: ''
 ---
 

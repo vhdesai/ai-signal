@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-08-12-open-reproducible-post-training-allenai-open-instruct-with-s
 - 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
-embedding_id: null
+embedding_id: 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
 event_name: ''
 ---
 

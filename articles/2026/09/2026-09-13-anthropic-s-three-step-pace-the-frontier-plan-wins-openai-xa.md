@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-12-amodei-calls-for-deliberately-slowing-frontier-ai-commits-an
 - 2026-09-21-anthropic-publishes-measurable-metrics-for-the-pace-of-front
 - 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
-embedding_id: null
+embedding_id: 2026-09-13-anthropic-s-three-step-pace-the-frontier-plan-wins-openai-xa
 event_name: ''
 ---
 

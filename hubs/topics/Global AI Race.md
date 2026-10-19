@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1631
+member_count: 1638
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1631 connected article(s).
+> Auto-generated topic hub. 1638 connected article(s).
 
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr|DeepSeek rolls out faster, leaner model and prices agent retrieval below rivals]]
+- `2026-10-18` [[2026-10-18-china-proposes-export-controls-on-ai-agents-and-other-ai-tec|China proposes export controls on AI agents and other AI technologies]]
+- `2026-10-18` [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi|China proposes export controls on 23 AI technologies, including AI agents]]
+- `2026-10-17` [[2026-10-17-deepseek-releases-v4-1-flash-1017-and-opens-search-apis|DeepSeek releases V4.1-Flash-1017 and opens search APIs]]
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]
 - `2026-10-14` [[2026-10-14-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-m|Scimplify raises $25M to challenge China's grip on critical materials with AI]]
 - `2026-10-14` [[2026-10-14-china-chip-exports-jump-136-to-45b-as-ai-demand-lifts-prices|China chip exports jump 136% to $45B as AI demand lifts prices]]

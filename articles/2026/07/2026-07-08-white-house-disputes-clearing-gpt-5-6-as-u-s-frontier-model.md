@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-review
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 - 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
-embedding_id: null
+embedding_id: 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 event_name: ''
 ---
 

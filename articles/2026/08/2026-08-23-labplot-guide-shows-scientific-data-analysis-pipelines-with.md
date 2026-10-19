@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-29-cmu-and-university-of-washington-appear-in-early-model-hardw
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-08-02-timesfm-2-5-update-highlights-end-to-end-forecasting-workflo
-embedding_id: null
+embedding_id: 2026-08-23-labplot-guide-shows-scientific-data-analysis-pipelines-with
 event_name: ''
 ---
 

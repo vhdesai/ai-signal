@@ -5,8 +5,8 @@ title: The Wall Street Journal reports that AI company insiders are selling stoc
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-17/us-corporate-insiders-are-selling-stocks-at-a-near-record-pace
+url_status: repaired
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: 0e691c69e3ba47e08b3a1520322bce874b5e12cc1ff24740d1e41f43e063c1ea
 normalized_title_hash: 17d6308b58a39621
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-embedding_id: null
+embedding_id: 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 event_name: ''
 ---
 

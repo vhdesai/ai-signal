@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-09-13-china-s-data-regulator-plans-standards-for-embodied-ai-train
-embedding_id: null
+embedding_id: 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 event_name: ''
 ---
 

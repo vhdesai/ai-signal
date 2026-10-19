@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-10-10-gpu-access-becomes-a-fragmented-market-across-hyperscalers-n
 - 2026-07-21-nvidia-discloses-9-3-stake-in-nebius-lifting-neocloud-shares
-embedding_id: null
+embedding_id: 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 event_name: ''
 ---
 

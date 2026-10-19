@@ -5,7 +5,7 @@ date: '2026-07-31'
 source: OpenAI Blog
 url_original: https://openai.com/index/advancing-responsible-ai-across-europe/
 url_canonical: https://openai.com/index/advancing-responsible-ai-across-europe/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-01_060637_Inbox_Daily AI News Digest - August 1,
   2026.md
 content_hash: a81e3fe646e5a6c6c02fdc58dec0dddbf67e2292592b195c07b149a5501816ca
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 - 2026-08-28-eu-ai-act-moves-from-rulebook-to-real-enforcement
 - 2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic
-embedding_id: null
+embedding_id: 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 event_name: ''
 ---
 

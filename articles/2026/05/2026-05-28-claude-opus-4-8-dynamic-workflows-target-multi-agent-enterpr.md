@@ -4,8 +4,8 @@ title: Claude Opus 4.8 Dynamic Workflows Target Multi-Agent Enterprise Tasks
 date: '2026-05-28'
 source: 'Source: Unite.AI'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claude.com/resources/articles/introducing-dynamic-workflows-in-claude-code
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073417_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: ececa039eb21ac27617481b54ea9f16c8d5f1af1265f919b635669fd044ed7f4
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-claude-can-orchestrate-up-to-1-000-subagents-through-dynamic
 - 2026-08-20-anthropic-service-disruption-spreads-across-claude-ai-api-cl
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-embedding_id: null
+embedding_id: 2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr
 event_name: ''
 ---
 

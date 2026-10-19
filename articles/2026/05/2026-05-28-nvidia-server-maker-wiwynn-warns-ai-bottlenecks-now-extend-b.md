@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-13-nvidia-weighs-reducing-memory-on-next-gen-rubin-ultra-gpu-du
 - 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-08-06-nvidia-tests-rubin-ultra-variants-with-less-hbm-amid-tight-m
-embedding_id: null
+embedding_id: 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 event_name: ''
 ---
 

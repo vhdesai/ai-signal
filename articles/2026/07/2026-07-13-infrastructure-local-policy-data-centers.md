@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-23-local-backlash-against-ai-data-centers-escalates-to-threats
 - 2026-08-29-community-opposition-blocked-or-delayed-130b-of-data-center
 - 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
-embedding_id: null
+embedding_id: 2026-07-13-infrastructure-local-policy-data-centers
 event_name: ''
 ---
 

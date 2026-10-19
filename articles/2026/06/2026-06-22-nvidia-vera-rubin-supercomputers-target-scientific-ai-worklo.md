@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
 - 2026-07-16-nvidia-and-japan-launch-a-national-ai-infrastructure-project
-embedding_id: null
+embedding_id: 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 event_name: ''
 ---
 

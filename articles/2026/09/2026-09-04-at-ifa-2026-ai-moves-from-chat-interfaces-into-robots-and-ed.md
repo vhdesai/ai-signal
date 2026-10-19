@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-09-04-ifa-berlin-highlights-local-ai-as-amd-pushes-personal-device
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-embedding_id: null
+embedding_id: 2026-09-04-at-ifa-2026-ai-moves-from-chat-interfaces-into-robots-and-ed
 event_name: ''
 ---
 

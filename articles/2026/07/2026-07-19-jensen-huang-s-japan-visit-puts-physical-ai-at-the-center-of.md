@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-06-20-in-a-wide-ranging-interview-aired-saturday-nvidia-ceo-jensen
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
-embedding_id: null
+embedding_id: 2026-07-19-jensen-huang-s-japan-visit-puts-physical-ai-at-the-center-of
 event_name: ''
 ---
 

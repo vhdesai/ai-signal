@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
-embedding_id: null
+embedding_id: 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 event_name: ''
 ---
 

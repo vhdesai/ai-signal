@@ -27,7 +27,7 @@ related_article_ids:
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
-embedding_id: null
+embedding_id: 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 event_name: ''
 ---
 

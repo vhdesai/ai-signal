@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-08-02-academic-ai-sources-were-quiet-in-the-date-window
 - 2026-08-03-academic-ai-sources-were-quiet-in-the-date-window
-embedding_id: null
+embedding_id: 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
 event_name: ''
 ---
 

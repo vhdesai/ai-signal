@@ -5,7 +5,7 @@ date: '2026-09-01'
 source: OpenAI
 url_original: https://openai.com/index/path-to-astra/
 url_canonical: https://openai.com/index/path-to-astra/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-09-02_061041_Inbox_Daily AI News Digest – September
   2, 2026.md
 content_hash: 0f657d1e0c8ec4bcdc9d4e2ae81b94cf71522371ab665d690de6fa5457f1230f
@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-01-openai-says-astra-is-its-first-model-to-meet-the-critical-cy
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards
 event_name: ''
 ---
 

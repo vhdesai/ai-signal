@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-23-anonymous-ox-alpha-model-on-openrouter-draws-scrutiny-over-p
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-23-who-is-behind-ox-alpha-a-stealth-frontier-model-has-the-indu
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-reports-say-an-ai-agent-carried-out-an-end-to-end-cyberattac
 - 2026-09-01-palo-alto-networks-frontier-ai-now-tips-the-scales-toward-at
 - 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
-embedding_id: null
+embedding_id: 2026-09-04-openai-launches-plan-to-protect-critical-infrastructure-from
 event_name: ''
 ---
 

@@ -23,7 +23,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-20-grok-lite-sends-gibberish-responses-amid-xai-staff-turnover
 related_article_ids:
 - 2026-08-20-xai-s-grok-hit-by-widespread-gibberish-response-glitch
-embedding_id: null
+embedding_id: 2026-08-20-grok-sends-gibberish-responses-amid-xai-staff-exodus
 event_name: ''
 ---
 

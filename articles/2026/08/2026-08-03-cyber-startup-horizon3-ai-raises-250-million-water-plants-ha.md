@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-embedding_id: null
+embedding_id: 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 event_name: ''
 ---
 

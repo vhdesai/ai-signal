@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-08-14-nvidia-s-500-billion-compute-financing-platform-draws-privat
 - 2026-08-14-goldman-sachs-courts-investors-for-nvidia-s-500b-ai-financin
 - 2026-08-13-nvidia-500b-financing-vehicle-with-gpu-residual-value-guaran
-embedding_id: null
+embedding_id: 2026-08-14-nvidia-500b-financing-draws-scrutiny-big-tech-commitments-ne
 event_name: ''
 ---
 

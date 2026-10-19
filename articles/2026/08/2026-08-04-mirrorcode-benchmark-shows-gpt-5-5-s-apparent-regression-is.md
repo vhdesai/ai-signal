@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 - 2026-08-23-ramp-data-anthropic-s-fable-5-plateaus-at-11-of-customer-spe
 - 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
-embedding_id: null
+embedding_id: 2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is
 event_name: ''
 ---
 

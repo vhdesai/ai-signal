@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-09-24-studentbench-ai-tutoring-matches-human-tutoring-on-gre-learn
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
-embedding_id: null
+embedding_id: 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 event_name: ''
 ---
 

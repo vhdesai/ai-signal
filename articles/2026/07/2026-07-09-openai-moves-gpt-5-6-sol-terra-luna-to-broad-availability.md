@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability
 event_name: ''
 ---
 

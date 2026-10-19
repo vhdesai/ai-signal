@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-21-deepseek-plans-major-huawei-ascend-deployment-to-reduce-depe
 - 2026-05-05-huawei-has-detailed-its-2026-ai-compute-roadmap-centered-on
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-embedding_id: null
+embedding_id: 2026-09-18-huawei-rotating-chair-majority-of-chinese-ai-training-moves
 event_name: ''
 ---
 

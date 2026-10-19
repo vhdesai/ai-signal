@@ -5,8 +5,8 @@ title: On April 27, Microsoft and OpenAI dismantled their six-year exclusive clo
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vaasblock.com/news/microsoft-openai-non-exclusive-partnership-azure-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3ac03a3243479937deffd63f9ab13d816f16c7a4478253e6bb404c27300296cc
@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
 - 2026-04-27-
-embedding_id: null
+embedding_id: 2026-05-18-on-april-27-microsoft-and-openai-dismantled-their-six-year-e
 event_name: ''
 ---
 

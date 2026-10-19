@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-13-mit-study-student-cognitive-surrender-to-ai-is-degrading-lea
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
-embedding_id: null
+embedding_id: 2026-08-25-mit-argues-ai-is-forcing-a-structural-rethink-of-higher-educ
 event_name: ''
 ---
 

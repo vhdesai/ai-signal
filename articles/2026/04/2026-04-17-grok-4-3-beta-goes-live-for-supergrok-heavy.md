@@ -4,8 +4,8 @@ title: Grok 4.3 Beta Goes Live for SuperGrok Heavy
 date: '2026-04-17'
 source: Build Fast with AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.buildfastwithai.com/grok-build-xai-cli-ai-agents-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 5b230c58a21ff3dc5788793e94c0da2bbd0f48104a5562595fd7661e822914ba
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
 - 2026-09-21-xai-releases-grok-4-7-at-the-same-2-6-price-as-grok-4-6
-embedding_id: null
+embedding_id: 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 event_name: ''
 ---
 

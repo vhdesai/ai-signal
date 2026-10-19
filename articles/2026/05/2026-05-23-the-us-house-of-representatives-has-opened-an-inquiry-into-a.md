@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
-embedding_id: null
+embedding_id: 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 event_name: ''
 ---
 

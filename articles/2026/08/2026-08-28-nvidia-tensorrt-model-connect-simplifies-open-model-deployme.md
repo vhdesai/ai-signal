@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-embedding_id: null
+embedding_id: 2026-08-28-nvidia-tensorrt-model-connect-simplifies-open-model-deployme
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-06-meta-s-new-real-time-audio-model-targets-always-listening-ai
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-09-01-meta-superintelligence-labs-launches-muse-voice-transcribe-a
-embedding_id: null
+embedding_id: 2026-05-26-stability-ai-releases-stable-audio-3
 event_name: ''
 ---
 

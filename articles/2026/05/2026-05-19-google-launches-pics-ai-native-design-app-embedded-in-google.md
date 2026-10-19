@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-01-google-launches-pics-an-ai-first-design-tool-aimed-at-canva
 - 2026-07-30-google-earth-gets-nano-banana-ai-image-generation-grounded-i
 - 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
-embedding_id: null
+embedding_id: 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 event_name: ''
 ---
 

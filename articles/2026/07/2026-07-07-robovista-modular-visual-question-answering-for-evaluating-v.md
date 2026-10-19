@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-09-27-stanford-and-caltech-put-a-frontier-vlm-directly-in-control
 - 2026-10-05-reka-releases-rho-1-a-19b-omni-reasoning-model-for-text-imag
-embedding_id: null
+embedding_id: 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 event_name: ''
 ---
 

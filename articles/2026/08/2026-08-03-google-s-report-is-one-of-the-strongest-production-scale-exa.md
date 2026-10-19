@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-embedding_id: null
+embedding_id: 2026-08-03-google-s-report-is-one-of-the-strongest-production-scale-exa
 event_name: ''
 ---
 

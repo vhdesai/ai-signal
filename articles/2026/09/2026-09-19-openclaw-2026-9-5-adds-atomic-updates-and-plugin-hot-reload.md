@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-19-openclaw-2026-9-5-adds-atomic-rollback-safe-updates-for-self
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-19-openclaw-2026-9-5-adds-atomic-updates-and-plugin-hot-reload
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
-embedding_id: null
+embedding_id: 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 event_name: ''
 ---
 

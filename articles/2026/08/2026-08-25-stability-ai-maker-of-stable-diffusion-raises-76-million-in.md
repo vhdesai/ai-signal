@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-stability-ai-raises-76m-from-universal-music-sony-warner-and
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-18-reach-capital-closes-265m-fund-v-for-applied-ai-founders
-embedding_id: null
+embedding_id: 2026-08-25-stability-ai-maker-of-stable-diffusion-raises-76-million-in
 event_name: ''
 ---
 

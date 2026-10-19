@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
-embedding_id: null
+embedding_id: 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
 event_name: ''
 ---
 

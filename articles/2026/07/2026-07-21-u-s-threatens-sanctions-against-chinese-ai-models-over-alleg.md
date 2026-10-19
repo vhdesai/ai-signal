@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-07-22-treasury-keeps-sanctions-on-table-after-white-house-claim-ab
-embedding_id: null
+embedding_id: 2026-07-21-u-s-threatens-sanctions-against-chinese-ai-models-over-alleg
 event_name: ''
 ---
 

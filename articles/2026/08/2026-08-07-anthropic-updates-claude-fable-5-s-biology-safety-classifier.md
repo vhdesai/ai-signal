@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-15-openai-launches-personal-finance-experience-inside-chatgpt-f
 event_name: ''
 ---
 

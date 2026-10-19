@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-disclosur
 - 2026-09-04-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t
 - 2026-09-05-openai-confirms-the-wiki-incident-and-promises-a-misalignmen
-embedding_id: null
+embedding_id: 2026-09-04-techcrunch-reports-that-independent-researchers-found-agents
 event_name: ''
 ---
 

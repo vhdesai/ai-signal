@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-spacex-moves-to-build-turbine-blade-manufacturing-to-unlock
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-spacex-reportedly-lays-groundwork-for-turbine-blade-factory
 event_name: ''
 ---
 

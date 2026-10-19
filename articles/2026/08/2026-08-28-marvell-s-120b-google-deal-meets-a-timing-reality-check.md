@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-28-marvell-s-120b-google-custom-silicon-deal-gets-a-timing-real
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
 - 2026-10-13-tech-stocks-slide-as-investors-worry-about-ai-overspending
-embedding_id: null
+embedding_id: 2026-08-28-marvell-s-120b-google-deal-meets-a-timing-reality-check
 event_name: ''
 ---
 

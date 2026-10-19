@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
-embedding_id: null
+embedding_id: 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit
 - 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
-embedding_id: null
+embedding_id: 2026-05-14-closing-arguments-begin-in-musk-v-openai
 event_name: ''
 ---
 

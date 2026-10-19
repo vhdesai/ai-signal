@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
 - 2026-08-13-google-releases-gemini-3-7-flash-to-general-availability
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
-embedding_id: null
+embedding_id: 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 event_name: ''
 ---
 

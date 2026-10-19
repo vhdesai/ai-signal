@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-13-jeff-dean-s-discovery-loop-startup-raising-at-11-figure-valu
 - 2026-08-15-jeff-dean-leaving-google-after-27-years-to-co-found-discover
-embedding_id: null
+embedding_id: 2026-08-16-jeff-dean-s-last-day-at-google-an-hour-by-hour-breakdown
 event_name: ''
 ---
 

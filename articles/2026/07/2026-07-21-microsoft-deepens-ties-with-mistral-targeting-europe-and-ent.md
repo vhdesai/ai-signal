@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership-with-e
 - 2026-08-12-mistral-commits-to-in-region-inference-and-up-to-1-gw-of-eur
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-embedding_id: null
+embedding_id: 2026-07-21-microsoft-deepens-ties-with-mistral-targeting-europe-and-ent
 event_name: ''
 ---
 

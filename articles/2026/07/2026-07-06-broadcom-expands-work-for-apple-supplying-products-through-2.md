@@ -4,8 +4,8 @@ title: Broadcom expands work for Apple, supplying products through 2031
 date: '2026-07-06'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031
+url_status: repaired
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: 3c14c1dde6b7c09f990f80a0ba8f3e554497726252455004258519b10a575e31
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-08-21-broadcom-seeks-up-to-80-billion-in-debt-for-an-ai-chip-finan
 - 2026-09-05-broadcom-ai-revenue-soars-but-investor-expectations-keep-ris
-embedding_id: null
+embedding_id: 2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2
 event_name: ''
 ---
 

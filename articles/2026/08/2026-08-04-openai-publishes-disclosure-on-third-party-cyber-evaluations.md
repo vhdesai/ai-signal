@@ -5,7 +5,7 @@ date: '2026-08-04'
 source: OpenAI Blog
 url_original: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
 url_canonical: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-08-05_070154_Inbox_Daily AI News Digest - August 5,
   2026.md
 content_hash: e0eaf51cf89e8b70c2fb15e2daa39be8370cbcb9cb01090da1f04f82a2573185
@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-04-openai-publishes-disclosure-on-third-party-cyber-evaluations
 event_name: ''
 ---
 

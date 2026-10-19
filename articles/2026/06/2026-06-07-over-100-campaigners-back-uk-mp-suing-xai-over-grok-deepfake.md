@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 - 2026-06-11-wired-grok-is-still-hosting-sexualized-deepfakes-of-famous-w
 - 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
-embedding_id: null
+embedding_id: 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 event_name: ''
 ---
 

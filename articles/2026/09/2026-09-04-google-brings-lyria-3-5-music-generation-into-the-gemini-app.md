@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-09-04-google-brings-lyria-3-5-music-generation-into-gemini-and-the
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-09-04-google-brings-lyria-3-5-music-generation-into-the-gemini-app
 event_name: ''
 ---
 

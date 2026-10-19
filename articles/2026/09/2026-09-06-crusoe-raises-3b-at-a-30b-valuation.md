@@ -5,7 +5,7 @@ date: '2026-09-06'
 source: DMR News
 url_original: https://digitalmarketreports.com/news/90932/crusoe-raises-3-billion-at-30-billion-valuation/
 url_canonical: https://digitalmarketreports.com/news/90932/crusoe-raises-3-billion-at-30-billion-valuation/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-09-06_070457_Inbox_Daily AI News Digest - September
   6, 2026.md
 content_hash: 40b273524883f433a506ecaed6102e8484c3472160e0110dafbd211f4f3bef7d
@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-17-crusoe-raises-3-9b-at-a-30-9b-valuation-for-vertically-integ
-embedding_id: null
+embedding_id: 2026-09-06-crusoe-raises-3b-at-a-30b-valuation
 event_name: ''
 ---
 

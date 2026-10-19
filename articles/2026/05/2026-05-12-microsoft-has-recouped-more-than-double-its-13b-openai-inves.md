@@ -4,8 +4,8 @@ title: Microsoft Has Recouped More Than Double Its $13B OpenAI Investment
 date: '2026-05-12'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techi.com/microsoft-openai-13b-investment/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: a442238a2e5745df8f38f475e691f5c5951b87fad9ef63bc70d963a4222342f6
@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-10-08-openai-s-revenue-reportedly-comes-in-20b-below-prior-project
-embedding_id: null
+embedding_id: 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 event_name: ''
 ---
 

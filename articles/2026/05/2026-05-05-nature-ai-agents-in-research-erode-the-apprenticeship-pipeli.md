@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-27-navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-embedding_id: null
+embedding_id: 2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-27-nvidia-posts-record-96-2b-quarter-adds-440b-in-market-value
 - 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
 - 2026-09-04-nvidia-s-investments-grow-to-99-billion-as-chip-giant-become
-embedding_id: null
+embedding_id: 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
 event_name: ''
 ---
 

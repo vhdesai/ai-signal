@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-12-liquid-ai-releases-lfm2-5-vl-3b-for-on-device-vision-languag
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-12-liquid-ai-ships-lfm2-5-vl-3b-for-on-device-vision-language
 event_name: ''
 ---
 

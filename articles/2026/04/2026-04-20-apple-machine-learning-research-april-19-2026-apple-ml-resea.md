@@ -5,8 +5,8 @@ title: Apple Machine Learning Research • April 19, 2026 Apple ML Research publ
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://machinelearning.apple.com/research/iclr-2026
+url_status: repaired
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: e3df05a49b8efc2d3d3814b65bf278318e6075574e2eefb2db37298ae4446a4b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
-embedding_id: null
+embedding_id: 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
 event_name: ''
 ---
 

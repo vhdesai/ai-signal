@@ -5,8 +5,8 @@ title: MIT CSAIL researchers introduced "Masked IRL," a method that helps robots
 date: '2026-06-27'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
+url_status: repaired
 digest_source: digests\raw\2026-06-27_061617_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 25423480e18d7d347e40d72aa15c8dbc54bb1d9ef921fa71ce550ea1ec3e447c
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
-embedding_id: null
+embedding_id: 2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he
 event_name: ''
 ---
 

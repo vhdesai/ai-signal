@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-08-21-nvidia-strikes-a-7b-license-and-hire-deal-with-poolside
 related_article_ids:
 - 2026-08-21-nvidia-to-pay-poolside-6b-in-licensing-and-tap-the-startup-s
-embedding_id: null
+embedding_id: 2026-08-21-nvidia-to-pay-poolside-6b-for-a-non-exclusive-license-and-hi
 event_name: ''
 ---
 

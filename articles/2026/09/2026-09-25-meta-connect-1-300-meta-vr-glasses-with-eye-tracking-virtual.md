@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-24-meta-connect-muse-gains-walmart-best-buy-sephora-paypal-chec
 - 2026-09-23-meta-connect-camera-free-ray-ban-meta-audio-1-300-vr-glasses
 - 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
-embedding_id: null
+embedding_id: 2026-09-25-meta-connect-1-300-meta-vr-glasses-with-eye-tracking-virtual
 event_name: ''
 ---
 

@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-29-ex-a16z-bio-lead-on-why-ai-native-vc-requires-a-different-pl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-29-ex-a16z-bio-lead-vijay-pande-on-why-ai-native-vc-requires-a
 event_name: ''
 ---
 

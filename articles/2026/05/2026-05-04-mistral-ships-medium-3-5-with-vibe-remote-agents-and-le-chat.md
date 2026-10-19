@@ -4,8 +4,8 @@ title: Mistral ships Medium 3.5 with Vibe remote agents and Le Chat Work Mode
 date: '2026-05-04'
 source: The Decoder / HuggingFace
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 8998710ac45f0f7f255910b03b5e95efe90c62b8edba62cc22755801112be817
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 - 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
-embedding_id: null
+embedding_id: 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
 event_name: ''
 ---
 

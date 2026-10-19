@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-07-23-multi-turn-ai-attacks-reportedly-break-models-88-of-the-time
-embedding_id: null
+embedding_id: 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 event_name: ''
 ---
 

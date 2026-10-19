@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 - 2026-08-07-anthropic-retunes-claude-fable-5-biology-safeguards-cutting
 - 2026-08-07-anthropic-says-claude-fable-5-will-relax-biology-question-re
-embedding_id: null
+embedding_id: 2026-08-07-anthropic-loosens-fable-5-biology-safeguards-cutting-fallbac
 event_name: ''
 ---
 

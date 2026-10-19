@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-22-alibaba-declares-asi-ambition-teases-10t-parameter-model-and
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
 - 2026-09-22-alibaba-unveils-full-stack-ai-roadmap-zhenwu-v900-chip-qwen
-embedding_id: null
+embedding_id: 2026-10-10-alibaba-s-joe-tsai-says-open-source-ai-is-europe-s-only-path
 event_name: ''
 ---
 

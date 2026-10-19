@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-09-18-salesforce-and-nvidia-unveil-koa-a-domain-specific-reasoning
 - 2026-09-15-salesforce-and-nvidia-launch-koa-a-jointly-post-trained-reas
 - 2026-09-02-salesforce-and-anthropic-launch-claudeforce-making-claude-th
-embedding_id: null
+embedding_id: 2026-09-16-salesforce-ships-aiforce-at-dreamforce-for-third-party-agent
 event_name: ''
 ---
 

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
 - 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
-embedding_id: null
+embedding_id: 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 event_name: ''
 ---
 

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 474
+member_count: 477
 ---
 
 # Apple
 
-> Auto-generated entity hub. 474 connected article(s).
+> Auto-generated entity hub. 477 connected article(s).
 
+- `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]
 - `2026-10-14` [[2026-10-14-apple-bets-on-ai-to-strengthen-its-smart-home-offering|Apple bets on AI to strengthen its smart-home offering]]

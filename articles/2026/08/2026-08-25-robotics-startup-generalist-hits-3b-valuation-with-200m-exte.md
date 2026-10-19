@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-25-robotics-startup-generalist-reaches-3b-valuation-on-200m-ext
 - 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 - 2026-08-12-ai-coding-startup-cognition-in-early-talks-at-40b-plus-valua
-embedding_id: null
+embedding_id: 2026-08-25-robotics-startup-generalist-hits-3b-valuation-with-200m-exte
 event_name: ''
 ---
 

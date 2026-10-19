@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-09-03-mark-zuckerberg-opposed-a-national-ai-regulator-in-a-private
 - 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
 - 2026-08-16-why-people-aren-t-buying-mark-zuckerberg-s-ai-future-and-whe
-embedding_id: null
+embedding_id: 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 event_name: ''
 ---
 

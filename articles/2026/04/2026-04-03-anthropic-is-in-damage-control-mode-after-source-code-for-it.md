@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
-embedding_id: null
+embedding_id: 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
 event_name: ''
 ---
 

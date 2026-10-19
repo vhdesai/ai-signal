@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-10-tsmc-august-revenue-up-53-3-to-a-record-nt-514-8b-advanced-n
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 - 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
-embedding_id: null
+embedding_id: 2026-09-09-taiwan-s-august-exports-hit-record-82-4b-on-ai-and-hpc-deman
 event_name: ''
 ---
 

@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-26-amazon-triples-its-nvidia-chip-order-over-surging-demand
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-26-amazon-triples-its-nvidia-gpu-commitment-2-million-chips-thr
 event_name: ''
 ---
 

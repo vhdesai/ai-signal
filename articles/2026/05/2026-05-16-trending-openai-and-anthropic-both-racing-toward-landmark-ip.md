@@ -4,8 +4,8 @@ title: 💜 TRENDING OpenAI and Anthropic Both Racing Toward Landmark IPOs in 20
 date: '2026-05-16'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/technology/ai/articles/anthropic-openai-both-racing-ipo-090400839.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 9e3d99715f327b53842a63b78e27000e48e56041869bf81f03450278f0178d25
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
-embedding_id: null
+embedding_id: 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 event_name: ''
 ---
 

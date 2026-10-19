@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-12-two-more-frontier-lab-safety-researchers-resign-and-both-mov
 - 2026-09-25-another-deepmind-researcher-quits-calls-near-term-superintel
 - 2026-09-09-anthropic-pretraining-researcher-resigns-alignment-lead-puts
-embedding_id: null
+embedding_id: 2026-09-12-two-more-safety-researchers-leave-anthropic-and-deepmind-for
 event_name: ''
 ---
 

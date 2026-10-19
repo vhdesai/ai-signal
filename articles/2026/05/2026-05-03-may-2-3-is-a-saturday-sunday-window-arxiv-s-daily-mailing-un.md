@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-coverage-window-may-13-14-2026-primary-with-context-from-may
 - 2026-05-27-arxiv-cs-ai-submissions-sustain-high-volume-through-the-wind
 - 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
-embedding_id: null
+embedding_id: 2026-05-03-may-2-3-is-a-saturday-sunday-window-arxiv-s-daily-mailing-un
 event_name: ''
 ---
 

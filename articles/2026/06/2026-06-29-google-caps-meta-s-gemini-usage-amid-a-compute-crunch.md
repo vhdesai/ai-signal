@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
-embedding_id: null
+embedding_id: 2026-09-26-ai-access-nearly-eliminates-people-s-willingness-to-say-i-do
 event_name: ''
 ---
 

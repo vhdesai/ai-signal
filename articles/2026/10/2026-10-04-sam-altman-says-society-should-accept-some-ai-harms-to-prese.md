@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-09-14-altman-confirms-openai-anthropic-and-google-have-been-in-mon
-embedding_id: null
+embedding_id: 2026-10-04-sam-altman-says-society-should-accept-some-ai-harms-to-prese
 event_name: ''
 ---
 

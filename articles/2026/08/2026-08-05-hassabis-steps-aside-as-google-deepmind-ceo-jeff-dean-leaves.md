@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-google-deepmind-leadership-overhaul-hassabis-steps-back-as-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 event_name: ''
 ---
 

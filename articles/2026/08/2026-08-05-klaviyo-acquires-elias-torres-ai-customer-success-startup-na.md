@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-08-05-klaviyo-acquires-elias-torres-agency-founder-joins-as-chief
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-08-05-klaviyo-acquires-elias-torres-ai-customer-success-startup-na
 event_name: ''
 ---
 

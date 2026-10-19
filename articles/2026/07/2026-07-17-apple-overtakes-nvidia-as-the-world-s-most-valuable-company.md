@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-09-04-nvidia-s-99b-equity-portfolio-turns-supplier-exposure-into-c
 - 2026-09-04-nvidia-s-equity-portfolio-reaches-99-billion-as-it-becomes-a
-embedding_id: null
+embedding_id: 2026-07-17-apple-overtakes-nvidia-as-the-world-s-most-valuable-company
 event_name: ''
 ---
 

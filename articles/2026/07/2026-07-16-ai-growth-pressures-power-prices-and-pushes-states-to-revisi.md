@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-07-ai-data-center-water-consumption-returns-as-an-infrastructur
 - 2026-09-07-tech-giants-say-ai-data-centers-are-getting-less-thirsty-as
 - 2026-10-07-national-compute-grid-proposal-targets-idle-ai-capacity
-embedding_id: null
+embedding_id: 2026-07-16-ai-growth-pressures-power-prices-and-pushes-states-to-revisi
 event_name: ''
 ---
 

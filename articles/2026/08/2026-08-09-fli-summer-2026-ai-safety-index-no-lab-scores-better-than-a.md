@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-09-14-anthropic-openai-and-google-discussed-creating-a-new-ai-safe
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 - 2026-08-22-study-frontier-labs-still-publish-almost-no-plans-for-contai
-embedding_id: null
+embedding_id: 2026-08-09-fli-summer-2026-ai-safety-index-no-lab-scores-better-than-a
 event_name: ''
 ---
 

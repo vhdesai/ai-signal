@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
 - 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
-embedding_id: null
+embedding_id: 2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter
 event_name: ''
 ---
 

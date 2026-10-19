@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-17-xi-jinping-pushes-open-source-ai-as-china-challenges-u-s-dom
-embedding_id: null
+embedding_id: 2026-07-15-white-house-not-ruling-out-action-on-open-source-ai-models
 event_name: ''
 ---
 

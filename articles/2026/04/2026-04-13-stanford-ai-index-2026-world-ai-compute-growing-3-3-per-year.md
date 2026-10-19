@@ -5,8 +5,8 @@ title: 'Stanford AI Index 2026: World AI Compute Growing 3.3× Per Year, Benchma
 date: '2026-04-13'
 source: Stanford HAI / IEEE Spectrum
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: dd58acc82cdd6e95fd16f470d90e12d6def5b440b9c7a8ba5f1885622a9d8578
@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year
 event_name: ''
 ---
 

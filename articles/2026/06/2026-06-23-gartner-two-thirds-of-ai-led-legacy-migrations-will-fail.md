@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 - 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
 - 2026-08-22-enterprises-winning-with-ai-agents-are-the-ones-constraining
-embedding_id: null
+embedding_id: 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-19-alibaba-previews-qwen-3-8-claiming-no-2-position-behind-clau
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
-embedding_id: null
+embedding_id: 2026-07-20-alibaba-says-its-new-ai-model-ranks-just-behind-anthropic-s
 event_name: ''
 ---
 
