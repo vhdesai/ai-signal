@@ -4,8 +4,8 @@ title: Meituan's "General 365" Benchmark Exposes Broad Gaps in AI Reasoning
 date: '2026-06-22'
 source: Meituan LongCat Team
 url_original: null
-url_canonical: https://www.besthub.dev/articles/general-365-meituan-longcat-s-open-source-benchmark-redefines-llm-reasoning-evaluation-911963a8e353
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 2714b608447de9bebfb83ac923283ecd41c79919e1159f7d6e95f5b067f2fcad
 normalized_title_hash: 0259afda314d1ed0

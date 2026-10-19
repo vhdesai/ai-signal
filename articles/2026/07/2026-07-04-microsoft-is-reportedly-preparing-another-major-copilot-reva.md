@@ -5,8 +5,8 @@ title: Microsoft is reportedly preparing another major Copilot revamp — target
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://windowsforum.com/news/microsoft-to-merge-copilot-apps-by-aug-2026-add-paid-agents-cut-clutter.435024/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: de1236776e3ea5a8e006c8d8a604f8afe87d78cc3b0848b86c33e7ceb426c9d3

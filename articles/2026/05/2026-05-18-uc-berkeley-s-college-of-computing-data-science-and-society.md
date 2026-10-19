@@ -5,8 +5,8 @@ title: UC Berkeley's College of Computing, Data Science, and Society polled 11 l
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://cdss.berkeley.edu/news/uc-berkeley-experts-monitoring-ai-developments-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 3fd578361f9314bf3381b4b67b47486fec42d06cf90ac2cb262895d44bde03e5

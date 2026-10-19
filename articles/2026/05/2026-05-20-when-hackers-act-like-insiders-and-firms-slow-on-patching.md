@@ -4,8 +4,8 @@ title: When hackers act like insiders — and firms slow on patching
 date: '2026-05-20'
 source: Microsoft Tech Community · Read article
 url_original: null
-url_canonical: https://actionablesec.com/blog/windows-smb-vulnerability-exploited-why-annual-patching-isnt-enough
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: c1929b0ff45f1c3d8e7b15bfd8ed421521846aaece82f2d24aedc064ab60d778

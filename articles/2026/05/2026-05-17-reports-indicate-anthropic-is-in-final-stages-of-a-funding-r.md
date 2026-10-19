@@ -5,8 +5,8 @@ title: Reports indicate Anthropic is in final stages of a funding round seeking 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: ba19f3532748a9a6cc36fd6bf951b22fd87947886e577bacbcc18270ed6f4765

@@ -4,8 +4,8 @@ title: Microsoft .NET team ships "skills" repository to equip AI agents with C# 
 date: '2026-05-23'
 source: GitHub Trending
 url_original: null
-url_canonical: https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6051319d52d96e9147212dd2f9b9999294b8cb2c1373d2cf4453d1101f7fbe64

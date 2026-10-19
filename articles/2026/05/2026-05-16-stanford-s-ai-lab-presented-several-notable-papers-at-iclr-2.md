@@ -4,8 +4,8 @@ title: Stanford's AI Lab presented several notable papers at ICLR 2026
 date: '2026-05-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: http://www.robotics.stanford.edu/blog/iclr-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070759_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: d9e5337d3ffff405d9ed204264fbfc6adcb87e91ca1846322f42821e7ff1a6ce

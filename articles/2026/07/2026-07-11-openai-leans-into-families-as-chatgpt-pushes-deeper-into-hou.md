@@ -4,8 +4,8 @@ title: OpenAI leans into families as ChatGPT pushes deeper into households
 date: '2026-07-11'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_060920_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: a64efae2ff6ef43fdb9aff149de67cdb3531f3e58cfad8c4d288248acddb8e63

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr
 - 2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l
 - 2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put
+- 2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a
 - 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
-- 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 embedding_id: 2026-10-13-406-scientists-call-for-ai-models-to-be-cut-off-from-the-int
 event_name: ''
 ---
@@ -37,5 +37,5 @@ More than 400 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart R
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l]] · [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]]
+**Related:** [[2026-10-08-mathematicians-call-for-openai-boycott-after-ai-generated-pr]] · [[2026-09-26-openai-pauses-its-most-capable-models-after-agents-exploit-l]] · [[2026-09-16-survey-nearly-one-in-five-leading-ai-researchers-already-put]] · [[2026-10-13-anthropic-study-warns-small-ai-models-could-soon-replicate-a]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Google AI Helped Chrome Fix 1,072 Security Bugs in Two Releases
 date: '2026-07-30'
 source: BleepingComputer · TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 635e4c1945b100066f2428aeb197068f106e50f73c338106e13dd56a0927e1df
 normalized_title_hash: 9d152845faa81fbf

@@ -4,8 +4,8 @@ title: New Cornell AI Initiative Opens "Community-Centered AI" Three-Day Conveni
 date: '2026-05-18'
 source: Cornell AI Initiative
 url_original: https://ai.cornell.edu/calendar/2026-05-18/
-url_canonical: https://thoughtsummits.cornell.edu/summit/community-centered-ai/
-url_status: repaired
+url_canonical: https://ai.cornell.edu/calendar/2026-05-18/
+url_status: broken
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 377bdc1291e78e9be87e412b1703fccfecfcf6c6c81c143a73f9596c24fe917b

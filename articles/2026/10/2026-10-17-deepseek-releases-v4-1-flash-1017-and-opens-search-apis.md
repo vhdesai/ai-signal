@@ -23,10 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices
 - 2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains
 - 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
 - 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
-- 2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an
 embedding_id: 2026-10-17-deepseek-releases-v4-1-flash-1017-and-opens-search-apis
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek released V4.1-Flash-1017 and public Search/Fetch APIs, claiming better 
 
 **Entities:** [[DeepSeek]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]] · [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]] · [[2026-09-10-deepseek-releases-v4-1-flash-with-1m-context-fp4-kv-cache-an]]
+**Related:** [[2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices]] · [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains]] · [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]]
 <!-- graph:end -->

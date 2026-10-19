@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-product-policy-anthropic-consults-law-firms-on-negotiation-n
 - 2026-05-09-anthropic-released-research-on-natural-language-autoencoders
 - 2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers
 - 2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed
-- 2026-10-09-anthropic-launches-cyber-mission-and-free-scanner-for-open-s
 embedding_id: 2026-10-18-anthropic-consults-law-firms-on-negotiation-norms-before-age
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic is consulting law firms to define fair negotiation norms for AI agents
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]] · [[2026-10-09-anthropic-launches-cyber-mission-and-free-scanner-for-open-s]]
+**Related:** [[2026-10-18-product-policy-anthropic-consults-law-firms-on-negotiation-n]] · [[2026-05-09-anthropic-released-research-on-natural-language-autoencoders]] · [[2026-07-15-anthropic-finds-claude-s-expressed-values-shift-with-convers]] · [[2026-10-12-hcltech-and-anthropic-form-a-global-partnership-for-governed]]
 <!-- graph:end -->

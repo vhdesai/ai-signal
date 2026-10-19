@@ -5,8 +5,8 @@ title: Ceva wins landmark AI licensing deal with major U.S. software and AI plat
 date: '2026-07-06'
 source: AiThority
 url_original: null
-url_canonical: https://www.prnewswire.com/news-releases/ceva-wins-landmark-ai-licensing-deal-with-major-us-software-and-ai-platform-company-302818112.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: 3d549b59cbc3de59aed52338391656cff93685c255154896a3fad7afe385e9e8
 normalized_title_hash: 0c017201d024179d

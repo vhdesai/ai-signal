@@ -4,8 +4,8 @@ title: OpenAI Launches "Daybreak" Cybersecurity Initiative Powered by GPT-5.5
 date: '2026-05-12'
 source: OpenAI
 url_original: null
-url_canonical: https://openai.com/index/daybreak-securing-the-world/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: dd132776245d181d01e7ec71bba98e0e49ef81da422bbf2b9a4e8e18b26d7bd4

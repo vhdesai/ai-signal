@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that
 - 2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n
-- 2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests
+- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 embedding_id: 2026-08-03-oracle-s-position-highlights-the-risk-embedded-in-infrastruc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle’s position highlights the risk embedded in infrastructure-first AI stra
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-09-06-oracle-and-adobe-face-opposite-ai-moat-tests]]
+**Related:** [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-08-03-long-duration-bond-issuance-for-ai-infrastructure-shows-that]] · [[2026-08-03-this-investment-highlights-how-ai-infrastructure-demand-is-n]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]]
 <!-- graph:end -->

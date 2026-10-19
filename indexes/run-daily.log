@@ -1,43 +1,88 @@
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "C:\Users\vdesai\OneDrive - Microsoft\Documents\tvfr\6-AIProj\Newsletter\ext-host\source\news_trends\__main__.py", line 8, in <module>
-    main()
-    ~~~~^^
-  File "C:\Users\vdesai\OneDrive - Microsoft\Documents\tvfr\6-AIProj\Newsletter\ext-host\source\news_trends\cli.py", line 140, in main
-    stages = {stage: run_stage(stage, cfg, args) for stage in sequence}
-                     ~~~~~~~~~^^^^^^^^^^^^^^^^^^
-  File "C:\Users\vdesai\OneDrive - Microsoft\Documents\tvfr\6-AIProj\Newsletter\ext-host\source\news_trends\cli.py", line 86, in run_stage
-    return run_validate_urls(cfg, limit=args.limit)
-  File "C:\Users\vdesai\OneDrive - Microsoft\Documents\tvfr\6-AIProj\Newsletter\ext-host\source\news_trends\urls.py", line 246, in run_validate_urls
-    with httpx.Client(timeout=10.0, follow_redirects=True) as client, db.connect(cfg.db_path) as conn:
-         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpx\_client.py", line 688, in __init__
-    self._transport = self._init_transport(
-                      ~~~~~~~~~~~~~~~~~~~~^
-        verify=verify,
-        ^^^^^^^^^^^^^^
-    ...<5 lines>...
-        transport=transport,
-        ^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpx\_client.py", line 731, in _init_transport
-    return HTTPTransport(
-        verify=verify,
-    ...<4 lines>...
-        limits=limits,
-    )
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpx\_transports\default.py", line 150, in __init__
-    import httpcore
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpcore\__init__.py", line 1, in <module>
-    from ._api import request, stream
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpcore\_api.py", line 6, in <module>
-    from ._models import URL, Extensions, HeaderTypes, Response
-  File "C:\dev\ai-signal-venv\Lib\site-packages\httpcore\_models.py", line 4, in <module>
-    import ssl
-  File "C:\Python314\Lib\ssl.py", line 100, in <module>
-    import _ssl             # if we can't import it, let the error propagate
-    ^^^^^^^^^^^
-ImportError: DLL load failed while importing _ssl: The specified procedure could not be found.
-Error importing huggingface_hub.hf_api: DLL load failed while importing _ssl: The specified procedure could not be found.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
+Loading weights:  70%|██████▉   | 139/199 [00:00<00:00, 1375.84it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1471.82it/s]
+{
+  "command": "run-daily",
+  "stages": {
+    "ingest": {
+      "digests_total": 1485,
+      "digests_changed": 7,
+      "changed": [
+        "news\\2026-10-19_000000_Publication-Sources.md",
+        "news\\2026-10-19_065717_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-19_130959_Inbox_Daily AI News Digest – October 19, 2026.md",
+        "news\\2026-10-19_131850_Inbox_Daily AI News Digest – October 19, 2026.md",
+        "news\\2026-10-19_131907_Inbox_Daily AI News Digest – October 19, 2026.md",
+        "news\\2026-10-19_134742_Inbox_ClawPilot - Daily AI News Digest – October 19, 2026.md",
+        "news\\daily-ai-news-digest-2026-10-19.md"
+      ]
+    },
+    "split": {
+      "digests_parsed": 1489,
+      "articles_written": 14417,
+      "events_parsed": 122,
+      "event_articles_written": 78,
+      "skipped_publication_sources": 53,
+      "skipped_thin_articles": 4997
+    },
+    "index": {
+      "articles_indexed": 10484,
+      "embeddings": {
+        "enabled": true,
+        "added": 35,
+        "total": 10484,
+        "md_rewritten": 10483
+      }
+    },
+    "dedupe": {
+      "articles": 10484,
+      "exact_duplicates": 6,
+      "canonical": 7770,
+      "semantic_duplicates": 2708,
+      "related_links": 32010
+    },
+    "build-graph": {
+      "status": "ok",
+      "articles_linked": 10484,
+      "wikilinks_emitted": 71701,
+      "entity_hubs": 34,
+      "topic_hubs": 8,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    },
+    "validate-urls": {
+      "checked": 4941,
+      "ok": 3726,
+      "broken": 1215,
+      "missing": 5520,
+      "skipped": 23
+    },
+    "repair-urls": {
+      "attempted": 21,
+      "repaired": 13,
+      "unresolved": 8,
+      "skipped": 0,
+      "reverted": 0,
+      "deferred": 0,
+      "terminated": "completed",
+      "elapsed_s": 294.8,
+      "max_workers": 10
+    },
+    "build-site-daily": {
+      "pages": 301,
+      "articles": 10484,
+      "canonical": 7770,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
+      "mode": "incremental",
+      "changed_articles": 221,
+      "written_files": 108,
+      "elapsed_s": 18.22
+    },
+    "publish": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  },
+  "run_log": "indexes\\runs\\run-20261019T205146+0000-3a8302.json"
+}

@@ -4,8 +4,8 @@ title: AWS hires Apple and Google veteran to lead key AI products
 date: '2026-07-31'
 source: The Information
 url_original: null
-url_canonical: https://info-reader-production.herokuapp.com/briefings/exclusive-aws-taps-apple-executive-lead-key-ai-products
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_065720_Final-Daily-AI-News-Digest.md
 content_hash: b9bf00f9f0e09dfa3adfd1ad00e5a88520a7af8487a89b2ba2383d93fca365cd
 normalized_title_hash: dbcb23a5fea764a3

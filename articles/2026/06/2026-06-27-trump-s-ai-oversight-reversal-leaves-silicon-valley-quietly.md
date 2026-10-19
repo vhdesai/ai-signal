@@ -4,8 +4,8 @@ title: Trump's AI-oversight reversal leaves Silicon Valley quietly seeking rules
 date: '2026-06-27'
 source: Politico
 url_original: null
-url_canonical: https://thenextweb.com/news/silicon-valley-ai-regulation-trump-biden-irony-framework
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: e07e55e1b8a675b6572975f81f84bceb68c4339577e53d8c182c58051bc2f213

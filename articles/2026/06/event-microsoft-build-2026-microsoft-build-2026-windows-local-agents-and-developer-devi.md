@@ -4,8 +4,8 @@ title: 'Microsoft Build 2026: Windows, local agents, and developer devices'
 date: '2026-06-02'
 source: Microsoft Build 2026
 url_original: null
-url_canonical: https://news.microsoft.com/build-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
 content_hash: 3a5d2ee6c3bee0d52a94950c5fea29740da43a638c91f676ad6b63c199777e2a
 normalized_title_hash: 6522f8a6d0ccb56a

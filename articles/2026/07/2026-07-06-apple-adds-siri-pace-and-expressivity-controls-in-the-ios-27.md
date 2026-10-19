@@ -4,8 +4,8 @@ title: Apple Adds Siri Pace and Expressivity Controls in the iOS 27 Beta
 date: '2026-07-06'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
 content_hash: d4a5093f3dd01dffcd5e1bcd9eeb4589ba9a232eed136f2f46d17892f1b11dde

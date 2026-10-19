@@ -5,8 +5,8 @@ title: '~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop t
 date: '2026-07-11'
 source: San Francisco Chronicle
 url_original: null
-url_canonical: https://www.sfchronicle.com/tech/article/san-francisco-ai-protest-22340835.php
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: 64837ddd09f86cd3bcd0d5b4f8223a0bc35505cbdf84701d361e4c6bc7b6d8c0

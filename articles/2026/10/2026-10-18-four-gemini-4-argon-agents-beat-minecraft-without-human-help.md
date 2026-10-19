@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-model-research-four-gemini-4-argon-agents-beat-minecraft-wit
 - 2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe
 - 2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec
 - 2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c
@@ -37,5 +38,5 @@ The Decoder reported that four Gemini 4 Argon agents beat Minecraft without huma
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]]
+**Related:** [[2026-10-18-model-research-four-gemini-4-argon-agents-beat-minecraft-wit]] · [[2026-10-10-gemini-4-carbon-reportedly-matches-claude-opus-5-5-coding-pe]] · [[2026-10-01-google-deepmind-releases-gemini-4-argon-only-vetted-cybersec]] · [[2026-10-13-gemini-4-argon-becomes-globally-available-as-google-s-most-c]]
 <!-- graph:end -->

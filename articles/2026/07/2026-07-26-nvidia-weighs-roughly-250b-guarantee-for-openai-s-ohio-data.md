@@ -4,8 +4,8 @@ title: Nvidia weighs roughly $250B guarantee for OpenAI’s Ohio data center
 date: '2026-07-26'
 source: The Wall Street Journal · DealBook
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-28_065753_Final-Daily-AI-News-Digest.md
 content_hash: 5038a3ececf2212e9b2e3bad02551023a5c8d842bb9b7e801adfccd4a24b1ba9
 normalized_title_hash: 9630b34f4bb69be8

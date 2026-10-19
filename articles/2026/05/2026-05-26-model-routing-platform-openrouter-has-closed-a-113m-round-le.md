@@ -5,8 +5,8 @@ title: Model-routing platform OpenRouter has closed a $113M round led by Capital
 date: '2026-05-26'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://openrouter.ai/blog/announcements/series-b/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070642_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 8d7f9404d86aaa65fac9adca096a5f899300b0ad93f51d196951e542122ed902

@@ -1,14 +1,22 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2420
+member_count: 2430
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2420 connected article(s).
+> Auto-generated entity hub. 2430 connected article(s).
 
+- `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate|Anthropic public-benefit pledge draws market debate]]
+- `2026-10-18` [[2026-10-18-product-policy-anthropic-consults-law-firms-on-negotiation-n|PRODUCT POLICY Anthropic consults law firms on negotiation norms for AI agents]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-meta-anthropic-agent-governance-meta-links-erroneous-instagr|META ANTHROPIC AGENT GOVERNANCE Meta links erroneous Instagram suspension to Claude-associated activity]]
+- `2026-10-18` [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun|INDUSTRY Anthropic commits 5% of shares to public-benefit fund]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
 - `2026-10-18` [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x|Anthropic says junior hiring has fallen as AI agents log 6x human work hours]]
 - `2026-10-18` [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to|Anthropic proposes federal AI safety bill with U.S. power to block high-risk models]]
@@ -16,10 +24,12 @@ member_count: 2420
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before|Anthropic commits 5% stake to new public-benefit fund before IPO]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund|Anthropic commits 5% of shares to new public benefit fund]]
+- `2026-10-18` [[2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p|ANTHROPIC GOVERNANCE TIMING EXCEPTION Anthropic proposes a public-benefit equity fund]]
 - `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs|AI wearables run into wiretap-law limits; Anthropic asks outsiders to weigh in on Claude's values]]
 - `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-as-personal-agents|AI wearables run into wiretap-law limits as personal agents enter public space]]
 - `2026-10-17` [[2026-10-17-robotics-technical-potential-outpaces-its-economic-viability|Robotics’ technical potential outpaces its economic viability]]
 - `2026-10-17` [[2026-10-17-replit-shifts-its-default-model-provider-to-openai|Replit shifts its default model provider to OpenAI]]
+- `2026-10-17` [[2026-10-17-industry-replit-makes-openai-its-default-over-anthropic|INDUSTRY Replit makes OpenAI its default over Anthropic]]
 - `2026-10-17` [[2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more|Anthropic says its workforce has become less junior and more meeting-heavy]]
 - `2026-10-17` [[2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands|Anthropic reports a shift in hiring and coordination demands]]
 - `2026-10-17` [[2026-10-17-anthropic-report-says-ai-heavy-workflows-are-changing-hiring|Anthropic report says AI-heavy workflows are changing hiring mix and increasing coordination load]]

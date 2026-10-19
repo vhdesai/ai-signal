@@ -5,8 +5,8 @@ title: DeepSeek's upcoming V4 model — widely anticipated as a follow-on to the
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 60a35b1c50669ee1419469f72d9774742bd0bb5afb9eb55611e8a8ac8094f6ec
 normalized_title_hash: a2aff41a64b69fa6

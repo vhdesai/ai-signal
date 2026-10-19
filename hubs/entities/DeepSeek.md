@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 541
+member_count: 545
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 541 connected article(s).
+> Auto-generated entity hub. 545 connected article(s).
 
+- `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]
+- `2026-10-19` [[2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices|DeepSeek releases V4.1-Flash-1017 without raising API prices]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-18` [[2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr|DeepSeek rolls out faster, leaner model and prices agent retrieval below rivals]]
 - `2026-10-17` [[2026-10-17-deepseek-releases-v4-1-flash-1017-and-opens-search-apis|DeepSeek releases V4.1-Flash-1017 and opens search APIs]]

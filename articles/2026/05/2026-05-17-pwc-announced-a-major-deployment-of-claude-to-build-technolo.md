@@ -5,8 +5,8 @@ title: PwC announced a major deployment of Claude to build technology, execute d
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.anthropic.com/news/pwc-expanded-partnership
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070833_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 96a7a5e3c3a2647c7a06b82bc2ca6725b1c8ba5b55909279bf0caddf2998fe30

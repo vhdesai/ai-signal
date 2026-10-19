@@ -4,8 +4,8 @@ title: Google DeepMind UK Staff Vote 98% to Unionize Over Classified Military AI
 date: '2026-05-12'
 source: The Decoder
 url_original: null
-url_canonical: https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: cbcf4832481631c43a1db262310039f61998aa88762dcbc712011dcf6f791871

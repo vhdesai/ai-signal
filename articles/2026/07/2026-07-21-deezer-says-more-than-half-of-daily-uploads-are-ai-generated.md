@@ -4,8 +4,8 @@ title: Deezer says more than half of daily uploads are AI-generated
 date: '2026-07-21'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-22-daily-ai-news-digest.md
 content_hash: f1aa36e2c2304826302a28742d97506a2e66eb1a94a73465b4eb67ebbde8c194
 normalized_title_hash: 8ed38a68f5a07a51

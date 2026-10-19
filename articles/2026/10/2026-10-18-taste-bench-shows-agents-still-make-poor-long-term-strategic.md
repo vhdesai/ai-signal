@@ -16,13 +16,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
-- 2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability
-- 2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for
-- 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
+dedupe_status: duplicate
+canonical_article_id: 2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term
+related_article_ids: []
 embedding_id: 2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic
 event_name: ''
 ---
@@ -35,5 +31,5 @@ Taste-Bench evaluates how well AI agents make strategic decisions during long-ru
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-08-13-dig-bench-a-benchmark-isolating-scientific-discovery-ability]] · [[2026-08-10-practitioner-explainer-prompt-caching-versus-fine-tuning-for]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]]
+**Canonical:** [[2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Pony AI lifts 2026 robotaxi fleet goal to 3,500 vehicles
 date: '2026-05-26'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 28579d5e92ea5f0b8d976d93aa4b82601ab438ffa39b0f4afcea1a6420df4d12

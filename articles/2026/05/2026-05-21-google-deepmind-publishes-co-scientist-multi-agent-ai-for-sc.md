@@ -5,8 +5,8 @@ title: 'Google DeepMind Publishes Co-Scientist: Multi-Agent AI for Scientific Di
 date: '2026-05-21'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 62cc3cce0e2b590d6eeb99e3cacdad5ffa6851e33bedf7b0466f79a5d25d8eb0

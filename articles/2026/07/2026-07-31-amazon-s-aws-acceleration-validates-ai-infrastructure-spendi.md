@@ -4,8 +4,8 @@ title: Amazon's AWS acceleration validates AI infrastructure spending—for now
 date: '2026-07-31'
 source: Wall Street Journal
 url_original: null
-url_canonical: https://www.techtimes.com/articles/322572/20260731/aws-backlog-hits-496b-amazon-raises-ai-spend-220b-capacity-runs-short.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-08-01_065704_Final-Daily-AI-News-Digest.md
 content_hash: 711ed5b43448fa77f888df821034b6ccfda050ab2f59f230eb8c441b61034c61
 normalized_title_hash: 266ef1e36cc56bf5

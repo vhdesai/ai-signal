@@ -4,8 +4,8 @@ title: China's MiniMax Releases H3 Open-Weight Video Generation Model
 date: '2026-07-31'
 source: Reuters · The Information
 url_original: null
-url_canonical: https://tech.yahoo.com/ai/deals/articles/chinas-minimax-releases-h3-video-044250010.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: e0baa49d6cca863a4a31377235a653c402a38e029010cf58ed051dabc5551cce
 normalized_title_hash: 6f9f6701ca24236d

@@ -4,8 +4,8 @@ title: Microsoft shows AI capex with operating leverage while Meta stumbles
 date: '2026-07-30'
 source: The Information
 url_original: null
-url_canonical: https://404kresearch.substack.com/p/microsoft-and-meta-earnings-deep
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-30_065951_Inbox_Daily AI News Digest - July 30,
   2026.md
 content_hash: 1199e59040513c8bb33beb36a00ed0177599f77644eb2c5a879e77d4c3cd3370

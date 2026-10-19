@@ -4,8 +4,8 @@ title: Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer
 date: '2026-06-07'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
 content_hash: 4fd96a852c213a06d14f7c426a223f51338a462c4c588f2d4f8d4814fbfe7873

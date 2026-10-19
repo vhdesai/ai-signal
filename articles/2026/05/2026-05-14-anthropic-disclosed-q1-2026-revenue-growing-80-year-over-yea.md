@@ -5,8 +5,8 @@ title: Anthropic disclosed Q1 2026 revenue growing 80× year-over-year, pushing 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://axis-intelligence.com/anthropic-statistics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 84dad8548420fbc683c0baf294580bbcb5bd00169020523e9667b7a344293177

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 - 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 - 2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books
+- 2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce
 - 2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul
-- 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
 embedding_id: 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported that Character.AI filed for Chapter 11 and initiated a court
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]]
+**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-08-23-the-unsettled-law-of-training-models-on-copyrighted-books]] · [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce]] · [[2026-09-30-pitchbook-software-dealmaking-goes-underground-ai-native-mul]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p
 - 2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat
-- 2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6
 embedding_id: 2026-10-13-anthropic-discloses-its-internal-replacement-for-git
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic migrated its monorepo to Scion as daily merges exceeded 30,000. This i
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]] · [[2026-09-19-anthropic-weighing-a-pre-ipo-model-release-to-counter-gpt-6]]
+**Related:** [[2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p]] · [[2026-08-24-anthropic-resolves-a-multi-model-claude-outage-after-a-month]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-09-11-researcher-resignation-reopens-the-pace-of-development-debat]]
 <!-- graph:end -->

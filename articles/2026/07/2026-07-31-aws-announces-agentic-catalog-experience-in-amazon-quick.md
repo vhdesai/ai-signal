@@ -4,8 +4,8 @@ title: AWS announces agentic catalog experience in Amazon Quick
 date: '2026-07-31'
 source: AWS Machine Learning Blog
 url_original: null
-url_canonical: https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-08-02-ai-news-digest.md
 content_hash: 8bd71ca4ca76b3eb51302aeb4dfb2b46d3796d4dd8b679cfaed1ee1eaf90553d
 normalized_title_hash: 181a1e07ad0d4f7c

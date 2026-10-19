@@ -5,8 +5,8 @@ title: Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned 
 date: '2026-06-17'
 source: The Pragmatic Engineer / Techmeme
 url_original: null
-url_canonical: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-18_075931_Final-Daily-AI-News-Digest.md
 content_hash: 4a28ed543bf364555b4abbc5cb3064f7e0b25f21d584588456e88cfc5647dec0
 normalized_title_hash: 75d7784308d57226

@@ -5,8 +5,8 @@ title: President Trump told Axios in a pre-taped interview that he no longer con
 date: '2026-06-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://thenextweb.com/news/trump-anthropic-not-national-security-threat-axios-interview
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-20-daily-ai-news-digest.md
 content_hash: fdf11b1677794efffbf51ae67bc001cb06d3731a5b3bb7b1d0a417a1afda1104
 normalized_title_hash: 73ee91eaae950a85

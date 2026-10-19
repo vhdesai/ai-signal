@@ -5,8 +5,8 @@ title: In the studios' copyright case against image generator Midjourney, a judg
 date: '2026-07-04'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-04_060944_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 3913bae659bcad311284db4a988351fc4bbca3890d3b729c1ef2c24197b03d37

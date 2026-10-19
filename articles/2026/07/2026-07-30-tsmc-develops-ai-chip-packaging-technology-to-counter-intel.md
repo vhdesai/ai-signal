@@ -4,8 +4,8 @@ title: TSMC develops AI chip-packaging technology to counter Intel
 date: '2026-07-30'
 source: The Information
 url_original: null
-url_canonical: https://vff.ai/article/2026/07/30/tsmc-develops-ai-chip-packaging-tech-to-counter-intel
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_065720_Final-Daily-AI-News-Digest.md
 content_hash: b5237e0a0662238693e9bd2bd878c422ee7653b474eb4677b436a0434dc8e717
 normalized_title_hash: 5de3f31b88111dc1

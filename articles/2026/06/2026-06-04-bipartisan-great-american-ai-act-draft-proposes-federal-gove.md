@@ -5,8 +5,8 @@ title: Bipartisan "Great American AI Act" Draft Proposes Federal Governance Fram
 date: '2026-06-04'
 source: Politico; FedScoop; Nextgov/FCW
 url_original: null
-url_canonical: https://fedscoop.com/bipartisan-great-american-ai-act-draft-proposes-new-federal-ai-governance-framework/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-05_060001_Daily-AI-News-Digest.md
 content_hash: 58f0e8e897b2d590ed8a66979e7d62b96ba9c087b39bcb250681cf64baf5cfbb
 normalized_title_hash: 43501734b73562ee

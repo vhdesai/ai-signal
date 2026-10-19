@@ -5,8 +5,8 @@ title: Products Amazon winds down Mechanical Turk, closing it to new customers J
 date: '2026-07-06'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_060841_Inbox_Daily AI News Digest - July 6,
   2026.md
 content_hash: 1e96ca33b7648e027d7190283e9690fbf9e857914b1135c56dee29d2297c2458

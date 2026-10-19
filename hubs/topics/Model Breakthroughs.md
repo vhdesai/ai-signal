@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3512
+member_count: 3522
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3512 connected article(s).
+> Auto-generated topic hub. 3522 connected article(s).
 
+- `2026-10-19` [[2026-10-19-openai-tests-three-aurora-image-models|OpenAI tests three Aurora image models]]
+- `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
+- `2026-10-19` [[2026-10-19-minimax-launch-vendor-claims-minimax-positions-m3-1-flash-ar|MINIMAX LAUNCH VENDOR CLAIMS MiniMax positions M3.1 Flash around agent efficiency]]
+- `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-goto-google-gemma-regional-ai-goto-releases-a-27b-indonesian|GOTO GOOGLE GEMMA REGIONAL AI GoTo releases a 27B Indonesian-language model]]
+- `2026-10-19` [[2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices|DeepSeek releases V4.1-Flash-1017 without raising API prices]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-18` [[2026-10-18-voxel51-3-0-targets-multimodal-data-operations-for-robotics|Voxel51 3.0 targets multimodal data operations for robotics, vehicles, and factories]]
+- `2026-10-18` [[2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term|RESEARCH Taste-Bench shows agents still make poor long-term strategic choices]]
+- `2026-10-18` [[2026-10-18-research-policy-agent-refund-experiment-shows-risk-of-agenti|RESEARCH POLICY Agent refund experiment shows risk of "agentic flooding"]]
 - `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
+- `2026-10-18` [[2026-10-18-model-research-four-gemini-4-argon-agents-beat-minecraft-wit|MODEL RESEARCH Four Gemini 4 Argon agents beat Minecraft without human help]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-18` [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials|MIT model gives AI a 3D view of crystalline materials]]
 - `2026-10-18` [[2026-10-18-mit-combines-crystal-geometry-and-language-for-materials-dis|MIT combines crystal geometry and language for materials discovery]]

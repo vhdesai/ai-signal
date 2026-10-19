@@ -4,8 +4,8 @@ title: Moonshot's Kimi K3 challenges U.S. frontier models
 date: '2026-07-17'
 source: The Information
 url_original: null
-url_canonical: https://aixrea.com/blog/kimi-k3-open-source-frontier-model
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: f1a89faa019b25e0784e540a359376e3440582cd369752cf0c744f065e6e5346
 normalized_title_hash: c94fa7cd3324d38e

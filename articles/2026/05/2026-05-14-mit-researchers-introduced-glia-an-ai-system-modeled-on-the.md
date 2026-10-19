@@ -5,8 +5,8 @@ title: MIT researchers introduced Glia — an AI system modeled on the brain's g
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://people.csail.mit.edu/pkarimib/papers/Glia.pdf
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bc21e2b1e562eed78cfaa35b45713613c0ee8e52d988de7bd40a78c1ac5f5c9f

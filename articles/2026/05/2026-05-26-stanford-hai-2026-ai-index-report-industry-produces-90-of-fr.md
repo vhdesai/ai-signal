@@ -4,8 +4,8 @@ title: Stanford HAI 2026 AI Index Report — Industry Produces 90%+ of Frontier 
 date: '2026-05-26'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-27_070624_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 1bef2efb9a7c67b890cb1440d8615f6215b21ba264ab695a83e4b739ad53d5da

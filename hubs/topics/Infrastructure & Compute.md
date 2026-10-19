@@ -1,18 +1,25 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2206
+member_count: 2213
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2206 connected article(s).
+> Auto-generated topic hub. 2213 connected article(s).
 
+- `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
+- `2026-10-19` [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe|Microsoft pulls out of Nscale U.K. data-center deal over power-supply issues]]
+- `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
+- `2026-10-19` [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge|CoreWeave's bonds yield around 15% as leveraged loans emerge for GPU-rich AI borrowers]]
 - `2026-10-18` [[2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic|Taste-Bench shows agents still make poor long-term strategic choices]]
 - `2026-10-18` [[2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps|Nvidia enters correction as AI bubble index jumps]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
 - `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
 - `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
+- `2026-10-18` [[2026-10-18-infra-cxmt-shares-fall-despite-blockbuster-earnings-and-plan|INFRA CXMT shares fall despite blockbuster earnings and planned buyback]]
 - `2026-10-18` [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi|Enterprises adopting AI agents discover they now manage digital workers]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
 - `2026-10-18` [[2026-10-18-agent-refund-experiment-shows-agentic-flooding-risk-in-every|Agent refund experiment shows "agentic flooding" risk in everyday disputes]]

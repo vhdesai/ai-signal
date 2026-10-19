@@ -4,8 +4,8 @@ title: Microsoft launches in-house AI models it says cut costs up to 89% versus 
 date: '2026-07-23'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.europesays.com/ai/117275/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: e4821dfa69c17a4f94a74d2b3f42a99794232d4d2d2fbf638b56725b37083576
 normalized_title_hash: 824d37f4cd44452a

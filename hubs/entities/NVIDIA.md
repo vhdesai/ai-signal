@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1687
+member_count: 1691
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1687 connected article(s).
+> Auto-generated entity hub. 1691 connected article(s).
 
+- `2026-10-19` [[2026-10-19-nvidia-backed-doubleai-launches-model-that-lives-inside-runn|Nvidia-backed doubleAI launches model that lives inside running code]]
+- `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no|Amazon opens Trainium AI chips to PyTorch developers with no rewrite]]
 - `2026-10-18` [[2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps|Nvidia enters correction as AI bubble index jumps]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]

@@ -4,8 +4,8 @@ title: Daily AI News Digest • Prepared April 20, 2026
 date: '2026-04-20'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aidailypost.com/daily/2026-04-24-ai-daily-digest-friday-april-24-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-20_072628_Inbox_Daily AI News Digest – April 20,
   2026.md
 content_hash: a6c86694128906981bf91a4332c074463065e478dbb1ced430b05ee094d81c04

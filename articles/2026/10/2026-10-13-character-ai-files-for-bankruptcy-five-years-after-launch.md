@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 - 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
+- 2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo
 - 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
-- 2026-10-18-disney-to-hire-majority-of-character-ai-workforce
 embedding_id: 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Character.AI filed for bankruptcy and plans to sell some assets to Disney for $2
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]] · [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]]
+**Related:** [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]]
 <!-- graph:end -->

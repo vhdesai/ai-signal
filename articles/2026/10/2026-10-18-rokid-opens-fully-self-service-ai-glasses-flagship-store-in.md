@@ -16,14 +16,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha
-- 2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court
-- 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
+dedupe_status: duplicate
+canonical_article_id: 2026-10-18-product-rokid-opens-fully-self-service-ai-glasses-retail-sto
+related_article_ids: []
 embedding_id: 2026-10-18-rokid-opens-fully-self-service-ai-glasses-flagship-store-in
 event_name: ''
 ---
@@ -36,5 +31,5 @@ Rokid opened a Hong Kong flagship store built around a "no man's land" retail mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-10-13-alibaba-launches-450-qwen-ai-glasses-and-always-on-vision-ha]] · [[2026-08-14-ai-glasses-land-meta-oakley-and-ray-ban-in-german-court]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]]
+**Canonical:** [[2026-10-18-product-rokid-opens-fully-self-service-ai-glasses-retail-sto]]
 <!-- graph:end -->

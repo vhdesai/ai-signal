@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe
 - 2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit
 - 2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers
 embedding_id: 2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project
@@ -36,5 +37,5 @@ Microsoft reportedly exited Nscale's Essex project amid power-supply delays. Gri
 
 **Entities:** [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]]
+**Related:** [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe]] · [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit]] · [[2026-07-25-one-fallen-power-line-trips-3-1-gw-of-ai-data-centers]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Anthropic Launches Claude Opus 5 at Roughly Half the Price of Its Flagshi
 date: '2026-07-27'
 source: Anthropic
 url_original: null
-url_canonical: https://www.anthropic.com/news/claude-opus-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-28_061729_Inbox_Daily AI News Digest - July 28,
   2026.md
 content_hash: 61f5a44bec73a0771acc828013b84a4f545bf4523b545d66303aae8013e29371

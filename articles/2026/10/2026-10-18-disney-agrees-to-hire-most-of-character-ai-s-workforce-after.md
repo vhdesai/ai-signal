@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
 related_article_ids:
+- 2026-10-18-disney-character-ai-talent-disney-offers-jobs-to-most-of-cha
+- 2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo
 - 2026-10-18-disney-to-hire-majority-of-character-ai-workforce
 - 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
-- 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 embedding_id: 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Disney agreed to offer jobs to at least 60 Character.AI employees, representing 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[M&A Activity]]
 **Canonical:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce]]
-**Related:** [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]] · [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]] · [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]]
+**Related:** [[2026-10-18-disney-character-ai-talent-disney-offers-jobs-to-most-of-cha]] · [[2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo]] · [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]] · [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 710
+member_count: 713
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 710 connected article(s).
+> Auto-generated entity hub. 713 connected article(s).
 
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no|Amazon opens Trainium AI chips to PyTorch developers with no rewrite]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]
 - `2026-10-13` [[2026-10-13-every-major-nvidia-customer-is-becoming-a-competitor|Every major Nvidia customer is becoming a competitor]]

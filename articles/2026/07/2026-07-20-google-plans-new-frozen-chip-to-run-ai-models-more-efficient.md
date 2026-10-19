@@ -4,8 +4,8 @@ title: Google plans new “Frozen” chip to run AI models more efficiently
 date: '2026-07-20'
 source: The Information
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-20-daily-ai-news-digest.md
 content_hash: b3e2da15bb4b2f4244ec3321dfebcaaf3e8ddc92d737430b0d8edb5dfe9a4540
 normalized_title_hash: 1e198831b8c97d6e

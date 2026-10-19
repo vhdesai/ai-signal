@@ -5,8 +5,8 @@ title: OpenAI connected ChatGPT to financial accounts through Plaid, giving Pro 
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://plaid.com/blog/chatgpt-personal-finance-plaid/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 8dc2b81a9dd9cfac4286551d78976df080187831fe97229b422d6c54b0d1abda

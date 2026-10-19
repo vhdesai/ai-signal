@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1300
+member_count: 1304
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1300 connected article(s).
+> Auto-generated topic hub. 1304 connected article(s).
 
+- `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
+- `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate|Anthropic public-benefit pledge draws market debate]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
+- `2026-10-18` [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun|INDUSTRY Anthropic commits 5% of shares to public-benefit fund]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before|Anthropic commits 5% stake to new public-benefit fund before IPO]]
 - `2026-10-14` [[2026-10-14-ymtc-revenue-expected-to-grow-six-times-faster-than-peers-as|YMTC revenue expected to grow six times faster than peers as server memory ramps]]

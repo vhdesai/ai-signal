@@ -5,8 +5,8 @@ title: Google has fully integrated NotebookLM, its AI-powered research assistant
 date: '2026-04-10'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.engadget.com/ai/google-bakes-notebooklm-its-research-tool-into-gemini-101850634.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-10_073216_Inbox_Daily AI News Digest – April 10,
   2026.md
 content_hash: 7f0d96bca6a822fbf079b214ee759a2360e7d3431dff1107fa7c428ceaaa1864

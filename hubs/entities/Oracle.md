@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 295
+member_count: 298
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 295 connected article(s).
+> Auto-generated entity hub. 298 connected article(s).
 
+- `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans|CoreWeave selloff highlights the financing risk of AI expansion]]
 - `2026-10-10` [[2026-10-10-ten-minutes-with-ai-can-weaken-persistence-through-hard-prob|Ten minutes with AI can weaken persistence through hard problems]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

@@ -5,8 +5,8 @@ title: Good morning. Andrew here. The business of war is a booming industry and 
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.reuters.com/graphics/BUSINESS-DEFENSE/lbvgmjwxrvq/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 789ffef53b555f6658fc430d47160315b2659eb9211e1d60c8e453af50d7a130
 normalized_title_hash: 101b7c9c9a54d41b

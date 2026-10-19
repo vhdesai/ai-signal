@@ -4,8 +4,8 @@ title: 'Politico: "It''s a Hurricane Warning"—AI Guardrails May Be Too Late'
 date: '2026-06-07'
 source: Politico
 url_original: null
-url_canonical: https://aiweekly.co/alerts/politico-its-a-hurricane-warning-us-races-to-vet-frontier-ai-for-cybersecurity
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-07_060026_Daily-AI-News-Digest.md
 content_hash: 1dd1f6403b23251c9db4295fcf5a6e6fa7c1b79a1ae526772a2147ed130f93c2
 normalized_title_hash: 98f9b9457899b6bf

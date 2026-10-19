@@ -5,8 +5,8 @@ title: The All England Club rolled out new IBM-built AI features across the Wimb
 date: '2026-06-29'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-06-22-wimbledon-and-ibm-introduce-new-ai-powered-fan-experiences-and-modernized-digital-platforms-for-the-championships-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-29_060517_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 3b1652577af51dc99f9124f5620c326da67f7c75867562dc6687217ef19c9152

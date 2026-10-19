@@ -5,8 +5,8 @@ title: Both OpenAI and Anthropic are approaching public markets at valuations ne
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://futuresearch.ai/anthropic-openai-ipo-dates-valuations/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: 82904fb59ddcc73a00f1e8959433eec382fcbaf16c6269a985e845dc1e84d892
 normalized_title_hash: dde1df75160ceaec

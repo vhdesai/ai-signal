@@ -4,8 +4,8 @@ title: Google promotes Gemini 3.1 Flash Image (Nano Banana 2) and Pro Image to G
 date: '2026-05-28'
 source: Google AI for Developers
 url_original: null
-url_canonical: https://aistudio.google.com/models/nano-banana
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 5f56122296786a2e15a1bacc2ea7b596b83acd3f05bc29b0b26aa7087bfdaad9

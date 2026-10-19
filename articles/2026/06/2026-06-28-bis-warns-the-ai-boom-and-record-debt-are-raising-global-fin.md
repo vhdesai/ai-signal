@@ -4,8 +4,8 @@ title: BIS warns the AI boom and record debt are raising global financial risks
 date: '2026-06-28'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/06/28/debt-ai-boom-and-economic-fragilities-raise-global-risks-bis-says.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
 content_hash: bd2702def459c0182f3714f1d3a8ca5a35c213ecd8e1c0a8f313fadffa257433
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor
 - 2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system
-- 2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust
+- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 embedding_id: 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Bank for International Settlements' Annual Economic Report, published Sunday
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust]]
+**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-08-21-reuters-reports-corporate-ai-debt-surge-is-testing-investor]] · [[2026-09-24-reuters-financing-the-historic-ai-buildout-is-raising-system]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]]
 <!-- graph:end -->

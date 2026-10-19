@@ -5,8 +5,8 @@ title: 🛡️ AI Safety & Policy YouTube Expands AI Deepfake Detection Tool to 
 date: '2026-05-17'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_071257_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: d944b64d08fde6304012dcd26f032958caab43b5a4ba4097da2b97349e68695e

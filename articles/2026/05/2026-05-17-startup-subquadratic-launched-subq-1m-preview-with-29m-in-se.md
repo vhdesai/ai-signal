@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-18-subquadratic-released-the-first-commercially-available-non-t
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
-- 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
+- 2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15
 embedding_id: 2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Startup Subquadratic launched SubQ 1M-Preview with $29M in seed funding, claimin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-18-subquadratic-released-the-first-commercially-available-non-t]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-18-subquadratic-released-the-first-commercially-available-non-t]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]]
 <!-- graph:end -->

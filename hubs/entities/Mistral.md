@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 252
+member_count: 253
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 252 connected article(s).
+> Auto-generated entity hub. 253 connected article(s).
 
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-13` [[2026-10-13-stanford-hai-humans-and-ai-engage-in-meaningful-collaboratio|Stanford HAI: humans and AI engage in meaningful collaborations]]
 - `2026-10-13` [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove|NVIDIA highlights France's agentic-computing stack from sovereign infrastructure to industry deployments]]
 - `2026-10-13` [[2026-10-13-mistral-large-4-vs-claude-opus-5-5-benchmarks-keep-the-open|Mistral Large 4 vs. Claude Opus 5.5 benchmarks keep the open-weight debate alive]]

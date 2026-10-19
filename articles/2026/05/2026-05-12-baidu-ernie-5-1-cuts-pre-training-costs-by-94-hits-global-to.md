@@ -4,8 +4,8 @@ title: Baidu ERNIE 5.1 Cuts Pre-Training Costs by 94%, Hits Global Top-5
 date: '2026-05-12'
 source: Decrypt
 url_original: null
-url_canonical: https://promptcost.org/en/blog/baidu-ernie-51-training-cost-revolution-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 125a87a99ad7cce43f177f7cd72500b124922108134d483a2fc6bbb90bac14f5

@@ -5,8 +5,8 @@ title: Apple signed a preliminary manufacturing agreement with Intel for US-base
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/apple-intel-chip-pact-adds-221847247.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 8e2cee51fa104ff6f92d6093f7ec591be6c20b26afaf4a942d1f1c649e564579

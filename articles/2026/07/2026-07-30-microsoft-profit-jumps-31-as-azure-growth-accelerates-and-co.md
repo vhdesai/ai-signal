@@ -5,8 +5,8 @@ title: Microsoft profit jumps 31% as Azure growth accelerates and Copilot subscr
 date: '2026-07-30'
 source: DealBook / The Information
 url_original: null
-url_canonical: https://lumienai.com/news/microsoft-q4-2026-earnings-azure-cloud-copilot-revenue
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
 content_hash: 36871d783902e960c1ea241217eca2511a35d19e777c3145cbace9fb5ba06e53

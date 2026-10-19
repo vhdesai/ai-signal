@@ -4,8 +4,8 @@ title: NEWElevenLabs adds BlackRock, Jamie Foxx, and Eva Longoria to investor ba
 date: '2026-05-05'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: b216c7feb307c87a6617e3978992a396fb7be6cd778835932752cbab979d4847
 normalized_title_hash: 140006bef64a1f25

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-17-industry-replit-makes-openai-its-default-over-anthropic
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 embedding_id: 2026-10-17-replit-shifts-its-default-model-provider-to-openai
 event_name: ''
@@ -35,5 +36,5 @@ Replit's CEO says OpenAI is now its default, while Claude remains available. Con
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
+**Related:** [[2026-10-17-industry-replit-makes-openai-its-default-over-anthropic]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
 <!-- graph:end -->

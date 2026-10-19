@@ -4,8 +4,8 @@ title: Spotify and Universal sign first major-label fan AI deal
 date: '2026-05-21'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: d7b27fbe7ece67053bc094a85d50c4bcdd6f1f96c8abf18c23a38e89892b3bc3

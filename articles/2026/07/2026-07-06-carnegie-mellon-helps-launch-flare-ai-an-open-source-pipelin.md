@@ -5,8 +5,8 @@ title: Carnegie Mellon helps launch FLARE-AI, an open-source pipeline for coordi
 date: '2026-07-06'
 source: Carnegie Mellon University
 url_original: null
-url_canonical: https://labs.cloudsecurityalliance.org/research/csa-research-note-flare-ai-coordinated-disclosure-standard-2/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-08_063010_Inbox_Daily AI News Digest - July 8,
   2026.md
 content_hash: 39eab91bd8a98d8ccdcc9fbd9c2eca479c4e40bea9678c92702fbd7e899aa476

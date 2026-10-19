@@ -22,8 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 - 2026-10-18-disney-to-hire-majority-of-character-ai-workforce
-- 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
-- 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
+- 2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce
 embedding_id: 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Disney agreed to hire the majority of Character.AI's workforce as part of the ba
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]] · [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and]]
+**Related:** [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce]] · [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce]]
 <!-- graph:end -->

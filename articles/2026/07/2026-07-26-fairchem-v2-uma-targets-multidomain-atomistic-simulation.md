@@ -4,8 +4,8 @@ title: FAIRChem v2 UMA targets multidomain atomistic simulation
 date: '2026-07-26'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: fd0766cbb9c9cb47ff6f36f31dd4cdf97db17669afeb9ea4d185a6723833542c

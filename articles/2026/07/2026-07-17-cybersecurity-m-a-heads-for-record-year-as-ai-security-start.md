@@ -5,8 +5,8 @@ title: Cybersecurity M&A heads for record year as AI security startups reshape t
 date: '2026-07-17'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://news.crunchbase.com/venture/cybersecurity-startup-investment-up-ye-2025/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17_092848_Final-Daily-AI-News-Digest.md
 content_hash: b8952859fa83921aad9fc3768d8ca282e37de8f991910180c65f614662f25ec8
 normalized_title_hash: 7c082a52198f83fc

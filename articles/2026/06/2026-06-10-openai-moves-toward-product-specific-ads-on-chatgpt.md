@@ -4,8 +4,8 @@ title: OpenAI Moves Toward Product-Specific Ads on ChatGPT
 date: '2026-06-10'
 source: The Information
 url_original: null
-url_canonical: https://openai.com/index/new-chatgpt-ads-format-and-measurement/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-10_181217_Evening-Daily-AI-News-Digest.md
 content_hash: f452c1abd9510646d8bb2d242f7a94f92b05fcc576a5350f5cade4f6c683ec0d
 normalized_title_hash: 640bf979b2e85f04

@@ -4,8 +4,8 @@ title: CMU launches Learnvia and convenes Global Science Diplomacy program
 date: '2026-05-23'
 source: 'Source: AI at CMU'
 url_original: null
-url_canonical: https://www.cmu.edu/leadership/president/campus-comms/01-29-26
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: a30601094494adc02c91ff446a77b5571017ea6da8504a559a00a25679a87329

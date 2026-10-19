@@ -5,8 +5,8 @@ title: NVIDIA introduced HORIZON, an autonomous agent framework that treats each
 date: '2026-07-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://arxiv.org/abs/2606.28279
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-05_061041_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: a6307450d94ee1b20bf0573f27b3387ef284e2f3c8dd848b3575ba1ea0d825b5

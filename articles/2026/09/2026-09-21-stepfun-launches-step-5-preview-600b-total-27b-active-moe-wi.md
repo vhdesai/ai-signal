@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million
 - 2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l
+- 2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15
 embedding_id: 2026-09-21-stepfun-launches-step-5-preview-600b-total-27b-active-moe-wi
 event_name: ''
 ---
@@ -35,5 +36,5 @@ StepFun released Step 5 Preview, a sparse mixture-of-experts model with roughly 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million]] · [[2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l]]
+**Related:** [[2026-09-20-stepfun-ships-600b-parameter-step-5-preview-at-1-per-million]] · [[2026-09-20-stepfun-launches-step-5-preview-a-600b-total-moe-model-for-l]] · [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: CMU and Nature publish on AI's effect on research apprenticeship
 date: '2026-05-05'
 source: Nature / CMU
 url_original: null
-url_canonical: https://www.nature.com/nature-index/institution-outputs/united-states-of-america-usa/carnegie-mellon-university-cmu/5139073734d6b65e6a00223d
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: ff811958b016881734a8acf4129675ebc5f781c391d219540bb733712aa81cce

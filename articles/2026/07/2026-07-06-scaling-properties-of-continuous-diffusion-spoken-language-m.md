@@ -4,8 +4,8 @@ title: Scaling Properties of Continuous Diffusion Spoken Language Models
 date: '2026-07-06'
 source: Apple Machine Learning Research
 url_original: null
-url_canonical: https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-06_060000_Daily-AI-News-Digest.md
 content_hash: ecbbc94cedcfabe80d65ee9b4f35360c1ada23c3ba78837b0165ec9abb4b9383
 normalized_title_hash: 43dc37a1485bad48

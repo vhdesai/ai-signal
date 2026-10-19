@@ -4,8 +4,8 @@ title: 'RSA Conference 2026 / RSAC 2026: Zero trust for AI agents'
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.crn.com/rsa-2026
-url_status: repaired
+url_canonical: https://www.rsaconference.com/usa
+url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: d4dda6b7645c86a8a6491a4a7cfad8099ee38d37ef7597350a3f12b5e9d53606
 normalized_title_hash: ea1c0063f1bede17

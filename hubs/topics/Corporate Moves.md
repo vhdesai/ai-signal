@@ -1,22 +1,33 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4921
+member_count: 4933
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4921 connected article(s).
+> Auto-generated topic hub. 4933 connected article(s).
 
+- `2026-10-19` [[2026-10-19-nvidia-backed-doubleai-launches-model-that-lives-inside-runn|Nvidia-backed doubleAI launches model that lives inside running code]]
+- `2026-10-19` [[2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen|Microsoft, Xnode and Sumsub add control planes for rogue agents and agent identity]]
+- `2026-10-19` [[2026-10-19-industry-stripe-says-ai-agent-purchases-are-adding-up-but-wo|INDUSTRY Stripe says AI-agent purchases are adding up, but won't disclose numbers]]
+- `2026-10-19` [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate|Anthropic public-benefit pledge draws market debate]]
+- `2026-10-19` [[2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no|Amazon opens Trainium AI chips to PyTorch developers with no rewrite]]
 - `2026-10-18` [[2026-10-18-voxel51-3-0-targets-multimodal-data-operations-for-robotics|Voxel51 3.0 targets multimodal data operations for robotics, vehicles, and factories]]
 - `2026-10-18` [[2026-10-18-violoop-launches-399-ai-box-that-controls-mouse-and-keyboard|Violoop launches $399 AI box that controls mouse and keyboard; Grok gets an email identity]]
 - `2026-10-18` [[2026-10-18-rokid-opens-fully-self-service-ai-glasses-flagship-store-in|Rokid opens fully self-service AI-glasses flagship store in Hong Kong]]
+- `2026-10-18` [[2026-10-18-product-rokid-opens-fully-self-service-ai-glasses-retail-sto|PRODUCT Rokid opens fully self-service AI-glasses retail store in Hong Kong]]
+- `2026-10-18` [[2026-10-18-product-policy-anthropic-consults-law-firms-on-negotiation-n|PRODUCT POLICY Anthropic consults law firms on negotiation norms for AI agents]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-jetbrains-air-expands-to-five-ides-as-claude-code-plugins-go|JetBrains Air expands to five IDEs as Claude Code plugins go official]]
 - `2026-10-18` [[2026-10-18-jetbrains-air-expands-as-claude-code-plugins-become-official|JetBrains Air expands as Claude Code plugins become official]]
+- `2026-10-18` [[2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo|INDUSTRY Disney agrees to hire most of Character.AI's workforce]]
+- `2026-10-18` [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun|INDUSTRY Anthropic commits 5% of shares to public-benefit fund]]
 - `2026-10-18` [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti|Google open-sources Harness² for recursive agent harness optimization]]
 - `2026-10-18` [[2026-10-18-disney-to-hire-majority-of-character-ai-workforce|Disney to hire majority of Character.AI workforce]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce|Disney agrees to hire most of Character.AI's workforce]]
+- `2026-10-18` [[2026-10-18-disney-character-ai-talent-disney-offers-jobs-to-most-of-cha|DISNEY CHARACTER.AI TALENT Disney offers jobs to most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-anthropic-says-junior-hiring-has-fallen-as-ai-agents-log-6x|Anthropic says junior hiring has fallen as AI agents log 6x human work hours]]
 - `2026-10-18` [[2026-10-18-anthropic-consults-law-firms-on-negotiation-norms-before-age|Anthropic consults law firms on negotiation norms before agents start cutting deals]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]
@@ -25,6 +36,7 @@ member_count: 4921
 - `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
 - `2026-10-17` [[2026-10-17-meta-removes-language-that-raised-scraping-and-ai-training-c|Meta removes language that raised scraping and AI-training concerns]]
 - `2026-10-17` [[2026-10-17-meta-removes-commercial-terms-language-that-raised-scraping|Meta removes commercial-terms language that raised scraping and AI training concerns]]
+- `2026-10-17` [[2026-10-17-industry-replit-makes-openai-its-default-over-anthropic|INDUSTRY Replit makes OpenAI its default over Anthropic]]
 - `2026-10-17` [[2026-10-17-daily-ai-news-digest-october-18-2026|Daily AI News Digest – October 18, 2026]]
 - `2026-10-17` [[2026-10-17-anthropic-says-its-workforce-has-become-less-junior-and-more|Anthropic says its workforce has become less junior and more meeting-heavy]]
 - `2026-10-17` [[2026-10-17-anthropic-reports-a-shift-in-hiring-and-coordination-demands|Anthropic reports a shift in hiring and coordination demands]]

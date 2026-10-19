@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll
+- 2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 - 2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language
-- 2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali
 embedding_id: 2026-07-25-28-9m-parameter-llm-now-runs-locally-on-an-8-esp32-microcont
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A developer ran a 28.9M-parameter TinyStories model entirely on an ESP32-S3 (~$8
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language]] · [[2026-08-20-meet-s1-mini-superwhisper-s-462-mb-open-weights-text-normali]]
+**Related:** [[2026-07-25-28-9m-parameter-llm-runs-locally-on-an-8-esp32-microcontroll]] · [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]] · [[2026-09-17-prismml-raises-22-25m-seed-for-a-deliberately-small-language]]
 <!-- graph:end -->

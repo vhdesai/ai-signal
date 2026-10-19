@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 426
+member_count: 427
 ---
 
 # xAI
 
-> Auto-generated entity hub. 426 connected article(s).
+> Auto-generated entity hub. 427 connected article(s).
 
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-12` [[2026-10-12-xai-and-cursor-bundle-grok-cursor-and-x-premium-into-one-sub|xAI and Cursor bundle Grok, Cursor and X Premium into one subscription]]
 - `2026-10-12` [[2026-10-12-britain-steps-up-national-defences-against-growing-ai-risks|Britain steps up national defences against growing AI risks]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]

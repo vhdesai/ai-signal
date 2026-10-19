@@ -5,8 +5,8 @@ title: Stanford HAI posted a revised version (v3) of its ninth-edition AI Index 
 date: '2026-06-30'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2025-ai-index-report?u
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-30_060551_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: cdbee57253cbde05498b4e9758fdc590ddeba01a362ab052ca779a2a7b0b27bb

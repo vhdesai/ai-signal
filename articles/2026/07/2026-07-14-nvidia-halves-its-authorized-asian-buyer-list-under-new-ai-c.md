@@ -5,8 +5,8 @@ title: Nvidia halves its authorized Asian buyer list under new AI-chip complianc
 date: '2026-07-14'
 source: The Next Web
 url_original: null
-url_canonical: https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
 content_hash: 0244dd712e342f43d2ee4cf8e23b82a378c55194c5bd571708deb960d87d29b8

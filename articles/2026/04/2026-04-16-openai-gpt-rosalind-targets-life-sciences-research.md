@@ -4,8 +4,8 @@ title: OpenAI GPT-Rosalind Targets Life Sciences Research
 date: '2026-04-16'
 source: OpenAI Newsroom
 url_original: null
-url_canonical: https://openai.com/index/introducing-gpt-rosalind/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 511e9b1e107f0c5775d3507968f5e67cb133dbba2111c75c69920d700aeb338d

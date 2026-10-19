@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 198
+member_count: 199
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 198 connected article(s).
+> Auto-generated entity hub. 199 connected article(s).
 
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-10` [[2026-10-10-cerebras-growth-invites-nvidia-comparisons-but-profitability|Cerebras growth invites Nvidia comparisons, but profitability and customer concentration remain key gaps]]
 - `2026-10-10` [[2026-10-10-apple-discloses-deal-to-hire-huxe-ai-team-and-license-its-pe|Apple discloses deal to hire Huxe AI team and license its personalized-audio technology]]

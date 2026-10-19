@@ -5,8 +5,8 @@ title: OpenAI claims GPT-5.6 "Sol Ultra" produced a proof of a 50-year-old graph
 date: '2026-07-11'
 source: OfficeChai
 url_original: null
-url_canonical: https://singularity.kiwi/gpt-56-sol-ultra-cycle-double-cover-conjecture-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-12_062259_Inbox_Daily AI News Digest - July 12,
   2026.md
 content_hash: e9c9254a94cdb2a827faed3bdc1e3761875d96164d253bc514c76f06980ed8fa

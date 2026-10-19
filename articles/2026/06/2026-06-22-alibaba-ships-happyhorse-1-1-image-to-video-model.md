@@ -4,8 +4,8 @@ title: Alibaba Ships HappyHorse 1.1 Image-to-Video Model
 date: '2026-06-22'
 source: Alibaba Cloud
 url_original: null
-url_canonical: https://www.alibabacloud.com/campaign/happyhorse
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 65528eb45eee6e6b82dd54bfdaaf78ea570b9a79fdffcc03b5e11f911ca34146
 normalized_title_hash: 3993f8629950ee66

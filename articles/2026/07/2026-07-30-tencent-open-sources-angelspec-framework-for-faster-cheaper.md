@@ -4,8 +4,8 @@ title: Tencent Open-Sources AngelSpec Framework for Faster, Cheaper LLM Inferenc
 date: '2026-07-30'
 source: MarkTechPost
 url_original: null
-url_canonical: https://arxiv.org/abs/2607.25852
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 586b2b84eea5528bfd9b85068179dcf694f7125449609ed3da63b210977eb88e
 normalized_title_hash: 58bdbe34fb2df418

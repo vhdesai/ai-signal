@@ -4,8 +4,8 @@ title: 'Cognizant CEO: All 350,000 Employees Have "AI Fluency Meters"'
 date: '2026-07-31'
 source: DealBook
 url_original: null
-url_canonical: https://www.cognizant.com/us/en/insights/insights-blog/enterprise-multi-agent-ai-systems-transform-digital-workplace
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 8e035004837ab2ff504f1ab0fe2941d747c92caff10d67fc0f070614b5d28c54
 normalized_title_hash: 0aeab7c2c9034bb9

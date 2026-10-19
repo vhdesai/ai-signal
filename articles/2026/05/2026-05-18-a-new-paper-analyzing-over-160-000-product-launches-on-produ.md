@@ -5,8 +5,8 @@ title: A new paper analyzing over 160,000 product launches on Product Hunt found
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://ojs.aaai.org/index.php/AAAI-SS/article/view/42928
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_071152_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 23bced12f79faa07ef1e242d1b87990c880c1cb2597973c0ee700e116535d907

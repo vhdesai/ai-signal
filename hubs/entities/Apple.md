@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 477
+member_count: 478
 ---
 
 # Apple
 
-> Auto-generated entity hub. 477 connected article(s).
+> Auto-generated entity hub. 478 connected article(s).
 
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]

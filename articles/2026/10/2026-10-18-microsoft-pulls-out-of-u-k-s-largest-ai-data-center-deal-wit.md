@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov
+- 2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe
 - 2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft reportedly pulled out of a major U.K. AI data-center deal with Nscale,
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov]] · [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov]] · [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe]] · [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]]
 <!-- graph:end -->

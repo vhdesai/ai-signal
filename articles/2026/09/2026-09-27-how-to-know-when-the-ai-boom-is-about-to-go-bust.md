@@ -28,8 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
+- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
-- 2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri
 embedding_id: 2026-09-27-how-to-know-when-the-ai-boom-is-about-to-go-bust
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Jonathan Weil argues the AI boom’s core vulnerability is its dependence on a c
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-09-27-ai-infrastructure-boom-faces-financing-pressure-as-yields-ri]]
+**Related:** [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]]
 <!-- graph:end -->

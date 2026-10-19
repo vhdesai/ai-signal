@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1654
+member_count: 1660
 ---
 
 # Google
 
-> Auto-generated entity hub. 1654 connected article(s).
+> Auto-generated entity hub. 1660 connected article(s).
 
+- `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-goto-google-gemma-regional-ai-goto-releases-a-27b-indonesian|GOTO GOOGLE GEMMA REGIONAL AI GoTo releases a 27B Indonesian-language model]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]
+- `2026-10-18` [[2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai|POLICY German courts increasingly hold Google liable for AI Overview outputs]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
 - `2026-10-18` [[2026-10-18-google-open-sources-harness-for-recursive-agent-harness-opti|Google open-sources Harness² for recursive agent harness optimization]]

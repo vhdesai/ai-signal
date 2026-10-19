@@ -4,8 +4,8 @@ title: Meta reportedly plans to hire a top Amazon computing executive
 date: '2026-07-17'
 source: WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/meta-taps-amazon-cloud-executive-171517587.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-17-daily-ai-news-digest.md
 content_hash: 5e192b11dc62e484902bec78667fc60e701fdc08fc449166705f10434377bd71
 normalized_title_hash: 161ad606c4b8f730

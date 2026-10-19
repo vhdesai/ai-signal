@@ -5,8 +5,8 @@ title: Perplexity released Bumblebee, an open-source, read-only supply-chain sca
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/23/perplexity-open-sources-bumblebee-a-read-only-supply-chain-scanner-for-developer-endpoints/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 2c05e026e2482a7b4b1cb6005492b0ae018743743aa70723ab3ed72905646850

@@ -5,8 +5,8 @@ title: Huawei has detailed its 2026 AI compute roadmap, centered on the Ascend 9
 date: '2026-05-05'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://convly.ai/huawei-ascend-950-pangu-explained-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_071404_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: b846a116e1402bf5afe1c394d35ae5fde385a42c2b82b58ab6287e51dcbadca1
 normalized_title_hash: 247d6c74fdc298cf

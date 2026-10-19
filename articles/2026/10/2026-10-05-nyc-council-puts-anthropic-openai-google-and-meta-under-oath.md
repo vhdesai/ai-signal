@@ -5,7 +5,7 @@ date: '2026-10-05'
 source: Unite.AI
 url_original: https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/
 url_canonical: https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-10-05_081053_Inbox_Daily AI News Digest – October
   5, 2026.md
 content_hash: 6047b98476b283032cf0d57d9089d1e8eed4808e2e500cbc3d9ee31e835c2647

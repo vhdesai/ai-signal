@@ -5,8 +5,8 @@ title: At Google I/O, CEO Sundar Pichai declared the start of "the agentic Gemin
 date: '2026-05-23'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-23_071015_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 60742b882f7f94df02cb980aa42fe870a2e816e4128ef55f9435678ab98629d4

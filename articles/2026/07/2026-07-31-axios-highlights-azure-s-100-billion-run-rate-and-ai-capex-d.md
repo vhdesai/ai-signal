@@ -4,8 +4,8 @@ title: Axios highlights Azure's $100 billion run rate and AI capex divergence
 date: '2026-07-31'
 source: Axios AI+
 url_original: null
-url_canonical: https://aisheetreport.com/articles/2026-07-31-azure-crosses-100-billion-microsoft-s-q4-fy2026-blowout-resets-the-ai-capex-deba/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-08-02-ai-news-digest.md
 content_hash: 763fa73a900464f8e04fa4c05549b789961b1bf39424c647163d94c38425cca6
 normalized_title_hash: f2272093a86b9d76

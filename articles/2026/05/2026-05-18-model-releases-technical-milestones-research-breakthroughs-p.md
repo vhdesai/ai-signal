@@ -5,8 +5,8 @@ title: 🚀 Model Releases & Technical Milestones * 🔬 Research Breakthroughs 
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://aitoolsrecap.com/daily-ai-news.aspx
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070828_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 2e11361c377b2987efd18d425f61caad82f9b190fbe366ed386c31a41df542fe

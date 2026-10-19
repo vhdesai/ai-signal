@@ -4,8 +4,8 @@ title: MIT Reports 20% Drop in Incoming Graduate Students Amid AI-Driven Talent 
 date: '2026-05-14'
 source: MIT / Hacker News
 url_original: null
-url_canonical: https://keynews.ai/news/mit-20-drop-in-incoming-graduate-students-19641
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 5fa80eb0432c07912a75ff38cb9eedb675ff3aa7ffc4884df2ff574a0117624d

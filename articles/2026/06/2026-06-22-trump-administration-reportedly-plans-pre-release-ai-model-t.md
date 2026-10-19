@@ -5,8 +5,8 @@ title: Trump administration reportedly plans pre-release AI model testing under 
 date: '2026-06-22'
 source: MSN
 url_original: null
-url_canonical: https://www.msn.com/en-in/news/world/trump-administration-to-test-ai-models-before-public-release-under-new-cybersecurity-order/ar-AA24J9yV
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-22_060000_Daily-AI-News-Digest.md
 content_hash: ceab4a943a57906b08736dc7899a974dfe32823a1a122287ca9b850623be0d56
 normalized_title_hash: 6bacb08b9cca6126

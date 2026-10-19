@@ -5,8 +5,8 @@ title: For all Helsing's whiz-bang A.I., it is possible that the proliferation o
 date: '2026-07-11'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/320370/20260713/helsing-closes-18b-round-reaching-18b-europes-defense-ai-giant-scales.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md
 content_hash: 7aa2368569fad3a17463934447f0f5c27380fb2466dc09490599ee1c6751c06c
 normalized_title_hash: 03563486ed371876

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo
 - 2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p
+- 2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe
 - 2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers
 - 2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power
-- 2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov
 embedding_id: 2026-08-29-trane-and-eaton-partner-on-power-and-thermal-systems-for-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Power delivery and heat rejection — not compute procurement — are the pacing
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]] · [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov]]
+**Related:** [[2026-08-29-trane-and-eaton-partner-on-electrical-and-thermal-systems-fo]] · [[2026-10-05-morgan-stanley-says-nvidia-and-broadcom-are-shielded-as-ai-p]] · [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe]] · [[2026-08-15-big-manufacturers-find-new-demand-equipping-ai-data-centers]] · [[2026-08-11-babcock-wilcox-expands-its-position-in-ai-data-center-power]]
 <!-- graph:end -->

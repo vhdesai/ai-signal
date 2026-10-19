@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 185
+member_count: 187
 ---
 
 # IBM
 
-> Auto-generated entity hub. 185 connected article(s).
+> Auto-generated entity hub. 187 connected article(s).
 
+- `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove|IBM survey points to a gap between agent deployment and governance]]
 - `2026-10-10` [[2026-10-10-nadella-advocates-stronger-ai-containment-and-shutdown-contr|Nadella advocates stronger AI containment and shutdown controls]]
 - `2026-10-09` [[2026-10-09-3-questions-what-is-the-best-path-forward-for-ai-in-academia|3 Questions: What is the best path forward for AI in academia?]]

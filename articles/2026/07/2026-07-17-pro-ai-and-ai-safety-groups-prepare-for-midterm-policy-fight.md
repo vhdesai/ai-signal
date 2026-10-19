@@ -4,8 +4,8 @@ title: Pro-AI and AI-safety groups prepare for midterm policy fight
 date: '2026-07-17'
 source: Axios
 url_original: null
-url_canonical: https://aiparabellum.com/ai-safety-midterm-election-spending/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-19-daily-ai-news-digest.md
 content_hash: 10b3b7ee1ba3e176048b6f844d38a714d2bf4b05bb2af60785b127c52ff363c8
 normalized_title_hash: 9a75faa2988dfa99

@@ -5,8 +5,8 @@ title: Index Ventures co-founder warns AI wealth may be redistributed voluntaril
 date: '2026-07-18'
 source: TechCrunch
 url_original: null
-url_canonical: https://aidirectory.com/news/index-ventures-neil-rimer-ai-wealth-redistribution
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-18-daily-ai-news-digest.md
 content_hash: 5ee59222c26e5b182a39d5c000119f53c8ba6950c63bfb7ba54f990b684d90c6
 normalized_title_hash: 0da2da76e814964c

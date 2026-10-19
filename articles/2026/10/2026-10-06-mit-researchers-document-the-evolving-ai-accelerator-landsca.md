@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
+- 2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models
 - 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
-- 2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and
 embedding_id: 2026-10-06-mit-researchers-document-the-evolving-ai-accelerator-landsca
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Lincoln Laboratory researchers published an update on the Lincoln AI Computi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-04-01-a-joint-research-team-from-stanford-carnegie-mellon-mit-and]]
+**Related:** [[2026-10-06-mit-updates-its-view-of-the-ai-accelerator-landscape]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
 <!-- graph:end -->

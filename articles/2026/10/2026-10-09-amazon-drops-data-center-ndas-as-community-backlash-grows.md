@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast
 - 2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op
 - 2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data
-- 2026-06-11-axios-congress-wants-in-on-the-data-center-backlash
+- 2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe
 embedding_id: 2026-10-09-amazon-drops-data-center-ndas-as-community-backlash-grows
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon says it will stop using NDAs when negotiating data-center deals with loca
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc]] · [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data]] · [[2026-06-11-axios-congress-wants-in-on-the-data-center-backlash]]
+**Related:** [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-infrastruc]] · [[2026-10-09-amazon-drops-local-government-data-center-ndas-as-ai-infrast]] · [[2026-10-11-data-center-nda-retreat-may-not-be-enough-to-defuse-local-op]] · [[2026-09-10-amazon-meta-and-google-risk-losing-multibillion-dollar-data]] · [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe]]
 <!-- graph:end -->

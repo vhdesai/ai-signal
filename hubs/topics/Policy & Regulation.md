@@ -1,14 +1,20 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2269
+member_count: 2276
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2269 connected article(s).
+> Auto-generated topic hub. 2276 connected article(s).
 
+- `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]
+- `2026-10-19` [[2026-10-19-pentagon-official-vows-export-controls-if-ai-labs-do-not-coo|Pentagon official vows export controls if AI labs do not cooperate with government]]
+- `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-openai-logs-four-more-rogue-agent-cases-two-critical|OpenAI logs four more rogue-agent cases, two critical]]
+- `2026-10-18` [[2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai|POLICY German courts increasingly hold Google liable for AI Overview outputs]]
 - `2026-10-18` [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials|MIT model gives AI a 3D view of crystalline materials]]
+- `2026-10-18` [[2026-10-18-meta-anthropic-agent-governance-meta-links-erroneous-instagr|META ANTHROPIC AGENT GOVERNANCE Meta links erroneous Instagram suspension to Claude-associated activity]]
 - `2026-10-18` [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie|German courts increasingly hold Google liable for AI Overview outputs]]
 - `2026-10-18` [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety|Eight states sue OpenAI over ChatGPT safety]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
@@ -16,6 +22,7 @@ member_count: 2269
 - `2026-10-18` [[2026-10-18-china-proposes-export-controls-on-23-ai-technologies-includi|China proposes export controls on 23 AI technologies, including AI agents]]
 - `2026-10-18` [[2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to|Anthropic proposes federal AI safety bill with U.S. power to block high-risk models]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund|Anthropic commits 5% of shares to new public benefit fund]]
+- `2026-10-18` [[2026-10-18-anthropic-governance-timing-exception-anthropic-proposes-a-p|ANTHROPIC GOVERNANCE TIMING EXCEPTION Anthropic proposes a public-benefit equity fund]]
 - `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-anthropic-asks-outs|AI wearables run into wiretap-law limits; Anthropic asks outsiders to weigh in on Claude's values]]
 - `2026-10-18` [[2026-10-18-ai-wearables-run-into-wiretap-law-limits-as-personal-agents|AI wearables run into wiretap-law limits as personal agents enter public space]]
 - `2026-10-17` [[2026-10-17-meta-revises-commercial-terms-after-ai-training-concerns|Meta revises commercial terms after AI-training concerns]]

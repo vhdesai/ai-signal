@@ -4,8 +4,8 @@ title: 'MobileGym: verifiable, parallel simulator for mobile GUI agents'
 date: '2026-05-26'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.26114
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: b4d6fc35a392d28af00aa6197ae8b569feac2806b1a47976715ea93e437fae36

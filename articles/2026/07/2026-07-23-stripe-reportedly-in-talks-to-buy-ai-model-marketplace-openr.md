@@ -4,8 +4,8 @@ title: Stripe reportedly in talks to buy AI-model marketplace OpenRouter
 date: '2026-07-23'
 source: WSJ
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/stripe-acquires-openrouter-7b-turning-091812340.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-25-daily-ai-news-digest.md
 content_hash: 4b2348984f66ed8f694a2848ad2f0949177f1667146df9ac6e98f914d6cfbc12
 normalized_title_hash: 94fbbe73ca67a4b9

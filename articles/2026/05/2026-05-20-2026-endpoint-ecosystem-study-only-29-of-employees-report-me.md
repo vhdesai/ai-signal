@@ -5,8 +5,8 @@ title: '2026 Endpoint Ecosystem Study: Only 29% of Employees Report Meaningful V
 date: '2026-05-20'
 source: Mobile Mentor / AiThority
 url_original: null
-url_canonical: https://www.mobile-mentor.com/insights/what-the-2026-endpoint-ecosystem-study-reveals-about-the-future-of-work/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b8e1f54d9aeecfe9b0b7be9e28ba466ac5b3c05592d77030b6255953ca8dc9a7

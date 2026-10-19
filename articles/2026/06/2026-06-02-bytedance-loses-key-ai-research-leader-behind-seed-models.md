@@ -4,8 +4,8 @@ title: ByteDance Loses Key AI Research Leader Behind Seed Models
 date: '2026-06-02'
 source: South China Morning Post
 url_original: null
-url_canonical: https://theneuralfeed.com/article/bytedance-s-head-of-foundational-ai-research-gu-quanquan-departs-amid-company-s-/kqHa4K0D
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-02_060023_Daily-AI-News-Digest.md
 content_hash: 5f1623fcb722259a63b07593d94feb3a3881dcddc17252b2812353c4d5a63182
 normalized_title_hash: cfdc879a69890e8e

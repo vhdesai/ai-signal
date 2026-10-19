@@ -5,8 +5,8 @@ title: 'Princeton "Shadow Evaluations": AI Agents Fail to Make Research Progress
 date: '2026-07-30'
 source: arXiv · TechTimes
 url_original: null
-url_canonical: https://www.techtimes.com/articles/322391/20260731/ai-agents-master-research-engineering-fail-open-ended-science-princeton.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: 9976c8b1ead1742b5b889f575a12df7243c59e02c8d3e149622f13dc6c552b59
 normalized_title_hash: 7fbc1ecdbe7b62c8

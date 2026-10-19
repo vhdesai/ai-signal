@@ -4,8 +4,8 @@ title: OpenAI briefs White House officials on GPT-Rosalind biodefense work
 date: '2026-05-29'
 source: Axios via Techmeme
 url_original: null
-url_canonical: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 75b71c6e0bf75ede7dacb44ce3b5a057ab43aabb37e69827fb1887650bcfdcf0

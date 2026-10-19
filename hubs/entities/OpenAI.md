@@ -1,18 +1,26 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2756
+member_count: 2764
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2756 connected article(s).
+> Auto-generated entity hub. 2764 connected article(s).
 
+- `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-openai-tests-three-aurora-image-models|OpenAI tests three Aurora image models]]
+- `2026-10-19` [[2026-10-19-openai-logs-four-more-rogue-agent-cases-two-critical|OpenAI logs four more rogue-agent cases, two critical]]
+- `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
+- `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-18` [[2026-10-18-eight-states-sue-openai-over-chatgpt-safety|Eight states sue OpenAI over ChatGPT safety]]
 - `2026-10-17` [[2026-10-17-replit-shifts-its-default-model-provider-to-openai|Replit shifts its default model provider to OpenAI]]
+- `2026-10-17` [[2026-10-17-industry-replit-makes-openai-its-default-over-anthropic|INDUSTRY Replit makes OpenAI its default over Anthropic]]
 - `2026-10-14` [[2026-10-14-openai-says-eu-s-next-ai-chapter-is-agentic|OpenAI says EU's next AI chapter is agentic]]
 - `2026-10-14` [[2026-10-14-new-anthropic-prepares-voting-information-and-election-resul|New Anthropic prepares voting information and election results for Claude]]
 - `2026-10-14` [[2026-10-14-eight-states-challenge-openai-s-safety-representations|Eight states challenge OpenAI’s safety representations]]

@@ -1,13 +1,18 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1826
+member_count: 1831
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1826 connected article(s).
+> Auto-generated topic hub. 1831 connected article(s).
 
+- `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
+- `2026-10-19` [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe|Microsoft pulls out of Nscale U.K. data-center deal over power-supply issues]]
+- `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge|CoreWeave's bonds yield around 15% as leveraged loans emerge for GPU-rich AI borrowers]]
+- `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
 - `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
 - `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]

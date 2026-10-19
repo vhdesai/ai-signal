@@ -5,8 +5,8 @@ title: Anthropic announced Claude Mythos Preview in late April — a model that 
 date: '2026-05-14'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.anthropic.com/research/mythos-preview
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_070737_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 998ef4d7e46a54dc64df113c0fbdd597110445a6563d43ef5cde705f642e7cd7

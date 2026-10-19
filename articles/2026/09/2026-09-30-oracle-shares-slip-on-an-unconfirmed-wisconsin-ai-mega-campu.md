@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena
 - 2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou
+- 2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain
 - 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c
-- 2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t
 embedding_id: 2026-09-30-oracle-shares-slip-on-an-unconfirmed-wisconsin-ai-mega-campu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Oracle stock slipped on an unconfirmed report of construction delays at the comp
 
 **Entities:** [[Oracle]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena]] · [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]] · [[2026-09-09-oracle-is-the-ai-hyperscaler-most-likely-to-blink-earnings-t]]
+**Related:** [[2026-10-08-oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-opena]] · [[2026-09-24-wsj-bloomberg-cracks-in-oracle-s-stargate-new-mexico-buildou]] · [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-09-24-michael-burry-warns-3t-of-off-balance-sheet-ai-commitments-c]]
 <!-- graph:end -->

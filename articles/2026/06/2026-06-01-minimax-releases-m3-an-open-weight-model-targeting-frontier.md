@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model
+- 2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15
 - 2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card
 - 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 - 2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 embedding_id: 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MiniMax launched M3, positioned as the first open-weight model to combine fronti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
+**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]] · [[2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-08-20-s1-mini-a-462-mb-open-weights-text-normalizer-for-cleaning-a]]
 <!-- graph:end -->

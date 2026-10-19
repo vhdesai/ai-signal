@@ -4,8 +4,8 @@ title: Anthropic Pursues Data Center Leases; Seeks Financial Backing from Google
 date: '2026-06-11'
 source: Reuters
 url_original: null
-url_canonical: https://economictimes.indiatimes.com/tech/technology/anthropic-pursues-data-center-leases-seeks-financial-backing-from-google/articleshow/131665992.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-13_160159_Final-Daily-AI-News-Digest.md
 content_hash: 93fb2378b4afdea4a016fedc17a2f30f6170d6c52ef31217c0c8e4ebf1cd49d7
 normalized_title_hash: c4df2dd5605d7ffa

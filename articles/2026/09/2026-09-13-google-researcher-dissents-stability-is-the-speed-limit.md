@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-20-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down
 - 2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu
+- 2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term
 - 2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real
-- 2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de
 embedding_id: 2026-09-13-google-researcher-dissents-stability-is-the-speed-limit
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The substantive pushback to the pacing consensus came from Google researcher Pey
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real]] · [[2026-09-15-trump-s-ai-team-confirms-weeks-of-openai-anthropic-google-de]]
+**Related:** [[2026-09-20-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-20-techcrunch-is-the-ai-industry-really-ready-to-slow-down]] · [[2026-09-12-dario-amodei-calls-for-an-industry-speed-limit-and-altman-mu]] · [[2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term]] · [[2026-09-20-techcrunch-ai-industry-remains-split-over-whether-it-is-real]]
 <!-- graph:end -->

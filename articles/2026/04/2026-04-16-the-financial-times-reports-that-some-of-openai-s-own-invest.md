@@ -5,8 +5,8 @@ title: The Financial Times reports that some of OpenAI's own investors are openl
 date: '2026-04-16'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.techtimes.com/articles/323952/20260811/openai-completes-7b-employee-buyback-holds-852b-value-investor-cash-not-earnings.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-16_075833_Inbox_Daily AI News Digest – April 16,
   2026.md
 content_hash: 38f9f90ec8b58f462a6b56b04e1795f6b1a6a27a47ba4e48319f676bff6becc5

@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun
 - 2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev
 - 2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before
 - 2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo
-- 2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute
+- 2026-10-19-anthropic-public-benefit-pledge-draws-market-debate
 embedding_id: 2026-10-18-anthropic-commits-5-of-shares-to-new-public-benefit-fund
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic announced that, subject to stockholder approval, it will commit 5% of 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev]] · [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo]] · [[2026-09-19-anthropic-considers-releasing-a-new-model-ahead-of-ipo-reute]]
+**Related:** [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun]] · [[2026-09-18-anthropic-names-accenture-as-its-first-embedded-ai-safety-ev]] · [[2026-10-18-anthropic-commits-5-stake-to-new-public-benefit-fund-before]] · [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo]] · [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate]]
 <!-- graph:end -->

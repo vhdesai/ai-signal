@@ -4,8 +4,8 @@ title: New York school district pauses humanoid "robot teacher" after state push
 date: '2026-07-26'
 source: Newsmax
 url_original: https://www.newsmax.com/newsfront/salamanca-city-central-school-district-realbotix-ai/2026/07/26/id/1264064/
-url_canonical: https://www.nbcnewyork.com/news/tech/new-york-school-pauses-plan-to-deploy-humanlike-ai-robot-teacher-after-backlash/6531231/
-url_status: repaired
+url_canonical: https://www.newsmax.com/newsfront/salamanca-city-central-school-district-realbotix-ai/2026/07/26/id/1264064/
+url_status: broken
 digest_source: digests\raw\2026-07-26_062744_Inbox_Daily AI News Digest - July 26,
   2026.md
 content_hash: c1ada5618d397db4f316d4f442412b9bbe94dfd5e8f2cba74bc1dd750a2ac10d

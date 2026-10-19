@@ -4,8 +4,8 @@ title: MIT Students Connect Research Priorities to Capitol Hill Policy
 date: '2026-07-30'
 source: MIT News
 url_original: null
-url_canonical: https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-07-31_090003_Final-Daily-AI-News-Digest.md
 content_hash: cf8807daffaceb574a322a084b2ab12e772c66856900f36e19e9211bf00186bc
 normalized_title_hash: 32cc2f775e85906f

@@ -5,8 +5,8 @@ title: Politico published a deep investigation into the integration of AI into n
 date: '2026-06-21'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://www.gat.report/71935/ais-unchecked-role-in-u-s-nuclear-command-risks-global-catastrophe/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-06-21-daily-ai-news-digest.md
 content_hash: c563e6ff6067ba46974252452bfe0b957ef88bb704046f5137cb4ad9c25f70c8
 normalized_title_hash: f5e5804a28e63cf4

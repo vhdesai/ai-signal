@@ -5,8 +5,8 @@ title: xAI's Grok V9-Medium finishes training at 1.5T parameters, targets mid-Ju
 date: '2026-05-28'
 source: Tech Times
 url_original: null
-url_canonical: https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_075712_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: a85554d8c506d9db1a2986b8b66c0ec3d2676350d776f549102dd4cb3b5a5cca
