@@ -1,18 +1,29 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1831
+member_count: 1842
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1831 connected article(s).
+> Auto-generated topic hub. 1842 connected article(s).
 
+- `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
+- `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-19` [[2026-10-19-october-20-2026-the-information|[October 20, 2026] · The Information]]
+- `2026-10-19` [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation|Tenstorrent raises $1.5 billion at a $6.2 billion valuation]]
 - `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
+- `2026-10-19` [[2026-10-19-nscale-anthropic-in-talks-for-45-billion-cloud-computing-dea|Nscale, Anthropic in talks for $45 billion cloud computing deal]]
 - `2026-10-19` [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe|Microsoft pulls out of Nscale U.K. data-center deal over power-supply issues]]
 - `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-financing-capacityai-compute-commitments-meet-a-harder-finan|FINANCING CAPACITYAI compute commitments meet a harder financing test]]
 - `2026-10-19` [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge|CoreWeave's bonds yield around 15% as leveraged loans emerge for GPU-rich AI borrowers]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-anthropic-and-nscale-reportedly-discuss-another-45-billion-c|Anthropic and Nscale reportedly discuss another $45 billion compute deal]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t|AWS releases TorchNeuron to simplify PyTorch deployment on Trainium]]
 - `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]
 - `2026-10-18` [[2026-10-18-microsoft-pulls-out-of-u-k-s-largest-ai-data-center-deal-wit|Microsoft pulls out of U.K.'s largest AI data-center deal with Nscale over power constraints]]
 - `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]

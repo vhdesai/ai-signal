@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
+- 2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 embedding_id: 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Zhipu AI GLM-5.1 Tops SWE-Bench Pro at 58.4% — No Nvidia Hardware Zhipu AI's G
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]]
+**Related:** [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

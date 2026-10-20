@@ -1,16 +1,27 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1304
+member_count: 1315
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1304 connected article(s).
+> Auto-generated topic hub. 1315 connected article(s).
 
+- `2026-10-20` [[2026-10-20-october-19-2026-dealbook|[October 19, 2026] · DealBook]]
+- `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
+- `2026-10-20` [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45|FUNDING PHYSICAL AIEka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-arda-industries-emerges-with-232-million-for-manufacturing-a|Arda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
+- `2026-10-19` [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation|Tenstorrent raises $1.5 billion at a $6.2 billion valuation]]
 - `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
 - `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-fundingworkplace-agentstown-raises-108-million-as-workplace|FUNDINGWORKPLACE AGENTSTown raises $108 million as workplace agents move toward collaboration]]
 - `2026-10-19` [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate|Anthropic public-benefit pledge draws market debate]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-18` [[2026-10-18-industry-anthropic-commits-5-of-shares-to-public-benefit-fun|INDUSTRY Anthropic commits 5% of shares to public-benefit fund]]
 - `2026-10-18` [[2026-10-18-anthropic-commits-5-stake-to-public-benefit-fund-before-ipo|Anthropic commits 5% stake to public-benefit fund before IPO]]

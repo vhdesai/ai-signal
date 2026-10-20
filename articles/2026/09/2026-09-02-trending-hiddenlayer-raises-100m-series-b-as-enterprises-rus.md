@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure
-- 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 embedding_id: 2026-09-02-trending-hiddenlayer-raises-100m-series-b-as-enterprises-rus
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI-security startup HiddenLayer closed a $100M Series B led by Delta-v Capital, 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
+**Related:** [[2026-09-11-jeff-dean-s-stealth-ai-startup-reportedly-raising-at-50b-val]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-22-glow-emerges-from-stealth-at-1-2-billion-valuation-to-secure]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-- 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 embedding_id: 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA researchers introduced Nemotron-Labs-Diffusion, a model family unifying t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]]
+**Related:** [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
 <!-- graph:end -->

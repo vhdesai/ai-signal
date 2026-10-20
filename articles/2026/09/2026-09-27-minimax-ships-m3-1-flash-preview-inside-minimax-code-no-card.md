@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15
 - 2026-10-19-minimax-launch-vendor-claims-minimax-positions-m3-1-flash-ar
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-10-19-minimax-m3-1-flash-sharpens-china-s-low-cost-model-competiti
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 embedding_id: 2026-09-27-minimax-ships-m3-1-flash-preview-inside-minimax-code-no-card
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MiniMax confirmed on September 27 that M3.1-Flash-Preview is live in its MiniMax
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]] · [[2026-10-19-minimax-launch-vendor-claims-minimax-positions-m3-1-flash-ar]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]]
+**Related:** [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15]] · [[2026-10-19-minimax-launch-vendor-claims-minimax-positions-m3-1-flash-ar]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-10-19-minimax-m3-1-flash-sharpens-china-s-low-cost-model-competiti]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
 <!-- graph:end -->

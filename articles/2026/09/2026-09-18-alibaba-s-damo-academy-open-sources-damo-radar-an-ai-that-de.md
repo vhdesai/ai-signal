@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo
+- 2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s
-- 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
 embedding_id: 2026-09-18-alibaba-s-damo-academy-open-sources-damo-radar-an-ai-that-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's research arm open-sourced Damo Radar, a vision-language model that rea
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]] · [[2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva]]
+**Related:** [[2026-09-19-alibaba-damo-academy-open-sources-damo-radar-abdominal-ct-fo]] · [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-09-05-ai-model-flags-colorectal-cancer-on-routine-noncontrast-ct-s]]
 <!-- graph:end -->

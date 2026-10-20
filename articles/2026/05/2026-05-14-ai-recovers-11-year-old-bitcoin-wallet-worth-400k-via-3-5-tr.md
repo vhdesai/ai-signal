@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection
 - 2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred
 - 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 embedding_id: 2026-05-14-ai-recovers-11-year-old-bitcoin-wallet-worth-400k-via-3-5-tr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An AI system successfully recovered an 11-year-old Bitcoin wallet containing app
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop]] · [[2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
+**Related:** [[2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop]] · [[2026-07-14-softbank-says-ai-could-require-5t-a-year-by-2040-reflection]] · [[2026-08-12-researchers-recover-encrypted-reasoning-traces-and-live-cred]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]]
 <!-- graph:end -->

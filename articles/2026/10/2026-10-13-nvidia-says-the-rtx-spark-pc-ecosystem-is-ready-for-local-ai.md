@@ -26,9 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi
+- 2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
-- 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 embedding_id: 2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai
 event_name: ''
 ---
@@ -42,5 +42,5 @@ NVIDIA detailed the software ecosystem around RTX Spark ahead of laptop availabi
 
 **Entities:** [[NVIDIA]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]]
+**Related:** [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi]] · [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
 <!-- graph:end -->

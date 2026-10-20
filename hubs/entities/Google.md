@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1660
+member_count: 1662
 ---
 
 # Google
 
-> Auto-generated entity hub. 1660 connected article(s).
+> Auto-generated entity hub. 1662 connected article(s).
 
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an|German court ruling adds to legal pressure over Google AI answers]]
 - `2026-10-19` [[2026-10-19-goto-google-gemma-regional-ai-goto-releases-a-27b-indonesian|GOTO GOOGLE GEMMA REGIONAL AI GoTo releases a 27B Indonesian-language model]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]

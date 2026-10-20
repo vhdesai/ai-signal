@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 - 2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba
-- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 embedding_id: 2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Velocity raised $27 million in seed funding led by NFX and Red Dot Capital Partn
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
+**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-16-nvidia-s-500b-vendor-financing-draws-investor-scrutiny-as-ba]]
 <!-- graph:end -->

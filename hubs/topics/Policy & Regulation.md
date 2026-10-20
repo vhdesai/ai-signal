@@ -1,17 +1,34 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2276
+member_count: 2293
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2276 connected article(s).
+> Auto-generated topic hub. 2293 connected article(s).
 
+- `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
+- `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]
+- `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
+- `2026-10-20` [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee|POLICY GOVERNMENTU.S. federal agencies told to remove DeepSeek from their systems]]
+- `2026-10-20` [[2026-10-20-partnership-healthcareastrazeneca-and-oracle-partner-on-ai-e|PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinical research]]
+- `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
+- `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
+- `2026-10-19` [[2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis|Why teaching AI about symmetry could make prenatal diagnosis more reliable]]
 - `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]
+- `2026-10-19` [[2026-10-19-safety-governancealtman-outlines-three-possible-endgames-for|SAFETY GOVERNANCEAltman outlines three possible endgames for AI development]]
+- `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]
 - `2026-10-19` [[2026-10-19-pentagon-official-vows-export-controls-if-ai-labs-do-not-coo|Pentagon official vows export controls if AI labs do not cooperate with government]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-opencode-console-breach-exposes-keys-and-triggers-unauthoriz|OpenCode Console breach exposes keys and triggers unauthorized AI charges]]
+- `2026-10-19` [[2026-10-19-opencode-console-breach-exposed-some-users-stored-api-keys|OpenCode Console breach exposed some users’ stored API keys]]
 - `2026-10-19` [[2026-10-19-openai-logs-four-more-rogue-agent-cases-two-critical|OpenAI logs four more rogue-agent cases, two critical]]
+- `2026-10-19` [[2026-10-19-mit-and-collaborators-use-symmetry-aware-ai-to-improve-fetal|MIT and collaborators use symmetry-aware AI to improve fetal MRI reconstruction]]
+- `2026-10-19` [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an|German court ruling adds to legal pressure over Google AI answers]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
 - `2026-10-18` [[2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai|POLICY German courts increasingly hold Google liable for AI Overview outputs]]
 - `2026-10-18` [[2026-10-18-mit-model-gives-ai-a-3d-view-of-crystalline-materials|MIT model gives AI a 3D view of crystalline materials]]
 - `2026-10-18` [[2026-10-18-meta-anthropic-agent-governance-meta-links-erroneous-instagr|META ANTHROPIC AGENT GOVERNANCE Meta links erroneous Instagram suspension to Claude-associated activity]]

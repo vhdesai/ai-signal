@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-10-20-october-19-2026-cio-dive
 - 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
-- 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
-- 2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency
+- 2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre
 embedding_id: 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive's Sept. 16 issue surfaces new Gartner research finding fewer than 1% of
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency]]
+**Related:** [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre]]
 <!-- graph:end -->

@@ -1,19 +1,47 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2213
+member_count: 2242
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2213 connected article(s).
+> Auto-generated topic hub. 2242 connected article(s).
 
+- `2026-10-20` [[2026-10-20-yelp-adds-a-voice-agent-that-calls-restaurants-to-check-wait|Yelp adds a voice agent that calls restaurants to check wait times]]
+- `2026-10-20` [[2026-10-20-yelp-adds-ai-calls-to-check-restaurant-wait-times|Yelp adds AI calls to check restaurant wait times]]
+- `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
+- `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
+- `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
+- `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-cloudflare-previews-clairic-a-model-for-structured-document|Cloudflare previews Clairic, a model for structured document extraction]]
+- `2026-10-20` [[2026-10-20-china-launches-state-owned-company-to-develop-national-ai-da|China launches state-owned company to develop national AI data resources]]
+- `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
+- `2026-10-19` [[2026-10-19-october-20-2026-the-information|[October 20, 2026] · The Information]]
+- `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
+- `2026-10-19` [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation|Tenstorrent raises $1.5 billion at a $6.2 billion valuation]]
 - `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]
+- `2026-10-19` [[2026-10-19-scale-capacitymeta-says-its-prometheus-supercluster-has-reac|SCALE CAPACITYMeta says its Prometheus supercluster has reached its first phase]]
+- `2026-10-19` [[2026-10-19-safety-governancealtman-outlines-three-possible-endgames-for|SAFETY GOVERNANCEAltman outlines three possible endgames for AI development]]
+- `2026-10-19` [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo|Nvidia releases Nemotron models for enterprise agents and local AI PCs]]
+- `2026-10-19` [[2026-10-19-nscale-anthropic-in-talks-for-45-billion-cloud-computing-dea|Nscale, Anthropic in talks for $45 billion cloud computing deal]]
+- `2026-10-19` [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub|NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production]]
 - `2026-10-19` [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe|Microsoft pulls out of Nscale U.K. data-center deal over power-supply issues]]
+- `2026-10-19` [[2026-10-19-launchvendor-benchmarksinception-launches-mercury-3-with-mil|LAUNCHVENDOR BENCHMARKSInception launches Mercury 3 with million-token context]]
+- `2026-10-19` [[2026-10-19-inside-prometheus-meta-s-journey-to-a-gigawatt-scale-supercl|Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster]]
+- `2026-10-19` [[2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps|INFRASTRUCTUREAWS introduces TorchNeuron to run PyTorch apps on Trainium]]
 - `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-financing-capacityai-compute-commitments-meet-a-harder-finan|FINANCING CAPACITYAI compute commitments meet a harder financing test]]
+- `2026-10-19` [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors|DeepSeek is helping shape Huawei's future AI processors]]
 - `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
 - `2026-10-19` [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge|CoreWeave's bonds yield around 15% as leveraged loans emerge for GPU-rich AI borrowers]]
+- `2026-10-19` [[2026-10-19-cloudflare-previews-clairic-a-typed-extraction-model-for-wor|Cloudflare previews Clairic, a typed extraction model for Workers AI]]
+- `2026-10-19` [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai|CHIP DESIGNCHINADeepSeek is helping shape Huawei's future AI processors]]
+- `2026-10-19` [[2026-10-19-anthropic-and-nscale-reportedly-discuss-another-45-billion-c|Anthropic and Nscale reportedly discuss another $45 billion compute deal]]
+- `2026-10-19` [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t|AWS releases TorchNeuron to simplify PyTorch deployment on Trainium]]
 - `2026-10-18` [[2026-10-18-taste-bench-shows-agents-still-make-poor-long-term-strategic|Taste-Bench shows agents still make poor long-term strategic choices]]
 - `2026-10-18` [[2026-10-18-nvidia-enters-correction-as-ai-bubble-index-jumps|Nvidia enters correction as AI bubble index jumps]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
@@ -22,6 +50,7 @@ member_count: 2213
 - `2026-10-18` [[2026-10-18-infra-cxmt-shares-fall-despite-blockbuster-earnings-and-plan|INFRA CXMT shares fall despite blockbuster earnings and planned buyback]]
 - `2026-10-18` [[2026-10-18-enterprises-adopting-ai-agents-discover-they-now-manage-digi|Enterprises adopting AI agents discover they now manage digital workers]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
+- `2026-10-18` [[2026-10-18-daily-ai-news-digest-october-20-2026|Daily AI News Digest – October 20, 2026]]
 - `2026-10-18` [[2026-10-18-agent-refund-experiment-shows-agentic-flooding-risk-in-every|Agent refund experiment shows "agentic flooding" risk in everyday disputes]]
 - `2026-10-17` [[2026-10-17-nvidia-rtx-spark-laptops-arrive-with-local-ai-compute-positi|NVIDIA RTX Spark laptops arrive with local AI compute positioned for agents and creators]]
 - `2026-10-17` [[2026-10-17-daily-ai-news-digest-october-18-2026|Daily AI News Digest – October 18, 2026]]

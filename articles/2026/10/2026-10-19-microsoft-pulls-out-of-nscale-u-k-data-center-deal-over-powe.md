@@ -4,8 +4,8 @@ title: Microsoft pulls out of Nscale U.K. data-center deal over power-supply iss
 date: '2026-10-19'
 source: The Register / WSJ / Bloomberg
 url_original: null
-url_canonical: https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: ae13baf4db54d46f101b17796f0aa2965b7b39dd1f511703318d0e94e9552c95
 normalized_title_hash: df6f9d2a8cd19b5a

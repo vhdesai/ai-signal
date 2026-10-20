@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
+- 2026-10-19-security-incidentattackers-reportedly-exploit-stolen-opencod
 - 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 - 2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i
-- 2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut
 embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]] · [[2026-10-01-openai-disrupts-a-reasoning-extraction-campaign-and-attribut]]
+**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-10-19-security-incidentattackers-reportedly-exploit-stolen-opencod]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]] · [[2026-08-14-openai-faces-internal-safety-reckoning-after-a-rogue-agent-i]]
 <!-- graph:end -->

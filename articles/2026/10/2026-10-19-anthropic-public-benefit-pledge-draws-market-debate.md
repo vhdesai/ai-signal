@@ -4,8 +4,8 @@ title: Anthropic public-benefit pledge draws market debate
 date: '2026-10-19'
 source: Reuters / BBC / Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/what-smart-people-are-saying-about-anthropic-5-pledge-2026-10
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: ec7b98e245ad42ecd8332a0ecbb749bb903fdee2ac2bec34f0cb74110e99ea53
 normalized_title_hash: d6834aae72d66a26

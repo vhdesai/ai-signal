@@ -4,8 +4,8 @@ title: INDUSTRY Stripe says AI-agent purchases are adding up, but won't disclose
 date: '2026-10-19'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_131850_Inbox_Daily AI News Digest – October
   19, 2026.md
 content_hash: 21c08ce407ccd0c38dbde1302cee40a91866b714a146fbcf4aa0aa3c44a03013

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis
 - 2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push
+- 2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati
-- 2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round
 embedding_id: 2026-07-22-travis-kalanick-s-atoms-raises-1-7-billion-for-industrial-ro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reports that Travis Kalanick's robotics company Atoms raised $1.7 bil
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]]
-**Related:** [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]] · [[2026-06-11-jeff-bezos-s-prometheus-raises-12b-largest-ai-startup-round]]
+**Related:** [[2026-09-06-travis-kalanick-s-atoms-is-reportedly-moving-into-robotaxis]] · [[2026-09-06-travis-kalanick-s-atoms-reportedly-preparing-a-robotaxi-push]] · [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45]] · [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-post-money-valuati]]
 <!-- graph:end -->

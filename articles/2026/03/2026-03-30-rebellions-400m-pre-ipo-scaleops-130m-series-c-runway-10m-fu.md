@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 - 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-- 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 embedding_id: 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 event_name: ''
 ---
@@ -44,5 +44,5 @@ South Korean AI chip startup Rebellions raised $400M pre-IPO ($850M total), laun
 
 **Entities:** [[Adobe]] · [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte]]
+**Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]]
 <!-- graph:end -->

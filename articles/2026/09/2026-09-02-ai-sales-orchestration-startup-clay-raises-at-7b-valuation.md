@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation
-- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo
 embedding_id: 2026-09-02-ai-sales-orchestration-startup-clay-raises-at-7b-valuation
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Clay, the New York-based developer of AI-driven sales and marketing software, is
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]] · [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-after-jane-street-ai-clo]]
+**Related:** [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-09-03-crusoe-reportedly-raises-3-billion-at-a-30-billion-valuation]]
 <!-- graph:end -->

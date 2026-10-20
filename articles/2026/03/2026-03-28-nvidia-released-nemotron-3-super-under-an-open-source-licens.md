@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
-- 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
+- 2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for
 embedding_id: 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Nvidia released Nemotron 3 Super under an open-source license, expanding its ent
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]]
+**Related:** [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for]]
 <!-- graph:end -->

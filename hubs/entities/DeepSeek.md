@@ -1,16 +1,28 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 545
+member_count: 557
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 545 connected article(s).
+> Auto-generated entity hub. 557 connected article(s).
 
+- `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
+- `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
+- `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]
+- `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
+- `2026-10-20` [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee|POLICY GOVERNMENTU.S. federal agencies told to remove DeepSeek from their systems]]
+- `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
+- `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
 - `2026-10-19` [[2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices|DeepSeek releases V4.1-Flash-1017 without raising API prices]]
+- `2026-10-19` [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors|DeepSeek is helping shape Huawei's future AI processors]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai|CHIP DESIGNCHINADeepSeek is helping shape Huawei's future AI processors]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]
 - `2026-10-18` [[2026-10-18-deepseek-rolls-out-faster-leaner-model-and-prices-agent-retr|DeepSeek rolls out faster, leaner model and prices agent retrieval below rivals]]

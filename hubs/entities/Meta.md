@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 917
+member_count: 921
 ---
 
 # Meta
 
-> Auto-generated entity hub. 917 connected article(s).
+> Auto-generated entity hub. 921 connected article(s).
 
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
+- `2026-10-19` [[2026-10-19-scale-capacitymeta-says-its-prometheus-supercluster-has-reac|SCALE CAPACITYMeta says its Prometheus supercluster has reached its first phase]]
+- `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]
+- `2026-10-19` [[2026-10-19-inside-prometheus-meta-s-journey-to-a-gigawatt-scale-supercl|Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]

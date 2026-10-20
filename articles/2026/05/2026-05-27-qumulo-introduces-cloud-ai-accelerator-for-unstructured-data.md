@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge
+- 2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors
 - 2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for
+- 2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai
 - 2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform
-- 2026-08-04-runware-launches-a-modular-inference-data-center-pod
-- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 embedding_id: 2026-05-27-qumulo-introduces-cloud-ai-accelerator-for-unstructured-data
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Qumulo announced a Cloud AI Accelerator service that connects its unstructured-d
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]] · [[2026-08-04-runware-launches-a-modular-inference-data-center-pod]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
+**Related:** [[2026-09-24-microsoft-research-finds-offloading-robot-inference-to-edge]] · [[2026-10-19-deepseek-is-helping-shape-huawei-s-future-ai-processors]] · [[2026-08-25-meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-for]] · [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai]] · [[2026-07-16-nokia-and-nvidia-unveil-first-commercial-ai-ran-platform]]
 <!-- graph:end -->

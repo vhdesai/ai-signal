@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45
 embedding_id: 2026-10-08-ai-leaderboard-arena-nearly-doubles-to-3-1b-valuation
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Arena raised $200M led by Lightspeed and Khosla, nearly doubling its valuation t
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-10-08-arena-raises-200-million-at-a-3-1-billion-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45]]
 <!-- graph:end -->

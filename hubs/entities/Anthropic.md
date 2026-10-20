@@ -1,17 +1,21 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2430
+member_count: 2434
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2430 connected article(s).
+> Auto-generated entity hub. 2434 connected article(s).
 
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
+- `2026-10-19` [[2026-10-19-nscale-anthropic-in-talks-for-45-billion-cloud-computing-dea|Nscale, Anthropic in talks for $45 billion cloud computing deal]]
 - `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
+- `2026-10-19` [[2026-10-19-financing-capacityai-compute-commitments-meet-a-harder-finan|FINANCING CAPACITYAI compute commitments meet a harder financing test]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-19` [[2026-10-19-anthropic-public-benefit-pledge-draws-market-debate|Anthropic public-benefit pledge draws market debate]]
+- `2026-10-19` [[2026-10-19-anthropic-and-nscale-reportedly-discuss-another-45-billion-c|Anthropic and Nscale reportedly discuss another $45 billion compute deal]]
 - `2026-10-18` [[2026-10-18-product-policy-anthropic-consults-law-firms-on-negotiation-n|PRODUCT POLICY Anthropic consults law firms on negotiation norms for AI agents]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-mit-researchers-improve-weather-forecasts-two-to-six-weeks-o|MIT researchers improve weather forecasts two to six weeks out]]

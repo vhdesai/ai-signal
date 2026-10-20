@@ -1,19 +1,25 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2764
+member_count: 2770
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2764 connected article(s).
+> Auto-generated entity hub. 2770 connected article(s).
 
+- `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-arda-industries-emerges-with-232-million-for-manufacturing-a|Arda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
+- `2026-10-19` [[2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata|RESEARCH HEALTHCARESymmetry-aware AI aims to improve prenatal MRI analysis]]
+- `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
 - `2026-10-19` [[2026-10-19-openai-tests-three-aurora-image-models|OpenAI tests three Aurora image models]]
 - `2026-10-19` [[2026-10-19-openai-logs-four-more-rogue-agent-cases-two-critical|OpenAI logs four more rogue-agent cases, two critical]]
 - `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
 - `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-advancing-coding-in-low-resource-programming-languages|Advancing coding in low-resource programming languages]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-modern-ghana-carried-criticism-that-openai-s-math-proof-rele|Modern Ghana carried criticism that OpenAI’s math-proof release strategy is “destroying” early careers by flooding the field with outputs that require expert verification. The complaint echoes broader concerns from mathematicians about AI-generated proof dumps, review burden, and credit assignment. AI-assisted science is powerful, but publication norms are not yet prepared for model-scale output.]]
 - `2026-10-18` [[2026-10-18-meta-and-apple-reportedly-team-on-an-open-source-ai-model|Meta and Apple reportedly team on an open-source AI model]]

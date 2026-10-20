@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
 - 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
+- 2026-10-19-october-20-2026-the-information
 - 2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge
 - 2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu
-- 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
-- 2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875
 embedding_id: 2026-10-14-coreweave-selloff-highlights-the-financing-risk-of-ai-expans
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CoreWeave shares fell 15.5% as bond yields approached 15%, exposing concern over
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-09-19-coreweave-prices-3-7b-convertible-bond-coupon-jumps-to-2-875]]
+**Related:** [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-10-19-october-20-2026-the-information]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]] · [[2026-08-12-cerebras-raises-guidance-but-stock-falls-14-coreweave-revenu]]
 <!-- graph:end -->

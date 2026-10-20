@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per
-- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
+- 2026-10-20-october-19-2026-cio-dive
 embedding_id: 2026-08-21-only-1-in-5-organizations-prepared-to-move-toward-autonomous
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Deloitte finds that only 20% of organizations are prepared to move toward autono
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Company Investments]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
+**Related:** [[2026-08-21-only-1-in-5-organizations-ready-for-autonomous-ai-agents-del]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-08-13-enterprise-ai-adoption-stalls-legacy-it-and-agentic-gaps-per]] · [[2026-10-20-october-19-2026-cio-dive]]
 <!-- graph:end -->

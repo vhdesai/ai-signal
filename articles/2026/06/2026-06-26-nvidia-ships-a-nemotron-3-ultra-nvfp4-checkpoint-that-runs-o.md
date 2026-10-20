@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 - 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
 - 2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt
 - 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
-- 2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter
 embedding_id: 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA detailed how it quantized its 550B-parameter Nemotron 3 Ultra to the 4-bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]] · [[2026-09-27-nvidia-releases-nemotron-3-diarization-a-free-100m-parameter]]
+**Related:** [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-07-17-nvidia-releases-nemotron-3-embed-8b-checkpoint-ranks-1-on-rt]] · [[2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open]]
 <!-- graph:end -->

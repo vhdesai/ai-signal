@@ -4,8 +4,8 @@ title: U.S. moves to ban DeepSeek from government agency IT systems
 date: '2026-10-19'
 source: Reuters
 url_original: null
-url_canonical: https://www.straitstimes.com/world/united-states/us-banning-chinese-ai-deepseek-from-government-agency-it-systems
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: a620ec4d09dfa90e2bdc62e327a2aa880ae7d881b21842fc64f83435c3e3df7a
 normalized_title_hash: 7455ac330769baf4
@@ -22,9 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee
+- 2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems
 - 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
 - 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
-- 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 embedding_id: 2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Reuters reports the U.S. is banning Chinese AI model DeepSeek from government ag
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]]
+**Related:** [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee]] · [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems]] · [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]]
 <!-- graph:end -->

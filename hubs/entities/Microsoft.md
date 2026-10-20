@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 1055
+member_count: 1063
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 1055 connected article(s).
+> Auto-generated entity hub. 1063 connected article(s).
 
+- `2026-10-19` [[2026-10-19-securitymicrosoft-adds-guardian-agents-to-monitor-enterprise|SECURITYMicrosoft adds Guardian Agents to monitor enterprise AI agents]]
+- `2026-10-19` [[2026-10-19-newagent-securitymicrosoft-adds-guardian-agents-and-agent-di|NEWAGENT SECURITYMicrosoft adds Guardian Agents and agent discovery to enterprise security]]
 - `2026-10-19` [[2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen|Microsoft, Xnode and Sumsub add control planes for rogue agents and agent identity]]
+- `2026-10-19` [[2026-10-19-microsoft-warns-enterprises-to-treat-ai-agents-like-insider|Microsoft warns enterprises to treat AI agents like insider threats]]
+- `2026-10-19` [[2026-10-19-microsoft-says-ai-agents-are-like-insider-threats-as-frontie|Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’]]
 - `2026-10-19` [[2026-10-19-microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-powe|Microsoft pulls out of Nscale U.K. data-center deal over power-supply issues]]
+- `2026-10-19` [[2026-10-19-microsoft-introduces-guardian-agents-to-monitor-enterprise-a|Microsoft introduces Guardian Agents to monitor enterprise AI agents as potential insider risks]]
+- `2026-10-19` [[2026-10-19-microsoft-adds-guardian-agents-and-agent-discovery-to-enterp|Microsoft adds Guardian Agents and agent discovery to enterprise security]]
 - `2026-10-19` [[2026-10-19-infra-neocloud-shakeout-looms-with-nvidia-exposed-to-non-hyp|INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler demand]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
 - `2026-10-18` [[2026-10-18-power-constraints-disrupt-microsoft-s-nscale-essex-project|Power constraints disrupt Microsoft's Nscale Essex project]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-18` [[2026-10-18-microsoft-reportedly-exits-u-k-nscale-ai-data-center-deal-ov|Microsoft reportedly exits U.K. Nscale AI data-center deal over power constraints]]

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
 - 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
+- 2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model
 - 2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents
 - 2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s
-- 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 embedding_id: 2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cloudflare's Clef models return probabilities over predefined answers. Hosted an
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]]
+**Related:** [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images]] · [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model]] · [[2026-08-07-cloudflare-launches-kitesurf-a-browser-built-for-ai-agents]] · [[2026-08-25-liquid-ai-open-sources-pipette-a-reproducible-benchmarking-s]]
 <!-- graph:end -->

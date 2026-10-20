@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 26
+member_count: 27
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 26 connected article(s).
+> Auto-generated entity hub. 27 connected article(s).
 
+- `2026-10-19` [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub|NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production]]
 - `2026-09-28` [[2026-09-28-adobe-forecasts-130-increase-in-ai-assisted-shopping-this-ho|Adobe Forecasts 130% Increase in AI-Assisted Shopping This Holiday Season]]
 - `2026-09-09` [[2026-09-09-the-information-openai-blocks-adobe-and-others-from-advertis|The Information: OpenAI blocks Adobe and others from advertising competing AI in ChatGPT]]
 - `2026-09-09` [[2026-09-09-openai-cuts-off-adobe-and-others-from-advertising-competing|OpenAI Cuts Off Adobe and Others From Advertising Competing AI Products in ChatGPT]]

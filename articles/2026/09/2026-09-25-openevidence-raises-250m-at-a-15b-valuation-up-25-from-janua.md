@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c
 - 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-- 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 embedding_id: 2026-09-25-openevidence-raises-250m-at-a-15b-valuation-up-25-from-janua
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenEvidence, the clinical search engine used daily by more than 40% of US physi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]]
+**Related:** [[2026-09-24-openevidence-raises-250m-at-a-15b-valuation-as-clinical-ai-c]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]]
 <!-- graph:end -->

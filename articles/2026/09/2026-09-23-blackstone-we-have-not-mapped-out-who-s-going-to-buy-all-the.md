@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
+- 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
-- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-09-23-blackstone-we-have-not-mapped-out-who-s-going-to-buy-all-the
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Jas Khaira, who heads Blackstone's AI-focused investment team, said the firm has
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]] · [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
+**Related:** [[2026-09-24-blackstone-s-ai-investment-lead-we-have-not-mapped-out-who-s]] · [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]]
 <!-- graph:end -->

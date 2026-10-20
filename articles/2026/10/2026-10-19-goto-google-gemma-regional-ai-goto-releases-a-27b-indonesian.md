@@ -4,8 +4,8 @@ title: GOTO GOOGLE GEMMA REGIONAL AI GoTo releases a 27B Indonesian-language mod
 date: '2026-10-19'
 source: TNGlobal
 url_original: null
-url_canonical: https://technode.global/2026/10/19/goto-releases-27b-indonesian-language-model/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_131907_Inbox_Daily AI News Digest – October
   19, 2026.md
 content_hash: 9c181a00cb37880b64154a50382874f993f9e9646d7f215aeedb63a313ddf19a

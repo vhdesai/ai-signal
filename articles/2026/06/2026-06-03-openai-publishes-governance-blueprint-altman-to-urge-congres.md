@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
+- 2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
-- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
 embedding_id: 2026-06-03-openai-publishes-governance-blueprint-altman-to-urge-congres
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published "A Blueprint for Democratic Governance of Frontier AI," proposi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]]
+**Related:** [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
 <!-- graph:end -->

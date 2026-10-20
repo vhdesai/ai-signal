@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 - 2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave
+- 2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 embedding_id: 2026-10-01-deepseek-huawei-open-source-six-ascend-dev-tools-headlined-b
 event_name: ''
@@ -42,5 +43,5 @@ DeepSeek and Huawei released six open-source AI development tools for the Ascend
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]]
+**Related:** [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-08-following-the-april-24-release-of-deepseek-v4-preview-a-wave]] · [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]]
 <!-- graph:end -->

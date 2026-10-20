@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 - 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 - 2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee
-- 2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took
 embedding_id: 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Notable AI funding from this week: Rebellions (Korean AI chip) raised $400M pre-
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]] · [[2026-08-11-ai-startups-raised-407b-in-h1-2026-openai-and-anthropic-took]]
+**Related:** [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-21-nvidia-in-talks-with-korean-inference-chip-designer-rebellio]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-10-07-ai-infrastructure-financing-accelerates-spacex-seeks-40b-dee]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with
 - 2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
+- 2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
-- 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 embedding_id: 2026-07-16-eu-tells-google-to-open-android-and-search-data-to-ai-rivals
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuters reports that EU-mandated changes require Google to open Android and sear
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]]
+**Related:** [[2026-07-16-eu-orders-google-to-open-android-and-share-search-data-with]] · [[2026-09-29-google-appeals-eu-dma-orders-on-android-ai-assistants-and-se]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]]
 <!-- graph:end -->

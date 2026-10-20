@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch
 - 2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after
 - 2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u
+- 2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome
 - 2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo
 embedding_id: 2026-10-13-character-ai-files-for-chapter-11-after-legal-regulatory-and
 event_name: ''
@@ -40,5 +41,5 @@ Character.AI filed for Chapter 11 bankruptcy only five years after launch, listi
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo]]
+**Related:** [[2026-10-13-character-ai-files-for-bankruptcy-five-years-after-launch]] · [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after]] · [[2026-10-13-character-ai-enters-chapter-11-platform-continuity-remains-u]] · [[2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome]] · [[2026-10-18-industry-disney-agrees-to-hire-most-of-character-ai-s-workfo]]
 <!-- graph:end -->

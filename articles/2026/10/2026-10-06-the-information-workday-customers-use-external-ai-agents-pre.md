@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic
 - 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
+- 2026-10-19-microsoft-warns-enterprises-to-treat-ai-agents-like-insider
 - 2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as
-- 2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep
 embedding_id: 2026-10-06-the-information-workday-customers-use-external-ai-agents-pre
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reports some Workday customers are using agents from Anthropic, 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as]] · [[2026-09-21-openai-expected-to-introduce-managed-agents-at-devday-on-sep]]
+**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-09-22-software-firms-discount-ai-to-keep-customers-from-anthropic]] · [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-10-19-microsoft-warns-enterprises-to-treat-ai-agents-like-insider]] · [[2026-10-13-workday-and-anthropic-connect-reasoning-to-business-rules-as]]
 <!-- graph:end -->

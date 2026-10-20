@@ -22,10 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
+- 2026-10-19-microsoft-says-ai-agents-are-like-insider-threats-as-frontie
 - 2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete
-- 2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks
-- 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
-- 2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden
 embedding_id: 2026-10-19-microsoft-xnode-and-sumsub-add-control-planes-for-rogue-agen
 event_name: ''
 ---
@@ -39,5 +37,5 @@ Microsoft unveiled tools to monitor and contain rogue AI agents, extending its r
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]] · [[2026-09-02-trust3-ai-extends-agent-security-controls-to-the-databricks]] · [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-09-12-ai-builders-own-warnings-intensify-after-rogue-agent-inciden]]
+**Related:** [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-10-19-microsoft-says-ai-agents-are-like-insider-threats-as-frontie]] · [[2026-09-21-google-open-sources-ax-an-agentic-orchestrator-for-kubernete]]
 <!-- graph:end -->

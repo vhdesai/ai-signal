@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t
+- 2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
-- 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
-- 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
-- 2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers
-- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+- 2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium
+- 2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to
 embedding_id: 2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon opened its AWS Trainium AI chips to every PyTorch developer without requi
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]]
+**Related:** [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t]] · [[2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium]] · [[2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to]]
 <!-- graph:end -->

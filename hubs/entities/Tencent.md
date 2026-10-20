@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 231
+member_count: 233
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 231 connected article(s).
+> Auto-generated entity hub. 233 connected article(s).
 
+- `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-12` [[2026-10-12-tencent-reportedly-steers-bond-proceeds-toward-ai-chips-and|Tencent reportedly steers bond proceeds toward AI chips and capital spending]]

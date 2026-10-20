@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge
 - 2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 embedding_id: 2026-09-11-positron-ai-closes-875m-at-a-5b-valuation-for-memory-first-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Positron AI's oversubscribed $875 million round — co-led by NEA, Valor Equity 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge]] · [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]]
+**Related:** [[2026-09-12-positron-valued-at-5b-in-new-funding-as-ai-chip-demand-surge]] · [[2026-09-11-positron-ai-raises-875m-at-a-5b-valuation-for-memory-first-i]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

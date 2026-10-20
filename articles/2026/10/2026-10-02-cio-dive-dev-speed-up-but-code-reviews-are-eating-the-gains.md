@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-20-october-19-2026-cio-dive
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
@@ -36,5 +37,5 @@ CIO Dive quotes Purna Doddapaneni of Bain & Co.: "The bottleneck has moved from 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]]
+**Related:** [[2026-10-20-october-19-2026-cio-dive]] · [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]]
 <!-- graph:end -->

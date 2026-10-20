@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-09-29-the-information-google-tests-paying-100-digital-publishers-f
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie
-- 2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r
+- 2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an
 embedding_id: 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The UK’s Competition and Markets Authority ordered Google to provide publisher
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie]] · [[2026-07-31-google-search-traffic-to-publishers-drops-34-as-ai-answers-r]]
+**Related:** [[2026-08-20-google-gives-publishers-a-new-way-to-fight-ai-driven-traffic]] · [[2026-09-29-the-information-google-tests-paying-100-digital-publishers-f]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie]] · [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an]]
 <!-- graph:end -->

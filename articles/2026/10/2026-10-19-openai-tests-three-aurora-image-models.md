@@ -4,8 +4,8 @@ title: OpenAI tests three Aurora image models
 date: '2026-10-19'
 source: Geeky Gadgets / TestingCatalog
 url_original: null
-url_canonical: https://www.geeky-gadgets.com/openai-aurora-image-models-tested/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: 6f63fc71052b1c9fb9ad2291d215b81eb760b8819431ebe76a001ba6ad910d2f
 normalized_title_hash: 1a5e9c000e1c8b77

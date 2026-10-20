@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on-a-finger-worn-inter
 - 2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor
-- 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 embedding_id: 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI voice startup Vapi reached a $500M valuation after beating 40 competitors to 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on-a-finger-worn-inter]] · [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]]
+**Related:** [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on-a-finger-worn-inter]] · [[2026-09-20-vocci-ships-an-ai-meeting-notes-ring-at-249-new-form-factor]]
 <!-- graph:end -->

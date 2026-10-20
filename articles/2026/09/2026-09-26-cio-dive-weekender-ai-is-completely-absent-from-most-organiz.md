@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-corporate-boards-still-lack-rules-for-ai-use
 - 2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains
-- 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
+- 2026-10-20-october-19-2026-cio-dive
 embedding_id: 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive's weekend edition leads with an LRN survey finding AI is completely abs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]]
+**Related:** [[2026-07-27-corporate-boards-still-lack-rules-for-ai-use]] · [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains]] · [[2026-10-20-october-19-2026-cio-dive]]
 <!-- graph:end -->

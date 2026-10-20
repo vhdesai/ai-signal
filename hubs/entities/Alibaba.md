@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 451
+member_count: 454
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 451 connected article(s).
+> Auto-generated entity hub. 454 connected article(s).
 
+- `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
 - `2026-10-18` [[2026-10-18-oppo-partners-with-manus-to-bring-ai-agents-to-devices|OPPO partners with Manus to bring AI agents to devices]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-apple-clears-china-ai-hurdle-as-alibaba-models-are-approved|Apple clears China AI hurdle as Alibaba models are approved for iPhone Duo and other handsets]]

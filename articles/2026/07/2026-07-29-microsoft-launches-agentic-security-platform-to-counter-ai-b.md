@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-- 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-- 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
+- 2026-10-19-newagent-securitymicrosoft-adds-guardian-agents-and-agent-di
+- 2026-10-19-microsoft-adds-guardian-agents-and-agent-discovery-to-enterp
 embedding_id: 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive reported that Microsoft launched an agentic security platform designed 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
+**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-10-19-newagent-securitymicrosoft-adds-guardian-agents-and-agent-di]] · [[2026-10-19-microsoft-adds-guardian-agents-and-agent-discovery-to-enterp]]
 <!-- graph:end -->

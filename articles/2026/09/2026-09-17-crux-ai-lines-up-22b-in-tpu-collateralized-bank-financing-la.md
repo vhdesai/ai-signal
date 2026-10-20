@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar
-- 2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a
 embedding_id: 2026-09-17-crux-ai-lines-up-22b-in-tpu-collateralized-bank-financing-la
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Crux AI, a cloud venture tied to Blackstone and Alphabet, lined up roughly $22 b
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar]] · [[2026-08-21-broadcom-backed-vehicle-seeks-up-to-70-billion-in-debt-for-a]]
+**Related:** [[2026-09-10-blackstone-s-tpu-spending-surges-into-multiples-of-the-origi]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-megar]]
 <!-- graph:end -->

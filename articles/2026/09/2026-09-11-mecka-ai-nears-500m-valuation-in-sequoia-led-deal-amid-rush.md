@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot
 - 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f
+- 2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45
 - 2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed
-- 2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t
 embedding_id: 2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mecka AI, which collects and analyzes human motion data to train humanoid and ot
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f]] · [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed]] · [[2026-09-04-berkeley-founded-xdof-discusses-a-1-2b-valuation-for-robot-t]]
+**Related:** [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-physi]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-for-robot]] · [[2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-round-on-rush-f]] · [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45]] · [[2026-09-18-vantora-formerly-up-labs-raises-100m-to-build-startups-embed]]
 <!-- graph:end -->

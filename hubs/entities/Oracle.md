@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 298
+member_count: 299
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 298 connected article(s).
+> Auto-generated entity hub. 299 connected article(s).
 
+- `2026-10-20` [[2026-10-20-partnership-healthcareastrazeneca-and-oracle-partner-on-ai-e|PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinical research]]
 - `2026-10-19` [[2026-10-19-credit-stress-threatens-to-unwind-ai-bull-case-oracle-remain|Credit stress threatens to unwind AI bull case; Oracle remains in focus]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]

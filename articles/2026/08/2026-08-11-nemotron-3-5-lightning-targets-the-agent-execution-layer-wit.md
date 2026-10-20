@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a
-- 2026-03-24-nvidia-released-nemotron-cascade-2-an-open-30-billion-parame
 embedding_id: 2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The model uses a mixture-of-experts design activating only 3 billion of 30 billi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a]] · [[2026-03-24-nvidia-released-nemotron-cascade-2-an-open-30-billion-parame]]
+**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a]]
 <!-- graph:end -->

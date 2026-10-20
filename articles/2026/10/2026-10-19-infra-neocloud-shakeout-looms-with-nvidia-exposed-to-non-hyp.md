@@ -4,8 +4,8 @@ title: INFRA Neocloud shakeout looms, with Nvidia exposed to non-hyperscaler dem
 date: '2026-10-19'
 source: The Decoder
 url_original: null
-url_canonical: https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_131850_Inbox_Daily AI News Digest – October
   19, 2026.md
 content_hash: ae015391119d2252a4585a4a183271d6387beb27232f76d880f384e7da1ac1a7

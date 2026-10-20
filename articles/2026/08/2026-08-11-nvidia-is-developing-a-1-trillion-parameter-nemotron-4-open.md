@@ -23,7 +23,7 @@ canonical_article_id: 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-
 related_article_ids:
 - 2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 embedding_id: 2026-08-11-nvidia-is-developing-a-1-trillion-parameter-nemotron-4-open
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia is reported to be building a new open model generation under the Nemotron
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]]
-**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
+**Related:** [[2026-08-12-nvidia-reportedly-developing-nemotron-4-a-1-trillion-paramet]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]]
 <!-- graph:end -->

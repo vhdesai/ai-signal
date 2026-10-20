@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 - 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
+- 2026-10-20-october-19-2026-cio-dive
 embedding_id: 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive’s enterprise adoption coverage argued that AI rollouts often stall be
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-10-20-october-19-2026-cio-dive]]
 <!-- graph:end -->

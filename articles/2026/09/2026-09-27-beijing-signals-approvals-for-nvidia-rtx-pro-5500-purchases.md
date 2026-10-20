@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia
 - 2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia
 - 2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h
+- 2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 embedding_id: 2026-09-27-beijing-signals-approvals-for-nvidia-rtx-pro-5500-purchases
 event_name: ''
@@ -42,5 +43,5 @@ China's Ministry of Industry and Information Technology has contacted domestic t
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia]] · [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia]] · [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
+**Related:** [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia]] · [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia]] · [[2026-08-19-china-allows-bytedance-and-tencent-to-import-10-000-nvidia-h]] · [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
 <!-- graph:end -->

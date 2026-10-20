@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d
 - 2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise
 - 2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at
-- 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
-- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
+- 2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre
+- 2026-10-20-october-19-2026-cio-dive
 embedding_id: 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Gartner predicts enterprise AI costs will rise exponentially even as per-token p
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d]] · [[2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]]
+**Related:** [[2026-08-22-gartner-ai-costs-will-rise-exponentially-despite-per-token-d]] · [[2026-08-22-gartner-ai-capabilities-will-outpace-cost-savings-enterprise]] · [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at]] · [[2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre]] · [[2026-10-20-october-19-2026-cio-dive]]
 <!-- graph:end -->

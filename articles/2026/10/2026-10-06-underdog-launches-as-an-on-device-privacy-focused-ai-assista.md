@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome
 - 2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo
 - 2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an
 - 2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha
@@ -36,5 +37,5 @@ Silicon Valley founder Sigil Wen launched an invite-only beta of Underdog, an AI
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo]] · [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an]] · [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha]]
+**Related:** [[2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome]] · [[2026-08-22-mysterious-free-ai-model-ox-alpha-appears-on-openrouter-nobo]] · [[2026-10-06-hark-releases-an-ai-personal-assistant-focused-on-privacy-an]] · [[2026-08-23-techcrunch-deep-dive-who-s-behind-the-stealth-model-ox-alpha]]
 <!-- graph:end -->

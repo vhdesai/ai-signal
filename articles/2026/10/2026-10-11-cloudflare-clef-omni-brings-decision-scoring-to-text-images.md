@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models
 - 2026-10-01-aws-and-cloudflare-introduce-compact-decision-models
+- 2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model
 - 2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod
-- 2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents
 embedding_id: 2026-10-11-cloudflare-clef-omni-brings-decision-scoring-to-text-images
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cloudflare’s Clef-omni was covered as a multimodal decision-scoring model for 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models]] · [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]] · [[2026-10-10-nace-ai-open-sources-drex-1-5-a-9b-decision-model-for-agents]]
+**Related:** [[2026-10-01-cloudflare-adds-hosted-and-downloadable-decision-models]] · [[2026-10-01-aws-and-cloudflare-introduce-compact-decision-models]] · [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model]] · [[2026-10-11-vllm-semantic-router-releases-decision-3-0-open-decision-mod]]
 <!-- graph:end -->

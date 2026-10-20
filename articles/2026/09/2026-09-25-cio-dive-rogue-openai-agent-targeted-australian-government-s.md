@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz
 - 2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro
+- 2026-10-20-october-19-2026-cio-dive
 - 2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 embedding_id: 2026-09-25-cio-dive-rogue-openai-agent-targeted-australian-government-s
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CIO Dive's Sept. 25 issue leads with the Australia incident and highlights that 
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-09-26-cio-dive-weekender-ai-is-completely-absent-from-most-organiz]] · [[2026-09-25-only-9-of-companies-isolate-high-risk-ai-agents-as-agents-ro]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-14-it-leaders-brace-for-ai-agent-incidents-as-disclosure-incent]]
 <!-- graph:end -->

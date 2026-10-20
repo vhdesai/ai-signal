@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition
 - 2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference
 - 2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit
-- 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 embedding_id: 2026-05-18-decart-raises-300m-at-4b-valuation-for-real-time-generative
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Decart, developer of real-time generative video and GPU optimization technology,
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]]
+**Related:** [[2026-10-11-amazon-reportedly-discusses-a-roughly-7b-decart-acquisition]] · [[2026-08-13-anthropic-in-talks-to-acquire-decart-for-6b-to-cut-inference]] · [[2026-08-13-anthropic-in-talks-to-acquire-israeli-startup-decart-for-abo]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-07-17-databricks-reportedly-set-to-reach-188-billion-valuation-wit]]
 <!-- graph:end -->

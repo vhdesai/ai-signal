@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai
 - 2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over
 - 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
+- 2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
-- 2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on
 embedding_id: 2026-10-18-german-courts-increasingly-hold-google-liable-for-ai-overvie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Two German courts have treated Google's AI Overview outputs as Google's own cont
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-07-17-indonesia-copyright-rewrite-puts-google-and-ai-platforms-on]]
+**Related:** [[2026-10-18-policy-german-courts-increasingly-hold-google-liable-for-ai]] · [[2026-06-19-google-to-appeal-german-ruling-holding-it-liable-for-ai-over]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]]
 <!-- graph:end -->

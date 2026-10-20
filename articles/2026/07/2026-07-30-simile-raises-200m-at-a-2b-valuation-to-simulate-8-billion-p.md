@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val
+- 2026-10-19-october-20-2026-pitchbook
 - 2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat
 - 2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri
 - 2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation
-- 2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months
 embedding_id: 2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Synthetic-user startup Simile raised a $200M+ Series B at roughly a $2B post-mon
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation]] · [[2026-09-03-crusoe-raises-3b-at-a-30b-valuation-tripling-in-ten-months]]
+**Related:** [[2026-07-30-synthetic-user-startup-simile-raises-200m-series-b-at-2b-val]] · [[2026-10-19-october-20-2026-pitchbook]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]] · [[2026-08-12-lovable-confirms-13-3-billion-valuation-and-400-million-seri]] · [[2026-09-03-crusoe-reportedly-raises-3b-at-a-30b-valuation]]
 <!-- graph:end -->

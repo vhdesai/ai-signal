@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 104
+member_count: 106
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 104 connected article(s).
+> Auto-generated entity hub. 106 connected article(s).
 
+- `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-12` [[2026-10-12-deepseek-s-memory-saving-technique-may-hurt-model-accuracy-r|DeepSeek's memory-saving technique may hurt model accuracy, researchers find]]
 - `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-bytedance-and-alibaba-buy-nvidia|Beijing signals it may let ByteDance and Alibaba buy Nvidia's RTX Pro 5500]]
 - `2026-09-27` [[2026-09-27-beijing-signals-it-may-let-alibaba-and-bytedance-buy-nvidia|Beijing signals it may let Alibaba and ByteDance buy Nvidia's RTX Pro 5500]]

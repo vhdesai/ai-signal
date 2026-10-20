@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod
 - 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 - 2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and
-- 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
+- 2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for
 embedding_id: 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia expanded its Agent Toolkit to add PhysicsNeMo and CUDA-X libraries as age
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and]] · [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove]]
+**Related:** [[2026-10-13-nvidia-says-the-rtx-spark-pc-ecosystem-is-ready-for-local-ai]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1-trillion-parameter-open-mod]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-10-07-nvidia-s-ai-dealmaking-expands-from-chips-into-the-model-and]] · [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for]]
 <!-- graph:end -->

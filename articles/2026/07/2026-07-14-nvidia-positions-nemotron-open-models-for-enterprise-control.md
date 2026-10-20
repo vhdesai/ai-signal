@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model
 - 2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
-- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 embedding_id: 2026-07-14-nvidia-positions-nemotron-open-models-for-enterprise-control
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia published a Nemotron Labs post arguing that enterprises and nations need 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]]
+**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-08-11-nvidia-developing-nemotron-4-a-1t-parameter-open-model]] · [[2026-08-11-nvidia-is-building-a-1-trillion-parameter-open-model-nemotro]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]]
 <!-- graph:end -->

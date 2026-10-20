@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 embedding_id: 2026-09-30-elevenlabs-doubles-its-valuation-to-22b-in-a-300m-employee-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI voice startup ElevenLabs doubled its valuation to $22B via a $300M employee t
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]]
+**Related:** [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

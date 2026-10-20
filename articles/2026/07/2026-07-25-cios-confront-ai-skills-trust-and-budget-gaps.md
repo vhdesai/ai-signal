@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p
+- 2026-10-20-october-19-2026-cio-dive
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 embedding_id: 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive's Weekender collected several enterprise AI adoption stories: end-user 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-07-16-the-enterprise-context-gap-a-trust-problem-not-a-retrieval-p]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

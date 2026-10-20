@@ -1,15 +1,24 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 713
+member_count: 722
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 713 connected article(s).
+> Auto-generated entity hub. 722 connected article(s).
 
+- `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
+- `2026-10-20` [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model|New coverage: Cloudflare previews Clairic extraction model]]
+- `2026-10-19` [[2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr|NEWDEVELOPER TOOLSAWS releases TorchNeuron to lower the barrier to Trainium]]
+- `2026-10-19` [[2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps|INFRASTRUCTUREAWS introduces TorchNeuron to run PyTorch apps on Trainium]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
 - `2026-10-19` [[2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no|Amazon opens Trainium AI chips to PyTorch developers with no rewrite]]
+- `2026-10-19` [[2026-10-19-altman-outlines-competing-endgames-for-governing-frontier-ai|Altman outlines competing endgames for governing frontier AI]]
+- `2026-10-19` [[2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to|AWS uses TorchNeuron to lower PyTorch migration friction to Trainium]]
+- `2026-10-19` [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t|AWS releases TorchNeuron to simplify PyTorch deployment on Trainium]]
+- `2026-10-19` [[2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium|AWS releases TorchNeuron to lower the barrier to Trainium]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-deepmind-and-singapore-develop-local-scam-detection|DeepMind and Singapore develop local scam detection]]
 - `2026-10-14` [[2026-10-14-ai-home-hardware-heads-toward-the-holiday-market|AI home hardware heads toward the holiday market]]

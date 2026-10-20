@@ -1,20 +1,64 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3522
+member_count: 3566
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3522 connected article(s).
+> Auto-generated topic hub. 3566 connected article(s).
 
+- `2026-10-20` [[2026-10-20-yelp-adds-ai-calls-to-check-restaurant-wait-times|Yelp adds AI calls to check restaurant wait times]]
+- `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
+- `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
+- `2026-10-20` [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee|POLICY GOVERNMENTU.S. federal agencies told to remove DeepSeek from their systems]]
+- `2026-10-20` [[2026-10-20-partnership-healthcareastrazeneca-and-oracle-partner-on-ai-e|PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinical research]]
+- `2026-10-20` [[2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome|Otter.ai secures $320 million from General Catalyst's Customer Value Fund]]
+- `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
+- `2026-10-20` [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model|New coverage: Cloudflare previews Clairic extraction model]]
+- `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45|FUNDING PHYSICAL AIEka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-cloudflare-previews-clairic-a-model-for-structured-document|Cloudflare previews Clairic, a model for structured document extraction]]
+- `2026-10-20` [[2026-10-20-china-launches-state-owned-company-to-develop-national-ai-da|China launches state-owned company to develop national AI data resources]]
+- `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
+- `2026-10-19` [[2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis|Why teaching AI about symmetry could make prenatal diagnosis more reliable]]
+- `2026-10-19` [[2026-10-19-videofal-and-black-forest-labs-launch-flux-3-max-for-ai-vide|VIDEOfal and Black Forest Labs launch FLUX 3 Max for AI video generation]]
+- `2026-10-19` [[2026-10-19-vendor-claiminception-launches-mercury-3-a-high-throughput-d|VENDOR CLAIMInception launches Mercury 3, a high-throughput diffusion model]]
+- `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
+- `2026-10-19` [[2026-10-19-symmetry-aware-ai-targets-motion-errors-in-fetal-mri|Symmetry-aware AI targets motion errors in fetal MRI]]
+- `2026-10-19` [[2026-10-19-security-incidentapi-keysopencode-console-breach-exposes-key|SECURITY INCIDENTAPI KEYSOpenCode Console breach exposes keys and triggers unauthorized AI charges]]
+- `2026-10-19` [[2026-10-19-scale-capacitymeta-says-its-prometheus-supercluster-has-reac|SCALE CAPACITYMeta says its Prometheus supercluster has reached its first phase]]
+- `2026-10-19` [[2026-10-19-safety-governancealtman-outlines-three-possible-endgames-for|SAFETY GOVERNANCEAltman outlines three possible endgames for AI development]]
+- `2026-10-19` [[2026-10-19-researchmedical-imagingsymmetry-aware-ai-targets-motion-erro|RESEARCHMEDICAL IMAGINGSymmetry-aware AI targets motion errors in fetal MRI]]
+- `2026-10-19` [[2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata|RESEARCH HEALTHCARESymmetry-aware AI aims to improve prenatal MRI analysis]]
+- `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]
+- `2026-10-19` [[2026-10-19-opencode-breach-exposes-api-keys-and-triggers-unauthorized-a|OpenCode breach exposes API keys and triggers unauthorized AI usage charges]]
+- `2026-10-19` [[2026-10-19-opencode-console-breach-exposed-some-users-stored-api-keys|OpenCode Console breach exposed some users’ stored API keys]]
 - `2026-10-19` [[2026-10-19-openai-tests-three-aurora-image-models|OpenAI tests three Aurora image models]]
+- `2026-10-19` [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo|Nvidia releases Nemotron models for enterprise agents and local AI PCs]]
+- `2026-10-19` [[2026-10-19-nvidia-expands-nemotron-with-enterprise-and-edge-models-for|NVIDIA expands Nemotron with enterprise and edge models for always-on agents]]
+- `2026-10-19` [[2026-10-19-newagent-securitymicrosoft-adds-guardian-agents-and-agent-di|NEWAGENT SECURITYMicrosoft adds Guardian Agents and agent discovery to enterprise security]]
 - `2026-10-19` [[2026-10-19-minimax-launches-m3-1-flash-a-428b-moe-agentic-model-at-0-15|MiniMax launches M3.1 Flash, a 428B MoE agentic model at $0.15 per million input tokens]]
+- `2026-10-19` [[2026-10-19-minimax-m3-1-flash-sharpens-china-s-low-cost-model-competiti|MiniMax M3.1 Flash sharpens China’s low-cost model competition]]
+- `2026-10-19` [[2026-10-19-microsoft-warns-enterprises-to-treat-ai-agents-like-insider|Microsoft warns enterprises to treat AI agents like insider threats]]
+- `2026-10-19` [[2026-10-19-microsoft-says-ai-agents-are-like-insider-threats-as-frontie|Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’]]
+- `2026-10-19` [[2026-10-19-mit-and-collaborators-use-symmetry-aware-ai-to-improve-fetal|MIT and collaborators use symmetry-aware AI to improve fetal MRI reconstruction]]
 - `2026-10-19` [[2026-10-19-minimax-launch-vendor-claims-minimax-positions-m3-1-flash-ar|MINIMAX LAUNCH VENDOR CLAIMS MiniMax positions M3.1 Flash around agent efficiency]]
+- `2026-10-19` [[2026-10-19-launchvendor-benchmarksinception-launches-mercury-3-with-mil|LAUNCHVENDOR BENCHMARKSInception launches Mercury 3 with million-token context]]
+- `2026-10-19` [[2026-10-19-inside-prometheus-meta-s-journey-to-a-gigawatt-scale-supercl|Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster]]
+- `2026-10-19` [[2026-10-19-inception-launches-mercury-3-with-million-token-context|Inception launches Mercury 3 with million-token context]]
+- `2026-10-19` [[2026-10-19-inception-launches-mercury-3-diffusion-llm-reporting-over-1|Inception launches Mercury 3 diffusion LLM, reporting over 1,000 tokens per second]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
+- `2026-10-19` [[2026-10-19-german-court-ruling-adds-to-legal-pressure-over-google-ai-an|German court ruling adds to legal pressure over Google AI answers]]
+- `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]
 - `2026-10-19` [[2026-10-19-goto-google-gemma-regional-ai-goto-releases-a-27b-indonesian|GOTO GOOGLE GEMMA REGIONAL AI GoTo releases a 27B Indonesian-language model]]
 - `2026-10-19` [[2026-10-19-deepseek-releases-v4-1-flash-1017-without-raising-api-prices|DeepSeek releases V4.1-Flash-1017 without raising API prices]]
+- `2026-10-19` [[2026-10-19-cloudflare-previews-clairic-a-typed-extraction-model-for-wor|Cloudflare previews Clairic, a typed extraction model for Workers AI]]
 - `2026-10-19` [[2026-10-19-claroty-shows-ai-can-rebuild-danfoss-controller-exploits-in|Claroty shows AI can rebuild Danfoss controller exploits in 28 minutes]]
+- `2026-10-19` [[2026-10-19-chip-designchinadeepseek-is-helping-shape-huawei-s-future-ai|CHIP DESIGNCHINADeepSeek is helping shape Huawei's future AI processors]]
+- `2026-10-19` [[2026-10-19-anthropic-and-nscale-reportedly-discuss-another-45-billion-c|Anthropic and Nscale reportedly discuss another $45 billion compute deal]]
+- `2026-10-19` [[2026-10-19-advancing-coding-in-low-resource-programming-languages|Advancing coding in low-resource programming languages]]
 - `2026-10-18` [[2026-10-18-voxel51-3-0-targets-multimodal-data-operations-for-robotics|Voxel51 3.0 targets multimodal data operations for robotics, vehicles, and factories]]
 - `2026-10-18` [[2026-10-18-research-taste-bench-shows-agents-still-make-poor-long-term|RESEARCH Taste-Bench shows agents still make poor long-term strategic choices]]
 - `2026-10-18` [[2026-10-18-research-policy-agent-refund-experiment-shows-risk-of-agenti|RESEARCH POLICY Agent refund experiment shows risk of "agentic flooding"]]

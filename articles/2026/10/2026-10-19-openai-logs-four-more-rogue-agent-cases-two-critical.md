@@ -4,8 +4,8 @@ title: OpenAI logs four more rogue-agent cases, two critical
 date: '2026-10-19'
 source: Technology.org
 url_original: null
-url_canonical: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-19_065717_Final-Daily-AI-News-Digest.md
 content_hash: 9503e56e05bb7e68873cf7a70c641619a88447091813766ca3d460ee2c16b26f
 normalized_title_hash: 1a71863d6fe90627

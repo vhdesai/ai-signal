@@ -1,88 +1,91 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
-Loading weights:  70%|██████▉   | 139/199 [00:00<00:00, 1375.84it/s]
-Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1471.82it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2105.79it/s]
 {
   "command": "run-daily",
   "stages": {
     "ingest": {
-      "digests_total": 1485,
-      "digests_changed": 7,
+      "digests_total": 1496,
+      "digests_changed": 11,
       "changed": [
-        "news\\2026-10-19_000000_Publication-Sources.md",
-        "news\\2026-10-19_065717_Final-Daily-AI-News-Digest.md",
-        "news\\2026-10-19_130959_Inbox_Daily AI News Digest – October 19, 2026.md",
-        "news\\2026-10-19_131850_Inbox_Daily AI News Digest – October 19, 2026.md",
-        "news\\2026-10-19_131907_Inbox_Daily AI News Digest – October 19, 2026.md",
-        "news\\2026-10-19_134742_Inbox_ClawPilot - Daily AI News Digest – October 19, 2026.md",
-        "news\\daily-ai-news-digest-2026-10-19.md"
+        "news\\2026-10-20_000000_Publication-Sources.md",
+        "news\\2026-10-20_065705_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-20_065831_Final-Daily-AI-News-Digest.md",
+        "news\\2026-10-20_130246_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_130617_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_131013_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_131842_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_135158_Inbox_ClawPilot - Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_135812_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\2026-10-20_141119_Inbox_Daily AI News Digest – October 20, 2026.md",
+        "news\\daily-ai-news-digest-2026-10-20.md"
       ]
     },
     "split": {
-      "digests_parsed": 1489,
-      "articles_written": 14417,
-      "events_parsed": 122,
+      "digests_parsed": 1500,
+      "articles_written": 14498,
+      "events_parsed": 123,
       "event_articles_written": 78,
-      "skipped_publication_sources": 53,
-      "skipped_thin_articles": 4997
+      "skipped_publication_sources": 54,
+      "skipped_thin_articles": 5014
     },
     "index": {
-      "articles_indexed": 10484,
+      "articles_indexed": 10563,
       "embeddings": {
         "enabled": true,
-        "added": 35,
-        "total": 10484,
-        "md_rewritten": 10483
+        "added": 79,
+        "total": 10563,
+        "md_rewritten": 10562
       }
     },
     "dedupe": {
-      "articles": 10484,
+      "articles": 10563,
       "exact_duplicates": 6,
-      "canonical": 7770,
-      "semantic_duplicates": 2708,
-      "related_links": 32010
+      "canonical": 7818,
+      "semantic_duplicates": 2739,
+      "related_links": 32179
     },
     "build-graph": {
       "status": "ok",
-      "articles_linked": 10484,
-      "wikilinks_emitted": 71701,
+      "articles_linked": 10563,
+      "wikilinks_emitted": 72190,
       "entity_hubs": 34,
       "topic_hubs": 8,
       "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
     },
     "validate-urls": {
-      "checked": 4941,
-      "ok": 3726,
-      "broken": 1215,
-      "missing": 5520,
+      "checked": 4967,
+      "ok": 3749,
+      "broken": 1218,
+      "missing": 5573,
       "skipped": 23
     },
     "repair-urls": {
-      "attempted": 21,
-      "repaired": 13,
+      "attempted": 17,
+      "repaired": 9,
       "unresolved": 8,
       "skipped": 0,
       "reverted": 0,
       "deferred": 0,
       "terminated": "completed",
-      "elapsed_s": 294.8,
+      "elapsed_s": 318.8,
       "max_workers": 10
     },
     "build-site-daily": {
-      "pages": 301,
-      "articles": 10484,
-      "canonical": 7770,
+      "pages": 302,
+      "articles": 10563,
+      "canonical": 7818,
       "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site",
       "mode": "incremental",
-      "changed_articles": 221,
-      "written_files": 108,
-      "elapsed_s": 18.22
+      "changed_articles": 147,
+      "written_files": 94,
+      "elapsed_s": 16.23
     },
     "publish": {
       "status": "dry-run",
       "note": "site/ generated locally; no remote publish configured"
     }
   },
-  "run_log": "indexes\\runs\\run-20261019T205146+0000-3a8302.json"
+  "run_log": "indexes\\runs\\run-20261020T212007+0000-5b8355.json"
 }

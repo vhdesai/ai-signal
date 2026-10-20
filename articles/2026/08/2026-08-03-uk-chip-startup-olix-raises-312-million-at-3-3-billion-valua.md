@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh
-- 2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made
 embedding_id: 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Data Center Dynamics reported that UK chip startup Olix raised $312 million at a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Company Investments]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]] · [[2026-08-15-british-ai-chip-founder-becomes-europe-s-youngest-self-made]]
+**Related:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-08-03-olix-s-financing-is-significant-both-for-its-size-and-for-wh]]
 <!-- graph:end -->

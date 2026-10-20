@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-october-20-2026-the-information
+- 2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play
 - 2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge
-- 2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico
-- 2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis
 embedding_id: 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Half as many startups crossed the $1B unicorn threshold in April as in March —
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]] · [[2026-09-04-ai-leads-unicorn-creation-in-2026-deepseek-tops-new-ai-unico]] · [[2026-08-28-why-nvidia-loves-backing-startups-pitchbook-analysis]]
+**Related:** [[2026-10-19-october-20-2026-the-information]] · [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-08-14-pitchbook-analysts-examine-what-nvidia-s-500b-financing-play]] · [[2026-10-19-coreweave-s-bonds-yield-around-15-as-leveraged-loans-emerge]]
 <!-- graph:end -->

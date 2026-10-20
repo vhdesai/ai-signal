@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 187
+member_count: 188
 ---
 
 # IBM
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 188 connected article(s).
 
+- `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]
 - `2026-10-18` [[2026-10-18-new-disney-pursues-most-of-character-ai-s-workforce|New Disney pursues most of Character.AI's workforce]]
 - `2026-10-14` [[2026-10-14-ibm-survey-points-to-a-gap-between-agent-deployment-and-gove|IBM survey points to a gap between agent deployment and governance]]

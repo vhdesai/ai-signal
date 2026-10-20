@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact
 - 2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and
 - 2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw
+- 2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo
 - 2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu
-- 2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover
 embedding_id: 2026-08-21-nvidia-dsx-maxlps-targets-ai-factory-performance-per-watt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA detailed DSX MaxLPS, a suite of chip, thermal, system, and software techn
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]]
-**Related:** [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and]] · [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]] · [[2026-07-21-nvidia-ramps-vera-rubin-around-tokens-per-megawatt-and-sover]]
+**Related:** [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact]] · [[2026-10-12-nvidia-contributes-vera-rubin-ai-factory-designs-to-ocp-and]] · [[2026-09-21-nvidia-launches-dsx-ready-to-qualify-power-and-cooling-hardw]] · [[2026-10-19-nvidia-releases-nemotron-models-for-enterprise-agents-and-lo]] · [[2026-08-29-nvidia-s-ai-advantage-is-moving-beyond-the-gpu]]
 <!-- graph:end -->

@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub
 - 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
 - 2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove
 - 2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw
@@ -36,5 +37,5 @@ NVIDIA describes European city projects using agents and digital twins for energ
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]]
+**Related:** [[2026-10-19-nvidia-advances-agentic-security-for-media-from-european-pub]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]] · [[2026-10-13-nvidia-highlights-france-s-agentic-computing-stack-from-sove]] · [[2026-09-04-building-a-memory-driven-agent-with-nvidia-nemoclaw]]
 <!-- graph:end -->

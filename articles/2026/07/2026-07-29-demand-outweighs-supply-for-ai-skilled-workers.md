@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch
 - 2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture
+- 2026-10-20-october-19-2026-cio-dive
 - 2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden
-- 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
-- 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
+- 2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre
 embedding_id: 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive reported that demand for AI-skilled workers continues to outstrip suppl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]]
+**Related:** [[2026-08-21-cio-dive-ai-drives-up-demand-for-analytics-and-database-arch]] · [[2026-08-21-ai-drives-up-demand-for-analytics-and-database-architecture]] · [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-06-managing-ai-agents-is-becoming-a-new-labor-burden]] · [[2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre]]
 <!-- graph:end -->

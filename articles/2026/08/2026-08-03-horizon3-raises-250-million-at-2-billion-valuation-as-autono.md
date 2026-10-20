@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha
 - 2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 embedding_id: 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Horizon3.ai raised a $250 million Series E at a $2 billion valuation for its AI-
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Company Investments]]
-**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250-million-water-plants-ha]] · [[2026-08-03-horizon3-s-financing-reflects-strong-investor-conviction-tha]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]]
 <!-- graph:end -->

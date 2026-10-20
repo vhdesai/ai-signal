@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
-- 2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi
+- 2026-10-19-october-20-2026-pitchbook
 embedding_id: 2026-09-25-pitchbook-software-borrowers-under-stress-lead-private-credi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook's Daily Pitch reports the private-credit watchlist rose to 583 compani
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-09-21-crusoe-raises-3-9b-series-f-at-30-9b-ai-infrastructure-fundi]]
+**Related:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-10-19-october-20-2026-pitchbook]]
 <!-- graph:end -->

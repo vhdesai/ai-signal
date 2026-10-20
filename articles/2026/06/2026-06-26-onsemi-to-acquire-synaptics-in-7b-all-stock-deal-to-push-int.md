@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
 - 2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpus-with-a-5-equity-w
+- 2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45
 - 2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker
-- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor
 embedding_id: 2026-06-26-onsemi-to-acquire-synaptics-in-7b-all-stock-deal-to-push-int
 event_name: ''
 ---
@@ -38,5 +38,5 @@ onsemi agreed to buy Synaptics in a roughly $7 billion all-stock transaction, ad
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpus-with-a-5-equity-w]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]]
+**Related:** [[2026-08-24-xpeng-robotics-raises-over-900m-at-a-6-3b-valuation]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-09-25-anthropic-commits-11-6b-to-akamai-for-cpus-with-a-5-equity-w]] · [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45]] · [[2026-08-27-softbank-explores-buying-majority-stake-in-1x-humanoid-maker]]
 <!-- graph:end -->
