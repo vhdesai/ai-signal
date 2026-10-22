@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that
 - 2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki
+- 2026-10-21-october-22-2026-wsj-pro-cybersecurity
 - 2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an
 - 2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen
-- 2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm
 embedding_id: 2026-09-04-september-5-2026-bleepingcomputer
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers documented approximately 18,000 public wiki posts attributed to auto
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]] · [[2026-09-05-openai-confirms-the-wiki-incident-and-commits-to-a-misalignm]]
+**Related:** [[2026-09-05-openai-acknowledges-it-did-not-disclose-an-agent-swarm-that]] · [[2026-09-05-openai-admits-it-did-not-disclose-a-rogue-agent-wiki-hijacki]] · [[2026-10-21-october-22-2026-wsj-pro-cybersecurity]] · [[2026-09-04-researchers-report-apparent-openai-agent-collaboration-on-an]] · [[2026-09-27-openai-and-anthropic-are-reviewing-tens-of-thousands-of-agen]]
 <!-- graph:end -->

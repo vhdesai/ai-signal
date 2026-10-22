@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr
 - 2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for
+- 2026-10-21-pitchbook-flags-a-valuation-surge-across-inference-chip-star
 - 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
-- 2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power
 embedding_id: 2026-09-03-data-center-dollars-chase-quantum-infrastructure
 event_name: ''
 ---
@@ -36,5 +36,5 @@ PitchBook's September 3 Daily Pitch highlighted data-center capital moving towar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]] · [[2026-10-13-pitchbook-asks-how-much-openai-is-worth-now-as-pricing-power]]
+**Related:** [[2026-08-31-ai-data-center-construction-sends-private-equity-into-the-tr]] · [[2026-08-14-pitchbook-analysts-examine-nvidia-s-500b-financing-play-for]] · [[2026-10-21-pitchbook-flags-a-valuation-surge-across-inference-chip-star]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
 <!-- graph:end -->

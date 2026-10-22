@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Company Investments
-member_count: 1315
+member_count: 1316
 ---
 
 # Company Investments
 
-> Auto-generated topic hub. 1315 connected article(s).
+> Auto-generated topic hub. 1316 connected article(s).
 
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
 - `2026-10-20` [[2026-10-20-october-19-2026-dealbook|[October 19, 2026] · DealBook]]
 - `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
 - `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]

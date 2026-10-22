@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 - 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
-- 2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi
+- 2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk
 embedding_id: 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mistral published new product updates including "Introducing Search Toolkit" and
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]] · [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi]]
+**Related:** [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]] · [[2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk]]
 <!-- graph:end -->

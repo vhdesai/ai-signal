@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
+- 2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation
 - 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
 embedding_id: 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 event_name: ''
@@ -34,5 +35,5 @@ Inference providers Fireworks AI and Fal are each considering new funding rounds
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]]
+**Related:** [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation]] · [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]]
 <!-- graph:end -->

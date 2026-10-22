@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-20-october-20-2026-wsj-pro-cybersecurity
 - 2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems
+- 2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian
 - 2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems
-- 2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee
 embedding_id: 2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A newly public DHS notice details DeepSeek restrictions for civilian agencies, i
 
 **Entities:** [[Amazon]] · [[DeepSeek]] · [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-20-october-20-2026-wsj-pro-cybersecurity]] · [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems]] · [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems]] · [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee]]
+**Related:** [[2026-10-20-october-20-2026-wsj-pro-cybersecurity]] · [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems]] · [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian]] · [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia 
 date: '2026-10-20'
 source: Reuters
 url_original: null
-url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-sees-alibaba-bytedance-104826226.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_135812_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 09bed45b2091e531826d71309bb5521938c5ba8068c41eeca95fa21bf823957d

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
+- 2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev
 - 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
-- 2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin
 embedding_id: 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ For National Robotics Week, NVIDIA is highlighting physical AI entering producti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-08-29-nvidia-s-physical-ai-business-reaches-10b-run-rate-with-chin]]
+**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
 <!-- graph:end -->

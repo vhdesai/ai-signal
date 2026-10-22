@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 - 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
 - 2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou
-- 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
+- 2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat
 embedding_id: 2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SAP is acquiring open data lakehouse provider Dremio alongside AI company Prior 
 
 **Entities:** [[SAP]]
 **Topics:** [[Corporate Moves]] · [[M&A Activity]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-10-11-amazon-reportedly-in-talks-to-buy-ai-startup-decart-for-arou]] · [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat]]
 <!-- graph:end -->

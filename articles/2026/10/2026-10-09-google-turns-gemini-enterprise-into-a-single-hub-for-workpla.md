@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses
 - 2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent
-- 2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo
+- 2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor
 embedding_id: 2026-10-09-google-turns-gemini-enterprise-into-a-single-hub-for-workpla
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Google is consolidating fragmented workplace agents into a Gemini Enterprise hub
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent]] · [[2026-10-09-google-unifies-fragmented-agents-while-microsoft-turns-windo]]
+**Related:** [[2026-10-08-google-brings-agentic-ai-to-gemini-for-businesses]] · [[2026-10-08-welcome-to-gemini-at-work-2026-introducing-the-gemini-agent]] · [[2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor]]
 <!-- graph:end -->

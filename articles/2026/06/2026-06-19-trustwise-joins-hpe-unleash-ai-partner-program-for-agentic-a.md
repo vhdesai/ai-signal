@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
+- 2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag
 - 2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia
 - 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
-- 2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo
 embedding_id: 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Trustwise announced it has joined HPE’s Unleash AI partner program to bring ru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-blueprint-alliance-fo]]
+**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag]] · [[2026-09-22-okta-launches-ai-agent-runtime-gateway-forms-blueprint-allia]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]]
 <!-- graph:end -->

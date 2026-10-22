@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a
 - 2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek
+- 2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i
 - 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
 - 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
-- 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
 embedding_id: 2026-10-18-anthropic-proposes-federal-ai-safety-bill-with-u-s-power-to
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic proposed an AI safety bill that would give the U.S. government authori
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]]
+**Related:** [[2026-09-03-anthropic-breaks-with-google-and-openai-over-massachusetts-a]] · [[2026-09-26-anthropic-and-openai-sound-the-alarm-on-ai-safety-while-seek]] · [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]]
 <!-- graph:end -->

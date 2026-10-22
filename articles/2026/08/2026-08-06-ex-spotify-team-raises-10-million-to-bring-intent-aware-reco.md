@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
+- 2026-10-21-october-22-2026-dealbook
 - 2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a
 - 2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo
 - 2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding
-- 2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu
 embedding_id: 2026-08-06-ex-spotify-team-raises-10-million-to-bring-intent-aware-reco
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Malachyte, founded by former Spotify employees who worked on recommendation infr
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding]] · [[2026-08-12-openai-backed-thrive-holdings-raises-2b-to-push-ai-into-regu]]
+**Related:** [[2026-07-15-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-10-21-october-22-2026-dealbook]] · [[2026-09-24-lovable-says-annualized-revenue-crossed-600m-as-enterprise-a]] · [[2026-08-25-keenable-exits-stealth-with-26m-to-build-web-search-index-fo]] · [[2026-09-25-lovable-says-annualized-revenue-crossed-600m-as-vibe-coding]]
 <!-- graph:end -->

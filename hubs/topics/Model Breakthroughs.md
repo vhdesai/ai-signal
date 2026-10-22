@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 3566
+member_count: 3575
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 3566 connected article(s).
+> Auto-generated topic hub. 3575 connected article(s).
 
+- `2026-10-22` [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0|IBM releases Granite Speech 5.0 2B under Apache 2.0]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-cios-are-warned-that-current-ai-pricing-may-be-a-temporary-l|CIOs are warned that current AI pricing may be a temporary low]]
+- `2026-10-22` [[2026-10-22-ai-assisted-analysis-surfaced-a-critical-php-vulnerability-w|AI-assisted analysis surfaced a critical PHP vulnerability with broad web impact]]
+- `2026-10-21` [[2026-10-21-spacex-cloud-demand-from-ai-labs-highlights-persistent-capac|SpaceX cloud demand from AI labs highlights persistent capacity pressure]]
+- `2026-10-21` [[2026-10-21-openai-introduces-stricter-partner-standards-for-broad-model|OpenAI introduces stricter partner standards for broad model access]]
+- `2026-10-21` [[2026-10-21-openai-expands-enterprise-distribution-through-google-cloud|OpenAI expands enterprise distribution through Google Cloud channels]]
+- `2026-10-21` [[2026-10-21-mistral-releases-voxtral-3-speech-models-and-voice-agent-sdk|Mistral releases Voxtral 3 speech models and voice-agent SDK]]
+- `2026-10-21` [[2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag|Berkeley RDI highlights infrastructure-level controls for agentic AI safety]]
 - `2026-10-20` [[2026-10-20-yelp-adds-ai-calls-to-check-restaurant-wait-times|Yelp adds AI calls to check restaurant wait times]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]

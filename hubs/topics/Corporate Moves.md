@@ -1,13 +1,24 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 4982
+member_count: 4997
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 4982 connected article(s).
+> Auto-generated topic hub. 4997 connected article(s).
 
+- `2026-10-22` [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza|Meta reshapes financing as AI spend surges and Muse monetization accelerates]]
+- `2026-10-22` [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr|Japanese analysis links Chinese AI tooling to a broader intrusion campaign]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists|Cognizant to train 18,000 Google Cloud AI specialists]]
+- `2026-10-22` [[2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor|Cognizant and Google Cloud scale a Gemini deployment workforce]]
+- `2026-10-21` [[2026-10-21-october-22-2026-dealbook|[October 22, 2026] · DealBook]]
+- `2026-10-21` [[2026-10-21-the-kraft-group-is-treating-trust-as-a-core-enterprise-ai-ro|The Kraft Group is treating trust as a core enterprise AI rollout lever]]
+- `2026-10-21` [[2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply|Robotics and physical-AI funding accelerates sharply]]
+- `2026-10-21` [[2026-10-21-pitchbook-flags-a-valuation-surge-across-inference-chip-star|PitchBook flags a valuation surge across inference-chip startups]]
+- `2026-10-21` [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace|OpenAI models are coming to Google Cloud Marketplace]]
+- `2026-10-21` [[2026-10-21-anthropic-opens-claude-duet-waitlist-preview-for-proactive-t|Anthropic opens Claude Duet waitlist preview for proactive task execution]]
 - `2026-10-20` [[2026-10-20-october-19-2026-dealbook|[October 19, 2026] · DealBook]]
 - `2026-10-20` [[2026-10-20-october-19-2026-cio-dive|[October 19, 2026] · CIO Dive]]
 - `2026-10-20` [[2026-10-20-yelp-adds-ai-calls-to-check-restaurant-wait-times|Yelp adds AI calls to check restaurant wait times]]
@@ -17,15 +28,19 @@ member_count: 4982
 - `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
 - `2026-10-20` [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee|POLICY GOVERNMENTU.S. federal agencies told to remove DeepSeek from their systems]]
 - `2026-10-20` [[2026-10-20-otter-ai-secures-320-million-from-general-catalyst-s-custome|Otter.ai secures $320 million from General Catalyst's Customer Value Fund]]
+- `2026-10-20` [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat|OpenAI acquires Orchestra Bio to deepen life-sciences operations]]
 - `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
 - `2026-10-20` [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model|New coverage: Cloudflare previews Clairic extraction model]]
+- `2026-10-20` [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days|Meta's Muse reaches 10 million U.S. downloads in 40 days]]
 - `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
 - `2026-10-20` [[2026-10-20-funding-physical-aieka-robotics-raises-150-million-at-a-1-45|FUNDING PHYSICAL AIEka Robotics raises $150 million at a $1.45 billion valuation]]
 - `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-cloudflare-previews-clairic-a-model-for-structured-document|Cloudflare previews Clairic, a model for structured document extraction]]
 - `2026-10-20` [[2026-10-20-china-launches-state-owned-company-to-develop-national-ai-da|China launches state-owned company to develop national AI data resources]]
+- `2026-10-20` [[2026-10-20-chatgpt-adds-locked-chats-with-pin-and-biometrics|ChatGPT adds Locked Chats with PIN and biometrics]]
 - `2026-10-20` [[2026-10-20-arda-industries-emerges-with-232-million-for-manufacturing-a|Arda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain|Anthropic filing details growing cloud-capacity strain]]
 - `2026-10-19` [[2026-10-19-videofal-and-black-forest-labs-launch-flux-3-max-for-ai-vide|VIDEOfal and Black Forest Labs launch FLUX 3 Max for AI video generation]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation|Tenstorrent raises $1.5 billion at a $6.2 billion valuation]]

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 921
+member_count: 925
 ---
 
 # Meta
 
-> Auto-generated entity hub. 921 connected article(s).
+> Auto-generated entity hub. 925 connected article(s).
 
+- `2026-10-22` [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza|Meta reshapes financing as AI spend surges and Muse monetization accelerates]]
+- `2026-10-21` [[2026-10-21-october-22-2026-dealbook|[October 22, 2026] · DealBook]]
+- `2026-10-20` [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days|Meta's Muse reaches 10 million U.S. downloads in 40 days]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-scale-capacitymeta-says-its-prometheus-supercluster-has-reac|SCALE CAPACITYMeta says its Prometheus supercluster has reached its first phase]]
 - `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]

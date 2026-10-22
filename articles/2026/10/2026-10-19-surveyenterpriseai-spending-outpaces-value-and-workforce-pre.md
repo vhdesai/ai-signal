@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-october-19-2026-cio-dive
+- 2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i
 - 2026-07-29-demand-outweighs-supply-for-ai-skilled-workers
 - 2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp
-- 2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains
 embedding_id: 2026-10-19-surveyenterpriseai-spending-outpaces-value-and-workforce-pre
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive's Gartner conference report says 86% of CIOs see AI risk growing faster
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-10-20-october-19-2026-cio-dive]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]] · [[2026-10-02-cio-dive-dev-speed-up-but-code-reviews-are-eating-the-gains]]
+**Related:** [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i]] · [[2026-07-29-demand-outweighs-supply-for-ai-skilled-workers]] · [[2026-08-22-gartner-ai-capabilities-outpacing-cost-savings-enterprise-sp]]
 <!-- graph:end -->

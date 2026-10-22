@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com
 - 2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s
-- 2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern
+- 2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin
 embedding_id: 2026-10-13-jpmorgan-limits-third-party-agents-direct-account-access
 event_name: ''
 ---
@@ -37,5 +37,5 @@ JPMorgan blocks outside agents from operating customer accounts through shared c
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-10-05-unauthorized-agents-create-a-healthcare-governance-concern]]
+**Related:** [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com]] · [[2026-09-26-venturebeat-ai-agents-expose-a-gap-between-data-access-and-s]] · [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]]
 <!-- graph:end -->

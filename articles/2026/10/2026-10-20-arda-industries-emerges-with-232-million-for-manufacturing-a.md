@@ -4,8 +4,8 @@ title: Arda Industries emerges with $232 million for manufacturing AI
 date: '2026-10-20'
 source: DealBook
 url_original: null
-url_canonical: https://www.citybiz.co/article/921566/arda-industries-emerges-from-stealth-with-232-million-to-automate-u-s-manufacturing/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_065831_Final-Daily-AI-News-Digest.md
 content_hash: 5c646894485ee4b226af6e6c11372fc98e3a3e460c7d874c8fd38b7110b84562
 normalized_title_hash: 8ecddd820cc4709c

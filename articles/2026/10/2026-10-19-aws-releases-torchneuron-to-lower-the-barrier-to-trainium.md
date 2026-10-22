@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t
 - 2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to
 - 2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps
-- 2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no
+- 2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia
 embedding_id: 2026-10-19-aws-releases-torchneuron-to-lower-the-barrier-to-trainium
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AWS introduced TorchNeuron, which Amazon says lets PyTorch applications run on T
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr]] · [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t]] · [[2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to]] · [[2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps]] · [[2026-10-19-amazon-opens-trainium-ai-chips-to-pytorch-developers-with-no]]
+**Related:** [[2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr]] · [[2026-10-19-aws-releases-torchneuron-to-simplify-pytorch-deployment-on-t]] · [[2026-10-19-aws-uses-torchneuron-to-lower-pytorch-migration-friction-to]] · [[2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps]] · [[2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Otter.ai secures $320 million from General Catalyst's Customer Value Fund
 date: '2026-10-20'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_130617_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 4b871511b4459ee75aefc6b2f9ad66570cf83a4436f2deb9bd49f9089f337294

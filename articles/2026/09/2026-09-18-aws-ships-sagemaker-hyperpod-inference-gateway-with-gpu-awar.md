@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack
 - 2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for
 - 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
 - 2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m
 - 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
-- 2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu
 embedding_id: 2026-09-18-aws-ships-sagemaker-hyperpod-inference-gateway-with-gpu-awar
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AWS launched SageMaker HyperPod Inference Gateway, a Kubernetes-native, GPU-awar
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for]] · [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]] · [[2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t]] · [[2026-09-04-nvidia-releases-personal-ai-router-pair-an-open-source-virtu]]
+**Related:** [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-09-17-microsoft-open-sources-taugrid-a-kubernetes-native-stack-for]] · [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-08-23-freetoken-an-edge-native-moe-serving-engine-running-a-753b-m]] · [[2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t]]
 <!-- graph:end -->

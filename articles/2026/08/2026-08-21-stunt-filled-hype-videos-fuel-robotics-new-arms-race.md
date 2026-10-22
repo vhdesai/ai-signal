@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra
 - 2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot
+- 2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply
 embedding_id: 2026-08-21-stunt-filled-hype-videos-fuel-robotics-new-arms-race
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Robotics companies are producing increasingly extreme stunt videos that exaggera
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]]
+**Related:** [[2026-08-10-dyna-robotics-introduces-dyna-2-a-world-action-model-pre-tra]] · [[2026-09-23-black-forest-labs-debuts-flux-3-action-an-open-weights-robot]] · [[2026-10-21-robotics-and-physical-ai-funding-accelerates-sharply]]
 <!-- graph:end -->

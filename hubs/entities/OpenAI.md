@@ -1,15 +1,23 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 2770
+member_count: 2778
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 2770 connected article(s).
+> Auto-generated entity hub. 2778 connected article(s).
 
+- `2026-10-22` [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p|AI-assisted discovery of critical PHP flaws triggers broad patch urgency]]
+- `2026-10-21` [[2026-10-21-october-22-2026-wsj-pro-cybersecurity|[October 22, 2026] · WSJ Pro Cybersecurity]]
+- `2026-10-21` [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace|OpenAI models are coming to Google Cloud Marketplace]]
+- `2026-10-21` [[2026-10-21-openai-introduces-stricter-partner-standards-for-broad-model|OpenAI introduces stricter partner standards for broad model access]]
+- `2026-10-21` [[2026-10-21-openai-expands-enterprise-distribution-through-google-cloud|OpenAI expands enterprise distribution through Google Cloud channels]]
+- `2026-10-20` [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat|OpenAI acquires Orchestra Bio to deepen life-sciences operations]]
 - `2026-10-20` [[2026-10-20-fundingmanufacturingarda-industries-emerges-with-232-million|FUNDINGMANUFACTURINGArda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-chatgpt-adds-locked-chats-with-pin-and-biometrics|ChatGPT adds Locked Chats with PIN and biometrics]]
 - `2026-10-20` [[2026-10-20-arda-industries-emerges-with-232-million-for-manufacturing-a|Arda Industries emerges with $232 million for manufacturing AI]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-research-healthcaresymmetry-aware-ai-aims-to-improve-prenata|RESEARCH HEALTHCARESymmetry-aware AI aims to improve prenatal MRI analysis]]
 - `2026-10-19` [[2026-10-19-research-codingopenai-introduces-a-benchmark-for-coding-in-l|RESEARCH CODINGOpenAI introduces a benchmark for coding in low-resource languages]]

@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
 - 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
+- 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 - 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
-- 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 embedding_id: 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports hackers used a Chinese AI tool to target South Korean banks, opening
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]]
+**Related:** [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-09-05-ai-agents-in-cyberattacks-target-asian-governments]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]]
 <!-- graph:end -->

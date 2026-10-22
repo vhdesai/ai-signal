@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
+- 2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
-- 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 embedding_id: 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The largest U.S. venture round of the week. Fireworks, which helps enterprises t
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d]]
+**Related:** [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]]
 <!-- graph:end -->

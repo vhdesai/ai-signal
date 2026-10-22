@@ -1,16 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure Investments
-member_count: 1842
+member_count: 1843
 ---
 
 # Infrastructure Investments
 
-> Auto-generated topic hub. 1842 connected article(s).
+> Auto-generated topic hub. 1843 connected article(s).
 
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain|Anthropic filing details growing cloud-capacity strain]]
 - `2026-10-19` [[2026-10-19-october-20-2026-the-information|[October 20, 2026] · The Information]]
 - `2026-10-19` [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation|Tenstorrent raises $1.5 billion at a $6.2 billion valuation]]
 - `2026-10-19` [[2026-10-19-tenstorrent-funding-compute-tenstorrent-raises-1-5-billion-t|TENSTORRENT FUNDING COMPUTE Tenstorrent raises $1.5 billion to expand its compute business]]

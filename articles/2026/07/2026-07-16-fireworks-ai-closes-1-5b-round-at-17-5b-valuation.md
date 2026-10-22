@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation
+- 2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 - 2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation
 - 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
-- 2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven
 embedding_id: 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The fine-tuning and inference platform raised $1.5B (Series D) led by Atreides, 
 
 **Entities:** [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Corporate Moves]] · [[Company Investments]]
-**Related:** [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]] · [[2026-08-13-databricks-raises-5b-at-a-190b-valuation-as-annualized-reven]]
+**Related:** [[2026-07-17-fireworks-ai-raises-1-5b-series-d-at-17-5b-valuation]] · [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation]] · [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-10-19-tenstorrent-raises-1-5-billion-at-a-6-2-billion-valuation]] · [[2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference]]
 <!-- graph:end -->

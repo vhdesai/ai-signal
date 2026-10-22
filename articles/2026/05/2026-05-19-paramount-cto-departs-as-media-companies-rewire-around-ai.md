@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-21-the-kraft-group-is-treating-trust-as-a-core-enterprise-ai-ro
 - 2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a
 - 2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
-- 2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by
 embedding_id: 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Paramount's CTO is stepping down amid a wave of senior tech leadership changes a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-09-16-gartner-one-third-of-ai-replaced-workers-will-be-rehired-by]]
+**Related:** [[2026-10-21-the-kraft-group-is-treating-trust-as-a-core-enterprise-ai-ro]] · [[2026-10-07-enterprise-ai-ownership-is-still-unresolved-as-cios-absorb-a]] · [[2026-09-16-gartner-fewer-than-1-of-2025-job-losses-were-ai-driven-one-t]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]]
 <!-- graph:end -->

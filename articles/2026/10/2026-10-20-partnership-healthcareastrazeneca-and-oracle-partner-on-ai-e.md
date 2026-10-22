@@ -5,8 +5,8 @@ title: PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinic
 date: '2026-10-20'
 source: AstraZeneca
 url_original: null
-url_canonical: https://www.appliedclinicaltrialsonline.com/view/astrazeneca-oracle-ai-collaboration-clinical-trial-recruitment-safety-monitoring
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_135812_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 54e427b5260bfcb1b3893eef7952628d5aee4a1ea1845a9267bb06b321062df4

@@ -20,11 +20,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse
+- 2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian
 - 2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro
-- 2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee
-- 2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech
-- 2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems
 embedding_id: 2026-10-20-october-20-2026-wsj-pro-cybersecurity
 event_name: ''
 ---
@@ -38,5 +35,5 @@ WSJ Pro Cybersecurity reports that a June DHS memo, made public Monday, requires
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse]] · [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro]] · [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee]] · [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech]] · [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems]]
+**Related:** [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian]] · [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro]]
 <!-- graph:end -->

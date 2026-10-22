@@ -5,8 +5,8 @@ title: POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from feder
 date: '2026-10-20'
 source: WSJ Pro Cybersecurity[October 20, 2026] · TechCrunch
 url_original: null
-url_canonical: https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_141119_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 69c5894ac33bc823a8b95e8b6f55aa1498ea31bf310788d6c2dd11bbe817efb1
@@ -22,7 +22,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-10-20-october-20-2026-wsj-pro-cybersecurity
+canonical_article_id: 2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian
 related_article_ids: []
 embedding_id: 2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse
 event_name: ''
@@ -37,5 +37,5 @@ WSJ Pro Cybersecurity reports that a June DHS memo, made public Monday, requires
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-10-20-october-20-2026-wsj-pro-cybersecurity]]
+**Canonical:** [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian]]
 <!-- graph:end -->

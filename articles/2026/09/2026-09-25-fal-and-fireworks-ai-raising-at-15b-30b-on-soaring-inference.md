@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so
 - 2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so
+- 2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation
 - 2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d
 - 2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation
-- 2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup
 embedding_id: 2026-09-25-fal-and-fireworks-ai-raising-at-15b-30b-on-soaring-inference
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Inference-serving startups are the year's cleanest AI-infrastructure trade. The 
 
 **Entities:** [[Alibaba]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Infrastructure Investments]] · [[Global AI Race]]
-**Related:** [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]] · [[2026-08-12-kevin-weil-seeks-750m-valuation-for-ai-science-startup]]
+**Related:** [[2026-09-25-fal-and-fireworks-consider-new-rounds-as-inference-demand-so]] · [[2026-09-25-fireworks-and-fal-consider-new-rounds-as-inference-demand-so]] · [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation]] · [[2026-09-26-fireworks-ai-and-fal-weigh-new-funding-rounds-as-inference-d]] · [[2026-07-16-fireworks-ai-closes-1-5b-round-at-17-5b-valuation]]
 <!-- graph:end -->

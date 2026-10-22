@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 - 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
-- 2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h
-- 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
+- 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
+- 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
 embedding_id: 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 event_name: ''
 ---
@@ -42,5 +42,5 @@ WSJ Pro reports the Itron utility-metering breach affected more downstream custo
 
 **Entities:** [[Google]] · [[IBM]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig]] · [[2026-09-16-chinese-hackers-for-hire-professionalize-using-ai-to-parse-h]] · [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4]]
+**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]]
 <!-- graph:end -->

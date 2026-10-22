@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp
-- 2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin
+- 2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days
 embedding_id: 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta stock gained 4.5% Thursday after an 11%+ Monday jump, recovering to roughly
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-09-25-meta-muse-opens-early-access-program-gets-full-meta-marketin]]
+**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-21-amazon-blocks-meta-s-muse-agent-from-amazon-com-as-muse-outp]] · [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days]]
 <!-- graph:end -->

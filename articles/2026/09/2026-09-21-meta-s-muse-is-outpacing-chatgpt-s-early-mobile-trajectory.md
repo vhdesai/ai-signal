@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us
 - 2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c
+- 2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days
 - 2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store
-- 2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits
 embedding_id: 2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early-mobile-trajectory
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apptopia estimates show Meta's Muse assistant ahead of ChatGPT's mobile debut cu
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]] · [[2026-09-11-meta-s-muse-assistant-tops-83-000-us-ios-downloads-and-hits]]
+**Related:** [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-09-18-muse-overtakes-chatgpt-as-the-1-free-iphone-app-in-the-us]] · [[2026-09-25-meta-shares-extend-rally-as-muse-outpaces-chatgpt-s-launch-c]] · [[2026-10-20-meta-s-muse-reaches-10-million-u-s-downloads-in-40-days]] · [[2026-09-12-meta-s-muse-agent-climbs-to-no-2-on-the-us-app-store]]
 <!-- graph:end -->

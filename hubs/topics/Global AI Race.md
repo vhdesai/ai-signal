@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 1663
+member_count: 1668
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 1663 connected article(s).
+> Auto-generated topic hub. 1668 connected article(s).
 
+- `2026-10-22` [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr|Japanese analysis links Chinese AI tooling to a broader intrusion campaign]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane|Chinese AI agent reportedly linked to cyberattacks on Japanese companies]]
 - `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]
@@ -17,7 +20,9 @@ member_count: 1663
 - `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
 - `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian|DHS order removes DeepSeek technology from federal civilian systems]]
 - `2026-10-20` [[2026-10-20-china-launches-state-owned-company-to-develop-national-ai-da|China launches state-owned company to develop national AI data resources]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
 - `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]

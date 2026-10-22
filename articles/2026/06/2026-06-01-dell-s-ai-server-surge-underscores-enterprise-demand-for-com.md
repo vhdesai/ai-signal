@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-10-20-october-19-2026-cio-dive
+- 2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i
 - 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
-- 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 embedding_id: 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive led with Dell revenue jumping 88% as the company rides enterprise AI de
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-10-20-october-19-2026-cio-dive]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]]
+**Related:** [[2026-10-20-october-19-2026-cio-dive]] · [[2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

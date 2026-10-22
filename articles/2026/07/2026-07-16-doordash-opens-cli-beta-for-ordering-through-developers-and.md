@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via
 - 2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa
 - 2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 embedding_id: 2026-07-16-doordash-opens-cli-beta-for-ordering-through-developers-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DoorDash introduced a limited beta of dd-cli, a command-line tool that lets deve
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
+**Related:** [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-08-20-binance-launches-agent-os-letting-ai-agents-trade-crypto-via]] · [[2026-10-06-websites-are-starting-to-block-ai-agents-a-new-access-standa]] · [[2026-07-25-openai-s-ai-keypad-shows-early-shape-of-dedicated-agent-hard]]
 <!-- graph:end -->

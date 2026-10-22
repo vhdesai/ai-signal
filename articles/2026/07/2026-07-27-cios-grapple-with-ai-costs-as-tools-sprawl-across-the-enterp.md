@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 - 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su
-- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
+- 2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i
 embedding_id: 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CIO Dive reports that enterprises are trying to balance AI adoption with budget 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Infrastructure Investments]]
-**Related:** [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]]
+**Related:** [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-06-15-tech-vendors-target-ai-pain-points-as-enterprise-spending-su]] · [[2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i]]
 <!-- graph:end -->

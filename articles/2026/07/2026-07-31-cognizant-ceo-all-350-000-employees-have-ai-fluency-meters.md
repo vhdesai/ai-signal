@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
+- 2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-08-03-this-study-is-important-because-it-examines-real-world-usage
 embedding_id: 2026-07-31-cognizant-ceo-all-350-000-employees-have-ai-fluency-meters
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cognizant says all 350,000 employees now have AI fluency dashboards that track u
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-08-03-this-study-is-important-because-it-examines-real-world-usage]]
+**Related:** [[2026-08-12-openai-enterprise-report-codex-now-drives-64-of-enterprise-t]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

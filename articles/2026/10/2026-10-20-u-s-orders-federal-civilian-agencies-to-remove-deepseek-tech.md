@@ -20,7 +20,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee
+canonical_article_id: 2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian
 related_article_ids: []
 embedding_id: 2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech
 event_name: ''
@@ -35,5 +35,5 @@ The U.S. ordered federal civilian agencies to stop purchasing DeepSeek products 
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee]]
+**Canonical:** [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian]]
 <!-- graph:end -->

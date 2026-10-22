@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand
 - 2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome
+- 2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza
 embedding_id: 2026-09-21-meta-s-muse-agent-tops-the-app-store-and-pushes-amd-past-1-t
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Meta rallied 6.5% on Monday, lifting the Nasdaq 100 by 2.15%, after its Muse con
 
 **Entities:** [[AMD]] · [[Apple]] · [[Arm]] · [[Intel]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]] · [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-09-28-meta-pushes-to-monetize-ai-spending-through-business-custome]]
+**Related:** [[2026-09-21-amd-crosses-1-trillion-as-agentic-workloads-reprice-cpu-dema]] · [[2026-09-22-amd-crosses-1-trillion-market-cap-on-ai-accelerator-demand]] · [[2026-09-20-meta-s-ai-agent-muse-hits-no-1-on-the-app-store-with-fewer-d]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza]]
 <!-- graph:end -->

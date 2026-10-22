@@ -1,18 +1,22 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 1710
+member_count: 1714
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 1710 connected article(s).
+> Auto-generated entity hub. 1714 connected article(s).
 
+- `2026-10-21` [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev|Nvidia expands Isaac robotics assets for general-purpose development]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
+- `2026-10-20` [[2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia|Google joins Amazon in reducing PyTorch lock-in to Nvidia]]
 - `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
 - `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
+- `2026-10-20` [[2026-10-20-amazon-s-ai-buildout-is-draining-cash|Amazon's AI buildout is draining cash]]
 - `2026-10-19` [[2026-10-19-october-20-2026-the-information|[October 20, 2026] · The Information]]
 - `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]

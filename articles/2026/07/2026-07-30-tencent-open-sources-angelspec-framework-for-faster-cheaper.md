@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor
+- 2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack
 - 2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 embedding_id: 2026-07-30-tencent-open-sources-angelspec-framework-for-faster-cheaper
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent open-sourced AngelSpec, a PyTorch-native framework for multi-token predi
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
+**Related:** [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor]] · [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack]] · [[2026-08-28-tencent-open-sources-hy4-preview-770b-parameters-49b-active]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]]
 <!-- graph:end -->

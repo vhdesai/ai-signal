@@ -4,8 +4,8 @@ title: Nvidia backs German startups and industrial-AI collaboration
 date: '2026-10-20'
 source: 02:16 UTC · CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-10-20_130246_Inbox_Daily AI News Digest – October
   20, 2026.md
 content_hash: 5fcf246f6af6b82840202cef9e0da35a3148d1a89c3dc49871d61a849eaa65ac

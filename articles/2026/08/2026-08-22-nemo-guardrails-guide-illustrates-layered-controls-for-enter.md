@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
+- 2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag
 - 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 - 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 - 2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit
-- 2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff
 embedding_id: 2026-08-22-nemo-guardrails-guide-illustrates-layered-controls-for-enter
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MarkTechPost published a developer guide to building a NeMo Guardrails pipeline 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]] · [[2026-09-04-nvidia-nemoclaw-recipe-shows-a-memory-driven-chief-of-staff]]
+**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]] · [[2026-09-12-openai-publishes-perplexity-case-study-astra-now-trusted-wit]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0
 embedding_id: 2026-08-26-ibm-launches-granite-4-2-open-weight-models-for-local-and-ag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ IBM released Granite 4.2 in 3B, 8B and 30B sizes with a 128K-token context windo
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]]
+**Related:** [[2026-08-25-ibm-releases-granite-4-2-bringing-native-reasoning-and-agent]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0]]
 <!-- graph:end -->

@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 722
+member_count: 726
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 722 connected article(s).
+> Auto-generated entity hub. 726 connected article(s).
 
+- `2026-10-21` [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin|Walmart opens an agent gateway while rivals continue blocking shopping bots]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-new-coverage-cloudflare-previews-clairic-extraction-model|New coverage: Cloudflare previews Clairic extraction model]]
+- `2026-10-20` [[2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia|Google joins Amazon in reducing PyTorch lock-in to Nvidia]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
+- `2026-10-20` [[2026-10-20-amazon-s-ai-buildout-is-draining-cash|Amazon's AI buildout is draining cash]]
 - `2026-10-19` [[2026-10-19-newdeveloper-toolsaws-releases-torchneuron-to-lower-the-barr|NEWDEVELOPER TOOLSAWS releases TorchNeuron to lower the barrier to Trainium]]
 - `2026-10-19` [[2026-10-19-infrastructureaws-introduces-torchneuron-to-run-pytorch-apps|INFRASTRUCTUREAWS introduces TorchNeuron to run PyTorch apps on Trainium]]
 - `2026-10-19` [[2026-10-19-governancereported-proposalsaltman-outlines-competing-endgam|GOVERNANCEREPORTED PROPOSALSAltman outlines competing endgames for governing frontier AI]]

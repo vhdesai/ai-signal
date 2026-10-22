@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 2434
+member_count: 2438
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 2434 connected article(s).
+> Auto-generated entity hub. 2438 connected article(s).
 
+- `2026-10-21` [[2026-10-21-anthropic-opens-claude-duet-waitlist-preview-for-proactive-t|Anthropic opens Claude Duet waitlist preview for proactive task execution]]
+- `2026-10-20` [[2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics|Anthropic's S-1 underscores compute-heavy unit economics]]
+- `2026-10-20` [[2026-10-20-anthropic-filing-details-growing-cloud-capacity-strain|Anthropic filing details growing cloud-capacity strain]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
 - `2026-10-19` [[2026-10-19-nscale-anthropic-in-talks-for-45-billion-cloud-computing-dea|Nscale, Anthropic in talks for $45 billion cloud computing deal]]

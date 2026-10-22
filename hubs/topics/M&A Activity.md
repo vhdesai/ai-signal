@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: M&A Activity
-member_count: 514
+member_count: 515
 ---
 
 # M&A Activity
 
-> Auto-generated topic hub. 514 connected article(s).
+> Auto-generated topic hub. 515 connected article(s).
 
+- `2026-10-20` [[2026-10-20-openai-acquires-orchestra-bio-to-deepen-life-sciences-operat|OpenAI acquires Orchestra Bio to deepen life-sciences operations]]
 - `2026-10-18` [[2026-10-18-disney-agrees-to-hire-most-of-character-ai-s-workforce-after|Disney agrees to hire most of Character.AI's workforce after bankruptcy filing]]
 - `2026-10-13` [[2026-10-13-openai-pushes-ahead-with-next-model-despite-loop-transformer|OpenAI pushes ahead with next model despite loop-transformer safety concerns and eyes Trail of Bits]]
 - `2026-10-11` [[2026-10-11-infrastructure-ai-adjacent-m-a-cloudflare-acquires-deno-to-i|INFRASTRUCTURE AI-ADJACENT M&A Cloudflare acquires Deno to improve its Workers programming model October 10, 2026, 9:25…]]

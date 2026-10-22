@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1662
+member_count: 1669
 ---
 
 # Google
 
-> Auto-generated entity hub. 1662 connected article(s).
+> Auto-generated entity hub. 1669 connected article(s).
 
+- `2026-10-22` [[2026-10-22-cognizant-to-train-18-000-google-cloud-ai-specialists|Cognizant to train 18,000 Google Cloud AI specialists]]
+- `2026-10-22` [[2026-10-22-cognizant-and-google-cloud-scale-a-gemini-deployment-workfor|Cognizant and Google Cloud scale a Gemini deployment workforce]]
+- `2026-10-21` [[2026-10-21-u-s-senators-open-scrutiny-of-ai-deployment-in-schools|U.S. senators open scrutiny of AI deployment in schools]]
+- `2026-10-21` [[2026-10-21-openai-models-are-coming-to-google-cloud-marketplace|OpenAI models are coming to Google Cloud Marketplace]]
+- `2026-10-21` [[2026-10-21-openai-expands-enterprise-distribution-through-google-cloud|OpenAI expands enterprise distribution through Google Cloud channels]]
+- `2026-10-20` [[2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia|Google joins Amazon in reducing PyTorch lock-in to Nvidia]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-opencode-breach-could-affect-openai-anthropic-and-google|OpenCode breach could affect OpenAI, Anthropic and Google]]
 - `2026-10-19` [[2026-10-19-ibm-research-launched-a-new-course-explaining-how-ai-models|IBM Research launched a new course explaining how AI models run on modern accelerators. The course targets a growing skills gap: developers and technical leaders need to understand hardware-aware AI execution, not just model APIs. It fits the broader shift toward custom chips, Trainium, Maia, Ascend, and heterogeneous AI infrastructure.]]

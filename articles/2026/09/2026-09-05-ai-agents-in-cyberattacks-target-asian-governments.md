@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a
 - 2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g
+- 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
 - 2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks
-- 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 embedding_id: 2026-09-05-ai-agents-in-cyberattacks-target-asian-governments
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cybernews reports that AI agents are being used in cyberattacks targeting Asian 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]]
+**Related:** [[2026-09-04-cybersecuritynews-and-related-security-feeds-reported-that-a]] · [[2026-08-13-hackers-deploy-fully-autonomous-ai-agents-to-attack-taiwan-g]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-06-hackers-use-chinese-ai-tool-to-hit-south-korean-banks]]
 <!-- graph:end -->

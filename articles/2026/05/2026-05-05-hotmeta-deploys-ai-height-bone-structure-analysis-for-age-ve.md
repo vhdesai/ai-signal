@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver
 - 2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d
 - 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
+- 2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza
 - 2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it
-- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Meta is using AI to analyze user height and bone structure to identify users it 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]] · [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
+**Related:** [[2026-08-27-meta-s-18b-child-safety-settlement-rests-on-unproven-age-ver]] · [[2026-08-27-meta-s-18b-settlement-hinges-on-age-verification-tech-that-d]] · [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-10-22-meta-reshapes-financing-as-ai-spend-surges-and-muse-monetiza]] · [[2026-07-16-meta-will-alert-parents-when-teens-discuss-self-harm-with-it]]
 <!-- graph:end -->

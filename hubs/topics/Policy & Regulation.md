@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 2293
+member_count: 2303
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 2293 connected article(s).
+> Auto-generated topic hub. 2303 connected article(s).
 
+- `2026-10-22` [[2026-10-22-ibm-releases-granite-speech-5-0-2b-under-apache-2-0|IBM releases Granite Speech 5.0 2B under Apache 2.0]]
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane|Chinese AI agent reportedly linked to cyberattacks on Japanese companies]]
+- `2026-10-22` [[2026-10-22-ai-assisted-discovery-of-critical-php-flaws-triggers-broad-p|AI-assisted discovery of critical PHP flaws triggers broad patch urgency]]
+- `2026-10-21` [[2026-10-21-walmart-opens-an-agent-gateway-while-rivals-continue-blockin|Walmart opens an agent gateway while rivals continue blocking shopping bots]]
+- `2026-10-21` [[2026-10-21-u-s-senators-open-scrutiny-of-ai-deployment-in-schools|U.S. senators open scrutiny of AI deployment in schools]]
+- `2026-10-21` [[2026-10-21-openai-introduces-stricter-partner-standards-for-broad-model|OpenAI introduces stricter partner standards for broad model access]]
+- `2026-10-21` [[2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag|Berkeley RDI highlights infrastructure-level controls for agentic AI safety]]
 - `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]
 - `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
@@ -15,6 +23,8 @@ member_count: 2293
 - `2026-10-20` [[2026-10-20-partnership-healthcareastrazeneca-and-oracle-partner-on-ai-e|PARTNERSHIP HEALTHCAREAstraZeneca and Oracle partner on AI-enabled clinical research]]
 - `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
 - `2026-10-20` [[2026-10-20-eka-robotics-raises-150-million-at-a-1-45-billion-valuation|Eka Robotics raises $150 million at a $1.45 billion valuation]]
+- `2026-10-20` [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian|DHS order removes DeepSeek technology from federal civilian systems]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
 - `2026-10-19` [[2026-10-19-why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis|Why teaching AI about symmetry could make prenatal diagnosis more reliable]]
 - `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]

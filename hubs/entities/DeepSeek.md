@@ -1,19 +1,22 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 557
+member_count: 560
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 557 connected article(s).
+> Auto-generated entity hub. 560 connected article(s).
 
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
 - `2026-10-20` [[2026-10-20-october-20-2026-wsj-pro-cybersecurity|[October 20, 2026] · WSJ Pro Cybersecurity]]
 - `2026-10-20` [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro|US orders federal agencies to remove China’s DeepSeek AI from their systems]]
 - `2026-10-20` [[2026-10-20-u-s-orders-federal-civilian-agencies-to-remove-deepseek-tech|U.S. orders federal civilian agencies to remove DeepSeek technology]]
 - `2026-10-20` [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse|POLICYMODEL PROVENANCENewly public DHS order excludes DeepSeek from federal civilian systems]]
 - `2026-10-20` [[2026-10-20-policy-governmentu-s-federal-agencies-told-to-remove-deepsee|POLICY GOVERNMENTU.S. federal agencies told to remove DeepSeek from their systems]]
 - `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
+- `2026-10-20` [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian|DHS order removes DeepSeek technology from federal civilian systems]]
+- `2026-10-20` [[2026-10-20-anthropic-circulates-draft-u-s-bill-with-catastrophic-risk-i|Anthropic circulates draft U.S. bill with catastrophic-risk intervention thresholds]]
 - `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]
 - `2026-10-19` [[2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems|U.S. orders DeepSeek off federal civilian agency systems]]
 - `2026-10-19` [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems|U.S. moves to ban DeepSeek from government agency IT systems]]

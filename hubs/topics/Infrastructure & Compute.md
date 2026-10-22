@@ -1,22 +1,36 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 2242
+member_count: 2256
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 2242 connected article(s).
+> Auto-generated topic hub. 2256 connected article(s).
 
+- `2026-10-22` [[2026-10-22-deepseek-reportedly-raises-15-billion-ahead-of-potential-ipo|DeepSeek reportedly raises $15 billion ahead of potential IPO]]
+- `2026-10-22` [[2026-10-22-cios-are-warned-that-current-ai-pricing-may-be-a-temporary-l|CIOs are warned that current AI pricing may be a temporary low]]
+- `2026-10-22` [[2026-10-22-cios-are-being-warned-that-ai-may-never-be-cheaper-than-it-i|CIOs are being warned that AI may never be cheaper than it is now]]
+- `2026-10-21` [[2026-10-21-llm-d-1-0-lands-as-a-production-distributed-inference-stack|llm-d 1.0 lands as a production distributed inference stack]]
+- `2026-10-21` [[2026-10-21-october-22-2026-dealbook|[October 22, 2026] · DealBook]]
+- `2026-10-21` [[2026-10-21-spacex-cloud-demand-from-ai-labs-highlights-persistent-capac|SpaceX cloud demand from AI labs highlights persistent capacity pressure]]
+- `2026-10-21` [[2026-10-21-pitchbook-flags-a-valuation-surge-across-inference-chip-star|PitchBook flags a valuation surge across inference-chip startups]]
+- `2026-10-21` [[2026-10-21-nvidia-expands-isaac-robotics-assets-for-general-purpose-dev|Nvidia expands Isaac robotics assets for general-purpose development]]
+- `2026-10-21` [[2026-10-21-fireworks-ai-reportedly-seeks-funding-at-a-30b-40b-valuation|Fireworks AI reportedly seeks funding at a $30B-$40B valuation]]
+- `2026-10-21` [[2026-10-21-berkeley-rdi-highlights-infrastructure-level-controls-for-ag|Berkeley RDI highlights infrastructure-level controls for agentic AI safety]]
+- `2026-10-21` [[2026-10-21-anthropic-opens-claude-duet-waitlist-preview-for-proactive-t|Anthropic opens Claude Duet waitlist preview for proactive task execution]]
 - `2026-10-20` [[2026-10-20-yelp-adds-a-voice-agent-that-calls-restaurants-to-check-wait|Yelp adds a voice agent that calls restaurants to check wait times]]
 - `2026-10-20` [[2026-10-20-yelp-adds-ai-calls-to-check-restaurant-wait-times|Yelp adds AI calls to check restaurant wait times]]
 - `2026-10-20` [[2026-10-20-supply-hotchinese-technology-firms-place-more-than-35-billio|SUPPLY HOTChinese technology firms place more than $35 billion in Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-nvidia-backs-german-startups-and-industrial-ai-collaboration|Nvidia backs German startups and industrial-AI collaboration]]
+- `2026-10-20` [[2026-10-20-google-joins-amazon-in-reducing-pytorch-lock-in-to-nvidia|Google joins Amazon in reducing PyTorch lock-in to Nvidia]]
 - `2026-10-20` [[2026-10-20-fundingai-chipstenstorrent-raises-1-5-billion-to-scale-infer|FUNDINGAI CHIPSTenstorrent raises $1.5 billion to scale inference hardware]]
 - `2026-10-20` [[2026-10-20-financingcredit-riskcoreweave-s-debt-puts-ai-infrastructure|FINANCINGCREDIT RISKCoreWeave's debt puts AI infrastructure financing under scrutiny]]
 - `2026-10-20` [[2026-10-20-exclusive-bytedance-alibaba-tencent-place-over-35-billion-wo|EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders]]
 - `2026-10-20` [[2026-10-20-cloudflare-previews-clairic-a-model-for-structured-document|Cloudflare previews Clairic, a model for structured document extraction]]
 - `2026-10-20` [[2026-10-20-china-launches-state-owned-company-to-develop-national-ai-da|China launches state-owned company to develop national AI data resources]]
+- `2026-10-20` [[2026-10-20-anthropic-s-s-1-underscores-compute-heavy-unit-economics|Anthropic's S-1 underscores compute-heavy unit economics]]
+- `2026-10-20` [[2026-10-20-amazon-s-ai-buildout-is-draining-cash|Amazon's AI buildout is draining cash]]
 - `2026-10-20` [[2026-10-20-alibaba-says-its-xuantie-risc-v-designs-underpin-more-than-6|Alibaba says its XuanTie RISC-V designs underpin more than 6 billion shipped chips]]
 - `2026-10-19` [[2026-10-19-october-20-2026-the-information|[October 20, 2026] · The Information]]
 - `2026-10-19` [[2026-10-19-october-20-2026-pitchbook|[October 20, 2026] · PitchBook]]

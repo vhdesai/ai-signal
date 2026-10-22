@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
+- 2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane
+- 2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr
 - 2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in
-- 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 embedding_id: 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Chief Strategy Officer Jason Kwon confirmed in a Tokyo interview that the
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense]] · [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]]
+**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense]] · [[2026-10-22-chinese-ai-agent-reportedly-linked-to-cyberattacks-on-japane]] · [[2026-10-22-japanese-analysis-links-chinese-ai-tooling-to-a-broader-intr]] · [[2026-09-24-openai-to-supply-ukraine-s-cyber-teams-with-models-and-1b-in]]
 <!-- graph:end -->

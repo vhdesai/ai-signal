@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro
 - 2026-10-01-reports-cover-openai-departures-over-information-handling-al
 - 2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse
+- 2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian
 - 2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm
-- 2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems
 embedding_id: 2026-10-19-u-s-orders-deepseek-off-federal-civilian-agency-systems
 event_name: ''
 ---
@@ -46,5 +46,5 @@ DHS ordered civilian agencies to remove DeepSeek products and related tools. The
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]] · [[2026-10-19-u-s-moves-to-ban-deepseek-from-government-agency-it-systems]]
+**Related:** [[2026-10-20-us-orders-federal-agencies-to-remove-china-s-deepseek-ai-fro]] · [[2026-10-01-reports-cover-openai-departures-over-information-handling-al]] · [[2026-10-20-policymodel-provenancenewly-public-dhs-order-excludes-deepse]] · [[2026-10-20-dhs-order-removes-deepseek-technology-from-federal-civilian]] · [[2026-10-13-labs-offer-uk-lawmakers-conditional-model-withdrawal-commitm]]
 <!-- graph:end -->
